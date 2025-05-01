@@ -1,0 +1,2923 @@
+ 
+ 
+JTC Environmental Site 
+Assessment (ESA) Requirements 
+and Technical Guideline 
+ 
+(2024 EDITION) 
+(This version is edited on 1st Feb 2024) 
+ 
+ 
+SUMMARY OF AMENDMENTS  
+ 
+2024 Edition Version 1 
+ 
+Rename of document 
+Renamed to JTC Environmental Site Assessment (ESA) 
+Requirements and Technical Guideline 
+Overall update of EBS 
+to ESA 
+All terms of reference on Environmental Baseline Study 
+changed to Environmental Site Assessment  
+Section 1.1 
+Added ESA Requirements as part of JTC ESA 
+Requirements and Technical Guideline 
+Section 7.1 
+Updated requirement for entry and exit ESA 
+APPENDIX A.1. 
+Updated contact for assistance on ESA 
+Updated information for declaration form 
+ 
+ 
+Version 6 
+ 
+Section 2.3 
+Revised the NEA’s website on the list of third party 
+specialist consultants  
+Section 7.2 
+Added requirement on remediation proposal 
+ 
+ 
+Version 5 
+ 
+Section 2.3 
+Revised the NEA’s website on the list of third party 
+specialist consultants  
+Section 5.2.2 
+Updated to adopt the EBS data information excel 
+template (Dutch Standard 2013) 
+Section 5.2.3 
+Added requirement on EBS BH location 
+Section 7.1 
+Added requirement for entry and exit EBS 
+Section 7.2 
+Added requirement on establishment of extent of 
+contamination 
+Section 7.3 
+Revised requirement on certification of remediated sites 
+APPENDIX A.1. 
+Updated the link for EBS data information excel 
+template (Dutch Standard 2013) 
+ 
+ 
+Version 4 
+ 
+Section 2.3 
+Revised the NEA’s website on the list of third party 
+specialist consultants  
+APPENDIX A.1. 
+Revised contact list 
+Added in definition for change of use 
+Version 3 
+ 
+Section 6.4.3 
+Added in no use of glue requirement for groundwater 
+monitoring well installations 
+Section 7.2 
+Added in remediation procedure 
+Version 2 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+Section 2.3 
+Revised the NEA’s website on the list of third party 
+specialist consultants  
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+Table of Contents 
+1.0 
+ INTRODUCTION 
+5 
+1.1 
+ENVIRONMENTAL SITE ASSESSMENT (ESA) REQUIREMENTS 
+5 
+2.0  ESA TECHNICAL GUIDELINE AND PROCEDURE 
+7 
+2.1 
+The six-step ESA procedure 
+7 
+2.2 
+Acquisition of data or information 
+8 
+2.3 
+Engagement of a qualified consultant 
+8 
+3.1 
+Investigation Documents 
+8 
+4.0 
+ STEP 2 PRELIMINARY INVESTIGATION 
+10 
+4.1 
+Objectives 
+10 
+4.2 
+Scope of Work 
+10 
+5.0 
+STEP 3 DEVELOPMENT OF INVESTIGATION STRATEGY 
+11 
+5.1 
+Field Investigation Objectives 
+11 
+5.2 
+Sampling Strategies 
+11 
+5.3 
+Sampling of Other Media 
+13 
+5.4 
+Further investigation 
+13 
+5.5 
+Quality Assurance/Quality Control 
+13 
+6.0 
+STEP 4 FIELD INVESTIGATION 
+14 
+6.1 
+Permitting/H&S Consideration 
+14 
+6.2 
+Detection and Protection of Utility Infrastructure 
+14 
+6.3 
+Techniques and Soil Sampling Methods 
+15 
+6.4 
+Monitoring Well Installation 
+17 
+6.5 
+Well Decommissioning 
+20 
+6.6 
+Groundwater Sampling Methods 
+21 
+6.7 
+Equipment Decontamination 
+21 
+6.8 
+Elevation and Coordinates Survey 
+21 
+6.9 
+Sample Handling and Documentation 
+21 
+
+--------------------------------------------------------------------------------
+ 
+ 
+6.10 Methods of Analysis 
+21 
+6.11 Waste Management 
+22 
+7.0 
+STEP 5 SELECTION OF SOIL AND GROUNDWATER QUALITY 
+STANDARDS OR SCREENING LEVEL 
+22 
+7.1 
+Standard of Assessment 
+22 
+7.2 
+Remediation 
+23 
+7.3 
+Certification of Remediated Sites 
+24 
+8.0 
+STEP 5 REPORTING 
+24 
+8.1 
+General Structure 
+24 
+9.0 
+ CONCLUSIONS 
+25 
+APPENDIX A.1. 
+26 
+APPENDIX A.2. TYPES OF INDUSTRIES AND THEIR POSSIBLE COCS 
+30 
+APPENDIX A.3. LABORATORY METHODS 
+31 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+1.0  
+Introduction 
+ 
+Previously known as JTC EBS (Environmental Baseline Study), JTC Environmental 
+Site Assessment (ESA) involves an intrusive soil and groundwater investigation 
+conducted to establish the level of potential contaminants in soils and groundwater 
+beneath a site and to determine the suitability of the site’s intended usage. If 
+contamination is observed at the end of occupancy, remediation/decontamination will 
+be required. 
+ 
+With increasing scarcity of land and industrial land in Singapore, there is a need for 
+JTC as a landowner/developer to safeguard the land from contamination to allow the 
+land to be suitable for the next user. In the absence of legislation for soil and 
+groundwater contamination, JTC imposes ESA requirements through contractual 
+agreement as part of land transaction on land occupiers to ensure that the land is not 
+being contaminated throughout the tenure.  
+ 
+1.1 
+Environmental Site Assessment (ESA) Requirements 
+ 
+1. Land occupier1 is required to conduct ESA (“Entry ESA”) at the point of 
+imposition of ESA requirements to determine the presence/levels of minerals, 
+hydrocarbons and chemicals on and beneath the site in accordance with the 
+requirements in the sections below.  
+ 
+2. It is land occupier’s responsibility to appoint a NEA-listed ESA consultant to 
+conduct Entry ESA and submit the ESA report within 6 months from the date 
+of commencement/ acceptance/ consent (whichever applicable for the 
+transaction) for JTC’s acceptance. For clarity, if no Entry ESA was accepted by 
+JTC, land occupier will be required to decontaminate the site to the levels in 
+the DIV at the point of exit.  
+ 
+3. The Entry ESA will be used to establish the existing site condition.  
+ 
+4. In the event the contamination level in the Entry ESA exceeds Dutch 
+Intervention Values (DIV), the ESA report needs to include a risk assessment 
+and comply with the recommendations set out in the assessment to ensure that 
+the site is suitable for its intended usage. Further technical details can be found 
+in Section 7.1 of this document.  
+ 
+5. If the results of the Entry ESA indicate that the contamination level exceeds 
+DIV, and if the Entry ESA shows that the land occupier is responsible for the 
+contamination or it is assessed that the land occupier is the polluter, land 
+occupier will be required to remediate/ decontaminate the site to DIV and 
+submit an updated ESA after completion of the decontamination. 
+ 
+6. At the point of exit (i.e. at the end of lease / tenancy/ TOL/ wayleave term 
+whichever is applicable), land occupier will be required to carry out another 
+ESA (“Exit ESA”) to determine if remediation/ decontamination is required. 
+Land occupier will also need to appoint NEA-listed ESA consultant to conduct 
+Exit ESA. 
+ 
+7. If the result of the Exit ESA indicates that the level of minerals, hydrocarbons 
+and chemicals present at the time of the Exit ESA exceeds that of applicable 
+ESA (i.e. Entry ESA or Dutch Intervention Values (DIV) whichever is less 
+stringent), land occupier will need to remediate and decontaminate to the levels 
+ 
+1 Land occupier refers to JTC Customers who are contracted to JTC as lessees, tenants or 
+licensees.  
+
+--------------------------------------------------------------------------------
+ 
+ 
+in the applicable ESA, and to the Authorities and JTC’s satisfaction. If the 
+contamination in Exit ESA is assessed to be caused by others, evidence shall 
+be provided to JTC for evaluation and acceptance on case-by-case basis. 
+ 
+8. In case of assignment/ transfer of ownership,  
+(i) 
+For sites with existing ESA baseline established, the seller is required 
+to conduct Exit ESA prior to exit of site. If the result of the Exit ESA 
+indicates that the level of minerals, hydrocarbons and chemicals 
+present at the time of the Exit ESA exceeds that of applicable ESA (i.e. 
+Entry ESA or Dutch Intervention Values (DIV) whichever is less 
+stringent), seller will need to remediate and decontaminate to the levels 
+in the applicable ESA, and to the Authorities and JTC’s satisfaction. The 
+buyer can choose to undertake the same baseline condition and take 
+over the ESA responsibilities (i.e. to conduct Exit ESA and 
+decontaminate the site at the point of exit if results of Exit ESA exceeds 
+that of applicable ESA). 
+ 
+(ii) 
+For sites without existing ESA baseline established, the seller is 
+required to conduct ESA prior to exit of site to establish the baseline. If 
+the results of the ESA indicate that the contamination level exceeds DIV 
+and, the ESA report shows that the seller is responsible for the 
+contamination or it is assessed that the seller is the polluter, the seller 
+will be required to decontaminate the site to DIV. The buyer can choose 
+to undertake the requirement to conduct ESA and establish the 
+baseline. For clarity, para 1 to 8 above will be applied to the buyer.  
+ 
+9. It is the land occupier’s responsibility to ensure that the Exit ESA is dated no 
+earlier than 4 months before the return of site to JTC.  
+ 
+10. JTC reserves the right to request for lessee to conduct further study if the ESA 
+reports are inconclusive or non-satisfactory. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+2.0  
+ESA Technical Guideline and Procedure 
+ 
+The ESA efforts shall determine the environmental setting and hydro-geological 
+condition of the site at the time of site assessment.  Basically, the study shall provide 
+an overall picture of the existing soil and groundwater conditions in the context of 
+subsurface contamination.   Each study is to be planned as part of the continual 
+monitoring program through which changes in conditions at the site can be 
+documented, assessed, and updated. 
+ 
+This technical guideline is developed to provide the responsible parties necessary 
+guidance for conducting ESA for assessing contamination of a site. This Guideline 
+shall be read in conjunction with Section 7, Control of land pollution and remediation 
+of contaminated sites, of Code of Practice on Pollution Control. 
+ 
+2.1 
+The six-step ESA procedure 
+ 
+An environmental site assessment may include the following six steps: 
+ 
+Step 1 Development of Work Plan  
+ 
+• 
+Investigation Documents (Work Plan, Health, Safety and Environment Plan) 
+ 
+Step 2 Preliminary investigation  
+ 
+• 
+Objectives 
+• 
+Scope of work (Desktop Investigation, site reconnaissance, development of 
+Conceptual Site Model (CSM)) 
+ 
+Step 3 Development of investigation strategy  
+ 
+• 
+Field Investigation Objectives  
+• 
+Sampling Strategies (Determining Sampling Media, Determining Analytes, 
+Sampling Locations and Numbers) 
+• 
+Sampling of Other Media  
+• 
+Further investigation  
+• 
+Quality Assurance/Quality Control  
+ 
+Step 4 Field investigation  
+ 
+• 
+Permitting/H&S Consideration 
+• 
+Detection and Protection of Utility Infrastructure  
+• 
+Techniques and Soil Sampling Methods (Sampling Depths and Intervals, 
+Sample Collection, Soil Screening, Sample Logging, Borehole Reinstatement) 
+• 
+Monitoring Well Installation (Well Construction Materials, Installation Details, 
+Well Completion, Well Development) 
+• 
+Well Decommissioning (Grouting from Bottom to Top) 
+• 
+Groundwater Sampling Methods  
+• 
+Equipment Decontamination 
+• 
+Elevation and Coordinates Survey  
+• 
+Sample Handling and Documentation  
+• 
+Methods of Analysis  
+• 
+Waste Management (Disposal of Wastes, Spill Control and Management) 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+Step 5 Selection of soil and groundwater quality standards or screening level  
+ 
+• 
+Standards of Assessment    
+• 
+Remediation 
+• 
+Certification of Remediated Site 
+ 
+Step 6 Reporting 
+ 
+• 
+Report submission 
+• 
+Self-Declaration checklist (in Appendix A.1.) 
+ 
+2.2 
+Acquisition of data or information 
+ 
+The data or information needed to conduct an ESA can be acquired from the following 
+sources, but not limited to: 
+ 
+• 
+Clients: building plans, permits and licences, manufacturing processes, 
+historical use etc. 
+• 
+SLA: land title records 
+• 
+MINDEF: aerial photographs, topography maps, and road maps 
+• 
+Other government departments and statutory boards, e.g. PCD of NEA. 
+ 
+ESA data or information acquisition is generally an iterative process.  Adequacy of data 
+or information should be constantly reviewed and evaluated.  When data or information 
+is lacking or missing, additional data or information acquisition shall be considered.  
+ 
+2.3 
+Engagement of a qualified consultant 
+ 
+An ESA shall be carried out by the responsible parties who may appoint a qualified 
+consultant to undertake the ESA on their behalf.  The responsible parties should check 
+that their consultants are qualified and have proven capability and experience in the 
+site assessment work (including ESA) or other relevant works.  The qualified 
+consultants shall be responsible for providing technical support and supervision 
+throughout the progress of the work. The responsible parties or their consultants shall 
+also ensure that only accredited laboratory is to be engaged for the analyses.  A list of 
+third-party specialist consultants is provided by the NEA and can be found at 
+https://www.nea.gov.sg/our-services/development-control 
+(site 
+assessment 
+and 
+site 
+remediation). 
+ 
+3.0 
+Step 1 Development of Work Plan 
+ 
+3.1 
+Investigation Documents 
+ 
+For documentation purposes, the ESA Consultant shall prepare (i) a Work Plan, and 
+(ii) a Health, Safety and Environment Plan (H&S Plan). Findings from the preliminary 
+investigation will feed into the H&S plans and refine the Work Plan. These plans are 
+live documents and should be updated after the findings of the preliminary 
+investigation.  
+ 
+ 
+3.1.1 Work Plan 
+ 
+The Work Plan is a document that details how the ESA Consultant proposes to carry 
+out the ESA. The ESA Consultant shall prepare an initial Work Plan that includes but 
+not be limited to the following:  
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+a.   Overall ESA objectives; 
+b. Specific field investigation objectives (after preliminary investigation); 
+c. Background information and site history; 
+d. Breakdown of project-related tasks; 
+e. Equipment to be used; 
+f. 
+ESA team organization including the ESA Consultant’s key personnel’s roles 
+and responsibilities, selected laboratory, environmental drilling contractors and 
+other personnel/contractors involved in the ESA; 
+g. Existing/previous layout plan and description on land use; and 
+h. Schedule or timeline for completion. 
+ 
+The Work Plan will also include quality control and quality assurance procedures such 
+as:  
+a.   Sampling strategy; 
+b. The type and quantity of data needed; 
+c. How and where the data will be obtained; 
+d. How the acquired data will be analysed; 
+e. Quality assurance and quality control activities to assess the quality 
+performance criteria; and 
+f. 
+A declaration that the consultant had adopted the standard procedures in 
+accordance to this set of guidelines. 
+ 
+The Work Plan shall be attached as an Appendix to the ESA report(s). 
+ 
+3.1.2 Health, Safety and Environment Plan 
+ 
+A Health, Safety and Environment Plan (H&S Plan) is a document that details how the 
+ESA Consultant will identify and manage site-specific health, safety and environment 
+hazards associated with the proposed ESA. The H&S Plan shall include but not be 
+limited to the following: 
+ 
+a.   Risk Assessment 
+A site-specific health and safety risk assessment should detail all the job tasks 
+to be carried out during the ESA as well as the associated hazards and the 
+additional controls that must be in place to eliminate or minimise the hazards. 
+ 
+b.   Health and Safety Measures 
+Details of safe work practices and control measures used to reduce or eliminate 
+general potential hazards should be provided in this section. These safe 
+practices and controls should cover general practices and housekeeping, 
+hazard communication, dangerous chemicals, manual lifting, fire prevention, 
+heights and falls, electrical hazards, biological hazards, etc.  
+ 
+c.  Pollution Control Measures 
+Preventive measures to address noise, odour, dust, air and water pollution 
+should be provided in this section to ensure field work to be conducted in 
+compliance with the standard of the relevant authorities. 
+ 
+d. Personal Protective Equipment (PPE) 
+The list of general hazards and the appropriate PPE required should be 
+provided in this section. Standard PPE should be worn by all personnel in the 
+field at all times, in compliance with the Workplace Safety and Health Act (Cap. 
+354A) or other relevant Ministry of Manpower (MOM) requirements. 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+e. Emergency Response Plan 
+The emergency response plan should identify the location of on-site first aid 
+and telecommunication available, provide a list of emergency telephone 
+numbers, indicate the evacuation routes, assembly areas and route to hospital, 
+etc. 
+ 
+4.0  
+Step 2 Preliminary Investigation 
+ 
+The Preliminary Investigation (PI) forms the initial phase of all investigations. It involves 
+a desktop investigation and site reconnaissance. This is a largely non-intrusive survey 
+that provides data from which a preliminary Conceptual Site Model (CSM) can be 
+developed. 
+ 
+4.1 
+Objectives 
+ 
+The objectives of conducting a PI are: 
+ 
+a. To develop a preliminary CSM for the site; 
+b. To identify potential sources of contamination and recognised environmental 
+conditions(RECs) in connection with the historical and current site activities; 
+c. To identify the potential on-site and off-site human and environmental 
+receptors; 
+d. To identify potential migration pathways, transport mechanisms and exposure 
+pathways of the soil and groundwater contamination; 
+e. To identify the potential impacts of contamination to on-site and off-site 
+receptors; 
+f. 
+To gather information useful for developing the sampling program for the ESA; 
+and 
+g. To identify the probability of potential off-site sources of contamination that 
+could affect the environmental condition of the site. 
+ 
+4.2 
+Scope of Work 
+ 
+4.2.1 Desktop Investigation 
+ 
+The minimum information that must be obtained during the desktop investigation is as 
+follows: 
+ 
+a. Site identification – site name, address or lot number/postal code, land/property 
+ownership; 
+b. Site location – site boundaries, surrounding land uses, land use zoning, 
+presence of surface water bodies and groundwater extraction wells, sensitive 
+receptors (schools, child care centres, etc.) within 500 metre (m) radius, and 
+underground services or structures in the site vicinity; 
+c. Historical and current land use(s), the types of industry, activities, unit operation 
+and chemical used, previous ESA, environmental incidents and potential 
+existing soil/groundwater risks; 
+d. Future intended land use; and 
+e. Regional and site geological/hydrogeological information. 
+ 
+4.2.2 Site Reconnaissance 
+ 
+The purpose of site reconnaissance is to obtain information indicating the likelihood of 
+identifying RECs in conjunction with the site activities. The site reconnaissance shall 
+consist of: 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+a. A walkover inspection of the site and within a 250 m radius from the site 
+boundaries. On-site inspection shall include identification of potential areas and 
+chemicals 
+of 
+concerns 
+(such 
+as 
+chemical 
+storage 
+areas 
+and 
+underground/aboveground tanks), condition of site covering (such as surface 
+material and condition, effect on the potential for contaminant ingress), site 
+topography, surface staining, stressed vegetation, and location of aboveground 
+as well as underground utilities/piping; 
+b. Interviews with relevant facility or site personnel to gather relevant current and 
+historical site information; 
+c. Review of the site’s general operations process flow and process waste 
+handling; 
+d. Identification of potentially sensitive receptors; and 
+e. Collection of photographs of areas of potential concern, neighbouring land uses 
+and other relevant observations related to potential land contamination. 
+ 
+Additional guidance for desktop investigation and site reconnaissance can be found in 
+American Society for Testing and Materials (ASTM) E-1527-13 (Standard Practice for 
+Environmental Site Assessments: Phase I Environmental Site Assessment Process), 
+or the latest version, to the extent practicable in Singapore. 
+ 
+4.2.3 Development of Conceptual Site Model (CSM) 
+ 
+A CSM shall be generated based on the information obtained from the desktop 
+investigation and site reconnaissance. Basic components of a CSM are as follows: 
+ 
+a. General setting of the site within a local and regional context (land use, 
+topography, geology/hydrogeology, etc.); 
+b. Potential sources of contamination and release mechanisms; 
+c. Potential migration pathways; 
+d. Potential exposure pathways; and 
+e. Potential sensitive receptors. 
+ 
+The CSM should be consistent with the complexity of the site and identified issues. 
+Additional guidance for CSM development can be found in ASTM E1689-95 
+(Developing Conceptual Site Models). 
+ 
+5.0 
+Step 3 Development of Investigation Strategy 
+ 
+5.1 
+Field Investigation Objectives 
+ 
+For ESA to establish the initial condition of the site, the objective of the intrusive field 
+investigation is to collect representative and reliable soil and groundwater data (or 
+other media, where applicable) at the suitable locations to confirm and refine the CSM 
+developed during the preliminary investigation. The information gathered during 
+intrusive field investigations are used to provide technically justified conclusions on 
+site contamination. 
+ 
+Site investigations for other purposes (such as spill and leak investigation or additional 
+ESA to close out identified data gaps) may require more specific objectives and 
+therefore a different sampling/investigation strategy. 
+ 
+5.2 
+Sampling Strategies 
+ 
+Based on the preliminary investigation findings, the locations, quantity and types of 
+samples to be collected should be identified. The ESA consultant should take a 
+
+--------------------------------------------------------------------------------
+ 
+ 
+conservative approach to manage uncertainties and ensure the ESA is robust and 
+defensible. 
+ 
+5.2.1 Determining Sampling Media 
+ 
+As a minimum, soil and groundwater samples shall be collected at the site for baseline 
+ESA. Additional/supplementary investigation may require sampling of other media 
+such as soil vapour, surface water, sediments, and biological media, as necessary or 
+where applicable. 
+ 
+5.2.2 Determining Analytes 
+ 
+For the ESA purpose, contaminants of concern (COCs) are typically identified on the 
+basis of a site inspection, review of available information, and a site history review.  
+Given that the investigation required is an environmental site assessment, analytes 
+covering known future or expected chemicals to be used on the site (not necessarily 
+used on the site in the past or at the time of the ESA investigation) should also be 
+included in the analytical regime, where possible. 
+ 
+Appendix A.2 lists the possible COCs of some typical industries in Singapore, 
+including refineries, electronics, shipbuilding, wood-based furnishing, petrol stations, 
+electro-plating, and waste treatment factories.  It is worth to note that the listed COCs 
+are not exhaustive.  In the cases where the industries or manufacturing-specific 
+chemicals are not listed in this Guideline, the responsible parties and their qualified 
+consultants shall determine the COCs based on their best professional judgement. 
+ 
+As a minimum for baseline ESA, the analytes to be tested shall be the full suite of 
+analytes as referenced in the most recent version of the Dutch Environmental 
+Guidelines Soil Remediation Circular (Dutch Guidelines). Please refer to APPENDIX 
+A.1 for further information. 
+ 
+ 
+Analysis of other media, other analytes (e.g. asbestos, dioxin/furan, radioactive 
+materials, perfluorooctanoic acid (PFOA), perfluorooctanesulfonic acid (PFOS), etc.), 
+or other test methods (e.g. Toxicity Characteristics and Leaching Procedure (TCLP), 
+Synthetic Precipitation Leaching Procedure (SPLP), etc.) shall be based on the current 
+and historic land use of the site and the purpose of the investigation. 
+ 
+5.2.3 Sampling Locations and Number 
+ 
+Sampling locations should focus on the areas which have been identified as areas of 
+potential concern in the preliminary investigation, such as confirmed RECs, chemicals 
+or petroleum products storage areas, waste oil storage and disposal areas, areas with 
+visual/written evidence of potential leakage or spillage of chemicals or petroleum 
+product, waste or sludge burial areas, etc. 
+ 
+For sites located near the sea or water sources, down gradient and site boundary 
+sampling locations should be considered. This will be useful in providing information 
+about contaminants migration to the water bodies. 
+The number of boreholes for soil sampling should be based on a site area and type of 
+land use. Additional locations should be selected in identified areas of concern. 
+A guide is given below for the minimum number of boreholes (Table 1) for a baseline 
+ESA.  
+ 
+Table 1 – Minimum Borehole for ESA 
+
+--------------------------------------------------------------------------------
+ 
+ 
+Area (m2) 
+ 
+≤10,000 
+10,001 – 50,000 
+50,001 – 100,000 
+>100,000 
+5 
+8 
+11 
+20 
+ 
+ESA consultant shall be required to submit a location plan showing the potential area/s 
+and chemical/s of concerns from Section 4.2.2.  The location plan shall indicate the 
+location of ESA boreholes.  ESA consultant shall be required to provide rationale for 
+siting of boreholes in relation to the potential area/s and chemical of concerns.  If the 
+ESA Consultant fails to select representative sampling location without any valid 
+explanation, JTC reserve the right to request for additional ESA borehole at appropriate 
+location/s during the review of ESA report. 
+ 
+Based on the site-specific conditions and sampling objectives, the ESA Consultant 
+may not require converting all boreholes into monitoring wells. However, at least 60% 
+of the boreholes or a minimum of three (3), whichever is higher, must be converted 
+into monitoring wells in order to generate groundwater elevation contours for 
+estimation of groundwater flow direction. 
+ 
+5.3 
+Sampling of Other Media 
+ 
+Sampling strategy for other media such as soil vapour, surface water, sediments or 
+biological media shall be proposed by the ESA Consultant based on internationally 
+recognised practices, guidelines, or standards such as the ASTM. 
+ 
+Likely scenarios that would require sampling of other media include but are not limited 
+to: 
+ 
+a. Surface water sampling – observable presence or indication of contamination 
+originating from the site in adjacent or down gradient surface water (areas used 
+or intended to be used for drainage purposes and water areas such as 
+reservoirs, ponds, rivers and other water channels); 
+b. Soil vapour/gas sampling – presence of volatile contaminants in soil or 
+groundwater that may pose risks of vapour intrusion into buildings or vapour 
+inhalation (indoor or outdoor) by human receptors. Ambient indoor air 
+monitoring may be conducted in conjunction with soil vapour sampling; 
+c. Sediment sampling – typically considered only for foreshore sites or when the 
+site is at close proximity to natural or unlined water bodies. Collection of shallow 
+(less than 0.25 m below ground surface (bgs)) sediment material samples from 
+intertidal zones or shallow water bodies to assess potential presence of 
+contaminants or provide characterisation of sediment conditions; 
+d. Biota sampling – when evaluating how contaminants are accumulated in the 
+food chain or looking for evidence of short or long range transport of the said 
+contaminants. Risk assessment to be based on known ecological report of the 
+contaminant. 
+ 
+5.4 
+Further investigation 
+ 
+A baseline ESA may lead to additional or supplementary investigations if the overall 
+ESA objectives are not met, or if the findings recommend further actions. Further 
+investigations may need an updated or new set of investigation strategies. 
+ 
+5.5 
+Quality Assurance/Quality Control 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+To achieve quality fieldwork, including all actions, procedures, checks and decisions 
+undertaken to ensure the representativeness and integrity of samples and worksite 
+safety, the ESA Consultant is required to provide full-time site supervision during the 
+whole period of soil, groundwater or other media sampling. 
+ 
+It is recommended that quality assurance and quality control (QA/QC) samples should 
+include: 
+ 
+a. Trip Blank – a trip blank ratio of one (1) trip blank per shipment; 
+b. Equipment Blank – one (1) equipment blank per day of sampling. Equipment 
+blanks should be collected from final rinse water after equipment 
+decontamination is completed as it is poured over the equipment being 
+decontaminated; 
+c. Duplicate Sample - A minimum of 1 duplicate soil per 20 samples and 1 
+duplicate groundwater per 10 samples are to be collected. For large scale and 
+complex projects involving more than one laboratory, inter-laboratory 
+duplicates should be considered to ensure data from primary laboratory is 
+checked for quality; and 
+d. Field Blank – One (1) daily field blank for projects is recommended where 
+applicable (e.g. at sites where high volatile organic compound (VOC) 
+concentration in the atmosphere is suspected). 
+ 
+For QA/QC purpose, the laboratory should be independent from the parties involved 
+in the sample collections. The ESA Consultant or drilling subcontractor should not be 
+associated to the laboratory conducting the analysis of the samples. Laboratories are 
+required to have relevant SAC-SINGLAS accreditation to ensure quality of the 
+analytical results. 
+ 
+Field QA/QC samples should be named/labelled without reference to the type of 
+QA/QC samples and to the corresponding duplicate samples. 
+ 
+The Chain of Custody document must be prepared and submitted to the laboratory by 
+the ESA Consultant. The CoC document should include sampling date, sample 
+identification, matrix type, container information, sampler, project name and location, 
+and shipping details. A copy of the signed Chain of Custody documentation must be 
+provided as an attachment or appendix to the ESA report. 
+ 
+6.0 
+Step 4 Field Investigation 
+ 
+6.1 
+Permitting/H&S Consideration 
+ 
+All field activities must be conducted in compliance with MOM’s safety regulations and 
+other statutory requirements. All necessary documents or permits such as site access, 
+valid permits (where applicable) must be obtained prior to any intrusive site works. 
+ 
+A copy of the H&S Plan should be maintained at the site at all times during the field 
+work. The ESA Consultant and all workers are expected to observe and follow 
+appropriate health and safety procedures as stated in the H&S Plan. The H&S Plan 
+should be communicated to all workers on-site prior to start of any work through a 
+safety briefing. 
+ 
+6.2 
+Detection and Protection of Utility Infrastructure 
+ 
+Prior to sampling, the ESA Consultant should carry out all necessary works to detect 
+and protect existing transport and utilities infrastructure, such as railway, pipes, cables, 
+wires, apparatuses, appliances, equipment, installations, fittings and fixtures that 
+
+--------------------------------------------------------------------------------
+ 
+ 
+provide transportation, water, electricity, telecommunications network, gas or carry 
+water-borne sewerage. This includes purchasing relevant plans from the relevant 
+authorities or utilities service providers. However, the ESA Consultant should note that 
+some underground utilities infrastructure existing at the sites may not be shown on the 
+purchased plans. Notwithstanding this, the ESA Consultant is responsible for 
+conducting a thorough check by using appropriate equipment, carrying out trial pits or 
+carrying out other necessary steps to ensure that their works will not damage any 
+existing utilities infrastructure. 
+ 
+All relevant codes of practice, rules and regulations pertaining to transport 
+infrastructures and utilities must be complied with. Additionally, the ESA Consultant 
+should liaise with the relevant authorities and utilities service providers to obtain 
+requisite approvals prior to carry out any sampling works in the vicinity of any utilities 
+infrastructure and comply with all conditions and requirements which may be imposed 
+by such authorities and utilities service providers. Additionally, the ESA Consultant 
+should carry out all the drilling works in accordance with the requirement set out by 
+LTA/BCA. Pre-consultation with LTA/BCA shall be made if clarification is required. 
+ 
+6.3 
+Techniques and Soil Sampling Methods 
+ 
+6.3.1 General 
+ 
+The drilling methods should be selected in the context of the ESA objectives, 
+Singapore regulations, guidelines, sub-surface conditions, local equipment availability 
+and access constraints. In general, dry drilling capable of obtaining undisturbed 
+samples is preferred. Drilling fluids will not be permitted during drilling operations as 
+drilling fluids lead to soluble contaminant losses and drilling air leads to volatile losses. 
+ 
+At least 1.5 m of the borehole must be advanced using manual drilling or non-
+destructive drilling techniques such as use of hand auger, air knife or vacuum 
+excavation to confirm the absence of underground services at the borehole location. 
+Mechanical drilling, such as hollow-stem auger (with split spoon sampler), direct push 
+or solid-stem auger, may be used to advance the borehole from 1.5 m up to the 
+terminal depth. 
+ 
+Borehole diameters should be specified in the Work Plan with justification for 
+subsequent well annulus spacing. 
+ 
+6.3.2 Sampling Depths and Intervals 
+ 
+Sampling interval shall be decided on the basis of hydro-geological characteristics of 
+the subsurface strata. The sampling depths, intervals, and testing should be sufficient 
+to enable the assessment and delineation of any potential contaminants identified.  For 
+the purpose of ESA, the following sampling scheme is recommended based on 
+sampling practice and the knowledge of subsurface hydro-geological conditions in 
+Singapore.  
+ 
+For each borehole at all sites, the first soil sample shall be taken between 0.3 and 0.5 
+m below ground level (bgl).  Subsequent samples in the borehole shall be taken at 
+every 1.5 m interval (ie. 1.5 m, 3 m, 4.5 m, etc.) up to 6 m bgl or at least 2 m below 
+groundwater level, whichever is deeper. In the event where groundwater level is 
+deeper than 6 m, additional samples shall be taken at every 2.5 m interval until 20 m 
+bgl or until 2 m below groundwater, whichever is shallower.  For each borehole where 
+groundwater is encountered, the borehole should be converted to a monitoring well.  
+One groundwater sample should be collected from each monitoring well within 2 m 
+below groundwater level for further analysis. Specific mention should be made within 
+
+--------------------------------------------------------------------------------
+ 
+ 
+the sampling plan for assessing the presence of any contaminants, notably phase 
+separated hydrocarbons (PSH) or indication of similar non-aqueous phase liquids that 
+may float on the water table.  In addition, there might be some seasonal or tidal 
+fluctuation in the water table. This should be assessed and commented, where 
+applicable. 
+ 
+Due to heterogeneity and stratified nature of subsurface geology, the exact subsurface 
+hydro-geological conditions will only be known during drilling.  The pre-determined 
+sampling depth and sampling interval shall be adjusted if necessary as work 
+progresses.  If the baseline data obtained from the site characterisation are doubtful or 
+disputable, additional site characterisation may be necessary.  
+ 
+To facilitate laboratory analysis, only part of the samples collected would be tested. 
+For each borehole, the sampling for analysis/test shall include but not limited to:  
+ 
+(a) 
+one near surface top layer soil sample (0.3 to 0.5m);  
+ 
+(b) 
+one soil sample per every stratum (in addition to (a), particularly including 
+the upper boundary of any layers of low relative permeability (eg. clay), since 
+there is typically a higher potential for contaminants to accumulate there;   
+ 
+(c) 
+one soil sample from the saturated zone near the boundary with the 
+unsaturated (ie. the vadose zone – where the water table is first 
+encountered), since there is a potential for contaminants which are insoluble 
+in water (eg. phase separated hydrocarbons) to accumulate there; and 
+ 
+(d) 
+one groundwater sample.   
+ 
+More samples shall be taken for testing as deemed necessary by the responsible 
+parties and their qualified consultants. 
+ 
+For reclaimed lands, at least 40% of total boreholes should be drilled down to 2 m 
+below the original soil to provide a better characterisation of the fill material and 
+underlying original soil. 
+ 
+6.3.3 Sample Collection 
+ 
+It is recommended that soil samples be collected directly from the sampler (split spoon 
+or equivalent sampling tools). Soil samples shall be collected directly from the sampler 
+and placed into appropriate containers for headspace volatile organic compounds 
+(VOCs) screening. When a soil sample is selected for laboratory analysis, a portion 
+directly collected from the sampler shall be placed into a laboratory certified clean 
+sample container. All soil samples should be properly labelled e.g. borehole ID, depth, 
+date and project reference number. 
+ 
+Soil samples to be analysed for VOCs should be undisturbed. Soil samples for metals 
+analysis should be homogenised to provide representative analysis of actual 
+conditions. 
+ 
+The following QA/QC procedures should be followed during sample collection: 
+ 
+• 
+All sampling equipment should be decontaminated prior to and after obtaining 
+each sample where the sampling equipment is not disposable; 
+• 
+Field personnel should wear suitable types of gloves (PVC/latex/nitrile) 
+depending on contaminants of concern, whilst handling sampling equipment 
+and collecting samples; 
+
+--------------------------------------------------------------------------------
+ 
+ 
+• 
+Gloves should be replaced between the handling of each sample; 
+• 
+All samples should be properly chilled in cooler boxes immediately after sample 
+collection, prior to delivery to the accredited laboratory. 
+ 
+6.3.4 Screening 
+ 
+Field screening tools should be selected to best achieve the ESA objectives. Soil 
+samples should be headspace screened in the field during sample collection for VOCs 
+with a PID or similar equipment such as a flame ionisation detector (FID) to provide 
+on-site identification of samples likely to contain high concentrations of VOCs. It should 
+be noted that the PID/FID/handheld device should only be used for sample selection 
+and not as an alternative for laboratory test.  
+ 
+Other soil/groundwater screening tools, such as heavy metals analyser, Total 
+Petroleum Hydrocarbon (TPH) analyser, pesticide screening kit, etc., may also be 
+utilised during field work if deemed necessary for the purpose of the ESA. 
+ 
+6.3.5 Sample Logging 
+ 
+Subsurface conditions encountered at every borehole or trial pit should be logged 
+using the US Soil Classification System (USCS) and recorded in a boring log. Each 
+boring log should include the following information:  date, project/site name, borehole 
+identification, borehole location, sampler’s name, driller’s name, drilling method, depth 
+of groundwater level as observed during drilling, depth of monitoring well once 
+stabilised, screened intervals, thickness of filter pack and bentonite plug. Depths 
+should be referred to as below ground surface (bgs). 
+ 
+In addition to USCS descriptions, visual and general olfactory (odour) observations 
+should be recorded in the boring log together with any other relevant information that 
+assists development of the CSM, such as drilling resistance. 
+ 
+It should be noted that sample logging should not be limited to soil samples. The 
+descriptions should be a continual process based on undisturbed cores and/or drill 
+cuttings observations. 
+ 
+6.3.6 Borehole Reinstatement 
+ 
+Boreholes that are not to be converted into monitoring wells should be backfilled with 
+the soil cuttings from the original borehole or with clean soil from identified sources 
+and sealed with clean, low permeability material as such bentonite/cement grout. The 
+borehole surface should be reinstated in line with surrounding surface conditions. 
+ 
+6.4 
+Monitoring Well Installation 
+ 
+6.4.1 General 
+ 
+Monitoring wells should be installed at the boreholes for groundwater monitoring 
+activities. Monitoring wells should be designed such that the construction would allow 
+the presence of sufficient groundwater for sample collection in consideration of 
+groundwater level fluctuation. The monitoring well should also be appropriately 
+designed such that anticipated contaminants being targeted are captured, including 
+free phase hydrocarbons (light non-aqueous phase liquid (LNAPL) and dense non-
+aqueous phase liquids (DNAPL)). 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+6.4.2 Well Construction Materials 
+ 
+Well Casing 
+The monitoring well casing should be a clean, polyvinyl chloride (PVC) or similar inert 
+material pipe, with internal diameter of 50 mm, that can withstand the corrosiveness 
+of the anticipated chemicals present in the groundwater. The casing is composed of a 
+slotted section (well screen) and a blank section (riser pipe). 
+ 
+Filter Pack 
+The filter pack is used to fill the annular space between the borehole and the well 
+casing and should consist of clean graded gravel or coarse sand with a particle size 
+range that is sufficient to allow unrestricted entry of free phase hydrocarbons. 
+ 
+Bentonite 
+Bentonite should be used to seal or plug the well annular space to prevent the 
+infiltration of the surface water through ground surface above potentially contaminated 
+material into the filter pack and well screen. The preferred form is in pellet form to allow 
+ease of application and minimising penetration into the filter pack, which usually 
+happens in liquid bentonite or slurry. 
+ 
+Protective Cover/Casing 
+Monitoring wells should have a protective metal or steel cover where they are deemed 
+necessary. Well covers may be in the form of flush-mounted metal covers or 
+aboveground steel risers, depending on suitability and location. 
+ 
+6.4.3 Installation Details 
+ 
+Following completion of drilling, the well casing (consisting of well screen, riser and 
+bottom cap) is assembled and lowered into the borehole. The well casing must extend 
+such that the screened portion is at least 2 m below the minimum expected 
+groundwater level. The well screen must extend to at least 0.5 m above the stabilised 
+groundwater level in consideration of groundwater fluctuation. The well casing must 
+be centred within the borehole. Centralisers may be used particularly for deep well 
+installations (> 8 m bgs) to ensure proper well casing position and alignment. The 
+screen length may be adjusted accordingly for groundwater level <0.5 m bgs. 
+ 
+The borehole annular space is progressively filled with filter pack from the bottom until 
+0.5 m above the top of the screen, whenever possible, but may be adjusted accordingly 
+for groundwater level <0.5 m bgs. To eliminate possible bridging or creation of voids, 
+placement of the sand pack may require the use of a tremie pipe. Use of tremie pipe 
+is generally suggested for deep water table wells and for wells which are screened 
+some distance beneath the water table. 
+ 
+A layer of bentonite pellets, with a minimum of 0.5 m thickness whenever possible, is 
+placed immediately above the filter pack. The thickness of the bentonite layer may be 
+adjusted accordingly for groundwater level <0.5 m bgs. Care shall be taken to avoid 
+introducing bentonite into the well casing. 
+ 
+For all groundwater monitoring well installations, connections between PVC 
+slotted pipes and riser shall be made with threaded connections. No glue shall 
+be used. 
+ 
+Figure 1 illustrates the typical groundwater monitoring well construction. 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+Figure 1 – Typical Groundwater Monitoring Well Construction 
+ 
+ 
+6.4.4 Well Completion 
+ 
+Following the emplacement of the bentonite seal, each permanent monitoring well 
+should be finished by concreting either a flush mounted, metal casing/cover or 
+galvanised monument with clear well ID label on the concrete pad surface or on the 
+metal cover. The flush mounted cover is best suited to high traffic areas; covers should 
+at least provide sufficient strength to withstand normal vehicular traffic.  Proper well 
+covers can provide protection for the monitoring well from the weather, tampering, 
+vehicular movements and accidental destruction. 
+ 
+Each temporary monitoring well should be constructed with a protective casing to 
+avoid external disturbance or vandalism that may cause intrusion of potential 
+contamination into the well; temporary monitoring wells should be properly abandoned 
+as soon as reasonably possible, refer to Section 5.5 for more details. 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+6.4.5 Well Development 
+ 
+All newly constructed monitoring wells should be developed 24 hours after installation 
+to allow the bentonite grout to set. The aim of development is to create both backward 
+and forward surging action in monitoring well screen and gravel pack to breakup and 
+remove fines. Proper development of monitoring wells is essential for the collection of 
+representative groundwater samples in the wells. During the drilling, fines are forced 
+into the soil formation, forming a mud cake that reduces the hydraulic conductivity of 
+the materials in the immediate area of the well bore. To allow water to freely enter the 
+monitoring well from the soil formation being monitored, this mud cake must be broken 
+down opposite the screened portion of the well and the fines removed from the well. 
+ 
+Well development involves physical purging of each monitoring well by carefully 
+lowering the bailer into the centre of the screened portion of the monitoring well and 
+removing groundwater from the monitoring well. 
+ 
+Field parameters of groundwater should be measured during well development. These 
+include temperature, pH, redox potential, electrical conductivity (EC), and dissolved 
+oxygen (DO). These measurements should be conducted and recorded at every well 
+volume of the groundwater purged. Well development should be continued until 5 well 
+volumes are removed or if the monitoring well purges dry before 5 well volumes are 
+removed, development may be discontinued. The following information is to be 
+recorded on the groundwater sampling field data sheet: 
+ 
+• 
+Date and time; 
+• 
+Water level; 
+• 
+Purged volume; 
+• 
+Odour; 
+• 
+Colour; 
+• 
+Turbidity and field parameter values; 
+• 
+Monitoring well ID. 
+ 
+6.5 
+Well Decommissioning 
+ 
+Monitoring wells may be decommissioned when: (1) they are no longer needed in the 
+site’s monitoring program, or (2) the well’s integrity is suspect or compromised. Similar 
+terms for ‘decommissioning’ include ‘abandonment’, ‘plugging’ or ‘grouting’. The aim 
+of decommissioning is to permanently seal the well to prevent the entry of fluids or 
+contaminants from the surface and the mixing of fluids or pressures between aquifers. 
+Decommissioning by fully grouting from top to bottom is the preferred method and is 
+discussed here. However, as this is not always the most practical method, other 
+options may also be employed, including grouting from screen to surface, grouting in-
+place followed by case pulling, and over-drilling. The ESA Consultant should review 
+bore logs or well construction details and historic gauging data to determine the 
+suitability of the method. The ESA Consultant shall provide records that 
+decommissioning of the monitoring wells has been accomplished in accordance with 
+the ESA guidelines. 
+ 
+6.5.1 Grouting from Bottom to Top 
+ 
+Fully grouting from top to bottom is the simplest and most commonly used method for 
+grouting shallow monitoring wells and the only acceptable method where there is a 
+possibility the well is screened across multiple aquifers. This involves completely filling 
+the well with a cement/bentonite grout. Suggested ratio of cement to bentonite is 3-5% 
+bentonite by dry weight. Options for different cement/bentonite mix may be used 
+
+--------------------------------------------------------------------------------
+ 
+ 
+depending on suitability, provided that the mix contains sufficient bentonite to make it 
+impermeable to water but not too viscous to pump or pour into the well. The well 
+cover/protective casing should be removed, including the stick up riser and concrete 
+pad, if present. 
+ 
+For shallow wells (< 4 m), the PVC well casing may be pulled out prior to filling in with 
+grout. If not possible, the PVC well casing should be cut off at a level below the 
+surrounding concrete slab (if present). Pour or pump the grout into the well until filled. 
+Surface completion should be done to reinstate the ground in line with surrounding 
+surface conditions. 
+ 
+6.6 
+Groundwater Sampling Methods 
+ 
+6.61 
+General 
+ 
+Groundwater sample shall be collected from the monitoring well installed after the 
+completion of drilling and well development. Groundwater sampling methods available 
+include use of bailers, low flow sampling, no-purge sampling or other sampling 
+technologies following the ASTM guidelines. The selected method and rationale 
+should be clearly outlined in the Work Plan by the ESA Consultant. 
+ 
+6.7 
+Equipment Decontamination 
+ 
+The drilling/sampling tools must be cleaned prior to each use, and when transferring 
+to a new location. This is to avoid cross contamination between locations and samples 
+(soil, groundwater, sediment, etc.). 
+This can be conducted by: 
+ 
+• 
+Washing and scrubbing the tools with phosphate free detergent followed by a 
+tap water rinse; and subsequently 
+• 
+Air drying. 
+ 
+6.8 
+Elevation and Coordinates Survey 
+ 
+Newly-installed monitoring wells shall be surveyed for well and ground elevations 
+based on a known or temporary bench mark. GPS coordinates in SVY21 system must 
+also be recorded for each well. 
+ 
+6.9 
+Sample Handling and Documentation 
+ 
+The samples should be collected into the appropriate containers cleaned and supplied 
+by the accredited laboratory. Samples should be placed into a cooler box and be 
+properly chilled before being received by the laboratory. 
+ 
+Information such as project identification, sample identifications, sample matrix, 
+sampler, dates of sampling, dates and times of sample relinquishments and receipts, 
+types of analysis required, and other relevant information should be documented and 
+signed off on the Chain of Custody forms. The proper Chain of Custody procedures 
+have to be complied during sample shipments. 
+ 
+Field QA/QC samples should be named/labelled without reference to the type of 
+QA/QC samples and corresponding duplicate samples. 
+ 
+6.10 
+Methods of Analysis 
+ 
+The recommended methods of analysis for various analytes are shown in Appendix 
+
+--------------------------------------------------------------------------------
+ 
+ 
+A.3. If listed methods are not available, appropriate methods may be selected from the 
+list of approved analytical methods publishing organizations provided at the end of 
+table. 
+ 
+The laboratory’s levels/limits of reporting (LORs) should be lower than the soil and 
+groundwater quality standards or screening levels. If these LORs are not achievable 
+by the available analytical technologies in Singapore, then analysis should be 
+performed by a qualified international laboratory. 
+ 
+6.11 
+Waste Management 
+ 
+6. 11.1 Disposal of Wastes 
+ 
+Waste management controls should be anticipated prior to field investigation and 
+detailed in the Work Plan. The ESA Consultant should ensure field-derived wastes are 
+disposed of in an appropriate manner. Waste segregation should be considered based 
+on anticipated waste types: (1) those that require licensed transportation and disposal; 
+and (2) those that can be recycled or disposed of as general waste. 
+ 
+For proper disposal of contaminated soils and liquids, please refer to NEA’s list of 
+licensed toxic industrial waste collectors. 
+ 
+6. 11.2 Spill Control and Management 
+ 
+Control and management of spills should be detailed in the Work Plan and/or H&S 
+Plan. Corrective actions shall be dependent upon the size, location, type of material in 
+the spill (contaminated soil/water, etc.) and risks of environmental harm, fire or other 
+emergency situations. For small-scale spills, the spill should be contained through the 
+use of absorbents. In the event of a large spill, where there is a potential for risk of 
+injury to personnel, environmental harm and/or fire, the area must be evacuated and 
+emergency services must be notified such as the Fire Station (nearest) or Police 
+Station (nearest). Following any spill incident, JTC must be immediately notified and 
+an Incident Report is to be submitted to JTC as soon as possible. 
+ 
+7.0 
+Step 5 Selection of Soil and Groundwater Quality Standards or Screening 
+Level 
+ 
+7.1 
+Standard of Assessment 
+ 
+Entry ESA 
+ 
+Standard values are needed whereby the chemical compound levels found in the soil 
+and groundwater can be matched.  The comparison between the actual levels found 
+and the standard values will determine the level and extent of contamination of the site 
+and the appropriate remedial actions to take. 
+ 
+The latest Dutch Standards are adopted for assessing land contamination and 
+remediation. The Dutch Standards specify two sets of limits (Dutch Target Values and 
+Dutch Intervention Values) for heavy metals, inorganic compounds, aromatic 
+compounds, hydrocarbons, pesticides and other pollutants in both soils and 
+groundwater.  
+ 
+When there is an exceedance of Dutch Intervention Values (DIV) in Entry ESA, the 
+ESA consultant shall identify the potential source of contamination and provide an 
+assessment if the site is suitable for its intended usage.  
+ 
+The ESA consultant is required to perform risk assessment and provide 
+
+--------------------------------------------------------------------------------
+ 
+ 
+recommendation if there is potential human health risk. The risk assessment shall 
+include the risk arising from contamination to both construction and operational 
+scenarios of the site. As part of the risk assessment, remediation/mitigation/monitoring 
+shall also be explored or recommended to overcome the associated risks. The 
+methodology of risk assessment study shall be in accordance with Singapore Standard 
+SS593:2013 (Code of Practice for Pollution Control). 
+ 
+Exit ESA 
+ESA consultant shall refer to Entry ESA borehole locations and compare with the 
+contamination level established in Entry ESA. Comparison shall be made between 
+Entry and Exit ESA. Remediation will be required when the Exit ESA level indicates 
+that the contamination level exceeds Entry ESA (initial baseline condition) or prevailing 
+Dutch standards2 (i.e DIV), whichever is less stringent. If the contamination is 
+assessed to be caused by others, evidence shall be provided to JTC for evaluation 
+and acceptance on case-by-case basis.  
+ 
+ 
+7.2 
+Remediation  
+ 
+If the site is found contaminated, the responsible parties involved shall be required to 
+remediate the property by restoring it to either: 
+ 
+• the standards required by relevant authorities or in the absence of such 
+requirement, the prevailing Dutch Standards; or 
+• the Entry ESA /baseline established (if any) at the commencement of the 
+original lease term, whichever is less stringent.  
+ 
+However, if the original lease already contains a stipulation that decontamination back 
+to the initial baseline condition at the commencement of lease is required, no option 
+will be given to comply with whichever standard that is less stringent.  Besides, it is 
+necessary to remediate any off-site adjacent contaminated land so long as the 
+contaminant emanated from the subject site. This principle will hold even when risk 
+assessment has shown that the site is safe for occupants.  
+ 
+In order to conduct remediation, the ESA Consultant shall include but not be limited to 
+the following steps:  
+(a) establish the extent of the contamination (in terms of the area and depth) to 
+size up the scope of work. The extent of the contamination shall be proven 
+using the accredited laboratory and agreed by JTC prior to remediation.  
+While field-based analytics such as handheld scanner or field test kits could 
+be adopted for preliminary data, the extent of contamination shall be 
+established with sampling and laboratory analysis from accredited 
+laboratory. 
+ 
+(b) propose suitable remediation methods for treating contaminants to the level 
+below DIV or first ESA level, whichever less stringent and submit to JTC for 
+review. ESA Consultant shall highlight any non-compliance to the target 
+level/ standard for remediation of contaminated sites in the remediation 
+proposal. Nonetheless, JTC acceptance on the proposed remediation 
+method does not relieve ESA consultant’s responsibilities and compliances 
+to the required target level/ standard for remediation. 
+ 
+(c) conduct the remediation based on the proposed method. After 
+ 
+2 For clarity, DIV will be considered as the baseline for comparison if no entry ESA report was 
+submitted for JTC’s acceptance.  
+
+--------------------------------------------------------------------------------
+ 
+ 
+decontamination is completed, conduct retest at the same locations of the 
+affected boreholes to ascertain if the remediation met the standard 
+required. When conducting retest of the affected boreholes, there is a need 
+to retest all the contaminants instead of the exceeded contaminants only. 
+In case of uncertainty in value. The new ESA values will supersede the 
+previous ESA values as the exit ESA for the site.  
+ 
+(d) submit the revised complete ESA report that includes but not limited to the 
+remediation report, laboratory results and certification of remediation. 
+ 
+7.3 
+Certification of Remediated Sites 
+ 
+The remediated sites shall be certified by an ESA expert/specialist consultant to meet 
+the standards required. 
+ 
+The certification shall contain the following: 
+ 
+(a) a statement that the subject site has been remediated to meet the standards 
+required; and  
+(b) a statement that the certification given is a true and unbiased representation 
+of the facts and that all reasonable professional skill, care and diligence have 
+been taken in checking the facts 
+ 
+The originals or authenticated copies of the certification shall be submitted to JTC 
+Corporation for review and approval. 
+ 
+8.0 
+Step 5 Reporting 
+ 
+8.1 
+General Structure 
+ 
+In general, an ESA report should include and cover the major components as listed 
+below: 
+ 
+• 
+Executive summary; 
+• 
+Objectives and work scope; 
+• 
+Client’s business operation; 
+• 
+Declaration through the declaration checklist (in Appendix A.1) that ESA was 
+performed in accordance to the ESA guidelines or if not, highlight any 
+deviations and provide corresponding justifications; 
+• 
+Site background information including site history, site location and 
+characteristics, site layout and features, site activities, surrounding land uses, 
+topography, geology, soils, fill, hydrology and hydrogeology; 
+• 
+Site Inspection including boundary conditions, surface conditions, storage 
+tanks, other chemical use and storage, drainage, stains, odours and stressed 
+vegetation and potential COCs and areas of Concern; 
+• 
+Location plan with indication of the subject site 
+• 
+Preliminary investigation findings; 
+• 
+Regional geological and hydrogeological information; 
+• 
+Fieldwork findings, including field observations of soil and groundwater 
+characteristics, monitoring well construction and ground water levels (RL), 
+visual/olfactory observations; 
+• 
+Accurate coordinates of boreholes and monitoring wells 
+• 
+QA/QC of field and analytical data 
+• 
+Conceptual site model; 
+• 
+Assumptions; 
+
+--------------------------------------------------------------------------------
+ 
+ 
+• 
+Discussion of laboratory analytical results including determination of level of 
+contamination and assessment of potential impact; 
+• 
+Comparison of the results with the baseline (if any); 
+• 
+Qualitative or Quantitative Risk Assessment, including confidence level of the 
+assessment (e.g. 95% upper confident level); 
+• 
+To indicate any areas of non-compliances with this set of guidelines; 
+• 
+Conclusion including Potential contamination and impact to the site based on 
+laboratory analytical results, site inspection and other available information, 
+Likely nature and extent of any identified contamination and impact  
+• 
+Recommendation including requirements for remediation and follow-up actions 
+(if any)). 
+ 
+In conjunction with the reporting structure listed above, appropriate supporting 
+documents/ annexures should also be included to cover the following: 
+ 
+• 
+Plan showing sampling locations including all borehole, monitoring well, test 
+pit, etc., locations and known or anticipated groundwater flow direction.  Also 
+include any pre-existing wells. 
+• 
+Photographs of site, site condition, site layout plan indicating major/relevant 
+features 
+(e.g. 
+buildings, 
+surface 
+coverings/materials, 
+underground/aboveground storage tanks, chemical handling and storage 
+areas, etc.) and adjacent land uses; 
+• 
+Drilling methodologies; 
+• 
+Soil boring logs and groundwater monitoring well construction diagrams; 
+• 
+Field datasheets; 
+• 
+Data of soil and groundwater analytical results; 
+• 
+Original laboratory analytical report (including laboratory QA/QC reports); 
+• 
+Chain of Custody documentation; 
+• 
+Other relevant documents (e.g. PID Equipment Calibration Certificate). 
+• 
+Inventory of chemicals used in client’s operation 
+ 
+9.0  
+Conclusions  
+ 
+The above information is a brief guidance on conducting environmental site 
+assessment.  It should be noted that the various tests and experiments conducted shall 
+be accurate and professionally done so as to achieve a satisfactory environmental site 
+assessment. JTC has the discretion to require further tests, experiments, assessments 
+or investigations of similar nature, to be conducted on the Property and a subsequent 
+report furnished (at no costs to JTC), in the event any of the tests and experiments 
+conducted and/or information stated above is not to JTC’s satisfaction. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+APPENDIX A.1. 
+ 
+SELF-DECLARATION FORM FOR ENVIRONMENT SITE ASSESSMENT ("ESA") 
+    
+Please complete this Form based on the outcome of the tests carried out in accordance with JTC’s 
+Environmental Site Assessment (ESA) Requirements and Technical Guideline (2024 Edition) 
+("Guideline"). The completed Form must be submitted to JTC together with the following: 
+1. ESA Report; and  
+2. the ESA data (based on Dutch Standard 2013) in the Excel format which can be downloaded from the 
+link below: 
+https://go.gov.sg/esa-exceldata-dutchstandards2013 
+ 
+If you require any assistance completing this Form, please contact:   
+JTC Corporation  
+Technical Services Division  
+The JTC Summit 8 Jurong Town Hall Road  
+Singapore 609434  
+  
+Oh Guo Liang (Mr)  
+DID: 6883 5156 
+Email: Oh_Guo_Liang@jtc.gov.sg 
+ 
+Note: Please note that JTC collects the information contained in the completed ESA excel form and may 
+share necessary data with other Government agencies (or non-Government entities which have been 
+authorised to carry out specific Government services), unless such sharing is prohibited by legislation.  
+ 
+ 
+PARTICULARS OF LESSEE/TENANT 
+Name of Lessee: 
+(as per Accounting and Corporate Regulatory Authority registry) 
+ 
+ 
+Address of Site: 
+(Unit Number, Road Name, Allocation No. and Mukim No): 
+ 
+ 
+ 
+ (A) TYPE OF SUBMISSION:  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) New 
+Allocation 
+(b) 
+Lease/Tenancy 
+Renewal 
+(c) 
+Temporary 
+Occupation 
+License 
+(d) 
+Assignment 
+(e) Change 
+of Use3. 
+(e) 
+Expiry/Termination 
+of Lease/Tenancy 
+ 
+ (B) PURPOSE OF ENVIRONMENTAL SITE ASSESSMENT REPORT:  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Entry ESA/Set 
+baseline 
+(b) Exit ESA with 
+baseline 
+(c) Exit ESA 
+without 
+baseline 
+(d) Others  
+If Others, please specify: 
+_________________ 
+ 
+ 
+ 
+ 
+ 
+(C) CONDITIONS WHICH THE LESSEE/TENANT AND THE QUALIFIED CONSULTANT MUST COMPLY 
+WITH:   
+ 
+3 Change of use refers to change to pollutive activities. 
+
+--------------------------------------------------------------------------------
+ 
+ 
+1) The Environmental Site Assessment report submitted shall comply with the Guidelines stipulated 
+by JTC. 
+Checklist Item 
+Does it comply with the guideline? 
+If No or N.A, 
+please explain 
+why. 
+Qualified Consultant listed by NEA 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+Development of Work Plan 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+Preliminary Investigation 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+Characterization of Subsurface Conditions based on the ESA Report: 
+ 
+• sampling strategies and analysis plan 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• adequate boreholes 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• representative borehole locations 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• Sampling interval and depth 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• Near surface sample 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• Soil sample per stratum 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• Soil sample near vadose zone 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• Reclaimed land sampling requirement 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• Adequate monitoring wells 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• Groundwater Samples  
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• QA/QC 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• Determination of COC for sample 
+analysis 
+ 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• Method of Analysis 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+Determination of extent of subsurface contamination via reference to standards of assessment and based 
+on the ESA Report: 
+ 
+• 
+Site location Plan 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• 
+ Site Layout Plan 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• 
+ Site Photographs 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• 
+ Sampling locations  
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• 
+ Direction of Groundwater flow 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• 
+ Drilling methodologies 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+• 
+Soil boring logs and groundwater 
+monitoring well construction 
+diagrams  
+ 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• 
+Field Documentation  
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• 
+Data of soil and groundwater 
+analytical results  
+ 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• 
+Laboratory analytical results 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• 
+Chain of custody documentation 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• 
+Inventory of chemicals used in 
+client’s operation  
+ 
+ 
+ 
+Yes 
+ 
+ 
+No 
+ 
+ 
+N.A. 
+ 
+• 
+State the version of Guidelines, 
+Dutch Standards and other standards 
+referenced (if applicable) 
+ 
+ 
+ 
+ 
+ 
+2) Result of Soil Samples 
+a) Is all the contaminant level(s) within the Dutch Intervention Value (DIV) based on the latest 
+Dutch Standard? 
+ 
+Yes 
+ 
+ 
+No 
+ 
+b) If No, please complete the table below with a summary of the risk assessment result for both 
+construction and targeted operation. 
+ 
+Chemical of 
+Concern 
+(exceed Dutch 
+Intervention 
+Value) 
+Dutch 
+Intervention 
+Value 
+(mg/kg) 
+Range Detected 
+At Site  
+(mg/kg) 
+Number of 
+samples 
+exceeding Dutch 
+Intervention 
+Value 
+Alternative 
+Screening 
+Criteria/Site 
+Specific Target 
+Level 
+(mg/kg) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3) Result of Groundwater Samples 
+a) Is all the contaminant level(s) within the Dutch Intervention Value (DIV) based on the latest 
+Dutch Standard? 
+ 
+Yes 
+ 
+ 
+No 
+ 
+b) If No, please complete the table below with a summary of the risk assessment result for both 
+construction and targeted operation. 
+ 
+Chemical of 
+Concern 
+(exceed Dutch 
+Intervention 
+Value) 
+Dutch 
+Intervention 
+Value 
+(µg/L) 
+Range Detected 
+At Site  
+(µg/L) 
+Number of 
+samples 
+exceeding Dutch 
+Intervention 
+Value 
+Alternative 
+Screening 
+Criteria/Site 
+Specific Target 
+Level 
+(µg/L) 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4) 
+Based on the result of the tests conducted, remediation is not required. 
+ 
+Yes 
+ 
+No 
+If No, please state the possible source of contaminants and the mitigation measures. 
+ 
+__________________________________________________________________________________ 
+ 
+  
+(D) DECLARATION:  
+I am a Qualified Consultant listed by National Environmental Agency to carry out the 
+Environmental Site Assessment. 
+I confirm as follows: 
+1. 
+the information stated above is correct based on tests, experiments and requirements carried 
+out in accordance with the Guidelines; 
+2. 
+ I have not withheld any information or particulars required in the Form and I shall immediately 
+notify JTC in writing in the event of any changes in the information and particulars furnished in this 
+Form; and 
+I acknowledge that JTC has the discretion to require further tests, experiments, assessments or 
+investigations of similar nature, to be conducted on the Property and a subsequent report furnished 
+(at no costs to JTC), in the event any of the tests and experiments conducted and/or information 
+stated above is not to JTC’s satisfaction. 
+ 
+ 
+Signed by: 
+ 
+_______________________________________ 
+ENVIRONMENTAL SITE ASSESSMENT CONSULTANT 
+Name: 
+ 
+Designation: 
+ 
+Name of 
+Company : 
+ 
+Email: 
+ 
+Handphone No.: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
+APPENDIX A.2. Types of industries and their possible COCS 
+Types of Industry 
+Contaminants of Concern 
+Electronics 
+carbon tetrachloride, chloroform, 1,1-dichloroethane, 1,2-
+dichloroethane, 1,1-dichloroethylene, cis-1,2-dichloroethlene, 
+trans-1,2-dichloroethlene, trichloroethane, trichloroethylene, 
+arsenic, cadmium, chromium, lead, nickel, zinc  
+Other compounds not listed 
+Electro-Plating 
+1,1-dichloroethane, 1,2-dichloroethane, arsenic, chromium, 
+cadmium, lead, copper, nickel, acids and bases 
+Other compounds not listed 
+Petrol Stations 
+TPH, Benzene, ethyl benzene, toluene, xylene (BTEX) 
+Polycyclic Aromatic Hydrocarbons 
+Phenols 
+Lead 
+Methyl Tertiary Butyl Ether 
+Other compounds not listed 
+Petrochemicals 
+benzene, carbon tetrachloride, chlorobenzenes, chloroform, 1,1-
+dichloroethane, 1,2-dichloroethane, 1,1-dichloroethylene, cis-1,2-
+dichloroethlene, trans-1,2-dichloroethlene, ethyl benzene, 
+hexachlorobenzene, hexachlorobutadiene, hexachloroethylene, 
+phenol, styrene, tetrachloroethane, tetrachloroethyene, 
+trichloroethane, trichloroethylene, 2,4,6-trichlorophenil, 
+polychlorinated biphenyls, cadmium, chromium, copper, lead, 
+mercury, nickel, zinc 
+Other compounds not listed 
+Refineries 
+benzene, toluene, xylene, total petroleum hydrocarbons, carbon 
+tetrachloride, 1,1-dichloroethane, 1,2-dichloroethane, phenol, 
+polychlorinated biphenyls, cadmium, chromium, copper, lead, 
+mercury, zinc, PAHs 
+Other compounds not listed 
+Shipbuilding 
+Heavy metals 
+Volatile organics (solvent/paint) 
+Semi-volatile organics 
+Other compounds not listed 
+Transformers 
+/electrical 
+substations 
+Polychlorinated biphenyls (PCBs) 
+Waste Disposal 
+Site 
+1,1-dichloroethane, 1,2-dichloroethane, cadmium, chromium, 
+copper, lead, nickel 
+Other compounds not listed 
+Wood-based 
+Heavy metals 
+PAHs 
+Pentachorophenols 
+Other compounds not listed 
+Note: The above listed chemicals are some typical contaminants of concern and are 
+not exhaustive.  
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+APPENDIX A.3. LABORATORY METHODS  
+Analytes Group 
+Analytes 
+Soil 
+Groundwater 
+Metals 
+EPA 3051A 
+EPA 3052 
+EPA 3050B 
+EPA 7471B 
+APHA 3120B 
+APHA 3125B 
+EPA 6010D 
+EPA 6020B 
+EPA 7000B 
+EPA 7010 
+EPA 6010D 
+EPA 6020B 
+EPA 7000B 
+EPA 7010 
+EPA 3005 
+EPA 7470 
+APHA 3125B 
+Inorganic 
+Compounds 
+Cyanide 
+EPA 9010C 
+EPA 9014 
+APHA-4500-CN(N) 
+EPA 9010C 
+EPA 9014 
+APHA-4500-CN(N) 
+Aromatic 
+Compounds: BTEX 
+EPA 5035 
+EPA 8260C 
+EPA 8270D 
+EPA 5021A 
+EPA 8260C 
+EPA 8270D 
+EPA 5021A 
+EPA 5030 
+EPA 3510C 
+Polynuclear Aromatic 
+Hydrocarbons (PAH) 
+EPA 8310 
+EPA 8270D 
+EPA 3545A 
+EPA 8310 
+EPA 8270D 
+Chlorinated 
+Hydrocarbons 
+EPA 5035 
+EPA 8260C 
+EPA 8270D 
+EPA 8270D 
+EPA 3501C 
+Pesticides: Semi 
+Volatile 
+Organic Compounds 
+(SVOCs) 
+EPA 3545A 
+EPA 8270D 
+EPA 8270D 
+EPA 3501C 
+Other Pollutants: 
+Volatile 
+Organic Compounds 
+(VOCs) 
+Cyclohexanone 
+Phthalates (Sum) 
+Mineral Oils 
+Pyridine 
+Bromoform 
+Tetrahydrofuran 
+Tetrahydrothiophe
+ne 
+EPA 5035/ EPA 8260C / 
+EPA 5021A 
+EPA 8270D / EPA 3545A 
+/ EPA 
+8270D 
+EPA 8015B 
+EPA 5035 / EPA 8260C / 
+EPA 
+3545A / EPA 8270D 
+EPA 5035 / EPA 8260C / 
+EPA 5021A 
+EPA 8270D / EPA 5021A 
+EPA 8270D / EPA 5021A 
+EPA 5021A / EPA 
+8260C / EPA 5030B 
+EPA 3510C / EPA 
+8270D EPA 8015D 
+EPA 5030B / EPA 
+8260C 
+EPA 5021A / EPA 
+8260C / 
+EPA 5030B 
+EPA 5021A / EPA 
+8260C / 
+EPA 3510C / EPA 
+8270D 
+EPA 5021A / EPA 
+
+--------------------------------------------------------------------------------
+ 
+ 
+8260C / 
+EPA 3510C / EPA 
+8270D 
+Conventional 
+Organic Matter 
+Moisture Content 
+(dried @ 103°C) 
+pH @ 25 deg C 
+BOD 
+Chemical Oxygen 
+Demand 
+Total Organic 
+Carbon 
+Fluoride as F 
+Chloride as Cl 
+BS 1377-1:2016 
+ASTM D2974-14 
+BS 1377-1:2016 
+ASTM D2974-14 
+APHA 4500 H+B 
+APHA 5210B / APHA 
+22nd 
+Edition 2012 
+APHA 5220C / APHA 
+22nd Edition 2012 
+APHA 5310B / APHA 
+22nd Edition 2012 
+APHA 4110B / APHA 
+22nd 
+Edition 2012 
+ 
+Bromide as Br 
+Sulphate as SO4 
+Ammonia as N 
+Conductivity 
+ASTM D1179-16 
+APHA 4110B / APHA 
+22nd 
+Edition 2012 
+APHA 4110B / APHA 
+22nd 
+Edition 2012 
+APHA 4110B / APHA 
+22nd 
+Edition 2012 
+ASTM D516-16 
+APHA 4500B / APHA 
+4500N H / APHA 
+22nd 
+Edition 2012 
+APHA 2510B 
+Total Petroleum 
+Hydrocarbon (TPH) 
+EPA 5035 
+EPA 8015D 
+EPA 8440 
+EPA 3560 
+EPA 3550C 
+EPA 8015C 
+Monocyclic Aromatic 
+Hydrocarbons 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA 5030B 
+
+--------------------------------------------------------------------------------
+ 
+ 
+Oxygenated 
+Compounds 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA 5030B 
+Sulfonated 
+Compounds 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA5030B 
+Fumigants 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA5030B 
+Halogenated Aliphatic 
+Compounds 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA5030B 
+Halogenated 
+Aromatic 
+Hydrocarbons 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA5030B 
+Trihalomethanes 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA5030B 
+Phenolic Compounds 
+EPA 8270D 
+EPA 8270D 
+EPA3510C 
+PolyAromatic 
+Hydrocarbons 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Phthalate Esters 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Nitrosamines 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Nitroaromatics and 
+Cyclic Ketones 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Haloethers 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Chlorinated 
+Hydrocarbon 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+ 
+Anilines and 
+Benzidines 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Polychlorinated 
+Biphenyls 
+EPA 8270D 
+Organochlorine 
+Pesticides 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Organophosphorus 
+Pesticides 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Asbestos 
+ASTM D7521-16 
+Polarized Light 
+Microscopy 
+(PLM) 
+
+--------------------------------------------------------------------------------
+ 
+ 
+Pharmaceuticals and 
+Personal Care 
+Products 
+EPA 1694 
+EPA 1694 
+Steroids and 
+Hormones 
+EPA 1698 
+EPA 1698 
+Brominated Diphenyl 
+Ethers 
+EPA 1614A 
+EPA 1614A 
+Pesticides 
+EPA 1699 
+EPA 1699 
+Cation Exchange 
+Capacity (CEC) 
+EPA 9081 pH 7 
+Ammonium Acetate 
+CEC 
+BACl2 Compulsive 
+Exchange 
+Method 
+Toxicity 
+Characterisitc 
+Leaching Procedure 
+(TCLP) 
+VOCs, SVOCs, 
+Chlorinated 
+Pesticides and 
+Herbicides, and 
+Metals 
+EPA 1311 
+EPA 1311 
+Synthetic 
+Precipitation 
+Leaching Procedure 
+(SPLP) 
+EPA 1312 
+EPA 1313 
+EPA 1314 
+EPA 1315 
+EPA 1316 
+AS 4439 
+EPA 1312 
+EPA 1316 
+AS 4439 
+Bioavailability 
+EPA in Vitro 
+Bioaccessibility 
+Assay 
+Physiologically Based 
+Extraction Test (PBET) 
+Simplified 
+Bioaccessibility 
+Extraction Test (SBET) 
+Relative Bioaccessibility 
+Leaching Procedurer 
+(RBALP) 
+Solubility Bioaccessibility 
+Research Consortium 
+(SBRC) 
+In Vitro Gastrointestinal 
+Extraction Method (IVG) 
+Standardised German in 
+Vitro Assay (DIN) 
+Dutch National Institute 
+for 
+Public Health and the 
+Environment (RIVM) 
+
+--------------------------------------------------------------------------------
+ 
+ 
+Bioaccessibility 
+Research 
+Group of Europe 
+(BARGE 
+UBM) 
+Simulator of the Human 
+Intestinal Ecosystem 
+(SHIME) 
+Dynamic Computer-
+Controlled 
+Gastrointestinal Model 
+(TIM) 
+Hardness 
+ASTM D1126-12 
+ 
+Analytes Group 
+Analytes 
+Soil 
+Groundwater 
+Metals 
+EPA 3051A 
+EPA 3052 
+EPA 3050B 
+EPA 7471B 
+APHA 3120B 
+APHA 3125B 
+EPA 6010D 
+EPA 6020B 
+EPA 7000B 
+EPA 7010 
+EPA 6010D 
+EPA 6020B 
+EPA 7000B 
+EPA 7010 
+EPA 3005 
+EPA 7470 
+APHA 3125B 
+Inorganic Compounds 
+Cyanide 
+EPA 9010C 
+EPA 9014 
+APHA-4500-CN(N) 
+EPA 9010C 
+EPA 9014 
+APHA-4500-CN(N) 
+Aromatic Compounds: 
+BTEX 
+EPA 5035 
+EPA 8260C 
+EPA 8270D 
+EPA 5021A 
+EPA 8260C 
+EPA 8270D 
+EPA 5021A 
+EPA 5030 
+EPA 3510C 
+Polynuclear Aromatic 
+Hydrocarbons (PAH) 
+EPA 8310 
+EPA 8270D 
+EPA 3545A 
+EPA 8310 
+EPA 8270D 
+
+--------------------------------------------------------------------------------
+ 
+ 
+Chlorinated 
+Hydrocarbons 
+EPA 5035 
+EPA 8260C 
+EPA 8270D 
+EPA 8270D 
+EPA 3501C 
+Pesticides: Semi 
+Volatile 
+Organic Compounds 
+(SVOCs) 
+EPA 3545A 
+EPA 8270D 
+EPA 8270D 
+EPA 3501C 
+Other Pollutants: 
+Volatile 
+Organic Compounds 
+(VOCs) 
+Cyclohexanone 
+Phthalates (Sum) 
+Mineral Oils 
+Pyridine 
+Bromoform 
+Tetrahydrofuran 
+Tetrahydrothiophene 
+EPA 5035/ EPA 8260C / 
+EPA 5021A 
+EPA 8270D / EPA 3545A / 
+EPA 8270D 
+EPA 8015B 
+EPA 5035 / EPA 8260C / 
+EPA 3545A / EPA 8270D 
+EPA 5035 / EPA 8260C / 
+EPA 5021A 
+EPA 8270D / EPA 5021A 
+EPA 8270D / EPA 5021A 
+EPA 5021A / EPA 
+8260C / EPA 5030B 
+EPA 3510C / EPA 
+8270D EPA 8015D 
+EPA 5030B / EPA 
+8260C 
+EPA 5021A / EPA 
+8260C /EPA 5030B 
+EPA 5021A / EPA 
+8260C /EPA 3510C / 
+EPA 8270D 
+EPA 5021A / EPA 
+8260C /EPA 3510C / 
+EPA 8270D 
+Conventional 
+Organic Matter 
+Moisture Content 
+(dried @ 103°C) 
+pH @ 25 deg C 
+BOD 
+Chemical Oxygen 
+Demand 
+Total Organic 
+Carbon 
+Fluoride as F 
+Chloride as Cl 
+Bromide as Br 
+Sulphate as SO4 
+Ammonia as N 
+Conductivity 
+BS 1377-1:2016 
+ASTM D2974-14 
+BS 1377-1:2016 
+ASTM D2974-14 
+APHA 4500 H+B 
+APHA 5210B / APHA 
+22nd Edition 2012 
+APHA 5220C / APHA 
+22nd Edition 2012 
+APHA 5310B / APHA 
+22nd Edition 2012 
+APHA 4110B / APHA 
+22nd Edition 2012 
+ASTM D1179-16 
+APHA 4110B / APHA 
+22nd Edition 2012 
+APHA 4110B / APHA 
+22nd Edition 2012 
+APHA 4110B / APHA 
+22nd Edition 2012 
+ASTM D516-16 
+APHA 4500B / APHA 
+4500N H / APHA 22nd 
+Edition 2012 
+APHA 2510B 
+Total Petroleum 
+Hydrocarbon (TPH) 
+EPA 5035 
+EPA 8015D 
+EPA 8440 
+EPA 3560 
+EPA 3550C 
+EPA 8015C 
+Monocyclic Aromatic 
+Hydrocarbons 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA 5030B 
+
+--------------------------------------------------------------------------------
+ 
+ 
+Oxygenated 
+Compounds 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA 5030B 
+Sulfonated Compounds 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA5030B 
+Fumigants 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA5030B 
+Halogenated Aliphatic 
+Compounds 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA5030B 
+Halogenated Aromatic 
+Hydrocarbons 
+EPA 5035 
+EPA 8260C 
+EPA 8260C  
+EPA5030B 
+Trihalomethanes 
+EPA 5035 
+EPA 8260C 
+EPA 8260C 
+EPA5030B 
+Phenolic Compounds 
+EPA 8270D 
+EPA 8270D 
+EPA3510C 
+PolyAromatic 
+Hydrocarbons 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Phthalate Esters 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Nitrosamines 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Nitroaromatics and 
+Cyclic Ketones 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Haloethers 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Chlorinated 
+Hydrocarbon 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Anilines and 
+Benzidines 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Polychlorinated 
+Biphenyls 
+EPA 8270D 
+Organochlorine 
+Pesticides 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Organophosphorus 
+Pesticides 
+EPA 8270D 
+EPA 8270D 
+EPA 3510C 
+Asbestos 
+ASTM D7521-16 
+Polarized Light Microscopy 
+(PLM) 
+Pharmaceuticals and 
+Personal Care 
+Products 
+EPA 1694 
+EPA 1694 
+
+--------------------------------------------------------------------------------
+ 
+ 
+Steroids and Hormones 
+EPA 1698 
+EPA 1698 
+Brominated Diphenyl 
+Ethers 
+EPA 1614A 
+EPA 1614A 
+Pesticides 
+EPA 1699 
+EPA 1699 
+Cation Exchange 
+Capacity (CEC) 
+EPA 9081 pH 7 Ammonium 
+Acetate CEC 
+BACl2 Compulsive 
+Exchange 
+Method 
+Toxicity Characterisitc 
+Leaching Procedure 
+(TCLP) 
+VOCs, SVOCs, 
+Chlorinated 
+Pesticides and 
+Herbicides, and 
+Metals 
+EPA 1311 
+EPA 1311 
+Synthetic Precipitation 
+Leaching Procedure 
+(SPLP) 
+EPA 1312 
+EPA 1313 
+EPA 1314 
+EPA 1315 
+EPA 1316 
+AS 4439 
+EPA 1312 
+EPA 1316 
+AS 4439 
+Bioavailability 
+EPA in Vitro Bioaccessibility 
+Assay 
+Physiologically Based 
+Extraction Test (PBET) 
+Simplified Bioaccessibility 
+Extraction Test (SBET) 
+Relative Bioaccessibility 
+Leaching Procedurer 
+(RBALP) 
+Solubility Bioaccessibility 
+Research Consortium 
+(SBRC) 
+In Vitro Gastrointestinal 
+Extraction Method (IVG) 
+Standardised German in 
+Vitro Assay (DIN) 
+Dutch National Institute for 
+Public Health and the 
+Environment (RIVM) 
+Bioaccessibility Research 
+Group of Europe (BARGE 
+UBM) 
+Simulator of the Human 
+Intestinal Ecosystem 
+(SHIME) 
+Dynamic Computer-
+Controlled 
+Gastrointestinal Model (TIM) 
+Hardness 
+ASTM D1126-12 
+ 
+ 
+
+--------------------------------------------------------------------------------
