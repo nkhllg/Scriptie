@@ -14,12 +14,21 @@ from sentence_transformers import SentenceTransformer
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from geolocation import get_location_nominatim
 
+address = "Am Bollwerk 7"
+target_location = get_location_nominatim(address)
+print("target location found: ", target_location.get('country'))
+
 # --- Configuration ---
 load_dotenv()  # Load environment variables from .env file
 
-DATA_FOLDER = "legislation_data"  # Folder containing your text files
+DATA_FOLDER = os.path.join("..", "Data_txts", target_location.get('country', '').strip())
+print(DATA_FOLDER)
 COLLECTION_NAME = "real_estate_regulations_temp" # Use a distinct name maybe
-EMBEDDING_MODEL = 'all-MiniLM-L6-v2'  # Efficient and good quality
+# EMBEDDING_MODEL = 'all-MiniLM-L6-v2'
+# EMBEDDING_MODEL = "sentence-transformers/paraphrase-xlm-r-multilingual-v1"
+# EMBEDDING_MODEL = 'distiluse-base-multilingual-cased-v2'
+EMBEDDING_MODEL = 'paraphrase-multilingual-MiniLM-L12-v2'
+# EMBEDDING_MODEL = 'sentence-transformers/LaBSE'
 TEXT_CHUNK_SIZE = 1000  # Characters per chunk
 TEXT_CHUNK_OVERLAP = 150 # Overlap between chunks
 
@@ -76,39 +85,13 @@ def setup_qdrant_collection():
         )
         print("In-memory collection created.")
         # Optional: Create payload indexes for filtering (still useful in memory)
-        qdrant_client.create_payload_index(COLLECTION_NAME, field_name="location", field_schema=models.PayloadSchemaType.KEYWORD)
-        qdrant_client.create_payload_index(COLLECTION_NAME, field_name="Region", field_schema=models.PayloadSchemaType.KEYWORD)
-        qdrant_client.create_payload_index(COLLECTION_NAME, field_name="City", field_schema=models.PayloadSchemaType.KEYWORD)
-        qdrant_client.create_payload_index(COLLECTION_NAME, field_name="Building_type", field_schema=models.PayloadSchemaType.KEYWORD)
-        qdrant_client.create_payload_index(COLLECTION_NAME, field_name="date_iso", field_schema=models.PayloadSchemaType.KEYWORD) # Store date as ISO string
-        print("Payload indexes created.")
+        qdrant_client.create_payload_index(COLLECTION_NAME, field_name="country", field_schema=models.PayloadSchemaType.KEYWORD)
+        qdrant_client.create_payload_index(COLLECTION_NAME, field_name="region", field_schema=models.PayloadSchemaType.KEYWORD)
+        qdrant_client.create_payload_index(COLLECTION_NAME, field_name="city", field_schema=models.PayloadSchemaType.KEYWORD)
+        qdrant_client.create_payload_index(COLLECTION_NAME, field_name="building_type", field_schema=models.PayloadSchemaType.KEYWORD)
+        print("Payload indexes created for 'location' and 'date_iso'.")
 
-
-def parse_filename(filename: str) -> Optional[Dict[str, str]]:
-    """Parses location and date from filename using regex."""
-    match = FILENAME_PATTERN.match(filename)
-    if match:
-        data = match.groupdict()
-        try:
-            # Validate date format
-            datetime.strptime(data['date'], '%Y-%m-%d')
-            return {
-                "location": data['location'].replace('_', ' ').strip(), # Replace underscores if used
-                "date_iso": data['date'],
-                "description": data['desc'].replace('_', ' ').strip()
-            }
-        except ValueError:
-            print(f"Warning: Invalid date format in filename '{filename}'. Skipping metadata date.")
-            return { # Still return location if possible
-                 "location": data['location'].replace('_', ' ').strip(),
-                 "date_iso": None,
-                 "description": data['desc'].replace('_', ' ').strip()
-             }
-    else:
-        print(f"Warning: Filename '{filename}' did not match expected pattern. Skipping metadata extraction.")
-        return None
-
-def index_data_from_folder(folder_path: str, city, region, target_location):
+def index_data_from_folder(folder_path: str):
     """Reads files, chunks text, embeds, and uploads to the in-memory Qdrant."""
     print(f"\n--- Starting data indexing into memory from folder: {folder_path} ---")
     points_to_upload = []
@@ -123,10 +106,14 @@ def index_data_from_folder(folder_path: str, city, region, target_location):
         if filename.lower().endswith(".txt"):
             file_path = os.path.join(folder_path, filename)
             print(f"Processing file: {filename}...")
-            metadata = parse_filename(filename)
-            if metadata is None:
-                # Assign default metadata if parsing fails but still process the file
-                 metadata = {"location": "Unknown", "date_iso": None, "description": filename}
+
+            metadata = {
+                "country": target_location.get("country", "Unknown"),
+                "region": target_location.get("region", "Unknown"),
+                "city": target_location.get("city", "Unknown"),
+                "description": filename,
+                "building_type": "apartment"
+            }
 
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
@@ -158,13 +145,12 @@ def index_data_from_folder(folder_path: str, city, region, target_location):
                 payload = {
                     "text": chunk,
                     "original_filename": filename,
-                    "location": target_location,
-                    "region": region,
-                    "city": city,
-                    "building_type": "apartment", # change to a function later and make sure it is incorporated!
-                    "date_iso": metadata.get("date_iso"),
+                    "country": metadata.get("country", "Unknown"),
+                    "region": metadata.get("region", "Unknown"),
+                    "city": metadata.get("city", "Unknown"),
                     "description": metadata.get("description", "Unknown"),
-                    "chunk_index": i # Optional: track chunk order within file
+                    "building_type": metadata.get("building_type", "unknown"),
+                    "chunk_index": i
                 }
                 # Filter out None values from payload before creating PointStruct
                 payload = {k: v for k, v in payload.items() if v is not None}
@@ -205,20 +191,20 @@ def retrieve_relevant_context(query: str, top_k: int = 5, location_filter: Optio
     query_vector = embedding_model.encode(query).tolist()
 
     filter_conditions = []
-    if location_filter:
-        # Find docs matching the specific location OR National OR Unknown
-        filter_conditions.append(
-            models.FieldCondition(
-                key="location",
-                match=models.MatchValue(value=location_filter)
-            )
-        )
-        filter_conditions.append(
-             models.FieldCondition(key="location", match=models.MatchValue(value="National"))
-        )
-        filter_conditions.append(
-             models.FieldCondition(key="location", match=models.MatchValue(value="Unknown"))
-        )
+    # if location_filter:
+    #     # Find docs matching the specific location OR National OR Unknown
+    #     filter_conditions.append(
+    #         models.FieldCondition(
+    #             key="location",
+    #             match=models.MatchValue(value=location_filter.get('country'))
+    #         )
+    #     )
+    #     filter_conditions.append(
+    #          models.FieldCondition(key="location", match=models.MatchValue(value="National"))
+    #     )
+    #     filter_conditions.append(
+    #          models.FieldCondition(key="location", match=models.MatchValue(value="Unknown"))
+    #     )
 
     # Use a "should" filter (OR logic) if location filter is applied
     qdrant_filter = models.Filter(should=filter_conditions) if filter_conditions else None
@@ -236,15 +222,13 @@ def retrieve_relevant_context(query: str, top_k: int = 5, location_filter: Optio
     for i, hit in enumerate(search_result):
         payload = hit.payload
         context_text = payload.get('text', 'N/A')
-        location = payload.get('location', 'N/A')
-        date = payload.get('date_iso', 'N/A')
+        location = payload.get('country', 'N/A')
         filename = payload.get('original_filename', 'N/A')
-        print(f"  {i+1}. Score: {hit.score:.4f} | Location: {location} | Date: {date} | File: {filename}")
+        print(f"  {i+1}. Score: {hit.score:.4f} | Location: {location} | File: {filename}")
         # print(f"     Text: {context_text[:150]}...") # Print snippet
         context.append({
             "text": context_text,
             "location": location,
-            "date": date,
             "filename": filename,
             "score": hit.score
         })
@@ -261,34 +245,43 @@ def get_regulatory_assessment(query: str, context: List[Dict]) -> Tuple[Optional
     context_string = ""
     sources = set() # Track unique sources
     for i, item in enumerate(context):
-        source_info = f"Source {i+1}: [Location: {item['location']}, Date: {item['date']}, File: {item['filename']}]"
+        source_info = f"Source {i+1}: [Location: {item['location']}, File: {item['filename']}]"
         context_string += f"{source_info}\nContent: {item['text']}\n\n"
-        sources.add(f"{item['location']} - {item['filename']} ({item['date']})")
+        sources.add(f"{item['location']} - {item['filename']}")
 
     prompt = f"""
-You are an AI assistant specialized in analyzing real estate regulations. Your task is to assess the regulatory pressure based *only* on the provided context below.
+    You are an AI assistant specialized in analyzing real estate regulations. Your task is to assess the level of regulatory pressure strictly based on the provided legislative context.
 
-**User Query:** {query}
+    **User Query:** {query}
 
-**Context from Legislative Documents:**
---- START CONTEXT ---
-{context_string}
---- END CONTEXT ---
+    **Context from Legislative Documents:**
+    --- START CONTEXT ---
+    {context_string}
+    --- END CONTEXT ---
 
-**Instructions:**
-1.  Carefully review the provided context in relation to the user query.
-2.  Assess the level of regulatory pressure concerning "{query}". Consider factors like restrictions, landlord/developer obligations, tenant protections, complexity of compliance, etc. shown in the text.
-3.  Provide a **Regulatory Pressure Score** on a scale of 1 to 10, where:
-    *   1 means Very Low Pressure (e.g., very permissive, few restrictions, highly favorable to developers/landlords).
-    *   5 means Moderate Pressure (e.g., balanced regulations, standard compliance).
-    *   10 means Very High Pressure (e.g., very restrictive, strong tenant protections, complex and burdensome for developers/landlords).
-4.  Provide a concise **Explanation** for your score. Justify your reasoning by referencing specific information or quotes from the provided context (referencing "Source 1", "Source 2", etc. is helpful).
-5.  **IMPORTANT:** Base your entire assessment *strictly* on the provided text context. Do not use any external knowledge. If the context is insufficient or irrelevant to the query, state that clearly and assign a score of N/A.
+    **Instructions:**
+    1. Review the legislative context carefully in relation to the user query: "{query}".
+    2. Assess the level of regulatory pressure based strictly on this context. Consider quantifiable indicators such as:
+        - Number and severity of restrictions
+        - Specific obligations imposed on landlords or developers
+        - Tenant protections (e.g., eviction protections, rent caps)
+        - Compliance complexity (e.g., mandatory processes, permits, penalties)
+    3. Provide a **Regulatory Pressure Score** from 1 to 10:
+        - 1 = Very Low Pressure (few or no restrictions, favorable to landlords/developers)
+        - 5 = Moderate Pressure (balanced or standard regulatory obligations)
+        - 10 = Very High Pressure (heavy restrictions, strong tenant protections, complex compliance)
+    4. Provide a **brief explanation** (2-5 sentences), focused on **quantitative reasoning** (e.g., “The law imposes 6 separate conditions on redevelopment…”).
+    5. Identify every legislative article referenced in your explanation, including those marked with **art.**, **act.**, **§**, **article**, or any similar notation. 
+    6. Provide **verbatim translations into English** of every legislative article used to justify your score. Only include articles that directly informed your assessment.
+    7. **IMPORTANT:** Do NOT use external knowledge. If the provided context does not meaningfully relate to the user query, state that clearly and assign a score of **N/A**.
 
-**Output Format:**
-Score: [Your Score from 1-10 or N/A]
-Explanation: [Your explanation, referencing the context]
-"""
+    **Output Format:**
+
+    Score: [1-10 or N/A]
+    Explanation: [Quantitative explanation, grounded in the text]  
+    Articles Used (Translated to English):  
+    [Full translated text of each cited article]
+    """
 
     try:
         print("Sending request to OpenAI...")
@@ -327,7 +320,6 @@ Explanation: [Your explanation, referencing the context]
 
         if explanation_match:
             explanation = explanation_match.group(1).strip()
-            print(f"Explanation: {explanation}")
         else:
              print("Warning: Could not parse explanation separately. Returning full AI response as explanation.")
 
@@ -342,13 +334,10 @@ if __name__ == "__main__":
     # 1. Ensure Qdrant collection is ready (in memory for this run)
     setup_qdrant_collection()
 
-    address = "Burgemeester Fockema Andreaelaan, 3582"
-    city, region, target_location = get_location_nominatim(address)
-
     # 2. Index data into memory (MUST run each time for in-memory)
     # Since the DB is in memory, we need to load data every time the script runs.
     print("\nLoading data into the in-memory Qdrant instance...")
-    index_data_from_folder(DATA_FOLDER, city, region, target_location)
+    index_data_from_folder(DATA_FOLDER)
 
 
     # 3. Example Query and Assessment
@@ -360,7 +349,6 @@ if __name__ == "__main__":
     # query = "What are the rules for maximum rent increases?"
     # query = "Tenant eviction procedures"
     query = "Restrictions on maximum rent increase"
-    # target_location = None # Search across all locations
 
     # a. Retrieve relevant context from memory
     relevant_context = retrieve_relevant_context(query, top_k=5, location_filter=target_location)
@@ -372,7 +360,7 @@ if __name__ == "__main__":
         print("\n--- Final Assessment ---")
         print(f"Query: {query}")
         if target_location:
-            print(f"Focus Location: {target_location}")
+            print(f"Focus Location: {target_location.get('country')}")
         print(f"Retrieved Context Sources (from memory): {len(relevant_context)}")
 
         if score is not None:

@@ -10,15 +10,24 @@ from sentence_transformers import SentenceTransformer
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import chromadb
 from chromadb.config import Settings
+from geolocation import get_location_nominatim
+
+address = "Oude Delft 169"
+target_location = get_location_nominatim(address)
+print("target location found: ", target_location.get('country'))
 
 # --- Configuration ---
 load_dotenv()
 
-DATA_FOLDER = "legislation_data"
-COLLECTION_NAME = "real_estate_regulations_temp"
-EMBEDDING_MODEL = 'all-MiniLM-L6-v2'
-TEXT_CHUNK_SIZE = 1000
-TEXT_CHUNK_OVERLAP = 150
+DATA_FOLDER = os.path.join("..", "Data_txts", target_location.get('country', '').strip())
+COLLECTION_NAME = "real_estate_regulations_temp" # Use a distinct name maybe
+# EMBEDDING_MODEL = 'all-MiniLM-L6-v2'
+# EMBEDDING_MODEL = "sentence-transformers/paraphrase-xlm-r-multilingual-v1"
+# EMBEDDING_MODEL = 'distiluse-base-multilingual-cased-v2'
+EMBEDDING_MODEL = 'paraphrase-multilingual-MiniLM-L12-v2'
+# EMBEDDING_MODEL = 'sentence-transformers/LaBSE'
+TEXT_CHUNK_SIZE = 1000  # Characters per chunk
+TEXT_CHUNK_OVERLAP = 150 # Overlap between chunks
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 if not openai.api_key:
@@ -99,57 +108,57 @@ def index_data_from_folder(folder_path: str, target_location: str):
     files_processed = 0
     chunks_created = 0
 
-    # Use os.walk() to traverse subdirectories
-    for root, dirs, files in os.walk(folder_path):
-        # Check if the current root matches the target_location
-        if os.path.basename(root) == target_location:
-            print(f"Found target folder: {root}")
+    # # Use os.walk() to traverse subdirectories
+    # for root, dirs, files in os.walk(folder_path):
+    #     # Check if the current root matches the target_location
+    #     if os.path.basename(root) == target_location:
+    #         print(f"Found target folder: {root}")
 
-            for filename in files:
-                if filename.lower().endswith(".txt"):
-                    file_path = os.path.join(root, filename)
-                    # print('HEEELOOOOOOOO: ', file_path)  # Debugging print statement
+    for filename in os.listdir(folder_path):
+        if filename.lower().endswith(".txt"):
+            file_path = os.path.join(folder_path, filename)
+            print('Processing file: ', file_path)  # Debugging print statement
 
-                    try:
-                        with open(file_path, 'r', encoding='utf-8') as f:
-                            text = f.read()
-                    except Exception as e:
-                        print(f"Error reading file {filename}: {e}. Skipping.")
-                        continue
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    text = f.read()
+            except Exception as e:
+                print(f"Error reading file {filename}: {e}. Skipping.")
+                continue
 
-                    if not text.strip():
-                        print(f"Warning: File {filename} is empty. Skipping.")
-                        continue
+            if not text.strip():
+                print(f"Warning: File {filename} is empty. Skipping.")
+                continue
 
-                    metadata = parse_filename(filename)
-                    if metadata is None:
-                        metadata = extract_metadata_from_path(file_path, text)
+            metadata = parse_filename(filename)
+            if metadata is None:
+                metadata = extract_metadata_from_path(file_path, text)
 
-                    chunks = text_splitter.split_text(text)
-                    embeddings = embedding_model.encode(chunks).tolist()
+            chunks = text_splitter.split_text(text)
+            embeddings = embedding_model.encode(chunks).tolist()
 
-                    ids = []
-                    metadatas = []
-                    for i, chunk in enumerate(chunks):
-                        uid = str(uuid.uuid4())
-                        ids.append(uid)
-                        full_metadata = {
-                            "text": chunk,
-                            "original_filename": filename,
-                            "chunk_index": i,
-                            **metadata
-                        }
-                        metadatas.append(clean_metadata(full_metadata))
+            ids = []
+            metadatas = []
+            for i, chunk in enumerate(chunks):
+                uid = str(uuid.uuid4())
+                ids.append(uid)
+                full_metadata = {
+                    "text": chunk,
+                    "original_filename": filename,
+                    "chunk_index": i,
+                    **metadata
+                }
+                metadatas.append(clean_metadata(full_metadata))
 
-                    collection.add(
-                        ids=ids,
-                        documents=chunks,
-                        embeddings=embeddings,
-                        metadatas=metadatas
-                    )
+            collection.add(
+                ids=ids,
+                documents=chunks,
+                embeddings=embeddings,
+                metadatas=metadatas
+            )
 
-                    files_processed += 1
-                    chunks_created += len(chunks)
+            files_processed += 1
+            chunks_created += len(chunks)
 
     print(f"Files processed: {files_processed}")
     print(f"Chunks indexed: {chunks_created}")
@@ -204,31 +213,38 @@ def get_regulatory_assessment(query: str, context: List[Dict]) -> Tuple[Optional
         sources.add(f"{item.get('location', 'Unknown Location')} - {item.get('filename', 'Unknown Filename')}")
 
     prompt = f"""
-You are an AI assistant specialized in analyzing real estate regulations. Your task is to assess the regulatory pressure based *only* on the provided context below.
+    You are an AI assistant specialized in analyzing real estate regulations. Your task is to assess the level of regulatory pressure strictly based on the provided legislative context.
 
-**User Query:** {query}
+    **User Query:** {query}
 
-**Context from Legislative Documents:**
---- START CONTEXT ---
-{context_string}
---- END CONTEXT ---
+    **Context from Legislative Documents:**
+    --- START CONTEXT ---
+    {context_string}
+    --- END CONTEXT ---
 
+    **Instructions:**
+    1. Review the legislative context carefully in relation to the user query: "{query}".
+    2. Assess the level of regulatory pressure based strictly on this context. Consider quantifiable indicators such as:
+        - Number and severity of restrictions
+        - Specific obligations imposed on landlords or developers
+        - Tenant protections (e.g., eviction protections, rent caps)
+        - Compliance complexity (e.g., mandatory processes, permits, penalties)
+    3. Provide a **Regulatory Pressure Score** from 1 to 10:
+        - 1 = Very Low Pressure (few or no restrictions, favorable to landlords/developers)
+        - 5 = Moderate Pressure (balanced or standard regulatory obligations)
+        - 10 = Very High Pressure (heavy restrictions, strong tenant protections, complex compliance)
+    4. Provide a **brief explanation** (2-5 sentences), focused on **quantitative reasoning** (e.g., “The law imposes 6 separate conditions on redevelopment…”).
+    5. Identify every legislative article referenced in your explanation, including those marked with **art.**, **act.**, **§**, **article**, or any similar notation. 
+    6. Provide **verbatim translations into English** of every legislative article used to justify your score. Only include articles that directly informed your assessment.
+    7. **IMPORTANT:** Do NOT use external knowledge. If the provided context does not meaningfully relate to the user query, state that clearly and assign a score of **N/A**.
 
+    **Output Format:**
 
-**Instructions:**
-1.  Carefully review the provided context in relation to the user query.
-2.  Assess the level of regulatory pressure concerning "{query}". Consider factors like restrictions, landlord/developer obligations, tenant protections, complexity of compliance, etc. shown in the text.
-3.  Provide a **Regulatory Pressure Score** on a scale of 1 to 10, where:
-    *   1 means Very Low Pressure (e.g., very permissive, few restrictions, highly favorable to developers/landlords).
-    *   5 means Moderate Pressure (e.g., balanced regulations, standard compliance).
-    *   10 means Very High Pressure (e.g., very restrictive, strong tenant protections, complex and burdensome for developers/landlords).
-4.  Provide a concise **Explanation** for your score. Justify your reasoning by referencing specific information or quotes from the provided context (referencing "Source 1", "Source 2", etc. is helpful).
-5.  **IMPORTANT:** Base your entire assessment *strictly* on the provided text context. Do not use any external knowledge. If the context is insufficient or irrelevant to the query, state that clearly and assign a score of N/A.
-
-**Output Format:**
-Score: [Your Score from 1-10 or N/A]
-Explanation: [Your explanation, referencing the context]
-"""
+    Score: [1-10 or N/A]
+    Explanation: [Quantitative explanation, grounded in the text]  
+    Articles Used (Translated to English):  
+    [Full translated text of each cited article]
+    """
 
     try:
         print("Sending request to OpenAI...")
@@ -267,7 +283,6 @@ Explanation: [Your explanation, referencing the context]
 
         if explanation_match:
             explanation = explanation_match.group(1).strip()
-            print(f"Explanation: {explanation}")
         else:
              print("Warning: Could not parse explanation separately. Returning full AI response as explanation.")
 
@@ -286,9 +301,8 @@ if __name__ == "__main__":
     print("\nLoading data into the in-memory Qdrant instance...")
     # Example queries:
     # query = "What are the rules for maximum rent increases?"
-    # query = "Tenant eviction procedures"
-    query = "Restrictions on maximum rent increase"
-    target_location = "Netherlands" # Optional: Specify location to filter/focus search
+    query = "Tenant eviction procedures"
+    # query = "Restrictions on maximum rent increase"
     # target_location = None # Search across all locations
 
 
@@ -302,7 +316,7 @@ if __name__ == "__main__":
 
 
     # a. Retrieve relevant context from memory
-    relevant_context = retrieve_relevant_context(query, top_k=5, location_filter=target_location)
+    relevant_context = retrieve_relevant_context(query, top_k=5, location_filter=target_location.get('country'))
 
     # b. Get assessment from OpenAI
     if relevant_context:
@@ -311,7 +325,7 @@ if __name__ == "__main__":
         print("\n--- Final Assessment ---")
         print(f"Query: {query}")
         if target_location:
-            print(f"Focus Location: {target_location}")
+            print(f"Focus Location: {target_location.get('country')}")
         print(f"Retrieved Context Sources (from memory): {len(relevant_context)}")
 
         if score is not None:
