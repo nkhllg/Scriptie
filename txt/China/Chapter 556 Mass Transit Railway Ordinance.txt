@@ -1,0 +1,3633 @@
+Metadata for pdf/HongKong/Chapter 556 Mass Transit Railway Ordinance.pdf: {'format': 'PDF 1.7', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Mozilla Firefox 137.0.2', 'producer': 'cairo 1.18.0 (https://cairographics.org)', 'creationDate': "D:20250508140224+02'00", 'modDate': '', 'trapped': '', 'encryption': None, 'country': 'Hong Kong'}
+
+Country found in pdf/HongKong/Chapter 556 Mass Transit Railway Ordinance.pdf: Hong Kong
+
+Chapter 556
+Mass Transit Railway Ordinance
+22/12/2023
+An Ordinance to provide for—
+(a)
+the granting of a franchise to the MTR Corporation Limited, a
+company incorporated under the Companies Ordinance (Cap.
+32) as in force at the time of the incorporation, to operate the
+Mass  Transit  Railway  and  to  construct  and  operate  any
+extension to the Mass Transit Railway; (Amended 28 of 2012 
+ss. 912 & 920)
+(b)
+the regulation of the operation of the Mass Transit Railway
+under the franchise, including all aspects of safety on the Mass
+Transit Railway;
+(c)
+the repeal of the Mass Transit Railway Corporation Ordinance
+(Cap.  270),  the  dissolution  of  the  Mass  Transit  Railway
+Corporation incorporated under that Ordinance and the vesting
+of  the  property,  rights  and  liabilities  of  the  Mass  Transit
+Railway Corporation in the MTR Corporation Limited;
+(d)
+matters relating to the incorporation of the MTR Corporation
+Limited,  the  allotment  of  shares  of  the  company  and  the
+application of various enactments in relation to the company;
+(e)
+the inclusion in the franchise referred to in paragraph (a) of the
+rights to construct and operate certain railways other than the
+Mass Transit Railway or its extensions; (Added 11 of 2007 s. 
+3)
+(f)
+the regulation, during the franchise period, of the operation of
+railways and certain bus services in addition to the operation
+of the Mass Transit Railway by the MTR Corporation Limited,
+including  all  aspects  of  safety  concerning  those
+railways; (Added 11 of 2007 s. 3)
+(g)
+the vesting of certain rights and liabilities of the Kowloon-
+Canton  Railway  Corporation  in  the  MTR  Corporation
+Limited, (Added 11 of 2007 s. 3)
+and for connected purposes.
+(Amended 11 of 2007 s. 3)
+[30 June 2000] L.N. 136 of 2000
+(Format changes—E.R. 6 of 2019)
+(Enacting provision omitted—E.R. 2 of 2014)
+Part I
+Preliminary
+1.
+Short title
+(Amended E.R. 6 of 2019)
+(1)
+This Ordinance may be cited as the Mass Transit Railway
+Ordinance.
+(2)
+(Omitted as spent—E.R. 2 of 2014)
+2.
+Interpretation
+(1)
+In this Ordinance, unless the context requires otherwise—
+appointed  day  (   ⽇期)  means  the  day  designated  as  the
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+1 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+appointed day under section 3;
+bus (巴⼠) has the same meaning as in the Road Traffic Ordinance
+(Cap. 374); (Added 11 of 2007 s. 5)
+Chief Executive Officer (⾏政	
+) means the Chief Executive
+Officer of the Corporation; (Added 11 of 2007 s. 5)
+Commissioner (署) means the Commissioner for Transport;
+Concession Period (有期) means the period for which
+that part of the franchise relating to the KCRC Railways is in
+force, and any period for which the whole or any part of such
+part  of  the  franchise  is  suspended  under  this
+Ordinance; (Added 11 of 2007 s. 5)
+Concession Property (財) means—
+(a)
+any property which the Corporation has the right to have
+access to, use or possess under the Service Concession
+Agreement,  and  which  falls  within  the  definition  of
+“Concession  Property”  in  the  Service  Concession
+Agreement;
+(b)
+any  property  acquired,  purchased,  hired,  produced,
+created, constructed, developed, processed or adapted for
+use by the Corporation and used only for the purposes of
+the repair, maintenance, replacement or improvement of
+the property referred to in paragraph (a), and which falls
+within the definition of “Concession Property” in the
+Service Concession Agreement; and
+(c)
+any other property which falls within the definition of
+“Concession  Property”  in  the  Service  Concession
+Agreement; (Added 11 of 2007 s. 5)
+Corporation  (    司)  means  the  MTR  Corporation
+Limited; (Amended 11 of 2007 s. 5)
+extension  (     )  means,  in  relation  to  the  railway,  an
+extension  provided  for  in  a  scheme  authorized  under  the
+Railways Ordinance (Cap. 519);
+franchise (專) means the franchise granted under section 4;
+franchise period (專期) means the period for which the franchise
+is granted under section 4, as extended under this Ordinance;
+inspector (主) means a person appointed as an inspector
+under section 26;
+KCRC  ( 九  司)  means  the  Kowloon-Canton  Railway
+Corporation  established  by  section  3  of  the  KCRC
+Ordinance; (Added 11 of 2007 s. 5)
+KCRC Ordinance (《九!例》) means the Kowloon-Canton
+Railway Corporation Ordinance (Cap. 372); (Added 11 of 2007 
+s. 5)
+KCRC Railway (九司路) means any railway within the
+meaning of section 2(1) of the KCRC Ordinance which the
+Corporation has the right to have access to, use or possess
+under the Service Concession Agreement, and a reference to
+the KCRC Railways is a reference to all such railways; (Added
+11 of 2007 s. 5)
+Mass Transit Railway ($下路) means the railway system known
+as the Mass Transit Railway and indicated on plans endorsed
+by the Secretary and deposited by the Corporation with the
+Land Registry from time to time, or any part of that system;
+Mass Transit Railway Corporation ($下路司) means the
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+2 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+entity of that name established by section 3(1) of the repealed
+Ordinance;
+*Merger Date (合併⽇期) means the day appointed under section 2
+of the Rail Merger Ordinance (11 of 2007); (Added 11 of 2007 
+s. 5)
+MTR Corporation Limited ((路有)司) means the entity
+of  that  name  incorporated  under  the  relevant
+Ordinance; (Amended 11 of 2007 s. 5; 28 of 2012 ss. 912 &
+920)
+MTRC means the Mass Transit Railway Corporation;
+North-west Railway (*+路) has the same meaning as in section
+2(1) of the KCRC Ordinance; (Added 11 of 2007 s. 5)
+North-west Transit Service Area (*+路服務./) has the
+same  meaning  as  in  section  2(1)  of  the  KCRC
+Ordinance; (Added 11 of 2007 s. 5)
+operating agreement (0協2) means any agreement entered into
+between the Corporation and the Secretary acting on behalf of
+the  Government  which  is  declared  by  its  terms  to  be  an
+operating agreement for the purposes of this Ordinance or to
+be  an  agreement  amending  or  supplementing  such  an
+agreement, as having effect from time to time;
+railway (路)—
+(a)
+during the Concession Period, means the Mass Transit
+Railway and the KCRC Railways, and a reference to the
+railway includes a reference to a part of the railway; and
+(b)
+at  any  other  time,  means  the  Mass  Transit
+Railway; (Replaced 11 of 2007 s. 5)
+railway premises (路34)—
+(a)
+during the Concession Period, means—
+(i)
+any  area,  space  or  building  occupied  by  the
+Corporation  which  is  designed,  equipped  or  set
+apart for the carriage of passengers or goods, or
+both passengers and goods, by train or for affording
+facilities incidental to the carriage of passengers or
+goods, or both passengers and goods, by train; and
+(ii)
+any train on premises specified in subparagraph (i);
+and
+(b)
+at any other time, means—
+(i)
+any  area,  space  or  building  occupied  by  the
+Corporation  which  is  designed,  equipped  or  set
+apart for the carriage of passengers by train or for
+affording  facilities  incidental  to  the  carriage  of
+passengers by train; and
+(ii)
+any train on premises specified in subparagraph
+(i); (Replaced 11 of 2007 s. 5)
+relevant  Ordinance  (《有5 ! 例》)  means  the  Companies
+Ordinance (Cap. 32) as in force from time to time before the
+commencement  date#  of  section  2  of  Schedule  9  to  the
+Companies Ordinance (Cap. 622); (Added 28 of 2012 ss. 912
+& 920)
+repealed Ordinance (已7除!例) means the Mass Transit Railway
+Corporation Ordinance (Cap. 270);
+Secretary  ( 局 )  means  the  Secretary  for  Transport  and
+Logistics; (Amended L.N. 106 of 2002; L.N. 130 of 2007; L.N.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+3 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+144 of 2022)
+service (服務) means railway service;
+service concession (服務) means an arrangement under
+which the rights of KCRC to have access to, use or possess
+certain railways and certain other property for the operation of
+those railways or the TSA bus service, are granted to the
+Corporation; (Added 11 of 2007 s. 5)
+Service Concession Agreement (服務協2) means any
+agreement entered into between KCRC as the grantor and the
+Corporation as the grantee (and with or without any other
+party) under which a service concession is granted, and stated
+by its terms to be a Service Concession Agreement for the
+purposes of this Ordinance or any agreement amending or
+supplementing such an agreement, as having effect from time
+to time; (Added 11 of 2007 s. 5)
+transport interchange (0輸;<3) means any area, space or
+building delineated in plans certified by the Commissioner and
+deposited  by  the  Corporation  in  the  Land  Registry  under
+section 31; (Amended E.R. 2 of 2014)
+TSA bus service (*+路巴⼠服務) means the service provided
+through the operation of bus services within the North-west
+Transit Service Area. (Added 11 of 2007 s. 5)
+(2)
+Reference in this Ordinance to construction of the railway is a
+reference to undertaking every stage of the process beginning
+with its design and planning and ending when the railway is
+brought into operation.
+____________________
+Editorial Note:
+* Merger Date: 2 December 2007 (see L.N. 200 of 2007).
+# Commencement date: 3 March 2014.
+3.
+Appointed day
+The Secretary for Transport may, by notice in the Gazette, designate
+a day to be the appointed day for the purposes of this Ordinance*.
+(Amended L.N. 106 of 2002)
+____________________
+Editorial Note:
+* Appointed day: 30 June 2000 (see G.N. 3903 of 2000).
+___________
+Part II
+Grant and Extension of Franchise
+4.
+Grant of franchise to Corporation to operate railway
+(1)
+Subject  to  this  Ordinance,  the  Corporation  is  granted  the
+franchise, for a period of 50 years from the Merger Date
+—  (Amended 11 of 2007 s. 6)
+(a)
+to  operate  the  Mass  Transit  Railway,  including  any
+extension to the Mass Transit Railway;
+(b)
+to construct any extension to the Mass Transit Railway;
+(c)
+to construct any other railway (other than an extension to
+the  Mass  Transit  Railway)  which  the  Secretary  has
+authorized the Corporation to construct;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+4 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(d)
+to operate any railway constructed under paragraph (c);
+and
+(e)
+to operate the KCRC Railways. (Amended 11 of 2007 s. 
+6)
+(1A)
+For  the  avoidance  of  doubt  and  without  affecting  the
+generality of subsection (1)(e), the franchise granted under
+subsection (1) covers the operation of the KCRC Railway for
+the carriage of goods and passengers to and from a place
+outside Hong Kong. (Added 11 of 2007 s. 6)
+(2)
+The terms and conditions agreed between the Government and
+the Corporation as having effect with respect to the franchise
+granted under this section are those set out in the operating
+agreement.
+5.
+Extension of franchise
+(1)
+At any time or times during the franchise period, but not later
+than 5 years before the expiry of that period, the Corporation
+may apply to the Chief Executive in Council for an extension
+of the franchise.
+(2)
+An application for extension of the franchise under this section
+—
+(a)
+shall be made by notice to the Secretary; and
+(b)
+shall  be  accompanied  by  all  materials  that  the
+Corporation  wishes  to  put  forward  in  support  of  the
+application.
+(3)
+The Secretary shall submit to the Chief Executive in Council a
+report setting out his recommendation as to whether, having
+regard to all relevant considerations (including the operation
+by the Corporation of the TSA bus service during the franchise
+period and any provision of the operating agreement relating
+to the extension of the franchise), the Corporation’s franchise
+should be extended. (Amended 11 of 2007 s. 7)
+(4)
+The Chief Executive in Council may approve an extension of
+the franchise, but shall only do so if he is satisfied that the
+Corporation is capable of maintaining a proper and efficient
+service under this Ordinance and the operating agreement.
+(5)
+Notice of any extension of the franchise granted under this
+section shall be published in the Gazette.
+6.
+Restriction on transfer of franchise
+The Corporation shall not transfer the franchise or any part of it
+without the approval of the Chief Executive in Council.
+7.
+Directors of Corporation
+Unless the Chief Executive in Council otherwise permits, a majority
+of  those  directors  of  the  Corporation  who  are  not  additional
+directors appointed under section 8  must  be  persons  ordinarily
+resident in Hong Kong.
+8.
+Chief Executive may appoint additional directors
+(1)
+The Chief Executive may appoint, for a period he directs, not
+more  than  3  persons  to  be  additional  directors  of  the
+Corporation (in this section referred to as additional director).
+(2)
+An additional director may not be removed from office except
+by the Chief Executive.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+5 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(3)
+Subject to this Part, an additional director shall be treated for
+all purposes as if he had been appointed at a general meeting
+of the Corporation as a director of the Corporation.
+(4)
+Without  affecting  the  generality  of  subsection  (3),  an
+additional director shall, in the same manner and to the same
+extent as any other director of the Corporation, be entitled—
+(a)
+to participate in meetings of the Corporation and the
+board of directors of the Corporation;
+(b)
+to have access to all material concerning the affairs of the
+Corporation; and
+(c)
+to be furnished with such information with respect to the
+affairs of the Corporation as he may specify.
+(5)
+The  Companies  Ordinance  (Cap.  622),  the  Companies
+(Winding Up and Miscellaneous Provisions) Ordinance (Cap.
+32) and any other law, and any document, shall be construed
+subject to this section. (Amended 28 of 2012 ss. 912 & 920)
+___________
+Part III
+Performance under Franchise
+9.
+Corporation to maintain proper and efficient service
+(1)
+The Corporation shall maintain a proper and efficient service
+at all times during the franchise period in accordance with this
+Ordinance and the operating agreement. (Amended 11 of 2007 
+s. 8)
+(2)
+Where the Corporation operates the TSA bus service during
+the Concession Period, the Corporation shall ensure that the
+TSA bus service is operated properly and efficiently under—
+(a)
+this Ordinance and all other applicable laws; and
+(b)
+the operating agreement. (Added 11 of 2007 s. 8)
+10.
+Secretary may obtain information
+(1)
+The Secretary may, by notice in writing to the Corporation,
+require the Corporation—
+(a)
+to afford the Secretary sufficient facilities for obtaining
+information with respect to the business and affairs of the
+Corporation in connection with the franchise; and
+(b)
+in the manner and at the reasonable times specified in the
+notice, to furnish the Secretary with information with
+respect to the matters specified in paragraph (a) and
+afford  to  him  facilities  for  the  verification  of  that
+information,
+and to do so within a period specified in the notice, being a
+period that is reasonable in the circumstances.
+(2)
+In subsection (1), reference to information is a reference to
+information which the Secretary may reasonably require for
+verifying  that  the  Corporation  has  complied  with  the
+provisions of this Ordinance, the operating agreement and any
+direction,  specification  or  requirement  given  under  this
+Ordinance or the operating agreement.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+6 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(3)
+If the Corporation, without reasonable excuse, fails to comply
+with a notice given under this section the Corporation commits
+an offence and is liable to a fine at level 4.
+11.
+Records
+(1)
+The  Corporation  shall  keep,  to  the  satisfaction  of  the
+Secretary, records in respect of the following matters relating
+to the railway—
+(a)
+the number and carrying capacity of trains in use or
+under maintenance;
+(b)
+the number of journeys undertaken and the total distance
+travelled;
+(c)
+the number of passengers carried;
+(d)
+the receipts;
+(e)
+details of any incident causing a service breakdown of 20
+minutes or more;
+(f)
+the maintenance of trains;
+(g)
+the  number  and  types  of  trains,  and  their  carrying
+capacity, on order or under construction together with
+details of the likely availability of such trains for use in
+the operation of the railway.
+(2)
+The Secretary may, by notice in writing to the Corporation,
+require the Corporation—
+(a)
+to furnish to the Secretary, at the reasonable times and in
+the form specified in the notice, copies of the records
+kept by the Corporation in accordance with subsection
+(1);
+(b)
+to permit the Secretary, or any other person authorized in
+writing by him, to inspect at any reasonable time all
+records  kept  by  the  Corporation  in  accordance  with
+subsection (1),
+and to do so within a period specified in the notice, being a
+period that is reasonable in the circumstances.
+(3)
+The Secretary or other person authorized by the Secretary may
+make copies of records inspected under subsection (2)(b).
+(4)
+If the Corporation, without reasonable excuse, fails to comply
+with subsection (1), or with a notice given under subsection
+(2), the Corporation commits an offence and is liable to a fine
+at level 4.
+12.
+Limitation on powers under sections 10 and 11
+(1)
+Nothing in section 10 or 11 requires the Corporation or any
+other person—
+(a)
+to produce any document which the Corporation or that
+other person could not be compelled to produce in civil
+proceedings in the High Court; or
+(b)
+in complying with any requirement for the furnishing of
+information,  to  provide  any  information  which  the
+Corporation or that other person could not be compelled
+to provide in evidence in civil proceedings in the High
+Court.
+(2)
+Neither the Secretary nor any other person shall disclose any
+information obtained pursuant to section 10 or 11 unless he
+has consulted the Corporation regarding his intention to do so.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+7 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+12A.
+Maintenance of crossings, bridges, arches, culverts, etc.
+(1)
+During the Concession Period, the Corporation shall construct
+and maintain for the use of the occupiers of land not held by
+the Government and adjoining the KCRC Railway—
+(a)
+crossings  of  the  KCRC  Railway  for  the  purpose  of
+making good any use of the land enjoyed before the
+KCRC  Railway  was  constructed  or  as  nearly  as  is
+reasonably practicable; and
+(b)
+works for the purpose of conveying water from or to the
+land  as  freely  as  before  the  KCRC  Railway  was
+constructed or as nearly as is reasonably practicable.
+(2)
+The Corporation shall not be obliged under this section to do
+anything—
+(a)
+in such a manner as would prevent the use or cause
+inconvenience in the use of the KCRC Railway;
+(b)
+in respect of any matter in relation to which any person
+whose right to occupy the land has been prejudiced has
+made  no  objection  or  claim  during  the  time  of  the
+construction of that part of the KCRC Railway affecting
+that land or in relation to which that person has accepted
+compensation; or
+(c)
+where, after the construction of that part of the KCRC
+Railway adjoining any land, a natural or artificial feature
+of that land is altered by any event outside the control of
+the Corporation and the Corporation has done all that is
+required of it under this section before that alteration
+took place.
+(Added 11 of 2007 s. 9)
+13.
+Chief Executive in Council may give directions
+(1)
+The Chief Executive in Council may, if he considers the public
+interest  so  requires,  and  after  consultation  between  the
+Secretary and the Corporation, give directions in writing to the
+Corporation in relation to any matter concerning the franchise
+and  the  TSA  bus  service  operated  by  the
+Corporation. (Amended 11 of 2007 s. 10)
+(2)
+The directions may be of a general or specific nature.
+(3)
+The Corporation shall comply with any direction given, unless
+the direction is inconsistent with this Ordinance.
+(4)
+The  Government  is  liable  to  pay  compensation  to  the
+Corporation  for  loss  or  damage  of  any  kind  (including
+consequential loss) sustained by the Corporation and in any
+way  arising  from  or  attributable  to  the  Corporation’s
+compliance with a direction under this section.
+(5)
+Reference  in  subsection  (4)  to  loss  or  damage  includes
+reference to loss or damage arising from or attributable to the
+Corporation’s compliance with a direction under this section
+that is contrary to prudent commercial principles.
+14.
+Chief Executive in Council may impose financial penalty
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+8 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(1)
+The Chief Executive in Council may, on a reference by the
+Secretary, by notice in writing impose on the Corporation a
+financial penalty specified in the notice for any failure by the
+Corporation to comply with any provision of this Ordinance or
+the operating agreement, or with any direction, specification or
+requirement  given  under  this  Ordinance  or  the  operating
+agreement.
+(2)
+The Corporation shall not be found liable to the imposition of
+a penalty under subsection (1) unless—
+(a)
+the Corporation has been given an opportunity to make
+representations to the Chief Executive in Council; and
+(b)
+the Chief Executive in Council is satisfied—
+(i)
+that  the  failure  is  substantial  or  is  persistent  in
+nature; and
+(ii)
+where the obligation is one of a continuing nature,
+that  the  Corporation  has  had  a  reasonable
+opportunity of remedying the failure.
+(3)
+A  financial  penalty  imposed  under  this  section  shall  not
+exceed—
+(a)
+in respect of any failure—
+(i)
+in the case of a first imposition of such a penalty, an
+amount equal to a fine at level 3;
+(ii)
+in the case of a second imposition of such a penalty,
+an amount equal to a fine at level 4;
+(iii)
+in the case of a third or subsequent imposition of
+such a penalty, an amount equal to a fine at level 5;
+and
+(b)
+in respect of any failure which is of a continuing nature,
+$10,000 for each day on which the failure continues,
+and in this subsection, reference to an amount equal to a fine
+at  a  certain  level  is  a  reference  to  the  amount  shown  in
+Schedule 8 to the Criminal Procedure Ordinance (Cap. 221) as
+the amount of a fine of that level for an offence under an
+Ordinance.
+(4)
+A financial penalty imposed under this section is recoverable
+by the Government as a civil debt.
+(5)
+Where  the  Chief  Executive  in  Council  is  considering  the
+imposition of a penalty on the Corporation under this section,
+he shall not take into account any failure of the Corporation
+which  was  considered  for  the  purposes  of  a  previous
+imposition of a penalty on the Corporation under this section,
+unless the Corporation has failed to pay that previous penalty
+or  to  rectify  any  default  that  gave  rise  to  the  failure  in
+question.
+(6)
+This section does not apply to any provision of this Ordinance
+the contravention of which is an offence under this Ordinance.
+___________
+Part IV
+Suspension, Revocation and Expiry of Franchise, etc.
+15.
+Suspension of franchise
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+9 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(1)
+If, on a reference by the Secretary, the Chief Executive in
+Council considers that—
+(a)
+an emergency exists or is likely to come into existence;
+or
+(b)
+there is or is likely to be for any reason a substantial
+breakdown in the operation of the railway, other than a
+breakdown that appears to be capable of being remedied
+within a reasonable period,
+and if he considers that it is in the public interest to do so, the
+Chief Executive in Council may order that the franchise be
+suspended either wholly or in part.
+(2)
+Before  making  any  reference  to  the  Chief  Executive  in
+Council under subsection (1)(b) the Secretary shall, as far as is
+practicable in the circumstances, consult the Corporation in
+relation to the proposed reference; and the Secretary shall
+bring to the attention of the Chief Executive in Council any
+representations  made  by  the  Corporation  during  the
+consultation.
+(3)
+An order for suspension under subsection (1) remains in effect
+until the Chief Executive in Council orders the suspension
+terminated.
+(4)
+Notice in writing of any order made under subsection (1) or
+(3) shall be given to the Corporation.
+(5)
+Where  the  franchise  is  suspended  under  subsection  (1)
+(whether wholly or in part), the Government, its nominee or a
+third party designated by the Government—
+(a)
+may take possession of any property which at the time of
+such  suspension  is  property  used  or  kept  by  the
+Corporation for the purposes of or in connection with the
+suspended part of the franchise;
+(b)
+during  the  course  of  the  suspension,  may  retain  any
+property taken possession of under paragraph (a) and
+may use that property in the operation of the railway as it
+thinks fit.
+(6)
+The Government is liable to pay compensation—
+(a)
+for the use of, loss of or damage to any property taken
+possession of under subsection (5); and
+(b)
+except where a franchise is revoked under section 18, for
+loss  or  damage  of  any  kind  (including  consequential
+loss) sustained by the Corporation and in any way arising
+from or attributable to the suspension of the franchise
+under subsection (1).
+(7)
+The right conferred under subsection (5) to take possession of
+property  and  to  use  that  property  in  the  operation  of  the
+railway includes the right to keep or maintain the property in
+whatever  condition,  or  to  alter  the  property  in  whatever
+manner,  is  considered  appropriate  for  that  purpose  and,
+without  affecting  any  entitlement  to  compensation  under
+subsection (6), nothing in this Ordinance or any other law
+imposes on the Government any obligation in relation to the
+condition in which property taken under subsection (5) is to be
+kept or returned.
+15A.
+Suspension of any part of franchise relating to KCRC Railway
+(1)
+Section 15(6)(a) does not apply to any Concession Property.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+10 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(2)
+Section 15(6)(b) does not apply to the extent that the loss or
+damage arises from or is attributable to the suspension of any
+part of the franchise relating to the KCRC Railway.
+(3)
+Where any part of the franchise relating to the KCRC Railway
+is  suspended  under  section  15(1)  and  the  suspension  is
+attributable to a specified cause—
+(a)
+the Government is liable to pay compensation for the
+loss of or damage to any Concession Property taken
+possession of under section 15(5) in connection with the
+suspension of that part of the franchise (but excluding,
+for the avoidance of doubt, the loss of the right to use or
+possess that Concession Property); and
+(b)
+subject to paragraph (a), the Government is not liable to
+pay compensation for any loss or damage of any other
+kind  (including  consequential  loss)  sustained  by  the
+Corporation and in any way arising from or attributable
+to the suspension of that part of the franchise.
+(4)
+Where any part of the franchise relating to the KCRC Railway
+is  suspended  under  section  15(1)  and  the  suspension  is
+attributable  otherwise  than  to  a  specified  cause,  the
+Government is liable to pay compensation for—
+(a)
+the loss of or damage to any Concession Property taken
+possession of under section 15(5) in connection with the
+suspension of that part of the franchise (and including,
+for the avoidance of doubt, the loss of the right to use or
+possess that Concession Property); and
+(b)
+any  actual  loss  or  damage  of  any  other  kind  (but
+excluding, for the avoidance of doubt, any consequential
+loss) sustained by the Corporation and resulting directly
+from or attributable to the suspension of that part of the
+franchise.
+(5)
+For the avoidance of doubt, subsections (3) and (4) do not
+apply  to  any  loss  or  damage  which  arises  from  or  is
+attributable  to  the  taking  possession  of  any  Corporation
+Common  Property  under  section  15(5),  for  which
+compensation shall be payable under section 15(6).
+(6)
+The amount of any compensation payable under subsection (4)
+shall be calculated in accordance with the provisions of the
+operating  agreement  relating  to  the  calculation  of
+compensation payable under this section.
+(7)
+In this section and section 15B—
+Corporation  Common  Property  (   共⽤財 )  means  any
+property (other than Concession Property) which at the time of
+the suspension of the franchise or any part of it, is property
+owned, kept or used by the Corporation for the purposes of or
+in connection with the operation of both the KCRC Railway
+and the Mass Transit Railway, and which falls within the
+definition of “Corporation Common Property” in the Service
+Concession Agreement;
+KCRC Common Property (九共⽤財) means any Concession
+Property which at the time of the suspension of the franchise
+or any part of it, is Concession Property kept or used by the
+Corporation for the purposes of or in connection with the
+operation of both the KCRC Railway and the Mass Transit
+Railway,  and  which  falls  within  the  definition  of  “KCRC
+Common Property” in the Service Concession Agreement;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+11 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+specified cause (明@A) means—
+(a)
+anything done or omitted to be done by the Corporation;
+(b)
+a breach of the Service Concession Agreement by the
+Corporation; or
+(c)
+a breach of the operating agreement by the Corporation.
+(Added 11 of 2007 s. 11)
+15B.
+Rights to have access to and use Corporation Common Property
+and KCRC Common Property upon suspension of franchise
+(1)
+Where the franchise is suspended under section 15(1) (whether
+wholly or in part), the Government, its nominee or a third
+party designated by the Government may have access to any
+Corporation Common Property and KCRC Common Property
+which is not taken possession of under section 15(5), and may
+use such Corporation Common Property and KCRC Common
+Property in the operation of the service and the TSA bus
+service to the extent that they are covered by the suspension in
+accordance with the provisions of the operating agreement
+relating to such use.
+(2)
+Where any part of the franchise is suspended under section
+15(1), the Corporation may have access to any Corporation
+Common Property and KCRC Common Property which is
+taken possession of under section 15(5), and may use such
+Corporation Common Property and KCRC Common Property
+in the operation of the service and the TSA bus service to the
+extent  that  they  are  not  covered  by  the  suspension  in
+accordance with the provisions of the operating agreement
+relating to such use.
+(Added 11 of 2007 s. 11)
+16.
+Default under franchise
+(1)
+For the purposes of sections 17 and 18, the Corporation is in
+default under the franchise if—  (Amended 11 of 2007 s. 12)
+(a)
+any of the following occurs—  (Amended 11 of 2007 s. 
+12)
+(i)
+there  has  been  a  substantial  failure  by  the
+Corporation to discharge an obligation under the
+operating agreement;
+(ii)
+the Corporation has failed or there is a likelihood of
+its failing substantially to operate the railway in
+accordance with this Ordinance; or
+(iii)
+there  has  been  a  substantial  failure  by  the
+Corporation to discharge an obligation under the
+Service  Concession  Agreement  which  does  not
+amount  to  a  major  breach  of  the  Service
+Concession Agreement, (Added 11 of 2007 s. 12)
+and the failure (or likely failure) results in or is likely to
+result in—
+(A)
+a substantial breakdown of the service;
+(B)
+the safety of persons travelling on the railway or
+being on the railway premises being endangered in
+a manner likely to result in serious injury to those
+persons; or
+(C)
+serious injury to or the death of persons travelling
+on the railway or being on the railway premises; or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+12 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(b)
+a voluntary winding up of the Corporation is commenced
+or a winding up order in respect of the Corporation is
+made; or
+(c)
+there has been a major breach by the Corporation of the
+Service Concession Agreement, (Added 11 of 2007 s. 12)
+and  the  expression  default  shall  be  construed
+accordingly. (Amended 11 of 2007 s. 12)
+(2)
+For the purposes of subsection (1), there has been a major
+breach  by  the  Corporation  of  the  Service  Concession
+Agreement if the Corporation—
+(a)
+makes  any  default  in  payment  under  the  Service
+Concession Agreement;
+(b)
+contravenes any restriction imposed under the Service
+Concession Agreement on the disposal of the Concession
+Property; or
+(c)
+contravenes any prohibition imposed under the Service
+Concession Agreement on the creation of security over
+the Concession Property. (Added 11 of 2007 s. 12)
+17.
+Defaults capable of remedy
+(1)
+Where it appears to the Secretary that the Corporation is in
+default, and that the default is one which is capable of being
+remedied, the Secretary may serve on the Corporation a notice
+calling upon the Corporation—
+(a)
+to  remedy  the  default  or  to  take  measures  or  make
+arrangements  to  the  satisfaction  of  the  Secretary  to
+ensure that the default is remedied; and
+(b)
+to do so within the period specified in the notice, being a
+period that is reasonable in the circumstances, or within a
+further period as the Secretary may allow.
+(2)
+Unless  the  circumstances  require  otherwise,  the  period
+specified in a notice served under subsection (1) shall be a
+period of 28 days or more.
+(3)
+A default committed by reason of section 16(1)(c) shall not be
+regarded as one which is capable of being remedied for the
+purposes of subsection (1), and no notice shall be served under
+that subsection in respect of such a default. (Added 11 of 2007 
+s. 13)
+18.
+Revocation of franchise
+(1)
+Where—
+(a)
+the Secretary reports to the Chief Executive in Council
+that the Corporation has failed to comply with a notice
+served under section 17;
+(b)
+it appears to the Chief Executive in Council that the
+Corporation is in default otherwise than by reason of
+section 16(1)(c), and the Secretary has reported to the
+Chief Executive in Council that the default is not one
+which is capable of being remedied; or
+(c)
+it appears to the Chief Executive in Council that the
+Corporation  is  in  default  by  reason  of  section  16(1)
+(c), (Added 11 of 2007 s. 14)
+the Chief Executive in Council may direct the Secretary to
+serve on the Corporation a notice requiring the Corporation to
+show cause why an order should not be made under subsection
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+13 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(5). (Amended 11 of 2007 s. 14)
+(2)
+A notice served under subsection (1) shall specify whether it is
+given in relation to subsection (1)(a), (b) or (c) and shall, in
+addition—  (Amended 11 of 2007 s. 14)
+(a)
+if given in relation to subsection (1)(a), give particulars
+of  the  notice  referred  to  in  that  paragraph  and  brief
+particulars of the report of the Secretary;
+(b)
+if given in relation to subsection (1)(b) or (c), specify the
+nature of the default. (Amended 11 of 2007 s. 14)
+(3)
+The Corporation may, within the period of 28 days from the
+date of service of the notice under subsection (1), or within a
+further period as the Chief Executive in Council may allow,
+make representations in writing to the Chief Executive in
+Council showing cause why an order should not be made
+under subsection (5).
+(4)
+Before  making  an  order  under  subsection  (5)  the  Chief
+Executive in Council shall consider any representations made
+under subsection (3) and, if applicable, any matter referred to
+in subsection (6).
+(5)
+Where the Chief Executive in Council is of the opinion that
+sufficient cause has not been shown as to why an order under
+this subsection should not be made, he may, by order—
+(a)
+if it appears to him that the default is one which was
+capable of being remedied and that—
+(i)
+a notice should have been served under section 17
+and was not served, or that the terms of any notice
+served were unreasonable; and
+(ii)
+the default is still capable of being remedied,
+direct the Secretary to serve a notice, or a further notice,
+under  section  17,  in  terms  determined  by  the  Chief
+Executive in Council; or
+(b)
+in any other case of default, if it appears to him just and
+reasonable to do so, but subject to subsections (8) and
+(8A), revoke the franchise. (Amended 11 of 2007 s. 14)
+(6)
+In  exercising  his  powers  under  subsection  (5),  the  Chief
+Executive in Council shall take into consideration the extent to
+which  the  default  was  or  is  occasioned  by  circumstances
+beyond the control of the Corporation.
+(7)
+An order made—
+(a)
+under subsection (5)(a) shall be sent to the Secretary and
+a copy of the order shall be attached to the Secretary’s
+notice under section 17;
+(b)
+under  subsection  (5)(b)  shall  be  served  on  the
+Corporation and shall be published in the Gazette, as
+soon as practicable after that service.
+(8)
+Where the proceedings described in this section relate to a
+matter which is the subject of an appeal under section 53(1),
+the Chief Executive in Council shall not make an order under
+subsection (5)(b)  until  the  appeal  has  been  determined  or
+abandoned.
+(8A)
+Where an order is made under subsection (5)(b) only due to a
+default committed by reason of section 16(1)(c), the order
+shall have effect on the franchise only to the extent that the
+franchise relates to the KCRC Railways. (Added 11 of 2007 s. 
+14)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+14 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(9)
+The Government is not liable to pay any compensation in
+respect of the revocation of the franchise under this section,
+except for any compensation payable under section 20.
+19.
+Use of railway property by Government
+(1)
+Where the franchise is revoked under section 18 or has expired
+and has not been extended under section 5, the Government,
+its nominee or a third party designated by the Government
+may take possession of any property which at the time of such
+revocation  or  expiry  is  property  used  or  kept  by  the
+Corporation for the purposes of or in connection with the
+franchise and may use that property in the operation of the
+railway as it thinks fit.
+(2)
+Property taken possession of under subsection (1) may be
+retained—
+(a)
+for an initial period not exceeding 2 years, as may be
+determined by the Chief Executive in Council; and
+(b)
+for  such  further  successive  periods  not  exceeding  6
+months each as the Chief Executive in Council may
+determine,
+and notice of any such determination shall be published in the
+Gazette.
+(3)
+Subject to subsections (4) and (5), at any time during or upon
+the expiry of a period of retention under this section, property
+taken possession of under subsection (1) may be returned to
+the Corporation or may be otherwise disposed of in a manner
+and upon terms the Chief Executive in Council may think fit.
+(4)
+At any time during the period  for  which  any  property  is
+retained under subsection (2), the Corporation may by notice
+in writing to the Secretary inform the Government that the
+Corporation does not wish the property to be returned to the
+Corporation, and in that case the Government is not entitled to
+return the property to the Corporation under subsection (3).
+(5)
+The right conferred under subsection (1) to take possession of
+property  and  to  use  that  property  in  the  operation  of  the
+railway includes the right to keep or maintain the property in
+whatever  condition,  or  to  alter  the  property  in  whatever
+manner,  is  considered  appropriate  for  that  purpose  and,
+without  affecting  any  entitlement  to  compensation  under
+section 20, nothing in this Ordinance or any other law imposes
+on the Government any obligation in relation to the condition
+in which property taken under subsection (1) is to be kept or
+returned.
+(6)
+For the purpose of, and to the extent necessary to effect, the
+disposal under subsection (3) of any property taken possession
+of under subsection (1) (and for that purpose and to that extent
+only), title in the property is deemed to be vested in the
+Government.
+19A.
+Taking possession of Concession Property by Government upon
+revocation or expiry of franchise
+(1)
+Section 19(1) does not apply to Concession Property.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+15 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(2)
+Where the franchise or that part of it relating to the KCRC
+Railways is revoked under section 18 or the franchise has
+expired  and  has  not  been  extended  under  section  5,  the
+Government, its nominee or a third party designated by the
+Government may take possession of any Concession Property
+and use such Concession Property in the operation of the
+service and the TSA bus service to the extent that they are
+covered by the revocation or expiry as it thinks fit.
+(3)
+Subject to subsections (4) and (5), any Concession Property
+taken possession of under subsection (2) may be returned to
+KCRC or may be otherwise disposed of in a manner and upon
+terms the Chief Executive in Council may think fit.
+(4)
+The right conferred under subsection (2) to take possession of
+any Concession Property and to use such Concession Property
+includes  the  right  to  keep  or  maintain  such  Concession
+Property in whatever condition or to alter such Concession
+Property in whatever manner.
+(5)
+Without  affecting  any  entitlement  to  compensation  under
+section  19B,  nothing  in  this  Ordinance  or  any  other  law
+imposes on the Government any obligation in relation to the
+condition  in  which  any  Concession  Property  taken  under
+subsection (2) is to be kept or returned.
+(6)
+For the purpose of, and to the extent necessary to effect, the
+disposal  under  subsection  (3)  of  any  Concession  Property
+taken possession of under subsection (2) (and for that purpose
+and to that extent only), title in that Concession Property is
+deemed to be vested in the Government.
+(Added 11 of 2007 s. 15)
+19B.
+Compensation  for  taking  possession  of  Concession  Property
+under section 19A
+Where  any  Concession  Property  is  taken  possession  of  under
+section 19A(2), the Government is liable to pay such compensation
+to the Corporation in relation to that Concession Property as would
+be required to be paid by KCRC to the Corporation under the
+Service Concession Agreement had the Concession Property been
+taken possession of by KCRC or redelivered by the Corporation to
+KCRC  under  the  Service  Concession  Agreement  upon  the
+termination or expiry of the Service Concession Agreement.
+(Added 11 of 2007 s. 15)
+19C.
+Rights to have access to and use KCRC Common Property or
+Corporation Common Property upon revocation or expiry of
+franchise
+(1)
+Where the franchise or that part of it relating to the KCRC
+Railways is revoked under section 18 or the franchise has
+expired  and  has  not  been  extended  under  section  5,  the
+Government, its nominee or a third party designated by the
+Government may have access to any Corporation Common
+Property which is not taken possession of under section 19(1),
+and  may  use  such  Corporation  Common  Property  in  the
+operation of the service and the TSA bus service to the extent
+that they are covered by the revocation or expiry in accordance
+with the provisions of the operating agreement relating to such
+use.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+16 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(2)
+Where  that  part  of  the  franchise  relating  to  the  KCRC
+Railways is revoked under section 18 and that part of the
+franchise relating to the Mass Transit Railway remains in
+force,  the  Corporation  may  have  access  to  any  KCRC
+Common Property which is taken possession of under section
+19A(2), and may use such KCRC Common Property in the
+operation of the Mass Transit Railway in accordance with the
+provisions of the operating agreement relating to such use.
+(3)
+In this section—
+(a)
+Corporation Common Property (共⽤財) means
+any property (other than Concession Property) which at
+the time of the revocation of the franchise or that part of
+it relating to the KCRC Railways or the expiry of the
+franchise (as the case may be), is property owned, kept
+or used by the Corporation for the purposes of or in
+connection  with  the  operation  of  both  the  KCRC
+Railway and the Mass Transit Railway, and which falls
+within the definition of “Corporation Common Property”
+in the Service Concession Agreement;
+(b)
+KCRC Common Property (九共⽤財) means any
+Concession Property which at the time of the revocation
+of  that  part  of  the  franchise  relating  to  the  KCRC
+Railways, is Concession Property kept or used by the
+Corporation for the purposes of or in connection with the
+operation  of  both  the  KCRC  Railway  and  the  Mass
+Transit Railway, and which falls within the definition of
+“KCRC Common Property” in the Service Concession
+Agreement.
+(Added 11 of 2007 s. 15)
+20.
+Compensation for use of railway property under section 19
+(1)
+The Government is liable to pay compensation for the use of,
+loss of or damage to any property taken possession of under
+section 19.
+(2)
+If property taken possession of under section 19 is disposed of
+under section 19(3) otherwise than by being returned to the
+Corporation,  compensation  is  payable  in  accordance  with
+subsection (1) to the extent that the property is not replaced or
+its loss compensated for in some other manner.
+(3)
+Where  property  taken  possession  of  under  section  19  is
+property that is already in the possession of the Government,
+its nominee or a third party designated by the Government by
+virtue of the exercise of powers conferred under section 15(5),
+the amount of any compensation payable under section 15(6)
+shall  be  deducted  from  the  amount  of  compensation  that
+would otherwise be payable under this section.
+(4)
+Notice given by the Corporation under section 19(4) does not
+affect the Corporation’s entitlement to compensation under
+this section and, accordingly, the amount of any compensation
+payable under this section in respect of property specified in
+such a notice shall be calculated as if the property had been
+disposed of under section 19(3) without that notice having
+been given.
+(5)
+The amount of any compensation payable to the Corporation
+under this section shall be calculated in accordance with the
+provisions  of  the  operating  agreement  relating  to  the
+calculation of compensation payable under this section.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+17 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+21.
+Government may be required to take possession of railway
+property
+(1)
+Where there has been any occasion of exercise of the power
+conferred under section 19(1) to take possession of property
+used or kept by the Corporation for the purposes of or in
+connection with the franchise the Corporation may, by notice
+to the Secretary, request the Government to take possession of
+any other property which the Government, its nominee or a
+third party designated by the Government was entitled to take
+possession  of,  but  did  not  take  possession  of,  under  that
+subsection on that occasion.
+(2)
+A notice under subsection (1) shall be given within a period of
+6 months from the occasion on which the power conferred
+under section 19(1) was exercised and shall, as regards any
+property  which  the  Government  is  requested  to  take
+possession of—
+(a)
+specify the property and its location;
+(b)
+contain information, or be accompanied by documents,
+verifying that the property was, on the occasion of the
+exercise  of  the  power  under  section  19(1),  property
+which  was  used  or  kept  by  the  Corporation  for  the
+purposes of or in connection with the franchise; and
+(c)
+contain all information necessary for the Government to
+gain access to and take possession of the property.
+(3)
+Unless there is some legal impediment to its doing so, or it is
+unable to gain access to the property, the Government shall
+take possession of the property specified in the notice referred
+to in subsection (1).
+(4)
+A taking of possession of property by the Government under
+this section shall be treated for the purposes of section 20(1)
+and (2) as if it were a taking of possession of that property
+under section 19(1).
+(5)
+For the purpose of, and to the extent necessary to effect, the
+disposal of any property taken possession of under subsection
+(3) (and for that purpose and to that extent only), title in the
+property is deemed to be vested in the Government.
+(6)
+No action lies against the Government in respect of the taking
+of possession of any property under this section on the ground
+that the property was not property which the Government was
+entitled to take possession of under this section.
+22.
+Power of entry
+The Government, its nominee or a third party designated by the
+Government may, for the purpose of taking possession of property
+under this Part, enter upon any premises where it is reasonably
+necessary to do so for that purpose.
+___________
+Part V
+Compensation
+23.
+Settlement or determination of claim for compensation
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+18 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(1)
+The Government may compromise or settle any claim for
+compensation under this Ordinance.
+(2)
+In default of an agreement between the Government and a
+claimant  as  regards  the  amount  of  compensation,  if  any,
+payable  to  the  claimant  under  this  Ordinance,  the
+compensation shall be determined by arbitration under the
+Arbitration Ordinance (Cap. 609).
+(3)
+For the purposes of an arbitration under subsection (2), the
+Government and the claimant shall be regarded as having
+made  an  arbitration  agreement  within  the  meaning  of  the
+Arbitration Ordinance (Cap. 609) the terms of which include a
+provision that the compensation shall, in the absence of an
+agreement, be determined by a single arbitrator.
+(Amended 17 of 2010 s. 112)
+24.
+Provisional payment pending determination of compensation
+(1)
+Pending any determination of compensation by an arbitrator as
+provided in section 23, the Government may pay to a claimant
+an amount as a provisional payment of the amount, if any,
+payable under the arbitrator’s determination.
+(2)
+A payment by the Government under subsection (1) in respect
+of a claim does not prejudice the claim or the submission of
+the claim to, or its determination by, the arbitrator under this
+Part;  but  the  amount  of  compensation  payable  under  the
+arbitrator’s  determination  in  respect  of  the  claim  shall  be
+reduced by the amount of the payment made.
+(3)
+Where  the  amount  of  compensation  payable  under  a
+determination of the arbitrator is reduced under subsection (2)
+by the amount of any payment made under subsection (1),
+only the amount of the compensation as so reduced bears
+interest for the purpose of section 25(1).
+(4)
+Where the amount of a payment made by the Government
+under subsection (1) in respect of a claim exceeds the amount
+of the compensation determined by the arbitrator in respect of
+the claim, the amount of the excess is recoverable by the
+Government as a civil debt.
+25.
+Interest on compensation
+(1)
+Subject to this section and to section 24(3), a sum of money
+payable as compensation under this Ordinance bears interest
+as from the date on which the sum becomes payable until
+payment of the sum, calculated at a rate equal to the rate fixed
+by the Hong Kong Monetary Authority and known as the base
+rate, less 100 basis points.
+(2)
+At any time after agreement or determination by an arbitrator
+of  an  amount  of  compensation  to  be  paid  under  this
+Ordinance, the Government may, by notice published in the
+Gazette, require the claimant to collect the amount within the
+time and at the place specified in the notice, and in such case
+no interest is payable under this Ordinance in respect of the
+period after the expiry of the time so specified.
+(3)
+No interest is payable under this Ordinance on any costs or
+remuneration in connection with the arbitration proceedings.
+___________
+Part VI
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+19 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+Safety of Railway
+26.
+Appointment of inspectors
+(1)
+The  Secretary  may  in  writing  appoint  any  person  as  an
+inspector for the purposes of this Part.
+(2)
+An inspector who is not a public officer may be paid, as a fee
+for  his  services,  an  amount  determined  by  the  Financial
+Secretary,  and  that  amount  shall  be  paid  out  of  moneys
+provided for the purpose by the Legislative Council.
+(3)
+When  exercising  any  power,  an  inspector  shall  produce
+evidence of his identity, and of his appointment, to any person
+who requests him to do so.
+(4)
+An  inspector  may  take  with  him  other  persons  whom  he
+reasonably requires to assist him in the exercise of his powers.
+27.
+General powers of inspectors
+(1)
+An inspector may—
+(a)
+at all reasonable times enter upon premises to which this
+subsection applies;
+(b)
+carry out on premises to which this subsection applies, or
+on any machinery, plant or equipment used in connection
+with the franchise, any test or inspection he considers
+expedient;
+(c)
+require a person to whom this subsection applies—
+(i)
+to  do  anything  which  the  inspector  reasonably
+considers to be necessary for facilitating any test or
+inspection;
+(ii)
+to provide the inspector with information which the
+inspector specifies relating to the railway or any
+machinery, plant or equipment connected with the
+railway, and to answer any question or produce for
+inspection any document which is necessary for
+that purpose; and
+(iii)
+to  provide  a  copy  of  any  document  which  the
+inspector may require to be produced for inspection
+under subparagraph (ii).
+(2)
+Subsection (1) applies to—
+(a)
+the railway, the railway premises and the premises of any
+contractor or subcontractor who is carrying out or has
+carried out any work on the railway; and
+(b)
+any employee of the Corporation and any contractor or
+subcontractor  mentioned  in  paragraph  (a)  and  his
+employees.
+(3)
+The powers conferred by this section or by regulations made
+under section 33 may be exercised by an inspector only for the
+purpose of—
+(a)
+ensuring the safety of the railway or railway premises; or
+(b)
+investigating an accident which involved the railway or
+which occurred on the railway or on railway premises,
+when the inspector is directed to do so pursuant to those
+regulations,
+and are exercisable in relation to an extension to the railway
+only if  the extension has been  brought  into operation for
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+20 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+public use.
+(4)
+Nothing in this section requires any person—
+(a)
+to  produce  any  document  which  he  could  not  be
+compelled to produce in civil proceedings in the High
+Court; or
+(b)
+in complying with any requirement for the furnishing of
+information, to provide any information which he could
+not  be  compelled  to  provide  in  evidence  in  civil
+proceedings in the High Court.
+(5)
+An inspector shall not disclose, except to the Secretary, any
+information obtained pursuant to this section unless he has
+given reasonable notice to the Corporation beforehand.
+(6)
+Any person who—
+(a)
+without  reasonable  excuse,  fails  to  comply  with  a
+requirement under subsection (1)(c);
+(b)
+knowingly  furnishes  to  an  inspector  acting  under
+subsection (1)(c) information that is false or misleading
+in a material particular; or
+(c)
+obstructs an inspector in the exercise of his powers under
+subsection (1),
+commits an offence and is liable to a fine at level 2 and to
+imprisonment for 6 months.
+28.
+Secretary  may  require  Corporation  to  carry  out  works  in
+interest of safety
+(1)
+Where in the opinion of the Secretary—
+(a)
+the condition of a part of the railway which has been
+brought into operation, or of any machinery, plant or
+equipment of such part; or
+(b)
+the manner in which the railway or a part of it is being
+operated,
+is such as to cause, or to be likely to cause, a risk of injury to
+any person, the Secretary may require the Corporation to carry
+out work or to take steps to ensure that the condition or
+manner of operation in question will cease to cause or to be
+likely to cause any such risk.
+(2)
+A requirement under subsection (1) shall be effected by notice
+in writing given to the Corporation, and the notice—
+(a)
+shall specify the work or steps required to be carried out
+or taken;
+(b)
+may specify the time before which the Corporation shall
+commence to carry out the work or take the steps and the
+time by which the work or steps must be completed.
+(3)
+If the Corporation fails without reasonable excuse to comply
+with a notice given under this section the Corporation commits
+an offence and is liable to a fine at level 6 and to a further fine
+of $10,000 for each day during which it is proved that the
+failure  to  comply  with  the  notice  has  continued  without
+reasonable excuse.
+(4)
+A copy of a document which purports to be a notice signed by
+the Secretary for the purposes of this section—
+(a)
+is admissible in evidence in proceedings for an offence
+under subsection (3) on its production without further
+proof; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+21 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(b)
+is sufficient evidence of the opinion of the Secretary and
+of the other matters contained in the document.
+29.
+Offence of negligent act or omission by employee
+(1)
+If—
+(a)
+in  connection  with  his  duty,  an  employee  of  the
+Corporation negligently does or omits to do anything in
+relation to the condition or operation of a part of the
+railway or railway premises after that part has come into
+operation; and
+(b)
+by that act or omission, the safety of a person being on
+the railway or on railway premises is endangered, or is
+likely to be endangered,
+the employee commits an offence and is liable—
+(i)
+except as provided in paragraph (ii), to a fine at level 2;
+or
+(ii)
+if the act or omission results in serious injury to or the
+death  of  a  person  being  on  the  railway  or  railway
+premises, to a fine at level 2 and to imprisonment for 6
+months.
+(2)
+For the purposes of this section, negligence is the failure to
+exercise the care or skill that a reasonable employee in the
+situation would exercise.
+30.
+Offence of wilfully endangering safety
+If—
+(a)
+a person wilfully does or omits to do anything in relation
+to the railway or railway premises; and
+(b)
+by that act or omission, the safety of any person being on
+the railway or on railway premises is endangered, or is
+likely to be endangered,
+the first-mentioned person commits an offence and is liable to a fine
+at level 6 and to imprisonment for 3 years.
+___________
+Part VII
+Transport Interchanges
+31.
+Transport interchanges
+(1)
+The Corporation shall set apart as a transport interchange the
+whole  or  a  part  of  any  area,  space  or  building,  as  the
+Corporation thinks necessary or expedient for the purpose of
+effecting and facilitating interchange between the railway and
+any other mode of transport.
+(2)
+The  Corporation  shall,  with  the  agreement  of  the
+Commissioner, prepare plans delineating the boundaries of
+every transport interchange.
+(3)
+The  Corporation  may,  with  the  agreement  of  the
+Commissioner, vary the boundaries of a transport interchange
+from time to time.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+22 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(4)
+Where the boundaries of a transport interchange are varied
+under  subsection  (3),  the  Corporation  shall  prepare  plans
+delineating  the  boundaries  of  the  transport  interchange  as
+varied and those plans shall supersede any previous plans as
+from the day on which a notice relating to those plans is
+published under subsection (6), or as from any later date that
+may be specified in the notice.
+(5)
+Plans prepared under subsection (2) or (4) shall be numbered,
+dated and signed and certified by the Commissioner as being
+plans of the transport interchange to which they relate, and
+shall be deposited by the Corporation in the Land Registry.
+(6)
+The Corporation shall cause a notice of the deposit of plans
+under subsection (5) to be published in the Gazette.
+32.
+Application of other Ordinances
+(1)
+Subject to subsection (2), the Public Bus Services Ordinance
+(Cap. 230) and the Road Traffic Ordinance (Cap. 374) as it
+applies to private roads apply to and in relation to transport
+interchanges and roads in transport interchanges respectively.
+(2)
+If there is any inconsistency between a regulation or bylaw
+made  under  this  Ordinance  in  relation  to  a  transport
+interchange and a provision of a law specified in subsection
+(1) then, to the extent of that inconsistency, the regulation or
+bylaw prevails.
+___________
+Part VIII
+Regulations and Bylaws
+33.
+Regulations
+(1)
+The  Secretary  may  make  regulations  for  anything  that  is
+necessary for the effective carrying out of this Ordinance,
+including but not limited to regulations for the purpose of any
+or all of the following—
+(a)
+controlling and regulating—
+(i)
+the maintenance and operation of the railway by the
+Corporation; (Amended E.R. 6 of 2019)
+(ii)
+(Repealed 11 of 2007 s. 16)
+(b)
+providing  for  the  obtaining  of  information  from  the
+Corporation for the purpose of section 10;
+(c)
+providing for the keeping of records by the Corporation
+for the purpose of section 11;
+(d)
+providing for the safety of persons being on the railway
+or on railway premises;
+(e)
+providing  for  the  investigation  of  accidents  on  the
+railway or on railway premises, or in which the railway
+is involved;
+(f)
+controlling  and  regulating  the  use  of  transport
+interchanges;
+(g)
+regulating the disposal of lost property on the railway;
+and
+(h)
+providing for anything which under this Ordinance is to
+be or may be prescribed.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+23 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(1A)
+The Secretary may make regulations for any or all of the
+following purposes—
+(a)
+requiring the Corporation to submit to the Commissioner,
+at such times and in such manner as may be specified in
+the regulations, a programme of the future operations or
+plans of the Corporation for the rail and TSA bus service
+within  the  North-west  Transit  Service  Area  for  such
+period  as  may  be  so  specified,  including,  without
+derogation from the generality of the foregoing, routes to
+be operated, frequency of service and vehicle allocation
+to those routes;
+(b)
+controlling and regulating the maintenance and operation
+of the TSA bus service by the Corporation; and
+(c)
+any connected purposes. (Added 11 of 2007 s. 16)
+(1B)
+Subsection  (1A)  expires  when  that  part  of  the  franchise
+relating  to  the  KCRC  Railways  is  revoked  under  section
+18. (Added 11 of 2007 s. 16)
+(1C)
+Where any regulation is made under subsection (1A)(a)  to
+require the Corporation to submit to the Commissioner any
+programme, neither the Commissioner nor any other person
+shall  disclose  any  information  obtained  pursuant  to  that
+regulation unless he has consulted the Corporation regarding
+his intention to do so. (Added 11 of 2007 s. 16)
+(2)
+Regulations made for the purpose of subsection (1)(e)—
+(a)
+may confer powers upon an inspector to compel the
+giving of information concerning  accidents, including
+power to summon a person to attend before him for the
+purpose, and may make provision for the payment of
+persons so summoned; and
+(b)
+may require compliance with a summons or requirement
+made by an inspector, and may prohibit the obstruction
+of an inspector, or the giving of false or misleading
+information.
+(3)
+Regulations made for the purpose of subsection (1)(f) may, in
+relation to transport interchanges and their use—
+(a)
+confer powers upon the Commissioner to give directions
+to  the  Corporation  in  respect  of  the  control  and
+regulation of vehicular and pedestrian traffic and the
+operation  of  public  transport  services,  car  parks  and
+parking spaces;
+(b)
+confer powers upon the Commissioner to do any act, or
+cause  any  act  to  be  done,  which  the  Corporation  is
+required or directed to do under the regulations but has
+failed to do, and to recover any costs incurred by or
+incidental to such act from the Corporation as a civil
+debt;
+(c)
+control and regulate the provision by the Corporation,
+subject  to  the  approval  of  the  Commissioner,  of
+adequate,  efficient,  safe  and  continuous  roads  and
+facilities for—
+(i)
+the use of transport interchanges by vehicles and
+members of the public;
+(ii)
+the operation of public transport services;
+(iii)
+the parking of vehicles;
+(d)
+confer powers upon the Corporation—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+24 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(i)
+to erect or place traffic signs, road markings and
+light signals;
+(ii)
+to  establish  zebra  crossings  and  light  signal
+crossings;
+(iii)
+to alter, suspend or cancel anything done under
+regulations made for the purposes of this paragraph,
+or to do so subject to the approval of the Commissioner;
+(e)
+confer powers upon the Corporation—
+(i)
+to designate bus stops, light bus stands, taxi ranks,
+fleet taxi stopping places, restricted and prohibited
+zones, car parks and parking spaces; (34 of 2023 s. 
+38)
+(ii)
+to impose speed limits;
+(iii)
+to alter, suspend or cancel anything done under
+regulations made for the purposes of this paragraph,
+or to do so subject to the approval of the Commissioner;
+(f)
+confer  powers  upon  the  Corporation  or  any  person
+authorized by the Corporation in that behalf to issue
+permits,  authorizations,  passes  and  tickets  for  traffic
+control or parking purposes;
+(g)
+provide  for  access  to  any  transport  interchange  by
+vehicles and members of the public;
+(h)
+in  any  case  where  the  prior  approval  of  the
+Commissioner is required under this Ordinance for the
+doing of any act, authorize the Corporation to do that act
+without  obtaining  that  prior  approval  where  it  is
+impracticable to do so;
+(i)
+provide  for  the  powers  of  the  employees  of  the
+Corporation,  or  other  persons  authorized  by  the
+Corporation in that regard, in controlling and regulating
+vehicular and pedestrian traffic; and
+(j)
+provide  that  no  compensation  is  payable  to  the
+Corporation for anything done or required to be done
+under or by virtue of those regulations which are for the
+benefit of the operation of the transport interchanges in
+serving the railway.
+(4)
+A  regulation  made  under  this  section  may  contain  such
+consequential,  transitional  or  saving  provision  as  may  be
+necessary or expedient in consequence of the expiry of any
+regulation made under this section. (Added 11 of 2007 s. 16)
+34.
+Bylaws
+(1)
+The Corporation may, under its common seal, make bylaws
+for any or all of the following purposes—
+(a)
+prescribing the terms and conditions relating to the use of
+its service;
+(b)
+controlling and regulating—
+(i)
+the conduct of members of the public using the
+railway or on railway premises;
+(ii)
+a system for evidencing (whether by the issue of
+tickets or otherwise) the payment of fares on the
+railway and any contract of carriage of passengers
+on the railway;
+(iii)
+advertising on railway premises; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+25 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(iv)
+the  custody  and  disposal  of  property  found  on
+railway premises;
+(c)
+protecting the property of the Corporation on railway
+premises;
+(d)
+in relation to a transport interchange—
+(i)
+controlling and regulating classes of vehicular and
+pedestrian  traffic  as  may  be  approved  by  the
+Commissioner;
+(ii)
+controlling and regulating vehicles and the conduct
+of members of the public at bus stops, light bus
+stands, taxi ranks and fleet taxi stopping places; (34 
+of 2023 s. 39)
+(iii)
+controlling and regulating vehicles and the conduct
+of  members  of  the  public  in  car  parks  and  at
+parking spaces;
+(iv)
+controlling and regulating the conduct of members
+of  the  public  at  other  parts  of  a  transport
+interchange;
+(v)
+providing for any of the following things to be done
+subject to the approval of the Commissioner—
+(A)
+erecting  or  placing  traffic  signs,  road
+markings and light signals;
+(B)
+establishing zebra crossings and light signal
+crossings;
+(C)
+altering,  suspending  or  cancelling  anything
+done under bylaws made for the purposes of
+this subparagraph;
+(vi)
+providing  for  the  following  things  to  be  done
+subject to the approval of the Commissioner—
+(A)
+designating bus stops, light bus stands, taxi
+ranks, fleet taxi stopping places, restricted and
+prohibited  zones,  car  parks  and  parking
+spaces; (34 of 2023 s. 39)
+(B)
+imposing speed limits;
+(C)
+altering,  suspending  or  cancelling  anything
+done under bylaws made for the purposes of
+this subparagraph;
+(vii)
+providing for the issuing of permits, authorizations,
+passes  and  tickets  for  traffic  control  or  parking
+purposes  and  the  imposing  and  collecting  of
+charges for parking;
+(viii)
+providing for—
+(A)
+the towing away, impounding, removal and
+disposal  of  any  vehicle  or  thing  causing
+obstruction in a transport interchange;
+(B)
+the imposition and collection of charges as
+approved by the Commissioner in respect of
+any  such  towage  or  removal  and  of  any
+impounding, storage, detention or service of
+such vehicle or thing;
+(ix)
+providing  for  the  limitation  or  exclusion  of
+liabilities of the Corporation in respect of any loss
+or damage to property;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+26 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(x)
+authorizing any person to act on its behalf for the
+purposes of this paragraph.
+(1A)
+The Corporation may, under its common seal, make bylaws
+for any or all of the following purposes—
+(a)
+prescribing the terms upon which any goods or class of
+goods will be received for carriage by the Corporation or
+stored by it including limitations on the liability of the
+Corporation in respect of the goods; and
+(b)
+controlling  access  to  certain  areas  of  the  railway
+premises by—
+(i)
+restricting access by the public or by any person to
+any part of the railway premises, and the days and
+times  of  admission  to  that  part  of  the  railway
+premises;
+(ii)
+issuing permits for access to any restricted area of
+the railway premises and the fees payable in respect
+of such permits;
+(iii)
+exempting, by notice in writing and subject to such
+conditions  as  the  Chief  Executive  Officer  may
+impose, any person or class of person from all or
+any of the requirements of any bylaw regarding
+entry into a restricted area; and
+(iv)
+empowering the Chief Executive Officer to prepare
+and certify a plan delineating or describing any part
+or  parts  of  the  railway  premises  as  a  restricted
+area. (Added 11 of 2007 s. 17)
+(1B)
+Subsection  (1A)  expires  when  that  part  of  the  franchise
+relating  to  the  KCRC  Railways  is  revoked  under  section
+18. (Added 11 of 2007 s. 17)
+(1C)
+Where the Corporation operates the TSA bus service, the
+power to make bylaws under subsections (1) and (1A) shall
+extend to making bylaws for the purposes of the TSA bus
+service for any of the matters specified in those subsections as
+if the TSA bus service were the service. (Added 11 of 2007 s. 
+17)
+(1D)
+Nothing in subsection (1C) shall have the effect of deeming
+premises used in the operation of the TSA bus service to be
+the  railway  premises  for  the  purposes  of  subsection  (1A)
+(b). (Added 11 of 2007 s. 17)
+(1E)
+Any  bylaw  made  under  this  section  may  contain  such
+consequential,  transitional  or  saving  provision  as  may  be
+necessary or expedient in consequence of the expiry of any
+bylaw made under this section. (Added 11 of 2007 s. 17)
+(2)
+Bylaws  shall  not  be  made  under  this  section  which  are
+inconsistent with this Ordinance or regulations made under
+this Ordinance.
+(3)
+Bylaws made under this section are subject to the approval of
+the Legislative Council.
+(4)
+The Corporation shall cause printed copies of all bylaws made
+under this section to be kept at its registered office and to be
+available for sale to any person at a reasonable cost.
+35.
+Further powers in relation to regulations and bylaws
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+27 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(1)
+Regulations made under section 33 or bylaws made under
+section  34  may  confer  authority  upon  employees  of  the
+Corporation or persons authorized by the Corporation in that
+regard on railway premises or in transport interchanges—
+(a)
+to  detain  any  person  reasonably  suspected  of  having
+contravened this Ordinance, the regulations or bylaws
+and to take such other steps as may be provided for in the
+regulations or bylaws to ensure that the person is dealt
+with in accordance with law;
+(b)
+to stop, search and detain any vehicle in connection with
+any contravention against this Ordinance, the regulations
+or bylaws.
+(2)
+Regulations  made  under  section  33(1)(f)  or  bylaws  made
+under section 34 may confer powers upon an employee of the
+Corporation or any person authorized by the Corporation in
+that regard—
+(a)
+to request a person suspected of having contravened this
+Ordinance, the regulations or bylaws to give his personal
+particulars to the requestor;
+(b)
+if a vehicle is involved in that contravention, to request
+the registered owner of the vehicle to give the personal
+particulars of the driver of the vehicle at the material
+time to the requestor.
+(3)
+Regulations made under section 33 or bylaws made under
+section 34 may provide that a contravention of a specified
+provision of the regulations or bylaws is an offence and may
+prescribe penalties for that contravention not exceeding a fine
+at level 2 and imprisonment for 6 months.
+(4)
+Regulations made under section 33 or bylaws made under
+section 34 which provide that hawking on railway premises is
+an offence may also provide that all or any part of sections 86,
+86A,  86C  and  86D  of  the  Public  Health  and  Municipal
+Services Ordinance (Cap. 132) are to apply as if that offence
+was a hawker offence within the meaning of section 83 of that
+Ordinance.
+(5)
+Bylaws made under section 34(1)(d) may provide for a fixed
+penalty  to  be  payable  for  contravention  of  any  specified
+provision of the bylaws and for the recovery of that fixed
+penalty.
+(6)
+A  plan  purporting  to  be  certified  by  the  Chief  Executive
+Officer as a plan of a restricted area or as a copy of a plan of a
+restricted  area  certified  by  the  Chief  Executive  Officer  is
+admissible  in  evidence  in  any  proceedings  for  an  offence
+against  a  bylaw  made  under  section  34(1A)(b)  on  its
+production  without  further  proof  and  until  the  contrary  is
+proved—
+(a)
+the court before which such certified plan or copy is
+produced shall presume that the signature to the plan or
+copy is genuine and that the Chief Executive Officer was
+duly appointed when he certified it; and
+(b)
+the  plan  or  copy  shall  be  evidence  of  the  area  and
+boundaries of any part or parts of the KCRC Railways
+delineated  or  described  in  the  plan  as  a  restricted
+area. (Added 11 of 2007 s. 18)
+___________
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+28 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+Part IX
+Vesting Provisions and Transitional Arrangements
+36.
+Interpretation
+(1)
+In this Part, unless the context requires otherwise, financial
+year (財政年C) means a year ending with 31 December, and
+reference to the last complete financial year of MTRC is a
+reference to the last financial year of MTRC ending before the
+appointed day.
+(2)
+Reference in this Part to property, rights and liabilities of
+MTRC is a reference to—
+(a)
+property  and  assets  of  every  description  (whether
+tangible or intangible) and rights and liabilities of every
+description  (whether  present  or  future,  actual  or
+contingent);
+(b)
+property wherever situated or rights and liabilities under
+the law of any place;
+(c)
+all such property, rights and liabilities, whether or not
+capable of being transferred or assigned by MTRC.
+(3)
+In this Part, Corporation ($司) means the company—
+(a)
+which,  as  at  the  appointed  day,  is  incorporated,  and
+registered by the name “MTR Corporation Limited” in
+English  and  “地鐵有限公司”  in  Chinese,  under  the
+relevant Ordinance; and (Amended 28 of 2012 ss. 912 & 
+920)
+(b)
+the Chinese name of which is changed to “香港鐵路有
+限公司” on the Merger Date under section 66(1). (Added
+11 of 2007 s. 19)
+Vesting
+37.
+Property, etc. of MTRC to vest in Corporation
+(1)
+On the appointed day all the property, rights and liabilities to
+which MTRC was entitled or subject immediately before that
+day become by virtue of this section property, rights and
+liabilities of the Corporation.
+(2)
+Sections  38  to  41  are  supplementary  to  this  section  and,
+accordingly, have effect on and from the appointed day subject
+to, and without limiting the generality of, subsection (1).
+38.
+Agreements, transactions, etc. affecting MTRC
+(1)
+Any agreement made, transaction effected or other thing done
+by, to or in relation to MTRC which is in force or effective
+immediately before the appointed day shall have effect as from
+that day as if made, effected or done by, to or in relation to the
+Corporation, in all respects as if the Corporation were the
+same person in law as MTRC.
+(2)
+Accordingly,  references  (whether  express  or  implied)  to
+MTRC—
+(a)
+in any agreement made, transaction effected or other
+thing done by, to or in relation to MTRC (whether or not
+in writing);
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+29 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(b)
+in any process or other document issued, prepared or
+employed for the purpose of any proceedings before any
+court or other tribunal or authority;
+(c)
+in  any  other  document  whatever  (other  than  an
+enactment) relating to or affecting any property, right or
+liability of MTRC which vests by virtue of section 37 in
+the Corporation,
+shall be taken as from the appointed day as referring to the
+Corporation.
+(3)
+Where immediately before the appointed day there is in force
+or effective an agreement made, transaction effected or other
+thing done by, to or in relation to MTRC which refers (in
+whatever terms and whether expressly or by implication) to a
+person employed by or engaged in the business of MTRC, that
+agreement,  transaction or  other  thing shall have  effect,  in
+relation to anything falling to be done on or after the appointed
+day, as if for that reference there were substituted a reference
+to such person as the Corporation may appoint or, in default of
+appointment, to the person employed by or engaged in the
+business of the Corporation who corresponds as nearly as may
+be to the person employed by or engaged in the business of
+MTRC in question.
+(4)
+For the avoidance of doubt, reference in this Part to any
+agreement made, transaction effected or other thing done by,
+to or in relation to MTRC includes reference to—
+(a)
+any guarantee, conveyance, deed, lease, licence, notice,
+permit, document granting or comprising any security,
+bond,  mandate,  instruction  and  other  document  or
+instrument entered into by, given to or by or addressed to
+MTRC;
+(b)
+any  instruction,  order,  direction,  mandate,  power  of
+attorney, authority, undertaking or consent given to or by
+MTRC, whether alone or jointly with another person and
+whether in writing or not;
+(c)
+any direction, order or notice made under any legislation;
+(d)
+any contract to which MTRC was not a party;
+(e)
+any entry on any register.
+(5)
+Sections 39 to 41 are for the avoidance of doubt and do not
+affect the generality of this section.
+39.
+Security
+(1)
+Any security held immediately before the appointed day by
+MTRC, or by a person as nominee of, agent of or trustee for
+MTRC, shall be held by the Corporation, or by that person as
+nominee of, agent of or trustee for the Corporation (as the case
+may  require),  and  shall  be  available  to  the  Corporation
+(whether for its own benefit or for the benefit of any other
+person, as the case may be).
+(2)
+In relation to any security vested in the Corporation by virtue
+of this Part and any liabilities secured by the security, the
+Corporation shall be entitled to the rights and priorities, and
+shall be subject to the obligations and incidents, which MTRC
+would have been entitled to and subject to if it had continued
+to hold the security.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+30 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(3)
+In this section, security (D押) means any interest, legal or
+equitable, by means of which the payment or discharge of a
+debt  or  liability  (whether  present  or  future,  actual  or
+contingent)  is  secured,  whether  or  not  that  interest  is
+evidenced in writing.
+40.
+Miscellaneous supplementary provisions
+(1)
+The Corporation and all other persons have the same rights,
+powers and remedies for ascertaining, perfecting or enforcing
+any right or liability vested in the Corporation by virtue of this
+Part as they would have had if that right or liability had at all
+times been a right or liability of the Corporation; and in this
+subsection  reference  to  rights  and  powers  includes  in
+particular a reference to rights and powers as to the taking or
+resisting of legal proceedings or the making or resisting of
+applications to any authority.
+(2)
+Any legal proceedings or applications to any authority pending
+or commenced by or against MTRC shall be continued by or
+against the Corporation to the exclusion of MTRC.
+(3)
+Any judgment or award obtained by or against MTRC and not
+fully satisfied before the appointed day is enforceable by or
+against the Corporation to the extent that it was enforceable by
+or against MTRC immediately before that date.
+(4)
+The functions of MTRC under any Ordinance as in force
+immediately before the appointed day which—
+(a)
+relates to any part of the business of MTRC; or
+(b)
+authorizes the carrying out of works designed to be used
+in connection with any part of the business of MTRC or
+the acquisition of land for the purpose of carrying out
+any such works,
+become the functions of the Corporation for the purposes of
+that Ordinance.
+41.
+Employment-related matters
+(1)
+The  effect  of  section  37  in  relation  to  any  contract  of
+employment  with  MTRC  in  force  immediately  before  the
+appointed day is merely to modify that contract (as from that
+day)  by  substituting  the  Corporation  for  MTRC  and,
+accordingly, employment with MTRC and the Corporation
+under a contract of employment to which that section applies
+is  deemed  for  all  purposes  to  be  a  single  continuing
+employment.
+(2)
+Section 37 is effective to vest in the Corporation the rights and
+liabilities of MTRC under any agreement made, transaction
+effected or other thing done by, to or in relation to MTRC
+(including under the pay review mechanism which has been
+adopted  by  MTRC  and  effective  immediately  before  the
+appointed  day)  for  the  payment  of  pensions,  allowances,
+gratuities and benefits of every description along with all other
+rights and liabilities of MTRC and, accordingly—
+(a)
+any  deed,  rule,  certificate,  registration,  exemption  or
+other  document  constituting  or  relating  to  the  Mass
+Transit  Railway  Corporation  Retirement  Scheme,  the
+Mass  Transit  Railway  Corporation  Retention  Bonus
+Scheme  and  the  U.K.  Office  Retirement  Scheme
+established for the benefit of employees of MTRC or any
+other body corporate related to MTRC; or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+31 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(b)
+any  entitlement  to  gratuities  or  benefits  payable  by
+MTRC,
+in force or effective immediately before the appointed day is
+construed and has effect, so far as the context allows, as if
+reference in that document to MTRC was a reference to the
+Corporation and as if that entitlement was payable by the
+Corporation.
+(3)
+No member of the Board of MTRC or auditor of MTRC
+becomes by virtue only of section 37 or 38  a  director or
+auditor of the Corporation.
+Matters relating to Corporation as a Company
+42.
+Share capital
+(1)
+The Corporation shall, on the appointed day, issue shares to
+the Financial Secretary Incorporated which shall be held by
+the Financial Secretary Incorporated in trust on behalf of the
+Government.
+(2)
+Shares issued in pursuance of this section—
+(a)
+shall  each  be  of  a  par  value  of  an  amount  that  the
+Financial Secretary directs and shall carry such rights as
+he determines;
+(b)
+shall be issued at par as fully paid and shall be treated as
+if they had been paid up in cash as to the par value; and
+(c)
+shall have an aggregate par value of not more than the
+aggregate  par  value  of  the  issued  shares  of  MTRC
+immediately before the appointed day.
+(3)
+(Repealed 28 of 2012 ss. 912 & 920)
+43.
+Financial statements
+(Replaced 28 of 2012 ss. 912 & 920)
+(1)
+For the purpose of any financial statements prepared by the
+Corporation for the purposes of the Companies Ordinance
+(Cap. 622)—  (Amended 28 of 2012 ss. 912 & 920)
+(a)
+the  Corporation  shall  be  treated,  on  and  from  the
+appointed day, as if it were the continuation of MTRC;
+(b)
+the value of any asset and the amount of any liability of
+MTRC vested in the Corporation by virtue of this Part is
+taken to be the value assigned to that asset or the amount
+assigned  to  that  liability  in  the  audited  accounts  of
+MTRC for the last complete financial year of MTRC;
+and
+(c)
+the amount to be included in respect of any item is
+determined as if anything done by MTRC (whether by
+way of acquiring, revaluing or disposing of any asset or
+incurring, revaluing or discharging any liability, or by
+carrying  any  amount  to  any  provision  or  reserve,  or
+otherwise) had been done by the Corporation.
+(2)
+Accordingly  (and  without  affecting  the  generality  of
+subsection (1))—
+(a)
+the amount to be included from time to time in any
+reserves  of  the  Corporation  as  representing  the
+Corporation’s accumulated realised profits is determined
+as if the profits realised and retained by MTRC had been
+realised and retained by the Corporation;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+32 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(b)
+every other reserve or provision of MTRC becomes a
+reserve or provision of the Corporation; and
+(c)
+the amount, description and character of every reserve or
+provision of the Corporation which becomes a reserve or
+provision of the Corporation pursuant to paragraph (b) is
+the same in all respects as those of the corresponding
+reserve or provision of MTRC immediately before the
+appointed day.
+(3)
+Without affecting the generality of subsection (1), on and from
+the appointed day all profits or losses of MTRC earned or
+incurred after the beginning of the financial year of MTRC in
+which the appointed day occurs are treated as profits or losses
+of the Corporation.
+(4)
+For the purposes of the financial statements of the Corporation
+prepared for the purposes of the Companies Ordinance (Cap.
+622), the vesting in the Corporation effected by virtue of this
+Part is taken—  (Amended 28 of 2012 ss. 912 & 920)
+(a)
+to have been effected immediately after the end of the
+last complete financial year of MTRC; and
+(b)
+to have been a vesting of all the property, rights and
+liabilities  to  which  MTRC  was  entitled  or  subject
+immediately before the end of the last complete financial
+year of MTRC.
+(5)
+(Repealed 28 of 2012 ss. 912 & 920)
+44.
+Distribution of dividend
+(1)
+For the purpose of a relevant distribution that is made by the
+Corporation during the financial year of the Corporation which
+includes the appointed day or at any time before any accounts
+are laid or filed in respect of that year—
+(a)
+sections 79F to 79L of the relevant Ordinance have effect
+as if—
+(i)
+any reference in those sections to the company’s
+accounts  were  a  reference  to  the  accounts  of
+MTRC; and
+(ii)
+any reference in those sections to the company’s
+last annual accounts or to the initial accounts of the
+company  were  a  reference  to  the  accounts  of
+MTRC prepared in accordance with section 16 of
+the  repealed  Ordinance  in  respect  of  the  last
+complete financial year of MTRC;
+(b)
+the accounts of MTRC mentioned in paragraph (a)(ii) are
+regarded as satisfying the requirements of sections 79G
+and 79I of the relevant Ordinance.
+(2)
+In this section—
+relevant distribution (有5F) means any distribution to which
+Part IIA of the relevant Ordinance applied.
+(Replaced 28 of 2012 ss. 912 & 920)
+Taxation and Revenue Matters
+45.
+Taxation
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+33 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(1)
+For the purposes of the Inland Revenue Ordinance (Cap. 112),
+on and from the appointed day the Corporation is treated as if
+it were the continuation of and the same person in law as
+MTRC.
+(2)
+Accordingly  (and  without  affecting  the  generality  of
+subsection (1))—
+(a)
+a vesting in the Corporation of any property, right or
+liability by virtue of this Part does not constitute a sale or
+other  disposal  of  or  a  change  in  the  nature  of  that
+property, right or liability for any purpose under the
+Inland Revenue Ordinance (Cap. 112);
+(b)
+the aggregate amount of any losses sustained by MTRC
+which are capable of but have not been carried forward
+and set off against assessable profits of MTRC for the
+purposes  of  section  19C  of  the  Inland  Revenue
+Ordinance (Cap. 112) as at the end of the last complete
+financial year of MTRC are deemed to be losses of the
+Corporation  and,  accordingly,  available  for  set  off
+against the assessable profits of the Corporation (or the
+Corporation’s share of assessable profits of a partnership
+in  which  it  is  a  partner)  for  the  purposes  of  that
+Ordinance.
+(3)
+The profits of MTRC treated as profits of the Corporation in
+accordance with section 43(3)—
+(a)
+shall  not  be  taken  into  account  for  the  purpose  of
+computing the profits of MTRC which are chargeable to
+tax under Part 4 of the Inland Revenue Ordinance (Cap.
+112) for any year of assessment; and
+(b)
+shall be taken into account for the purpose of computing
+the profits of the Corporation which are chargeable to tax
+under Part 4 of the Inland Revenue Ordinance (Cap. 112)
+for the year of assessment the basis period for which
+includes the appointed day.
+(Amended E.R. 1 of 2012)
+46.
+Stamp duty
+No stamp or other duty is chargeable in respect of the transfer or
+vesting of any property or rights taking effect by virtue of this Part.
+Miscellaneous
+47.
+Interests in land
+The vesting in the Corporation of an interest in land by virtue of this
+Part does not—
+(a)
+constitute an acquisition, disposal, assignment, transfer
+or  parting  with  possession  of  that  interest  for  the
+purposes of section 53(4)(a) or (7)(a) of the Landlord and
+Tenant (Consolidation) Ordinance (Cap. 7); (Amended 16 
+of 2004 s. 16)
+(b)
+constitute  an  assignment,  transfer,  devolution,  parting
+with possession, dealing with or other disposition of that
+interest for the purposes of any instrument concerning or
+affecting that interest;
+(c)
+operate as a breach of covenant or condition against
+alienation;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+34 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(d)
+give rise to any right of pre-emption, right of forfeiture,
+right of re-entry, option, damages or other right of action
+affecting land;
+(e)
+invalidate or discharge any contract or security;
+(f)
+operate  so as to merge  any  leasehold  interest in the
+reversion expectant on it;
+(g)
+extinguish, affect, vary, diminish or postpone any priority
+of that interest, whether  under  the  Land  Registration
+Ordinance (Cap. 128), at law or in equity.
+48.
+Perfection of vesting of foreign property, rights and liabilities
+(1)
+MTRC  and  the  Corporation  shall  take,  as  and  when  the
+Corporation  considers  appropriate,  all  steps  necessary  or
+desirable for securing that the vesting in the Corporation under
+this Part of any foreign property, right or liability is effective
+under the relevant foreign law.
+(2)
+Until the vesting of any foreign property, right or liability of
+MTRC  in  the  Corporation  becomes  effective  under  the
+relevant foreign law, MTRC shall hold that property or right
+for the benefit of, and discharge that liability on behalf of, the
+Corporation.
+(3)
+Any costs and expenses incurred by MTRC under this section
+shall be met by the Corporation.
+(4)
+Nothing in subsection (1) or (2) shall be taken as prejudicing
+the effect under the laws of Hong Kong of the vesting in the
+Corporation by virtue of section 37 or this section of any
+foreign property, right or liability.
+(5)
+In this section, reference to any foreign property, right or
+liability is a reference to any property, right or liability in
+respect of which any issue arising in any proceedings would
+have to be determined (in accordance with the rules of private
+international law) by reference to the law of a place outside
+Hong Kong.
+49.
+Evidence of vesting
+(1)
+The production of a Government Printer’s copy, or a document
+certified by a solicitor to be a true copy of a Government
+Printer’s copy, of this Ordinance shall be conclusive evidence
+for all purposes of any vesting effected by virtue of this Part.
+(2)
+Without affecting the generality of subsection (1), a certificate
+given by or on behalf of the Corporation on or after the
+appointed day that any property, right or liability specified in
+the certificate (being property or a right or liability which
+immediately before the appointed day was that of MTRC) is
+vested  in  the  Corporation  under  this  Part  is  conclusive
+evidence for all purposes of the fact so certified.
+(3)
+The Corporation shall register or cause to be registered in the
+Land Registry a Government Printer’s copy of this Ordinance
+in respect of the vesting of the properties of MTRC in the
+Corporation.
+50.
+Waiver of prohibition of vesting
+A provision contained in any deed, contract or other document—
+(a)
+prohibiting or having the effect of prohibiting the vesting
+under this Part; or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+35 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(b)
+to the effect that a default shall occur or be deemed to
+occur, or any right or liability shall cease, as a result of
+the vesting under this Part,
+and to which MTRC is a party, is deemed to have been waived.
+51.
+Evidence: books and documents
+(1)
+Books  and  other  documents  which  would,  before  the
+appointed day, have been evidence in respect of any matter for
+or against MTRC are admissible in evidence in respect of the
+same matter for or against the Corporation.
+(2)
+In this section, documents (G件) has the same meaning as in
+section 46 of the Evidence Ordinance (Cap. 8). (Amended E.R.
+6 of 2019)
+52.
+MTRC to continue in existence until dissolved
+(1)
+Despite the repeal effected by section 64, MTRC continues in
+existence  after  the  appointed  day  until  it  is  dissolved  in
+accordance with subsection (3), and in this section the period
+of that continued existence is referred to as the transitional
+period.
+(2)
+During the transitional period, and despite the repeal effected
+by section 64—
+(a)
+sections 4 and 9 of the repealed Ordinance, modified as
+set out in Schedule 1, continue to have effect to and in
+relation to MTRC;
+(b)
+section 16 of the repealed Ordinance continues to apply
+in relation to the preparation and auditing of accounts in
+respect of the last complete financial year of MTRC, and
+MTRC shall prepare those accounts in accordance with
+that section,
+as if section 64 had not been enacted.
+(3)
+As soon as he is satisfied that nothing further remains to be
+done by MTRC under this Ordinance, and after consulting
+MTRC and the Corporation, the Secretary for Transport may,
+by notice published in the Gazette, dissolve MTRC on a day
+he specifies in the notice. (Amended L.N. 106 of 2002)
+(4)
+The  costs  and  expenses  arising  from  the  continuation  of
+MTRC under this section and incurred by MTRC shall be
+borne by the Corporation.
+___________
+Part IXA
+Vesting of Certain Rights and Liabilities of KCRC in
+Corporation
+(Part IXA added 11 of 2007 s. 20)
+52A.
+Interpretation of Part IXA
+In this Part—
+contract (合I) includes any agreement, bond, guarantee or security
+made or given orally, in writing, by deed, by conduct or
+otherwise;
+liabilities (J律責) includes obligations;
+relevant date (有5⽇期)—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+36 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(a)
+in  relation  to  a  contract  or  a  contract  of  a  class  of
+contracts specified in a Vesting Notice, means the date
+specified  in  the  Vesting  Notice  for  the  purposes  of
+section 52B(1);
+(b)
+in  relation  to  a  contract  or  a  contract  of  a  class  of
+contracts specified in a Re-vesting Notice, means the
+date specified in the Re-vesting Notice for the purposes
+of section 52C(1);
+(c)
+in relation to a contract or document to which section
+52D or 52E applies, means the Merger Date;
+(d)
+in relation to any security to which section 52F applies,
+means the date on which the rights in respect of which
+the security is held are vested in the Corporation or
+KCRC under section 52B or 52C (as the case may be);
+relevant rights and liabilities (有5的利OJ律責), in relation
+to a contract or document to which section 52B, 52D, 52E or
+52F(1) applies, means the rights and liabilities vested in the
+Corporation under section 52B, 52D, 52E or 52F(1) (as the
+case may be);
+Re-vesting Notice (再轉歸告) means a notice made by the
+Secretary under section 52C(3);
+security (D押) means any interest, legal or equitable, by means of
+which the payment or discharge of a debt or liability (whether
+present or future, actual or contingent) is secured, whether or
+not that interest is evidenced in writing;
+Vesting Notice (轉歸告) means a notice made by the Secretary
+under section 52B(3).
+52B.
+Vesting of certain contractual rights and liabilities of KCRC in
+Corporation
+(1)
+Where a contract or a class of contracts is specified in a
+Vesting Notice—
+(a)
+the rights which are exercisable by KCRC at any time on
+or after the relevant date under the terms of the contract
+or a contract of the class of contracts; and
+(b)
+the liabilities which are to be discharged by KCRC at any
+time on or after the relevant date under the terms of the
+contract or a contract of the class of contracts,
+shall vest in the Corporation by virtue of this subsection on
+that date.
+(2)
+Where a right is exercisable by KCRC before, on and after the
+relevant date under the terms of a contract or a contract of a
+class of contracts specified in a Vesting Notice, subsection (1)
+does not apply to the right which is exercisable by KCRC in
+respect of the period before the relevant date.
+(3)
+The Secretary may make a Vesting Notice for the purposes of
+subsection (1).
+(4)
+A Vesting Notice made under subsection (3) shall be published
+in the Gazette as a general notice.
+52C.
+Re-vesting of certain contractual rights and liabilities in KCRC
+(1)
+Where  a  contract  or  a  class  of  contracts  which  has  been
+specified in a Vesting Notice is specified in a Re-vesting
+Notice—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+37 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(a)
+the rights which are exercisable by the Corporation at
+any time on or after the relevant date under the terms of
+the contract or a contract of the class of contracts; and
+(b)
+the  liabilities  which  are  to  be  discharged  by  the
+Corporation at any time on or after the relevant date
+under the terms of the contract or a contract of the class
+of contracts,
+shall vest in KCRC by virtue of this subsection on that date.
+(2)
+Where a right is exercisable by the Corporation before, on and
+after the relevant date under the terms of a contract or a
+contract  of  a  class  of  contracts  specified  in  a  Re-vesting
+Notice, subsection (1) does not apply to the right which is
+exercisable by the Corporation in respect of the period before
+the relevant date.
+(3)
+The Secretary may make a Re-vesting Notice for the purposes
+of subsection (1) where—
+(a)
+the franchise is revoked under section 18;
+(b)
+that part of the franchise relating to the KCRC Railways
+is revoked under section 18;
+(c)
+the franchise has expired and has not been extended
+under section 5; or
+(d)
+both KCRC and the Corporation agree that it is necessary
+to make a Re-vesting Notice.
+(4)
+A  Re-vesting  Notice  made  under  subsection  (3)  shall  be
+published in the Gazette as a general notice.
+52D.
+Employment contracts
+(1)
+All  rights  and  liabilities  to  which  KCRC  was  entitled  or
+subject  immediately  before  the  relevant  date  under  any
+contract of employment entered into with KCRC which was in
+force immediately before the relevant date shall vest in the
+Corporation by virtue of this subsection on that date.
+(2)
+Employment with KCRC and the Corporation under a contract
+of employment to which subsection (1) applies is deemed for
+all purposes to be a single continuing employment.
+(3)
+No member of the managing board of KCRC or auditor of
+KCRC becomes by virtue only of subsection (1) a director or
+auditor of the Corporation.
+52E.
+Pension fund schemes, etc.
+(1)
+All  rights  and  liabilities  to  which  KCRC  was  entitled  or
+subject  immediately  before  the  relevant  date  under  any
+specified instrument shall vest in the Corporation by virtue of
+this subsection on that date.
+(2)
+In subsection (1), specified instrument (明G書) means any
+contract or other document—
+(a)
+which—
+(i)
+constitutes or relates to any pension fund scheme,
+provident  fund  scheme  or  any  other  retirement
+benefits  scheme  established  for  the  benefit  of
+employees of KCRC; or
+(ii)
+relates to any gratuity benefits payable by KCRC;
+and
+(b)
+which was in force immediately before the relevant date.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+38 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+52F.
+Security
+(1)
+In relation to a contract to which section 52B(1) applies, any
+security held immediately before the relevant date by KCRC,
+or by a person as nominee of, agent of or trustee for KCRC, in
+respect of the rights under the contract which are vested in the
+Corporation  under  that  section,  shall  be  held  by  the
+Corporation, or by that person as nominee of, agent of or
+trustee for the Corporation (as the case may require) as from
+that date, and shall be available to the Corporation (whether
+for its own benefit or for the benefit of any other person, as the
+case may be) as from that date.
+(2)
+In relation to any security vested in the Corporation by virtue
+of subsection (1) and any liabilities secured by the security, the
+Corporation shall be entitled to the rights and priorities, and
+shall be subject to the obligations and incidents, which KCRC
+would have been entitled to and subject to if it had continued
+to hold the security.
+(3)
+In relation to a contract to which section 52C(1) applies, any
+security  held  immediately  before  the  relevant  date  by  the
+Corporation, or by a person as nominee of, agent of or trustee
+for the Corporation, in respect of the rights under the contract
+which are vested in KCRC under that section, shall be held by
+KCRC, or by that person as nominee of, agent of or trustee for
+KCRC (as the case may require) as from that date, and shall be
+available to KCRC (whether for its own benefit or for the
+benefit of any other person, as the case may be) as from that
+date.
+(4)
+In  relation  to  any  security  vested  in  KCRC  by  virtue  of
+subsection  (3)  and  any  liabilities  secured  by  the  security,
+KCRC shall be entitled to the rights and priorities, and shall be
+subject to the obligations and incidents, which the Corporation
+would have been entitled to and subject to if it had continued
+to hold the security.
+52G.
+Supplementary  provisions  relating  to  vesting  or  re-vesting
+under this Part
+(1)
+A contract or other document to which section 52B, 52D, 52E
+or 52F(1) applies shall, to the extent of the relevant rights and
+liabilities,  have  effect  as  from  the  relevant  date  as  if  the
+Corporation is a party to the contract or document in all
+respects and as if the Corporation were the same person in law
+as KCRC.
+(2)
+Accordingly,  references  (whether  express  or  implied)  to
+KCRC in the contract or document referred to in subsection
+(1) shall, to the extent of the relevant rights and liabilities, be
+taken as from the relevant date as referring to the Corporation.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+39 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(3)
+Where the contract or document referred to in subsection (1)
+refers  (in  whatever  terms  and  whether  expressly  or  by
+implication)  to  a  person  employed  by  or  engaged  in  the
+business of KCRC, it shall have effect, to the extent of the
+relevant rights and liabilities and in relation to anything falling
+to be done on or after the relevant date, as if for that reference
+there  were  substituted  a  reference  to  such  person  as  the
+Corporation may appoint or, in default of appointment, to the
+person  employed  by  or  engaged  in  the  business  of  the
+Corporation  who  corresponds  as  nearly  as  may  be  to  the
+person employed by or engaged in the business of KCRC in
+question.
+(4)
+A contract to which section 52C or 52F(3) applies shall, to the
+extent of the rights and liabilities vested in KCRC by virtue of
+section 52C or 52F(3) (as the case may be), have effect as
+from the relevant date as if KCRC is a party to the contract in
+all respects and as if KCRC were the same person in law as
+the Corporation.
+(5)
+The Corporation and all other persons have the same rights,
+powers and remedies for ascertaining, perfecting or enforcing
+any right or liability vested in the Corporation by virtue of
+section 52B, 52D, 52E or 52F(1) as they would have had if
+that right or liability had at all times been a right or liability of
+the Corporation.
+(6)
+KCRC and all other persons have the same rights, powers and
+remedies for ascertaining, perfecting or enforcing any right or
+liability vested in KCRC by virtue of section 52C or 52F(3) as
+they would have had if that right or liability had at all times
+been a right or liability of KCRC.
+(7)
+In subsections (5) and (6), a reference to rights and powers
+includes a reference to rights and powers as to the taking or
+resisting of legal proceedings or the making or resisting of
+applications to any authority.
+52H.
+Evidence of vesting
+(1)
+The production of a Government Printer’s copy, or a document
+certified by a solicitor to be a true copy of a Government
+Printer’s copy, of this Ordinance is conclusive evidence for all
+purposes of any vesting (other than any vesting effected under
+section 52B or 52C) effected under this Part.
+(2)
+The production of a Government Printer’s copy, or a document
+certified by a solicitor to be a true copy of a Government
+Printer’s copy, of this Ordinance and of a Vesting Notice is
+conclusive evidence for all purposes of any vesting effected
+under section 52B to which the Vesting Notice relates.
+(3)
+The production of a Government Printer’s copy, or a document
+certified by a solicitor to be a true copy of a Government
+Printer’s copy, of this Ordinance and of a Re-vesting Notice is
+conclusive evidence for all purposes of any vesting effected
+under section 52C to which the Re-vesting Notice relates.
+52I.
+Waiver of prohibition of vesting
+(1)
+A provision contained in any contract or other document—
+(a)
+prohibiting or having the effect of prohibiting the vesting
+under section 52B, 52D, 52E or 52F(1); or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+40 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(b)
+to the effect that a default shall occur or be deemed to
+occur, or any right or liability shall cease, as a result of
+the vesting under section 52B, 52D, 52E or 52F(1),
+and to which KCRC is a party, is deemed to have been waived.
+(2)
+A provision contained in any contract or other document—
+(a)
+prohibiting or having the effect of prohibiting the vesting
+under section 52C or 52F(3); or
+(b)
+to the effect that a default shall occur or be deemed to
+occur, or any right or liability shall cease, as a result of
+the vesting under section 52C or 52F(3),
+and to which the Corporation is a party, is deemed to have
+been waived.
+52J.
+Evidence: books and documents
+(1)
+In relation to any matter concerning any right or liability under
+a contract vested in the Corporation under section 52B, 52D,
+52E or 52F(1),  books  and  other  documents  which  would,
+before the relevant date, have been evidence in respect of that
+matter for or against KCRC are admissible in evidence in
+respect of the same matter for or against the Corporation.
+(2)
+In relation to any matter concerning any right or liability under
+a contract vested in KCRC under section 52C or 52F(3), books
+and other documents which would, before the relevant date,
+have been evidence in respect of that matter for or against the
+Corporation are admissible in evidence in respect of the same
+matter for or against KCRC.
+(3)
+In this section, documents (G件) has the same meaning as in
+section 46 of the Evidence Ordinance (Cap. 8).
+52K.
+Perfection of vesting of foreign rights and liabilities
+(1)
+KCRC  and  the  Corporation  shall  take,  as  and  when  the
+Corporation  considers  appropriate,  all  steps  necessary  or
+desirable for securing that the vesting in the Corporation under
+this Part of any foreign right or liability is effective under the
+relevant foreign law.
+(2)
+Until the vesting of any foreign right or liability of KCRC in
+the Corporation becomes effective under the relevant foreign
+law,  KCRC  shall  hold  that  right  for  the  benefit  of,  and
+discharge that liability on behalf of, the Corporation.
+(3)
+Any costs and expenses incurred by KCRC under subsections
+(1) and (2) shall be met by the Corporation.
+(4)
+KCRC and the Corporation shall take, as and when KCRC
+considers  appropriate,  all  steps  necessary  or  desirable  for
+securing that the vesting in KCRC under this Part of any
+foreign right or liability is effective under the relevant foreign
+law.
+(5)
+Until  the  vesting  of  any  foreign  right  or  liability  of  the
+Corporation in KCRC becomes effective under the relevant
+foreign  law,  the  Corporation  shall  hold  that  right  for  the
+benefit of, and discharge that liability on behalf of, KCRC.
+(6)
+Any costs and expenses incurred by the Corporation under
+subsections (4) and (5) shall be met by KCRC.
+(7)
+Nothing in this section shall be taken as prejudicing the effect
+under the laws of Hong Kong of the vesting in the Corporation
+or KCRC by virtue of this Part of any foreign right or liability.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+41 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(8)
+In this section, a reference to any foreign right or liability is a
+reference to any right or liability in respect of which any issue
+arising in any proceedings would have to be determined (in
+accordance with the rules of private international law) by
+reference to the law of a place outside Hong Kong.
+52L.
+Resolution of dispute
+(1)
+The Corporation and KCRC shall take all steps necessary or
+reasonable to cooperate with each other in any mediation,
+arbitration  or  legal  proceedings  involving  KCRC,  the
+Corporation and any party to a contract specified in a Vesting
+Notice  or  Re-vesting  Notice,  or  a  contract  of  a  class  of
+contracts specified in such a Notice, which may arise from any
+dispute regarding the contract.
+(2)
+Subsection (1) does not apply where the dispute regarding the
+contract is—
+(a)
+a dispute only as between KCRC and the Corporation; or
+(b)
+a  dispute  between,  on  the  one  hand,  one  of  those
+corporations  and,  on  the  other  hand,  the  other
+corporation and another party to the contract.
+___________
+Part X
+Miscellaneous
+53.
+Appeal to Chief Executive in Council
+(1)
+This section applies to any decision of the Secretary or the
+Commissioner, or any person authorized by either of them,
+which is made under any provision of this Ordinance other
+than section 15(5), 15B(1), 19(1), 19A(2), 19C(1), 22, 26 or
+33. (Amended 11 of 2007 s. 21)
+(2)
+If the Corporation is aggrieved by any decision to which this
+section applies the Corporation may, within 28 days after the
+making  of  the  decision,  appeal  by  petition  to  the  Chief
+Executive in Council.
+(3)
+The decision of the Chief Executive in Council on any appeal
+under this section is final.
+(4)
+Where the Corporation appeals under this section, the decision
+under appeal shall not have effect until the appeal has been
+determined,  unless  the  Chief  Executive  in  Council  directs
+otherwise.
+(5)
+Any person who has made a decision to which this section
+applies shall, if so requested by the Corporation, and within a
+period that is reasonable in the circumstances, furnish the
+Corporation with reasons for his decision.
+(6)
+In this section, reference to a decision made by any person
+includes  reference  to  a  direction  given  or  a  requirement
+imposed by that person.
+54.
+Application of certain laws to Corporation
+(1)
+The Public Health and Municipal Services Ordinance (Cap.
+132) does not apply to the Corporation, in relation to the
+provision of a service under the franchise, to the extent set out
+in Schedule 2.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+42 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(2)
+The Building Authority may—
+(a)
+having regard to the exceptional nature of building or
+other works connected with the operation or construction
+of the railway; and
+(b)
+on such conditions as he may specify, either generally or
+in any particular case,
+exempt  any  of  those  works  from  any  provision  of  the
+Buildings Ordinance (Cap. 123).
+(3)
+Except as provided in subsection (2), the Buildings Ordinance
+(Cap. 123) applies to any building or other works carried out
+by or on behalf of the Corporation.
+54A.
+Disapplication of section 54(1) during Concession Period
+During the Concession Period, section 54(1) (insofar as it relates to
+sections 3 and 4 of Schedule 2) does not apply in relation to any
+part of the franchise relating to the KCRC Railways.
+(Added 11 of 2007 s. 22)
+54B.
+Application  of  section  11  of  Tramway  Ordinance  during
+Concession Period
+During  the  Concession  Period,  section  11  of  the  Tramway
+Ordinance (Cap. 107) applies to the North-west Railway and, for
+the purposes of such application, references in that section to “the
+company” shall be construed as references to the Corporation and
+references  to  “the  tramway”  as  references  to  the  North-west
+Railway.
+(Added 11 of 2007 s. 22)
+54C.
+Public Bus Services Ordinance not to apply to TSA bus service
+during Concession Period
+(1)
+During  the  Concession  Period,  the  Public  Bus  Services
+Ordinance (Cap. 230) does not apply to the TSA bus service
+with the following exceptions—
+(a)
+sections 16(1)(b), 18, 19, 20 and 21;
+(b)
+sections 2 and 3 to the extent that they apply to the
+provisions specified in paragraph (a),
+and for the purposes of those provisions, the Corporation shall
+be  deemed  to  be  a  grantee  within  the  meaning  of  that
+Ordinance.
+(2)
+Section 53 of this Ordinance applies to a decision, direction or
+requirement of the Commissioner given under section 16(1)
+(b), 19 or 20 of the Public Bus Services Ordinance (Cap. 230)
+in respect of the TSA bus service as if the decision, direction
+or requirement were a decision of the Commissioner made
+under this Ordinance.
+(3)
+Neither the Commissioner nor any other person shall disclose
+any  information  relating  to  the  TSA  bus  service  obtained
+pursuant to section 18 of the Public Bus Services Ordinance
+(Cap. 230) unless he has consulted the Corporation regarding
+his intention to do so.
+(4)
+The powers conferred by section 21(1)(a) of the Public Bus
+Services Ordinance (Cap. 230) may be exercised in respect of
+the TSA bus service only for the purpose of—
+(a)
+ensuring the safety of the TSA bus service; or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+43 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(b)
+investigating an accident which involved a bus used in
+the operation of the TSA bus service.
+(5)
+No person shall disclose, except to the Commissioner, any
+information  obtained  through  an  inspection  conducted  in
+respect of the TSA bus service under section 21(1)(a) of the
+Public Bus Services Ordinance (Cap. 230) unless he has given
+reasonable notice to the Corporation beforehand.
+(6)
+In this section, TSA bus service (*+路巴⼠服務) means
+the service provided through the operation of bus services
+within  the  North-west  Transit  Service  Area  by  the
+Corporation.
+(Added 11 of 2007 s. 22)
+55.
+Railway premises are public places
+For  the  avoidance  of  doubt,  and  without  affecting  any  other
+Ordinance, it is declared that the railway premises and transport
+interchanges are public places for the purposes of the Public Order
+Ordinance (Cap. 245).
+56.
+Corporation may prosecute in its name
+Without  affecting  any  Ordinance  relating  to  the  prosecution  of
+criminal offences or the powers of the Secretary for Justice in
+relation to the prosecution of criminal offences, prosecutions for an
+offence under this Ordinance may be brought in the name of the
+Corporation.
+57.
+No civil liability for breach of statutory duty
+(1)
+No  breach  of  any  duty  of  the  Corporation  created  by  or
+pursuant to this Ordinance gives rise to any civil liability.
+(2)
+Subsection  (1)  does  not  affect  any  civil  liability  of  the
+Corporation  for  negligence  or  otherwise  which  arises
+independently of a breach of any duty of the Corporation
+created by or pursuant to this Ordinance, regardless whether
+the circumstances giving rise to such civil liability would also
+be  a  breach  of  any  duty  created  by  or  pursuant  to  this
+Ordinance.
+58.
+Proceeds from sale, etc. of Government’s shares in Corporation
+(1)
+Except as provided in subsection (2), monies received by the
+Financial Secretary Incorporated as the person holding shares
+in the Corporation, or from the sale of or other dealing in
+shares in the Corporation which are held by the Financial
+Secretary Incorporated, form part of the general revenue.
+(2)
+Expenses incurred by the Financial Secretary Incorporated in
+connection with—
+(a)
+the acquisition of shares in the Corporation;
+(b)
+the holding of shares in the Corporation, or the sale of or
+other dealing in shares in the Corporation held by the
+Financial Secretary Incorporated;
+(c)
+the  listing  of  any  shares  in  the  Corporation  on  a
+recognized stock market or a specified stock exchange as
+these terms are defined in section 1 of Part 1 of Schedule
+1  to  the  Securities  and  Futures  Ordinance  (Cap.
+571), (Replaced 5 of 2002 s. 407)
+may be defrayed from the monies specified in subsection (1),
+and any amount applied or retained for that purpose does not
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+44 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+form part of the general revenue for the purposes of section 3
+of the Public Finance Ordinance (Cap. 2).
+59.
+Securities of Corporation as authorized investment
+(1)
+For the purposes of paragraph 1(a) of Schedule 2  to  the
+Trustee Ordinance (Cap. 29), the Corporation is deemed to
+have paid a dividend as there mentioned in the calendar year
+in  which  the  appointed  day  falls  (whether  or  not  the
+Corporation does in fact pay such a dividend in that year) and
+in each of the 5 years immediately preceding that year.
+(2)
+For the purposes of paragraph 2 of Schedule 2 to the Trustee
+Ordinance (Cap. 29)—
+(a)
+any debt security which was issued by, or the payment of
+principal  and  interest  on  which  was  guaranteed  by,
+MTRC before the appointed day and which becomes
+vested in the Corporation by virtue of Part IX; or
+(b)
+during any period for which the Government controls
+more than half of the voting power of the Corporation,
+any debt security which is issued by, or the payment of
+principal and interest on which is guaranteed by, the
+Corporation,
+is  deemed  to  be  a  debt  security  which  satisfies  the
+requirements of that paragraph.
+(3)
+In this section, Corporation ($司) means the company
+—
+(a)
+which,  as  at  the  appointed  day,  is  incorporated,  and
+registered by the name “MTR Corporation Limited” in
+English  and  “地鐵有限公司”  in  Chinese,  under  the
+relevant Ordinance; and
+(b)
+the Chinese name of which is changed to “香港鐵路有
+限公司” on the Merger Date under section 66(1). (Added
+11 of 2007 s. 23)
+(Amended 28 of 2012 ss. 912 & 920; E.R. 2 of 2014)
+60.
+Corporation not a public body
+Unless  otherwise  expressly  provided  for  in  any  Ordinance,  the
+Corporation  is  not  a  public  body  within  the  meaning  of  the
+Interpretation and General Clauses Ordinance (Cap. 1).
+61.
+Requirement for Secretary, etc. to consult Corporation
+(Amended 11 of 2007 s. 24)
+For the avoidance of doubt, a provision of this Ordinance requiring
+or providing for the Secretary, the  Commissioner or  any  other
+person (the first-mentioned person) to consult with the Corporation
+or any other person (the second-mentioned person) in relation to
+any matter does not oblige the Secretary, the Commissioner or the
+first-mentioned person (as the case may be) to obtain the agreement
+of the Corporation or the second-mentioned person in relation to the
+matter.
+(Amended 11 of 2007 s. 24)
+62.
+Whether a notice, etc. is subsidiary legislation
+A commencement notice issued under section 1(2), a regulation
+made under section 33 and a bylaw made under section 34 are all
+subsidiary  legislation;  any  other  instrument  issued  under  this
+Ordinance is not subsidiary legislation.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+45 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+63.
+Service of notices
+(1)
+A notice to be given to the Secretary under this Ordinance
+may be delivered to the Secretary or sent to him by post.
+(2)
+The address of the Secretary for the purposes of the giving of
+any notice under this Ordinance is the address specified in the
+operating agreement as the address for the service of notices
+on the Secretary under that agreement.
+(3)
+A notice to be given to the Corporation under this Ordinance
+shall  be  marked  for  the  attention  of  the  chairman  of  the
+Corporation and may be delivered to the Corporation or sent to
+it by post.
+(4)
+The address of the Corporation for the purposes of the giving
+of any notice under this Ordinance is the address specified in
+the operating  agreement  as  the  address for the service of
+notices on the Corporation under that agreement.
+(5)
+For the purposes of this section, a notice is delivered to the
+Secretary or the Corporation if it is delivered to the address of
+the  Secretary  or  the  Corporation  and  left  with  a  person
+apparently authorized to receive communications intended for
+the Secretary or the Corporation.
+64.
+Repeal, etc.
+(1)
+Subject  to  section  52  and  this  section,  the  Mass  Transit
+Railway Corporation Ordinance (Cap. 270), any  subsidiary
+legislation  made  under  that  Ordinance  and  any  other
+instrument issued under that Ordinance and published in the
+Gazette are repealed as from the appointed day.
+(2)
+With  effect  from  the  appointed  day,  the  regulations  made
+under the repealed Ordinance and the notices made under
+those regulations subsisting immediately before that day and
+specified  in  column  2  of  Schedule  3  are,  subject  to  the
+modifications specified in column 3 of that Schedule, adopted
+as and become regulations made under this Ordinance and
+notices made under those regulations respectively.
+(3)
+With effect from the appointed day, the bylaws made under the
+repealed Ordinance subsisting immediately before that day
+and specified in column 2 of Schedule 4 are, subject to the
+modifications specified in column 3 of that Schedule, adopted
+as and become bylaws made under this Ordinance.
+(4)
+With effect from the appointed day, the notices published
+under the repealed Ordinance subsisting immediately before
+that day and specified in column 2 of Schedule 5 are, subject
+to the modifications specified in column 3 of that Schedule,
+adopted  as  and  become  notices  published  under  this
+Ordinance.
+(5)
+Unless  the  context  requires  otherwise,  a  reference  in  any
+Ordinance or document in existence immediately before the
+appointed day to the repealed Ordinance or its provisions, or
+to a notice published under the repealed Ordinance, is deemed
+to be, in respect of the period on and after the appointed day, a
+reference to this Ordinance or its provisions or to a notice
+published under this Ordinance.
+____________________
+Editorial Note:
+Cap. 270 sub. leg. A, B, E and F are, subject to modifications, adopted as
+sub. leg. A, B, C and D respectively under Cap. 556.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+46 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+65.
+(Omitted as spent—E.R. 2 of 2014)
+66.
+Change of Chinese name
+(1)
+On the Merger Date, the Chinese name of the Corporation is
+changed from “地鐵有限公司” to “香港鐵路有限公司”.
+(2)
+The Corporation shall, as soon as practicable after the Merger
+Date, deliver to the Registrar a copy of this Ordinance as
+amended by the Rail Merger Ordinance (11 of 2007)  and
+published in the loose-leaf edition of the laws published under
+the Laws (Loose-leaf Publication) Ordinance 1990 (Cap. 643).
+(Amended E.R. 1 of 2022)
+(3)
+The  Registrar  shall  register  the  copy  of  the  Ordinance
+delivered to him pursuant to subsection (2) and—
+(a)
+enter the new Chinese name of the Corporation in the
+register in place of its former Chinese name; and
+(b)
+issue to the Corporation a certificate of change of name
+in respect of the change of the Chinese name of the
+Corporation under subsection (1).
+(4)
+The change of the Chinese name of the Corporation under this
+section  does  not  affect  any  rights  or  obligations  of  the
+Corporation or render defective any legal proceedings by or
+against it and any legal proceedings that could have been
+commenced or continued against it by its former Chinese
+name may be commenced or continued against it by its new
+Chinese name.
+(5)
+The change of the Chinese name of the Corporation under
+subsection (1) has effect despite section 22(1) of the relevant
+Ordinance. (Replaced 28 of 2012 ss. 912 & 920)
+(6)
+Nothing  in  this  section  shall  be  construed  to  affect  the
+operation of sections 107, 108 and 109 of the Companies
+Ordinance (Cap. 622) in respect of any subsequent change of
+name of the Corporation. (Amended 28 of 2012 ss. 912 & 920)
+(7)
+In this section, Registrar (U冊33) means the Registrar of
+Companies  appointed  under  section  303  of  the  relevant
+Ordinance. (Amended 28 of 2012 ss. 912 & 920)
+(Added 11 of 2007 s. 25)
+___________
+Schedule 1
+[s. 52(2)(a)]
+Sections 4 and 9 of the Repealed Ordinance
+Sections 4 and 9 of the repealed Ordinance, as modified for the purposes of
+section 52(2)(a), are as follows—
+“4.
+Board of MTRC
+(1)
+The  Board  of  the  Mass  Transit  Railway  Corporation  (MTRC)
+comprises—
+(a)
+a chairman appointed by the Chief Executive; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+47 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(b)
+such one or more other persons as the Chief Executive may
+appoint.
+(2)
+The Board is the governing body of MTRC with authority, in the name
+of MTRC, to exercise and perform the powers, functions and duties
+conferred or imposed on MTRC by or under Part IX of the Mass
+Transit Railway Ordinance (Cap. 556) and to do such things as it
+considers expedient for or conducive to the attainment of such powers,
+functions  and  duties  or  for  any  purpose  it  considers  reasonably
+incidental to or consequential upon such powers, functions and duties.
+(3)
+The Chairman and any person appointed under subsection (1)(b) may
+—
+(a)
+resign his office by notice to the Chief Executive; or
+(b)
+be removed from office by the Chief Executive.
+(4)
+Arrangements relating to meetings of the Board, and the procedure at
+meetings of the Board, shall be such as the Board may determine.
+9.
+Documents of MTRC
+(1)
+The  Mass  Transit  Railway  Corporation  (MTRC)  may  make  and
+execute all such documents as may be considered by the Board to be
+expedient for or conducive to the attainment of the objects of Part IX
+of the Mass Transit Railway Ordinance (Cap. 556) or to be reasonably
+incidental to or consequential upon the attainment of those objects.
+(2)
+A document made by MTRC is deemed to be duly executed—
+(a)
+if sealed with the seal of MTRC in the presence of a member of
+its Board; or
+(b)
+if signed on behalf of MTRC by a member of its Board.
+(3)
+Any  document  purporting  to  be  executed  in  accordance  with
+subsection (2) is, unless the contrary is proved, deemed to have been
+duly executed.
+(4)
+A document executed by MTRC in accordance with subsection (2)(b)
+is not ineffectual in law by reason only of the fact that, apart from this
+subsection, it would be required by law to be executed under seal.”.
+___________
+Schedule 2
+[s. 54(1)]
+Provisions of Public Health and Municipal Services
+Ordinance Disapplied
+ 
+1.
+No remedy lies against the Corporation under section 127 of the
+Public  Health  and  Municipal  Services  Ordinance  (Cap.  132)
+(PHMSO) in respect of a nuisance described in section 12(1)(g) of
+the PHMSO.
+2.
+Section 22 of the PHMSO does not apply to anything done by or on
+behalf of the Corporation in the course of constructing an extension.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+48 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+3.
+Regulations made under section 29 or 35 of the PHMSO as to the
+suitability, sufficiency or mode of construction of latrines or latrine
+accommodation, or the licensing thereof, do not apply to railway
+premises.
+4.
+Sections  30  and  36  of  the  PHMSO  do  not  apply  to  railway
+premises.
+5.
+Part IX and any regulations made under section 104 of the PHMSO
+do not apply to any sign or advertisement erected by or on behalf of
+the Corporation on the railway or on railway premises.
+___________
+Schedule 3
+[s. 64(2)]
+Regulations, etc. Adopted under Section 64(2) of this
+Ordinance
+Item
+1.
+Mass Transit Railway
+Regulations (Cap. 270 sub.
+leg. A)
+In regulations 4(1), (2) and (3),
+5(1), (3) and (4) and 9(c), by
+repealing “Chief Secretary for
+Administration” wherever it
+appears and substituting
+“Secretary”.
+2.
+Mass Transit Railway
+(Transport Interchange)
+Regulation (Cap. 270 sub.
+leg. E)
+In section 18, by repealing “section
+24” and substituting “section 33”.
+3.
+Mass Transit Railway
+(Transport Interchange)
+(Designation of Car Park)
+Notice (Cap. 270 sub. leg.
+H)
+4.
+Mass Transit Railway
+(Transport Interchange)
+(Designation of Prohibited
+and Restricted Zones)
+Notice (Cap. 270 sub. leg. I)
+Regulation
+Modification
+ 
+___________
+Schedule 4
+[s. 64(3)]
+Bylaws Adopted under Section 64(3) of this Ordinance
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+49 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+1.
+Mass  Transit  Railway  By-
+laws (Cap. 270 sub. leg. B)
+In by-law 2—
+(a) by repealing the definition of
+Corporation and substituting—
+(b) by repealing the definition of
+railway and substituting—
+2.
+Mass  Transit  Railway
+(Transport
+ 
+Interchange)
+Bylaw (Cap. 270 sub. leg.
+F)
+(a) In section 2(1), by repealing
+“section 24A” and substituting
+“section 31”.
+(b) In Schedule 1—
+(i) in Figure Nos. 1 and 2, by
+repealing “MASS
+TRANSIT RAILWAY
+CORPORATION
+ORDINANCE (CAP. 270)”
+and substituting “MASS
+TRANSIT RAILWAY
+ORDINANCE (CAP.
+556)”;
+(ii) in Figure No. 18, by
+repealing “MASS
+TRANSIT RAILWAY
+CORPORATION” and
+substituting “MTR
+CORPORATION
+LIMITED”.
+(c) In Schedule 3—
+(i) in Form 1—
+(A) by repealing “Hong
+Kong Special
+Administrative Region
+Government” and
+substituting
+“Government of the
+HKSAR”;
+Item
+Bylaw
+Modification
+ 
+“Corporation  ( $   司)
+means
+ 
+the
+ 
+MTR
+Corporation Limited;”;
+“railway (路)  means  the
+Mass Transit Railway;”.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+50 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(B) by repealing “Mass
+Transit Railway
+Corporation” and
+substituting “MTR
+Corporation Limited”;
+(ii) in Form 2—
+(A) by repealing “Mass
+Transit Railway
+Corporation” wherever
+it appears and
+substituting “MTR
+Corporation Limited”;
+(B) by repealing “Hong
+Kong Special
+Administrative Region
+Government” and
+substituting
+“Government of the
+HKSAR”;
+(C) by repealing “Mass
+Transit Railway
+Corporation” and
+substituting “MTR
+Corporation Limited”;
+(iii) in Forms 3, 4 and 5, by
+repealing “Mass Transit
+Railway Corporation”
+wherever it appears and
+substituting “MTR
+Corporation Limited”.
+Item
+Bylaw
+Modification
+ 
+___________
+Schedule 5
+[s. 64(4)]
+Notices Adopted under Section 64(4) of this Ordinance
+1.
+Mass  Transit  Railway
+(Transport
+ 
+Interchange)
+(Deposit  of  Plans)  Notice
+In section 1(1) and (2)—
+(a) by repealing “section 24A(2)”
+and substituting “section 31(2)”;
+Item
+Notice
+Modification
+ 
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+51 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------
+(Cap. 270 sub. leg. G)
+(b) by repealing “by the
+Commissioner” and substituting
+“by the Corporation”;
+(c) by repealing “section 24A(5)”
+and substituting “section 31(5)”.
+____________________
+Editorial Note:
+Please note  that  the Mass  Transit  Railway  (Transport  Interchange)  (Deposit  of
+Plans) Notice was amended by the Land Registration (Amendment) Ordinance 2002
+(20 of 2002), please see section 5 of that Ordinance for details.
+___________
+Schedule 6
+(Omitted as spent—E.R. 6 of 2019)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+52 of 52
+5/8/25, 14:02
+
+--------------------------------------------------------------------------------

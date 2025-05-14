@@ -1,0 +1,2557 @@
+Reprint
+as at 1 July 2014
+Land Valuation Tribunals Rules
+1977
+(SR 1977/227)
+Denis Blundell, Governor-General
+Order in Council
+At the Government House at Wellington this 29th day of August
+1977
+Present:
+His Excellency the Governor-General in Council
+Pursuant to the Land Valuation Proceedings Act 1948, His Excel-
+lency the Governor-General, acting by and with the advice and con-
+sent of the Executive Council, hereby makes the following rules.
+Contents
+Page
+1
+Title and commencement
+4
+2
+Interpretation and application
+4
+3
+Construction of rules
+5
+Note
+Changes authorised by subpart 2 of Part 2 of the Legislation Act 2012 have been made
+in this official reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
+These rules are administered by the Ministry of Justice.
+1
+
+--------------------------------------------------------------------------------
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+4
+Procedure and practice of Tribunals
+5
+5
+Non-compliance with rules
+6
+6
+Searches
+6
+7
+Mode of application
+7
+8
+Title of proceedings
+7
+9
+Address for service
+7
+10
+Place of filing
+7
+Service
+11
+Parties to be served
+8
+12
+Method of service
+8
+13
+Notices to be given by Registrar
+9
+Change of parties
+14
+Adding, striking out, and substituting parties
+9
+Withdrawal, abatement, reinstatement
+15
+Withdrawal of proceedings
+9
+16
+When proceedings not to abate
+10
+17
+Reinstatement of proceedings
+10
+Hearing of proceedings
+18
+Notification of readiness for hearing
+10
+19
+Notice of hearing
+11
+20
+Mode of taking evidence
+11
+21
+Examination of witnesses out of Tribunal
+11
+22
+Affidavits
+12
+23
+Witness summons
+13
+24
+Hearing
+13
+25
+Adjournment
+13
+26
+Right of audience
+13
+General provisions
+27
+Clerical mistakes and slips
+14
+28
+Costs
+14
+29
+Enlargement or abridgment of time
+14
+30
+Land valuation proceedings register and index
+14
+Special provisions as to certain proceedings
+31
+Claims for compensation under the Public Works Act
+1928
+15
+32
+Claims for compensation under section 10 of the Land
+Settlement Promotion and Land Acquisition Act 1952
+15
+33
+Applications for consent under Part 2 of the Land
+Settlement Promotion and Land Acquisition Act 1952
+15
+2
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+34
+Applications for consent under Part 2A of the Land
+Settlement Promotion and Land Acquisition Act 1952
+16
+35
+Applications for consent to sale or lease of land to a
+company
+17
+36
+Objections to valuations
+19
+Filing and service
+37
+Copies of documents for Crown representative
+19
+38
+Exceptions as to service
+20
+Proceedings in wrong office of District Court
+39
+Proceedings in wrong office of District Court
+20
+40
+Transfer of proceedings
+21
+Hearing
+41
+Consent to sale or lease of land without hearing
+21
+42
+Hearing
+21
+43
+Tribunal’s notes
+21
+Orders
+44
+Notice of Tribunal’s order
+22
+45
+Orders of Tribunals generally
+22
+46
+Order of Tribunal on objections to valuations
+22
+47
+Disposal of orders
+23
+48
+Additional copies of orders
+23
+49
+Notice to party to show cause why consent should not
+be revoked
+24
+Appeals
+50
+Procedure on appeal
+24
+51
+Appeal from decision under section 21 of the Valuation of
+Land Act 1951
+24
+52
+Report of Tribunal
+24
+Decisions of Tribunal
+53
+Decision of Tribunal on objections under Valuation of
+Land Act 1951
+25
+Schedule
+26
+3
+
+--------------------------------------------------------------------------------
+r 1
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Rules
+1
+Title and commencement
+(1)
+These rules may be cited as the Land Valuation Tribunals
+Rules 1977.
+(2)
+These rules shall come into force on 1 September 1977.
+2
+Interpretation and application
+(1)
+In these rules, unless the context otherwise requires,—
+Act means the Land Valuation Proceedings Act 1948
+applicant means any person whose claim, objection, appli-
+cation, or other matter is filed in the appropriate office of the
+District Court
+District Courts Rules means the District Courts Rules 2014
+order includes an award by the Tribunal on a claim for com-
+pensation under the Public Works Act 1928, and any decision
+or determination by the Tribunal, in relation to the value of
+land, made on any claim, objection, application, appeal, or
+other matter arising in any proceedings
+party, in relation to any proceedings before a Tribunal, in-
+cludes—
+(a)
+the claimant and the respondent in a claim for compen-
+sation under the Public Works Act 1928:
+(b)
+every party to a transaction or proposed transaction in
+respect of which an objection or claim for compensa-
+tion under Part 1 of the Land Settlement Promotion and
+Land Acquisition Act 1952, or an application for the
+consent of the Tribunal under Part 2 or Part 2A of that
+Act, is before the Tribunal:
+(c)
+the objector, the owner, and the occupier of the land, in
+an objection under the Valuation of Land Act 1951:
+(d)
+the objector or applicant in an objection or application
+relating to the value of land under any other enactment
+under which the Tribunal has jurisdiction to hear and
+determine any such objection or application:
+(e)
+the Crown representative appointed under section 36(1)
+of the Act:
+(f)
+any other person who satisfies the Tribunal under sec-
+tion 23(2) of the Act that he is interested in the hearing
+4
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+r 4
+proceedings includes any claim, objection, application, or
+other matter referred to a Tribunal
+Registrar means the Registrar of the appropriate office of the
+District Court; and includes a Deputy Registrar of that court
+Tribunal means a Land Valuation Tribunal; and the Land
+Valuation Tribunal or the Tribunal, when used in relation
+to any proceedings, means the particular Land Valuation Tri-
+bunal to which the proceedings have been referred.
+Expressions defined in the Act have the meanings so defined.
+A reference to a numbered form is a reference to a form so
+numbered in the Schedule.
+(2)
+These rules shall apply to all proceedings before a Land Valu-
+ation Tribunal for which no other procedure is prescribed by
+any Act or by any other rules or regulations for the time being
+in force.
+(3)
+If in any proceedings any question arises as to the application
+of any provision of these rules, the Tribunal may, either on the
+application of any party or of its own motion, determine the
+question and give such directions as it thinks fit.
+Rule 2(1) applicant: amended, on 1 April 1980, pursuant to section 18(2) of
+the District Courts Amendment Act 1979 (1979 No 125).
+Rule 2(1) District Courts Rules: inserted, on 1 April 1980, pursuant to rule
+2(3) of the District Courts Rules 1948, Amendment No 16 (SR 1980/55).
+Rule 2(1) District Courts Rules: amended, on 1 July 2014, by rule 4 of the
+Land Valuation Tribunals Amendment Rules 2014 (LI 2014/160).
+Rule 2(1) Magistrates’ Courts Rules: revoked, on 1 April 1980, pursuant to
+rule 2(3) of the District Courts Rules 1948, Amendment No 16 (SR 1980/55).
+Rule 2(1) Registrar: amended, on 1 April 1980, pursuant to section 18(2) of
+the District Courts Amendment Act 1979 (1979 No 125).
+3
+Construction of rules
+These rules shall be so construed as to secure the just, speedy,
+and inexpensive determination of any proceeding.
+4
+Procedure and practice of Tribunals
+(1)
+Subject to the provisions of these rules, no practice that is in-
+consistent with these rules shall prevail in any Tribunal.
+(2)
+If any case arises for which no form of procedure is prescribed
+by any Act, or rule, or regulation, the Tribunal shall dispose
+5
+
+--------------------------------------------------------------------------------
+r 5
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+of the case as nearly as may be practicable in accordance with
+the provisions of these rules, but in any case in such manner
+as the Tribunal thinks best calculated to promote the ends of
+justice.
+(3)
+The Tribunal may from time to time give such directions, not
+inconsistent with any relevant enactment or these rules, as it
+thinks proper for regulating the conduct of business in the Tri-
+bunal.
+5
+Non-compliance with rules
+Non-compliance with any of these rules shall not render void
+the proceedings in which the non-compliance has occurred,
+but they may be set aside either wholly or in part or amended
+or otherwise dealt with in such manner and on such terms as
+the Tribunal, on any motion made with reference to the non-
+compliance, thinks just.
+6
+Searches
+(1)
+The Tribunal or the Chairman thereof may of its or his own
+motion, or on the application of any party, make an order pro-
+hibiting the search of any records or documents.
+(2)
+Subject to subclause (1), any person (whether a party or not)
+shall be entitled to search the records of and the documents
+filed in the appropriate office of the District Court in relation to
+any proceeding that is pending before a Tribunal at the time of
+the search, and any former proceedings connected therewith.
+(3)
+Subject to the foregoing provisions of this rule, any party to
+any proceeding (not being a proceeding that is pending before
+a Tribunal at the time of the search), and any other person who
+establishes to the satisfaction of the Registrar that he has an
+interest in or is affected by any such proceeding, or the solicitor
+or agent of any such party or other person, shall, on giving the
+Registrar not less than 24 hours’ notice in writing, be entitled
+to search the records of and the documents filed in the District
+Court in relation to the proceeding.
+(4)
+All searches shall be made during the time when the office of
+the court is open pursuant to the District Courts Rules.
+Rule 6(2): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+6
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+r 10
+Rule 6(3): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+Rule 6(4): amended, on 1 April 1980, pursuant to rule 2(3) of the District Courts
+Rules 1948, Amendment No 16 (SR 1980/55).
+7
+Mode of application
+Where no form of application to a Tribunal is prescribed by
+these rules or by any Act, rule, or regulation, the application
+may be made by way of originating application in accordance
+with the District Courts Rules.
+Rule 7: amended, on 1 April 1980, pursuant to rule 2(3) of the District Courts
+Rules 1948, Amendment No 16 (SR 1980/55).
+8
+Title of proceedings
+(1)
+Every document filed or issued in any proceedings shall be
+properly intituled, and shall specify the enactment conferring
+jurisdiction to entertain the proceedings and the names of the
+parties. Form 1 may be used.
+(2)
+For the purposes of this rule, Part 5 of the District Courts Rules
+shall apply, so far as it is applicable and with the necessary
+modifications.
+Rule 8(2): amended, on 1 July 2014, by rule 5 of the Land Valuation Tribunals
+Amendment Rules 2014 (LI 2014/160).
+Rule 8(2): amended, on 1 April 1980, pursuant to rule 2(3) of the District Courts
+Rules 1948, Amendment No 16 (SR 1980/55).
+9
+Address for service
+(1)
+The first document filed by any party to any proceedings shall
+state at its foot the address for service of the party by whom it
+is filed.
+(2)
+Any such address for service may from time to time be altered
+by reasonable notice in writing to the Registrar and to the other
+parties to the proceedings.
+10
+Place of filing
+(1)
+Subject to subclause (2), every document required or author-
+ised to be filed shall be filed with the Registrar of the appro-
+priate office of the District Court.
+7
+
+--------------------------------------------------------------------------------
+r 11
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+(2)
+Subclause (1) shall not apply in any case where by any enact-
+ment it is provided that any document is to be filed in a particu-
+lar office of the District Court, whether that office is specified
+or is identified by reference to any particular locality or cir-
+cumstances.
+Rule 10(1): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+Rule 10(2): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+Service
+11
+Parties to be served
+Subject to any general or special directions by the Tribunal,
+a copy of every document filed or lodged with the Registrar
+in any proceedings shall be served by the party who filed or
+lodged it on every other party to the proceedings.
+12
+Method of service
+(1)
+Subject to the provisions of any Act, rule, or regulation, ser-
+vice of any document required to be served may be effected—
+(a)
+if the person to be served is acting by a solicitor, by
+delivering it to or leaving it for the solicitor, or sending
+it by registered post addressed to the solicitor, at the
+address for service (if given) or at his place of business:
+(b)
+if the person is not acting by a solicitor, by delivering it
+to him personally; or by leaving it for him, or sending
+it by registered post addressed to him, at the address for
+service (if given) or at his last known or usual place of
+abode or business in New Zealand:
+(c)
+in such other manner as the Tribunal may direct.
+(2)
+Where service is effected by registered post, then, unless the
+contrary is shown, service shall be deemed to have been ef-
+fected on the person to whom the document is addressed at
+the time when it would have been delivered in the ordinary
+course of post; and in proving service it shall be sufficient to
+prove that the document was properly addressed and posted.
+8
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+r 15
+13
+Notices to be given by Registrar
+Subject to the provisions of any Act, rule, or regulation, where
+any notice is required to be given by the Registrar to any per-
+son, whether a party or not, it may be given—
+(a)
+if the person is acting by a solicitor, by sending it by
+ordinary post addressed to the solicitor at the address
+for service (if given) or at his place of business:
+(b)
+if the person is not acting by a solicitor, by sending it by
+ordinary post addressed to him at the address for service
+(if given) or at his last known or usual place of abode or
+business in New Zealand:
+(c)
+in such other manner as the Tribunal may direct.
+Change of parties
+14
+Adding, striking out, and substituting parties
+At any stage of the proceedings, and either on or without the
+application of a party, the Tribunal may add, strike out, or
+substitute the name of any person as a party to the proceedings.
+Withdrawal, abatement, reinstatement
+15
+Withdrawal of proceedings
+(1)
+Subject to the provisions of any Act, rule, or regulation, no
+proceedings shall be withdrawn except by leave of the Tri-
+bunal.
+(2)
+An order granting leave to withdraw any proceedings may be
+made by the Tribunal—
+(a)
+without any formal application or notice to any party—
+(i)
+where all parties to the proceedings are present
+or represented before the Tribunal; or
+(ii)
+by consent of all parties to the proceedings; or
+(b)
+on an application made by way of notice of motion filed,
+and served by the applicant on the other parties to the
+proceedings, 14 clear days before the time fixed for the
+hearing of the notice of motion.
+(3)
+Where any party desires to be heard in opposition to an ap-
+plication made pursuant to subclause (2)(b), he shall, at least
+3 clear days before the time fixed for the hearing of the notice
+of motion, file and serve on the other parties to the proceed-
+9
+
+--------------------------------------------------------------------------------
+r 16
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+ings a notice of objection to the withdrawal of the proceedings,
+stating shortly the grounds of his objection and the matters on
+which he desires to be heard.
+16
+When proceedings not to abate
+(1)
+Proceedings shall not abate by reason of the death or
+bankruptcy of any party if the transaction in respect of which
+the proceedings are taken survives or continues, and shall
+not become defective by the assignment, creation, charge,
+transmission, or devolution of any interest, estate, or title
+during the proceedings.
+(2)
+Whether the transaction survives or not, proceedings shall not
+abate by reason of the death of any party between the hearing
+and the making of an order, and an order may be made in the
+prescribed manner notwithstanding the death.
+(3)
+The Tribunal may from time to time make such orders as may
+be necessary to give effect to this rule.
+17
+Reinstatement of proceedings
+(1)
+Where any proceedings have been struck out for want of ap-
+pearance, an application for their reinstatement may be made
+within 14 days after the date of the order striking out the pro-
+ceedings.
+(2)
+The application shall be made by notice of motion, served on
+all other parties to the proceedings.
+(3)
+On any such application, the Tribunal may if it thinks fit make
+an order reinstating the proceedings on such terms and condi-
+tions as it thinks fit.
+(4)
+The Registrar shall give notice of any such reinstatement to
+the parties to the proceedings.
+Hearing of proceedings
+18
+Notification of readiness for hearing
+When the parties certify in writing to the Registrar in whose
+office the documents are filed that the proceedings are ready
+for hearing, that Registrar shall arrange for the hearing.
+10
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+r 21
+19
+Notice of hearing
+When a time and place has been appointed for the hearing by
+the Tribunal of proceedings, the Registrar shall give notice
+thereof, in form 2, to all parties to the proceedings.
+20
+Mode of taking evidence
+(1)
+The evidence of witnesses at the hearing of any proceedings
+may be taken orally on oath or affirmation, or by affidavit,
+declaration, or otherwise as the Tribunal thinks fit.
+(2)
+Where it is intended in any proceedings to produce any docu-
+mentary material, copies of that material shall be delivered to
+the other parties or shall be exchanged between parties within
+a reasonable time before the time fixed for the hearing of the
+proceedings.
+(3)
+Where it is made to appear to the Tribunal that a party to the
+proceedings has been unduly prejudiced in the conduct of his
+case by the failure of any other party to comply with subclause
+(2), the Tribunal may grant an adjournment of the proceedings
+on such terms and conditions as it thinks fit.
+21
+Examination of witnesses out of Tribunal
+(1)
+Where in any proceedings any party desires to have the evi-
+dence of himself or of any witness taken otherwise than at the
+time and place appointed or to be appointed for the hearing of
+the proceedings, the Tribunal may, on application by the party,
+order that the evidence of the party or of the witness be taken
+before any Registrar or Deputy Registrar of a District Court
+or any member of the Tribunal (in this rule referred to as the
+examiner).
+(2)
+Where any such order is made, the proceedings shall be ad-
+journed pending the receipt of the depositions from the exam-
+iner, or of his certificate that at the time and place appointed
+for the taking of the evidence the applicant or the witness, as
+the case may be, did not appear, or that the applicant did not
+desire to proceed with the taking of the evidence.
+(3)
+On receipt of a copy of the order for examination, the examiner
+shall appoint a time and place for the examination and shall
+give notice thereof to all parties.
+11
+
+--------------------------------------------------------------------------------
+r 22
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+(4)
+The examiner may administer an oath to each witness exam-
+ined, and each witness may be examined, cross-examined, and
+re-examined as at the hearing of proceedings.
+(5)
+The examiner shall cause to be put down in writing the evi-
+dence tendered at the examination, together with notes as to
+any objections to the evidence.
+(6)
+The depositions so taken shall be signed on each page by the
+witness and by the examiner.
+(7)
+The depositions when taken shall be securely fastened together
+and, if taken otherwise than in the appropriate office of the
+District Court, shall be sent without delay to that office.
+(8)
+If at the time and place appointed for the examination there
+is no appearance by or on behalf of the applicant or witness,
+or if at that time and place the applicant intimates that it is
+not intended to proceed with the taking of the evidence, the
+examiner shall sign a certificate to that effect and, if the place
+so appointed is not the appropriate office of the District Court,
+shall send the certificate to that office.
+(9)
+On application to the Registrar, any party may inspect any
+depositions taken under this rule and make copies of them or
+extracts from them.
+Rule 21(1): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+Rule 21(7): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+Rule 21(8): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+22
+Affidavits
+Subpart 8 of Part 9 of the District Courts Rules shall apply,
+so far as they are applicable and with the necessary modifica-
+tions, to affidavits to be read and used in proceedings before
+the Tribunal.
+Rule 22: amended, on 1 July 2014, by rule 6 of the Land Valuation Tribunals
+Amendment Rules 2014 (LI 2014/160).
+Rule 22: amended, on 1 April 1980, pursuant to rule 2(3) of the District Courts
+Rules 1948, Amendment No 16 (SR 1980/55).
+12
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+r 26
+23
+Witness summons
+At the request of any party or by direction of the Tribunal, the
+Registrar shall issue a witness summons in form 3 to any per-
+son requiring him to attend, at a time and place to be specified
+in the summons, to give evidence before the Tribunal, or to
+produce to the Tribunal any documents (particulars of which
+shall be stated in the summons) in his possession or control,
+or both.
+24
+Hearing
+(1)
+Where one party to any proceedings appears, but no other party
+appears, the Tribunal shall, subject to the right of the party
+appearing to apply to have the proceedings struck out for want
+of appearance, hear his evidence and any submissions made
+on his behalf.
+(2)
+Where 2 or more parties appear, the Tribunal shall decide—
+(a)
+which party shall have the right to begin or to reply; and
+(b)
+the order and number of addresses by counsel.
+(3)
+The Tribunal in its discretion, either of its own motion or at
+the request of any party, may direct that written submissions
+be made either instead of or in addition to addresses by or on
+behalf of the parties.
+25
+Adjournment
+(1)
+The hearing of any proceedings may from time to time be ad-
+journed to such time and place and on such terms (if any) as
+the Tribunal thinks fit.
+(2)
+Where all the parties desire an adjournment, the filing with or
+sending to the Registrar of a request in writing signed by the
+parties, or signed by one party stating in the request that the
+other parties consent, shall be a sufficient application to the
+Tribunal for an adjournment.
+26
+Right of audience
+(1)
+Any party to any proceedings may appear and act personally
+or by a barrister or solicitor.
+(2)
+Where a party is absent from New Zealand, any person hold-
+ing a power of attorney from that party authorising him to act
+13
+
+--------------------------------------------------------------------------------
+r 27
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+generally for the party or to appear before any Tribunal for and
+in the name of the party may appear for and represent him in
+any proceedings before the Tribunal.
+(3)
+A corporation may appear by any officer, attorney, or duly
+authorised agent of the corporation.
+General provisions
+27
+Clerical mistakes and slips
+Clerical mistakes in orders or errors arising therein from any
+accidental slip or omission may at any time be corrected by
+the Tribunal.
+28
+Costs
+Where costs are awarded to any party by the Tribunal, the
+amount of those costs and the party or parties by whom they
+are payable shall be stated in the order.
+29
+Enlargement or abridgment of time
+(1)
+Subject to the provisions of these rules, any of the times fixed
+by or by virtue of these rules for—
+(a)
+taking any step in any proceedings; or
+(b)
+filing any document; or
+(c)
+giving any notice—
+may be enlarged or abridged by consent of all parties, or by
+the Tribunals on the application of any party.
+(2)
+An order enlarging time may be made although the application
+for it is not made until after the expiration of the time allowed
+or appointed.
+30
+Land valuation proceedings register and index
+(1)
+The Registrar shall keep a land valuation proceedings register
+in form 4.
+(2)
+There shall be entered in the register the particulars, prescribed
+in form 4, of all proceedings filed in the appropriate office of
+the District Court.
+(3)
+The Registrar shall also keep an alphabetical index to the
+names of parties to proceedings, and all necessary entries
+shall be made in the index daily.
+14
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+r 33
+Rule 30(2): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+Special provisions as to certain proceedings
+31
+Claims for compensation under the Public Works Act
+1928
+A claim for compensation under the Public Works Act 1928
+shall be made in the form and manner prescribed by Part 3 of
+that Act.
+32
+Claims for compensation under section 10 of the Land
+Settlement Promotion and Land Acquisition Act 1952
+A claim for compensation under section 10 of the Land Settle-
+ment Promotion and Land Acquisition Act 1952 shall be in
+form 5.
+33
+Applications for consent under Part 2 of the Land
+Settlement Promotion and Land Acquisition Act 1952
+(1)
+An application for the consent of the Tribunal to any trans-
+action to which Part 2 of the Land Settlement Promotion and
+Land Acquisition Act 1952 applies shall be in form 6.
+(2)
+There shall be attached to the application a copy of every
+agreement entered into between the parties, or any of them,
+in respect of the transaction which is the subject of the appli-
+cation for the Tribunal’s consent, or in respect of any other
+transaction in any way related thereto, including any ancillary
+or collateral agreements and full particulars of any agreements
+that are not in writing.
+(3)
+The application shall be supported by—
+(a)
+a declaration by the vendor or lessor in the form speci-
+fied in form 6; and
+(b)
+a declaration by the purchaser or lessee in such one of
+the forms 7, 8, and 9 as is applicable to the case.
+(4)
+Notwithstanding anything in subclause (3), an application ten-
+dered by one party to a transaction and supported by the dec-
+laration of that party only may be accepted by the Registrar
+in any case where he is satisfied that the applicant has been
+unable, after making reasonable efforts to obtain it, to secure
+15
+
+--------------------------------------------------------------------------------
+r 34
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+the prescribed declaration from the other party or parties to the
+transaction.
+(5)
+Where any fresh or ancillary or collateral agreement is entered
+into by the parties to the transaction after the filing of the appli-
+cation and before a formal order thereon is made, the applicant
+shall file with the Registrar and serve on the Crown represen-
+tative a copy of the agreement, or full particulars of it if it is
+not in writing.
+(6)
+The Tribunal may at any time before the making of an order
+consenting to the transaction direct the vendor, lessor, pur-
+chaser, or lessee to file an affidavit, declaration, or statement
+disclosing any further particulars that the Tribunal requires to
+be disclosed.
+34
+Applications for consent under Part 2A of the Land
+Settlement Promotion and Land Acquisition Act 1952
+(1)
+An application for the consent of the Tribunal to any transac-
+tion to which Part 2A of the Land Settlement Promotion and
+Land Acquisition Act 1952 applies shall be in form 6.
+(2)
+The application shall be supported by—
+(a)
+a declaration by the vendor or lessor in the form speci-
+fied in form 6; and
+(b)
+a declaration by the purchaser in such one of the forms
+10, 11, and 12 as is applicable to the case.
+(3)
+The provisions of subclauses (2), (4), (5), and (6) of rule 33
+shall apply in respect of the application.
+(4)
+Notwithstanding anything in subclause (2)(b), where the Tri-
+bunal’s consent is applied for under both Part 2 and Part 2A of
+the said Land Settlement Promotion and Land Acquisition Act
+1952, the declarations required by rule 33(3)(b) and subclause
+(2)(b) of this rule may be combined in such one of the forms
+7, 8, and 9 as is applicable to the case, and that form may be
+modified for the purpose of including therein such of the mat-
+ters in the appropriate form referred to in subclause (2)(b) of
+this rule as are not already included in the appropriate form
+referred to in rule 33(3)(b).
+16
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+r 35
+35
+Applications for consent to sale or lease of land to a
+company
+(1)
+When an application for the consent of the Tribunal under
+Part 2 or Part 2A of the Land Settlement Promotion and Land
+Acquisition Act 1952 relates to a transaction for the sale or
+lease of farm land or any interest therein to a trustee for a pri-
+vate company to be incorporated, the proposed members of
+which are to be less than 10 in number on incorporation, the
+applicant shall file with the application, or at any time before
+it is dealt with by the Tribunal, a declaration giving full par-
+ticulars of the following matters:
+(a)
+the names of the persons intending to become share-
+holders of the proposed company, and the number and
+value of the shares to be allotted to each of them;
+(b)
+the number of shares (if any) which are to be allotted to
+any such intended shareholder to be held in trust for any
+other person, and the names of the persons who will be
+beneficially interested in those shares;
+(c)
+the farm land or interest in farm land held or in course
+of being acquired by any intended shareholder or other
+person beneficially interested in the proposed company
+to a substantial degree;
+(d)
+the reasons for the incorporation of the proposed com-
+pany and for its acquisition of the land or interest
+therein;
+(e)
+what negotiations (if any) have been entered into or are
+contemplated, or what agreements, oral or otherwise,
+exist between the vendor or any intended shareholder
+or person interested in the formation of the proposed
+company and any other person whereby the possession
+or control of the land or interest in land proposed to be
+acquired by the company may in effect be secured by
+any other person or corporation by means of a transfer
+of shares in the company; and
+(f)
+whether the proposed transaction is intended in whole
+or in part to enable the possession or control of the land
+or the interest therein affected by the transaction to be
+subsequently acquired by some other person or corpor-
+ation otherwise than with the consent of the Tribunal.
+17
+
+--------------------------------------------------------------------------------
+r 35
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+(2)
+When the Tribunal is satisfied that the applicant is unable to
+declare as to any of the matters specified in subclause (1), it
+may give such directions as it thinks fit—
+(a)
+requiring the declaration to be made by any other party
+to the proceedings; or
+(b)
+requiring the information to be disclosed in any other
+manner; or
+(c)
+excusing the applicant from compliance with this rule.
+(3)
+Unless excused by the Tribunal from attending, the parties to
+any application for consent to a transaction to which subclause
+(1) applies shall attend before the Tribunal at the hearing of
+the application for examination by the Tribunal, and for cross-
+examination by the Crown representative.
+(4)
+When an application for the consent of the Tribunal under
+Part 2 or Part 2A of the Land Settlement Promotion and Land
+Acquisition Act 1952 relates to a transaction for the sale or
+lease of any farm land or any interest therein to an incorp-
+orated private company whose members are less than 10 in
+number, the solicitor or other person acting on behalf of the
+company shall disclose to the Tribunal, in such manner as the
+Tribunal requires, the names of the shareholders and other per-
+sons beneficially interested in the company’s shares, and par-
+ticulars of the farm land held by any shareholder or other per-
+son having the control or a substantial share of the control of
+the company.
+(5)
+In a case to which subclause (4) applies, the Tribunal may re-
+quire further or other information to be disclosed as to the mat-
+ters referred to in subclause (1), and may direct the attendance
+of any person for examination and cross-examination.
+(6)
+Where the application for the consent of the Tribunal under
+Part 2 or Part 2A of the Land Settlement Promotion and Land
+Acquisition Act 1952 relates to a transaction for the sale or
+lease of farm land or any interest therein to a public company
+whose members are less than 10 in number, or to a trustee for
+a public company to be incorporated, whose proposed mem-
+bers are to be less than 10 in number on incorporation, the
+Tribunal may give such directions as it thinks fit as to the mat-
+ters required to be disclosed and as to the manner in which that
+disclosure shall be made.
+18
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+r 37
+(7)
+Where in any application before the Tribunal any question
+arises under paragraph (c) of subclause (1) as to whether any
+intended shareholder or other person is beneficially interested
+in a proposed company to a substantial degree, or where in any
+such application any question arises under subclause (4) as to
+whether any shareholder or other person has the control or a
+substantial share of the control of any company, that question
+shall be decided by the Tribunal.
+(8)
+When any party refuses or fails to comply with any of the
+foregoing provisions of this rule or with any directions given
+by the Tribunal in pursuance of this rule, or where any party
+having attended pursuant to subclause (3) at a hearing by the
+Tribunal refuses to be sworn or to answer any lawful question,
+the Tribunal may refuse to grant its consent to the transaction
+without proceeding further with the application, or may refuse
+to grant its consent to the transaction until its requirements in
+that behalf are complied with.
+36
+Objections to valuations
+(1)
+Objections to valuations under the Valuation of Land Act
+1951, and objections to valuations under any other enactment
+by which the provisions of that Act relating to the procedure
+on objections is applied, shall be laid before the Tribunal in the
+form and manner prescribed by that Act and any regulations
+made thereunder.
+(2)
+The list of objections required to be filed pursuant to section
+21 of the said Act shall be filed in duplicate. One copy may
+be a carbon copy, and it shall not be necessary to attach to the
+duplicate copy a copy of the objections referred to in the list.
+Filing and service
+37
+Copies of documents for Crown representative
+(1)
+All documents filed in the appropriate office of the District
+Court in relation to proceedings under the Land Settlement
+Promotion and Land Acquisition Act 1952 shall be filed in
+duplicate. One copy may be a carbon copy.
+(2)
+The duplicate copy of every document filed in relation to pro-
+ceedings under the Land Settlement Promotion and Land Ac-
+19
+
+--------------------------------------------------------------------------------
+r 38
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+quisition Act 1952 shall, as soon as practicable after the filing
+of the document, be sent by the Registrar to the Crown repre-
+sentative acting in the proceedings.
+(3)
+The Crown representative appointed to represent the Crown
+in any other proceedings shall be entitled to require from any
+party a copy of any document filed in the proceedings.
+Rule 37(1): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+38
+Exceptions as to service
+(1)
+Nothing in these rules shall require an applicant to serve on the
+Crown representative a copy of any document filed in relation
+to proceedings under the Land Settlement Promotion and Land
+Acquisition Act 1952.
+(2)
+Nothing in these rules shall require the Valuer-General to serve
+on any other party a copy of the list of objections filed under
+section 21 of the Valuation of Land Act 1951 in respect of
+objections made under that Act or under any enactment by
+which that section is applied.
+Proceedings in wrong office of District Court
+Heading: amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+39
+Proceedings in wrong office of District Court
+(1)
+The Registrar may refuse to file any document which in his
+opinion is tendered for filing in the wrong office of the District
+Court.
+(2)
+In any such case the person tendering the document may apply
+for a direction of the Tribunal that he is entitled to file it in the
+office in which it is tendered for filing.
+(3)
+Subject to rule 40, no objection shall be taken at a hearing or
+at any subsequent proceeding on the ground that proceedings
+were filed in the wrong office of the District Court.
+Rule 39 heading: amended, on 1 April 1980, pursuant to section 18(2) of the
+District Courts Amendment Act 1979 (1979 No 125).
+Rule 39(1): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+20
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+r 43
+Rule 39(3): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+40
+Transfer of proceedings
+Where proceedings are filed in the wrong office of the District
+Court, the Tribunal, of its own motion or on the application of
+any party, may transfer them to the office of the District Court
+in which they ought to have been filed.
+Rule 40: amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+Hearing
+41
+Consent to sale or lease of land without hearing
+(1)
+In determining whether under section 28 of the Land Settle-
+ment Promotion and Land Acquisition Act 1952 it should con-
+sent to any transaction to which Part 2 or Part 2A of that Act
+applies without calling on the applicant or hearing evidence,
+the Tribunal may have regard to any report of the Crown rep-
+resentative.
+(2)
+Where the Committee makes an order under the said section
+28 the Registrar shall give to the parties notice, in form 13, of
+the making of the order.
+42
+Hearing
+In any proceedings under the Land Settlement Promotion and
+Land Acquisition Act 1952, the Tribunal may in its discretion
+require any party or any other person to give oral evidence and
+to be cross-examined as to any matter arising in the proceed-
+ings or to produce any documents in his possession or control,
+and for that purpose may direct the issue of a witness summons
+under rule 23, and may adjourn the hearing for the purpose of
+taking that evidence.
+43
+Tribunal’s notes
+(1)
+At the hearing of any proceedings before the Tribunal the
+Chairman or some other member of the Tribunal shall make
+or cause to be made a note of—
+(a)
+the facts given in evidence; and
+(b)
+any question of law raised at the hearing; and
+21
+
+--------------------------------------------------------------------------------
+r 44
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+(c)
+the Tribunal’s decision on that question of law.
+(2)
+The Chairman of the Tribunal shall, on the application on rea-
+sonable grounds of any party to the proceedings, cause the
+Registrar to supply to that party a copy of the said note.
+Orders
+44
+Notice of Tribunal’s order
+(1)
+On the making of a final order by the Tribunal (other than an
+order under section 28 of the Land Settlement Promotion and
+Land Acquisition Act 1952), the Registrar shall give notice of
+it to the parties to the proceedings.
+(2)
+When the notice relates to the decision of the Tribunal on an
+objection to a valuation under the Valuation of Land Act 1951,
+or under any other enactment by which the provisions of that
+Act relating to the procedure on objections are applied, it shall
+be in form 14. In any other case it shall be in form 15.
+45
+Orders of Tribunals generally
+(1)
+In proceedings other than those in relation to objections to
+valuations as aforesaid, the Tribunal’s formal order shall be
+in form 16.
+(2)
+The order shall be prepared and signed by the Registrar and
+sealed with the seal of the District Court.
+Rule 45(2): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+46
+Order of Tribunal on objections to valuations
+(1)
+At the expiration of the time allowed for appeals against deci-
+sions of the Tribunal upon objections to valuations under the
+Valuation of Land Act 1951 or under any enactment by which
+the provisions of that Act relating to the procedure on objec-
+tions are applied, the Registrar shall strike off the list of ob-
+jections every entry in respect of which an appeal has been
+lodged or in respect of which an application for reinstatement
+is pending under rule 17 or which has been reinstated under
+that rule, and shall make a note against that entry to the effect
+that the decision is the subject of an appeal or of an application
+or order for reinstatement, as the case may be.
+22
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+r 48
+(2)
+The list of objections shall be annexed to an order in form 17,
+which shall be signed and sealed in the manner prescribed by
+rule 45.
+(3)
+Where at the time of the signing and sealing of the order of the
+Tribunal upon such objections an application for reinstatement
+of any 1 or more of those objections is pending under rule 17
+or any 1 or more of these objections has been reinstated under
+that rule, the Valuer-General shall forthwith lodge in the ap-
+propriate office of the District Court a fresh list in duplicate of
+objections containing copies of the entries in the original list
+of objections in respect of which an application for reinstate-
+ment is so pending or has been granted, as the case may be.
+One copy may be a carbon copy, and it shall not be necessary
+to attach to the duplicate copy a copy of the objections referred
+to in the list.
+Rule 46(3): amended, on 1 April 1980, pursuant to section 18(2) of the District
+Courts Amendment Act 1979 (1979 No 125).
+47
+Disposal of orders
+(1)
+Every order of the Tribunal shall, when signed and sealed in
+accordance with rule 45, be filed by the Registrar with the
+proceedings.
+(2)
+A copy signed and sealed in accordance with rule 45, of every
+order of the Tribunal made in any proceedings under Part 2 or
+Part 2A of the Land Settlement Promotion and Land Acquisi-
+tion Act 1952 shall, on payment of the prescribed fee (if any),
+be sent by the Registrar to the applicant.
+(3)
+A copy signed and sealed in accordance with rule 45, of every
+order of the Tribunal made on objections under the Valuation
+of Land Act 1951, or under any enactment by which the pro-
+visions of that Act relating to the procedure on objections are
+applied, shall be sent by the Registrar to the Valuer-General.
+48
+Additional copies of orders
+On application by any party to any proceedings before the Tri-
+bunal, the Registrar shall issue to that party a duplicate of any
+order of the Tribunal, or a certified copy thereof.
+23
+
+--------------------------------------------------------------------------------
+r 49
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+49
+Notice to party to show cause why consent should not be
+revoked
+(1)
+When the Tribunal calls on any person to whom consent has
+been granted under Part 2 or Part 2A of the Land Settlement
+Promotion and Land Acquisition Act 1952 to show cause why
+that consent should not be revoked, a notice in form 18 shall
+be sent to that person by the Registrar.
+(2)
+A copy of the notice shall be sent to every other party to the
+proceedings.
+Appeals
+50
+Procedure on appeal
+The procedure on any appeal to the High Court against any
+decision of a Tribunal shall be as prescribed in Part 3 of the
+Supreme Court (Administrative Division) Rules 1969.
+Rule 50: amended, on 15 August 1991, pursuant to section 3(5) of the Judicature
+Amendment Act 1991 (1991 No 60).
+51
+Appeal from decision under section 21 of the Valuation of
+Land Act 1951
+Where any decision of the Tribunal entered in a list of objec-
+tions to which section 21 of the Valuation of Land Act 1951 ap-
+plies is appealed against, or more such decisions than 1 are ap-
+pealed against, the Valuer-General shall forthwith lodge with
+the Registrar, in duplicate, a fresh list of objections containing
+copies of the entries in the original list against the decisions
+on which the appeals have been lodged. One copy may be a
+carbon copy, and it shall not be necessary to attach to the du-
+plicate copy a copy of the objections referred to in the Act.
+52
+Report of Tribunal
+(1)
+On the filing of a notice of appeal under Part 3 of the Supreme
+Court (Administrative Division) Rules 1969, the Chairman of
+the Tribunal whose decision is appealed against shall forthwith
+prepare for the High Court and forward to the Registrar of the
+court in which the notice of appeal is filed, a report setting out
+the reasons for the Tribunal’s decision.
+24
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+r 53
+(2)
+The appellant and every other party affected by the decision
+shall be entitled, on application to that Registrar, to receive a
+copy of that report.
+Rule 52(1): amended, on 1 April 1980, pursuant to section 12 of the Judicature
+Amendment Act 1979 (1979 No 124).
+Decisions of Tribunal
+53
+Decision of Tribunal on objections under Valuation of
+Land Act 1951
+Where an order of the Tribunal relates to a list of objections to
+which section 21 of the Valuation of Land Act 1951 applies—
+(a)
+the order shall be in form 17, with such modifications
+as are necessary; and
+(b)
+the Registrar shall send a signed or certified copy of the
+order to the Valuer-General.
+25
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Schedule
+Contents
+Page
+1
+General heading
+27
+2
+Notice of hearing
+28
+3
+Summons to witness to appear (and to produce
+documents)
+29
+4
+Land valuation proceedings register
+30
+5
+Claim for compensation under section 10 of the Land
+Settlement Promotion and Land Acquisition Act 1952
+31
+6
+Application for consent under Part 2 or Part 2A of Land
+Settlement Promotion and Land Acquisition Act 1952
+32
+7
+Declaration by purchaser (or lessee)
+35
+8
+Declaration by purchaser (or lessee)
+39
+9
+Declaration by purchaser (or lessee)
+42
+10
+Declaration by purchaser (or lessee) in support of
+application for consent under Part 2A of Land Settlement
+Promotion and Land Acquisition Act 1952
+46
+11
+Declaration by purchaser (or lessee) in support of
+application for consent under Part 2A of Land Settlement
+Promotion and Land Acquisition Act 1952
+48
+12
+Declaration by purchaser (or lessee) in support of
+application for consent under Part 2A of Land Settlement
+Promotion and Land Acquisition Act 1952
+50
+13
+Notice of order granting unconditional consent under
+section 28 of Land Settlement Promotion and Land
+Acquisition Act 1952
+52
+14
+Notice of decision of land valuation tribunal in objection
+to valuation
+53
+15
+Notice of final order
+54
+16
+Order of Land Valuation Tribunal
+55
+17
+Order on objections to valuations
+56
+18
+Notice to show cause why consent should not be revoked
+57
+26
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 1
+r 8(1)
+General heading
+No:
+In the [name] Land Valuation Tribunal
+In the matter of [specify enactment]
+and
+In the matter of a [claim, etc]
+Between [specify]
+And [specify]
+[Not printed]
+27
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 2
+r 19
+Notice of hearing
+(General heading––Form 1)
+The above proceedings have been set down for hearing before the
+[name] Land Valuation Tribunal at [place, date, time].
+If you do not appear at the place and at the time so fixed, the Tribunal
+may hear and determine the proceedings in your absence.
+Dated at: [place, date]
+.............................. Registrar
+To:
+28
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 3
+r 23
+Summons to witness to appear (and to produce
+documents)
+(General heading––Form 1)
+To [name, address, and occupation]
+You are hereby summoned to attend at a sitting of the [name] Land
+Valuation Tribunal to be held at [place, date, time] and to give evi-
+dence in the above proceedings (and also to bring with you and pro-
+duce [state particulars of documents required]).
+This summons was issued on behalf of the above-named [specify].
+Dated at: [place, date]
+.............................. Registrar
+[Not printed]
+29
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 4
+r 30
+Land valuation proceedings register
+At [specify]
+Register
+No
+Date
+Claimant,
+vendor,
+lessor,
+objector,
+etc
+Respond-
+ent, pur-
+chaser,
+lessee, etc
+Nature of
+applica-
+tion
+Solicitor
+acting
+Docu-
+ments
+filed and
+date of fil-
+ing
+Referred
+to Land
+Valuation
+Tribunal
+(date)
+Date of
+hearing
+Order
+made
+Date of
+order
+Order
+signed
+and
+sealed
+Appeal
+lodged
+Remarks
+30
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 5
+r 32
+Claim for compensation under section 10
+of the Land Settlement Promotion and Land
+Acquisition Act 1952
+(General heading––Form 1)
+Take notice that I, [specify], of [specify], [occupation], being the
+registered proprietor (or as the case may be) of the farm land de-
+scribed in the Schedule, hereby claim the sum of $[amount] as com-
+pensation for loss to me arising out of the taking of the aforesaid farm
+land, by notice published in the Gazette of [date] at page [number].
+The aforesaid sum is made up as follows:
+Value of my interest in the land: $[amount]
+Special loss [if special loss is claimed give details]: $[amount]
+Total claim: $[amount]
+Attached is a statement showing––
+(a)
+the class of farming carried on for the past 3 seasons:
+(b)
+stock carried during past 3 seasons:
+(c)
+actual production during past 3 seasons.
+Dated at: [place, date]
+Signature:
+((solicitor or agent for) claimant)
+Schedule
+[Description of land]
+The claimant’s address for service is at:
+[Not printed]
+31
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 6
+rr 33(1), (3)(a), 34
+Application for consent under Part 2 or Part 2A
+of Land Settlement Promotion and Land
+Acquisition Act 1952
+(General heading––Form 1)
+Particulars of transaction
+Parties:
+Vendor (lessor) [full name, address, occupation]
+Purchaser (lessee) [full name, address, occupation]
+Other parties [full name, address, occupation]
+(a)
+Nature of transaction: [specify]
+(b)
+Description of land: [give legal description, title reference and
+locality. Attach sketch plan on separate sheet if land not shown
+on survey plan]
+Local authority district in which land is situated: [specify]
+(c)
+If property is leasehold:
+name of lessor: [specify]
+term of lease: [specify]
+years from: [specify]
+rent payable: $[amount]
+terms (if any) as to renewal or purchase: [specify]
+(d)
+Consideration
+total amount to be paid exclusive of stock, chattels or goodwill:
+$[amount]
+[if transaction is a lease state term and rental]
+(e)
+Latest government valuation:
+unimproved value: $[amount]
+improvements: $[amount]
+capital value: $[amount]
+date of valuation: [date]
+(f)
+Application number or other particulars of the last application
+to the High Court or the Land Valuation Court or Land Valu-
+ation Tribunal affecting the foregoing farm land (whether with
+or without other land): [specify]
+(g)
+Particulars of buildings: [specify]
+(h)
+Class of farming carried on: [specify]
+(i)
+Stock carried each year for past 3 seasons: [specify]
+32
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 6—continued
+(j)
+Production for each year for the past 3 seasons: [specify]
+(k)
+Any special features from the viewpoint of aggregation: [spe-
+cify]
+(l)
+[Where the application is under Part 2A of the Act]
+The name of any operative regional planning scheme or pro-
+posed or operative district planning scheme under the Town
+and Country Planning Act 1953, and any designation or zon-
+ing of the land for any public utility, amenity, reserve, or pub-
+lic work, or any proposed such purpose under such opera-
+tive regional planning scheme or proposed or operative district
+scheme: [specify]
+(m)
+[Where the application is under Part 2A of the Act]
+Where the land is not designated or zoned for any of the pur-
+poses set out in paragraph (l), relevant matters to enable the
+Tribunal to satisfy itself that it is unlikely that the land will be
+required for any such purpose: [specify]
+Declaration
+I, [specify], of [specify] as [insert vendor, or lessor, or purchaser, or
+lessee] in the foregoing transaction, make application for the con-
+sent of the [name] Land Valuation Tribunal to the [specify] described
+therein. And I hereby solemnly and sincerely declare:
+(1)
+that the foregoing particulars set out in this my application are
+in all respects true and correct:
+(2)
+that attached and marked “[specify]” are true copies of all the
+agreements and other documents entered into or proposed to
+be entered into by the parties and relating to or affecting the
+said transactions (including full particulars of any agreement
+or arrangement entered into or proposed to be entered into by
+the parties otherwise than in writing):
+(3)
+that, with the exception of the agreements referred to in the
+last preceding paragraph, no agreement, whether in writing or
+otherwise, has been made between the parties or any of them
+which in any way directly or indirectly refers to or affects or is
+ancillary to or collateral with the transaction for which consent
+is applied for, and no such agreement is intended to be made:
+33
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 6—continued
+(4)
+that the transaction for which consent is applied for has not
+been entered into as part of a device, plan, or scheme which
+is or is intended to be in contravention of Part 2 (or Part 2A)
+of the Land Settlement Promotion and Land Acquisition Act
+1952.
+And I make this solemn declaration conscientiously believing the
+same to be true and by virtue of the Oaths and Declarations Act 1957.
+Signature:
+Declared at [place, date], before me:
+Signature:
+(Justice of the Peace or solicitor or Notary Public or [other person
+duly authorised to take and receive statutory declarations])
+The address for service of the vendor (lessor) is at the offices of [spe-
+cify].
+The address for service of the purchaser (lessee) is at [address].
+Schedule form 6: amended, on 15 August 1991, pursuant to section 3(5) of the
+Judicature Amendment Act 1991 (1991 No 60).
+34
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 7
+rr 33(3)(b), 34(4)
+Declaration by purchaser (or lessee)
+(To be used where section 29A of Land
+Settlement Promotion and Land Acquisition Act
+1952 does not apply)
+(General heading—Form 1)
+Declaration by purchaser (or lessee)
+I, [specify], of [specify], solemnly and sincerely declare:
+1
+that I am the purchaser (or lessee) in the transaction referred
+to in the attached application marked “[specify]”.
+2
+that the following particulars are in all respects true and cor-
+rect:
+(a)
+particulars of all farm land, as defined in the Land
+Settlement Promotion and Land Acquisition Act 1952,
+owned, leased, held, or occupied by me in fee simple or
+under any tenure of more than 1 year’s duration, either
+severally, jointly, or in common with any other person
+or persons: *[specify]
+(b)
+particulars of all farm land, as so defined, in which I
+have any estate or interest, whether legal or equitable
+and whether vested or contingent, under any trust, will,
+or intestacy: *[specify]
+(c)
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied by each company, the mem-
+bers of which are less than 10 in number and of which I
+am or my wife (husband) is a member, in fee simple or
+under any tenure of more than 1 year’s duration, either
+severally, jointly, or in common with any other person
+or persons: *[specify]
+(d)
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied in fee simple or under any
+tenure of more than 1 year’s duration by my wife
+(husband) either severally, jointly, or in common with
+any other person or persons: *[specify]
+(e)
+particulars of all farm land, as so defined, in which my
+wife (husband) has any estate or interest, whether legal
+or equitable and whether vested or contingent, under
+any trust, will, or intestacy: *[specify]
+(f)
+I have attained the age of 17 years.
+35
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 7—continued
+(or, I am under 17 years of age. Particulars of all farm
+land, as so defined, owned, leased, held, or occupied by
+my parents in fee simple or under any tenure of more
+than 1 year’s duration, either severally, jointly, or in
+common with any other person or persons, or in which
+my parents have any estate or interest, whether legal or
+equitable and whether vested or contingent, under any
+trust, will, or intestacy:
+father: *[specify]
+mother: *[specify])
+(g)
+[where the purchaser or lessee is a company the mem-
+bers of which are less than 10 in number, or a trustee
+for such a company to be incorporated]
+(1)
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied in fee simple or under
+any tenure of more than 1 year’s duration by each
+member or intended member (as the case may be)
+of the company or proposed company or his wife
+(her husband), either severally, jointly, or in com-
+mon with any other person or persons: *[specify]
+(2)
+particulars of all farm land, as so defined, in
+which each member or intended member (as the
+case may be) of the company or proposed com-
+pany or his wife (her husband) has any estate or
+interest, whether legal or equitable and whether
+vested or contingent, under any trust, will, or in-
+testacy: *[specify]
+(h)
+[in case other farm land is owned, held, or occupied as
+set out in the foregoing paragraphs (a) to (g)]
+(1)
+the class of farming carried on, stock carried, and
+the production each year for the past 3 seasons:
+[specify]
+(2)
+why that farm land is insufficient for purchaser’s
+or lessee’s requirements: [specify]
+(i)
+section 29A of the Land Settlement Promotion and
+Land Acquisition Act 1952 does not apply to the trans-
+action:
+36
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 7—continued
+(j)
+particulars of any estate or interest in farm land, as
+so defined, which since the passing of the above-men-
+tioned Act (namely, 16 October 1952) I have trans-
+ferred, granted, leased, or otherwise disposed of to any
+person as trustee for any person or in respect of which
+since that date I have created any trust: *[specify]
+(k)
+the type of farming proposed to be engaged in: [specify]
+(l)
+my reason for desiring to acquire the property subject
+to the application for consent is: [specify]
+3
+that the documents attached to the said application and marked
+“[specify]” are true copies of all the agreements and other
+documents entered into or proposed to be entered into by the
+parties and relating to or affecting the said transaction (includ-
+ing full particulars of any agreement entered into or proposed
+to be entered into by the parties otherwise than in writing).
+4
+that with the exception of the agreements referred to in para-
+graph 3, no agreement, whether in writing or otherwise, has
+been made between the parties or any of them which in any
+way directly or indirectly refers to or affects or is ancillary to
+or collateral with the transaction for which consent is applied
+for, and no such agreement is intended to be made.
+5
+that the transaction for which consent is applied for has not
+been entered into as part of a device, plan, or scheme which
+is or is intended to be in contravention of Part 2 of the Land
+Settlement Promotion and Land Acquisition Act 1952.
+*Give reference to section, block, district, title reference, area, tenure, Government
+valuation and date thereof.
+And I make this solemn declaration conscientiously believing the
+same to be true, and by virtue of the Oaths and Declarations Act
+1957.
+Signature:
+Declared at [place, date], before me:
+Signature:
+37
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 7—continued
+(Justice of the Peace or solicitor or Notary Public or [other person
+duly authorised to take and receive statutory declarations])
+The address for service of the purchaser (lessee) is at [address].
+Note: In any case where the documents attached to the application
+cannot be produced to the deponent at the time of his making the fore-
+going declaration, copies of the documents referred to in paragraph 3
+of the declaration should be attached as exhibits and the declaration
+amended accordingly.
+38
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 8
+rr 33(3)(b), 34(4)
+Declaration by purchaser (or lessee)
+(To be used where section 29A of Land
+Settlement Promotion and Land Acquisition Act
+1952 applies and purchaser or lessee is a trustee)
+(General heading—Form 1)
+Declaration on behalf of purchaser (or lessee)
+I, [specify], of [specify], hereby solemnly and sincerely declare:
+1
+that I am the purchaser (or lessee) in the transaction referred
+to in the attached application marked “[specify]”.
+2
+that I am the purchaser (or lessee) in that transaction as a
+trustee under an instrument of trust, a true copy of which
+marked “[specify]” is attached to the said application.
+3
+that the full names and ages of the beneficiaries under the trust
+are as follows: [specify]
+4
+that the following particulars are in all respects true and cor-
+rect:
+(a)
+particulars of all farm land, as defined in the Land
+Settlement Promotion and Land Acquisition Act 1952
+(being an asset of the trust), owned, leased, held, or
+occupied by me as such trustee in fee simple or under
+any tenure of more than 1 year’s duration, either sev-
+erally, jointly, or in common with any other person or
+persons: *[specify]
+(b)
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied by each company, the mem-
+bers of which are less than 10 in number and of which I
+am as such trustee a member, in fee simple or under any
+tenure of more than 1 year’s duration, either severally,
+jointly, or in common with any other person or persons:
+*[specify]
+(c)
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied in fee simple, or under any
+tenure of more than 1 year’s duration, by any benefi-
+ciary under the trust: *[specify]
+(d)
+particulars of all farm land, as so defined, in which any
+beneficiary under the trust has any estate or interest,
+whether legal or equitable and whether vested or con-
+39
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 8—continued
+tingent, under any other trust or under any will or intes-
+tacy: *[specify]
+(e)
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied in fee simple, or under any
+tenure of more than 1 year’s duration, by the wife
+or husband of any beneficiary under the trust, either
+severally, jointly, or in common with any other person
+or persons: *[specify]
+(f)
+particulars of all farm land, as so defined, in which the
+wife or husband of any beneficiary under the trust has
+any estate or interest, whether legal or equitable and
+whether vested or contingent, under any trust, will, or
+intestacy: *[specify]
+(g)
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied in fee simple or under any
+tenure of more than 1 year’s duration, either sever-
+ally, jointly, or in common with any other person or
+persons, by a parent of any beneficiary under the trust
+under 17 years of age or in which a parent of any such
+beneficiary has any estate or interest, whether legal or
+equitable and whether vested or contingent, under any
+trust, will, or intestacy: *[specify]
+(h)
+[in case other farm land is owned, held, or occupied as
+set out in the foregoing paragraphs (a) to (g)]
+(1)
+the class of farming carried on, stock carried, and
+the production each year for the past 3 seasons:
+[specify]
+(2)
+why that farm land is insufficient for purchaser’s
+or lessee’s requirements: [specify]
+(i)
+the type of farming proposed to be engaged in: [specify]
+(j)
+my reason for desiring to acquire the property subject
+to the application for consent is: [specify]
+5
+[as in paragraph 3 of form 7]
+6
+[as in paragraph 4 of form 7]
+7
+[as in paragraph 5 of form 7]
+40
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 8—continued
+And I make this solemn declaration conscientiously believing the
+same to be true, and by virtue of the Oaths and Declarations Act
+1957.
+Signature:
+Declared at [place, date], before me:
+Signature:
+(Justice of the Peace or solicitor or Notary Public or [other person
+duly authorised to take and receive statutory declarations])
+The address for service of the purchaser (lessee) is at [address].
+Note: In any case where the documents attached to the application
+cannot be produced to the deponent at the time of his making the
+foregoing declaration, copies of the documents referred to in para-
+graphs 2 and 5 of the declaration should be attached as exhibits and
+the declaration amended accordingly.
+*Give reference to section, block, district, title reference, area, tenure, government
+valuation and date thereof.
+[Not printed]
+41
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 9
+rr 33(3)(b), 34(4)
+Declaration by purchaser (or lessee)
+(To be used where section 29A of Land
+Settlement Promotion and Land Acquisition
+Act 1952 applies and purchaser or lessee is a
+company)
+(General heading—Form 1)
+Declaration on behalf of purchaser (or lessee)
+I, [specify], of [specify], hereby solemnly and sincerely declare:
+1
+that I am [state capacity in which declaration is made, eg, the
+Secretary, a Director] of the purchaser (or lessee) in the trans-
+action referred to in the attached application marked “[spe-
+cify]”.
+2
+that the following particulars are in all respects true and cor-
+rect:
+(a)
+particulars of all farm land, as defined in the Land
+Settlement Promotion and Land Acquisition Act 1952,
+owned, leased, held, or occupied by the company in
+fee simple, or under any tenure of more than 1 year’s
+duration, either severally, jointly, or in common with
+any other person or persons: *[specify]
+(b)
+particulars of all farm land, as so defined, in which the
+company has any estate or interest, whether legal or
+equitable and whether vested or contingent, under any
+trust or will: *[specify]
+(c)
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied by each company, the mem-
+bers of which are less than 10 in number and of which
+the purchaser (or lessee) company is a member, in
+fee simple or under any tenure of more than 1 year’s
+duration, either severally, jointly, or in common with
+any other person or persons: *[specify]
+(d)
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied in fee simple, or any tenure
+of more than 1 year’s duration, by each member of the
+company and his wife (her husband) either severally,
+jointly, or in common with any other person or persons:
+*[specify]
+42
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 9—continued
+(e)
+particulars of all farm land, as so defined, in which each
+member of the company or his wife (her husband) has
+any estate or interest, whether legal or equitable and
+whether vested or contingent, under any trust, will, or
+intestacy: *[specify]
+(f)
+[where any member of the company is under 17 years
+of age]
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied in fee simple, or under any
+tenure of more than 1 year’s duration, by the parents of
+each member of the company who is under 17 years of
+age, or in which the parents of any such member have
+any estate or interest, whether legal or equitable and
+whether vested or contingent, under any trust, will, or
+intestacy: *[specify]
+(g)
+[where any member of the company holds any shares as
+a trustee under any trust and any beneficiary under the
+trust is under the age of 17 years]
+(1)
+the following member(s) of the company hold(s)
+shares in the company as trustee(s) under a trust:
+[specify]
+(2)
+a true copy of the trust instrument is attached to
+the said application and marked “[specify]”
+(3)
+the following beneficiary (beneficiaries) under
+the trust was (were) under 17 years of age at the
+date of the transaction: [specify]
+(4)
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied by any such benefi-
+ciary in fee simple or under any tenure of more
+than 1 year’s duration, either, severally, jointly,
+or in common with any other person, or in which
+any such beneficiary has any estate or interest,
+whether legal or equitable and whether vested or
+contingent, under any other trust or under any
+will or intestacy: *[specify]
+(5)
+particulars of all farm land, as so defined, owned,
+leased, held, or occupied in fee simple, or under
+43
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 9—continued
+any tenure of more than 1 year’s duration, by a
+parent of any such beneficiary, either severally,
+jointly, or in common with any other person or
+persons, or in which a parent of any such bene-
+ficiary has any estate or interest, whether legal
+or equitable and whether vested or contingent,
+under any trust, will, or intestacy: *[specify]
+(h)
+particulars of any estate or interest in farm land, as
+so defined, which since the passing of the above-men-
+tioned Act (namely, 16 October 1952) the company has
+transferred, granted, leased, or otherwise disposed of
+to any person as trustee for any person or in respect of
+which since that date the company has created any trust:
+*[specify]
+(i)
+[in case other farm land is owned, held, or occupied as
+set out in the foregoing paragraphs (a) to (g)]
+(1)
+the class of farming carried on, stock carried, and
+the production each year for the past 3 seasons:
+[specify]
+(2)
+why that farm land is insufficient for purchaser’s
+or lessee’s requirements: [specify]
+(j)
+the type of farming proposed to be engaged in: [specify]
+(k)
+the company’s reason for desiring to acquire the prop-
+erty subject to the application for consent is: [specify]
+3
+[as in paragraph 3 of form 7]
+4
+[as in paragraph 4 of form 7]
+5
+[as in paragraph 5 of form 7]
+And I make this solemn declaration conscientiously believing the
+same to be true, and by virtue of the Oaths and Declarations Act
+1957.
+Signature:
+Declared at [place, date], before me:
+Signature:
+44
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 9—continued
+(Justice of the Peace or solicitor or Notary Public or [other person
+duly authorised to take and receive statutory declarations])
+The address for service of the purchaser (lessee) is at [address].
+Note: In any case where the documents attached to the application
+cannot be produced to the deponent at the time of his making the fore-
+going declaration, copies of the documents referred to in paragraphs
+2(g)(2) and 3 of the declaration should be attached as exhibits and
+the declaration amended accordingly.
+*Give reference to section, block, district, title reference, area, tenure, government
+valuation and date thereof.
+[Not printed]
+45
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 10
+r 34(2)(b)
+Declaration by purchaser (or lessee) in support
+of application for consent under Part 2A of Land
+Settlement Promotion and Land Acquisition Act
+1952
+(To be used where the purchaser or lessee, being
+an individual, is not a trustee)
+(General heading—Form 1)
+Declaration by purchaser (or lessee)
+I, [specify] of [specify] solemnly and sincerely declare:
+1
+that I am the purchaser (or lessee) in the transaction referred
+to in the attached application marked “[specify]”.
+2
+that the following particulars are in all respects true and cor-
+rect:
+(a)
+during the 3 years immediately preceding the date of the
+transaction I have been resident in New Zealand during
+the following periods, that is to say: [specify]
+(b)
+I intend to reside permanently in New Zealand, and so
+declare because [state matters supporting intention].
+(c)
+[where the land in the transaction is farm land] I intend
+to farm the land exclusively for my own use and benefit
+and have the ability and means to achieve that purpose,
+and so declare because [state briefly experience and fi-
+nancial situation].
+3
+[as in paragraph 3 of form 7]
+4
+[as in paragraph 4 of form 7]
+5
+[as in paragraph 5 of form 7, but referring to Part 2A of the
+Land Settlement Promotion and Land Acquisition Act 1952]
+And I make this solemn declaration conscientiously believing the
+same to be true, and by virtue of the Oaths and Declarations Act
+1957.
+Signature:
+Declared at [place, date], before me:
+Signature:
+(Justice of the Peace or solicitor or Notary Public or [other person
+duly authorised to take and receive statutory declarations])
+46
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 10—continued
+The address for service of the purchaser (lessee) is at [address].
+Note: In any case where the documents attached to the application
+cannot be produced to the deponent at the time of his making the fore-
+going declaration, copies of the documents referred to in paragraph 3
+of the declaration should be attached as exhibits and the declaration
+amended accordingly.
+[Not printed]
+47
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 11
+r 34(2)(b)
+Declaration by purchaser (or lessee) in support
+of application for consent under Part 2A of Land
+Settlement Promotion and Land Acquisition Act
+1952
+(To be used where the purchaser or lessee, being
+a corporation, is not a trustee)
+(General heading—Form 1)
+Declaration on behalf of purchaser (or lessee)
+I, [specify], of [specify], hereby solemnly and sincerely declare:
+1
+that I am [state capacity in which declaration is made, eg, the
+Secretary, a Director] of the purchaser (or lessee) in the trans-
+action referred to in the attached application marked “[spe-
+cify]”
+2
+that the following particulars are in all respects true and cor-
+rect:
+(a)
+the purchaser intends to use the land for the following
+purpose: [specify]
+(b)
+the purchaser will be able to achieve the purpose set out
+in subparagraph (a) because [set out experience and spe-
+cial knowledge available together with details of finan-
+cial ability to acheieve that purpose]
+3
+[as in paragraph 3 of form 7]
+4
+[as in paragraph 4 of form 7]
+5
+[as in paragraph 5 of form 7, but referring to Part 2A of the
+Land Settlement Promotion and Land Acquisition Act 1952]
+And I make this solemn declaration conscientiously believing the
+same to be true, and by virtue of the Oaths and Declarations Act
+1957.
+Signature:
+Declared at [place, date], before me.
+Signature:
+(Justice of the Peace or solicitor or Notary Public or [other person
+duly authorised to take and receive statutory declarations])
+48
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 11—continued
+The address for service of the purchaser (lessee) is at [address].
+Note: In any case where the documents attached to the application
+cannot be produced to the deponent at the time of his making the fore-
+going declaration, copies of the documents referred to in paragraph 3
+of the declaration should be attached as exhibits and the declaration
+amended accordingly.
+[Not printed]
+49
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 12
+r 34(2)(b)
+Declaration by purchaser (or lessee) in support
+of application for consent under Part 2A of Land
+Settlement Promotion and Land Acquisition Act
+1952
+(To be used where purchaser or lessee is a
+trustee)
+(General heading—Form 1)
+Declaration by purchaser (or lessee)
+I, [specify], of [specify], hereby solemnly and sincerely declare:
+1
+that I am the purchaser (or lessee) in the transaction referred to
+in the attached application marked “[specify]”. [if purchaser
+or lessee is a corporation state capacity in which declaration
+is made]
+2
+that I am the purchaser (or lessee) in the transaction as a trustee
+under an instrument of trust, a true copy of which marked
+“[specify]” is attached to the said application:
+3
+that the following particulars are in all respects true and cor-
+rect:
+(a)
+the full names and ages of the beneficiaries under the
+trust are as follows: [specify]
+(b)
+the following beneficiaries are New Zealand citizens:
+[specify]
+(c)
+the following beneficiaries, being individuals and not
+being New Zealand citizens, have during the 3 years
+immediately preceding the date of the transaction been
+resident in New Zealand during the following periods,
+and their future intentions as to residence are as follows:
+[specify]
+(d)
+the following beneficiaries are bodies corporate and are
+overseas corporations (or ordinarily resident in New
+Zealand (as the case may be): [specify]
+(e)
+(where the land is farm land) I intend to use the land for
+the following purpose: [specify]
+(f)
+[where the land is farm land] I will be able to achieve
+the purpose set out in subparagraph (e) because [set out
+experience and special knowledge available together
+with details of financial ability to achieve that purpose].
+4
+[as in paragraph 3 of form 7]
+50
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 12—continued
+5
+[as in paragraph 4 of form 7]
+6
+[as in paragraph 5 of form 7, but referring to Part 2A of the
+Land Settlement Promotion and Land Acquisition Act 1952]
+And I make this solemn declaration conscientiously believing the
+same to be true, and by virtue of the Oaths and Declarations Act
+1957.
+Signature:
+Declared at [place, date], before me:
+Signature:
+(Justice of the Peace or solicitor or Notary Public or [other person
+duly authorised to take and receive statutory declarations])
+The address for service of the purchaser (lessee) is at [address].
+Note: In any case where the documents attached to the application
+cannot be produced to the deponent at the time of his making the
+foregoing declaration, copies of the documents referred to in para-
+graphs 2 and 4 of the declaration should be attached as exhibits and
+the declaration amended accordingly.
+[Not printed]
+51
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 13
+r 41(2)
+Notice of order granting unconditional consent
+under section 28 of Land Settlement Promotion
+and Land Acquisition Act 1952
+(General heading—Form 1)
+On reading the above application, the [name] Land Valuation Tri-
+bunal is satisfied that the application should be granted, and has made
+an order dated [date] consenting, pursuant to Part 2 (or Part 2A or
+Parts 2 and 2A) of the Land Settlement Promotion and Land Acqui-
+sition Act 1952, to the transaction in accordance with the application
+without calling on the applicant or hearing evidence.
+To: [specify]
+.............................. Registrar
+52
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 14
+r 45(2)
+Notice of decision of land valuation tribunal in
+objection to valuation
+(General heading—Form 1)
+The [name] Land Valuation Tribunal has this [date], made the follow-
+ing entry against the record of your objection in these proceedings:
+[specify]
+Unless within the time prescribed by section 26(2) of the Land Valu-
+ation Proceedings Act 1948 you appeal against this decision, it will
+be sealed as an order of the Tribunal.
+.............................. Registrar
+53
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 15
+r 45(2)
+Notice of final order
+(General heading—Form 1)
+The [name] Land Valuation Tribunal has this [date] made the follow-
+ing final order (or award) in these proceedings:
+[specify]
+The time for appeal, as prescribed by section 26(2) of the Land Valu-
+ation Proceedings Act 1948, runs from the above-mentioned date.
+.............................. Registrar
+To:
+54
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 16
+r 46(1)
+Order of Land Valuation Tribunal
+(General heading—Form 1)
+Before the [name] Land Valuation Tribunal
+On the application (or claim, or as the case may be) of [name of
+applicant, etc] for [set out nature of proceedings] in respect of the
+land described in the Schedule (or as the case may be)
+And on hearing:
+It is ordered that [set out precisely the nature of the award or order
+made, any conditions imposed by it. In the case of a consent granted
+under the Land Settlement Promotion and Land Acquisition Act
+1952, state whether consent is pursuant to Part 2 or Part 2A of Act,
+or under both Part 2 and Part 2A] upon the following grounds: [set
+out the grounds]
+Schedule
+[Description of land, including area and title reference]
+Dated at: [place, date]
+.............................. Registrar
+[Not printed]
+55
+
+--------------------------------------------------------------------------------
+Schedule
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+Form 17
+rr 47(2), 53(a)
+Order on objections to valuations
+(General heading—Form 1)
+It is ordered that the objections to valuations mentioned in the list an-
+nexed (other than the objections upon which the decisions are marked
+as being the subject of appeal or applications or orders for reinstate-
+ments)* are determined in the manner indicated by the respective
+entries of the decisions of the [name] Land Valuation Tribunal made
+in the said list in accordance with section 21 of the Valuation of Land
+Act 1921.
+*Delete if not applicable.
+.............................. Registrar
+[Not printed]
+56
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Schedule
+Form 18
+r 50(1)
+Notice to show cause why consent should not
+be revoked
+(General heading—Form 1)
+You are required to attend before the [name] Land Valuation Tribunal
+at [place, date, time], to show cause why the consent of the Tribunal
+to [specify the terms of the consent] should not be revoked on the
+ground that a false or misleading statement has been made in connec-
+tion with the application for consent (or that all the material facts in
+connection with the transaction were not submitted to the Tribunal).
+You are required by section 34(2) of the Land Settlement Promo-
+tion and Land Acquisition Act 1952 to forward forthwith to the Land
+Valuation Tribunal at the office of the District Court at [specify] the
+order granting the consent, and to refrain from completing or pro-
+ceeding with the transaction to which the consent relates until the
+Tribunal has determined whether or not the consent should be re-
+voked.
+Unless cause is shown to the Tribunal why the consent should not
+be revoked, an order may be made revoking the consent, which shall
+then, for the purposes of the Land Settlement Promotion and Land
+Acquisition Act 1952, be deemed not to have been obtained.
+Dated at: [place, date]
+To: [specify]
+.............................. Registrar
+[Not printed]
+Schedule form 18: amended, on 1 April 1980, pursuant to section 18(2) of the
+District Courts Amendment Act 1979 (1979 No 125).
+57
+
+--------------------------------------------------------------------------------
+Land Valuation Tribunals Rules 1977
+Reprinted as at
+1 July 2014
+P G Millen,
+Clerk of the Executive Council.
+Issued under the authority of the Legislation Act 2012.
+Date of notification in Gazette: 1 September 1977.
+58
+
+--------------------------------------------------------------------------------
+Reprinted as at
+1 July 2014
+Land Valuation Tribunals Rules 1977
+Notes
+Reprints notes
+1
+General
+This is a reprint of the Land Valuation Tribunals Rules 1977
+that incorporates all the amendments to those rules as at the
+date of the last amendment to them.
+2
+Legal status
+Reprints are presumed to correctly state, as at the date of the
+reprint, the law enacted by the principal enactment and by any
+amendments to that enactment. Section 18 of the Legislation
+Act 2012 provides that this reprint, published in electronic
+form, has the status of an official version under section 17 of
+that Act. A printed version of the reprint produced directly
+from this official electronic version also has official status.
+3
+Editorial and format changes
+Editorial and format changes to reprints are made using the
+powers under sections 24 to 26 of the Legislation Act 2012.
+See also http://www.pco.parliament.govt.nz/editorial-conven-
+tions/.
+4
+Amendments incorporated in this reprint
+Land Valuation Tribunals Amendment Rules 2014 (LI 2014/160)
+Judicature Amendment Act 1991 (1991 No 60): section 3(5)
+District Courts Rules 1948, Amendment No 16 (SR 1980/55): rule 2(3)
+District Courts Amendment Act 1979 (1979 No 125): section 18(2)
+Judicature Amendment Act 1979 (1979 No 124): section 12
+12
+Wellington, New Zealand:
+Published under the authority of the New Zealand Government—2014
+59
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,1379 @@
+1 
+借地借家法 
+Act on Land and Building Leases 
+ 
+（平成三年十月四日法律第九十号） 
+(Act No. 90 of October 4, 1991) 
+ 
+目次 
+Table of Contents 
+第一章 総則（第一条・第二条） 
+Chapter I General Provisions (Articles 1 and 2) 
+第二章 借地 
+Chapter II Land Leases 
+第一節 借地権の存続期間等（第三条―第九条） 
+Section 1 Duration, Etc. of the Land Leasehold Right (Articles 3 to 9) 
+第二節 借地権の効力（第十条―第十六条） 
+Section 2 Effect of the Land Leasehold Right (Articles 10 to 16) 
+第三節 借地条件の変更等（第十七条―第二十一条） 
+Section 3 Changes to Land Lease Terms (Articles 17 to 21) 
+第四節 定期借地権等（第二十二条―第二十五条） 
+Section 4 Fixed Term Land Leasehold Right, etc. (Articles 22 to 25) 
+第三章 借家 
+Chapter III Building Leases 
+第一節 建物賃貸借契約の更新等（第二十六条―第三十条） 
+Section 1 Renewal, etc. of Building Lease Contracts (Articles 26 to 30) 
+第二節 建物賃貸借の効力（第三十一条―第三十七条） 
+Section 2 Effect of the Building Lease (Articles 31 to 37) 
+第三節 定期建物賃貸借等（第三十八条―第四十条） 
+Section 3 Fixed Term Building Leases, etc. (Articles 38 to 40) 
+第四章 借地条件の変更等の裁判手続（第四十一条―第六十条） 
+Chapter IV Court proceedings for Changes to the Land Lease Terms, etc. 
+(Articles 41 to 60) 
+ 
+第一章 総則 
+Chapter I General Provisions 
+ 
+（趣旨） 
+(Purpose) 
+第一条 この法律は、建物の所有を目的とする地上権及び土地の賃借権の存続期間、効
+力等並びに建物の賃貸借の契約の更新、効力等に関し特別の定めをするとともに、借
+地条件の変更等の裁判手続に関し必要な事項を定めるものとする。 
+
+--------------------------------------------------------------------------------
+2 
+Article 1  This Act, in addition to prescribing the special provisions concerning 
+duration and effect, etc. of superficies and the right to lease land for the 
+purpose of building ownership, as well as the renewal and effect, etc. of 
+building lease contracts, provides for the necessary matters in connection with 
+court proceedings required for changes to be made to the land lease terms and 
+the like. 
+ 
+（定義） 
+(Definitions) 
+第二条 この法律において、次の各号に掲げる用語の意義は、当該各号に定めるところ
+による。 
+Article 2  In this Act, the meanings of the terms set forth in each of the following 
+items are as prescribed in each respective item: 
+一 借地権 建物の所有を目的とする地上権又は土地の賃借権をいう。 
+(i) "Land Leasehold Right" means superficies or the right to lease land for the 
+purpose of building ownership; 
+二 借地権者 借地権を有する者をいう。 
+(ii) "Land Leasehold Right Holder" means a person who holds a Land 
+Leasehold Right; 
+三 借地権設定者 借地権者に対して借地権を設定している者をいう。 
+(iii) "Lessor" means the person who establishes a Land Leasehold Right with 
+respect to a Land Leasehold Right Holder; 
+四 転借地権 建物の所有を目的とする土地の賃借権で借地権者が設定しているもの
+をいう。 
+(iv) "Land Sublease Right" means a right to lease land for the purpose of 
+building ownership and is established by a Land Leasehold Right Holder; 
+五 転借地権者 転借地権を有する者をいう。 
+(v) "Land Sublease Right Holder" means the person who has the Land Sublease 
+Right. 
+ 
+第二章 借地 
+Chapter II Land Lease 
+第一節 借地権の存続期間等 
+Section 1 Duration, Etc. of the Land Leasehold Right 
+ 
+（借地権の存続期間） 
+(Duration of the Land Leasehold Right) 
+第三条 借地権の存続期間は、三十年とする。ただし、契約でこれより長い期間を定め
+たときは、その期間とする。 
+Article 3  The duration of the Land Leasehold Right is thirty years; provided, 
+however, that if a period longer than this is prescribed by contract, that period 
+
+--------------------------------------------------------------------------------
+3 
+applies. 
+ 
+（借地権の更新後の期間） 
+(Period of the Land Leasehold Right After Renewal) 
+第四条 当事者が借地契約を更新する場合においては、その期間は、更新の日から十年
+（借地権の設定後の最初の更新にあっては、二十年）とする。ただし、当事者がこれ
+より長い期間を定めたときは、その期間とする。 
+Article 4  In cases where the parties renew the land lease contract, the period is 
+to be ten years from the day of renewal (twenty years in the case of the first 
+renewal after the establishment of the Land Leasehold Right); provided, 
+however, that if the parties prescribe a period longer than this, that period 
+applies. 
+ 
+（借地契約の更新請求等） 
+(Request for Renewal of the Land Lease Contract) 
+第五条 借地権の存続期間が満了する場合において、借地権者が契約の更新を請求した
+ときは、建物がある場合に限り、前条の規定によるもののほか、従前の契約と同一の
+条件で契約を更新したものとみなす。ただし、借地権設定者が遅滞なく異議を述べた
+ときは、この限りでない。 
+Article 5  (1) When the Land Leasehold Right Holder requests the renewal of the 
+contract in cases where the duration of the Land Leasehold Right expires, 
+limited to cases where there is a building, in addition to cases pursuant to the 
+provisions of the preceding Article, the contract is deemed to have been 
+renewed with the same conditions as those of the prior contract; provided, 
+however, that this does not apply when the Lessor makes an objection without 
+delay. 
+２ 借地権の存続期間が満了した後、借地権者が土地の使用を継続するときも、建物が
+ある場合に限り、前項と同様とする。 
+(2) The provisions of the preceding paragraph also apply when the Land 
+Leasehold Right Holder continues to make use of the land after the expiration 
+of the duration of the Land Leasehold Right, limited to cases where there is a 
+building. 
+３ 転借地権が設定されている場合においては、転借地権者がする土地の使用の継続を
+借地権者がする土地の使用の継続とみなして、借地権者と借地権設定者との間につい
+て前項の規定を適用する。 
+(3) In the case where a Land Sublease Right has been established, the continuing 
+use that the Land Sublease Right Holder makes of the land is deemed to be the 
+continuing use the Land Leasehold Right Holder makes of the land, and the 
+provisions of the preceding paragraph apply between the Land Leasehold Right 
+Holder and the Lessor. 
+ 
+
+--------------------------------------------------------------------------------
+4 
+（借地契約の更新拒絶の要件） 
+(Requirements for Refusing to Renew the Land Lease Contract) 
+第六条 前条の異議は、借地権設定者及び借地権者（転借地権者を含む。以下この条に
+おいて同じ。）が土地の使用を必要とする事情のほか、借地に関する従前の経過及び
+土地の利用状況並びに借地権設定者が土地の明渡しの条件として又は土地の明渡しと
+引換えに借地権者に対して財産上の給付をする旨の申出をした場合におけるその申出
+を考慮して、正当の事由があると認められる場合でなければ、述べることができない。 
+Article 6  The objection set forth in the preceding Article may not be raised 
+unless it is found, upon consideration of the history of the leased land, the 
+conditions of the land use and, in cases where the Lessor has offered the 
+payment of property benefits to the Land Leasehold Right Holder as a 
+condition for evicting the land or in exchange for evicting the land, the 
+consideration of the offer, that there are justifiable grounds for doing so in 
+addition to the circumstances pertaining to the necessity of using the land on 
+the part of the Lessor and the Land Leasehold Right Holder (including the 
+Land Sublease Right Holder; hereinafter the same applies in this Article). 
+ 
+（建物の再築による借地権の期間の延長） 
+(Extension of the Period of the Land Leasehold Right Due to Rebuilding of 
+Buildings) 
+第七条 借地権の存続期間が満了する前に建物の滅失（借地権者又は転借地権者による
+取壊しを含む。以下同じ。）があった場合において、借地権者が残存期間を超えて存
+続すべき建物を築造したときは、その建物を築造するにつき借地権設定者の承諾があ
+る場合に限り、借地権は、承諾があった日又は建物が築造された日のいずれか早い日
+から二十年間存続する。ただし、残存期間がこれより長いとき、又は当事者がこれよ
+り長い期間を定めたときは、その期間による。 
+Article 7  (1) In cases where the buildings are lost before the duration of the 
+Land Leasehold Right expires (including demolition by the Land Leasehold 
+Right Holder or the Land Sublease Right Holder; the same applies hereinafter) 
+and the Land Leasehold Right Holder constructs buildings that are to survive 
+past the remaining period, the Land Leasehold Right, limited to cases where 
+the Lessor has consented to such building construction, continues to exist for 
+twenty years from the day of consent or the day the buildings are constructed, 
+whichever is the earliest; provided, however, that when the remaining period is 
+longer than this, or when the parties have prescribed a longer period, such 
+period applies. 
+２ 借地権者が借地権設定者に対し残存期間を超えて存続すべき建物を新たに築造する
+旨を通知した場合において、借地権設定者がその通知を受けた後二月以内に異議を述
+べなかったときは、その建物を築造するにつき前項の借地権設定者の承諾があったも
+のとみなす。ただし、契約の更新の後（同項の規定により借地権の存続期間が延長さ
+れた場合にあっては、借地権の当初の存続期間が満了すべき日の後。次条及び第十八
+
+--------------------------------------------------------------------------------
+5 
+条において同じ。）に通知があった場合においては、この限りでない。 
+(2) In cases where the Land Leasehold Right Holder notifies the Lessor to the 
+effect that the Land Leasehold Right Holder intends to newly construct 
+buildings that are to survive past the remaining period and the Lessor does not 
+voice an objection within two months after receiving such notice, it is deemed 
+that this constitutes the approval for the building construction on the part of 
+the Lessor referred to in the preceding paragraph; provided, however, that this 
+does not apply to cases where notice was given after the contract was renewed 
+(in cases where the duration of the Land Leasehold Right has been extended 
+pursuant to the provisions of the same paragraph, subsequent to the date that 
+the initial duration of the Land Leasehold Right is to expire; hereinafter the 
+same applies in the following Article and Article 18). 
+３ 転借地権が設定されている場合においては、転借地権者がする建物の築造を借地権
+者がする建物の築造とみなして、借地権者と借地権設定者との間について第一項の規
+定を適用する。 
+(3) In cases where a Land Sublease Right has been established, building 
+construction that the Land Sublease Right Holder undertakes is deemed to be 
+building construction that the Land Leasehold Right Holder undertakes, and 
+the provisions of paragraph (1) apply between the Land Leasehold Right 
+Holder and the Lessor. 
+ 
+（借地契約の更新後の建物の滅失による解約等） 
+(Termination Due to Loss of Buildings After Renewal of the Land Lease 
+Contract) 
+第八条 契約の更新の後に建物の滅失があった場合においては、借地権者は、地上権の
+放棄又は土地の賃貸借の解約の申入れをすることができる。 
+Article 8  (1) In cases where the buildings are lost after the contract has been 
+renewed, the Land Leasehold Right Holder may request that the superficies be 
+waived or give a notice of termination of the land lease. 
+２ 前項に規定する場合において、借地権者が借地権設定者の承諾を得ないで残存期間
+を超えて存続すべき建物を築造したときは、借地権設定者は、地上権の消滅の請求又
+は土地の賃貸借の解約の申入れをすることができる。 
+(2) In the case prescribed in the preceding paragraph, when the Land Leasehold 
+Right Holder has constructed buildings that are to survive past the remaining 
+period without receiving the consent of the Lessor, the Lessor may request that 
+the superficies be extinguished or give a notice of termination of the land lease. 
+３ 前二項の場合においては、借地権は、地上権の放棄若しくは消滅の請求又は土地の
+賃貸借の解約の申入れがあった日から三月を経過することによって消滅する。 
+(3) In the case set forth in the preceding two paragraphs, the Land Leasehold 
+Right is extinguished by reason of the passage of three months from the day 
+the request for waiver or extinction of superficies or the notice of termination 
+
+--------------------------------------------------------------------------------
+6 
+of the land lease was made. 
+４ 第一項に規定する地上権の放棄又は土地の賃貸借の解約の申入れをする権利は、第
+二項に規定する地上権の消滅の請求又は土地の賃貸借の解約の申入れをする権利を制
+限する場合に限り、制限することができる。 
+(4) The right to request a waiver of superficies or give a notice of termination of 
+the land lease provided in paragraph (1) may be restricted only in cases where 
+the right to request the extinction of superficies or give a notice of the 
+termination of the land lease provided in paragraph (2) is restricted. 
+５ 転借地権が設定されている場合においては、転借地権者がする建物の築造を借地権
+者がする建物の築造とみなして、借地権者と借地権設定者との間について第二項の規
+定を適用する。 
+(5) In cases where a Land Sublease Right has been established, building 
+construction that the Land Sublease Right Holder undertakes is deemed to be 
+building construction that the Land Leasehold Right Holder undertakes, and 
+the provisions of paragraph (2) apply between the Land Leasehold Right 
+Holder and the Lessor. 
+ 
+（強行規定） 
+(Mandatory Provisions) 
+第九条 この節の規定に反する特約で借地権者に不利なものは、無効とする。 
+Article 9  Any special provisions that run counter to the provisions of this Section 
+and that are disadvantageous to the Land Leasehold Right Holder are invalid. 
+ 
+第二節 借地権の効力 
+Section 2 Effect of the Land Leasehold Right 
+ 
+（借地権の対抗力等） 
+(Countervailing Power of the Land Leasehold Right) 
+第十条 借地権は、その登記がなくても、土地の上に借地権者が登記されている建物を
+所有するときは、これをもって第三者に対抗することができる。 
+Article 10  (1) Even if the Land Leasehold Right is not registered, when the Land 
+Leasehold Right Holder possesses registered buildings on the land, the Land 
+Leasehold Right may be asserted against a third party. 
+２ 前項の場合において、建物の滅失があっても、借地権者が、その建物を特定するた
+めに必要な事項、その滅失があった日及び建物を新たに築造する旨を土地の上の見や
+すい場所に掲示するときは、借地権は、なお同項の効力を有する。ただし、建物の滅
+失があった日から二年を経過した後にあっては、その前に建物を新たに築造し、かつ、
+その建物につき登記した場合に限る。 
+(2) In the case referred to in the preceding paragraph, even if the buildings have 
+been destroyed, when the Land Leasehold Right Holder posts a notice of 
+matters necessary to identify the buildings, the day the buildings were lost, 
+
+--------------------------------------------------------------------------------
+7 
+and the intent to construct new buildings in a clearly visible location on the 
+land, the Land Leasehold Right is effective as provided in the same paragraph; 
+provided, however, that if two years have passed since the day the original 
+buildings were destroyed, this is limited to the cases where the buildings were 
+newly constructed and registered before that date. 
+３ 民法（明治二十九年法律第八十九号）第五百六十六条第一項及び第三項の規定は、
+前二項の規定により第三者に対抗することができる借地権の目的である土地が売買の
+目的物である場合に準用する。 
+(3) The provisions of Article 566, paragraph (1) and paragraph (3) of the Civil 
+Code (Act No. 89 of 1896) apply mutatis mutandis to cases where the land that 
+is the object of the Land Leasehold Right that may be asserted against a third 
+party pursuant to the provisions of the preceding two paragraphs is the object 
+matter of a sale. 
+４ 民法第五百三十三条の規定は、前項の場合に準用する。 
+(4) The provisions of Article 533 of the Civil Code apply mutatis mutandis to the 
+case referred to in the preceding paragraph. 
+ 
+（地代等増減請求権） 
+(Right to Request Increase or Decrease in Land Rent) 
+第十一条 地代又は土地の借賃（以下この条及び次条において「地代等」という。）が、
+土地に対する租税その他の公課の増減により、土地の価格の上昇若しくは低下その他
+の経済事情の変動により、又は近傍類似の土地の地代等に比較して不相当となったと
+きは、契約の条件にかかわらず、当事者は、将来に向かって地代等の額の増減を請求
+することができる。ただし、一定の期間地代等を増額しない旨の特約がある場合には、
+その定めに従う。 
+Article 11  (1) When rent or land rent (hereinafter referred to as "Rent, etc." in 
+this Article and in the following Article) become unreasonable, as a result of 
+the increase or decrease in tax and other public charges relating to the land, as 
+a result of the rise or fall of land prices or fluctuations in other economic 
+circumstances, or in comparison to the Rent, etc. on similar land in the vicinity, 
+the parties may, notwithstanding the contract conditions, request future 
+increases or decrease in the amount of Rent, etc.; provided however, that when 
+special provisions exist to the effect that Rent, etc. will not be increased for a 
+fixed period, those provisions apply. 
+２ 地代等の増額について当事者間に協議が調わないときは、その請求を受けた者は、
+増額を正当とする裁判が確定するまでは、相当と認める額の地代等を支払うことをも
+って足りる。ただし、その裁判が確定した場合において、既に支払った額に不足があ
+るときは、その不足額に年一割の割合による支払期後の利息を付してこれを支払わな
+ければならない。 
+(2) If no agreement may be reached between the parties regarding the increase in 
+the amount of Rent, etc., until the judicial decision on establishing the 
+
+--------------------------------------------------------------------------------
+8 
+increased amount as valid becomes final and binding, it is sufficient for the 
+party which has received that request to pay Rent, etc. in an amount that is 
+deemed to be reasonable; provided, however, that when the judicial decision 
+becomes final and binding, if the amount that has already been paid is 
+insufficient, the amount of the shortfall is paid with the addition of interest on 
+late payments at the rate of ten percent per year. 
+３ 地代等の減額について当事者間に協議が調わないときは、その請求を受けた者は、
+減額を正当とする裁判が確定するまでは、相当と認める額の地代等の支払を請求する
+ことができる。ただし、その裁判が確定した場合において、既に支払を受けた額が正
+当とされた地代等の額を超えるときは、その超過額に年一割の割合による受領の時か
+らの利息を付してこれを返還しなければならない。 
+(3) If no agreement may be reached between the parties regarding the decrease 
+in the amount of Rent, etc., until the judicial decision on establishing the 
+decreased amount as valid becomes final and binding, the party which has 
+received that request may request payment of Rent, etc. in an amount that is 
+deemed to be reasonable; provided, however, that when that judicial decision 
+becomes final and binding, if the Rent, etc. that has already been paid exceeds 
+the Rent, etc. amount found to be valid, the amount of the excess must be 
+returned with the addition of interest at the rate of ten percent per year from 
+the time the payment was received. 
+ 
+（借地権設定者の先取特権） 
+(Statutory Liens of the Lessor) 
+第十二条 借地権設定者は、弁済期の到来した最後の二年分の地代等について、借地権
+者がその土地において所有する建物の上に先取特権を有する。 
+Article 12  (1) With respect to the final two years of Rent, etc. the term of which 
+has become due, the Lessor has a statutory lien on the buildings that the Land 
+Leasehold Right Holder owns on that land. 
+２ 前項の先取特権は、地上権又は土地の賃貸借の登記をすることによって、その効力
+を保存する。 
+(2) The effect of the statutory lien referred to in the preceding paragraph is 
+retained by reason of the registration of the superficies or the land lease. 
+３ 第一項の先取特権は、他の権利に対して優先する効力を有する。ただし、共益費用、
+不動産保存及び不動産工事の先取特権並びに地上権又は土地の賃貸借の登記より前に
+登記された質権及び抵当権には後れる。 
+(3) The statutory lien set forth in paragraph (1) has the effect of prevailing over 
+other rights; provided, however, that it is delayed with regard to the statutory 
+liens for the expenses for common benefit, the preservation of immovable 
+properties and the construction work for immovable properties, as well as the 
+pledges and mortgages registered prior to the registration of superficies or land 
+leases. 
+
+--------------------------------------------------------------------------------
+9 
+４ 前三項の規定は、転借地権者がその土地において所有する建物について準用する。 
+(4) The provisions of the preceding three paragraphs apply mutatis mutandis to 
+buildings that the Land Sublease Right Holder owns on that land. 
+ 
+（建物買取請求権） 
+(Right to Request Purchase of Buildings) 
+第十三条 借地権の存続期間が満了した場合において、契約の更新がないときは、借地
+権者は、借地権設定者に対し、建物その他借地権者が権原により土地に附属させた物
+を時価で買い取るべきことを請求することができる。 
+Article 13  (1) In cases where the term of the Land Leasehold Right expires and 
+the contract is not renewed, the Land Leasehold Right Holder may request that 
+the Lessor purchase the buildings and other items that the Land Leasehold 
+Right Holder has attached to the land by title at the prevailing market value. 
+２ 前項の場合において、建物が借地権の存続期間が満了する前に借地権設定者の承諾
+を得ないで残存期間を超えて存続すべきものとして新たに築造されたものであるとき
+は、裁判所は、借地権設定者の請求により、代金の全部又は一部の支払につき相当の
+期限を許与することができる。 
+(2) In the case referred to in the preceding paragraph, when the buildings have 
+been newly constructed prior to the expiration of the term of the Land 
+Leasehold Right without the consent of the Lessor with the intention that they 
+survive after the expiration of the Land Leasehold Right, the court, if the 
+Lessor so requests, may impose a reasonable time frame for the payment of all 
+or part of the purchase money. 
+３ 前二項の規定は、借地権の存続期間が満了した場合における転借地権者と借地権設
+定者との間について準用する。 
+(3) The provisions of the preceding two paragraphs apply mutatis mutandis 
+between the Land Sublease Right Holder and the Lessor in cases where the 
+Land Leasehold Right has expired. 
+ 
+（第三者の建物買取請求権） 
+(Right of a Third Party to Request Purchase of Buildings) 
+第十四条 第三者が賃借権の目的である土地の上の建物その他借地権者が権原によって
+土地に附属させた物を取得した場合において、借地権設定者が賃借権の譲渡又は転貸
+を承諾しないときは、その第三者は、借地権設定者に対し、建物その他借地権者が権
+原によって土地に附属させた物を時価で買い取るべきことを請求することができる。 
+Article 14  In cases where a third party has acquired the buildings and other 
+items on the land that is the object of the lease right that the Land Leasehold 
+Right Holder has attached to the land by title, and the Lessor does not consent 
+to the transfer of the lease right or to a sublease, the third party may request 
+that the Lessor purchase the buildings and other items that the Land 
+Leasehold Right Holder has attached to the land by title at the prevailing 
+
+--------------------------------------------------------------------------------
+10 
+market value. 
+ 
+（自己借地権） 
+(Self Land Leasehold Right) 
+第十五条 借地権を設定する場合においては、他の者と共に有することとなるときに限
+り、借地権設定者が自らその借地権を有することを妨げない。 
+Article 15  (1) Establishment of a Land Leasehold Right does not preclude the 
+Lessor from personally possessing the Land Leasehold Right only when the 
+right is held in common with another party. 
+２ 借地権が借地権設定者に帰した場合であっても、他の者と共にその借地権を有する
+ときは、その借地権は、消滅しない。 
+(2) Even in a case where the Land Leasehold Right has been returned to the 
+Lessor, when the right is held in common with another party, the Land 
+Leasehold Right is not extinguished. 
+ 
+（強行規定） 
+(Mandatory Provisions) 
+第十六条 第十条、第十三条及び第十四条の規定に反する特約で借地権者又は転借地権
+者に不利なものは、無効とする。 
+Article 16  Any special provisions that run counter to the provisions of Article 10, 
+Article 13 and Article 14 and that are disadvantageous to the Land Leasehold 
+Right Holder or the Land Sublease Right Holder are invalid. 
+ 
+第三節 借地条件の変更等 
+Section 3 Changes to the Land Lease Terms 
+ 
+（借地条件の変更及び増改築の許可） 
+(Changes to the Land Lease Terms and Permission for Improvements) 
+第十七条 建物の種類、構造、規模又は用途を制限する旨の借地条件がある場合におい
+て、法令による土地利用の規制の変更、付近の土地の利用状況の変化その他の事情の
+変更により現に借地権を設定するにおいてはその借地条件と異なる建物の所有を目的
+とすることが相当であるにもかかわらず、借地条件の変更につき当事者間に協議が調
+わないときは、裁判所は、当事者の申立てにより、その借地条件を変更することがで
+きる。 
+Article 17  (1) In cases where there are land lease terms that limit the type, 
+construction, scale, or use of buildings, if, notwithstanding the fact that an 
+objective of owning buildings that departs from the land lease terms is 
+reasonable when the Land Leasehold Right is to be actually established due to 
+changes to regulations concerning land use pursuant to laws and regulations, 
+changes to the conditions of the land use in the vicinity or changes to other 
+conditions, no agreement may be reached between the parties regarding 
+
+--------------------------------------------------------------------------------
+11 
+changes to the land lease terms, the court may, pursuant to the petition of the 
+parties, change the land lease terms. 
+２ 増改築を制限する旨の借地条件がある場合において、土地の通常の利用上相当とす
+べき増改築につき当事者間に協議が調わないときは、裁判所は、借地権者の申立てに
+より、その増改築についての借地権設定者の承諾に代わる許可を与えることができる。 
+(2) In cases where there are land lease terms that limit remodeling and 
+expansion, if no agreement may be reached between the parties regarding 
+reasonable remodeling and expansion for normal use of the land, the court may, 
+pursuant to the petition of the Land Leasehold Right Holder, grant permission 
+for the remodeling and expansion in lieu of the consent of the Lessor. 
+３ 裁判所は、前二項の裁判をする場合において、当事者間の利益の衡平を図るため必
+要があるときは、他の借地条件を変更し、財産上の給付を命じ、その他相当の処分を
+することができる。 
+(3) When rendering the judicial decision set forth in the preceding two 
+paragraphs, the court, when it is necessary for facilitating equitable benefit 
+between the parties, may change other land lease terms, order the payment of 
+property benefits, or enact other reasonable dispositions. 
+４ 裁判所は、前三項の裁判をするには、借地権の残存期間、土地の状況、借地に関す
+る従前の経過その他一切の事情を考慮しなければならない。 
+(4) When rendering the judicial decision set forth in preceding three paragraphs, 
+the court must consider the remaining period of the Land Leasehold Right, the 
+condition of the land, the history of the leased land, and all other 
+circumstances. 
+５ 転借地権が設定されている場合において、必要があるときは、裁判所は、転借地権
+者の申立てにより、転借地権とともに借地権につき第一項から第三項までの裁判をす
+ることができる。 
+(5) When a Land Sublease Right has been established, the court may, when it is 
+necessary, pursuant to the petition of the Land Sublease Right Holder, render 
+the judicial decisions set forth in paragraph (1) through paragraph (3) in 
+regard to the Land Leasehold Right as well as the Land Sublease Right. 
+６ 裁判所は、特に必要がないと認める場合を除き、第一項から第三項まで又は前項の
+裁判をする前に鑑定委員会の意見を聴かなければならない。 
+(6) Excluding cases where it is not deemed to be particularly necessary, the court, 
+prior to rendering the judicial decisions set forth in paragraph (1) through 
+paragraph (3) or the judicial decision set forth in the preceding paragraph, 
+must hear the opinion of a committee of experts. 
+ 
+（借地契約の更新後の建物の再築の許可） 
+(Permission to Rebuild Buildings Subsequent to the Renewal of the Land Lease 
+Contract) 
+第十八条 契約の更新の後において、借地権者が残存期間を超えて存続すべき建物を新
+
+--------------------------------------------------------------------------------
+12 
+たに築造することにつきやむを得ない事情があるにもかかわらず、借地権設定者がそ
+の建物の築造を承諾しないときは、借地権設定者が地上権の消滅の請求又は土地の賃
+貸借の解約の申入れをすることができない旨を定めた場合を除き、裁判所は、借地権
+者の申立てにより、借地権設定者の承諾に代わる許可を与えることができる。この場
+合において、当事者間の利益の衡平を図るため必要があるときは、延長すべき借地権
+の期間として第七条第一項の規定による期間と異なる期間を定め、他の借地条件を変
+更し、財産上の給付を命じ、その他相当の処分をすることができる。 
+Article 18  (1) Subsequent to the renewal of the contract, when, notwithstanding 
+the fact that there are unavoidable circumstances pertaining to the fact that 
+the Land Leasehold Right Holder is to newly construct a building that is to 
+survive past the remaining period, the Lessor does not consent to the 
+construction of that building, excluding cases where it has been prescribed that 
+the Lessor may not request the extinction of the superficies nor give a notice of 
+the termination of the land lease, the court may, pursuant to the petition of the 
+Land Leasehold Right Holder, grant permission in lieu of the consent of the 
+Lessor. In this case, when it is necessary for facilitating equitable benefit 
+between the parties, the court may prescribe a period different from the period 
+pursuant to the provisions of Article 7, paragraph (1) as an extension of the 
+Land Leasehold Right, change other land lease terms, order the payment of 
+property benefits, or enact other reasonable dispositions. 
+２ 裁判所は、前項の裁判をするには、建物の状況、建物の滅失があった場合には滅失
+に至った事情、借地に関する従前の経過、借地権設定者及び借地権者（転借地権者を
+含む。）が土地の使用を必要とする事情その他一切の事情を考慮しなければならない。 
+(2) When rendering the judicial decision set forth in the preceding paragraph, the 
+court must consider the condition of the buildings, the circumstances leading to 
+the loss of the buildings in the case of such loss, the history of the leased land, 
+the circumstances pertaining to the necessity of using the land on the part of 
+the Lessor and the Land Leasehold Right Holder (including the Land Sublease 
+Right Holder) and all other circumstances. 
+３ 前条第五項及び第六項の規定は、第一項の裁判をする場合に準用する。 
+(3) The provisions of paragraph (5) and paragraph (6) of the preceding Article 
+apply mutatis mutandis to cases where the judicial decision set forth in 
+paragraph (1) is rendered. 
+ 
+（土地の賃借権の譲渡又は転貸の許可） 
+(Permission to Transfer or Sublease the Right to Lease Land) 
+第十九条 借地権者が賃借権の目的である土地の上の建物を第三者に譲渡しようとする
+場合において、その第三者が賃借権を取得し、又は転借をしても借地権設定者に不利
+となるおそれがないにもかかわらず、借地権設定者がその賃借権の譲渡又は転貸を承
+諾しないときは、裁判所は、借地権者の申立てにより、借地権設定者の承諾に代わる
+許可を与えることができる。この場合において、当事者間の利益の衡平を図るため必
+
+--------------------------------------------------------------------------------
+13 
+要があるときは、賃借権の譲渡若しくは転貸を条件とする借地条件の変更を命じ、又
+はその許可を財産上の給付に係らしめることができる。 
+Article 19  (1) In cases where the Land Leasehold Right Holder wishes to 
+transfer buildings on the land that is the object of the lease right to a third 
+party, and the Lessor does not consent to the transfer or sublease of the lease 
+right despite the fact that it is unlikely that the acquisition by, or sublease to, 
+the third party of the lease right will be disadvantageous to the Lessor, the 
+court may, pursuant to a petition by the Land Leasehold Right Holder, grant 
+permission in lieu of the Lessor's consent. In this case, when it is necessary for 
+the facilitation of equitable benefits between the parties, the court may order 
+changes to the land lease terms wherein the transfer or sublease of the lease 
+right is the condition of those changes, or may cause permission to be given for 
+the property benefit. 
+２ 裁判所は、前項の裁判をするには、賃借権の残存期間、借地に関する従前の経過、
+賃借権の譲渡又は転貸を必要とする事情その他一切の事情を考慮しなければならない。 
+(2) When rendering the judicial decision referred to in the preceding paragraph, 
+the court must consider the remaining period of the lease right, the prior 
+history concerning the leased land, circumstances pertaining to the necessity of 
+transferring or subleasing the lease right, and all other circumstances. 
+３ 第一項の申立てがあった場合において、裁判所が定める期間内に借地権設定者が自
+ら建物の譲渡及び賃借権の譲渡又は転貸を受ける旨の申立てをしたときは、裁判所は、
+同項の規定にかかわらず、相当の対価及び転貸の条件を定めて、これを命ずることが
+できる。この裁判においては、当事者双方に対し、その義務を同時に履行すべきこと
+を命ずることができる。 
+(3) In cases where there is a petition as set forth in paragraph (1), when, within 
+the period prescribed by the court, the Lessor personally files a petition stating 
+that the Lessor will accept the transfer of the building and transfer or sublease 
+of the lease right, the court may, notwithstanding the provisions of the same 
+paragraph, prescribe a reasonable value and sublease terms by order. In this 
+judicial decision, the court may order both parties to perform their obligations 
+simultaneously. 
+４ 前項の申立ては、第一項の申立てが取り下げられたとき、又は不適法として却下さ
+れたときは、その効力を失う。 
+(4) When the petition set forth in paragraph (1) is withdrawn or when it is 
+dismissed as unlawful, the petition referred to in the preceding paragraph 
+ceases to be effective. 
+５ 第三項の裁判があった後は、第一項又は第三項の申立ては、当事者の合意がある場
+合でなければ取り下げることができない。 
+(5) Subsequent to the judicial decision set forth in paragraph (3), the petitions 
+set forth in paragraph (1) and paragraph (3) may not be dismissed without the 
+agreement of the parties. 
+
+--------------------------------------------------------------------------------
+14 
+６ 裁判所は、特に必要がないと認める場合を除き、第一項又は第三項の裁判をする前
+に鑑定委員会の意見を聴かなければならない。 
+(6) Excluding cases where it is not deemed particularly necessary, the court, 
+prior to rendering a judicial decision set forth in paragraph (1) or paragraph (3), 
+must hear the opinion of a committee of experts. 
+７ 前各項の規定は、転借地権が設定されている場合における転借地権者と借地権設定
+者との間について準用する。ただし、借地権設定者が第三項の申立てをするには、借
+地権者の承諾を得なければならない。 
+(7) The provisions of each of the preceding paragraphs apply mutatis mutandis 
+between the Land Sublease Right Holder and the Lessor in cases where a Land 
+Sublease Right has been established; provided, however, that when the Lessor 
+files the petition set forth in paragraph (3), the consent of the Land Leasehold 
+Right Holder must be obtained. 
+ 
+（建物競売等の場合における土地の賃借権の譲渡の許可） 
+(Permission to Transfer the Right to Lease Land in the Case of Auction of 
+Buildings) 
+第二十条 第三者が賃借権の目的である土地の上の建物を競売又は公売により取得した
+場合において、その第三者が賃借権を取得しても借地権設定者に不利となるおそれが
+ないにもかかわらず、借地権設定者がその賃借権の譲渡を承諾しないときは、裁判所
+は、その第三者の申立てにより、借地権設定者の承諾に代わる許可を与えることがで
+きる。この場合において、当事者間の利益の衡平を図るため必要があるときは、借地
+条件を変更し、又は財産上の給付を命ずることができる。 
+Article 20  (1) In cases where a third party has acquired the buildings on the 
+land that is the object of the lease right through auction or public sale, when 
+the Lessor does not consent to the transfer of that lease right notwithstanding 
+the fact that it is unlikely that the acquisition by the third party of the lease 
+right will be disadvantageous to the Lessor, the court may, pursuant to the 
+petition of the third party, grant permission in lieu of the consent of the Lessor. 
+In this case, when it is necessary for facilitating equitable benefit between the 
+parties, the court may change the land lease terms or order the payment of 
+property benefits. 
+２ 前条第二項から第六項までの規定は、前項の申立てがあった場合に準用する。 
+(2) The provisions of paragraph (2) through paragraph (6) of the preceding 
+Article apply mutatis mutandis to cases where the petition referred to in the 
+preceding paragraph is filed. 
+３ 第一項の申立ては、建物の代金を支払った後二月以内に限り、することができる。 
+(3) The petition set forth in paragraph (1) may be filed only within two months 
+after the payment of the purchase money of the buildings. 
+４ 民事調停法（昭和二十六年法律第二百二十二号）第十九条の規定は、同条に規定す
+る期間内に第一項の申立てをした場合に準用する。 
+
+--------------------------------------------------------------------------------
+15 
+(4) The provisions of Article 19 of the Civil Conciliation Act (Act No. 222 of 1951) 
+apply mutatis mutandis to cases where the petition set forth in paragraph (1) 
+is filed within the period prescribed in the same Article. 
+５ 前各項の規定は、転借地権者から競売又は公売により建物を取得した第三者と借地
+権設定者との間について準用する。ただし、借地権設定者が第二項において準用する
+前条第三項の申立てをするには、借地権者の承諾を得なければならない。 
+(5) The provisions of each of the preceding paragraphs apply mutatis mutandis 
+between the third party who has acquired the buildings from the Land 
+Sublease Right Holder through auction or public sale and the Lessor; provided, 
+however, that when the Lessor files the petition set forth in paragraph (3) of 
+the preceding Article as applied mutatis mutandis pursuant to paragraph (2), 
+the consent of the Land Leasehold Right Holder must be obtained. 
+ 
+（強行規定） 
+(Mandatory Provisions) 
+第二十一条 第十七条から第十九条までの規定に反する特約で借地権者又は転借地権者
+に不利なものは、無効とする。 
+Article 21  Any special provisions that run counter to the provisions of Article 17 
+through Article 19 and that are disadvantageous to the Land Leasehold Right 
+Holder or the Land Sublease Right Holder are invalid. 
+ 
+第四節 定期借地権等 
+Section 4 Fixed Term Land Leasehold Right, Etc. 
+ 
+（定期借地権） 
+(Fixed Term Land Leasehold Right) 
+第二十二条 存続期間を五十年以上として借地権を設定する場合においては、第九条及
+び第十六条の規定にかかわらず、契約の更新（更新の請求及び土地の使用の継続によ
+るものを含む。次条第一項において同じ。）及び建物の築造による存続期間の延長が
+なく、並びに第十三条の規定による買取りの請求をしないこととする旨を定めること
+ができる。この場合においては、その特約は、公正証書による等書面によってしなけ
+ればならない。 
+Article 22  In cases where a Land Leasehold Right is established with a duration 
+of fifty years or more, notwithstanding the provisions of Articles 9 and 16, it 
+may be stipulated that there is to be no extension of the duration through 
+renewal of the contract (including renewal pursuant to a request for renewal or 
+due to continued use of the land; the same applies in paragraph (1) of the 
+following Article) or due to the construction of buildings, and that no requests 
+to purchase are to be made pursuant to the provisions of Article 13. In this case, 
+a special contract stating to that effect must be concluded in writing by means 
+of an authentic instrument, etc. 
+
+--------------------------------------------------------------------------------
+16 
+ 
+（事業用定期借地権等） 
+(Fixed Term Land Leasehold Right for Business Purposes) 
+第二十三条 専ら事業の用に供する建物（居住の用に供するものを除く。次項において
+同じ。）の所有を目的とし、かつ、存続期間を三十年以上五十年未満として借地権を
+設定する場合においては、第九条及び第十六条の規定にかかわらず、契約の更新及び
+建物の築造による存続期間の延長がなく、並びに第十三条の規定による買取りの請求
+をしないこととする旨を定めることができる。 
+Article 23  (1) In cases where the objective is the ownership of buildings used 
+solely for business (excluding those used for residences; the same applies in the 
+following paragraph) and a Land Leasehold Right with a duration of at least 
+thirty but shorter than fifty years is to be established notwithstanding the 
+provisions of Articles 9 and 16, it may be stipulated that there is to be no 
+extension of the duration pursuant to renewal of the contract or the 
+construction of buildings, and no request to purchase pursuant to the 
+provisions of Article 13. 
+２ 専ら事業の用に供する建物の所有を目的とし、かつ、存続期間を十年以上三十年未
+満として借地権を設定する場合には、第三条から第八条まで、第十三条及び第十八条
+の規定は、適用しない。 
+(2) In cases where the objective is the ownership of buildings used solely for 
+business and a Land Leasehold Right with a duration of ten or more but less 
+than thirty years is to be established, the provisions of Articles 3 through 8, 13 
+and 18 do not apply. 
+３ 前二項に規定する借地権の設定を目的とする契約は、公正証書によってしなければ
+ならない。 
+(3) Contracts with the objective of establishing Land Leasehold Rights as 
+provided in the preceding two paragraphs must be made by an authentic 
+instrument. 
+ 
+（建物譲渡特約付借地権） 
+(Land Leasehold Rights with Special Provisions for Building Transfer) 
+第二十四条 借地権を設定する場合（前条第二項に規定する借地権を設定する場合を除
+く。）においては、第九条の規定にかかわらず、借地権を消滅させるため、その設定
+後三十年以上を経過した日に借地権の目的である土地の上の建物を借地権設定者に相
+当の対価で譲渡する旨を定めることができる。 
+Article 24  (1) In cases where a Land Leasehold Right is to be established 
+(excluding cases where a Land Leasehold Right as prescribed in paragraph (2) 
+of the preceding Article is to be established), notwithstanding the provisions of 
+Article 9, it may be prescribed that in order to extinguish the Land Leasehold 
+Right, on the day that thirty years or more have passed since that right was 
+established, the buildings on the land that is the object of the Land Leasehold 
+
+--------------------------------------------------------------------------------
+17 
+Right will be transferred to the Lessor for a reasonable price. 
+２ 前項の特約により借地権が消滅した場合において、その借地権者又は建物の賃借人
+でその消滅後建物の使用を継続しているものが請求をしたときは、請求の時にその建
+物につきその借地権者又は建物の賃借人と借地権設定者との間で期間の定めのない賃
+貸借（借地権者が請求をした場合において、借地権の残存期間があるときは、その残
+存期間を存続期間とする賃貸借）がされたものとみなす。この場合において、建物の
+借賃は、当事者の請求により、裁判所が定める。 
+(2) In cases where a Land Leasehold Right has been extinguished pursuant to the 
+special provisions of the preceding paragraph, when the Land Leasehold Right 
+Holder or the building lessee making use of the buildings subsequent to the 
+extinguishment makes a request, it is deemed that at the time the request was 
+made a lease regarding the buildings having no prescribed period was 
+established between the Land Leasehold Right Holder or the building lessee 
+and the Lessor (in cases where the Land Leasehold Right Holder makes the 
+request and when the Land Leasehold Right has a remaining period, a lease 
+where the remaining period constitutes the duration). In this case, the court 
+prescribes the building rent pursuant to the request of the party. 
+３ 第一項の特約がある場合において、借地権者又は建物の賃借人と借地権設定者との
+間でその建物につき第三十八条第一項の規定による賃貸借契約をしたときは、前項の
+規定にかかわらず、その定めに従う。 
+(3) In cases where the special provisions of paragraph (1) exist and when a lease 
+contract between the Land Leasehold Right Holder or the building lessee and 
+the Lessor regarding the buildings has been entered into pursuant to the 
+provisions of Article 38, paragraph (1), the provisions of the contract do not 
+apply notwithstanding the provisions of the preceding paragraph. 
+ 
+（一時使用目的の借地権） 
+(Land Leasehold Right for the Purpose of Temporary Use) 
+第二十五条 第三条から第八条まで、第十三条、第十七条、第十八条及び第二十二条か
+ら前条までの規定は、臨時設備の設置その他一時使用のために借地権を設定したこと
+が明らかな場合には、適用しない。 
+Article 25  In cases where it is clear that the Land Leasehold Right has been 
+established for the purpose of installing temporary facilities or for some other 
+temporary use, the provisions of Article 3 through Article 8, Article 13, Article 
+17, Article 18, and Article 22 through the preceding Article do not apply. 
+ 
+第三章 借家 
+Chapter III Building Lease 
+第一節 建物賃貸借契約の更新等 
+Section 1 Renewal, Etc. of Building Lease Contracts 
+ 
+
+--------------------------------------------------------------------------------
+18 
+（建物賃貸借契約の更新等） 
+(Renewal of Building Lease Contracts) 
+第二十六条 建物の賃貸借について期間の定めがある場合において、当事者が期間の満
+了の一年前から六月前までの間に相手方に対して更新をしない旨の通知又は条件を変
+更しなければ更新をしない旨の通知をしなかったときは、従前の契約と同一の条件で
+契約を更新したものとみなす。ただし、その期間は、定めがないものとする。 
+Article 26  (1) In cases where a period has been prescribed for a building lease, 
+when, from between one year to six months prior to the expiration of the period, 
+the relevant party fails to notify the other party to the effect that the lease will 
+not be renewed or that it will not be renewed unless the conditions are changed, 
+it is deemed that the contract has been renewed with conditions identical to 
+those of the existing contract; provided, however, that the period of the 
+renewed lease is not prescribed. 
+２ 前項の通知をした場合であっても、建物の賃貸借の期間が満了した後建物の賃借人
+が使用を継続する場合において、建物の賃貸人が遅滞なく異議を述べなかったときも、
+同項と同様とする。 
+(2) Even in cases where the notice referred to in the preceding paragraph has 
+been given, in cases where the building lessee continues to use the buildings 
+after the period of the building lease has expired, the provisions of the same 
+paragraph also apply when the building lessor failed to make an objection 
+without delay. 
+３ 建物の転貸借がされている場合においては、建物の転借人がする建物の使用の継続
+を建物の賃借人がする建物の使用の継続とみなして、建物の賃借人と賃貸人との間に
+ついて前項の規定を適用する。 
+(3) In cases where the buildings are being subleased, continuing use of the 
+buildings on the part of the building sublessee is deemed to be continuing use 
+of the buildings on the part of the building lessee, and the provisions of the 
+preceding paragraph apply between the building lessee and the Lessor. 
+ 
+（解約による建物賃貸借の終了） 
+(Termination of the Building Lease Pursuant to Termination of Contract) 
+第二十七条 建物の賃貸人が賃貸借の解約の申入れをした場合においては、建物の賃貸
+借は、解約の申入れの日から六月を経過することによって終了する。 
+Article 27  (1) In cases where the building lessor has given a notice of 
+termination of the lease, the building lease is terminated by reason of the 
+passage of six months from the day the notice of termination was given. 
+２ 前条第二項及び第三項の規定は、建物の賃貸借が解約の申入れによって終了した場
+合に準用する。 
+(2) The provisions of paragraphs (2) and (3) of the preceding Article apply 
+mutatis mutandis to cases where a building lease has been terminated 
+pursuant to a notice of termination. 
+
+--------------------------------------------------------------------------------
+19 
+ 
+（建物賃貸借契約の更新拒絶等の要件） 
+(Requirements for Refusing to Renew a Building Lease Contract) 
+第二十八条 建物の賃貸人による第二十六条第一項の通知又は建物の賃貸借の解約の申
+入れは、建物の賃貸人及び賃借人（転借人を含む。以下この条において同じ。）が建
+物の使用を必要とする事情のほか、建物の賃貸借に関する従前の経過、建物の利用状
+況及び建物の現況並びに建物の賃貸人が建物の明渡しの条件として又は建物の明渡し
+と引換えに建物の賃借人に対して財産上の給付をする旨の申出をした場合におけるそ
+の申出を考慮して、正当の事由があると認められる場合でなければ、することができ
+ない。 
+Article 28  The notice on the part of the building lessor set forth in Article 26, 
+paragraph (1) or a notice of termination of a building lease may not be given, 
+unless it is found, upon consideration of the history of the building lease, the 
+conditions of the building's use, the current state of the building and, in cases 
+where the building lessor has offered payment to the building lessee as a 
+condition for evicting the buildings or in exchange for evicting the buildings, 
+the consideration of the offer, that there are justifiable grounds for doing so in 
+addition to the circumstances pertaining to the necessity of using the buildings 
+on the part of the building lessor and the lessee (including the sublessee; 
+hereinafter the same applies in this Article). 
+ 
+（建物賃貸借の期間） 
+(Period of the Building Lease) 
+第二十九条 期間を一年未満とする建物の賃貸借は、期間の定めがない建物の賃貸借と
+みなす。 
+Article 29  (1) A building lease having a period of less than one year is deemed to 
+be a building lease having no prescribed period. 
+２ 民法第六百四条の規定は、建物の賃貸借については、適用しない。 
+(2) The provisions of Article 604 of the Civil Code do not apply to building leases. 
+ 
+（強行規定） 
+(Mandatory Provisions) 
+第三十条 この節の規定に反する特約で建物の賃借人に不利なものは、無効とする。 
+Article 30  Any special provisions that run counter to the provisions of this 
+Section and that are disadvantageous to the building lessee are invalid. 
+ 
+第二節 建物賃貸借の効力 
+Section 2 Effect of the Building Lease 
+ 
+（建物賃貸借の対抗力等） 
+(Perfection of the Building Lease) 
+
+--------------------------------------------------------------------------------
+20 
+第三十一条 建物の賃貸借は、その登記がなくても、建物の引渡しがあったときは、そ
+の後その建物について物権を取得した者に対し、その効力を生ずる。 
+Article 31  (1) Even if the building lease is not registered, at the time the 
+buildings are delivered, the building lease subsequently becomes effective in 
+respect to the person who has acquired real rights to those buildings. 
+２ 民法第五百六十六条第一項及び第三項の規定は、前項の規定により効力を有する賃
+貸借の目的である建物が売買の目的物である場合に準用する。 
+(2) The provisions of Article 566, paragraph (1) and paragraph (3) of the Civil 
+Code apply mutatis mutandis to cases where the buildings that are the object 
+of the lease that has become effective pursuant to the provisions of the 
+preceding paragraph are the objects of a sale. 
+３ 民法第五百三十三条の規定は、前項の場合に準用する。 
+(3) The provisions of Article 533 of the Civil Code apply mutatis mutandis to the 
+cases referred to in the preceding paragraph. 
+ 
+（借賃増減請求権） 
+(Right to Request Increase or Decrease in Rent) 
+第三十二条 建物の借賃が、土地若しくは建物に対する租税その他の負担の増減により、
+土地若しくは建物の価格の上昇若しくは低下その他の経済事情の変動により、又は近
+傍同種の建物の借賃に比較して不相当となったときは、契約の条件にかかわらず、当
+事者は、将来に向かって建物の借賃の額の増減を請求することができる。ただし、一
+定の期間建物の借賃を増額しない旨の特約がある場合には、その定めに従う。 
+Article 32  (1) When the building rent becomes unreasonable, as a result of an 
+increase or decrease in tax and other burdens relating to the land or the 
+buildings, as a result of the rise or fall of land or building prices or fluctuations 
+in other economic circumstances, or in comparison to the rents on similar 
+buildings in the vicinity, the parties may, notwithstanding the contract 
+conditions, request future increases or decreases in the amount of the building 
+rent; provided, however, when special provisions exist to the effect that 
+building rent will not be increased for a fixed period, those provisions apply. 
+２ 建物の借賃の増額について当事者間に協議が調わないときは、その請求を受けた者
+は、増額を正当とする裁判が確定するまでは、相当と認める額の建物の借賃を支払う
+ことをもって足りる。ただし、その裁判が確定した場合において、既に支払った額に
+不足があるときは、その不足額に年一割の割合による支払期後の利息を付してこれを
+支払わなければならない。 
+(2) If no agreement may be reached between the parties regarding an increase in 
+the amount of the building rent, until the judicial decision on establishing the 
+increased amount as valid becomes final and binding, it is sufficient for the 
+party which has received that request to pay the building rent in an amount 
+that is deemed to be reasonable; provided, however, that when that judicial 
+decision becomes final and binding, if the amount that has already been paid is 
+
+--------------------------------------------------------------------------------
+21 
+insufficient, the amount of the shortfall must be paid with the addition of 
+interest on late payments at the rate of ten percent per year. 
+３ 建物の借賃の減額について当事者間に協議が調わないときは、その請求を受けた者
+は、減額を正当とする裁判が確定するまでは、相当と認める額の建物の借賃の支払を
+請求することができる。ただし、その裁判が確定した場合において、既に支払を受け
+た額が正当とされた建物の借賃の額を超えるときは、その超過額に年一割の割合によ
+る受領の時からの利息を付してこれを返還しなければならない。 
+(3) If no agreement may be reached between the parties regarding a decrease in 
+the amount of the building rent, until the judicial decision on establishing the 
+decreased amount as valid becomes final and binding, it is sufficient for the 
+party which has received that request to request payment of the building rent 
+in an amount that is deemed to be reasonable; provided, however, that when 
+that judicial decision becomes final and binding, if the amount that has already 
+been paid exceeds the building rent amount found to be valid, the amount of 
+the excess must be returned with the addition of interest at the rate of ten 
+percent per year from the time the payment was received. 
+ 
+（造作買取請求権） 
+(Right to Request Purchase of Interior Decorations and Fixtures) 
+第三十三条 建物の賃貸人の同意を得て建物に付加した畳、建具その他の造作がある場
+合には、建物の賃借人は、建物の賃貸借が期間の満了又は解約の申入れによって終了
+するときに、建物の賃貸人に対し、その造作を時価で買い取るべきことを請求するこ
+とができる。建物の賃貸人から買い受けた造作についても、同様とする。 
+Article 33  (1) In cases where tatami mats, fixtures, or other interior decorations 
+added with the consent of the building lessor exist, when the building lease has 
+been terminated either by reason of the expiration of the period or by a notice 
+of termination, the building lessee may request of the building lessor that the 
+building lessor purchase those interior decorations and fixtures at the 
+prevailing market value. The same applies to interior decorations and fixtures 
+purchased from the building lessor. 
+２ 前項の規定は、建物の賃貸借が期間の満了又は解約の申入れによって終了する場合
+における建物の転借人と賃貸人との間について準用する。 
+(2) The provisions of the preceding paragraph apply mutatis mutandis between 
+the building sublessee and the lessor in cases where the building lease has 
+been terminated either by reason of the expiration of the period or by a notice 
+of termination. 
+ 
+（建物賃貸借終了の場合における転借人の保護） 
+(Protection of the Sublessee in Cases Where the Building Lease is Terminated) 
+第三十四条 建物の転貸借がされている場合において、建物の賃貸借が期間の満了又は
+解約の申入れによって終了するときは、建物の賃貸人は、建物の転借人にその旨の通
+
+--------------------------------------------------------------------------------
+22 
+知をしなければ、その終了を建物の転借人に対抗することができない。 
+Article 34  (1) In cases where the buildings are being subleased, when the 
+building lease is terminated by reason of the expiration of the period or by a 
+notice of termination, the building lessor may not assert that termination 
+against the building sublessee without providing notice to that effect to the 
+building sublessee. 
+２ 建物の賃貸人が前項の通知をしたときは、建物の転貸借は、その通知がされた日か
+ら六月を経過することによって終了する。 
+(2) When the building lessor delivers the notice referred to in the preceding 
+paragraph, the building sublease is terminated by reason of the passage of six 
+months from the day the notice was given. 
+ 
+（借地上の建物の賃借人の保護） 
+(Protection of the Building Lessee on Leased Land) 
+第三十五条 借地権の目的である土地の上の建物につき賃貸借がされている場合におい
+て、借地権の存続期間の満了によって建物の賃借人が土地を明け渡すべきときは、建
+物の賃借人が借地権の存続期間が満了することをその一年前までに知らなかった場合
+に限り、裁判所は、建物の賃借人の請求により、建物の賃借人がこれを知った日から
+一年を超えない範囲内において、土地の明渡しにつき相当の期限を許与することがで
+きる。 
+Article 35  (1) In cases where there is a lease with respect to buildings on land 
+that is the object of a Land Leasehold Right, when the building lessee must 
+evict the buildings by reason of the expiration of the term of the Land 
+Leasehold Right, only in cases where the building lessee was unaware of the 
+expiration of the term of the Land Leasehold Right at least one year prior to 
+the expiration, the court may, pursuant to a request by the building lessee, 
+grant a reasonable time period for the eviction of the land, not exceeding one 
+year from the day the building lessee was made aware of the expiration of the 
+Land Leasehold Right. 
+２ 前項の規定により裁判所が期限の許与をしたときは、建物の賃貸借は、その期限が
+到来することによって終了する。 
+(2) When the court grants the time period pursuant to the provisions of the 
+preceding paragraph, the building lease is terminated upon its expiration. 
+ 
+（居住用建物の賃貸借の承継） 
+(Succession to a Residential Building Lease) 
+第三十六条 居住の用に供する建物の賃借人が相続人なしに死亡した場合において、そ
+の当時婚姻又は縁組の届出をしていないが、建物の賃借人と事実上夫婦又は養親子と
+同様の関係にあった同居者があるときは、その同居者は、建物の賃借人の権利義務を
+承継する。ただし、相続人なしに死亡したことを知った後一月以内に建物の賃貸人に
+反対の意思を表示したときは、この限りでない。 
+
+--------------------------------------------------------------------------------
+23 
+Article 36  (1) In cases where a lessee of buildings used as residences dies with 
+no heir, and persons with a relationship to the building lessee similar to a de 
+facto marital relationship or a foster parent and child relationship, although 
+notice of marriage or adoption has not been submitted, live together with the 
+building lessee, the persons succeed to the rights and duties of the building 
+lessee; provided, however, that this does not apply when those persons express 
+intentions contrary to those of the building lessor within one month of being 
+made aware that the building lessee died without heirs. 
+２ 前項本文の場合においては、建物の賃貸借関係に基づき生じた債権又は債務は、同
+項の規定により建物の賃借人の権利義務を承継した者に帰属する。 
+(2) In the case set forth in the main clause of the preceding paragraph, claims or 
+obligations arising out of the building lease relationship belong to the person 
+who has succeeded to the rights and obligations of the building lessee pursuant 
+to the provisions of the same paragraph. 
+ 
+（強行規定） 
+(Mandatory Provisions) 
+第三十七条 第三十一条、第三十四条及び第三十五条の規定に反する特約で建物の賃借
+人又は転借人に不利なものは、無効とする。 
+Article 37  Any special provisions that run counter to the provisions of Article 31, 
+Article 34, and Article 35 and that are disadvantageous to the building lessee 
+or sublessee are invalid. 
+ 
+第三節 定期建物賃貸借等 
+Section 3 Fixed Term Building Lease, Etc. 
+ 
+（定期建物賃貸借） 
+(Fixed Term Building Lease) 
+第三十八条 期間の定めがある建物の賃貸借をする場合においては、公正証書による等
+書面によって契約をするときに限り、第三十条の規定にかかわらず、契約の更新がな
+いこととする旨を定めることができる。この場合には、第二十九条第一項の規定を適
+用しない。 
+Article 38  (1) In cases where a building lease with a prescribed period is entered 
+into it may be stipulate that the contract is not to be renewed only if the 
+contract has been concluded in writing by means of notarial deed, etc. 
+notwithstanding the provisions of Article 30. In this case, the provisions of 
+Article 29, paragraph (1) do not apply. 
+２ 前項の規定による建物の賃貸借をしようとするときは、建物の賃貸人は、あらかじ
+め、建物の賃借人に対し、同項の規定による建物の賃貸借は契約の更新がなく、期間
+の満了により当該建物の賃貸借は終了することについて、その旨を記載した書面を交
+付して説明しなければならない。 
+
+--------------------------------------------------------------------------------
+24 
+(2) Where parties enter into a building lease pursuant to the provisions of the 
+preceding paragraph, the building lessor must provide to the building lessee in 
+advance, an explanation that the building lease contract pursuant to the 
+provisions of the same paragraph will not be renewed and that the building 
+lease will be terminated by reason of the expiration of the period, by delivering 
+a written statement to that effect. 
+３ 建物の賃貸人が前項の規定による説明をしなかったときは、契約の更新がないこと
+とする旨の定めは、無効とする。 
+(3) When the building lessor fails to provide an explanation pursuant to the 
+provisions of the preceding paragraph, the provisions to the effect that the 
+contract is not to be renewed are invalid. 
+４ 第一項の規定による建物の賃貸借において、期間が一年以上である場合には、建物
+の賃貸人は、期間の満了の一年前から六月前までの間（以下この項において「通知期
+間」という。）に建物の賃借人に対し期間の満了により建物の賃貸借が終了する旨の
+通知をしなければ、その終了を建物の賃借人に対抗することができない。ただし、建
+物の賃貸人が通知期間の経過後建物の賃借人に対しその旨の通知をした場合において
+は、その通知の日から六月を経過した後は、この限りでない。 
+(4) In cases of a building lease pursuant to the provisions of paragraph (1) for 
+which the duration is one year or more, unless the building lessor during the 
+period from one year to six months prior to expiration of the period (hereinafter 
+referred to as the "Notice Period" in this paragraph) notifies the building lessee 
+to the effect that the building lease will be terminated by reason of the 
+expiration of the period, the building lessor may not assert that termination 
+against the building lessee; provided, however, that this does not apply in 
+cases where the building lessor has notified the building lessee to that effect 
+after expiration of the Notice Period and six months have passed since the date 
+of that notice. 
+５ 第一項の規定による居住の用に供する建物の賃貸借（床面積（建物の一部分を賃貸
+借の目的とする場合にあっては、当該一部分の床面積）が二百平方メートル未満の建
+物に係るものに限る。）において、転勤、療養、親族の介護その他のやむを得ない事
+情により、建物の賃借人が建物を自己の生活の本拠として使用することが困難となっ
+たときは、建物の賃借人は、建物の賃貸借の解約の申入れをすることができる。この
+場合においては、建物の賃貸借は、解約の申入れの日から一月を経過することによっ
+て終了する。 
+(5) In cases of a lease pursuant to the provisions of paragraph (1) for a building 
+used for a residence (limited to those pertaining to buildings having floor area 
+(in the case where a part of the building is the object of the lease, the floor area 
+of the part) of less than 200 square meters), when it becomes difficult for the 
+building lessee to use the building as the building lessee's principal place of 
+daily activity due to an unavoidable circumstance such as a work-related 
+transfer, the receiving of medical care, or the necessity of providing nursing 
+
+--------------------------------------------------------------------------------
+25 
+care to a relative, the building lessee may give a notice of termination of the 
+building lease. In this case, the building lease is terminated when one month 
+has passed since the day of the notice of termination. 
+６ 前二項の規定に反する特約で建物の賃借人に不利なものは、無効とする。 
+(6) Any special provisions that run counter to the provisions of the preceding two 
+paragraphs and that are disadvantageous to the building lessee are invalid. 
+７ 第三十二条の規定は、第一項の規定による建物の賃貸借において、借賃の改定に係
+る特約がある場合には、適用しない。 
+(7) In cases of a building lease pursuant to the provisions of paragraph (1), the 
+provisions of Article 32 do not apply in cases where there are special provisions 
+pertaining to rent revision. 
+ 
+（取壊し予定の建物の賃貸借） 
+(Building Lease with Intent to Demolish) 
+第三十九条 法令又は契約により一定の期間を経過した後に建物を取り壊すべきことが
+明らかな場合において、建物の賃貸借をするときは、第三十条の規定にかかわらず、
+建物を取り壊すこととなる時に賃貸借が終了する旨を定めることができる。 
+Article 39  (1) In cases where it is clear that pursuant to laws and regulations or 
+contract the buildings are to be demolished after a fixed period of time has 
+passed, when the buildings are leased it may be provided to the effect that the 
+lease will be terminated upon the demolition of the buildings, notwithstanding 
+the provisions of Article 30. 
+２ 前項の特約は、同項の建物を取り壊すべき事由を記載した書面によってしなければ
+ならない。 
+(2) The special provisions of the preceding paragraph must be executed by means 
+of a document in which the reasons for the demolition of the buildings of the 
+same paragraph are written. 
+ 
+（一時使用目的の建物の賃貸借） 
+(Building Leases for the Purpose of Temporary Use) 
+第四十条 この章の規定は、一時使用のために建物の賃貸借をしたことが明らかな場合
+には、適用しない。 
+Article 40  In cases where it is clear that buildings have been leased for the 
+purpose of temporary use, the provisions of this Chapter do not apply. 
+ 
+第四章 借地条件の変更等の裁判手続 
+Chapter IV Court proceedings for Changing Land Lease Terms, Etc. 
+ 
+（管轄裁判所） 
+(Court with Jurisdiction) 
+第四十一条 第十七条第一項、第二項若しくは第五項（第十八条第三項において準用す
+
+--------------------------------------------------------------------------------
+26 
+る場合を含む。）、第十八条第一項、第十九条第一項（同条第七項において準用する
+場合を含む。）若しくは第三項（同条第七項及び第二十条第二項（同条第五項におい
+て準用する場合を含む。）において準用する場合を含む。）又は第二十条第一項（同
+条第五項において準用する場合を含む。）に規定する事件は、借地権の目的である土
+地の所在地を管轄する地方裁判所が管轄する。ただし、当事者の合意があるときは、
+その所在地を管轄する簡易裁判所が管轄することを妨げない。 
+Article 41  The district court that has jurisdiction over the location of land that is 
+the object of a Land Leasehold Right has jurisdiction over the cases prescribed 
+in Article 17, paragraph (1), paragraph (2) or paragraph (5) (including as 
+applied mutatis mutandis pursuant to Article 18, paragraph (3)), Article 18, 
+paragraph (1), Article 19, paragraph (1) (including as applied mutatis 
+mutandis pursuant to paragraph (7) of the same Article), or paragraph (3) 
+(including as applied mutatis mutandis pursuant to paragraph (7) of the same 
+Article and Article 20, paragraph (2) (including as applied mutatis mutandis 
+pursuant to paragraph (5) of the same Article)), or Article 20, paragraph (1) 
+(including as applied mutatis mutandis pursuant to paragraph (5) of the same 
+Article); provided, however, that this does not preclude the summary court 
+having jurisdiction over the location having jurisdiction should the parties 
+agree. 
+ 
+（非訟事件手続法の適用除外及び最高裁判所規則） 
+(Exclusion from the Application of the Non-Contentious Case Procedures Act, 
+and the Rules of the Supreme Court) 
+第四十二条 前条の事件については、非訟事件手続法（平成二十三年法律第五十一号）
+第二十七条、第四十条及び第六十三条第一項後段の規定は、適用しない。 
+Article 42  (1) The provisions of Article 27, Article 40, and the second sentence of 
+Article 63, paragraph (1) of the Non-Contentious Case Procedures Act (Act No. 
+51 of 2011) do not apply to the cases set forth in the preceding Article. 
+２ この法律に定めるもののほか、前条の事件に関し必要な事項は、最高裁判所規則で
+定める。 
+(2) In addition to matters prescribed in this Act, the necessary matters with 
+respect to the cases set forth in the preceding Article will be prescribed 
+according to the rules of the Supreme Court. 
+ 
+（強制参加） 
+(Mandatory Intervention) 
+第四十三条 裁判所は、当事者の申立てにより、当事者となる資格を有する者を第四十
+一条の事件の手続に参加させることができる。 
+Article 43  (1) Pursuant to the petition of a party, the court may have a person 
+who is qualified to be a party intervene in the proceedings of the cases set forth 
+in Article 41. 
+
+--------------------------------------------------------------------------------
+27 
+２ 前項の申立ては、その趣旨及び理由を記載した書面でしなければならない。 
+(2) The petition referred to in the preceding paragraph must be filed by means of 
+a document stating the purpose of and reasons for intervention. 
+３ 第一項の申立てを却下する裁判に対しては、即時抗告をすることができる。 
+(3) An immediate appeal may be filed against a judicial decision to dismiss the 
+petition set forth in paragraph (1). 
+ 
+（手続代理人の資格） 
+(Qualification of Counsel) 
+第四十四条 法令により裁判上の行為をすることができる代理人のほか、弁護士でなけ
+れば手続代理人となることができない。ただし、簡易裁判所においては、その許可を
+得て、弁護士でない者を手続代理人とすることができる。 
+Article 44  (1) Except for an agent who may perform acts in court under laws and 
+regulations, no person other than an attorney may serve as a counsel; provided, 
+however, that in a summary court, with its permission, a person who is not an 
+attorney may be appointed as a counsel. 
+２ 前項ただし書の許可は、いつでも取り消すことができる。 
+(2) The permission set forth in the proviso to the preceding paragraph may be 
+rescinded at any time. 
+ 
+（手続代理人の代理権の範囲） 
+(Scope of Authority of Representation Vested in Counsel) 
+第四十五条 手続代理人は、委任を受けた事件について、非訟事件手続法第二十三条第
+一項に定める事項のほか、第十九条第三項（同条第七項及び第二十条第二項（同条第
+五項において準用する場合を含む。）において準用する場合を含む。次項において同
+じ。）の申立てに関する手続行為（次項に規定するものを除く。）をすることができ
+る。 
+Article 45  (1) A counsel, with regard to a case entrusted thereto, may perform 
+procedural acts concerning the petition set forth in Article 19, paragraph (3) 
+(including as applied mutatis mutandis pursuant to paragraph (7) of the same 
+Article and Article 20, paragraph (2) (including as applied mutatis mutandis 
+pursuant to paragraph (5) of the same Article); the same applies in the 
+following paragraph) (excluding the acts provided in the following paragraph), 
+in addition to procedural acts regarding the matters specified in Article 23, 
+paragraph (1) of the Non-Contentious Case Procedures Act. 
+２ 手続代理人は、非訟事件手続法第二十三条第二項各号に掲げる事項のほか、第十九
+条第三項の申立てについては、特別の委任を受けなければならない。 
+(2) A counsel must be specially entrusted in relation to the petition set forth in 
+Article 19, paragraph (3), in addition to the matters set forth in the items of 
+Article 23, paragraph (2) of the Non-Contentious Case Procedures Act. 
+ 
+
+--------------------------------------------------------------------------------
+28 
+（事件の記録の閲覧等） 
+(Inspection of Case Record) 
+第四十六条 当事者及び利害関係を疎明した第三者は、裁判所書記官に対し、第四十一
+条の事件の記録の閲覧若しくは謄写、その正本、謄本若しくは抄本の交付又は同条の
+事件に関する事項の証明書の交付を請求することができる。 
+Article 46  (1) The parties or a third party who has made a prima facie showing 
+of the third party's interest may make a request to a court clerk for the 
+inspection or copying of, or the issuance of an authenticated copy, transcript or 
+extract of a record of the case set forth in Article 41, or for the issuance of a 
+certificate of matters concerning the case set forth in the same Article. 
+２ 民事訴訟法（平成八年法律第百九号）第九十一条第四項及び第五項の規定は、前項
+の記録について準用する。 
+(2) The provisions of Article 91, paragraphs (4) and (5) of the Code of Civil 
+Procedure (Act No. 109 of 1996) apply mutatis mutandis to the record set forth 
+in the preceding paragraph. 
+ 
+（鑑定委員会） 
+(Committee of Experts) 
+第四十七条 鑑定委員会は、三人以上の委員で組織する。 
+Article 47  (1) The committee of experts is composed of three or more members. 
+２ 鑑定委員は、次に掲げる者の中から、事件ごとに、裁判所が指定する。ただし、特
+に必要があるときは、それ以外の者の中から指定することを妨げない。 
+(2) The court designates the members of the committee of experts case by case 
+from among the following persons; provided, however, that this does not 
+preclude designating persons other than these when there is a particular need: 
+一 地方裁判所が特別の知識経験を有する者その他適当な者の中から毎年あらかじめ
+選任した者 
+(i) persons whom the district court appoints in advance every year from among 
+persons with special knowledge and experience or from among other suitable 
+persons; 
+二 当事者が合意によって選定した者 
+(ii) persons selected pursuant to the agreement of the parties. 
+３ 鑑定委員には、最高裁判所規則で定める旅費、日当及び宿泊料を支給する。 
+(3) The members of the committee of experts are provided with travel expenses, 
+daily allowance, and lodging expenses prescribed by the rules of the Supreme 
+Court. 
+ 
+（手続の中止） 
+(Suspension of Proceedings) 
+第四十八条 裁判所は、借地権の目的である土地に関する権利関係について訴訟その他
+の事件が係属するときは、その事件が終了するまで、第四十一条の事件の手続を中止
+
+--------------------------------------------------------------------------------
+29 
+することができる。 
+Article 48  When a suit or any other case is pending with regard to rights and 
+interests between the parties for the land that is the object of a Land 
+Leasehold Right, the court may suspend the proceedings of the case set forth in 
+Article 41, until that pending suit or case is closed. 
+ 
+（不適法な申立ての却下） 
+(Dismissal of Unlawful Petition) 
+第四十九条 申立てが不適法でその不備を補正することができないときは、裁判所は、
+審問期日を経ないで、申立てを却下することができる。 
+Article 49  If a petition is unlawful and such defect cannot be corrected, the court 
+may dismiss the petition without holding a hearing. 
+ 
+（申立書の送達） 
+(Service of Written Petition) 
+第五十条 裁判所は、前条の場合を除き、第四十一条の事件の申立書を相手方に送達し
+なければならない。 
+Article 50  (1) Except in the case set forth in the preceding Article, the court 
+must serve a written petition of the case set forth in Article 41 upon the other 
+party. 
+２ 非訟事件手続法第四十三条第四項から第六項までの規定は、申立書の送達をするこ
+とができない場合（申立書の送達に必要な費用を予納しない場合を含む。）について
+準用する。 
+(2) The provisions of Article 43, paragraph (4) through paragraph (6) of the Non-
+Contentious Case Procedures Act apply mutatis mutandis where it is 
+impossible to serve a written petition (including the cases where the expenses 
+necessary for serving a written petition are not prepaid). 
+ 
+（審問期日） 
+(Date of Hearings) 
+第五十一条 裁判所は、審問期日を開き、当事者の陳述を聴かなければならない。 
+Article 51  (1) The court must be held on the date of the hearing and hear the 
+statements of the parties. 
+２ 当事者は、他の当事者の審問に立ち会うことができる。 
+(2) The relevant party may attend the hearing of the other party. 
+ 
+（呼出費用の予納がない場合の申立ての却下） 
+(Dismissal of Petition in the case of No Prepayment of Expenses for Summons) 
+第五十二条 裁判所は、民事訴訟費用等に関する法律（昭和四十六年法律第四十号）の
+規定に従い当事者に対する期日の呼出しに必要な費用の予納を相当の期間を定めて申
+立人に命じた場合において、その予納がないときは、申立てを却下することができる。 
+
+--------------------------------------------------------------------------------
+30 
+Article 52  Where the court has specified a reasonable period of time and ordered 
+the petitioner to prepay expenses necessary for issuing a summons to the 
+parties to appear on the appearance date pursuant to the provisions of the Act 
+on Costs of Civil Procedure (Act No. 40 of 1971), but such expenses are not 
+prepaid, the court may dismiss the petition. 
+ 
+（事実の調査の通知） 
+(Notice of Investigation of Facts) 
+第五十三条 裁判所は、事実の調査をしたときは、特に必要がないと認める場合を除き、
+その旨を当事者及び利害関係参加人に通知しなければならない。 
+Article 53  When the court has investigated facts, it must give notice to that 
+effect to the parties and an interested party intervenor, except when it does not 
+find it to be particularly necessary to do so. 
+ 
+（審理の終結） 
+(Conclusion of the Proceedings) 
+第五十四条 裁判所は、審理を終結するときは、審問期日においてその旨を宣言しなけ
+ればならない。 
+Article 54  When concluding the proceedings, the court must make a declaration 
+to that effect on the date of the hearing. 
+ 
+（裁判書の送達及び効力の発生） 
+(Service and Effect of Written Judgment) 
+第五十五条 第十七条第一項から第三項まで若しくは第五項（第十八条第三項において
+準用する場合を含む。）、第十八条第一項、第十九条第一項（同条第七項において準
+用する場合を含む。）若しくは第三項（同条第七項及び第二十条第二項（同条第五項
+において準用する場合を含む。）において準用する場合を含む。）又は第二十条第一
+項（同条第五項において準用する場合を含む。）の規定による裁判があったときは、
+その裁判書を当事者に送達しなければならない。 
+Article 55  (1) When a judicial decision is made pursuant to the provisions of 
+Article 17, paragraph (1) through paragraph (3) or paragraph (5) (including as 
+applied mutatis mutandis pursuant to Article 18, paragraph (3)), Article 18, 
+paragraph (1), Article 19, paragraph (1) (including as applied mutatis 
+mutandis pursuant to paragraph (7) of the same Article) or paragraph (3) 
+(including as applied mutatis mutandis pursuant to paragraph (7) of the same 
+Article and Article 20, paragraph (2) (including as applied mutatis mutandis 
+pursuant to paragraph (5) of the same Article)) or Article 20, paragraph (1) 
+(including as applied mutatis mutandis pursuant to paragraph (5) of the same 
+Article), the written judgment must be served upon the relevant party. 
+２ 前項の裁判は、確定しなければその効力を生じない。 
+(2) The judicial decision referred to in the preceding paragraph does not become 
+
+--------------------------------------------------------------------------------
+31 
+effective until it becomes final and binding. 
+ 
+（理由の付記） 
+(Attachment of Reasons) 
+第五十六条 前条第一項の裁判には、理由を付さなければならない。 
+Article 56  The judicial decision set forth in paragraph (1) of the preceding 
+Article must be accompanied by the reasons therefor. 
+ 
+（裁判の効力が及ぶ者の範囲） 
+(Persons Affected by a Judicial Decision) 
+第五十七条 第五十五条第一項の裁判は、当事者又は最終の審問期日の後裁判の確定前
+の承継人に対し、その効力を有する。 
+Article 57  The judicial decision set forth in Article 55, paragraph (1) is effective 
+with respect to the parties and those persons who are their successors after the 
+final hearing date and prior to the finalization of that judicial decision. 
+ 
+（給付を命ずる裁判の効力） 
+(Effect of a Judicial Decision Ordering Performance) 
+第五十八条 第十七条第三項若しくは第五項（第十八条第三項において準用する場合を
+含む。）、第十八条第一項、第十九条第三項（同条第七項及び第二十条第二項（同条
+第五項において準用する場合を含む。）において準用する場合を含む。）又は第二十
+条第一項（同条第五項において準用する場合を含む。）の規定による裁判で給付を命
+ずるものは、強制執行に関しては、裁判上の和解と同一の効力を有する。 
+Article 58  A judicial decision under Article 17, paragraph (3) or paragraph (5) 
+that orders performance (including as applied mutatis mutandis pursuant to 
+Article 18, paragraph (3)), Article 18, paragraph (1), Article 19, paragraph (3) 
+(including as applied mutatis mutandis pursuant to paragraph (7) of the same 
+Article and Article 20, paragraph (2) (including as applied mutatis mutandis 
+pursuant to paragraph (5) of the same Article)), or Article 20, paragraph (1) 
+(including as applied mutatis mutandis pursuant to paragraph (5) of the same 
+Article), has the same effect as a judicial settlement with respect to compulsory 
+execution. 
+ 
+（譲渡又は転貸の許可の裁判の失効） 
+(Lapse of the Judicial Decision Permitting Transfer or Subleasing) 
+第五十九条 第十九条第一項（同条第七項において準用する場合を含む。）の規定によ
+る裁判は、その効力を生じた後六月以内に借地権者が建物の譲渡をしないときは、そ
+の効力を失う。ただし、この期間は、その裁判において伸長し、又は短縮することが
+できる。 
+Article 59  Judicial decisions rendered pursuant to Article 19, paragraph (1) 
+(including as applied mutatis mutandis pursuant to paragraph (7) of the same 
+
+--------------------------------------------------------------------------------
+32 
+Article) cease to be effective when the Land Leasehold Right Holder does not 
+transfer the buildings within six months after that judicial decision becoming 
+effective; provided, however, that the judicial decision may provide for a longer 
+or shorter period. 
+ 
+（第一審の手続の規定の準用） 
+(Application Mutatis Mutandis of Provisions Concerning Procedure in the First 
+Instance) 
+第六十条 第四十九条、第五十条及び第五十二条の規定は、第五十五条第一項の裁判に
+対する即時抗告があった場合について準用する。 
+Article 60  The provisions of Article 49, 50, and 52 apply mutatis mutandis where 
+an immediate appeal is filed against the judicial decision set forth in Article 55, 
+paragraph (1). 
+
+--------------------------------------------------------------------------------

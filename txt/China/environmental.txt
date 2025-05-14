@@ -1,0 +1,2810 @@
+Metadata for pdf/HongKong/environmental.pdf: {'format': 'PDF 1.7', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Mozilla Firefox 137.0.2', 'producer': 'cairo 1.18.0 (https://cairographics.org)', 'creationDate': "D:20250428221938+02'00", 'modDate': '', 'trapped': '', 'encryption': None, 'country': 'Hong Kong'}
+
+Country found in pdf/HongKong/environmental.pdf: Hong Kong
+
+Chapter 499
+Environmental Impact Assessment
+Ordinance
+11/04/2025
+An Ordinance to provide for assessing the impact on the environment of
+certain projects and proposals, for protecting the environment and
+for incidental matters.
+[1 April 1998] L.N. 70 of 1998
+(Format changes—E.R. 1 of 2021)
+(Enacting provision omitted—E.R. 3 of 2015)
+Part I
+Preliminary
+1.
+Short title
+(Amended E.R. 1 of 2021)
+(1)
+This Ordinance may be cited as the Environmental Impact
+Assessment Ordinance.
+(2)
+(Omitted as spent—E.R. 3 of 2015)
+2.
+Interpretation
+In this Ordinance the expressions defined in Schedule 1 have the
+meanings set out there.
+3.
+Application
+(1)
+This Ordinance binds the Government.
+(2)
+Sections 26 and 27 do not have effect to permit proceedings to
+be  taken  against,  or  to  impose  criminal  liability  on,  the
+Government or on a person doing anything in the course of
+carrying out his duties as a public officer in the service of the
+Government.
+(3)
+If the Director considers that a public officer, in carrying out
+his duties in the service of the Government, has done, or has
+omitted to do, something in contravention of this Ordinance,
+the Director shall, if the act or omission is not immediately
+terminated to his satisfaction, report the matter to the Chief
+Secretary for Administration. (Amended L.N. 362 of 1997)
+(4)
+On receiving a report, the Chief Secretary for Administration
+shall inquire into the matter and, if his inquiry shows that a
+public officer is continuing to contravene this Ordinance or is
+likely to contravene the Ordinance again, the Chief Secretary
+for Administration shall ensure that the best practicable steps
+are taken to stop the contravention or avoid the recurrence and
+to  remedy  any  environmental  damage  that  may  have
+occurred. (Amended L.N. 362 of 1997)
+___________
+Part II
+Environmental Impact Assessment
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+1 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+4.
+Certain projects to be designated projects
+(1)
+The  projects  listed  in  Schedules  2  and  3  are  designated
+projects.
+(2)
+The Secretary may by order published in the Gazette amend
+the lists of designated projects in Schedules 2 and 3 by adding
+projects to or removing projects from the lists.
+(3)
+The addition of a designated project to Schedule 2 or 3 does
+not affect an existing project—
+(a)
+if the existing project has been approved, permitted or
+authorized, or consented to, by the Government or a
+statutory authority under an Ordinance specified by the
+Secretary in the order amending the Schedule; or
+(b)
+if  construction  of  the  project  commences  within  6
+months of the addition of the project to the Schedule.
+(4)
+The Secretary may after consulting the Director specify in
+writing as a designated project, contiguous projects which, if
+taken  individually,  do  not  meet  the  specified  levels  in
+Schedule 2 or 3 to qualify as a designated project, and which
+are proposed by the same person or associated persons, if he is
+satisfied that the purpose behind the separation of the projects
+is to avoid the purposes of this Ordinance. The Director must
+give the person or associated persons who propose or are
+carrying out the contiguous projects a copy of the specification
+of the projects as a designated project.
+(5)
+A person or associated persons may apply to the Director for
+confirmation as to whether contiguous projects proposed by
+him or them are to be treated as designated projects. The
+Director must advise the person or associated persons within
+14 days that the projects are to be treated as a designated
+project.
+5.
+Application  for  brief  or  permission  to  apply  directly  for
+environmental permit
+(1)
+A person who is planning a designated project shall apply to
+the Director—
+(a)
+for an environmental impact assessment study brief to
+proceed with an environmental impact assessment study
+for the project; or
+(b)
+if the requirements of subsection (9), (10) or (11) are
+relevant,  for  approval  to  apply  directly  for  an
+environmental permit.
+(2)
+The applicant shall—
+(a)
+submit  the  application  in  the  form  approved  by  the
+Director;
+(b)
+submit a project profile that complies with the technical
+memorandum;
+(c)
+advertise  in  the  form  the  Director  may  require  the
+availability of the project profile on the day following the
+lodging of the project profile with the Director  in a
+Chinese  language  daily  newspaper  and  an  English
+language  daily  newspaper,  each  of  which  circulate
+generally in Hong Kong; and
+(d)
+pay the prescribed application fee.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+2 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(3)
+The  Director  shall  inform  the  Advisory  Council  on  the
+Environment on the receipt of a project profile and forward a
+copy of the project profile to it.
+(4)
+The Director may within 14 days of receiving the application
+request the applicant to give further information concerning
+the project profile or notify the applicant of any defects in the
+application.
+(5)
+If the Director requires further information, the Director may
+also require the applicant to advertise the availability of the
+additional information or details relating to the information.
+(6)
+The Advisory Council on the Environment and any person
+may  comment  on  a  project  profile  to  the  Director  on
+environmental issues covered by the technical memorandum
+relevant to the designated project within 14 days of its being
+advertised. The Director is to consider any comments received
+in drawing up the study brief for the designated project.
+(7)
+The Director shall within 45 days of receiving the application
+or further information under subsection (4)—
+(a)
+issue  to  the  applicant  an  environmental  impact
+assessment study brief; and
+(b)
+notify the Advisory Council on the Environment that he
+has issued the environmental impact assessment study
+brief; or
+(c)
+by notice in writing permit the applicant to apply directly
+for an environmental permit.
+(8)
+The  Director  is  taken  to  have  given  his  consent  for  an
+applicant  under  subsection  (7)(c)  to  apply  directly  for  an
+environmental permit if the Director has not given notice in
+writing refusing permission within 45 days of receiving the
+application or further information under subsection (4).
+(9)
+The Director may permit an applicant to apply directly for an
+environmental permit if he satisfies the Director, having regard
+to the project profile, that—
+(a)
+the environmental impact of the project is adequately
+assessed in an environmental impact assessment report in
+the register; and
+(b)
+the information and findings of the environmental impact
+assessment report in the register are still relevant.
+(10)
+The Director may permit an applicant to apply directly for an
+environmental permit for a material change to an exempted
+project  by  notice  in  writing  if  the  applicant  satisfies  the
+Director, having regard to the project profile, that the impact
+of  the  material  change  to  the  project  and  the  mitigation
+measures  described  in  the  project  profile  meet  the
+requirements of the technical memorandum.
+(11)
+The Director may, with the consent of the Secretary, permit an
+applicant to apply directly for an environmental permit if he
+satisfies the Director, having regard to the project profile, that
+the environmental impact of the designated project is unlikely
+to be adverse and the mitigation measures described in the
+project  profile  meet  the  requirements  of  the  technical
+memorandum.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+3 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(12)
+The Director may impose conditions on a permission to apply
+directly  for  an  environmental  permit  that  include,  without
+limiting  the  power  to  impose  any  reasonable  condition,
+requirements to be complied with for the issue and holding of
+an environmental permit for the designated project, but shall
+be guided by the relevant technical memorandum.
+6.
+Environmental impact assessment report
+(1)
+An  applicant  shall  prepare  an  environmental  impact
+assessment report in accordance with—
+(a)
+the requirements of the environmental impact assessment
+study brief; and
+(b)
+the technical memorandum applicable to the assessment.
+(2)
+The  applicant  shall  deliver  an  environmental  impact
+assessment report to the Director for approval and pay the
+prescribed  application  fee.  The  Director  may  require  the
+applicant to supply sufficient copies of the report so that the
+Director  is  able  to  circulate  copies  to  relevant  parties  as
+defined in the technical memorandum.
+(3)
+The  Director  shall,  within  60  days  of  receiving  the
+environmental  impact  assessment  report,  decide  if  the
+assessment—
+(a)
+meets  the  requirements  of  the  environmental  impact
+assessment study brief and technical memorandum; or
+(b)
+does not meet the requirements of the environmental
+impact  assessment  study  brief  and  technical
+memorandum.
+(4)
+If  the  Director  decides  that  the  environmental  impact
+assessment report meets the requirements of the brief and the
+technical memorandum, he shall advise the applicant when the
+report must be exhibited for public inspection, whether the
+advertisement is to contain any specific material and whether a
+submission to the Advisory Council on the Environment or its
+subcommittee is required.
+(5)
+The Director is taken to have decided that the environmental
+impact  assessment  report  meets  the  requirements  of  the
+environmental impact assessment study brief and the technical
+memorandum if the Director has not given notice in writing
+that the report does not meet the requirements of the brief and
+the technical memorandum within 60 days of receiving the
+report. The applicant is required to submit the number of
+copies of the report as set out in the brief.
+(6)
+If  the  Director  decides  that  the  environmental  impact
+assessment report does not meet the requirements of the brief
+and the technical memorandum, he shall advise the applicant
+of the reasons why the report is unacceptable.
+(7)
+The  applicant  shall  present  his  environmental  impact
+assessment report to the Advisory Council on the Environment
+at the times and places advised by the Director if the applicant
+is required to submit the report to the Council.
+7.
+Public inspection of reports
+(1)
+The applicant shall as soon as reasonably practicable after he
+has been notified under section 6(3)(a) that an environmental
+impact  assessment  report  meets  the  requirements  of  the
+environmental impact assessment study brief—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+4 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(a)
+make  the  report  available  in  such  numbers  as  the
+Director may reasonably require at locations approved by
+the Director for public inspection free of charge for a
+period of 30 days;
+(b)
+advertise as the Director may require the availability of
+the report once every 10 days of the period in a Chinese
+language newspaper and an English language newspaper,
+each of which circulate generally in Hong Kong; and
+(c)
+provide  free  of  charge  sufficient  quantities  as  the
+Director  may  require  of  the  report  to  comply  with
+paragraph (a).
+(2)
+The applicant shall set out in the advertisement—
+(a)
+the nature of the designated project and the site where
+the project is proposed to be carried out;
+(b)
+the period for which, the places at which and the hours
+during which the report is available for public inspection;
+(c)
+that  a  member  of  the  public  may  give  the  Director
+written comments on the report before the period of
+public inspection expires;
+(d)
+the address to which the comments are to be sent; and
+(e)
+any other information that the Director may reasonably
+require relating to the project.
+(3)
+The Director shall require an applicant to readvertise or extend
+the period of public inspection for up to another 30 days if the
+applicant fails to comply with any requirement under this Part
+or a direction that the Director gives to an applicant under this
+section unless the Director is satisfied that the failure is not
+significant.
+(4)
+The  Director  shall  notify  the  Advisory  Council  on  the
+Environment if an environmental impact assessment report is
+suitable for public inspection.
+(5)
+The  Advisory  Council  on  the  Environment  may  give  any
+comments it has on the report to the Director within 60 days of
+its receiving a copy of the report.
+8.
+Approval of environmental impact assessment report
+(1)
+The Director may, within 14 days of the expiry of the public
+inspection  period  or  the  receipt  of  comments  from  the
+Advisory Council on the Environment, whichever is later, ask
+an applicant in writing to give him the information he requires
+to  decide  whether  to  approve  an  environmental  impact
+assessment report. The Director shall supply the applicant with
+one set of written comments received from members of the
+public and the Advisory Council on the Environment free of
+charge where comments have been received.
+(2)
+The Director shall not make a request for further information
+where comments have not been submitted to him on the report
+as a result of the public consultation or from the Advisory
+Council on the Environment.
+(3)
+The Director shall, within 30 days of—
+(a)
+the expiry of the public inspection period;
+(b)
+the receipt of comments from the Advisory Council on
+the Environment; or
+(c)
+the receipt of information under subsection (1),
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+5 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+whichever is the later, approve, approve with conditions or
+reject  an  environmental  impact  assessment  report  for  the
+designated project.
+(4)
+The Director is taken to have approved without conditions an
+environmental impact assessment report if the Director has not
+given notice in writing rejecting the report or approving it with
+conditions within 30 days of the happening of the later of the
+events set out in subsection (3)(a), (b) or (c).
+(5)
+The Director shall place an approved environmental impact
+assessment report on the register.
+(6)
+If the Director rejects an environmental impact assessment
+report, he shall give the applicant the reasons for the rejection.
+___________
+Part III
+Environmental Permits
+9.
+Prohibition  against  carrying  out  designated  project  unless
+environmental permit has been issued, etc.
+(1)
+A person shall not construct or operate a designated project
+listed in Part I of Schedule 2 or decommission a designated
+project listed in Part II of Schedule 2—
+(a)
+without an environmental permit for the project; or
+(b)
+contrary to the conditions, if any, set out in the permit.
+(2)
+A project listed in Part I of Schedule 2 that has—
+(a)
+had planning permission granted by the Town Planning
+Board under section 16 of the Town Planning Ordinance
+(Cap. 131);
+(b)
+had consent granted to commence building works by the
+Building Authority under the Buildings Ordinance (Cap.
+123);
+(c)
+had reclamation authorized under the Foreshore and Sea-
+bed (Reclamations) Ordinance (Cap. 127);
+(d)
+had road works authorized under the Roads (Works, Use
+and Compensation) Ordinance (Cap. 370);
+(e)
+been approved as a new development under the Country
+Parks  Ordinance  (Cap.  208)  or  the  Marine  Parks
+Ordinance (Cap. 476);
+(f)
+been  authorized  under  the  Water  Pollution  Control
+(Sewerage) Regulation (Cap. 358 sub. leg. AL);
+(g)
+commenced construction, or been in operation,
+before this Ordinance comes into operation* is exempt from
+the provisions of this Ordinance so far as the construction and
+operation of the project is concerned.
+(3)
+A project listed in Part II of Schedule 2 and the demolition
+plan of which has been approved by the Building Authority
+under  the  Buildings  Ordinance  (Cap.  123)  before  this
+Ordinance  comes  into  operation,  is  exempt  from  the
+provisions of this Ordinance so far as the decommissioning of
+the project is concerned.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+6 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(4)
+A material change to an exempted project is subject to this
+Ordinance  and  requires  an  environmental  permit  unless
+subsequently exempted under this Ordinance.
+(5)
+The inclusion of a class of projects in Schedule 3 does not
+exempt the construction, operation or decommissioning of the
+whole or any part of the project from the need to have an
+environmental permit.
+____________________
+Editorial Note:
+* Date of coming into operation: 1 April 1998.
+10.
+Application for environmental permit
+(1)
+A person who wishes to have constructed, construct or operate
+a  designated  project  listed in Part  I  of  Schedule  2  or  to
+decommission  a  designated  project  listed  in  Part  II  of
+Schedule 2 shall—
+(a)
+apply to the Director for an environmental permit in the
+form approved by the Director; and
+(b)
+refer to an environmental impact assessment report on
+the  register  in  the  application  for  an  environmental
+permit; or
+(c)
+submit  an  environmental  impact  assessment  report
+prepared under section 6 with the application; or
+(d)
+refer to the permission under section 5(9), (10) and (11)
+to apply directly for an environmental permit and the
+conditions under section 5(12); and
+(e)
+pay the prescribed application fee.
+(2)
+In granting or refusing an environmental permit, the Director
+shall have regard to—
+(a)
+the approved environmental impact assessment report on
+the register;
+(b)
+the  attainment  and  maintenance  of  an  acceptable
+environmental quality;
+(c)
+whether the environmental impact caused or experienced
+by the designated project is or is likely to be prejudicial
+to the health or well-being of people, flora, fauna or
+ecosystems; (Amended E.R. 1 of 2021)
+(d)
+any relevant technical memorandum;
+(e)
+any environmental impact assessment report approved
+under this Ordinance or any conditions in an approval;
+and
+(f)
+the comments, if any, submitted to him under section 7
+on the report.
+(3)
+The  Director  shall  advise  the  applicant  and  the  Advisory
+Council on the Environment, where it has been consulted
+under section 6(7), of the grant or refusal of the environmental
+permit within 30 days of the later of—
+(a)
+the receipt of the application;
+(b)
+the  expiry  of  the  public  inspection  period  of  the
+environmental impact assessment report under section 7;
+(c)
+the receipt of comments from the Advisory Council on
+the  Environment  on  the  environmental  impact
+assessment report; or
+(d)
+the receipt of information under section 8(1).
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+7 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(4)
+The Director is taken to have granted without conditions an
+environmental permit if the Director has not given notice in
+writing rejecting the permit or approving it with conditions
+within 30 days of the happening of the later of the events set
+out in subsection (3)(a), (b), (c) or (d).
+(5)
+The Director may issue an environmental permit subject to the
+conditions, if any, as the Director thinks fit and specifies in the
+permit.
+(6)
+Without limiting the general nature of conditions which the
+Director may include in an environmental permit, he may
+include conditions relating to the matters set out in Schedule 4
+but shall be guided by the relevant technical memorandum.
+(7)
+A condition specified in an environmental permit may be
+subject  to  a  qualification,  restriction  or  requirement
+concerning  the  location, time  or  period  of  the  condition’s
+application.
+(8)
+The Director shall not specify in an environmental permit
+conditions that might be included in approval of any nature
+under another pollution control Ordinance unless—
+(a)
+the conditions are necessary to meet the requirements of
+the technical memorandum or the environmental impact
+assessment study brief; and
+(b)
+the environmental impact assessment report approved for
+the project or the conditions on which the applicant was
+allowed to apply directly for an environmental permit
+under  section  5  specified  expressly  that  the
+environmental permit may include the conditions.
+(9)
+If  the  environmental  permit  is  refused,  the  Director  shall
+advise the applicant and give the reasons why the permit is
+refused.
+11.
+Surrender of permit
+A person who is issued with an environmental permit may surrender
+the whole or a part of the permit after ceasing to be responsible for
+implementing the whole or a part of the project.
+12.
+Issue of further environmental permit for a project
+(1)
+Where responsibility for a designated project for which an
+environmental  permit  has  been  issued  changes  while  the
+environmental permit is still in force, the person who assumes
+responsibility  of  the  designated  project  shall  before  he
+assumes  the  responsibility  apply  for  and  obtain  an
+environmental permit for the whole or a part of the project.
+(2)
+A person applying for a further environmental permit under
+this section is not required to submit an environmental impact
+assessment report where he satisfies the Director that there has
+been no material change to the designated project since the
+previous environmental permit was issued.
+(3)
+The  Director  shall  issue  an  environmental  permit  to  an
+applicant under this section within 30 days of receipt of the
+application if he is satisfied that—
+(a)
+there  has  been  no  material  change  to  the  designated
+project  since  the  previous  environmental  permit  was
+issued; and
+(b)
+the information and findings of the environmental impact
+assessment report, if any, are still relevant and adequate.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+8 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(4)
+The Director is taken to have issued a further environmental
+permit on the same conditions as the previous environmental
+permit if the Director has not given notice in writing rejecting
+the application or approving it with conditions within 30 days
+of the receipt of the application.
+(5)
+An  applicant  under  this  section  shall  apply  in  the  form
+approved  by  the  Director  and  shall  pay  the  prescribed
+application fee.
+(6)
+The  Director  may  exempt  a  designated  project  from  the
+requirement to be further subject to an environmental permit if
+—
+(a)
+an  environmental  permit  has  been  issued  for  the
+designated project and the terms of the environmental
+permit have been complied with; and
+(b)
+the designated project is not subject to any conditions
+under the environmental permit that are of an on-going
+nature and require monitoring or other compliance.
+(7)
+A material change to a designated project exempted under
+subsection (6) is subject to the provisions of this Ordinance
+and  requires  an  environmental  permit  unless  subsequently
+exempted under this Ordinance.
+13.
+Application for variation of an environmental permit
+(1)
+The person holding an environmental permit or a person who
+assumes responsibility for a designated project the subject of
+an environmental permit may apply for a variation of the
+conditions of the environmental permit.
+(2)
+The Director shall notify the applicant for a variation of an
+environmental permit within 30 days of the receipt of an
+application whether he requires the applicant to submit an
+environmental  impact  assessment  report  for  the  variations
+sought.
+(3)
+The Director is taken not to require an environmental impact
+assessment report for the variations sought if the Director does
+not notify the applicant within 30 days of the receipt of the
+application.
+(4)
+If  the  Director  requires  an  applicant  to  submit  an
+environmental impact assessment report, sections 5, 6, 7 and 8
+apply to the report and assessment.
+(5)
+The Director may amend the environmental permit without
+calling for an environmental impact assessment report if the
+applicant satisfies him that—
+(a)
+there is no material change to the environmental impact
+of the project with the mitigation measures in place; and
+(b)
+the project complies with the requirements described in
+the technical memorandum.
+(5A)
+Schedule 5 has effect in relation to the criterion for evaluating
+air quality impact under the technical memorandum for the
+purpose  of  an  environmental  impact  assessment  report
+required to be submitted under subsection (4) or a requirement
+mentioned in subsection (5)(b). (Added 5 of 2025 s. 23)
+(6)
+An  applicant  under  this  section  shall  apply  in  the  form
+approved  by  the  Director  and  shall  pay  the  prescribed
+application fee.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+9 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(7)
+The Secretary may, by notice published in the Gazette, amend
+Schedule 5 to make any provisions or amendments, or repeal
+any provisions, that the Secretary considers appropriate on
+account of any amendment to the air quality objective by any
+enactment. (Added 5 of 2025 s. 23)
+14.
+Cancellation  or  variation  of  environmental  permit  by  the
+Director
+(1)
+The Director may, with the consent of the Secretary, suspend,
+vary or cancel an environmental permit if he is satisfied that—
+(a)
+on  the  application  for  the  environmental  permit  the
+applicant gave—
+(i)
+misleading information;
+(ii)
+wrong information;
+(iii)
+incomplete information; or
+(iv)
+false information; or
+(b)
+the  applicant  is  no  longer  able  to  comply  with  the
+conditions of the environmental permit.
+(2)
+The  Director  shall  give  written  notice  of  his  decision  to
+suspend, vary or cancel an environmental permit under this
+section together with the reasons for the suspension, variation
+or cancellation and the conditions on which the permit can be
+reinstated.
+(3)
+The Chief Executive in Council may suspend, vary or cancel
+an environmental permit if he is satisfied that the continuation
+of the designated project is, or is likely to be more prejudicial
+to  the  health  and  well-being  of  people,  flora,  fauna  or
+ecosystems  than  expected  at  the  time  of  issuing  the
+environmental permit. (Amended 34 of 2000 s. 3; E.R. 1 of
+2021)
+(4)
+The Chief Executive in Council shall give the reasons for the
+suspension, variation or cancellation and the conditions on
+which the permit can be reinstated. (Amended 34 of 2000 s. 3)
+(5)
+In this section, vary (更) includes to delete, modify or add
+to the conditions of an environmental permit.
+___________
+Part IV
+The Register
+15.
+The register
+(1)
+The Director shall keep a register in the form he determines
+containing details of—
+(a)
+project profiles he receives;
+(b)
+environmental impact assessment study briefs he issues;
+(c)
+his decisions on the applications for permission to apply
+directly for an environmental permit under section 5(9),
+(10) or (11);
+(d)
+environmental impact assessment reports he receives;
+(e)
+his decisions on the environmental impact assessment
+reports;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+10 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(f)
+environmental impact assessment reports he held prior to
+the commencement* of this Ordinance;
+(g)
+applications for environmental permits;
+(h)
+his  decisions  on  the  applications  for  environmental
+permits;
+(i)
+matters required by regulations.
+(2)
+The register is open for inspection by the public (free of
+charge) during normal office hours at the places the Director
+determines.
+____________________
+Editorial Note:
+* Commencement date: 1 April 1998.
+___________
+Part V
+Technical Memorandum
+16.
+Technical memorandum
+(1)
+The Secretary may issue technical memorandums setting out
+principles, procedures, guidelines, requirements and criteria
+for—
+(a)
+the technical content of a project profile;
+(b)
+the  technical  content  of  an  environmental  impact
+assessment  study  brief  or  environmental  impact
+assessment report;
+(c)
+deciding whether a designated project is environmentally
+acceptable;
+(d)
+deciding whether an environmental impact assessment
+report  meets  the  requirements  of  the  environmental
+impact assessment study brief;
+(e)
+deciding whether the Director will permit an applicant to
+apply directly for an environmental permit under section
+5(9), (10) or (11);
+(f)
+resolving conflicts on the content of the environmental
+impact  assessment  study  brief  and  the  environmental
+impact assessment report;
+(g)
+taking advice from other authorities;
+(h)
+deciding what is a material change, addition or alteration
+to an environmental impact or to a designated project;
+(i)
+the issue of environmental permits;
+(j)
+the imposition of environmental monitoring and audit
+requirements  for  designated  projects  as  conditions  in
+environmental permits.
+(2)
+A  technical  memorandum  may  require  or  authorize  the
+Director to follow the advice of the Secretary.
+(3)
+In giving advice pursuant to a technical memorandum, the
+Secretary shall ensure that the effect of his advice is to protect
+the environment.
+(4)
+The  Director  shall  be  guided  by  all  applicable  technical
+memorandums when deciding on matters under sections 5, 6,
+8, 10, 12, 13 and 14.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+11 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(5)
+A technical memorandum is to be published in the Gazette and
+laid on the table of the Legislative Council at the next sitting
+after its publication.
+(6)
+The Legislative Council may, by resolution passed at a sitting
+of the Legislative Council held before the expiration of a
+period  of  28  days  of  the  sitting  at  which  a  technical
+memorandum was laid on the table of the Legislative Council,
+repeal the technical memorandum.
+(7)
+If the period for debate would but for this subsection expire—
+(a)
+after the end of a session of the Legislative Council or a
+dissolution; but
+(b)
+on  or  before  the  day  of  the  second  sitting  of  the
+Legislative Council in the next session,
+the period extends to and expires on the day after that second
+sitting.
+*(8)
+Before the expiry of the period referred to in subsection (6) or
+that  period  as  extended  by  virtue  of  subsection  (7),  the
+Legislative  Council  may  by  resolution  in  relation  to  a
+technical memorandum specified therein—
+(a)
+in the case of the period referred to in subsection (6),
+extend that period to the first sitting of the Legislative
+Council held not earlier than the twenty-first day after
+the day of its expiry;
+(b)
+in the case where the period referred to in subsection (6)
+has been extended by virtue of subsection (7), extend
+that period as so extended to the first sitting of the
+Legislative Council held not earlier than the twenty-first
+day  after  the  day  of  the  second  sitting  in  that  next
+session. (Replaced 8 of 2002 s. 22)
+(9)
+A resolution passed by the Legislative Council in accordance
+with this section is to be published in the Gazette within 14
+days of its passing or within the further period the Chief
+Executive may allow in a particular case. (Amended 34 of 
+2000 s. 3)
+(10)
+A technical memorandum issued under this section is to come
+into operation on the expiry of the period for debate of the
+technical memorandum in the Legislative Council.
+(11)
+In this section, sitting (), when used to calculate time,
+means the day on which the sitting commences and only
+includes a sitting at which subsidiary legislation is included on
+the order paper.
+(12)
+A technical memorandum is not subsidiary legislation.
+____________________
+Editorial Note:
+* For the transitional provision relating to this subsection as amended by
+section  22  of  the  Extension  of  Vetting  Period  (Legislative  Council)
+Ordinance 2002 (8 of 2002), see section 23 of that Ordinance.
+___________
+Part VI
+Appeals
+17.
+Appeals
+(1)
+An environmental permit holder or an applicant for—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+12 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(a)
+an environmental impact assessment study brief;
+(b)
+permission to apply directly for an environmental permit;
+(c)
+approval of an environmental impact assessment report;
+or
+(d)
+an environmental permit,
+may appeal to the Appeal Board if he is aggrieved by a
+decision of the Director—
+(i)
+as to the content of an environmental impact assessment
+study brief issued by the Director under section 5(7)(a);
+(ii)
+not to issue an environmental permit;
+(iii)
+not  to  permit  an  applicant  to  apply  directly  for  an
+environmental permit under section 5(9), (10) or (11);
+(iv)
+as to the conditions imposed under section 5(12) on an
+applicant’s  applying  directly  for  an  environmental
+permit;
+(v)
+not  to  approve  an  environmental  impact  assessment
+report;
+(vi)
+to impose conditions on the issue or variation of an
+environmental permit;
+(vii)
+to vary or to cancel an environmental permit;
+(viii)
+to claim costs incidental to remedying environmental
+damage under this Ordinance.
+(2)
+A person whose project is specified as a designated project
+under section 4(4) may appeal to the Appeal Board against the
+decision to designate the project.
+(3)
+An applicant shall appeal by lodging notice of appeal in the
+prescribed manner within 30 days of receipt of the notice of
+the decision.
+18.
+Appeal Board panel
+(1)
+The  Appeal  Board  shall  determine  an  appeal  under  this
+Ordinance.
+(2)
+The Chief Executive shall appoint as Chairman of the Appeal
+Board panel a person who is qualified for appointment as a
+District Judge under section 5 of the District Court Ordinance
+(Cap. 336).
+(3)
+The Chief Executive may appoint as Deputy Chairman of the
+Appeal Board panel a person who is qualified for appointment
+as  a  District Judge  under  section 5  of  the  District  Court
+Ordinance  (Cap.  336)  who  may  act  as  Chairman  in  his
+absence.
+(4)
+The Chairman, a Deputy Chairman and a person appointed to
+the Appeal Board panel are appointed for a term of 3 years but
+may be reappointed.
+(5)
+The Chief Executive shall appoint a panel of persons whom he
+considers suitable for appointment as members of the Appeal
+Board to hear any appeal under this Ordinance.
+(6)
+An  appointment  under  subsection  (2),  (3)  or  (5)  is  to  be
+notified in the Gazette.
+(7)
+The Chairman, a Deputy Chairman and a person appointed to
+the Appeal Board panel may at any time resign by notice in
+writing to the Chief Executive.
+(Amended 34 of 2000 s. 3)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+13 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+19.
+Constitution of Appeal Board
+(1)
+The Chairman and the number of persons from the panel the
+Chairman  appoints  to  be  members  to  hear  an  appeal
+constitutes an Appeal Board.
+(2)
+The Appeal Board may give directions to the Director as to the
+exercise of the Director’s functions relevant to the appeal. The
+Director shall comply with the directions.
+(3)
+The opinion of the majority of the members hearing the appeal
+determines  a  question  before  the  Appeal  Board  except  a
+question  of  law  which  the  Chairman  determines.  The
+Chairman has a casting vote where there is an equality of
+votes.
+(4)
+At least 3 members, one of whom must be either the Chairman
+or Deputy Chairman, shall hear and determine the appeal.
+(5)
+The Appeal Board must not include public officers.
+(6)
+The contents of any technical memorandum must not be called
+into question in an appeal.
+(7)
+In an appeal the Appeal Board may—
+(a)
+administer an oath and receive evidence on oath;
+(b)
+admit  or  take  into  account  a  statement,  document,
+information  or  matter  whether  or  not  it  would  be
+admissible in a court of law;
+(c)
+by notice in writing summon a person to appear before it
+to produce a document or to give evidence;
+(d)
+confirm,  reverse  or  vary  the  decision  or  requirement
+appealed against; and
+(e)
+make an award of the costs of the appeal as is just and
+equitable in all the circumstances of the case.
+(8)
+In the exercise of its powers under subsection (7) the Appeal
+Board has the powers which the Court of First Instance may
+exercise. (Amended 25 of 1998 s. 2)
+(9)
+If a person—
+(a)
+on  being  summoned  as  a  witness  before  the  Appeal
+Board fails to attend; or
+(b)
+being in attendance as a witness refuses to take an oath
+required by the Appeal Board to be taken, or to produce
+a document under his power or control required by the
+Appeal Board to be produced by him, or to answer a
+question to which the Appeal Board may require an
+answer; or
+(c)
+does any other thing which would, if the Appeal Board
+had been a court of law having power to commit for
+contempt, have been contempt of that court,
+the  Chairman  may  certify  in  writing  the  contempt  of  the
+person to the Court of First Instance. (Amended 25 of 1998 s. 
+2)
+(10)
+The  Court  of  First  Instance  may  inquire  into  the  alleged
+contempt and after hearing—  (Amended 25 of 1998 s. 2)
+(a)
+the witnesses who may be produced against or for the
+person charged with the contempt; and
+(b)
+any statement that may be offered in defence,
+punish or take steps for the punishment of that person in the
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+14 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+same way if he had been guilty of contempt of the court.
+(11)
+A witness before the Appeal Board has the same immunities
+and privileges as if he were a witness in civil proceedings
+before the Court of First Instance. (Amended 25 of 1998 s. 2)
+(12)
+Costs awarded by the Appeal Board are enforceable as a civil
+debt and costs payable by the Director under an award are
+charged on the general revenue.
+(13)
+The Chairman may determine a form or matter of practice or
+procedure of the Appeal Board for which a provision is not
+made in this Ordinance.
+(14)
+In this section public officer (人員) does not include a
+judge  who  is  appointed  as  the  Chairman  or  a  Deputy
+Chairman.
+20.
+Supplementary provisions
+(1)
+If both the Chairman and Deputy Chairman are precluded by
+illness, absence from Hong Kong or any other cause from
+exercising his functions, the Chief Executive may appoint a
+person qualified for appointment as a District Judge under
+section 5 of the District Court Ordinance (Cap. 336) to act as
+Chairman and as such to exercise and perform all the functions
+of  the  Chairman  during  the  period  of  his
+appointment. (Amended 34 of 2000 s. 3)
+(2)
+If a person appointed by the Chairman to hear an appeal under
+this Part is precluded by illness, absence from Hong Kong or
+any other cause from exercising his functions, the Chairman
+may appoint another person from the panel to act in his place.
+21.
+Case may be stated for Court of Appeal
+(1)
+The Appeal Board may, before an appeal under this Part is
+determined, refer a question of law arising in the appeal to the
+Court of Appeal for determination by way of case stated.
+(2)
+On the hearing of the case the Court of Appeal may amend the
+case or order it to be sent back to the Appeal Board for
+amendment  having  regard  to  the  opinion  of  the  Court  of
+Appeal.
+___________
+Part VII
+Enforcement
+22.
+Authorized officers
+(1)
+The Director may in writing authorize a public officer to
+exercise the powers conferred on an authorized officer under
+this Part as the Director may specify in the authorization.
+(2)
+A public officer exercising a power under this Part—
+(a)
+may  obtain  the  assistance  of  persons  he  reasonably
+requires  for  the  purposes  of  the  discharge  of  his
+functions;
+(b)
+shall, if required, produce his identity card issued under
+the  Registration  of  Persons  Ordinance  (Cap.  177),
+together with his written authorization under this section.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+15 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+23.
+Powers of entry and inspection, etc.
+(1)
+An authorized officer may without warrant and on production,
+if required, of his written authorization under this Part—
+(a)
+enter and search a place if he reasonably believes that—
+(i)
+an offence against this Ordinance has been or is
+being committed in the place;
+(ii)
+there is in the place anything that is or is likely to
+constitute  evidence  that  an  offence  against  this
+Ordinance has been or is being committed;
+(b)
+enter a place to serve a notice under this Ordinance;
+(c)
+enter a place to measure, inspect, take samples and test as
+he reasonably believes is necessary to determine if an
+offence  against  this  Ordinance  has  been  or  is  being
+committed.
+(2)
+An authorized officer shall not, except with the consent of the
+occupier or person in charge of the premises, enter domestic
+premises  without  a  warrant  issued  by  a  magistrate  under
+subsection (3) or (4).
+(3)
+If a magistrate informed on oath is satisfied that there is reason
+to believe that—
+(a)
+an offence against this Ordinance has been or is being
+committed on domestic premises; or
+(b)
+there is on domestic premises anything that is or is likely
+to  constitute  evidence  that  an  offence  against  this
+Ordinance has been or is being committed,
+the magistrate may issue a warrant authorizing an authorized
+officer to enter and search the premises.
+(4)
+If a magistrate informed on oath is satisfied that there is reason
+to believe that it is necessary for an authorized officer to enter
+domestic premises to serve a notice or to measure, inspect,
+take  samples  or  test  as  the  authorized  officer  reasonably
+believes is necessary to determine if an offence against this
+Ordinance has been or is being committed, the magistrate may
+issue a warrant authorizing the authorized officer to enter the
+domestic premises.
+(5)
+An authorized officer who enters a place under subsection (1),
+(3) or (4) may require any person present at that place—
+(a)
+to give details of his identity, name and address and
+produce his identity card issued under the Registration of
+Persons  Ordinance  (Cap.  177)  for  inspection  by  the
+authorized officer; or
+(b)
+who appears at the time to be responsible for or in charge
+of that place, to give such information or render such
+assistance as may be necessary to enable the authorized
+officer to carry out his functions under this Part.
+(6)
+An authorized officer who enters any place under this section
+shall, if entry is by warrant, produce that warrant.
+(7)
+A warrant issued under subsection (3) or (4) shall continue in
+force until the purpose for which the entry is necessary has
+been satisfied.
+24.
+Cessation order
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+16 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(1)
+The Director may, with the consent of the Secretary, issue an
+order requiring persons working on a designated project to
+cease working on the project until the order is withdrawn, if—
+(a)
+an environmental permit has not been issued for the
+project being undertaken;
+(b)
+an environmental permit has been withdrawn from the
+project being undertaken; or
+(c)
+there  has  been  a  breach  of  the  conditions  of  an
+environmental  permit  issued  for  the  project  being
+undertaken, resulting in environmental damage.
+(2)
+The Director may, with the consent of the Secretary, issue an
+order requiring persons working on a designated project to
+carry  out  work  on  the  project  to  remedy  environmental
+damage identified by the Director.
+(3)
+The Director may, with the consent of the Secretary, after
+issuing an order to cease working on a designated project, take
+direct action to remedy environmental damage identified by
+the Director and may recover the costs of the remedial work
+from the owner of, or the operator or the contractor on, the site
+of the designated project.
+25.
+Recovery of costs
+(1)
+The Director may certify the costs due and names of the
+persons  liable  for  the  costs,  apportioning  the  costs  if
+appropriate, if he is authorized to recover the costs of works
+carried out under this Ordinance.
+(2)
+Without limiting the general meaning of costs (	⽤), the costs
+may include supervision charges and the costs of materials
+supplied by the Director for the purpose of carrying out the
+works.
+(3)
+The Director shall serve a copy of his certificate on each
+person who is liable to pay costs.
+(4)
+Annual interest at the rate of 10% commencing 1 month after
+the date of service of the certificate is recoverable as part of
+the costs.
+(5)
+Payment of costs by any person is without prejudice to his
+right to recover the payment from any other person who is
+liable to pay for the costs.
+(6)
+Costs certified by the Director are recoverable as a civil debt
+due to the Government.
+(7)
+A writ of summons initiating an action to recover costs as a
+civil debt due to the Government is presumed to have been
+served if the court is satisfied that the writ was left at the
+defendant’s residence or place of business or, if those are not
+known, that it was left at the building or land for which the
+claim is made.
+(8)
+A certificate purporting to be signed by the Director under
+subsection  (1)  is  on  its  production  admissible  in  any
+proceedings without further proof. The certificate is presumed,
+in the absence of evidence to the contrary, to be proof of the
+signature of the Director and of the facts certified in relation to
+the costs due from the person sued.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+17 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(9)
+At any time before the costs have been wholly recovered, a
+copy of the certificate referred to in subsection (1) may be
+registered under the Land Registration Ordinance (Cap. 128)
+against the land or premises for which the costs arose, and the
+copy so registered constitutes a legal charge as defined in the
+Conveyancing and Property Ordinance (Cap. 219).
+(10)
+On the recovery of all of the costs certified under this section
+the Director shall, if there has been a registration against land
+or premises under subsection (9), register under the Land
+Registration Ordinance (Cap. 128) a certificate of satisfaction
+against the land or premises.
+___________
+Part VIII
+Offences
+26.
+Offences relating to environmental permit
+(1)
+A person who contravenes section 9 commits an offence and is
+liable—
+(a)
+on  a  first  conviction  on  indictment  to  a  fine  of
+$2,000,000 and to imprisonment for 6 months;
+(b)
+on a second or subsequent conviction on indictment to a
+fine of $5,000,000 and to imprisonment for 2 years;
+(c)
+on a first summary conviction to a fine at level 6 and to
+imprisonment for 6 months;
+(d)
+on a second or subsequent summary conviction to a fine
+of $1,000,000 and to imprisonment for 1 year,
+and in any case where the offence is of a continuing nature, the
+court or magistrate may impose a fine of $10,000 for each day
+on which he is satisfied the offence continued.
+(2)
+A person does not commit an offence under subsection (1) if
+he carries out an action in response to an emergency and in the
+interests of public safety or public health.
+(3)
+A person does not commit an offence under subsection (1)
+arising out of a breach of conditions of an environmental
+permit as set out in section 9(1)(b) if he proves that the offence
+was committed without his consent or connivance and that he
+exercised all such diligence to prevent the commission of the
+offence as he ought to have exercised having regard to the
+nature of his functions in that capacity.
+(4)
+A  person  for  whom  a  project  is  constructed,  operated  or
+decommissioned  and  who  permits  the  carrying  out  of  the
+project contrary to section 9 commits an offence and is liable
+—
+(a)
+on  a  first  conviction  on  indictment  to  a  fine  of
+$2,000,000 and to imprisonment for 6 months;
+(b)
+on a second or subsequent conviction on indictment to a
+fine of $5,000,000 and to imprisonment for 2 years;
+(c)
+on a first summary conviction to a fine at level 6 and to
+imprisonment for 6 months;
+(d)
+on a second or subsequent summary conviction to a fine
+of $1,000,000 and to imprisonment for 1 year,
+and in any case where the offence is of a continuing nature, the
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+18 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+court or magistrate may impose a fine of $10,000 for each day
+on which he is satisfied the offence continued.
+(5)
+A person does not commit an offence under subsection (4) if
+he proves that the offence was committed without his consent
+or connivance and that he exercised all such diligence to
+prevent the commission of the offence as he ought to have
+exercised having regard to the nature of his functions in that
+capacity.
+(6)
+A  person  who  either  alone  or  with  an  associated  person,
+separates contiguous projects, which, if taken individually, do
+not meet the specified levels in Schedule 2 or 3 to qualify as a
+designated  project  but  which  collectively  qualify  as  a
+designated project, to avoid the purposes of this Ordinance is
+taken to have contravened subsection (4) if he permits the
+carrying out of any part of any of the contiguous projects
+without first applying to the Director under section 4(5).
+(7)
+In  proceedings  for  an  offence  under  this  section,  the
+prosecution does not have to prove that the acts or omissions
+in question were accompanied by any intention, knowledge or
+negligence on the part of the defendant as any element of the
+offence.
+27.
+Offences in relation to enforcement
+A person who—
+(a)
+wilfully resists, obstructs or delays any public officer in
+the exercise of a power conferred by section 23 which he
+is authorized to exercise;
+(b)
+fails  without  reasonable  excuse  to  comply  with  a
+requirement duly made by a public officer in the exercise
+of a power under section 23 which he is authorized to
+exercise;
+(c)
+in  compliance  or  purported  compliance  with  a
+requirement of a public officer under Part VII produces a
+drawing,  record  or  document  which  he  knows  to  be
+incorrect or inaccurate in a material respect or does not
+believe to be correct or accurate; or
+(d)
+wilfully  or  recklessly  gives  information  which  is
+incorrect in a material respect or withholds information
+as to any of the matters for which information is required
+to be given under Part VII,
+commits an offence and is liable on conviction to a fine at level 5.
+28.
+Offence to disclose confidential information obtained officially
+(1)
+A  person  who,  except  in  the  circumstances  set  out  in
+subsection  (2),  discloses  or  gives  to  another  person  any
+information that concerns a trade, business or profession, and
+has come to his knowledge or into his possession in the course
+of the discharge of his functions under this Ordinance commits
+an offence.
+(2)
+A person does not commit an offence under subsection (1) if
+he discloses or gives the information to another person—
+(a)
+to discharge his functions under this Ordinance or in
+connected proceedings;
+(b)
+under an order of a court under subsection (3); or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+19 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(c)
+with the consent in writing of all persons who appear to
+him,  after  reasonable  inquiry,  to  be  interested  in  the
+confidentiality of the information.
+(3)
+Where in proceedings a court considers that the justice of the
+case  requires,  the  court  may  order  the  disclosure  of
+information referred to in subsection (1).
+(4)
+A person who commits an offence under subsection (1) is
+liable on conviction to a fine at level 4 and to imprisonment
+for 6 months.
+29.
+Directors of body corporate liable in certain circumstances
+(1)
+Where a person convicted of an offence under this Ordinance
+is a body corporate and it is proved that the offence was
+committed  with  the  consent  or  connivance  of,  or  was
+attributable  to  any  neglect  or  omission  on  the  part  of,  a
+director, manager, secretary or other person concerned in the
+management of the body corporate, the director, manager,
+secretary or other person also commits the offence.
+(2)
+Where a person convicted of an offence under this Ordinance
+is a partner in a partnership and it is proved that the offence
+was committed with the consent or connivance of, or was
+attributable to any neglect or omission on the part of, any other
+partner or any person concerned in the management of the
+partnership,  the  partner  or  the  person  concerned  in  the
+management also commits the offence.
+___________
+Part IX
+Miscellaneous
+30.
+Exemptions
+(1)
+The Chief Executive in Council may, in the public interest,
+exempt a project from the provisions of this Ordinance by an
+order published in the Gazette.
+(2)
+The Chief Executive in Council may make the order—
+(a)
+subject to conditions and limitations;
+(b)
+have effect for a period of time; and
+(c)
+be partial in operation with respect to the project or to
+specified provisions of this Ordinance.
+(3)
+A person who breaches a condition or requirement imposed
+under an exemption order is deemed to have breached an
+environmental permit and is subject to the provisions of this
+Ordinance that apply to the breach of an environmental permit.
+(Amended 34 of 2000 s. 3)
+31.
+Protection of Government and public officers
+(1)
+A public officer is not personally liable for an act or omission
+of his if he did it in the honest belief that the act or omission
+was required or authorized to discharge his functions under
+this Ordinance.
+(2)
+The protection given to a public officer by subsection (1) for
+an act or omission does not in any way affect any liability of
+the Government in tort for the act or omission.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+20 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+32.
+Regulations
+(1)
+The  Secretary  may,  after  consultation  with  the  Advisory
+Council on the Environment, by regulation—
+(a)
+prescribe anything required or permitted to be prescribed
+under this Ordinance;
+(b)
+prescribe the minimum qualifications and experience of
+persons  undertaking  environmental  impact  assessment
+studies;
+(c)
+regulate  appeals  under  Part  VI  and  the  practice  and
+procedure of the Appeal Board;
+(d)
+generally, provide for the better carrying into effect of
+the provisions and purposes of this Ordinance.
+(2)
+A regulation for the payment of fees may provide for different
+fees to be charged according to different circumstances.
+33.
+Power of Director to set forms
+(1)
+The Director may set the form of a document required under
+this Ordinance.
+(2)
+The Director’s power under subsection (1) is subject to any
+express  requirement  under  this  Ordinance  for  a  form  to
+comply with the requirement.
+(3)
+The Director may include in a form a statutory declaration to
+be made by the person completing the form confirming that
+the particulars contained in the form are correct to the best of
+the person’s knowledge.
+34.
+Service of notices
+A notice to be served under this Ordinance may be served by
+registered post or by serving a copy personally.
+___________
+Schedule 1
+[s. 2]
+Interpretation
+In this Ordinance, unless the context otherwise requires—
+abattoir (場) means premises or a place habitually used for the slaughter
+of animals for human consumption;
+air quality objective (氣質標) means the air quality objectives
+prescribed in Schedule 5 to the Air Pollution Control Ordinance (Cap.
+311); (Added 5 of 2025 s. 24)
+aircraft maintenance and repair plant (飛修修理) means a place,
+building or structure where aircraft or its parts are stored, repaired,
+washed or greased;
+Appeal Board (上員) means the appeal board constituted under
+section 19;
+associated person (相的人) means—
+(a)
+the spouse or minor child or minor step-child of the person;
+(b)
+a corporation of which the person is a director;
+(c)
+an employee or partner of the person;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+21 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(d)
+the trustee of a trust of which the person, his spouse, minor child
+or minor step-child, is a beneficiary or a discretionary object;
+(e)
+another person who has agreed or arranged to act together with
+the person to acquire, hold or dispose of shares or other interests
+in a corporation or to act together in voting in the corporation;
+(f)
+another person in accordance with whose directions the person is
+accustomed or obliged to act;
+(g)
+another person accustomed or obliged to act in accordance with
+the directions of the person;
+(h)
+a  corporation  in  accordance  with  whose  directions  or  the
+directions of its directors the person is accustomed or obliged to
+act;
+(i)
+a corporation accustomed or obliged to act, or whose directors
+are  accustomed  or  obliged  to  act,  in  accordance  with  the
+directions of the person;
+(j)
+a corporation of which the person, either alone or together with
+his  spouse,  minor  child  or  minor  step-child,  is  directly  or
+indirectly entitled to exercise or control the exercise of 35% or
+more of the voting power;
+(k)
+a corporation of which the person, either alone or together with
+another, including a corporation in which the person is entitled to
+exercise or control the exercise of 35% or more of its voting
+power, is directly or indirectly entitled to exercise or control the
+exercise of 35% or more of the voting power;
+(l)
+a corporation of which the person controls the composition of the
+board of directors of the corporation;
+(m)
+if the person is a corporation—
+(i)
+a director of the corporation;
+(ii)
+a  corporation  which  is  a  holding  company  of  the
+corporation or a subsidiary of the holding company;
+(iii)
+a subsidiary of the corporation;
+(iv)
+a director or employee of the subsidiary;
+(v)
+a pension fund, provident fund or employee share scheme
+of the corporation or of a subsidiary of the corporation;
+bathing beach (泳") means any bathing beach which is specified in the
+Fourth Schedule to the Public Health and Municipal Services (Cap.
+132);
+bulk chemical storage facility (散$化學物品)*+,) means a facility
+that is or may be used for storing materials of a hazardous nature for
+delivery to or by seagoing bulk chemical carriers and includes related
+product blending, drum and bottle storage and dispatch facilities;
+Chairman (主.) means the Chairman of the Appeal Board panel appointed
+under section 18(2);
+chemical waste (化學/物) means waste which is chemical waste within
+the  meaning  of  Waste  Disposal  (Chemical  Waste)  (General)
+Regulation (Cap. 354 sub. leg. C);
+coastal protection area (01保34) means a coastal protection area
+shown in a draft plan prepared under the Town Planning Ordinance
+(Cap. 131) or an approved plan or partly approved plan under that
+Ordinance; (Amended 25 of 2023 s. 119)
+conservation area (⾃6保74) means a conservation area shown in a
+draft plan prepared under the Town Planning Ordinance (Cap. 131) or
+an  approved  plan  or  partly  approved  plan  under  that
+Ordinance; (Amended 25 of 2023 s. 119)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+22 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+container backup facilities (貨9⽀援+,) means facilities essential to the
+handling  of  containers  which  do  not  require  (but  may  have)  a
+waterfront  location  and  includes  container  yards,  empty  container
+storage and repair depots, container freight stations and container
+vehicle parks;
+controls the composition of the board of directors of the corporation (<制
+>團@事局的C成) means to be able, either alone or with the consent
+or concurrence of another person, to appoint or remove a majority of
+the directors and a person is taken as having the power to appoint or
+remove a director if—
+(a)
+a director cannot be appointed without the person exercising a
+power in favour of the prospective director; or
+(b)
+a person’s appointment as a director follows necessarily from his
+being a director or other officer of the person;
+corporation  ( > 團)  means  any  company  or  other  body  corporate
+incorporated in Hong Kong or elsewhere, but does not include—
+(a)
+any body corporate that is incorporated in Hong Kong and is a
+public authority or an organ or agency of the Government;
+(b)
+any corporation sole;
+(c)
+any credit union registered under the Credit Unions Ordinance
+(Cap. 119); or
+(d)
+any  corporation  registered  under  the  Building  Management
+Ordinance (Cap. 344);
+country park (E野G) means a country park within the meaning of
+section 2 of the Country Parks Ordinance (Cap. 208);
+crematorium (HI場) means a crematorium within the meaning of the
+Public Health and Municipal Services Ordinance (Cap. 132);
+decommissioning (解除L作) means ceasing production and demolishing
+an existing plant for the development or redevelopment of the site;
+Deputy Chairman (副主.) means a Deputy Chairman of the Appeal Board
+panel appointed under section 18(3);
+designated project (O⼯Q項⽬) means a project listed in Schedule 2 or
+3 or specified by the Secretary under section 4(4) as a designated
+project;
+Director (署U) means the Director of Environmental Protection;
+education institution (V7構) means an institution, organization or place
+which provides, or where there is provided, for 10 or more persons
+during any one day, whether or not at the same time, kindergarten,
+primary,  secondary  or  post  secondary  education  or  any  other
+educational course;
+environment (XY)—
+(a)
+means the components of the earth; and
+(b)
+includes—
+(i)
+land, water, air and all layers of the atmosphere;
+(ii)
+all organic and inorganic matter and living organisms; and
+(iii)
+the interacting natural systems that include any of the things
+referred to in subparagraph (i) or (ii);
+environmental impact (XYZ[), for a designated project, means—
+(a)
+an on-site or off-site change that the project may cause in the
+environment;
+(b)
+an effect of the change on—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+23 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(i)
+the  well-being  of  people,  flora,  fauna  and  ecosystems;
+(Amended E.R. 1 of 2021)
+(ii)
+physical and cultural heritage;
+(iii)
+a  structure,  site  or  other  thing  that  is  of  historical  or
+archaeological significance;
+(c)
+an on-site or off-site effect on any of the things referred to in
+paragraph (b) from activities carried on for the project;
+(d)
+a change to the project that the environment may cause,
+whether the change or effect occurs within or outside the site of the
+project;
+environmental impact assessment report (XYZ[\估^告) means a
+report prepared under section 6;
+environmental impact assessment study brief (XYZ[\估研abc)
+means a study brief issued under section 5(7)(a);
+environmental permit (XYd可f) means an environmental permit issued
+under section 10(5);
+existing uses (現有⽤i) means those uses existed at the time when the
+application under sections 9 and 13 are made;
+expressway (jk路) means an expressway within the meaning of section
+122 of the Road Traffic Ordinance (Cap. 374);
+fish culture zone (⿂類op4) means a fish culture zone within the
+meaning of section 2 of the Marine Fish Culture Ordinance (Cap. 353);
+health care institution (qr3理構) means hospitals, polyclinics and
+clinics;
+heavy railway (重型u路) means railway for freight transport or for a
+passenger transit system with a capacity exceeding 40 000 passengers
+per hour per direction;
+industrial  estate  ( ⼯業w )  means  any  industrial  estate  referred  to  in
+Schedule  1  to  the  Hong  Kong  Science  and  Technology  Parks
+Corporation Ordinance (Cap. 565); (Replaced 5 of 2001 s. 40)
+light railway (輕型u路) means railway for a passenger transit system with
+a capacity not exceeding 40 000 passengers per hour per direction;
+major extensions or improvements to existing roads (對現有z路作重⼤
+|}或) means a physical addition, alteration or re-alignment to
+existing roads which results in an adverse environmental impact as
+defined in the technical memorandum;
+marine park (0G) means a park within the meaning of the Marine
+Parks Ordinance (Cap. 476); (Amended E.R. 1 of 2021)
+marine reserve (0保34) means a reserve area that falls within the
+meaning of the Marine Parks Ordinance (Cap. 476);
+material change (質) means a physical addition or alteration to a
+designated project which results in an adverse environmental impact as
+defined in the technical memorandum;
+mid-stream operations (中作業) means the working of cargo by a ship
+while moored at a buoy or while at anchor;
+mitigation (解), for a designated project—
+(a)
+means  the  elimination,  reduction  or  control  of  the  adverse
+environmental impact of the project;
+(b)
+includes restitution by replacement, restoration, compensation or
+other  means  for  damage  to  the  environment  caused  by  the
+impact;
+pier (碼頭) means a structure built out over the water and supported by
+pillars or piles, used as a landing place for ferries, boats, ships and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+24 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+other vessels including structures accommodating hydrofoil and jetfoil
+vessels;
+planned use (劃⽤i) means the land use proposed in— (Amended 25 of 
+2023 s. 119)
+(a)
+a draft plan prepared under the Town Planning Ordinance (Cap.
+131) or an approved plan or partly approved plan under that
+Ordinance; or
+(b)
+any  other  land  use  plans  published  by  the
+Government; (Amended 25 of 2023 s. 119)
+primary distributor (主c幹路) means roads forming the major network of
+the  urban  area  including  roads  having  high  capacity  junctions,
+although they may be at grade or grade separated, with segregated
+pedestrian facilities wherever possible and frontage access limited if
+not  entirely  restricted,  and  with  a  24-hour  stopping  restriction;
+(Amended E.R. 1 of 2021)
+project profile (⼯Q項⽬介) means the description of the project that
+complies with the requirements of the technical memorandum;
+public cargo working area (貨物$4) means an area set out in the
+Port Control (Cargo Working Areas) Ordinance (Cap. 81) as a public
+cargo working area;
+quarantine station or segregation place for animals (動物檢或
+) means a place used for the quarantine of animals when they are
+imported into Hong Kong and detained there for such period as the
+veterinary officer may require;
+railway depot (u路車) means a facility for the storage, maintenance or
+repair of light or heavy railway rolling stock or equipment used for
+track maintenance, including areas where shunting facilities are used
+for operational purposes;
+railway marshalling yard (u路車場) means a facility in a railway
+system  mainly  for  sorting  train  wagons  into  different  formations
+according to an order for operation purposes;
+religious institution (V構) means a place or building, or a place of
+worship where in accordance with the practice of religious principles
+services are held or prayers said by congregations loyal to a belief and
+includes Chinese temples as set out in paragraph (b) of the definition
+of Chinese temple in section 2 of the Chinese Temples Ordinance
+(Cap.  153)  and  ancillary  offices  car  parks  and  quarters  that  are
+essential to the operation of the particular organization;
+river trade limits (內河) means the river trade limits defined in the
+Shipping and Port Control Ordinance (Cap. 313);
+river trade terminal (內河碼頭) means a terminal for handling or storing
+cargo by vessels routinely operating within waters within river trade
+limits;
+road tunnel (⾏車z) means a private or public tunnel and its portal area
+within the meaning of the Road Tunnels (Government) Ordinance
+(Cap. 368);
+Secretary  ( 局U )  means  the  Secretary  for  Environment  and
+Ecology; (Replaced 78 of 1999 s. 7. Amended L.N. 106 of 2002; L.N.
+130 of 2007; L.N. 144 of 2022)
+service reservoir (水¡) means a place or structure where water from a
+water treatment works is stored for delivery to other service reservoirs
+for distribution to the consumers of a water supply district;
+ship building or ship repairing yard (¢£}¤或修理場) means any
+place, structure or building in which ships, boats and other sailing
+vessels are constructed, repaired, renewed or broken down into parts;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+25 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+site of cultural heritage (¥化¦§¨©) means an antiquity or monument,
+whether being a place, building, site or structure or a relic, as defined
+in the Antiquities and Monuments Ordinance (Cap. 53) and any place,
+building, site, or structure or a relic identified by the Antiquities and
+Monuments  Office  to  be  of  archaeological,  historical  or
+palaeontological significance; (Amended E.R. 1 of 2021)
+site of special scientific interest (ª有特別科學價¯的¨©) means an area
+of land or water of special scientific interest by reason of its flora,
+fauna or geographical features identified by the Agriculture, Fisheries
+and Conservation Department and listed in the register of sites of
+special  scientific  interest  maintained  by  the  Planning
+Department; (Amended L.N. 331 of 1999)
+special area (特別¨4) means a special area as defined in the Country
+Parks Ordinance (Cap. 208);
+special wastes (特殊/物) includes clinical waste, animal carcasses and
+security waste, including Government documents including those to be
+treated by centralised incineration facility;
+technical memorandum (技²³´µ) means a technical memorandum
+issued under section 16;
+tramway (¶車軌z) means the roadway over which a tram passes and the
+roadway of any bridge forming part of or leading to the roadway as
+defined in the Tramway Ordinance (Cap. 107);
+transport depot (L輸車) means a facility for the construction, repair or
+maintenance  of  transport  vehicles  and  their  parking  when  not  in
+operation;
+trunk road (幹z) means a road connecting the main centres of population
+being a high capacity road with no frontage access or development,
+pedestrians segregation, widely spaced grade-separated junctions, and
+a 24-hour stopping restriction; (Amended E.R. 1 of 2021)
+typhoon shelter (¹º») means a typhoon shelter within the meaning of
+the Merchant Shipping (Local Vessels) (Typhoon Shelters) Regulation
+(Cap. 548 sub. leg. E); (Amended 24 of 2005 s. 55)
+wild animal protection area (野⽣動物保34) means an area designated
+as a restricted area under Schedule 6 to the Wild Animals Protection
+Ordinance (Cap. 170). (Amended E.R. 1 of 2021)
+___________
+Schedule 2
+[ss. 4, 9, 10 & 26 & Sch. 1]
+Designated Projects Requiring Environmental Permits
+Part I
+A—Carriageways for Motor Vehicles, Railways and Depots
+(Amended L.N. 77 of 2023)
+A.1
+A carriageway for motor vehicles that is an expressway, trunk road,
+primary distributor road or district distributor road. (Replaced L.N.
+77 of 2023)
+A.2
+A railway and its associated stations.
+A.3
+A tramway and its associated stations.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+26 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+A.4
+A railway siding, depot, maintenance workshop, marshalling yard
+or goods yard.
+A.5
+A tram depot located less than 100 m from the nearest boundary of
+an existing or planned—
+(a)
+residential area;
+(b)
+place of worship;
+(c)
+educational institution; or
+(d)
+health care institution.
+A.6
+A transport depot located less than 100 m from the nearest boundary
+of an existing or planned— (Amended L.N. 77 of 2023)
+(a)
+residential area;
+(b)
+place of worship;
+(c)
+educational institution; or
+(d)
+health care institution.
+A.7
+A road tunnel or railway tunnel more than 800 m in length between
+portals. (Amended L.N. 77 of 2023)
+A.8
+A carriageway bridge for motor vehicles, or a railway bridge, the
+length between abutments for which is more than 100 m, with
+bridge piers over the sea supporting the bridge. (Replaced L.N. 77 of
+2023)
+A.9
+A carriageway for motor vehicles fully enclosed by decking above
+and by structure on the sides for more than 100 m. (Amended L.N.
+77 of 2023)
+B—Airports and Port Facilities
+B.1
+An airport (including its runway and the development and facilities
+relating to aircraft maintenance, repair, fueling and fuel storage,
+engine testing or air cargo handling). (Amended L.N. 77 of 2023)
+B.2
+A  helipad  (except  one  provided  solely  for  the  provision  of
+firefighting or medical services, or solely for law enforcement,
+security  (including  national  security),  life-saving  or  otherwise
+ensuring personal safety, or any other emergency use) within 300 m
+of existing or planned residential development. (Amended L.N. 77 of
+2023)
+B.3
+A container terminal (including its container backup facility).
+B.4
+A public cargo working area—
+(a)
+with a cargo working length of more than 1 000 m; or
+(Replaced L.N. 77 of 2023)
+(b)
+with a cargo working length of more than 500 m and
+within 50 m of an existing or planned— (Amended L.N.
+77 of 2023)
+(i)
+residential area;
+(ii)
+place of worship;
+(iii)
+educational institution; or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+27 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(iv)
+health care institution.
+B.5
+A container backup area, container storage, container handling or
+container packing area (including a container vehicle parking area)
+more than 5 ha in size and within 300 m of an existing or planned—
+(a)
+residential area;
+(b)
+place of worship;
+(c)
+educational institution; or
+(d)
+health care institution.
+B.6
+A ship building or ship repairing yard (including its associated
+facilities) that is of more than 1 ha in size or with a lifting capacity
+of more than 20 000 tonnes. (Replaced L.N. 77 of 2023)
+B.7
+A river trade terminal.
+B.8
+A mid-stream operation facility.
+C—Reclamation, Hydraulic and Marine Facilities, Dredging and Dumping
+C.1
+Reclamation works (including associated dredging works) more
+than 5 ha in size.
+C.2
+(1)
+Reclamation works (including associated dredging works) that
+are of more than 1 ha in size, and a boundary of which is—
+(a)
+less than 500 m from the nearest boundary of an existing
+or planned specified area that is wholly or partly situated
+on or over any foreshore and sea-bed;
+(b)
+less than 200 m from the nearest boundary of an existing
+or planned specified area that is not wholly or partly
+situated on or over any foreshore and sea-bed; or
+(c)
+less than 100 m from the nearest boundary of an existing
+residential area.
+(2)
+In this item—
+foreshore and sea-bed (前1¾0¿) has the meaning given by
+section  2  of  the  Foreshore  and  Sea-bed  (Reclamations)
+Ordinance (Cap. 127);
+specified area (明¨4) means—
+(a)
+site of special scientific interest;
+(b)
+site of cultural heritage;
+(c)
+bathing beach;
+(d)
+marine park;
+(e)
+marine reserve;
+(f)
+fish culture zone;
+(g)
+wild animal protection area;
+(h)
+coastal protection area;
+(i)
+conservation area;
+(j)
+country park; or
+(k)
+special area. (Replaced L.N. 77 of 2023 and L.N. 113 of
+2023)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+28 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+C.3
+Reclamation works—
+(a)
+resulting in more than 5% decrease in cross sectional
+area calculated on the basis of 0.0 mPD in a sea channel;
+or
+(b)
+occupying an area on plan of more than 10% of any
+enclosed or semi-enclosed waterbody. (Amended L.N. 77
+of 2023)
+C.4
+A breakwater more than 1 km in length or a breakwater extending
+into a tidal flushing channel by more than 30% of the channel
+width.
+C.5
+A typhoon shelter designed to provide moorings for more than 30
+vessels. (Amended L.N. 77 of 2023)
+C.6
+A dam more than 10 m in height.
+C.7
+A land borrow area of more than 200 000 m3.
+C.8
+A land borrow area of more than 50 000 m3 of which—
+(a)
+a boundary of which is less than 500 m from the nearest
+boundary of an existing or planned—
+(i)
+residential area;
+(ii)
+place of worship;
+(iii)
+educational institution;
+(iv)
+health care institution;
+(v)
+country park; or
+(vi)
+special area; or
+(b)
+wholly or partly within a—
+(i)
+site of special scientific interest; or
+(ii)
+wild animal protection area.
+C.9
+A marine borrow area.
+C.10
+A marine dumping area.
+C.11
+A public dumping area of more than 2 ha in size. (Amended L.N. 77
+of 2023)
+C.12
+(1)
+A dredging operation that is—
+(a)
+with a dredging volume of more than 500 000 m3;
+(b)
+less than 500 m from the nearest boundary of an existing
+or planned specified area that is wholly or partly situated
+on or over any foreshore and sea-bed; or
+(c)
+less than 200 m from the nearest boundary of an existing
+or planned specified area that is not wholly or partly
+situated on or over any foreshore and sea-bed.
+(2)
+In this item—
+foreshore and sea-bed (前1¾0¿) has the meaning given by
+section  2  of  the  Foreshore  and  Sea-bed  (Reclamations)
+Ordinance (Cap. 127);
+specified area (明¨4) means—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+29 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(a)
+site of special scientific interest;
+(b)
+site of cultural heritage;
+(c)
+bathing beach;
+(d)
+marine park;
+(e)
+marine reserve;
+(f)
+fish culture zone;
+(g)
+wild animal protection area;
+(h)
+coastal protection area; or
+(i)
+conservation area. (Replaced L.N. 77 of 2023 and L.N.
+113 of 2023)
+D—Energy Supply
+D.1
+An electricity power plant running on fossil fuel with a production
+capacity of more than 100 megawatts. (Replaced L.N. 77 of 2023)
+D.2
+A gas generation plant for the production of town gas (as defined by
+section 2 of the Gas Safety Ordinance (Cap. 51)) with a production
+capacity of more than 10 million m3 per day. (Replaced L.N. 77 of
+2023)
+D.3
+A wind power plant with a production capacity of more than 100
+megawatts. (Added L.N. 77 of 2023)
+E—Water Extraction and Water Supply
+E.1
+An impounding reservoir. (Amended L.N. 77 of 2023)
+E.2
+Water treatment works with a storage facility capable of storing
+more than 500 tonnes of dangerous goods. (Amended L.N. 77 of
+2023)
+E.3
+(Repealed L.N. 77 of 2023)
+F—Sewage Collection, Treatment, Disposal and Reuse
+F.1
+Sewage treatment works with an installed capacity of more than
+15 000 m3 per day.
+F.2
+Sewage treatment works—
+(a)
+with an installed capacity of more than 5 000 m3 per day;
+and
+(b)
+a boundary of which is less than 200 m from the nearest
+boundary of an existing or planned—
+(i)
+residential area;
+(ii)
+place of worship;
+(iii)
+educational institution;
+(iv)
+health care institution;
+(v)
+site of special scientific interest;
+(vi)
+site of cultural heritage;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+30 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(vii)
+bathing beach;
+(viii)
+marine park; (Replaced L.N. 77 of 2023)
+(ix)
+marine reserve; or (Replaced L.N. 77 of 2023)
+(x)
+fish culture zone. (Replaced L.N. 77 of 2023)
+F.3
+(Repealed L.N. 77 of 2023)
+F.4
+A facility for generating, from sewage effluent treated by a sewage
+treatment plant, reclaimed water for use by the general public.
+(Replaced L.N. 77 of 2023)
+F.5
+A submarine sewage pipeline with a diameter of 1 200 mm or more
+and a length of 1 km or more.
+F.6
+A submarine sewage outfall.
+G—Waste Storage, Transfer and Disposal Facilities
+G.1
+A landfill for waste as defined in the Waste Disposal Ordinance
+(Cap. 354).
+G.2
+A refuse transfer station.
+G.3
+An incinerator with an installed capacity of more than 500 tonnes
+per day. (Amended L.N. 77 of 2023)
+G.4
+A waste disposal facility (excluding any refuse collection point)with
+an installed capacity of more than 500 tonnes per day for the
+disposal of— (Amended L.N. 77 of 2023)
+(a)
+refuse; or
+(b)
+food, chemical, industrial or special wastes. (Amended
+L.N. 77 of 2023)
+G.5
+A facility for the treatment of construction waste—
+(a)
+with a designed capacity of more than 500 tonnes per
+day; and (Amended L.N. 77 of 2023)
+(b)
+a boundary of which is less than 200 m from the nearest
+boundary of an existing or planned— (Amended L.N. 77
+of 2023)
+(i)
+residential area;
+(ii)
+place of worship;
+(iii)
+educational institution; or
+(iv)
+health care institution.
+G.6
+A waste disposal facility for pulverized fuel ash, furnace bottom ash
+or gypsum. (Amended E.R. 1 of 2021)
+H—Utility Pipelines, Transmission Pipelines and Substations
+H.1
+A 400 kV electricity substation and transmission line.
+H.2
+A submarine gas pipeline or submarine oil pipeline.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+31 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+I—Waterways and Drainage Works
+I.1
+A drainage channel or river training and diversion works—
+(a)
+with a channel width of more than 100 m; or
+(b)
+located less than 300 m from the nearest boundary of an
+existing or planned— (Amended L.N. 77 of 2023)
+(i)
+site of special scientific interest;
+(ii)
+site of cultural heritage;
+(iii)
+marine park; (Replaced L.N. 77 of 2023)
+(iiia)
+marine reserve; (Added L.N. 77 of 2023)
+(iv)
+fish culture zone;
+(v)
+wild animal protection area;
+(vi)
+coastal protection area; or
+(vii)
+conservation area.
+I.2
+A flood storage pond more than 10 ha in size.
+J—Mineral Extraction
+J.1
+A petroleum or natural gas extraction facility with a production
+capacity of more than 100 tonnes per day. (Replaced L.N. 77 of
+2023)
+J.2
+A mining operation as construed in accordance with the Mining
+Ordinance (Cap. 285). (Amended L.N. 77 of 2023)
+J.3
+A surface quarry (being a quarry as defined by section 2(1) of the
+Factories  and  Industrial  Undertakings  Ordinance  (Cap.  59))  at
+which ground surface excavation is carried out. (Replaced L.N. 77
+of 2023)
+J.4
+A coal industry works with a handling capacity of more than 100
+tonnes per day.
+K—Industrial Facilities
+(Amended L.N. 77 of 2023)
+K.1
+An industrial estate.
+K.2
+A brewery works with a production capacity of more than 0.4
+million hecto litres per annum. (Amended L.N. 77 of 2023)
+K.3
+A tannery or leather finishing factory with a production capacity of
+more than 500 000 m2 per annum. (Amended L.N. 77 of 2023)
+K.4
+A metallurgical works with a production capacity of more than
+200 000 tonnes per annum (expressed as metal). (Amended L.N. 77
+of 2023)
+K.5
+A cement works or concrete batching plant with a total silo capacity
+of  more  than  10  000  tonnes  in  which  cement  is  handled  and
+manufactured.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+32 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+K.6
+A chemical or biochemical plant with a storage capacity of more
+than 500 tonnes and in which substances are processed or produced.
+K.7
+A petroleum refinery with a production capacity of more than 500
+tonnes per day. (Replaced L.N. 77 of 2023)
+K.8
+A petro-chemical plant with a production capacity of more than 70
+000 tonnes per annum. (Amended L.N. 77 of 2023)
+K.9
+A tobacco or cigarette manufacturing plant. (Amended L.N. 77 of
+2023)
+K.10
+A  depot  for  the  storage  of,  or  a  manufacturing  plant  for  the
+manufacture  of,  explosives  (as  defined  by  section  2  of  the
+Dangerous Goods Ordinance (Cap. 295)). (Replaced L.N.  77  of
+2023)
+K.11
+A sand depot with a site area of more than 1 ha in size.
+K.12
+A bulk chemical storage facility with a storage capacity of more
+than 80 000 tonnes.
+K.13
+A dangerous goods godown with a storage capacity of more than
+500 tonnes. (Amended L.N. 77 of 2023)
+L—Storage, Transfer and Trans-Shipment of Fuels
+L.1
+A storage, transfer and trans-shipment of liquefied petroleum gas
+facility with a storage capacity of more than 200 tonnes. (Amended
+L.N. 77 of 2023)
+L.2
+A storage, transfer and trans-shipment of liquefied natural gas or
+hydrogen facility with a storage capacity of more than 200 tonnes.
+(Amended L.N. 77 of 2023)
+L.3
+A storage, transfer and trans-shipment of coal or ore facility with a
+storage capacity of more than 200 tonnes. (Amended L.N. 77 of
+2023)
+L.4
+A storage, transfer and trans-shipment of petroleum facility with a
+storage capacity of more than 1 000 tonnes. (Amended L.N. 77 of
+2023)
+M—Agriculture and Fisheries Activities
+M.1
+A fish culture zone—
+(a)
+more than 5 ha in size; or
+(b)
+a boundary of which is less than 500 m from the nearest
+boundary of an existing or planned—
+(i)
+marine park; (Replaced L.N. 77 of 2023)
+(ia)
+marine reserve; or (Added L.N. 77 of 2023)
+(ii)
+bathing beach.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+33 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+N—Community Facilities
+N.1
+An abattoir with a daily slaughter capacity of more than 500 food
+animals (as defined by section 3 of the Slaughterhouses Regulation
+(Cap. 132 sub. leg. BU)). (Amended L.N. 77 of 2023)
+N.2
+A quarantine station, or quarantine lairage, for animals.
+N.3
+A wholesale market for fish or livestock. (Amended L.N. 77 of
+2023)
+N.4
+A crematorium.
+O—Tourist and Recreational Developments
+O.1
+An outdoor golf course and all managed turf areas.
+O.2
+A marina designed to provide moorings for more than 30 vessels
+used primarily for pleasure or recreation. (Amended L.N.  77  of
+2023)
+O.3
+An open air venue designed for horse racing with a capacity to
+accommodate more than 10 000 persons. (Replaced L.N.  77  of
+2023)
+O.4
+An outdoor motor racing circuit (including one provided solely for
+training). (Replaced L.N. 77 of 2023)
+O.5
+An open firing range.
+O.6
+An open air concert venue with a capacity to accommodate more
+than 10 000 persons.
+O.7
+An outdoor sporting facility with a capacity to accommodate more
+than 10 000 persons.
+O.8
+A theme park or amusement park with a site area of more than 20
+ha in size. (Added L.N. 205 of 1999)
+P—Residential and Other Developments
+P.1
+A  residential  or  recreational  development,  other  than  New
+Territories exempted houses within Deep Bay Buffer Zone 1 or 2.
+P.2
+(Repealed L.N. 77 of 2023)
+Q—Miscellaneous
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+34 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+Q.1
+All  projects  involving  earthworks,  dredging  works  and  other
+building works partly or wholly in an existing or gazetted proposed
+country park or special area, a conservation area, an existing or
+gazetted proposed marine park or marine reserve, a site of cultural
+heritage, and a site of special scientific interest, except for the
+following— (Amended L.N. 77 of 2023)
+(a)
+minor  maintenance  works  to  roads,  sewers,  slopes,
+public lightings (including their associated cabling) or
+utilities; (Amended L.N. 77 of 2023)
+(ab)
+minor  maintenance  works  (including  desilting  works)
+relating to a drainage channel or river; (Added L.N. 77 of
+2023)
+(b)
+the installation of telecommunications wires, joint boxes,
+power lines with a voltage level of not more than 66 kV,
+or  gas  pipelines  with  a  diameter  of  120  mm  or
+less; (Amended 36 of 2000 s. 28; L.N. 77 of 2023)
+(c)
+educational, recreational or public enjoyment facilities
+not otherwise designated projects listed in Parts A to P
+and  approved  by  the  Country  and  Marine  Parks
+Authority; (Amended L.N. 77 of 2023)
+(d)
+all earthworks relating to forestry, agriculture, fisheries
+or the management of vegetation or habitat; (Amended
+L.N. 77 of 2023)
+(e)
+New  Territories  exempted  houses  or  their  associated
+structures or facilities (including drainage and sewerage);
+(Replaced L.N. 77 of 2023)
+(f)
+footpaths  or  sitting  out  areas,  or  their  associated
+facilities; (Replaced L.N. 77 of 2023)
+(g)
+facilities (including firefighting, power supply or water
+supply  facilities,  toilets  and  sewers  (including  their
+associated  sewage  treatment  facilities))  or  works
+(including slope, drainage and road works) relating to the
+management  and  protection  of  marine  parks,  marine
+reserves, country parks, sites of special scientific interest,
+conservation areas or special areas; (Replaced L.N. 77 of
+2023)
+(h)
+all works not otherwise designated projects listed in Parts
+A to P undertaken by the Country and Marine Parks
+Authority  under  section  4  of  the  Country  Parks
+Ordinance (Cap. 208) or section 4 of the Marine Parks
+Ordinance  (Cap.  476)  for  developing  and  managing
+country  parks,  special  areas,  marine  parks  or  marine
+reserves; (Amended L.N. 77 of 2023)
+(i)
+maintenance  of,  or  improvement  works  to,  existing
+waterworks; (Replaced L.N. 77 of 2023)
+(j)
+works involving trench excavation (with a trench width
+of not more than 1.5 m) for the provision of underground
+water or sewage pipes (including any associated works
+for fittings or valves); (Replaced L.N. 77 of 2023)
+(k)
+the  following  works  that  do  not  involve  trench
+excavation—
+(i)
+works for the provision of underground water or
+sewage pipes; or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+35 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+(ii)
+works for the provision of above ground water or
+sewage pipes with a diameter of 450 mm or less
+(including  any  associated  works  for  fittings  or
+valves); (Added L.N. 77 of 2023)
+(l)
+works for the provision of water tanks; (Added L.N. 77 of
+2023)
+(m)
+works  for  the  provision  of  hydrological  stations
+(including any associated works); (Added L.N.  77  of
+2023)
+(n)
+works carried out for village supply schemes, including
+schemes
+ 
+for
+ 
+electricity
+ 
+or
+ 
+gas
+ 
+supply,
+telecommunications,  public  lightings  (including  their
+associated  cabling),  water  supply  and  sewerage;  or
+(Added L.N. 77 of 2023)
+(o)
+helipads, or any other facilities, provided solely for the
+provision of firefighting or medical services, or solely for
+law enforcement, security (including national security),
+life-saving or otherwise ensuring personal safety, or any
+other emergency use. (Added L.N. 77 of 2023)
+Q.2
+An underground rock cavern with a portal that is less than 100 m
+from the nearest boundary of an existing or planned—
+(a)
+residential area;
+(b)
+place of worship;
+(c)
+educational institution;
+(d)
+health care institution;
+(e)
+site of special scientific interest;
+(f)
+site of cultural heritage;
+(g)
+country park;
+(h)
+special area;
+(i)
+conservation area;
+(j)
+bathing beach;
+(k)
+marine park; or
+(l)
+marine reserve. (Replaced L.N. 77 of 2023)
+Part II
+Decommissioning Projects
+1.
+Airports,  including  fueling  and  fuel  storage,  the  aircraft
+maintenance and repair facilities.
+2.
+A petroleum refinery with a production capacity of more than 500
+tonnes per day. (Replaced L.N. 77 of 2023)
+3.
+A municipal, chemical or clinical waste incinerator with an installed
+capacity of more than 500 tonnes per day.
+4.
+An electricity power plant running on fossil fuel with a production
+capacity of more than 100 megawatts. (Replaced L.N. 77 of 2023)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+36 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+5.
+A gas generation plant for the production of town gas (as defined by
+section 2 of the Gas Safety Ordinance (Cap. 51)) with a production
+capacity of more than 10 million m3 per day. (Replaced L.N. 77 of
+2023)
+6.
+(Repealed L.N. 77 of 2023)
+7.
+An installation for storage or disposal of radioactive waste.
+8.
+A waste disposal facility for pulverized fuel ash, furnace bottom ash
+or gypsum.
+9.
+A metallurgical works with a production capacity of more than 200
+000 tonnes per annum (expressed as metal).
+10.
+A petro-chemical plant with a production capacity of more than 70
+000 tonnes per annum.
+11.
+A  depot  for  the  storage  of,  or  a  manufacturing  plant  for  the
+manufacture  of,  explosives  (as  defined  by  section  2  of  the
+Dangerous Goods Ordinance (Cap. 295)). (Replaced L.N.  77  of
+2023)
+12.
+A bulk chemical storage facility with a storage capacity of more
+than 80 000 tonnes.
+13.
+A store for liquefied petroleum gas with a storage capacity of more
+than 200 tonnes.
+14.
+A store for liquefied natural gas or hydrogen with a storage capacity
+of more than 200 tonnes.
+15.
+A store for coal and ore with a storage capacity of more than 200
+tonnes.
+16.
+A store for petroleum with a storage capacity of more than 1 000
+tonnes.
+17.
+A ship building or ship repairing yard (including its associated
+facilities) that is of more than 1 ha in size or with a lifting capacity
+of more than 20 000 tonnes. (Replaced L.N. 77 of 2023)
+(Amended L.N. 77 of 2023)
+___________
+Schedule 3
+[ss. 4, 9 & 26 & Sch. 1]
+Major Designated Projects Requiring Environmental
+Impact Assessment Reports
+1.
+An urban development or redevelopment project covering an area of
+more than 50 ha. (Replaced L.N. 77 of 2023)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+37 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+2.
+(Repealed L.N. 77 of 2023)
+___________
+Schedule 4
+[s. 10]
+Matters that may be Specified in Environmental Permit
+1.
+The  design,  alignment,  plan,  layout  or  visual  appearance  of  a
+designated project.
+2.
+The physical scale, scope or extent of a designated project.
+3.
+The methods for carrying out a designated project or the timing,
+phasing or order of the stages of a designated project.
+4.
+The amount, rate or quality of a discharge, emission or deposit of
+pollutants or wastes from a designated project, including the colour
+or temperature of, or amount or concentration of, a contaminant,
+impurity or other substance in, the discharge, emission or deposit.
+5.
+Limits on the strength, severity or level of the environmental impact
+of a designated project.
+6.
+The mitigation of the environmental impact of a designated project,
+and the timing, phasing or order of mitigation measures, including
+—
+(a)
+pollution control or environmental protection equipment,
+processes, systems, practices or technologies;
+(b)
+equipment, processes, systems, practices or technologies
+for  the  prevention,  reduction,  reuse,  recovery  and
+recycling of wastes or wastewater;
+(c)
+equipment, processes, systems, practices or technologies
+for the management of wastes, including the storage,
+treatment or disposal of wastes;
+(d)
+acoustic  barriers  and  enclosures,  noise  insulation
+equipment, or equipment, processes, systems, practices
+or technologies for the avoidance, prevention, reduction,
+minimization or control of noise;
+(e)
+equipment, processes, systems, practices or technologies
+for the avoidance, prevention, reduction, minimization or
+control of air pollution; or
+(f)
+processes, systems, practices, procedures or technologies
+for the conservation, preservation or protection of flora,
+fauna,  ecological  habitats,  sites  of  special  scientific
+interest, or of cultural heritage importance, or resources.
+7.
+Pollution  control,  environmental  protection  or  other  mitigation
+measures to be carried out outside the site of a designated project.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+38 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+8.
+Compensation  or  restoration  measures  for  the  conservation,
+preservation or protection of flora, fauna, ecological habitat or other
+ecological  resources,  including  replanting,  relocation,  re-
+establishment or rehabilitation measures, to mitigate an adverse
+environmental impact of a designated project.
+9.
+Landscaping measures to mitigate the environmental impact of a
+designated project.
+10.
+Programmes or exercises for monitoring the environmental impact
+of a designated project or the effectiveness of measures to mitigate
+its environmental impact, whether such impact may occur within or
+outside its physical boundary or site, and the review and audit of
+data and information derived from such programmes or exercises,
+including specification of—
+(a)
+the parameters or impact to be monitored;
+(b)
+the frequency of monitoring, or the procedures, practices,
+methods  or  equipment  to  be  used  for  monitoring,
+including  the  maintenance  and  calibration  of  such
+equipment  and  quality  assurance  and  laboratory
+accreditation procedures;
+(c)
+the standards or criteria to be used for evaluating and
+auditing monitoring data;
+(d)
+plans and procedures for action in response to the results
+of such monitoring programmes or exercises, including
+action to  intensify or  increase  monitoring, inspect or
+investigate  revealed  or  indicated  problems,  or  take
+remedial measures to address such problems;
+(e)
+the nature, format or frequency of the reporting of the
+results and findings of monitoring or action plans and
+procedures.
+11.
+Equipment, methods, processes, systems, procedures or practices
+for  the  construction,  operation,  use,  implementation  or
+decommissioning of a designated project.
+12.
+Requirements  for  the  training,  qualifications  or  expertise  of
+personnel involved in the carrying out of a designated project.
+13.
+The preparation of management plans, procedures manuals or other
+materials and documents for guiding and regulating the carrying out
+of a designated project.
+14.
+Environmental studies, investigation or information to be obtained
+and submitted during the carrying out of a designated project.
+15.
+The release to the public of reports on monitoring or auditing work
+or other reports or information in relation to the assessment or
+carrying out of a designated project.
+16.
+The requirements for carrying out of environmental monitoring by
+accredited  laboratories,  or  environmental  audit  by  qualified
+personnel.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+39 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------
+17.
+The  requirements  of  the  implementation  and  completion  of
+mitigation  measures  to  be  checked  and  certified  by  qualified
+personnel, and for the submission of certified reports on the status
+of the implementation of mitigation measures.
+___________
+Schedule 5
+[s. 13]
+Arrangements Regarding Evaluation of Air Quality
+Impact for Section 13(5A) on Account of Amendments
+to Air Quality Objectives by Section 13 of Air Pollution
+Control (Amendment) Ordinance 2025
+(Schedule 5 added 5 of 2025 s. 25)
+1.
+Interpretation
+In this Schedule—
+2025  Ordinance  ( 《2025 年Ã 例》)  means  the  Air  Pollution
+Control (Amendment) Ordinance 2025 (5 of 2025);
+amended air quality objectives (Æ修Ç氣質標) means the
+air quality objectives as amended by section 13 of the 2025
+Ordinance;
+*commencement date (⽣È⽇期) means the date on which section
+13 of the 2025 Ordinance comes into operation;
+pre-amended air quality objectives (Ë有氣質標) means the
+air  quality  objectives  as  in  force  immediately  before  the
+commencement date;
+transitional  period  ( Ì Í 期)  means  the  period  of  36  months
+beginning on the commencement date.
+____________________
+Editorial Note:
+* Commencement date: 11 April 2025.
+2.
+Application  of  air  quality  objectives  to  applications  under
+section 13(1)
+(1)
+This section applies to an application for a variation of the
+conditions of an environmental permit under section 13(1) if—
+(a)
+the  environmental  permit  was  issued  before  the
+commencement date; and
+(b)
+the  application  is  made  before  the  expiry  of  the
+transitional period.
+(2)
+For an application mentioned in subsection (1)—
+(a)
+the pre-amended air quality objectives continue to have
+effect as a criterion for evaluating air quality impact
+under  section  1.1(a)  of  Annex  4  to  the  technical
+memorandum for the purposes of—
+(i)
+sections 5, 6, 7 and 8, as applied in relation to the
+application because of section 13(4); and
+(ii)
+section 13(5)(b); and
+(b)
+the amended air quality objectives do not have effect as
+such a criterion for those purposes.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+40 of 40
+4/28/25, 22:19
+
+--------------------------------------------------------------------------------

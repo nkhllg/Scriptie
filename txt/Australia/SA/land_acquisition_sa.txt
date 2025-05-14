@@ -1,0 +1,3526 @@
+Version: 25.2.2021 
+Published under the Legislation Revision and Publication Act 2002 
+1 
+South Australia 
+Land Acquisition Act 1969 
+An Act about the acquisition of land. 
+ 
+Contents 
+Part 1—Preliminary 
+1 
+Short title 
+3 
+Object of this Act 
+6 
+Interpretation 
+7 
+Application 
+8 
+Real Property Act does not derogate from application of Act 
+9 
+Act does not apply to resumption of land 
+9A 
+Operation of section 26B to be set out in certain communications 
+Part 2—Proposal to acquire land 
+10 
+Notice of intention to acquire land 
+10A 
+Obligation to notify Authority of other interests in land 
+11 
+Explanation of acquisition scheme may be required 
+12 
+Right to object 
+12A 
+Right of review 
+12B 
+Additional right to object to prescribed private acquisition 
+13 
+Notice that land is subject to acquisition 
+14 
+Notice where land is under the Real Property Act 
+Part 3—Acquisition of land 
+15 
+Acquisition by agreement etc 
+16 
+Notice of acquisition 
+17 
+Modification of instruments of title 
+Part 4—Negotiation, compensation and other payments 
+Division 1—Acquisition of native title in land for private purpose 
+18 
+Application of Division 
+19 
+Negotiation about acquisition of native title in land 
+20 
+Application for determination if no agreement 
+20A 
+Constitution of trust 
+21 
+Criteria for making determination 
+22 
+Overruling of determinations 
+Division 1A—Notice to be given of certain prescribed private acquisitions 
+22A 
+Notice on behalf of State for prescribed private acquisition 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Contents 
+ 
+2 
+Published under the Legislation Revision and Publication Act 2002 
+Division 2—Compensation 
+22B 
+Entitlement to compensation 
+23 
+Negotiation of compensation 
+23A 
+Offer of compensation and payment into court 
+23AB 
+Responding to an offer of compensation 
+23AC 
+Reversion of compensation moneys 
+23B 
+Agreement 
+23BA 
+Settlement conference 
+23C 
+Reference of matters into court 
+24 
+Entry into possession 
+24A 
+Court orders in relation to entry into possession etc 
+25 
+Principles of compensation 
+25A 
+Solatium 
+26 
+Application of compensation 
+Division 3—Direct payments of compensation 
+26A 
+Payments of compensation not exceeding prescribed amount may be made directly to 
+claimant 
+Division 4—Other payments 
+26B 
+Payments relating to professional costs 
+26C 
+Payments to residential tenants 
+26D 
+Payment of transfer costs 
+Part 4A—Special provisions relating to acquisition of underground land 
+26DA 
+Application of Part to native title 
+26E 
+Application of Act to acquisition of underground land 
+26EA 
+Special provisions applying where acquisition of underground land for certain tunnel 
+construction 
+26F 
+Acquisition of underground land 
+26G 
+Obligation to notify Authority of other interest in underground land 
+26H 
+Limited entitlement to compensation where certain water infrastructure or rights affected 
+Part 5—Powers of entry and temporary occupation 
+27 
+Powers of entry 
+28 
+Temporary occupation 
+29 
+Compensation for entry or temporary occupation 
+Part 6—Miscellaneous 
+30 
+Powers of inspection 
+31 
+Giving of notice and other documents 
+32 
+Persons of limited juristic capacity 
+33 
+Interest 
+35 
+Authority may dispose of surplus land 
+36 
+Costs 
+36A 
+Recovery of compensation from Authority 
+37 
+Summary of procedure 
+38 
+Regulations 
+Legislative history 
+ 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Preliminary—Part 1 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+3 
+The Parliament of South Australia enacts as follows: 
+Part 1—Preliminary 
+1—Short title 
+This Act may be cited as the Land Acquisition Act 1969. 
+3—Object of this Act 
+The object of this Act is to provide for the acquisition of land on just terms. 
+6—Interpretation 
+ 
+(1) 
+In this Act, unless the contrary intention appears— 
+acquisition project means— 
+ 
+(a) 
+the acquisition or proposed acquisition of land under this Act; and 
+ 
+(b) 
+the development or use (or the proposed or expected development or use) of 
+the land following its acquisition; 
+Authority means the person authorised by the special Act to acquire land; 
+claimant means a person who has or asserts a claim to compensation under this Act; 
+Commonwealth Registrar means the Native Title Registrar appointed under Part 5 of 
+the Native Title Act 1993 (Cwth); 
+compensation means compensation to which a person is entitled under this Act, and 
+includes the purchase price of land purchased by agreement, but does not include a 
+payment under Part 4 Division 4; 
+Court means the Supreme Court; 
+ERD Court means the Environment, Resources and Development Court constituted 
+under the Environment, Resources and Development Court Act 1993; 
+infrastructure facility has the same meaning as in the Native Title Act 1993 (Cwth); 
+interest in land means— 
+ 
+(a) 
+a legal or equitable estate or interest in the land; or 
+ 
+(b) 
+an easement, right, power, or privilege in, under, over, affecting, or in 
+connection with, the land; or 
+ 
+(c) 
+native title in the land; 
+interested in relation to land, means having an interest in the land; 
+land includes an interest in land; 
+native title—for definitions relating to native title see the Native Title (South 
+Australia) Act 1994; 
+owner includes a person who holds native title in land; 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 1—Preliminary 
+ 
+4 
+Published under the Legislation Revision and Publication Act 2002 
+prescribed private acquisition means— 
+ 
+(a) 
+an acquisition by the Crown or an instrumentality of the Crown of native title 
+in land for the purpose of conferring rights or interests in relation to the land 
+on a person other than the Crown or an instrumentality of the Crown so that 
+an infrastructure facility may be provided; or 
+ 
+(b) 
+an acquisition by the Crown or an instrumentality of the Crown of native title 
+in land wholly within a town or city for the purpose of conferring rights or 
+interests on a person other than the Crown or an instrumentality of the Crown; 
+or 
+ 
+(c) 
+an acquisition by the Crown or an instrumentality of the Crown of native title 
+in land situated on the seaward side of the mean high-water mark of the sea 
+for the purpose of conferring rights or interests on a person other than the 
+Crown or an instrumentality of the Crown; or 
+ 
+(d) 
+an acquisition of native title in land that is neither made by the Crown or an 
+instrumentality of the Crown nor made for the purpose of conferring rights or 
+interests on the Crown or an instrumentality of the Crown; 
+Registrar means— 
+ 
+(a) 
+for all interests in land except native title—the Registrar-General; 
+ 
+(b) 
+for native title—the Registrar of the ERD Court; 
+registered representative of native title holders—see Native Title (South Australia) 
+Act 1994; 
+special Act means the Act authorising the compulsory acquisition of land; 
+subject land means land acquired or subject to acquisition under this Act; 
+town or city means an area in South Australia that is a town or city for the purposes of 
+the Native Title Act 1993 (Cwth).
+1 
+ 
+(2) 
+An explanatory note to a provision of this Act forms part of the provision to which it 
+relates. 
+ 
+(3) 
+A reference to the Crown or an instrumentality of the Crown in this Act is taken to 
+have the same meaning as a reference to the State (so far as applicable to South 
+Australia) in the Native Title Act 1993 (Cwth). 
+Explanatory Note— 
+1 
+See section 251C of that Act. 
+7—Application 
+ 
+(1) 
+This Act applies to and in relation to every acquisition of land authorised by a special 
+Act. 
+ (1a) A special Act that authorises the compulsory acquisition of land will be taken to 
+authorise the acquisition of land as defined by this Act (including, to avoid doubt, 
+underground land). 
+ 
+(2) 
+This Act is hereby incorporated with every special Act authorising the acquisition of 
+land, and shall be read with any such Act as one Act. 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Preliminary—Part 1 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+5 
+ 
+(3) 
+In its application to the acquisition of native title, this Act operates subject to the 
+provisions of any relevant registered indigenous land use agreement under the Native 
+Title Act 1993 (Cwth). 
+8—Real Property Act does not derogate from application of Act 
+The provisions of this Act apply notwithstanding the provisions of the Real Property 
+Act 1886. 
+9—Act does not apply to resumption of land 
+This Act does not apply to, or in relation to, the resumption of land pursuant to any 
+provision of the Crown Lands Act 1929 or the Pastoral Act 1936. 
+9A—Operation of section 26B to be set out in certain communications 
+Without limiting any other provision of this Act, the Authority must ensure that any 
+written communication of the Authority to an owner of land that is, or is to be, 
+acquired under this Act contains information setting out the operation of section 26B. 
+Part 2—Proposal to acquire land 
+10—Notice of intention to acquire land 
+ 
+(1) 
+Subject to this Act, if the Authority proposes to acquire land (other than native title), 
+the Authority must give a notice of intention to acquire the land to each person whose 
+interest in the land is subject to acquisition, or such of those persons as, after diligent 
+inquiry, become known to the Authority. 
+ 
+(2) 
+If the Authority proposes to acquire native title in land, the Authority must— 
+ 
+(a) 
+if there is a native title declaration for the land—give notice of intention to 
+acquire the land to the registered representative of the native title holders and 
+the relevant representative Aboriginal body; 
+ 
+(b) 
+if there is no native title declaration for the land— 
+ 
+(i) 
+give a notice of intention to acquire the land to all persons who hold, 
+or may hold, native title in the land;
+1 and 
+ 
+(ii) 
+in a case to which Part 4 Division 1 applies— 
+ (A) give a copy of the notice of intention to acquire the land to 
+the Registrar of the ERD Court and the Commonwealth 
+Registrar; and 
+ 
+(B) 
+as soon as practicable after completing all requirements for 
+service of the notice, give the Registrar of the ERD Court, 
+the Commonwealth Registrar, the relevant representative 
+Aboriginal body and any other prescribed persons a 
+statutory declaration— 
+ 
+• 
+specifying the steps that have been taken to effect 
+service, the date of each step, and when the 
+requirements for service were completed; and 
+ 
+• 
+exhibiting any supporting materials required under 
+the regulations. 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 2—Proposal to acquire land 
+ 
+6 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(3) 
+The notice of intention to acquire the land must comply with the following 
+requirements: 
+ 
+(a) 
+it must define the subject land with reasonable particularity; and 
+ (ab) it must set out the operation of section 26B; and 
+ 
+(b) 
+if Part 4 Division 1 applies to the proposed acquisition—it must include a 
+statement that Aboriginal groups who are not registered, and have not applied 
+for registration, under the law of the State or the Commonwealth as holders of 
+or claimants to native title in the land but want to participate in the 
+negotiations must take the necessary steps under that law to become native 
+title parties in relation to the relevant land within three months after service of 
+the notice; and 
+ 
+(c) 
+if— 
+ 
+(i) 
+the Authority is the Crown or an instrumentality of the Crown; and 
+ 
+(ii) 
+the Authority proposes to acquire native title; and 
+ (iii) the Authority does not propose to acquire the land for the purpose of 
+conferring rights or interests on someone other than the Crown or an 
+instrumentality of the Crown, 
+it must state that the purpose of the acquisition is to confer rights or interests 
+in relation to the land on the Crown or an instrumentality of the Crown. 
+ 
+(4) 
+If the Authority changes the boundaries of the land it proposes to acquire in any 
+respect, the Authority must immediately serve a notice of amendment to the notice of 
+intention to acquire the land on the same persons as the notice of intention to acquire. 
+ (4a) To avoid doubt, a notice under subsection (4)— 
+ 
+(a) 
+need not be given to a person in the same way as the notice of intention to 
+acquire land was given to the person; and 
+ 
+(b) 
+does not constitute a new notice of intention to acquire the relevant land. 
+ 
+(5) 
+However, a notice of amendment need not be given to a person who was given notice 
+of intention to acquire the land if— 
+ 
+(a) 
+the notice of intention to acquire was given because the person held an 
+interest in the land and the person no longer holds that interest; or 
+ 
+(b) 
+the notice of intention to acquire was given because the person claimed to 
+hold an interest in the land and— 
+ 
+(i) 
+the claim has been abandoned; or 
+ 
+(ii) 
+a court has determined the claim and found that the claimant has no 
+interest in the land. 
+ 
+(6) 
+A notice of intention to acquire land does not bind the Authority to acquire the subject 
+land. 
+Explanatory Note— 
+1 
+For method of service see Part 5 Native Title (South Australia) Act 1994. 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Proposal to acquire land—Part 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+7 
+10A—Obligation to notify Authority of other interests in land 
+ 
+(1) 
+An owner of land to whom a notice of intention to acquire the land is given must, no 
+later than 14 days after receiving the notice, notify the Authority of— 
+ 
+(a) 
+any other person who, to the person's knowledge, has an interest in the land; 
+and 
+ 
+(b) 
+the nature of that person's interest. 
+ 
+(2) 
+A person who, without reasonable excuse, refuses or fails to comply with 
+subsection (1) is guilty of an offence. 
+Maximum penalty: $5 000. 
+11—Explanation of acquisition scheme may be required 
+ 
+(1) 
+A person who has an interest in the subject land may, within 30 days after notice of 
+intention to acquire the land is given, require the Authority, by written notice— 
+ 
+(a) 
+to give an explanation of the reasons for acquisition of the land; and 
+ 
+(b) 
+to provide reasonable details of any statutory scheme in accordance with 
+which the land is to be acquired. 
+ 
+(2) 
+For the purposes of this section— 
+ 
+(a) 
+the registered representative of claimants to, or holders of, native title in land 
+is taken to have an interest in that land; and 
+ 
+(b) 
+the relevant representative Aboriginal body is taken to have an interest in the 
+land if— 
+ 
+(i) 
+the land is native title land; and 
+ 
+(ii) 
+there is no native title declaration for the land; and 
+ (iii) — 
+ (A) there are no registered representatives of claimants to native 
+title in the land; or 
+ 
+(B) 
+an Aboriginal group that claims to hold native title in the 
+land and for which there is no registered representative has, 
+in accordance with the regulations, authorised the 
+representative Aboriginal body to act on its behalf. 
+ 
+(3) 
+The Authority may furnish the explanation and details by letter, or by making 
+available models, plans, specifications or other relevant materials relating to the 
+statutory land acquisition scheme. 
+12—Right to object 
+ 
+(1) 
+A person who has an interest in the subject land may within 30 days after notice of 
+intention to acquire the land is given or, if an explanation of the reasons for the 
+acquisition is required, within 30 days after the explanation was provided, by written 
+notice— 
+ 
+(a) 
+request the Authority not to proceed with the acquisition of the subject land; 
+or 
+ 
+(b) 
+request an alteration in the boundaries of the subject land; or 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 2—Proposal to acquire land 
+ 
+8 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(c) 
+request that a particular part of the subject land be not acquired, or that further 
+land be acquired. 
+ 
+(2) 
+For the purposes of this section— 
+ 
+(a) 
+the registered representative of claimants to, or holders of, native title in land 
+is taken to have an interest in that land; and 
+ 
+(b) 
+the relevant representative Aboriginal body is taken to have an interest in the 
+land if— 
+ 
+(i) 
+the land is native title land; and 
+ 
+(ii) 
+there is no native title declaration for the land; and 
+ (iii) — 
+ (A) there are no registered representatives of claimants to native 
+title in the land; or 
+ 
+(B) 
+an Aboriginal group that claims to hold native title in the 
+land and for which there is no registered representative has, 
+in accordance with the regulations, authorised the 
+representative Aboriginal body to act on its behalf. 
+ 
+(3) 
+A request may be made under subsection (1)— 
+ (aa) on the ground that acquisition of the land or a particular part of the land is not 
+necessary for the purposes of carrying out the undertaking to which the 
+acquisition relates; or 
+ 
+(a) 
+on the ground that acquisition of the land or carrying out the purposes for 
+which the acquisition is proposed would— 
+ 
+(i) 
+seriously impair an area of scenic beauty; or 
+ 
+(ii) 
+destroy, damage or interfere with an Aboriginal site within the 
+meaning of the Aboriginal Heritage Act 1988; or 
+ (iii) destroy or impair a site of architectural, historic or scientific interest; 
+or 
+ (iv) prejudice the conservation of flora or fauna that should be conserved 
+in the public interest; or 
+ 
+(v) 
+prejudice some other public interest; or 
+ 
+(b) 
+on some other ground stated in the request. 
+ 
+(4) 
+The Authority must consider any request made to it under this section and must, 
+within 14 days after receipt of the request, serve notice in writing on the person by 
+whom the request was made, indicating whether it accedes to, or refuses, the request. 
+12A—Right of review 
+ 
+(1) 
+A person who makes a request under section 12 in relation to a proposed acquisition 
+which is refused by the Authority under that section may apply to the Tribunal under 
+section 34 of the South Australian Civil and Administrative Tribunal Act 2013 for a 
+review of the Authority's decision. 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Proposal to acquire land—Part 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+9 
+ 
+(2) 
+An application for review under subsection (1) must be made within 7 days of service 
+on the person of the notice of the Authority's decision to refuse. 
+ 
+(3) 
+The Tribunal must complete its proceedings on a review within 21 days of the 
+application being made under subsection (1). 
+ 
+(4) 
+The merits or otherwise of the undertaking to which the proposed acquisition relates 
+cannot be called into question in a review under this section. 
+ 
+(5) 
+Section 71 of the South Australian Civil and Administrative Tribunal Act 2013 does 
+not apply to or in relation to a decision of the Tribunal under this section. 
+ 
+(6) 
+In this section— 
+Tribunal means the South Australian Civil and Administrative Tribunal established 
+under the South Australian Civil and Administrative Tribunal Act 2013. 
+12B—Additional right to object to prescribed private acquisition 
+ 
+(1) 
+Native title parties may, by written notice to the Minister, object to a prescribed 
+private acquisition so far as it affects their registered native title rights. 
+ 
+(2) 
+An objection under subsection (1) must be made within two months after notice of 
+intention to acquire the land is given or, if an explanation of the reasons for the 
+acquisition is required, within two months after the explanation is provided. 
+ 
+(3) 
+The Minister must consult any native title parties who object under subsection (1) 
+about ways of minimising the impact of the acquisition project on registered native 
+title rights and, if relevant, access to the land. 
+ 
+(4) 
+The Attorney-General must, at the request of a native title party who has made an 
+objection under this section, appoint an independent person or body to hear the 
+objection. 
+Example— 
+The Attorney-General might appoint a Judge of the ERD Court or a native title 
+commissioner to hear the objection. 
+ 
+(5) 
+Before making such an appointment, the Attorney-General must consult the Minister 
+and the native title party. 
+ 
+(6) 
+If the independent person or body hearing an objection under this section makes a 
+determination upholding the objection, or that contains conditions about the 
+acquisition that relate to registered native title rights, the determination must be 
+complied with unless— 
+ 
+(a) 
+the Minister responsible for indigenous affairs is consulted; and 
+ 
+(b) 
+the consultation is taken into account; and 
+ 
+(c) 
+it is in the interests of the State not to comply with the recommendation. 
+ 
+(7) 
+For the purposes of this section— 
+determination includes recommendation; 
+in the interests of the State includes— 
+ 
+(a) 
+for the social or economic benefit of the State (including Aboriginal peoples); 
+and 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 2—Proposal to acquire land 
+ 
+10 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(b) 
+in the interests of the relevant region or locality in the State; 
+Minister means the Minister responsible for the administration of the Act under which 
+the Authority in question is empowered to make the proposed acquisition. 
+Explanatory Note— 
+Compare section 24MD(6B) of the Native Title Act 1993 (Cwth). 
+13—Notice that land is subject to acquisition 
+ 
+(1) 
+This section applies only in respect of land that— 
+ 
+(a) 
+has not been brought under the provisions of the Real Property Act 1886; and 
+ 
+(b) 
+is not native title land. 
+ 
+(2) 
+Where a notice of intention to acquire land has been served upon any person, that 
+person shall not enter into any transaction in respect of the subject land without first 
+disclosing the fact that the notice of intention to acquire the land has been served upon 
+him. 
+ 
+(3) 
+If any contract or agreement in relation to the land is entered into without disclosure as 
+required by subsection (2) of this section, the contract or agreement shall be voidable 
+at the option of the person to whom disclosure should have been made. 
+ 
+(4) 
+The Authority may lodge a copy of a notice of intention to acquire land at the General 
+Registry Office and may, by instrument in writing served upon any person, require 
+him to deliver up to the Registrar any instrument evidencing his interest in the subject 
+land. 
+ 
+(5) 
+If a person upon whom a notice has been served under subsection (4) of this section, 
+fails, without reasonable excuse, to deliver up within the time specified in the notice, 
+any instrument that he is required by the notice to deliver up to the Registrar, he shall 
+be guilty of an offence and liable to a penalty, not exceeding one hundred dollars, and 
+whether or not he is convicted of an offence under this subsection, he shall not be 
+entitled to receive any compensation until the instrument has been delivered up to the 
+Registrar. 
+14—Notice where land is under the Real Property Act 
+ 
+(1) 
+This section applies only in respect of land that has been brought under the provisions 
+of the Real Property Act 1886. 
+ 
+(2) 
+The Authority shall cause a copy of each notice of intention to acquire land to be 
+served upon the Registrar who shall thereupon enter a caveat upon the title to the 
+subject land forbidding all dealings with the land without the consent in writing of the 
+Authority. 
+ 
+(3) 
+The Authority shall, where it has determined not to proceed with the acquisition of 
+land, or is presumed so to have determined under the provisions of this Act, forthwith 
+make written application to the Registrar for withdrawal of a caveat entered pursuant 
+to this section and the Registrar shall withdraw the caveat accordingly. 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Acquisition of land—Part 3 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+11 
+Part 3—Acquisition of land 
+15—Acquisition by agreement etc 
+ 
+(1) 
+The Authority may, at any time after the service of a notice of intention to acquire 
+land, and before the publication of a notice of acquisition in respect of the land, 
+acquire the subject land by agreement.
+1 
+ 
+(2) 
+Notwithstanding the fact that a notice of intention to acquire land has been served 
+upon any person, the Authority may decline to proceed with the acquisition of the 
+subject land. 
+ 
+(3) 
+If the Authority decides not to proceed with the acquisition of land, it must give notice 
+of the decision to the same persons as the notice of intention to acquire the land but 
+notice need not be given to a person who was given notice of intention to acquire the 
+land if— 
+ 
+(a) 
+the notice was given because the person held an interest in the land and the 
+person no longer holds that interest; or 
+ 
+(b) 
+the notice was given because the person claimed to hold an interest in the 
+land and— 
+ 
+(i) 
+the claim has been abandoned; or 
+ 
+(ii) 
+a court has determined the claim and found that the claimant has no 
+interest in the land. 
+ (3a) To avoid doubt, a notice under subsection (3) need not be given to a person in the 
+same way as the notice of intention to acquire land was given to the person. 
+ 
+(4) 
+If the Authority does not acquire land within 18 months or a longer period fixed under 
+subsection (4a), it will be presumed that the Authority has decided not to proceed with 
+the acquisition and the land cannot then be acquired by the Authority unless a further 
+notice of intention to acquire the land is given. 
+ (4a) The period for acquisition of the land may be extended as follows: 
+ 
+(a) 
+the Authority may, by agreement with the interested parties, extend the period 
+by agreement; 
+ 
+(b) 
+the Supreme Court may, on application by the Authority or an interested 
+party, extend the period; 
+ 
+(c) 
+in the case of a proposed acquisition of native title— 
+ 
+(i) 
+the ERD Court may, on application by the Authority or an interested 
+party, extend the period; 
+ 
+(ii) 
+the Minister may, by notice in the Gazette, extend the period if 
+satisfied that the extension is necessary to allow adequate time for 
+negotiation. 
+ 
+(5) 
+If the Authority decides, or is presumed to have decided, not to proceed with the 
+acquisition of land, a person interested in the land may, within 6 months after notice of 
+the decision is given, or the decision is presumed to have been made, by written notice 
+to the Authority, claim compensation. 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 3—Acquisition of land 
+ 
+12 
+Published under the Legislation Revision and Publication Act 2002 
+ (5a) A native title party registered as a claimant to native title in land has sufficient interest 
+in the land to bring a claim for compensation under subsection (5). 
+ 
+(6) 
+If, three months after notice is given under subsection (5), the Authority and the 
+claimant are not agreed on whether the claimant is entitled to compensation, or the 
+amount of the compensation, either party may refer the matter to the Court for 
+determination. 
+ 
+(7) 
+On reference of a matter under subsection (6), the Court may determine whether the 
+claimant has an interest in the subject land and, if so, the amount of compensation that 
+should be paid for— 
+ 
+(a) 
+disturbance to the use or enjoyment of the land resulting from the proposed 
+acquisition; and 
+ 
+(b) 
+costs and expenses reasonably incurred by the claimant in consequence of the 
+proposed acquisition. 
+Explanatory Note— 
+1 
+If, in a case to which Part 4 Division 1 applies, the Authority is to acquire native title in 
+land by agreement, the agreement may include a statement to the effect that the surrender 
+of native title under the agreement is intended to extinguish the native title. See section 
+24MD(2A) of the Native Title Act 1993 (Cwth). 
+16—Notice of acquisition 
+ 
+(1) 
+Subject to this Act
+1, the Authority may, at least three months after the first occasion on 
+which any notice of intention to acquire was given but before the period for 
+acquisition of the land comes to an end
+2, publish a notice of acquisition in the Gazette. 
+ 
+(2) 
+On publication of the notice of acquisition— 
+ 
+(a) 
+the land vests in the Authority to the extent of the interest specified in the 
+notice; and 
+ 
+(b) 
+a mortgage, charge, encumbrance, trust or other interest affecting the land 
+(except native title) is, to the extent it affects the land subject to the 
+acquisition, discharged; and 
+ 
+(c) 
+if a residual interest remains after the acquisition, the interest is modified to 
+the extent required by the acquisition.
+3 
+ 
+(3) 
+The land acquired under this section may be an easement, right, power, or privilege 
+that did not previously exist as such in, under, over, or in connection with, land. 
+ 
+(4) 
+A notice of acquisition must define the subject land as accurately as is reasonably 
+practicable. 
+ 
+(5) 
+The Authority must have the notice of acquisition published in a newspaper 
+circulating generally throughout the State. 
+ (5a) The Authority must also give notice of the acquisition to the same persons as the 
+notice of intention to acquire the land but notice need not be given to a person who 
+was given notice of intention to acquire the land if— 
+ 
+(a) 
+the notice was given because the person held an interest in the land and the 
+person no longer holds that interest; or 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Acquisition of land—Part 3 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+13 
+ 
+(b) 
+the notice was given because the person claimed to hold an interest in the 
+land and— 
+ 
+(i) 
+the claim has been abandoned; or 
+ 
+(ii) 
+a court has determined the claim and found that the claimant has no 
+interest in the land. 
+ (5b) To avoid doubt, a notice under subsection (5a) need not be given to a person in the 
+same way as the notice of intention to acquire land was given to the person. 
+ 
+(6) 
+If the acquisition may result in the extinguishment of the native title of persons who 
+have not yet been registered under the law of the Commonwealth or the State as 
+holders of, or claimants to, native title in land, general notice of the acquisition must 
+be given to all persons who hold or may hold native title in the land
+4 and the notice 
+must include a statement of the special rights of native title holders to claim 
+compensation under this Act. 
+Explanatory Notes— 
+1 
+See in particular Division 1 of Part 4 which imposes limitations on the acquisition of 
+native title in land in certain circumstances. 
+2 
+The period for acquisition of the land is the period of 18 months after the notice of 
+intention to acquire was given (see section 15(4)) or a longer period fixed under 
+section 15(4a). 
+3 
+The acquisition of land under this section extinguishes native title to the extent permitted 
+by the Native Title Act 1993(Cwth) (see sections 24MD(2), (2A) and (3)). 
+4 
+For method of service see Part 5 Native Title (South Australia) Act 1994. 
+17—Modification of instruments of title 
+ 
+(1) 
+The Authority shall forthwith after publication of a notice of acquisition cause a copy 
+of the notice to be served on the Registrar and the Registrar shall withdraw any caveat 
+entered pursuant to this Act and cause such alterations to, or endorsements upon, any 
+instrument of title to the land in his possession or power (whether or not the land has 
+been brought under the provisions of the Real Property Act 1886) to be made as may 
+be required in consequence of the acquisition of the land. 
+ 
+(2) 
+If a notice of acquisition of native title in land is published, the Authority must give a 
+copy of the notice of acquisition to any authority that maintains a register of native 
+title under the law of the State or the Commonwealth. 
+Part 4—Negotiation, compensation and other payments 
+Division 1—Acquisition of native title in land for private purpose 
+18—Application of Division 
+ 
+(1) 
+This Division applies to a proposed acquisition of native title in the following 
+circumstances: 
+ 
+(a) 
+the acquisition is to be made by the Crown or an instrumentality of the Crown 
+for the purpose of conferring rights or interests on a person other than the 
+Crown or an instrumentality of the Crown; and 
+ 
+(b) 
+the proposed acquisition is not a prescribed private acquisition. 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 4—Negotiation, compensation and other payments 
+Division 1—Acquisition of native title in land for private purpose 
+14 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(2) 
+A proposed acquisition of native title to which this Division applies may only proceed 
+subject to this Division. 
+19—Negotiation about acquisition of native title in land 
+ 
+(1) 
+If native title in land is to be acquired, the Authority must, after giving notice of 
+intention to acquire land and before publishing a notice of acquisition of the land, 
+negotiate in good faith with the appropriate native title parties (if any) in an attempt to 
+reach agreement about the acquisition of the native title in the land. 
+ 
+(2) 
+The obligation to negotiate does not extend to matters unrelated to the effect of the 
+acquisition project on the registered native title rights of the native title parties. 
+ 
+(3) 
+If any of the negotiating parties requests the ERD Court to do so, the Court must 
+mediate between the parties to assist in obtaining their agreement. 
+ 
+(4) 
+If agreement is reached, the agreement must be filed in the Court. 
+ 
+(5) 
+The parties to an agreement filed in the Court under subsection (4) may direct that the 
+agreement or a particular part of the agreement be kept confidential and, if such a 
+direction is given, the agreement or the relevant part of the agreement is not to be 
+available for inspection except by permission of the Court. 
+ 
+(6) 
+If the appropriate native title parties have made or established distinct claims or 
+entitlements to native title in relation to the land to which the proposed agreement is to 
+relate, the agreement may consist of— 
+ 
+(a) 
+a single agreement with all the appropriate native title parties; or 
+ 
+(b) 
+a series of agreements with one or more of the appropriate native title parties 
+so that they are all party to at least one of the agreements. 
+ 
+(7) 
+In this section— 
+appropriate native title parties are the native title parties registered as holders of, or 
+claimants to, native title in the land on the relevant date who continue to be so 
+registered throughout the course of the negotiations including such native title parties 
+registered initially as claimants to native title but later registered as holders of native 
+title during the course of the negotiations, but not including native title parties whose 
+application for a native title declaration was made less than one month before the 
+relevant date; 
+relevant date means the date falling four months after notice of intention to acquire 
+the land is given under section 10(2). 
+20—Application for determination if no agreement 
+ 
+(1) 
+If agreement is not reached between the Authority and the native title parties within 
+six months after notice of intention to acquire the land is given, any party may apply 
+to the ERD Court for a resolution of the matter. 
+ 
+(2) 
+On an application under this section, the ERD Court may determine whether the 
+Authority may acquire the land and, if so, the conditions on which the acquisition is to 
+proceed (but a final determination of compensation cannot be made at this stage).
+1 
+ 
+(3) 
+A determination may, if the parties agree— 
+ 
+(a) 
+reserve a question that is not reasonably capable of being determined 
+immediately for further negotiation between the parties; or 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Negotiation, compensation and other payments—Part 4 
+Acquisition of native title in land for private purpose—Division 1 
+Published under the Legislation Revision and Publication Act 2002 
+15 
+ 
+(b) 
+provide for determination of such a question by arbitration or in some other 
+specified manner. 
+ 
+(4) 
+If a question is referred to arbitration or some other form of non-judicial dispute 
+resolution, and procedural or other difficulties arise, the ERD Court may— 
+ 
+(a) 
+give directions to resolve the difficulties; or 
+ 
+(b) 
+remove the dispute into the ERD Court and resolve the question itself. 
+ 
+(5) 
+If, on an application under this section, the ERD Court is satisfied that the Authority 
+has not negotiated in good faith, the Court must not make a determination on the 
+application in favour of the Authority. 
+ 
+(6) 
+An application under this section does not prevent negotiations from continuing 
+between the Authority and the native title parties and, if agreement is reached between 
+them before the ERD Court makes its determination, the application lapses. 
+ 
+(7) 
+The ERD Court must make its determination under this section as quickly as 
+practicable. 
+Explanatory Note— 
+1 
+Compensation is determined under Division 2 of Part 4. 
+20A—Constitution of trust 
+ 
+(1) 
+If— 
+ 
+(a) 
+negotiations under this Division lead to an agreement that an amount is to be 
+paid by the Authority and held in trust under this section for those who 
+ultimately establish a claim to native title in the subject land; or 
+ 
+(b) 
+a determination under this Division (by the Court or the Minister) requires 
+that an amount is to be paid by the Authority and held in trust under this 
+section for those who ultimately establish a claim to native title in the subject 
+land, 
+the relevant amount is to be paid into the ERD Court. 
+ 
+(2) 
+On receipt of an amount paid into court under this section, the ERD Court is to 
+establish, by order, a trust under which the relevant amount is to be held in trust for 
+those who ultimately establish a claim to native title in the subject land. 
+ 
+(3) 
+Subject to any order of the ERD Court under subsection (4), the amount held on trust 
+is to be dealt with as follows: 
+ 
+(a) 
+if native title is established and compensation is awarded or agreed that is 
+equal to, or greater than, the amount held in trust—that amount is to be paid 
+out, in its entirety, to the holders (or former holders) of native title in the 
+subject land; 
+ 
+(b) 
+if native title is established and compensation is awarded or agreed that is less 
+than the amount held in trust—the compensation is to be paid out of the 
+amount held on trust and the balance is to be paid to the Authority; 
+ 
+(c) 
+if a native title declaration establishes that the land was not (before the 
+acquisition) subject to native title—the amount is to be paid out, in its 
+entirety, to the Authority; 
+ 
+(d) 
+if— 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 4—Negotiation, compensation and other payments 
+Division 1—Acquisition of native title in land for private purpose 
+16 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(i) 
+at least 6 years (or a longer period determined by the ERD Court in a 
+particular case) have passed since the constitution of the trust; and 
+ 
+(ii) 
+a balance remains in the trust fund to which no native title party has 
+established an entitlement; and 
+ (iii) there is no claim to native title in the subject land, 
+the balance is to be paid to the Authority. 
+ 
+(4) 
+The ERD Court may, on its own initiative or on application by an interested person— 
+ 
+(a) 
+make orders for the disposition of money held on trust under this section; or 
+ 
+(b) 
+resolve any question about payment of an amount held on trust under this 
+section. 
+21—Criteria for making determination 
+ 
+(1) 
+In making its determination, the ERD Court must take into account the following: 
+ 
+(a) 
+the effect of the acquisition project on— 
+ 
+(i) 
+the enjoyment by the native title parties of their registered native title 
+rights; and 
+ 
+(ii) 
+the way of life, culture and traditions of any of those parties; and 
+ (iii) the development of the social, cultural and economic structures of 
+any of those parties; and 
+ (iv) the freedom of access by any of those parties to the land concerned 
+and their freedom to carry out rites, ceremonies or other activities of 
+cultural significance on the land in accordance with their traditions; 
+and 
+ 
+(v) 
+any area or site, on the land concerned, of particular significance to 
+the native title parties in accordance with their traditions; 
+ 
+(b) 
+the interests, proposals, opinions or wishes of the native title parties in 
+relation to the management, use or control of the land in relation to which the 
+native title parties hold or claim registered native title rights that will be 
+affected by the acquisition project; 
+ 
+(c) 
+the economic or other significance of the acquisition project to Australia, to 
+the State, to the area in which the land is located and to Aboriginal peoples 
+who live in that area; 
+ 
+(d) 
+any public interest in the acquisition project proceeding; 
+ 
+(e) 
+any other matter the ERD Court considers relevant. 
+ 
+(2) 
+In determining the effect of the acquisition project as mentioned in subsection (1)(a), 
+the ERD Court must take into account the nature and extent of— 
+ 
+(a) 
+existing non-native title rights and interests in the land; and 
+ 
+(b) 
+existing use of the land by persons other than the native title parties. 
+ 
+(3) 
+This section does not affect the operation of another law of the State or the 
+Commonwealth for the preservation or protection of areas or sites of particular 
+significance to Aboriginal people. 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Negotiation, compensation and other payments—Part 4 
+Acquisition of native title in land for private purpose—Division 1 
+Published under the Legislation Revision and Publication Act 2002 
+17 
+ 
+(4) 
+Before making its determination, the ERD Court must ascertain whether there is 
+agreement between the parties on issues relevant to the determination and, if all the 
+parties consent, the ERD Court— 
+ 
+(a) 
+must take into account the agreement of the parties on issues relevant to the 
+determination; and 
+ 
+(b) 
+need not take into account the matters mentioned in subsection (1) to the 
+extent they raise issues on which agreement has been reached. 
+22—Overruling of determinations 
+ 
+(1) 
+If the Minister considers it to be in the interests of the State or in the national interest 
+to overrule a determination of the ERD Court under this Division, the Minister may, 
+by notice in writing given to the ERD Court and the parties to the proceedings before 
+the Court, overrule the determination and substitute another determination that might 
+have been made by the Court. 
+ 
+(2) 
+The Minister cannot overrule a determination if more than two months have elapsed 
+from the date of the determination. 
+Division 1A—Notice to be given of certain prescribed private acquisitions 
+22A—Notice on behalf of State for prescribed private acquisition 
+When an Authority that is neither the Crown nor an instrumentality of the Crown is 
+required to give a notice under this Act in relation to a prescribed private acquisition, 
+the Authority must, on behalf of the State, give any additional notice required under 
+the Native Title Act 1993 (Cwth). 
+Explanatory Note— 
+See section 24MD(6B). 
+Division 2—Compensation 
+22B—Entitlement to compensation 
+ 
+(1) 
+Subject to this Act, a person who has an alienable interest in land is entitled to 
+compensation for the acquisition of the land under this Act if— 
+ 
+(a) 
+the person's interest in the land is divested or diminished by the acquisition; 
+or 
+ 
+(b) 
+the enjoyment of the person's interest in the land is adversely affected by the 
+acquisition. 
+ 
+(2) 
+However, the requirement under subsection (1) that an interest be alienable does not 
+apply in relation to an interest consisting of native title. 
+23—Negotiation of compensation 
+ 
+(1) 
+The Authority and the claimant must negotiate in good faith in relation to the 
+compensation payable for the acquisition of land under this Act. 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 4—Negotiation, compensation and other payments 
+Division 2—Compensation 
+18 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(3) 
+If a party to the negotiations holds or held, or claims to hold or to have held, native 
+title in the land, and either the party or the Authority requests the ERD Court to do so, 
+the Court must mediate between the parties to assist in obtaining their agreement on 
+the matters at issue between them. 
+ 
+(4) 
+The Authority may offer non-monetary compensation. 
+Example— 
+The non-monetary compensation might take the form of a transfer of land, the provision 
+of goods or services, or the carrying out of work for the re-instatement or improvement of 
+land remaining in the claimant's ownership after the acquisition. 
+ 
+(5) 
+A party to the negotiations who is the holder of native title in the land may request 
+non-monetary compensation, and the Authority must give due consideration to any 
+such request. 
+ 
+(6) 
+The Authority's liability to pay compensation under this Act for the acquisition of land 
+is reduced by the value of non-monetary compensation provided at the request of, or 
+by agreement with, the person to whom the liability is owed. 
+ 
+(7) 
+The Authority must, at the request of the claimant and in accordance with any 
+requirements set out in the regulations, convene a conference (a valuers conference) 
+between valuers who have made a valuation of the subject land (and the Authority 
+may convene such a conference at any other time the Authority considers appropriate). 
+ 
+(8) 
+The primary purpose of a valuers conference is to determine, if possible, a valuation 
+of the subject land that is acceptable to both valuers (having regard to any factors that 
+may affect the original valuations of the land), and to determine those matters of fact 
+and opinion on which they agree and those on which they disagree, and the reasons for 
+any disagreement. 
+ 
+(9) 
+Subject to this Act and the regulations, a valuers conference is to be conducted in 
+accordance with procedures determined by the Authority. 
+ (10) The regulations may make further provision in relation to a valuers conference 
+(including, to avoid doubt, requiring a report of the valuers conference to be prepared 
+and provided to the Authority and the claimant). 
+23A—Offer of compensation and payment into court 
+ 
+(1) 
+Subject to this section, if the Authority gives notice of the acquisition of land, it must 
+make an offer to the person or persons whom it believes to be entitled to compensation 
+for the acquisition, stating the amount of compensation the Authority is prepared to 
+pay. 
+ (1a) However, the Authority need not make an offer under subsection (1) in the following 
+circumstances: 
+ 
+(a) 
+if the Authority considers that the amount of compensation is unable to be 
+determined at the time the notice of acquisition is given, in which case the 
+Authority must, as soon as is reasonably practicable after the amount of 
+compensation is able to be determined, make an offer in accordance with 
+subsection (1); 
+ 
+(b) 
+in any other circumstances prescribed by the regulations, in which case the 
+Authority must make an offer in accordance with any requirements set out in 
+the regulations. 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Negotiation, compensation and other payments—Part 4 
+Compensation—Division 2 
+Published under the Legislation Revision and Publication Act 2002 
+19 
+ 
+(2) 
+The offer must (where appropriate) differentiate between, and quantify, the 
+component of compensation representing the value of the acquired land and the 
+component referable to disturbance or other compensable matters. 
+ 
+(3) 
+The Authority must, within seven days after making an offer of compensation, pay the 
+amount offered into the Court. 
+ (3a) However, if the Authority has already paid an amount into the ERD Court under 
+Division 1 in relation to the proposed acquisition, the Authority is required only to pay 
+into the Court the amount (if any) by which the amount of the offer exceeds the 
+amount already paid into the ERD Court. 
+ 
+(4) 
+Until compensation paid into Court under this section is applied by order of the Court, 
+the money must be invested by the proper officer of the Court in an authorised trustee 
+investment (bearing interest that compounds at intervals of one month or less) and the 
+interest and other accretions accruing on the investment— 
+ 
+(a) 
+must be paid to— 
+ 
+(i) 
+the person who would, but for the acquisition of the land, have been 
+entitled to the rents and profits of the land; or 
+ 
+(ii) 
+a body constituted under the law of the State or the Commonwealth 
+as trustee for the claimants to whom the compensation is offered; or 
+ 
+(b) 
+must be dealt with in some other manner specified by the Court. 
+ 
+(5) 
+In relation to an offer of compensation made under this section, the Authority may— 
+ 
+(a) 
+if after making the offer the Authority becomes aware of information that 
+negatively affects the value of the relevant land—apply to the Court for an 
+order that the offer be decreased by a specified amount (and the Court may 
+make such an order); or 
+ 
+(b) 
+in any case—increase the offer by a specified amount by notice to the person 
+or persons to whom the original offer was made. 
+ 
+(6) 
+If an offer is decreased in accordance with subsection (5)(a), the Authority may apply 
+to the Court for (and the Court may make) an order that the difference between the 
+original offer and the decreased offer, together with any accrued interest, be paid to 
+the Authority (whether by the claimant or the Registrar, as the case may be). 
+ 
+(7) 
+If an offer is increased in accordance with subsection (5)(b), the difference between 
+the original offer and the increased offer, together with any accrued interest— 
+ 
+(a) 
+if the amount offered has been withdrawn by, or on behalf of, the 
+claimant—may be paid directly to the claimant; or 
+ 
+(b) 
+if the amount offered has not been withdrawn by, or on behalf of, the 
+claimant—must be paid into the Court. 
+23AB—Responding to an offer of compensation 
+ 
+(1) 
+A person to whom an offer of compensation is made under section 23A must respond 
+to the offer in accordance with this section. 
+ 
+(2) 
+The response must— 
+ 
+(a) 
+be made within the prescribed period; and 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 4—Negotiation, compensation and other payments 
+Division 2—Compensation 
+20 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(b) 
+be in writing; and 
+ 
+(c) 
+indicate whether the person accepts or rejects the offer; and 
+ 
+(d) 
+comply with any other requirements set out in the regulations. 
+ 
+(3) 
+A response must be made under this section whether or not an amount of money paid 
+into the Court in relation to an acquisition has been withdrawn by, or on behalf of, the 
+person to whom the offer is made. 
+ 
+(4) 
+If a person does not respond in accordance with this section within the prescribed 
+period, any money paid into the Court under section 23A in respect of the relevant 
+acquisition (being money that has not been withdrawn by, or on behalf of, the person) 
+will, by force of this subsection, be paid to the Authority. 
+ 
+(5) 
+To avoid doubt, nothing in subsection (4) affects an entitlement of a person to 
+compensation in respect of an acquisition of land. 
+ 
+(6) 
+Money paid to the Authority under subsection (4) will be taken not to accrue interest 
+to which the person to whom the offer was made is entitled. 
+ 
+(7) 
+To avoid doubt, nothing in this section creates a contractual relationship between the 
+Authority and the person to whom an offer is made. 
+ 
+(8) 
+In this section— 
+Authority means the Authority who paid the relevant money into Court under 
+section 23A; 
+prescribed period means— 
+ 
+(a) 
+6 months from the date of the offer of compensation; or 
+ 
+(b) 
+if the Authority, on the application of the person, specifies a longer 
+period—that period. 
+ 
+(9) 
+A person who is aggrieved by a decision of the Authority to refuse to specify a longer 
+period under subsection (8) may refer the matter to the Court for review and, on the 
+matter being so referred, the Court may make such orders as it considers necessary to 
+resolve the matter. 
+23AC—Reversion of compensation moneys 
+ 
+(1) 
+This section applies to an amount or amounts of money paid into the Court under 
+section 23A (being an amount of money equal to the amount of compensation offered 
+in respect of the acquisition of the relevant land). 
+ 
+(2) 
+Subject to this section, money to which this section applies must be withdrawn by, or 
+on behalf of, the claimant within 24 months after the money is paid into the Court. 
+ 
+(3) 
+If amounts of money to which this section applies are paid into the Court on different 
+dates, the period referred to in subsection (2) will be calculated from the latest date the 
+money was paid into the Court. 
+ 
+(4) 
+The Authority must, not later than 30 days before the day on which money to which 
+this section applies is to be paid to the Authority, give written notice to the claimant 
+setting out— 
+ 
+(a) 
+the effect of this section; and 
+ 
+(b) 
+the date on which the money will be paid to the Authority; and 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Negotiation, compensation and other payments—Part 4 
+Compensation—Division 2 
+Published under the Legislation Revision and Publication Act 2002 
+21 
+ 
+(c) 
+any other information required by the regulations. 
+ 
+(5) 
+If money to which this section applies is not withdrawn in accordance with 
+subsection (2), the money, together with any accrued interest, will, by force of this 
+subsection, be paid to the Authority (however, nothing in this subsection affects an 
+entitlement of the claimant to compensation in respect of the acquisition of the 
+relevant land). 
+ 
+(6) 
+Money paid to the Authority pursuant to subsection (5) will be taken not to accrue 
+interest to which a claimant is entitled. 
+ 
+(7) 
+Subsection (2) does not apply to such portion of money required to give effect to any 
+orders under section 26. 
+ 
+(8) 
+In this section— 
+Authority means the Authority who paid the relevant money into the Court under 
+section 23A. 
+23B—Agreement 
+ 
+(1) 
+If agreement about compensation is reached by the negotiating parties, the Authority 
+must file a copy of the agreement in the Court. 
+ 
+(2) 
+The Court may, on application by a party to an agreement filed in the Court under this 
+section, make orders to give effect to the agreement. 
+23BA—Settlement conference 
+ 
+(1) 
+The Authority— 
+ 
+(a) 
+may, before referring a matter to Court under section 23C; and 
+ 
+(b) 
+must, on an application by a claimant under section 23C(1a), 
+convene a conference under this section (a settlement conference) in relation to the 
+relevant matter. 
+ 
+(2) 
+The following provisions apply in relation to a settlement conference: 
+ 
+(a) 
+the Authority must appoint a conference coordinator to conduct the settlement 
+conference; 
+ 
+(b) 
+the conference coordinator must hold qualifications prescribed by the 
+regulations; 
+ 
+(c) 
+the conference coordinator must— 
+ 
+(i) 
+fix a time and place for the settlement conference; and 
+ 
+(ii) 
+advise the persons referred to in paragraph (f) of the time and place 
+of the settlement conference; 
+ 
+(d) 
+the conference coordinator may, by notice in writing, give such directions as 
+the coordinator considers necessary for the purposes of the settlement 
+conference (including, to avoid doubt, directions to attend at the time and 
+place fixed under paragraph (c)); 
+ 
+(e) 
+the Authority and the claimant must provide to each other party any valuation 
+reports in relation to the matter within the period specified by the conference 
+coordinator; 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 4—Negotiation, compensation and other payments 
+Division 2—Compensation 
+22 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(f) 
+the following persons are entitled to attend a settlement conference: 
+ 
+(i) 
+the conference coordinator; 
+ 
+(ii) 
+a representative of the Authority; 
+ (iii) the claimant and the claimant's legal representative (if any), 
+(however, nothing in this paragraph prevents other persons from attending the 
+settlement conference); 
+ 
+(g) 
+the conference coordinator, and the settlement conference, must comply with 
+any other requirements set out in the regulations. 
+ 
+(3) 
+Evidence of anything said or done in the course of a settlement conference is 
+inadmissible in proceedings before a court (other than proceedings under section 36) 
+except by consent of all parties to the proceedings. 
+ 
+(4) 
+The reasonable costs of a claimant in relation to a settlement conference (determined 
+in accordance with the regulations) are to be met by the Authority. 
+ 
+(5) 
+A person who, without reasonable excuse, refuses or fails to comply with a direction 
+of the conference coordinator under this section is guilty of an offence. 
+Maximum penalty: $2 500. 
+23C—Reference of matters into court 
+ 
+(1) 
+The Authority or a claimant may refer a question arising in the course of negotiations 
+into Court. 
+ (1a) However, before referring a matter to Court under this section, a claimant must apply 
+to the Authority to convene a settlement conference under section 23BA, and take part 
+in such a conference, in relation to the matter. 
+ 
+(2) 
+On the reference of a matter into the Court, the Court may— 
+ 
+(a) 
+if of the opinion that the question should be the subject of further 
+negotiation—adjourn the matter to allow further negotiation to take place; or 
+ 
+(b) 
+make any order necessary to resolve the question. 
+ 
+(3) 
+In particular— 
+ 
+(a) 
+if there is a dispute about whether the claimant is interested in the subject 
+land, or the nature of the claimant's interest—the Court may, subject to 
+subsection (4), declare whether the claimant has an interest in the subject land 
+and, if so, the nature of the interest; and 
+ 
+(b) 
+the Court may make orders for compensation that the Court finds to be 
+justified on the claim; and 
+ 
+(c) 
+the Court may make other orders that may be just in the circumstances of the 
+case. 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Negotiation, compensation and other payments—Part 4 
+Compensation—Division 2 
+Published under the Legislation Revision and Publication Act 2002 
+23 
+ 
+(4) 
+If a claimant claims compensation on the basis that native title exists or existed in the 
+subject land but the existence of the native title has not been established by a native 
+title declaration, the Court will not itself proceed to determine the native title question 
+but— 
+ 
+(a) 
+if the Authority does not dispute that native title exists or exists in the subject 
+land as claimed—determine the claim for compensation on the basis that 
+native title exists or existed as the claimant asserts; or 
+ 
+(b) 
+if the claim to native title in the subject land is disputed—defer consideration 
+of the matter— 
+ 
+(i) 
+to allow the claimant a reasonable opportunity to make a native title 
+claim under the appropriate law of the Commonwealth or the State; 
+and 
+ 
+(ii) 
+if a native title claim is made, to allow time for the resolution of the 
+claim. 
+ 
+(5) 
+If a claimant fails to avail itself of an opportunity allowed under subsection (4), the 
+Court may reject the claim for compensation (but the rejection of a claim under this 
+subsection does not preclude a further claim for compensation if the claimant's claim 
+to hold native title in the subject land is later established). 
+24—Entry into possession 
+ 
+(1) 
+Subject to this section, if the Authority acquires an interest in land that confers a right 
+of possession, the Authority must, as soon as is reasonably practicable after a notice of 
+acquisition is published in relation to the land, give written notice to the occupier of 
+the land of the date on which the Authority will enter into possession of the land (the 
+possession date), being— 
+ 
+(a) 
+in the case of land relating to a declared acquisition project—the date 
+specified by the Authority (being a day on or after the date on which notice is 
+given under this subsection); or 
+ 
+(b) 
+in any other case—a date not less than 90 days after the date on which the 
+notice of acquisition is published. 
+ 
+(2) 
+If the Authority acquires an interest in land consisting of an easement or other interest 
+that does not confer a right of possession, the Authority must, as soon as is reasonably 
+practicable after a notice of acquisition is published in relation to the land, give written 
+notice to the occupier of the land of the date from which the Authority may enter onto 
+the land. 
+ 
+(3) 
+Subject to subsection (3a), if the relevant land is vacant at the time the notice of 
+acquisition is published, the Authority may enter into possession from the date the 
+notice is so published. 
+ (3a) If at the time the notice of acquisition is published there are chattels or other personal 
+property (not being a fixture) on vacant land, the Authority may enter into possession 
+30 days after the date the notice is so published. 
+ 
+(4) 
+If an occupier of land to whom a notice was given under subsection (1) ceases to 
+occupy the land before the date specified in the notice, the Authority may enter into 
+possession of the relevant land from the time the occupier ceases to occupy the land. 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 4—Negotiation, compensation and other payments 
+Division 2—Compensation 
+24 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(5) 
+A notice under subsection (1) may be varied to fix an earlier or later possession date 
+on the application, or with the agreement, of the person to whom the notice was given. 
+ 
+(6) 
+If an occupier to whom a notice under subsection (1) is given remains in occupation of 
+the relevant land after the date on which the notice of acquisition is published, the 
+occupier will be taken to occupy the land pursuant to a tenancy, the terms and 
+conditions of which are as determined by the Authority from time to time. 
+ (6a) Except where the Authority determines otherwise, rent is payable in relation to a 
+tenancy referred to in subsection (6) from 90 days after the date on which the notice of 
+acquisition is published (however, nothing in this subsection authorises the Authority 
+to charge rent for the 90 days immediately following the date on which the notice of 
+acquisition is published). 
+ 
+(7) 
+The terms and conditions determined by the Authority under subsection (6) must— 
+ 
+(a) 
+fix the amount of rent payable to the Authority in relation to the tenancy (not 
+exceeding a reasonable market rate); and 
+ 
+(b) 
+comply with any requirements set out in the regulations. 
+ (7a) To avoid doubt, the Residential Tenancies Act 1995 or the Retail and Commercial 
+Leases Act 1995 (as the case requires) does not apply in relation to a tenancy referred 
+to in subsection (6). 
+ 
+(8) 
+The Authority or a person to whom a notice is given under subsection (1) may refer 
+1 or more of the following matters into the Court: 
+ 
+(a) 
+a refusal by the Authority to fix a later possession date; 
+ 
+(b) 
+a matter relating to the amount of rent payable in relation to the relevant 
+tenancy; 
+ 
+(c) 
+a matter relating to any other term or condition of the relevant tenancy 
+determined under subsection (6). 
+ (8a) A matter referred to in subsection (8)(a) may only be referred into the Court within a 
+period of 60 days after— 
+ 
+(a) 
+the date on which the notice of acquisition is published; or 
+ 
+(b) 
+the date on which written notice of the possession date is given to a person 
+under subsection (1), 
+whichever is the later. 
+ (8b) Subsection (8) does not apply to, or in relation to, a declared acquisition project. 
+ 
+(9) 
+On the reference of a matter into the Court, the Court may— 
+ 
+(a) 
+if of the opinion that the question should be the subject of further 
+negotiation—adjourn the matter to allow further negotiation to take place; or 
+ 
+(b) 
+make such orders as the Court considers appropriate to resolve the matter 
+(including, to avoid doubt, orders fixing the amount of rent payable in 
+relation to the relevant tenancy). 
+ (10) The Authority may enter into possession of the relevant land on or after the possession 
+date despite the commencement of proceedings under this section. 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Negotiation, compensation and other payments—Part 4 
+Compensation—Division 2 
+Published under the Legislation Revision and Publication Act 2002 
+25 
+ (11) Without limiting the ways in which the Authority may recover rent owed to the 
+Authority, the Authority may deduct rent owed by a person to the Authority under this 
+section from compensation payable to the person under this Act. 
+ (12) Despite any other Act or law, the Authority is not liable for injury, damage or loss 
+occurring on, or in relation to, land acquired under this Act prior to the Authority 
+entering into possession of the land. 
+ (13) For the purposes of this section, land will be taken to be vacant at a particular time if 
+the land— 
+ 
+(a) 
+is residential land on which no person is lawfully residing at the time; or 
+ 
+(b) 
+is non-residential land that is not genuinely being used for income producing 
+purposes at the time; or 
+ 
+(c) 
+is primary production land that is not actively being used for grazing, 
+cropping, horticultural, horse keeping, intensive animal keeping, animal 
+husbandry or other primary production purposes at the time; or 
+ 
+(d) 
+is land, or land of a class, prescribed by the regulations for the purposes of 
+this paragraph. 
+ (14) For the purposes of this section, the storage of chattels or other personal property on 
+land by a person does not, of itself, constitute the person residing on the property, the 
+use of the property for income producing purposes or the use of the land for a primary 
+production purpose. 
+ (15) In this section— 
+declared acquisition project means an acquisition project, or acquisition project of a 
+class, declared by the relevant Minister by notice in the Gazette to be included in the 
+ambit of this definition; 
+relevant Minister means— 
+ 
+(a) 
+in the case of an acquisition of land authorised by a special Act, the 
+administration of which is committed to a Minister—that Minister; or 
+ 
+(b) 
+in any other case—the Minister. 
+24A—Court orders in relation to entry into possession etc 
+ 
+(1) 
+The Authority may apply to the Court for 1 or more of the following orders: 
+ 
+(a) 
+if the Authority is entitled to enter into possession of land acquired under this 
+Act—an order that a person be ejected from that land; 
+ 
+(b) 
+an order that a person who owes rent to the Authority under section 24 pay 
+the rent owed to the Authority; 
+ 
+(c) 
+such other orders as the Authority considers appropriate. 
+ 
+(2) 
+The Court may, on an application under this section, make such orders as it considers 
+appropriate. 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 4—Negotiation, compensation and other payments 
+Division 2—Compensation 
+26 
+Published under the Legislation Revision and Publication Act 2002 
+25—Principles of compensation 
+ 
+(1) 
+The compensation payable under this Act in respect of the acquisition of land shall be 
+determined according to the following principles: 
+ 
+(a) 
+the compensation payable to a claimant shall be such as adequately to 
+compensate him for any loss that he has suffered by reason of the acquisition 
+of the land; and 
+ 
+(b) 
+in assessing the amount referred to in paragraph (a) of this section 
+consideration may be given to— 
+ 
+(i) 
+the actual value of the subject land; and 
+ 
+(ii) 
+the loss occasioned by reason of severance, disturbance or injurious 
+affection; and 
+ 
+(c) 
+compensation shall be fixed as at the date of acquisition of the land; and 
+ 
+(d) 
+where the claimant's interest in the subject land was liable to expire or be 
+determined, any reasonable prospect of renewal or continuation of the interest 
+must be taken into account; and 
+ 
+(e) 
+any special suitability or adaptability of the land for any purpose shall not be 
+taken into account if it could be applied to that purpose in pursuance only of 
+statute, or if the suitability or adaptability is peculiar to the purposes or 
+requirements of a particular person or of any Governmental or local 
+governing authority but any bona fide offer to acquire the land made before 
+the passing of the special Act shall be taken into account; and 
+ 
+(f) 
+where the value of the land is enhanced by reason of its use, or the use of any 
+premises on the land, in a manner that may be restrained by any court, or is 
+contrary to law, or is detrimental to the health of any persons, the amount of 
+that enhancement shall not be taken into account; and 
+ 
+(g) 
+no allowance shall be made on account of the fact that the acquisition is 
+effected without the consent, or against the will, of any person; and 
+ 
+(h) 
+no allowance shall be made for any enhancement or diminution in the value 
+of the land in consequence of— 
+ 
+(a) 
+the passing of the special Act; or 
+ 
+(b) 
+the acquisition under this Act of any other land; or 
+ 
+(c) 
+any proposed or expected development of the land after its 
+acquisition; and 
+ 
+(i) 
+where the land is, and but for acquisition would continue to be, devoted to a 
+particular purpose, and there is no general demand or market for land devoted 
+to that purpose, the compensation may, if reinstatement in some other place is 
+bona fide intended, be assessed on the basis of the reasonable cost of 
+equivalent reinstatement; and 
+ 
+(j) 
+allowance shall be made in favour of the Authority for any enhancement in 
+value of land adjoining the subject land in which the claimant is interested by 
+reason of development of the land after its acquisition, but in no case shall the 
+claimant be liable to make any payment to the Authority in respect of such 
+enhancement in value; and 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Negotiation, compensation and other payments—Part 4 
+Compensation—Division 2 
+Published under the Legislation Revision and Publication Act 2002 
+27 
+ 
+(k) 
+where a notice of intention to acquire land has been served upon a person 
+interested in the land, any sales, transactions, arrangements, licences or 
+approvals effected or obtained with respect to the land, and any 
+improvements to the land effected, after service of the notice, shall not be 
+taken into account unless it is proved that they were effected or obtained bona 
+fide. 
+ 
+(2) 
+The reference to loss in subsection (1)(a) extends, in the case of acquisition of native 
+title, to diminution, impairment or other adverse effect on native title that results or 
+will result from the acquisition project.
+1 
+ 
+(3) 
+Subject to subsections (1) and (2), the total compensation payable for the acquisition 
+of native title must not exceed the amount that would be payable for the acquisition of 
+an estate in fee simple in the relevant land. 
+ 
+(4) 
+A reference in this section to a claimant is limited to a claimant who is entitled to 
+compensation.
+2 
+Explanatory Notes— 
+1 
+Compare section 51(1) of the Native Title Act 1993 (Cwth). 
+2 
+See section 22B. 
+25A—Solatium 
+ 
+(1) 
+The Authority may increase the amount of compensation payable to a person in 
+relation to the acquisition of land by the prescribed amount by way of solatium if— 
+ 
+(a) 
+at the time the notice of intention to acquire land was given in relation to the 
+land, the person was an owner and occupier of the land; and 
+ 
+(b) 
+as a result of the acquisition of the land, the person's principal place of 
+residence was acquired. 
+ 
+(2) 
+A payment of solatium under this section is to be made on final resolution of the 
+amount of compensation payable under this Act in respect of the acquisition of the 
+relevant land. 
+ 
+(3) 
+Despite any other provision of this Act, or any other Act or law, no interest is payable 
+in relation to a payment of solatium under this section. 
+ 
+(4) 
+In this section— 
+prescribed amount means— 
+ 
+(a) 
+10% of the market value of the land; or 
+ 
+(b) 
+— 
+ 
+(i) 
+if the regulations prescribe an amount for the purposes of this 
+paragraph—that amount; or 
+ 
+(ii) 
+if the regulations do not prescribe an amount for the purposes of this 
+paragraph—$50 000, 
+whichever is the lesser amount. 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 4—Negotiation, compensation and other payments 
+Division 2—Compensation 
+28 
+Published under the Legislation Revision and Publication Act 2002 
+26—Application of compensation 
+The Court may by order direct that any moneys paid into Court, or compensation 
+ordered, under this Act be applied— 
+ 
+(a) 
+in the purchase, redemption or discharge of any tax, debt, mortgage or 
+encumbrance affecting the subject land; or 
+ 
+(b) 
+in the purchase of other land or securities to be conveyed or settled upon or 
+towards the same uses, trusts or purposes as the subject land; or 
+ 
+(c) 
+in removing or replacing any buildings or substituting others in their stead, in 
+such manner as the Court may direct; or 
+ 
+(d) 
+in payment to any persons absolutely entitled to the moneys, or in the case of 
+incapacity or disability to their trustees or guardians; or 
+ 
+(e) 
+in such other manner as the Court thinks fit. 
+Division 3—Direct payments of compensation 
+26A—Payments of compensation not exceeding prescribed amount may be 
+made directly to claimant 
+ 
+(1) 
+Despite any other provision of this Act, a payment of compensation under this Act not 
+exceeding the prescribed amount may be paid directly to the claimant in a manner 
+determined by the Authority. 
+ 
+(2) 
+The regulations may make further provision in relation to payments under this section 
+(including, to avoid doubt, limiting the circumstances in which such payments can be 
+made). 
+Division 4—Other payments 
+26B—Payments relating to professional costs 
+ 
+(1) 
+The Authority may pay a prescribed person an amount (not exceeding the prescribed 
+amount) towards payment of professional costs relating to an acquisition, or a 
+proposed acquisition. 
+ 
+(2) 
+However, nothing in this section authorises the Authority to make more than 
+1 payment under this section in relation to a particular acquisition or proposed 
+acquisition. 
+ 
+(3) 
+Nothing in subsection (1) affects any other amount payable by the Authority in 
+relation to professional costs (however, any amount paid to a person under this section 
+is to be taken into account in determining any other amount payable in relation to 
+professional costs). 
+ 
+(4) 
+In this section— 
+prescribed person means— 
+ 
+(a) 
+a person who is an owner of the fee simple in the land in relation to which a 
+notice of intention to acquire land is given; or 
+ 
+(b) 
+any other person prescribed by the regulations; 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Negotiation, compensation and other payments—Part 4 
+Other payments—Division 4 
+Published under the Legislation Revision and Publication Act 2002 
+29 
+professional costs means— 
+ 
+(a) 
+legal costs; and 
+ 
+(b) 
+valuation costs; and 
+ 
+(c) 
+any other costs prescribed by the regulations. 
+26C—Payments to residential tenants 
+ 
+(1) 
+The Authority may, after a notice of intention to acquire land is given to a person who 
+is a residential tenant of land, but before the relevant land is acquired, pay the person 
+an amount (not exceeding the prescribed amount) towards payment of the person's 
+relocation costs. 
+ 
+(2) 
+If a residential tenant accepts a payment under subsection (1), no further compensation 
+or other payment is payable to them under this Act in relation to their interest as a 
+residential tenant of the relevant land. 
+ 
+(3) 
+A payment under this section may be conditional or unconditional. 
+ 
+(4) 
+The Authority may vary or revoke a condition of a payment under this section. 
+ 
+(5) 
+If a person, without reasonable excuse, refuses or fails to comply with a condition of a 
+payment under this section, the payment will, by force of this subsection, become a 
+debt owing to the Authority. 
+26D—Payment of transfer costs 
+ 
+(1) 
+This section applies in circumstances where— 
+ 
+(a) 
+the Authority has acquired land under this Act (being the whole of the fee 
+simple land contained in a particular certificate of title); and 
+ 
+(b) 
+a person who was an owner of the land so acquired has, within the prescribed 
+period, purchased other land (the replacement land) to replace the acquired 
+land; and 
+ 
+(c) 
+the replacement land satisfies any requirements set out in the regulations for 
+the purposes of this paragraph. 
+ 
+(2) 
+The Authority may, on application under this section or on its own motion, and in 
+accordance with any requirements set out in the regulations, pay the prescribed 
+transfer costs of a person in relation to the purchase of replacement land. 
+ 
+(3) 
+An application under subsection (2) must— 
+ 
+(a) 
+be in a manner and form determined by the Authority; and 
+ 
+(b) 
+be made within 24 months after the relevant land is acquired under this Act 
+(or such longer period as may be specified by the Authority); and 
+ 
+(c) 
+be accompanied by such documents or information as may be specified by the 
+Authority. 
+ 
+(4) 
+The regulations may make further provision in relation to payments under this section. 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 4—Negotiation, compensation and other payments 
+Division 4—Other payments 
+30 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(5) 
+In this section— 
+prescribed transfer costs, in relation to the purchase of replacement land, means the 
+sum of the following costs payable in relation to the purchase or transfer of the 
+replacement land: 
+ 
+(a) 
+stamp duty payable under the Stamp Duties Act 1923; 
+ 
+(b) 
+registration fees payable to the Registrar-General under the Real Property 
+Act 1886; 
+ 
+(c) 
+any other costs, or costs of a kind, prescribed by the regulations, 
+but, to avoid doubt, does not include an amount payable by way of capital gains tax. 
+Part 4A—Special provisions relating to acquisition of 
+underground land 
+26DA—Application of Part to native title 
+ 
+(1) 
+The provisions of this Part do not apply to an acquisition of underground land in 
+which native title exists. 
+ 
+(2) 
+To avoid doubt, an acquisition of native title in underground land may only proceed in 
+accordance with Part 4 Division 1. 
+26E—Application of Act to acquisition of underground land 
+The following provisions of this Act do not apply to the acquisition of underground 
+land under this Part: 
+ 
+(a) 
+Part 2; 
+ 
+(b) 
+Part 3 (other than section 17); 
+ 
+(c) 
+Part 4 Division 2. 
+26EA—Special provisions applying where acquisition of underground land for 
+certain tunnel construction 
+ 
+(1) 
+Despite any other provision of this Act, a special Act or any other Act or law, the 
+following provisions apply to a proposed acquisition of underground land under this 
+Part where the land is to be acquired for a purpose related to the construction of a 
+tunnel (however described) to be constructed less than 10 metres below the surface of 
+the underground land: 
+ 
+(a) 
+the Authority must prepare and submit a report to the Public Works 
+Committee of the Parliament in respect of the proposed acquisition and tunnel 
+construction (and the function of inquiring into and making recommendations 
+will, for the purposes of the Parliamentary Committees Act 1991, be taken to 
+be imposed on the Committee under this Act); 
+ 
+(b) 
+the report under paragraph (a) must be accompanied by— 
+ 
+(i) 
+an engineers' report prepared in accordance with any requirements 
+set out in the regulations; and 
+ 
+(ii) 
+such other information as may be required by the Public Works 
+Committee, 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Special provisions relating to acquisition of underground land—Part 4A 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+31 
+and must comply with any other requirements under the regulations; 
+ 
+(c) 
+a dilapidation report in respect of any premises on surface land under which 
+the underground land is located must be prepared in accordance with any 
+requirements set out in the regulations. 
+ 
+(2) 
+The Authority or a person authorised in writing by the Authority may, for the purpose 
+of preparing a report under subsection (1)(a), (b) or (c)— 
+ 
+(a) 
+exercise a power referred to in section 27 or the relevant special Act; and 
+ 
+(b) 
+take such other action as may be reasonably necessary for the preparation of 
+the report. 
+ 
+(3) 
+Subsection (2) is in addition to, and does not derogate from, section 27 or any other 
+provision of this Act or a special Act. 
+ 
+(4) 
+Nothing in this section prevents an Authority from acquiring land under Part 3. 
+26F—Acquisition of underground land 
+ 
+(1) 
+The Authority may, at any time, publish a notice of acquisition of underground land in 
+the Gazette. 
+ 
+(2) 
+On publication of a notice of acquisition of underground land under this section— 
+ 
+(a) 
+the underground land specified in the notice vests in the Authority to the 
+extent of the interest specified; and 
+ 
+(b) 
+any mortgage, charge, encumbrance, trust or other interest affecting the land 
+is discharged; and 
+ 
+(c) 
+if a residual interest in the underground land remains after the acquisition, the 
+interest is modified to the extent required by the acquisition. 
+ 
+(3) 
+The Authority will enter into possession of underground land in relation to which a 
+notice of acquisition of underground land is published under this section— 
+ 
+(a) 
+if a date is specified in the notice—on that date; or 
+ 
+(b) 
+if a date is not specified in the notice—on the date the notice is published. 
+ 
+(4) 
+The Authority must, as soon as is reasonably practicable after a notice of acquisition 
+of underground land is published, give notice of that fact to the person who was the 
+owner of the relevant land immediately before the land was acquired. 
+ 
+(5) 
+Except as is provided by section 26H, and despite any other Act or law, no 
+compensation is payable in relation to an acquisition of underground land under this 
+section (including, to avoid doubt, in relation to the discharge or modification of an 
+interest or right under subsection (2)). 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 4A—Special provisions relating to acquisition of underground land 
+ 
+32 
+Published under the Legislation Revision and Publication Act 2002 
+26G—Obligation to notify Authority of other interest in underground land 
+ 
+(1) 
+If the Authority has acquired, or is proposing to acquire, underground land under 
+section 26F, the Authority may, by notice in writing, require a person from whom the 
+land was, or is to be, acquired to notify the Authority within the period specified in the 
+notice of— 
+ 
+(a) 
+any person who, to the person's knowledge, has an interest in the land, or who 
+had an interest in the land immediately before the acquisition, and the nature 
+of that person's interest (including, to avoid doubt, the person to whom the 
+notice is given); and 
+ 
+(b) 
+the existence of any well, bore or other infrastructure located within the 
+underground land, or on surface land under which the underground land is 
+located, and any entitlement (whether of the person or otherwise) that exists 
+to take water by means of that infrastructure; and 
+ 
+(c) 
+such other information as may be specified by the Authority in the written 
+notice. 
+ 
+(2) 
+A person who, without reasonable excuse, refuses or fails to comply with 
+subsection (1) is guilty of an offence. 
+Maximum penalty: $5 000. 
+26H—Limited entitlement to compensation where certain water infrastructure 
+or rights affected 
+ 
+(1) 
+Subject to this section, a person (the interest holder) who— 
+ 
+(a) 
+holds a prescribed interest in underground land; and 
+ 
+(b) 
+notifies the Authority of the prescribed interest in accordance with 
+section 26G, 
+is, on an application under this section, entitled to compensation in relation to the 
+acquisition of the underground land to the extent that the acquisition— 
+ 
+(c) 
+involves the acquisition of the prescribed interest; or 
+ 
+(d) 
+results in the discharge of the prescribed interest; or 
+ 
+(e) 
+results in the interest holder being unable to take water by means of, or 
+pursuant to, the prescribed interest. 
+ 
+(2) 
+An application under this section— 
+ 
+(a) 
+must be made within 6 months after publication of a notice of acquisition in 
+relation to the relevant underground land; and 
+ 
+(b) 
+must be made in a manner and form determined by the Authority; and 
+ 
+(c) 
+must be accompanied by such information or documents as may reasonably 
+be required by the Authority; and 
+ 
+(d) 
+must comply with any other requirements set out in the regulations. 
+ 
+(3) 
+On receiving an application under this section, the Authority must assess the 
+application and must make a written offer of compensation (not exceeding the 
+prescribed amount) to the interest holder. 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Special provisions relating to acquisition of underground land—Part 4A 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+33 
+ 
+(4) 
+The following provisions apply in relation to the payment of compensation under this 
+section: 
+ 
+(a) 
+the Authority and the interest holder must negotiate in good faith in relation 
+to the compensation; 
+ 
+(b) 
+the Authority may offer non-monetary compensation to the interest holder 
+(including, to avoid doubt, compensation consisting of relocation of any 
+infrastructure affected by the acquisition); 
+ 
+(c) 
+the Authority's liability to pay compensation under this section is reduced by 
+the value of any non-monetary compensation provided at the request of, or by 
+agreement with, the interest holder; 
+ 
+(d) 
+the amount of compensation payable under this section is to be determined on 
+the basis that the interest holder is to be compensated for loss occasioned by 
+reason of disturbance (and regard is to be had to such of the principles set out 
+in section 25 as may be relevant to such a loss); 
+ 
+(e) 
+the Authority or the interest holder may refer a question arising in the course 
+of negotiations into Court (and the matter may be dealt with as if it had been a 
+matter referred into Court under section 23C); 
+ 
+(f) 
+compensation under this section may be paid directly to the interest holder in 
+a manner determined by the Authority; 
+ 
+(g) 
+the payment of compensation must comply with any other requirements set 
+out in the regulations. 
+ 
+(5) 
+In this section— 
+prescribed interest, in underground land, means— 
+ 
+(a) 
+ownership of a lawful well that provides access to underground water in the 
+underground land, and any underground infrastructure associated with the 
+well; or 
+ 
+(b) 
+a right to take underground water from the underground land by means of 
+such a well, 
+in each case being an interest existing immediately before a notice of acquisition is 
+published in relation to the underground land; 
+underground water has the same meaning as in the Natural Resources Management 
+Act 2004; 
+well has the same meaning as in the Natural Resources Management Act 2004 and 
+includes, to avoid doubt, a bore. 
+Part 5—Powers of entry and temporary occupation 
+27—Powers of entry 
+ 
+(1) 
+For the purposes of this Act, or the special Act, the Authority or any person authorised 
+in writing by the Authority, may— 
+ 
+(a) 
+enter and remain upon any land with any assistants, vehicles, machinery or 
+equipment; and 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 5—Powers of entry and temporary occupation 
+ 
+34 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(b) 
+affix or establish any trigonometrical stations, survey pegs, marks or poles 
+and from time to time alter, remove, re-instate, or remove them; and 
+ 
+(c) 
+dig or bore into the land. 
+ 
+(2) 
+The Authority must, at least 7 days before entering land under subsection (1), give 
+notice to the owner and occupier of the land.
+1 
+ 
+(3) 
+A person who— 
+ 
+(a) 
+wilfully and without authorisation from the Authority, interferes with any 
+trigonometrical stations, survey pegs, marks or poles; or 
+ 
+(b) 
+wilfully obstructs any person acting in accordance with this section, 
+shall be guilty of an offence and liable to a penalty not exceeding two hundred dollars. 
+Explanatory Note— 
+1 
+For the procedure for giving notice in relation to native title land see Part 5 of the Native 
+Title (South Australia) Act 1994. 
+28—Temporary occupation 
+ 
+(1) 
+The Authority may temporarily occupy and use any land to which this section applies 
+for purposes authorised by an Act and may— 
+ 
+(a) 
+take therefrom any stone, gravel, earth or other material; or 
+ 
+(b) 
+deposit any material on the land; or 
+ 
+(c) 
+make cuttings or excavations on the land; or 
+ 
+(d) 
+make and use roads on the land; or 
+ 
+(e) 
+manufacture on the land any materials required for those purposes; or 
+ 
+(f) 
+erect workshops, sheds and buildings of a temporary character on the land. 
+ (1a) However, the Authority is not authorised to take stone, gravel, earth or other material 
+from land for the purpose of— 
+ 
+(a) 
+extracting, producing or refining minerals from it; or 
+ 
+(b) 
+processing it by non-mechanical means.
+1 
+ 
+(2) 
+The Authority must, at least 7 days before entering into temporary occupation of land 
+under subsection (1), give notice to the owner and occupier of the land.
+2 
+ 
+(3) 
+A person interested in the land may apply to the Court for an order that the Authority 
+acquire his interest in the land. 
+ 
+(4) 
+The Court, if it is satisfied that it is just to do so may order the Authority to acquire the 
+interest upon such terms and conditions as may be determined by the Court, and may 
+make such incidental or consequential orders as the Court thinks fit. 
+ 
+(5) 
+The land to which this section applies is land that is— 
+ 
+(a) 
+within 500 metres of the boundaries of land acquired under this Act; and 
+ 
+(b) 
+is not a garden, orchard or plantation attached or belonging to a house, or a 
+park, planted walk, avenue or ground ornamentally planted; and 
+ 
+(c) 
+is not within 500 metres of a place genuinely used as a place of residence. 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Powers of entry and temporary occupation—Part 5 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+35 
+Explanatory Notes— 
+1 
+The purpose of this paragraph is to ensure that the authorisation conferred by 
+subsection (1)(a) does not amount to an authorisation to mine within the meaning of the 
+Native Title Act 1993 (Cwth). See the definition of mine in section 253 of that Act. 
+2 
+For the procedure for giving notice in relation to native title land see Part 5 of the Native 
+Title (South Australia) Act 1994. 
+29—Compensation for entry or temporary occupation 
+ 
+(1) 
+A person interested in land that is entered or temporarily occupied pursuant to this 
+Part may, at any time before the expiration of three months from the day on which the 
+Authority, or any person authorised by the Authority, was last in occupation of, or 
+upon, the land, by notice in writing served upon the Authority, claim compensation. 
+ 
+(2) 
+If after the expiration of three months from the day on which a notice was served 
+under subsection (1) of this section, the Authority and the claimant are not agreed 
+upon the amount of compensation that should be paid, either the Authority or the 
+claimant may refer the matter to the Court for determination. 
+ 
+(3) 
+The Court shall, upon the reference of any such matter, determine the amount of 
+compensation that should be paid by the Authority, and order the payment of that 
+amount to the claimant. 
+Part 6—Miscellaneous 
+30—Powers of inspection 
+ 
+(1) 
+The Authority may, by notice in writing served upon any person, require him to 
+deliver up for the inspection of the Authority, any specified document in his 
+possession or power evidencing the interest of any person in land required for 
+purposes authorised by an Act or any other specified record, account, or document in 
+his possession or power relating to any such land. 
+ 
+(2) 
+A person who fails to comply with a notice served under subsection (1) of this section 
+within the time specified in the notice shall be guilty of an offence and liable to a 
+penalty not exceeding two hundred dollars. 
+31—Giving of notice and other documents 
+ 
+(1) 
+A notice or other document is validly given to, or served on, a person under this Act 
+if— 
+ 
+(a) 
+served personally or by post on the person; or 
+ 
+(b) 
+if the identity or whereabouts of the person is not known to the Authority— 
+ 
+(i) 
+by publication of the contents of the notice or document in a 
+newspaper circulating generally throughout the State; or 
+ 
+(ii) 
+by affixing the notice or document in a prominent position on the 
+land to which it relates.
+1 
+ 
+(3) 
+A notice or other document may be served upon the Authority by sending it by post to 
+the Authority at its office, or to the office of such person as the Authority may 
+authorise to receive the notice or document on its behalf. 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Part 6—Miscellaneous 
+ 
+36 
+Published under the Legislation Revision and Publication Act 2002 
+Explanatory Note— 
+1 
+For method of service on persons who hold or may hold native title in land see Part 5 
+Native Title (South Australia) Act 1994. 
+32—Persons of limited juristic capacity 
+ 
+(1) 
+Where the juristic capacity of a claimant (not being a body corporate) is limited in any 
+way, any amount of compensation payable in respect of land in which he was 
+interested must be approved by the Court. 
+ 
+(2) 
+If an amount of compensation is not approved as required by subsection (1) of this 
+section, an application may, notwithstanding any other provision of this Act, be made 
+at any time to the Court by or on behalf of the claimant, and the Court may order the 
+Authority to pay further compensation to the claimant. 
+33—Interest 
+Where the Authority agrees with a claimant or is ordered to pay a greater amount of 
+compensation than the amount paid into Court in respect of the acquisition of any 
+land, the Authority must also pay the additional sum that would have accrued 
+(whether as interest or otherwise) had the amount agreed or ordered been paid into 
+Court instead. 
+35—Authority may dispose of surplus land 
+The Authority may sell, lease, or otherwise deal with or dispose of any land acquired 
+pursuant to this Act that it does not require for purposes authorised by an Act. 
+36—Costs 
+In any proceedings under this Act the Court may award such costs as it thinks proper, 
+but, in making an order for costs, shall, where it is, in the opinion of the Court, 
+appropriate to do so, take into consideration— 
+ 
+(a) 
+the amount of compensation awarded by the Court as compared with the 
+amount (if any) offered by the Authority; and 
+ 
+(b) 
+the extent to which, in the opinion of the Court, the proceedings have arisen 
+from, or been affected by— 
+ 
+(i) 
+unreasonable conduct on the part of the claimant or the Authority; or 
+ 
+(ii) 
+an excessive claim by the claimant or unduly depressed offer by the 
+Authority; or 
+ (iii) a failure on the part of the Authority or the claimant to negotiate in 
+good faith. 
+36A—Recovery of compensation from Authority 
+Compensation payable under this Act may be recovered from the Authority as a debt. 
+37—Summary of procedure 
+Proceedings for offences against this Act shall be disposed of summarily. 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Miscellaneous—Part 6 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+37 
+38—Regulations 
+The Governor may make such regulations as are contemplated by this Act, or as he 
+deems necessary or expedient for the purposes of this Act, and, without limiting the 
+generality of the foregoing, those regulations may— 
+ 
+(a) 
+prescribe the form of any notice or document for the purposes of this Act; and 
+ 
+(b) 
+prescribe any rate of interest or rate of rental for the purposes of this Act; and 
+ 
+(c) 
+prescribe the terms and conditions of any tenancy at will under section 24 of 
+this Act; and 
+ 
+(d) 
+provide for a penalty, not exceeding one hundred dollars, recoverable 
+summarily, for breach of, or non-compliance with, any regulation. 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Legislative history 
+ 
+38 
+Published under the Legislation Revision and Publication Act 2002 
+Legislative history 
+Notes 
+ 
+• 
+Please note—References in the legislation to other legislation or instruments or to 
+titles of bodies or offices are not automatically updated as part of the program for the 
+revision and publication of legislation and therefore may be obsolete. 
+ 
+• 
+Earlier versions of this Act (historical versions) are listed at the end of the legislative 
+history. 
+ 
+• 
+For further information relating to the Act and subordinate legislation made under the 
+Act see the Index of South Australian Statutes or www.legislation.sa.gov.au. 
+Legislation repealed by principal Act 
+The Land Acquisition Act 1969 repealed the following: 
+Compulsory Acquisition of Land Act 1925 
+Compulsory Acquisition of Land Act Amendment Act 1959 
+Compulsory Acquisition of Land Act Amendment Act 1966 
+Principal Act and amendments 
+New entries appear in bold. 
+Year No 
+Title 
+Assent 
+Commencement 
+1969 93 
+Land Acquisition Act 1969 
+11.12.1969 
+28.5.1970 (Gazette 28.5.1970 p1954) 
+1972 126 
+Land Acquisition Act Amendment 
+Act 1972 
+30.11.1972 
+8.2.1973 (Gazette 8.2.1973 p439) 
+1990 71 
+Land Acquisition Act Amendment 
+Act 1990 
+20.12.1990 
+1.7.1991 (Gazette 20.6.1991 p1918) 
+1994 87 
+Land Acquisition (Native Title) 
+Amendment Act 1994 
+15.12.1994 
+9.5.1996 (Gazette 9.5.1996 p2440) 
+1997 5 
+Land Acquisition (Right of Review) 
+Amendment Act 1997 
+20.3.1997 
+10.4.1997 (Gazette 10.4.1997 p1456) 
+1998 59 
+Statutes Amendment 
+(Attorney-General's Portfolio) 
+Act 1998 
+3.9.1998 
+Pt 6 (s 10)—13.12.1998 (Gazette 
+3.12.1998 p1676) 
+2001 53 
+Land Acquisition (Native Title) 
+Amendment Act 2001 
+1.11.2001 
+1.9.2003 (Gazette 21.8.2003 p3274) 
+2017 51 
+Statutes Amendment (SACAT No 2) 
+Act 2017 
+28.11.2017 
+Pt 24 (ss 122 &123)—5.7.2018 (Gazette 
+28.6.2018 p2618) 
+2019 45 
+Supreme Court (Court of Appeal) 
+Amendment Act 2019 
+19.12.2019 
+Sch 1 (cll 53 & 54)—1.1.2021 (Gazette 
+10.12.2020 p5638) 
+2019 50 
+Land Acquisition (Miscellaneous) 
+Amendment Act 2019 
+19.12.2019 
+2.7.2020 (Gazette 2.7.2020 p3699) 
+2021 5 
+Statutes Amendment and Repeal 
+(Budget Measures) Act 2021 
+25.2.2021 
+Pt 6 (s 15)—25.2.2021: s 2(1) 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+39 
+Provisions amended since 3 February 1976 
+ 
+• 
+Legislative history prior to 3 February 1976 appears in marginal notes and footnotes 
+included in the consolidation of this Act contained in Volume 5 of The Public General 
+Acts of South Australia 1837-1975 at page 462. 
+New entries appear in bold. 
+Entries that relate to provisions that have been deleted appear in italics. 
+Provision 
+How varied 
+Commencement 
+Long title 
+substituted by 87/1994 s 3 
+9.5.1996 
+Pt 1 
+ 
+ 
+s 2 
+omitted under Legislation Revision and 
+Publication Act 2002 
+1.9.2003 
+s 3 
+substituted by 87/1994 s 4 
+9.5.1996 
+ss 4 and 5 
+deleted by 87/1994 s 4 
+9.5.1996 
+s 6 
+ 
+ 
+s 6(1) 
+s 6 redesignated as s 6(1) by 87/1994 s 5(f) 
+9.5.1996 
+acquisition project inserted by 53/2001 s 3(a) 
+1.9.2003 
+authorised 
+undertaking 
+deleted by 87/1994 s 5(a) 
+9.5.1996 
+Authority 
+inserted by 87/1994 s 5(a) 
+9.5.1996 
+claimant 
+substituted by 53/2001 s 3(b) 
+1.9.2003 
+Commonwealth 
+Registrar 
+inserted by 53/2001 s 3(b) 
+1.9.2003 
+compensation 
+amended by 50/2019 s 4 
+2.7.2020 
+Court 
+inserted by 87/1994 s 5(b) 
+9.5.1996 
+ 
+amended by 45/2019 Sch 1 cl 53 
+1.1.2021 
+ERD Court 
+inserted by 87/1994 s 5(b) 
+9.5.1996 
+infrastructure 
+facility 
+inserted by 53/2001 s 3(c) 
+1.9.2003 
+interest 
+substituted by 87/1994 s 5(c) 
+9.5.1996 
+native title 
+inserted by 87/1994 s 5(d) 
+9.5.1996 
+ 
+deleted by 53/2001 s 3(d) 
+1.9.2003 
+native title holder 
+inserted by 87/1994 s 5(d) 
+9.5.1996 
+ 
+deleted by 53/2001 s 3(d) 
+1.9.2003 
+native title land 
+inserted by 87/1994 s 5(d) 
+9.5.1996 
+ 
+deleted by 53/2001 s 3(d) 
+1.9.2003 
+native title 
+inserted by 53/2001 s 3(d) 
+1.9.2003 
+owner 
+inserted by 53/2001 s 3(d) 
+1.9.2003 
+prescribed private 
+acquisition 
+inserted by 53/2001 s 3(d) 
+1.9.2003 
+Registrar 
+inserted by 87/1994 s 5(d) 
+9.5.1996 
+registered 
+representative 
+inserted by 87/1994 s 5(d) 
+9.5.1996 
+special Act 
+inserted by 87/1994 s 5(d) 
+9.5.1996 
+town or city 
+inserted by 53/2001 s 3(e) 
+1.9.2003 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Legislative history 
+ 
+40 
+Published under the Legislation Revision and Publication Act 2002 
+the Authority 
+deleted by 87/1994 s 5(e) 
+9.5.1996 
+the Court 
+deleted by 87/1994 s 5(e) 
+9.5.1996 
+the Registrar 
+deleted by 87/1994 s 5(e) 
+9.5.1996 
+the special Act 
+deleted by 87/1994 s 5(e) 
+9.5.1996 
+undertaking 
+deleted by 87/1994 s 5(e) 
+9.5.1996 
+s 6(2) 
+inserted by 87/1994 s 5(f) 
+9.5.1996 
+s 6(3) 
+inserted by 53/2001 s 3(f) 
+1.9.2003 
+s 7 
+ 
+ 
+s 7(1) 
+amended by 87/1994 s 6(a) 
+9.5.1996 
+s 7(1a) 
+inserted by 87/1994 s 6(b) 
+9.5.1996 
+ 
+amended by 50/2019 s 5 
+2.7.2020 
+s 7(2) 
+amended by 87/1994 s 6(c) 
+9.5.1996 
+ 
+amended by 53/2001 s 4(a) 
+1.9.2003 
+s 7(3) 
+inserted by 53/2001 s 4(b) 
+1.9.2003 
+s 9A 
+inserted by 50/2019 s 6 
+2.7.2020 
+Pt 2 
+ 
+ 
+s 10 
+amended by 87/1994 s 7 
+9.5.1996 
+ 
+substituted by 53/2001 s 5 
+1.9.2003 
+s 10(1) 
+amended by 50/2019 s 7(1) 
+2.7.2020 
+s 10(3) 
+amended by 50/2019 s 7(2) 
+2.7.2020 
+s 10(4) 
+amended by 50/2019 s 7(3) 
+2.7.2020 
+s 10(4a) 
+inserted by 50/2019 s 7(4) 
+2.7.2020 
+s 10A 
+inserted by 50/2019 s 8 
+2.7.2020 
+s 11 
+substituted by 87/1994 s 8 
+9.5.1996 
+s 11(2) 
+amended by 53/2001 s 6 
+1.9.2003 
+s 12 
+substituted by 87/1994 s 9 
+9.5.1996 
+s 12(2) 
+amended by 53/2001 s 7 
+1.9.2003 
+s 12(3) 
+amended by 5/1997 s 3 
+10.4.1997 
+s 12A 
+inserted by 5/1997 s 4 
+10.4.1997 
+ 
+substituted by 51/2017 s 122 
+5.7.2018 
+s 12A(3) 
+amended by 50/2019 s 9 
+2.7.2020 
+s 12B 
+inserted by 53/2001 s 8 
+1.9.2003 
+s 13 
+ 
+ 
+s 13(1) 
+substituted by 53/2001 s 9 
+1.9.2003 
+Pt 3 
+ 
+ 
+s 15 
+ 
+ 
+s 15(1) 
+amended by 53/2001 s 10(a) 
+1.9.2003 
+s 15(3) 
+substituted by 87/1994 s 10 
+9.5.1996 
+ 
+substituted by 53/2001 s 10(b) 
+1.9.2003 
+ 
+amended by 50/2019 s 10(1) 
+2.7.2020 
+s 15(3a) 
+inserted by 50/2019 s 10(2) 
+2.7.2020 
+s 15(4) 
+substituted by 87/1994 s 10 
+9.5.1996 
+ 
+amended by 53/2001 s 10(c) 
+1.9.2003 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+41 
+s 15(4a) 
+inserted by 53/2001 s 10(d) 
+1.9.2003 
+ 
+amended by 45/2019 Sch 1 cl 54 
+1.1.2021 
+s 15(5) 
+substituted by 87/1994 s 10 
+9.5.1996 
+ 
+amended by 53/2001 s 10(e) 
+1.9.2003 
+s 15(5a) 
+inserted by 53/2001 s 10(f) 
+1.9.2003 
+s 15(6) and (7) 
+substituted by 87/1994 s 10 
+9.5.1996 
+s 16 
+ 
+ 
+s 16(1) 
+substituted by 87/1994 s 11(a) 
+9.5.1996 
+ 
+substituted by 53/2001 s 11(a) 
+1.9.2003 
+ 
+amended by 50/2019 s 11(1) 
+2.7.2020 
+s 16(1a) 
+inserted by 87/1994 s 11(a) 
+9.5.1996 
+ 
+deleted by 53/2001 s 11(a) 
+1.9.2003 
+s 16(2) 
+substituted by 87/1994 s 11(a) 
+9.5.1996 
+ 
+amended by 53/2001 s 11(b) 
+1.9.2003 
+s 16(3a) and (3b) 
+inserted by 87/1994 s 11(b) 
+9.5.1996 
+ 
+deleted by 53/2001 s 11(c) 
+1.9.2003 
+s 16(5) 
+substituted by 87/1994 s 11(c) 
+9.5.1996 
+ 
+substituted by 53/2001 s 11(d) 
+1.9.2003 
+s 16(5a) 
+inserted by 53/2001 s 11(d) 
+1.9.2003 
+ 
+amended by 50/2019 s 11(2) 
+2.7.2020 
+s 16(5b) 
+inserted by 50/2019 s 11(3) 
+2.7.2020 
+s 16(6) 
+inserted by 87/1994 s 11(c) 
+9.5.1996 
+s 17 
+ 
+ 
+s 17(1) 
+s 17 redesignated as s 17(1) by 87/1994 s 12 
+9.5.1996 
+s 17(2) 
+inserted by 87/1994 s 12 
+9.5.1996 
+ 
+amended by 53/2001 s 12 
+1.9.2003 
+Pt 4 
+heading substituted by 87/1994 s 13 
+9.5.1996 
+ 
+heading substituted by 50/2019 s 12 
+2.7.2020 
+Pt 4 Div 1 
+heading inserted by 87/1994 s 14 
+9.5.1996 
+ 
+amended by 53/2001 s 13 
+1.9.2003 
+s 18 
+substituted by 87/1994 s 14 
+9.5.1996 
+ 
+substituted by 53/2001 s 14 
+1.9.2003 
+s 19 
+substituted by 87/1994 s 14 
+9.5.1996 
+ 
+substituted by 53/2001 s 15 
+1.9.2003 
+s 20 
+amended by 71/1990 s 3 
+1.7.1991 
+ 
+substituted by 87/1994 s 14 
+9.5.1996 
+s 20(2) 
+amended by 53/2001 s 16(a) 
+1.9.2003 
+s 20(3) 
+substituted by 53/2001 s 16(b) 
+1.9.2003 
+s 20(4)—(7) 
+inserted by 53/2001 s 16(b) 
+1.9.2003 
+s 20A 
+inserted by 53/2001 s 17 
+1.9.2003 
+s 21 
+substituted by 87/1994 s 14 
+9.5.1996 
+ 
+substituted by 53/2001 s 18 
+1.9.2003 
+s 22 
+substituted by 87/1994 s 14 
+9.5.1996 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Legislative history 
+ 
+42 
+Published under the Legislation Revision and Publication Act 2002 
+s 22(1) 
+amended by 53/2001 s 19 
+1.9.2003 
+Pt 4 Div 1A 
+inserted by 53/2001 s 20 
+1.9.2003 
+Pt 4 Div 2 
+heading inserted by 87/1994 s 14 
+9.5.1996 
+s 22B 
+inserted by 53/2001 s 21 
+1.9.2003 
+s 22B(1) 
+s 22B amended and redesignated by 50/2019 s 
+13(1)—(4) 
+2.7.2020 
+s 22B(2) 
+inserted by 50/2019 s 13(4) 
+2.7.2020 
+s 23 
+substituted by 87/1994 s 14 
+9.5.1996 
+s 23(1) 
+substituted by 50/2019 s 14(1) 
+2.7.2020 
+s 23(2) 
+deleted by 53/2001 s 22(a) 
+1.9.2003 
+s 23(4) 
+amended by 53/2001 s 22(b) 
+1.9.2003 
+s 23(5) 
+inserted by 53/2001 s 22(c) 
+1.9.2003 
+ 
+substituted by 50/2019 s 14(2) 
+2.7.2020 
+s 23(6) 
+inserted by 53/2001 s 22(c) 
+1.9.2003 
+s 23(7)—(10) 
+inserted by 50/2019 s 14(3) 
+2.7.2020 
+s 23A 
+inserted by 87/1994 s 14 
+9.5.1996 
+s 23A(1) 
+amended by 50/2019 s 15(1) 
+2.7.2020 
+s 23A(1a) 
+inserted by 50/2019 s 15(2) 
+2.7.2020 
+s 23A(3a) 
+inserted by 53/2001 s 23 
+1.9.2003 
+s 23A(5)—(7) 
+inserted by 50/2019 s 15(3) 
+2.7.2020 
+ss 23AB and 23AC 
+inserted by 50/2019 s 16 
+2.7.2020 
+s 23B 
+inserted by 87/1994 s 14 
+9.5.1996 
+ 
+substituted by 53/2001 s 24 
+1.9.2003 
+s 23BA 
+inserted by 50/2019 s 17 
+2.7.2020 
+s 23C 
+inserted by 87/1994 s 14 
+9.5.1996 
+s 23C(1) 
+substituted by 53/2001 s 25(a) 
+1.9.2003 
+s 23C(1a) 
+inserted by 50/2019 s 18 
+2.7.2020 
+s 23C(2) 
+substituted by 53/2001 s 25(a) 
+1.9.2003 
+s 23C(3) 
+amended by 53/2001 s 25(b) 
+1.9.2003 
+s 23C(4) and (5) 
+inserted by 53/2001 s 25(c) 
+1.9.2003 
+s 23D 
+inserted by 87/1994 s 14 
+9.5.1996 
+ 
+deleted by 53/2001 s 26 
+1.9.2003 
+s 24 
+substituted by 50/2019 s 19 
+2.7.2020 
+s 24(1) 
+amended by 5/2021 s 15(1) 
+25.2.2021 
+s 24(3) 
+amended by 5/2021 s 15(2) 
+25.2.2021 
+s 24(3a) 
+inserted by 5/2021 s 15(3) 
+25.2.2021 
+s 24(6) 
+amended by 5/2021 s 15(4) 
+25.2.2021 
+s 24(6a) 
+inserted by 5/2021 s 15(5) 
+25.2.2021 
+s 24(7a) 
+inserted by 5/2021 s 15(6) 
+25.2.2021 
+s 24(8a) and (8b) 
+inserted by 5/2021 s 15(7) 
+25.2.2021 
+s 24(13)—(15) 
+inserted by 5/2021 s 15(8) 
+25.2.2021 
+s 24A 
+inserted by 50/2019 s 19 
+2.7.2020 
+s 25 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+25.2.2021—Land Acquisition Act 1969 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+43 
+s 25(1) 
+s 25 amended and redesignated as s 25(1) by 
+87/1994 s 15 
+9.5.1996 
+s 25(2) 
+inserted by 87/1994 s 15(c) 
+9.5.1996 
+ 
+substituted by 53/2001 s 27 
+1.9.2003 
+s 25(3) and (4) 
+inserted by 53/2001 s 27 
+1.9.2003 
+s 25A 
+inserted by 50/2019 s 20 
+2.7.2020 
+Pt 4 Div 3 
+inserted by 50/2019 s 21 
+2.7.2020 
+Pt 4 Div 4 
+inserted by 50/2019 s 21 
+2.7.2020 
+Pt 4A before insertion 
+50/2019 
+amended by 87/1994 ss 16, 17 
+9.5.1996 
+ 
+deleted by 59/1998 s 10 
+13.12.1998 
+Pt 4A 
+inserted by 50/2019 s 22 
+2.7.2020 
+Pt 5 
+ 
+ 
+s 27 
+ 
+ 
+s 27(2) 
+substituted by 87/1994 s 18 
+9.5.1996 
+ 
+substituted by 53/2001 s 28 
+1.9.2003 
+s 28 
+ 
+ 
+s 28(1) 
+amended by 87/1994 s 19(a), (b) 
+9.5.1996 
+s 28(1a) 
+inserted by 53/2001 s 29(a) 
+1.9.2003 
+s 28(2) 
+substituted by 87/1994 s 19(c) 
+9.5.1996 
+ 
+substituted by 53/2001 s 29(b) 
+1.9.2003 
+s 28(5) 
+amended by 87/1994 s 19(d), (e) 
+9.5.1996 
+s 28A 
+inserted by 87/1994 s 20 
+9.5.1996 
+ 
+deleted by 53/2001 s 30 
+1.9.2003 
+Pt 6 
+ 
+ 
+s 30 
+ 
+ 
+s 30(1) 
+amended by 87/1994 s 21 
+9.5.1996 
+s 31 
+ 
+ 
+s 31(1) 
+substituted by 87/1994 s 22 
+9.5.1996 
+s 31(2) 
+deleted by 87/1994 s 22 
+9.5.1996 
+s 33 
+substituted by 71/1990 s 4 
+1.7.1991 
+s 34 
+deleted by 87/1994 s 23 
+9.5.1996 
+s 35 
+amended by 87/1994 s 24 
+9.5.1996 
+s 36 
+amended by 50/2019 s 23 
+2.7.2020 
+s 36A 
+inserted by 53/2001 s 31 
+1.9.2003 
+
+--------------------------------------------------------------------------------
+ 
+Land Acquisition Act 1969—25.2.2021 
+Legislative history 
+ 
+44 
+Published under the Legislation Revision and Publication Act 2002 
+Transitional etc provisions associated with Act or amendments 
+Statutes Amendment (SACAT No 2) Act 2017, Pt 24 
+123—Transitional provisions 
+ 
+(1) 
+A right of review under section 12A of the principal Act in existence before the 
+relevant day (but not exercised before that day) will be exercised as if this Part had 
+been in operation before that right arose, so that the relevant proceedings may be 
+commenced before the Tribunal rather than by making application to the Minister 
+under that section. 
+ 
+(2) 
+Nothing in subsection (1) affects any proceedings arising from an application made 
+under section 12A of the principal Act before the relevant day. 
+ 
+(3) 
+In this section— 
+principal Act means the Land Acquisition Act 1969; 
+relevant day means the day on which this Part comes into operation; 
+Tribunal means the South Australian Civil and Administrative Tribunal established 
+under the South Australian Civil and Administrative Tribunal Act 2013. 
+Historical versions 
+Reprint No 1—1.10.1991 
+ 
+Reprint No 2—9.5.1996 
+ 
+Reprint No 3—10.4.1997 
+ 
+Reprint No 4—13.12.1998 
+ 
+Reprint No 5—1.9.2003 
+ 
+5.7.2018 
+ 
+2.7.2020 
+ 
+1.1.2021 
+ 
+ 
+
+--------------------------------------------------------------------------------

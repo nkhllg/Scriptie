@@ -1,0 +1,2700 @@
+Prepared by the Office of Parliamentary Counsel, Canberra
+National Rental Affordability Scheme 
+Regulations 2020
+made under the
+National Rental Affordability Scheme Act 2008
+Compilation No. 1
+Compilation date:
+14 October 2024
+Includes amendments:
+F2024L01299
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+About this compilation
+This compilation
+This is a compilation of the National Rental Affordability Scheme Regulations 2020 that 
+shows the text of the law as amended and in force on 14 October 2024 (the compilation date).
+The notes at the end of this compilation (the endnotes) include information about amending 
+laws and the amendment history of provisions of the compiled law.
+Uncommenced amendments
+The effect of uncommenced amendments is not shown in the text of the compiled law. Any 
+uncommenced amendments affecting the law are accessible on the Register 
+(www.legislation.gov.au). The details of amendments made up to, but not commenced at, the 
+compilation date are underlined in the endnotes. For more information on any uncommenced 
+amendments, see the Register for the compiled law.
+Application, saving and transitional provisions for provisions and amendments
+If the operation of a provision or amendment of the compiled law is affected by an 
+application, saving or transitional provision that is not included in this compilation, details are 
+included in the endnotes.
+Editorial changes
+For more information about any editorial changes made in this compilation, see the endnotes.
+Modifications
+If the compiled law is modified by another law, the compiled law operates as modified but the 
+modification does not amend the text of the law. Accordingly, this compilation does not show 
+the text of the compiled law as modified. For more information on any modifications, see the 
+Register for the compiled law.
+Self-repealing provisions
+If a provision of the compiled law has been repealed in accordance with a provision of the 
+law, details are included in the endnotes.
+  
+  
+  
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+National Rental Affordability Scheme Regulations 2020
+i
+Compilation No. 1
+Compilation date: 14/10/2024
+Contents
+Part 1—Preliminary
+1
+1
+Name .............................................................................................................................1
+3
+Authority .......................................................................................................................1
+5
+Definitions.....................................................................................................................1
+Part 2—Allocations
+6
+Division 1—No new allocations
+6
+6
+No new allocations........................................................................................................6
+Division 2—General conditions
+7
+7
+General conditions.........................................................................................................7
+8
+Initial status of dwelling................................................................................................7
+9
+Initial vacancy ...............................................................................................................7
+10
+Other vacancies .............................................................................................................7
+11
+Eligible tenants..............................................................................................................8
+12
+Maximum rent...............................................................................................................8
+13
+Documents and information..........................................................................................9
+14
+Compliance with relevant laws ...................................................................................10
+15
+Compliance with special conditions............................................................................10
+16
+If allocation is revoked................................................................................................11
+17
+Conditions of the reservation of existing provisional allocations...............................11
+Division 3—Varying, removing or imposing special conditions
+12
+18
+Varying or removing special conditions etc. by agreement........................................12
+19
+Secretary may vary, remove or impose special conditions.........................................12
+Division 4—Transfer or revocation not because of breach
+13
+20
+Transfer to another rental dwelling.............................................................................13
+21
+Transfer to another person on application by approved participant............................13
+22
+Transfer of provisional allocation on Secretary’s own initiative................................14
+23
+Revocation on application by approved participant etc. .............................................15
+Division 5—Transfer or revocation because of breach
+17
+Subdivision A—Determinations of breaches
+17
+24
+Individual breach.........................................................................................................17
+25
+Serious breach .............................................................................................................17
+26
+Disqualifying breach ...................................................................................................18
+27
+Approved participants code of conduct.......................................................................18
+Subdivision B—Procedures for making determinations of breaches
+20
+28
+Secretary may determine breach on own initiative or on request by an investor........20
+29
+Transfer requests .........................................................................................................20
+30
+Requirements for determinations of breach ................................................................21
+31
+Publishing notice of certain breaches..........................................................................21
+Subdivision C—Transfer or revocation because of breach
+22
+32
+Transfer or revocation because of breach ...................................................................22
+Division 6—General rules for transfers
+25
+33
+Legal arrangements do not prevent transfers ..............................................................25
+34
+Obligations of approved participants when allocations are transferred......................25
+35
+Statement of compliance if allocation is transferred...................................................25
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+ii
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Part 3—Market value rent
+26
+36
+Meaning of market value rent.....................................................................................26
+37
+Valuations....................................................................................................................26
+38
+Giving valuations ........................................................................................................27
+39
+Secretary may extend time for giving valuations........................................................28
+40
+Valuations—other matters...........................................................................................28
+Part 4—Eligible tenants
+29
+41
+Eligible tenants............................................................................................................29
+Part 5—Demonstrating compliance
+31
+42
+Statement of compliance required for each NRAS year .............................................31
+43
+Contents of statement of compliance ..........................................................................32
+44
+Tenant consent form....................................................................................................32
+45
+Lease agreement..........................................................................................................33
+46
+Secretary may request other documents and information...........................................33
+47
+Changes to approved participant’s details...................................................................33
+48
+Changes relating to investors ......................................................................................34
+49
+Record keeping............................................................................................................34
+Part 6—Incentives
+35
+Division 1—Entitlement to incentives
+35
+50
+Entitlement to incentives.............................................................................................35
+51
+Amount of incentive and reductions by Secretary ......................................................36
+52
+Full amount of incentive .............................................................................................37
+53
+Incentive amounts when approved participant changes..............................................37
+Division 2—Form and giving of incentives
+38
+54
+Form of incentive ........................................................................................................38
+55
+Elections by endorsed charitable institutions..............................................................39
+56
+Variation of incentive amount.....................................................................................39
+Division 3—Redirecting incentives
+40
+57
+Application of this Division........................................................................................40
+58
+Incentive for year of transfer.......................................................................................40
+59
+Incentive for an earlier year ........................................................................................40
+60
+Meaning of redirects...................................................................................................41
+61
+Secretary must notify proposed redirection ................................................................41
+62
+Secretary must take interests of investors into account...............................................41
+Part 7—Obligations to investors
+42
+63
+Approved participant’s obligations to investors..........................................................42
+64
+Obligation to pass on incentives or State or Territory contributions in a timely 
+manner.........................................................................................................................42
+65
+Incentives or State or Territory contributions not to be withheld or refused if 
+investor fails or refuses to accept other services.........................................................42
+66
+Incentives or State or Territory contributions not to be withheld or refused if 
+bond not paid...............................................................................................................43
+67
+Approved participant must give summary of code of conduct to investors................43
+Part 8—Other matters
+44
+68
+Secretary may approve forms......................................................................................44
+69
+Sharing and use of information...................................................................................44
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+National Rental Affordability Scheme Regulations 2020
+iii
+Compilation No. 1
+Compilation date: 14/10/2024
+70
+Notice of end of allocation..........................................................................................44
+71
+Review of decisions by the Administrative Review Tribunal.....................................45
+72
+When incentive cannot be redirected ..........................................................................45
+Part 9—Application and transitional provisions
+46
+73
+Things done under the previous regulations ...............................................................46
+74
+General conditions of allocations existing immediately before 1 April 2020.............47
+75
+Determination relating to maximum rent....................................................................47
+76
+Eligible tenants moving rental dwellings....................................................................47
+77
+References to breaches etc. .........................................................................................47
+78
+Redirecting incentives for certain earlier transfers .....................................................47
+79
+Details of approved participants and investors ...........................................................48
+Endnotes
+49
+Endnote 1—About the endnotes
+49
+Endnote 2—Abbreviation key
+50
+Endnote 3—Legislation history
+51
+Endnote 4—Amendment history
+52
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Preliminary  Part 1
+  
+Section 1
+National Rental Affordability Scheme Regulations 2020
+1
+Compilation No. 1
+Compilation date: 14/10/2024
+Part 1—Preliminary
+  
+1  Name
+This instrument is the National Rental Affordability Scheme Regulations 2020.
+3  Authority
+This instrument:
+(a) is made under the National Rental Affordability Scheme Act 2008; and
+(b) for the purposes of section 5 of the Act, prescribes the National Rental 
+Affordability Scheme.
+5  Definitions
+Note:
+A number of expressions used in this instrument are defined in the Act, including the 
+following:
+(a)
+allocation;
+(b)
+incentive;
+(c)
+incentive period;
+(d)
+investor;
+(e)
+NRAS year;
+(f)
+rental dwelling.
+In this instrument:
+Act means the National Rental Affordability Scheme Act 2008.
+adult has the meaning given by paragraph 41(1)(d).
+approved form means a form:
+(a) approved by the Secretary under section 68; and
+(b) given in accordance with any manner specified by the Secretary under that 
+section.
+approved participant, for a rental dwelling covered by an allocation, means the 
+holder of the allocation for the dwelling.
+approved participants code of conduct has the meaning given by 
+subsection 27(1).
+arrangement includes any agreement, arrangement, understanding, promise or 
+undertaking, whether express or implied that is enforceable, or intended to be 
+enforceable, by legal proceedings.
+ASIC means the Australian Securities and Investments Commission.
+associated party, for a rental dwelling covered by an allocation, means a person, 
+other than the approved participant or a tenant, who:
+(a) is a party to an arrangement that relates to the dwelling; and
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 1  Preliminary
+  
+Section 5
+2
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+(b) under the arrangement, is required to pass on to another person who is not 
+the approved participant any payment or benefit (including rent) relating to 
+the dwelling.
+certificate of occupancy, for a dwelling, means a certificate (however described) 
+that:
+(a) is issued or recognised by:
+(i) the State or Territory, or an authority of the State or Territory, in 
+which the dwelling is located; or
+(ii) the local governing body that governs the area in which the dwelling 
+is located; and
+(b) states that the dwelling is suitable for residential purposes; and
+(c) does not state that the dwelling is suitable for any other purpose.
+child has the meaning given by paragraph 41(1)(e).
+compliance breach has the meaning given by subsection 24(3).
+conditions, of an allocation, means:
+(a) the general conditions of the allocation; or
+(b) any special conditions of the allocation.
+conditions of the reservation, of a provisional allocation, means:
+(a) the conditions of the reservation (within the meaning of the previous 
+regulations) of the provisional allocation; but
+(b) as varied under paragraph 18(1)(b) of this instrument.
+consumer protection law has the same meaning as in the Australian Postal 
+Corporation Act 1989.
+contravenes: the approved participant for a rental dwelling covered by an 
+allocation contravenes a condition of the allocation if:
+(a) no incentive is available for a period for the dwelling because of 
+circumstances specified in the condition of the allocation; and
+(b) those circumstances are within the control of the approved participant.
+disqualified person: a person is a disqualified person if section 32 applies for a 
+determination under section 26 that the person has committed a disqualifying 
+breach.
+Note:
+Subsection 32(1) explains when section 32 applies.
+disqualifying breach has the meaning given by section 26.
+eligibility year has the meaning given by paragraph 41(1)(c).
+eligible tenant has the meaning given by subsections 41(2) and (3).
+endorsed charitable institution means an entity that is endorsed as exempt from 
+income tax by the Commissioner of Taxation under section 50-105 of the Income 
+Tax Assessment Act 1997.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Preliminary  Part 1
+  
+Section 5
+National Rental Affordability Scheme Regulations 2020
+3
+Compilation No. 1
+Compilation date: 14/10/2024
+gaining approved participant, for the transfer of an allocation, means the person 
+to whom an allocation is transferred.
+general conditions, of an allocation, means the conditions set out in Division 2 
+of Part 2.
+incentive year has the meaning given by subsection 36(2).
+individual breach has the meaning given by subsection 24(1).
+initial rental period has the meaning given by subsection 36(3).
+insolvency event: an approved participant is the subject of an insolvency event if 
+the approved participant:
+(a) dies or ceases to exist; or
+(b) becomes an insolvent under administration; or
+(c) becomes a Chapter 5 body corporate (within the meaning of the 
+Corporations Act 2001).
+market value rent has the meaning given by subsection 36(1).
+National Rental Affordability Scheme Tax Offset means the tax offset 
+mentioned in Division 380 of the Income Tax Assessment Act 1997.
+NRAS incentive index, for an NRAS year, means the Rents component of the 
+Housing Group of the Consumer Price Index (being the weighted average of the 
+8 capital cities) December quarter to December quarter published by the 
+Australian Statistician as at 1 March of the immediately preceding NRAS year, 
+rounded to the nearest single decimal point.
+NRAS market index, for a rental dwelling for an NRAS year, means the capital 
+city index for the State or Territory in which the dwelling is located used in the 
+Rents component of the Housing Group of the Consumer Price Index December 
+quarter to December quarter published by the Australian Statistician as at 
+1 March of the immediately preceding NRAS year, rounded to the nearest single 
+decimal point.
+NRAS tenant income index, for an NRAS year, means the All Groups 
+component of the Consumer Price Index (being the weighted average of the 8 
+capital cities) December quarter to December quarter published by the Australian 
+Statistician as at 1 March of the immediately preceding NRAS year, rounded to 
+the nearest single decimal point.
+obligations to investors means the obligations set out in Part 7.
+original approved participant, for the transfer of an allocation, means the 
+approved participant from whom the allocation is transferred.
+outstanding, for a document or information required by the Secretary for the 
+purposes of the Scheme, has the meaning given by subsection 13(3).
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 1  Preliminary
+  
+Section 5
+4
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+pass on, for an incentive or State or Territory contribution, has the meaning 
+given by section 63.
+person includes an entity (within the meaning of the Income Tax Assessment Act 
+1997).
+personal information has the same meaning as in the Privacy Act 1988.
+previous regulations means the National Rental Affordability Scheme 
+Regulations 2008 as in force immediately before 1 April 2020.
+provisional allocation means an allocation that, immediately before 1 April 
+2020, was a provisional allocation (within the meaning of the previous 
+regulations).
+redirects, for an incentive, or an increase in an incentive, has the meaning given 
+by section 60.
+remains uncorrected, for a false or misleading document or information, has the 
+meaning given by subsection 13(6).
+Scheme:
+(a) means the National Rental Affordability Scheme prescribed by the 
+previous regulations and continued by this instrument; and
+(b) includes a reference to things done by the States and Territories for the 
+purposes of that Scheme.
+serious breach has the meaning given by section 25.
+special condition, of an allocation, means a condition that:
+(a) is imposed on the allocation under any of the following provisions:
+(i) paragraph 13(2)(b) of the previous regulations;
+(ii) paragraph 19(1)(c), 20(4)(c), 21(4)(c), 22(3)(c), 23(6)(c) or 32(8)(c) 
+of this instrument; and
+(b) is still in force, subject to any variations under Division 3 of Part 2.
+Note:
+The condition will cease to be in force if it is removed under Division 3 of Part 2.
+start day has the meaning given by paragraph 41(1)(b).
+statement of compliance means a statement of compliance under Part 5.
+State or Territory contribution means a contribution (or its monetary equivalent) 
+made by a State or Territory in relation to the Scheme.
+tax offset certificate means a certificate issued by the Secretary for the purposes 
+of Division 380 of the Income Tax Assessment Act 1997.
+tenants has the meaning given by paragraph 41(1)(a).
+transfer request has the meaning given by subsection 29(1).
+unfair arrangement, for a rental dwelling, means an arrangement that:
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Preliminary  Part 1
+  
+Section 5
+National Rental Affordability Scheme Regulations 2020
+5
+Compilation No. 1
+Compilation date: 14/10/2024
+(a) relates to the dwelling; and
+(b) includes a term that:
+(i) results in a significant imbalance in the rights and obligations of the 
+parties to the arrangement; and
+(ii) is not reasonably necessary to protect the legitimate interests of a 
+person other than an investor; and
+(iii) if applied, or relied upon, would cause detriment (whether financial or 
+otherwise) to an investor.
+vacant: a rental dwelling covered by an allocation is vacant if the dwelling is not 
+occupied for any reason, including a reason beyond the control of the approved 
+participant.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 2  Allocations
+Division 1  No new allocations
+Section 6
+6
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Part 2—Allocations
+Division 1—No new allocations
+6  No new allocations
+(1) No further allocations are available under the Scheme on or after 1 April 2020.
+(2) For the purposes of subsection 7(1) of the Act, an allocation:
+(a) made under the previous regulations; and
+(b) in force immediately before 1 April 2020;
+has effect for the purposes of this instrument (and may be dealt with) as if it had 
+been made under this instrument.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Allocations  Part 2
+General conditions  Division 2
+Section 7
+National Rental Affordability Scheme Regulations 2020
+7
+Compilation No. 1
+Compilation date: 14/10/2024
+Division 2—General conditions
+7  General conditions
+This Division sets out the general conditions of an allocation for a rental 
+dwelling.
+8  Initial status of dwelling
+No incentive is available unless:
+(a) one of the following applies:
+(i) the dwelling was not lived in as a residence before the incentive 
+period for the allocation begins;
+(ii) the dwelling was unfit for living in and after being made fit for living 
+in was not lived in as a residence before the incentive period for the 
+allocation begins; and
+(b) before the dwelling is first rented under the Scheme, there was a certificate 
+of occupancy for the dwelling.
+9  Initial vacancy
+No incentive is available for any period before the dwelling is first rented under 
+the Scheme.
+10  Other vacancies
+Vacancies exceeding 26 weeks
+(1) No incentive is available for an NRAS year (the current NRAS year) if the 
+dwelling is vacant for:
+(a) a period of more than 26 weeks during the current NRAS year, whether or 
+not the period is continuous; or
+(b) a continuous period of more than 26 weeks that begins no more than 26 
+weeks before the end of the previous NRAS year.
+(2) However, subsection (1) does not apply in relation to a dwelling to which an 
+allocation has been transferred, during the current NRAS year, under section 20.
+Vacancies of at least 13 weeks but less than 26 weeks
+(3) If:
+(a) the dwelling is vacant for:
+(i) a period of 13 weeks or more during an NRAS year, whether or not 
+the period is continuous; or
+(ii) a continuous period of more than 13 weeks that begins no more than 
+13 weeks before the end of the previous NRAS year; and
+(b) the period is less than those described in subsection (1);
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 2  Allocations
+Division 2  General conditions
+Section 11
+8
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+no incentive is available for so much of the period as exceeds 13 weeks.
+Note:
+Subsection (1) will generally cover a period of vacancy that exceeds 26 weeks.
+Application of this section
+(4) This section applies whether or not a vacancy is beyond the control of the 
+approved participant.
+(5) However, this section does not apply in relation to any vacancy before the 
+dwelling is first rented under the Scheme.
+11  Eligible tenants
+No incentive is available for any period during which the dwelling is rented to a 
+tenant who is not an eligible tenant.
+Note:
+For eligible tenant, see section 41.
+12  Maximum rent
+(1) No incentive is available for any period during which the rent charged for the 
+dwelling is not at least 20% less than the market value rent for the dwelling.
+Note:
+For market value rent, see section 36.
+(2) However, the Secretary may in writing determine that subsection (1) does not 
+apply in relation to a particular charge of rent if the Secretary is satisfied that:
+(a) the charge was not at least 20% less than the market value rent for the 
+dwelling because of inadvertence or error on the part of one or more of the 
+following:
+(i) the approved participant;
+(ii) an investor;
+(iii) an agent of the approved participant or an investor; and
+(b) the tenant concerned has been compensated for being overcharged; and
+(c) reasonable processes are in place to ensure that the tenant is charged rent 
+that is at least 20% less than the market value rent for the dwelling; and
+(d) reasonable steps have been taken to ensure that inadvertence or error of the 
+kind mentioned in paragraph (a) will not happen in relation to future 
+charges of rent for the dwelling.
+Note:
+A decision not to make a determination is reviewable by the Administrative Review 
+Tribunal (see section 71).
+(3) The approved participant may apply for a determination under subsection (2). 
+The application must be in the approved form.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Allocations  Part 2
+General conditions  Division 2
+Section 13
+National Rental Affordability Scheme Regulations 2020
+9
+Compilation No. 1
+Compilation date: 14/10/2024
+13  Documents and information
+Statements of compliance
+(1) No incentive is available for a period unless the approved participant has given 
+the Secretary a statement of compliance for the dwelling for the period.
+Note:
+For statements of compliance, see Part 5.
+Outstanding documents and information
+(2) No incentive is available for any period during which a document or information 
+relating to the allocation, and required for the purposes of the Scheme, is 
+outstanding.
+(3) A document or information is outstanding if:
+(a) the period for giving the document or information has ended; and
+(b) the document or information has not been given to the Secretary in the 
+approved form (if any).
+(4) Subsection (2) has effect subject to any determination in force under:
+(a) subsection (9); or
+(b) subsection 39(3) (extension of time for giving valuations); or
+(c) subsection 42(6) (extension of time for giving statements of compliance).
+False or misleading documents and information
+(5) No incentive is available for any period during which a false or misleading 
+document or information relating to the allocation remains uncorrected if the 
+document or information:
+(a) has been given to the Secretary; and
+(b) is required for the purposes of the Scheme.
+This subsection has effect subject to any determination in force under 
+subsection (9).
+(6) A document or information remains uncorrected if the approved participant has 
+not:
+(a) notified the Secretary in writing that the document or information is false 
+or misleading; or
+(b) corrected the document or information as required by the Secretary.
+Examples of documents and information relating to the allocation
+(7) Documents and information relating to the allocation include the following:
+(a) a statement of compliance;
+(b) a valuation;
+(c) a response to a request from the Secretary for information or documents;
+(d) a tenant demographic assessment or tenant consent form;
+(e) a lease agreement;
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 2  Allocations
+Division 2  General conditions
+Section 14
+10
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+(f) a certificate of occupancy;
+(g) a building plan or floor plan.
+Record keeping
+(8) No incentive is available for any period during which the approved participant 
+fails to comply with section 49 (record keeping). This subsection has effect 
+subject to any determination in force under subsection (9).
+Exception if the approved participant has a reasonable excuse
+(9) The Secretary may, in writing, determine that:
+(a) subsection (2) does not apply to a requirement to give a document or 
+information relating to an allocation; or
+(b) subsection (5) does not apply to a requirement to correct a document or 
+information relating to an allocation; or
+(c) subsection (8) does not apply to a requirement to maintain information, a 
+document or a record in accordance with section 49;
+if the Secretary is satisfied that the approved participant has a reasonable excuse 
+for not complying with the requirement.
+Note:
+A decision not to make a determination is reviewable by the Administrative Review 
+Tribunal (see section 71).
+(10) The approved participant may apply for a determination under subsection (9). 
+The application must be in the approved form.
+14  Compliance with relevant laws
+(1) No incentive is available for any period during which the dwelling fails to 
+comply with the landlord-tenant, building, or health and safety laws of the State 
+or Territory and local government area in which the dwelling is located.
+(2) No incentive is available for any period during which the approved participant, 
+an associated party or the manager of the dwelling fails to comply, in relation to 
+the dwelling, with the landlord-tenant, building, or health and safety laws of the 
+State or Territory and local government area in which the dwelling is located.
+15  Compliance with special conditions
+(1) No incentive is available for any period during which a special condition of the 
+allocation is not met. This subsection has effect subject to any determination in 
+force under subsection (2).
+(2) The Secretary may, in writing, determine that subsection (1) does not apply to 
+meeting a special condition of an allocation if the Secretary is satisfied that the 
+approved participant has a reasonable excuse for not meeting the special 
+condition.
+Note:
+A decision not to make a determination is reviewable by the Administrative Review 
+Tribunal (see section 71).
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Allocations  Part 2
+General conditions  Division 2
+Section 16
+National Rental Affordability Scheme Regulations 2020
+11
+Compilation No. 1
+Compilation date: 14/10/2024
+(3) The approved participant may apply for a determination under subsection (2). 
+The application must be in the approved form.
+16  If allocation is revoked
+If the allocation is revoked during an NRAS year, no incentive is available for 
+the dwelling for:
+(a) so much of the NRAS year as is after the day the revocation takes effect; 
+and
+(b) any subsequent NRAS year.
+Note:
+An allocation can be revoked under section 23 or 32.
+17  Conditions of the reservation of existing provisional allocations
+(1) For a provisional allocation, no incentive is available for any period for which a 
+condition of the reservation of the provisional allocation is not met.
+(2) For the purposes of subsection (1), disregard the condition relating to the agreed 
+rental availability date (within the meaning of the previous regulations).
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 2  Allocations
+Division 3  Varying, removing or imposing special conditions
+Section 18
+12
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Division 3—Varying, removing or imposing special conditions
+18  Varying or removing special conditions etc. by agreement
+(1) The Secretary may, at any time with the agreement of the approved participant:
+(a) vary or remove a special condition of an allocation; or
+(b) vary or remove a condition of the reservation of a provisional allocation for 
+a dwelling that relates to the size of the dwelling.
+(2) The approved participant may apply to the Secretary for a variation or removal 
+under subsection (1). The application must be made in the approved form.
+19  Secretary may vary, remove or impose special conditions
+(1) The Secretary may, at any time, decide to do one or more of the following if the 
+Secretary is satisfied that to do so would assist in meeting the object of the Act:
+(a) vary or remove a special condition of an allocation for a rental dwelling;
+(b) not to vary, or not to remove, a special condition of an allocation for a 
+rental dwelling;
+(c) impose an additional special condition on an allocation for a rental 
+dwelling.
+Note:
+A decision under this subsection is reviewable by the Administrative Review Tribunal 
+(see section 71).
+(2) Before the Secretary varies or imposes a special condition under this section, the 
+Secretary must:
+(a) notify the approved participant of the proposed variation or imposition; and
+(b) invite the approved participant to make a written submission to the 
+Secretary about the proposed variation or imposition no later than 14 days 
+after the day the Secretary gives the notice; and
+(c) take into account any submission so provided.
+(3) If the Secretary gives notice under subsection (2) to an approved participant of a 
+proposed variation or imposition, the Secretary must, after having decided 
+whether or not to make the variation or imposition, give written notice to the 
+approved participant of that decision.
+(4) This section has effect in addition to, and is not limited by, any other provision 
+of this instrument under which a condition may be imposed on an allocation.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Allocations  Part 2
+Transfer or revocation not because of breach  Division 4
+Section 20
+National Rental Affordability Scheme Regulations 2020
+13
+Compilation No. 1
+Compilation date: 14/10/2024
+Division 4—Transfer or revocation not because of breach
+20  Transfer to another rental dwelling
+(1) The Secretary may, on the application of the approved participant, transfer an 
+allocation from one rental dwelling (the original rental dwelling) to another 
+rental dwelling (the new rental dwelling), so long as the new rental dwelling was 
+not lived in as a residence before the incentive period for the allocation began.
+(2) The application must be in the approved form.
+(3) In deciding whether to transfer the allocation, the Secretary must have regard to 
+the following:
+(a) the views of the State or Territory in which the new rental dwelling is 
+located, including in relation to the following:
+(i) whether the new rental dwelling is in an area of need (that is, an area 
+in which more affordable housing is required or would be of particular 
+benefit);
+(ii) the characteristics of the new rental dwelling, including its size and 
+style;
+(b) whether any investors in either rental dwelling have agreed to the transfer;
+(c) whether the approved participant has complied with the approved 
+participant’s obligations to investors.
+(4) If the Secretary transfers the allocation:
+(a) the Secretary must give the approved participant written notice of the 
+transfer; and
+(b) the notice must state the day on which the transfer has effect, which must 
+be the day the approved participant applied for the transfer or a later day; 
+and
+(c) the Secretary may impose additional special conditions on the allocation, 
+so long as the approved participant agrees to the imposition of those 
+conditions before the allocation is transferred.
+21  Transfer to another person on application by approved participant
+(1) The Secretary may, on the application of the approved participant, transfer the 
+allocation for a rental dwelling to another person.
+(2) The application must be in the approved form.
+(3) The Secretary must not transfer the allocation unless the Secretary is satisfied 
+that the other person:
+(a) is not a disqualified person; and
+(b) has the capacity to properly manage the allocation; and
+(c) is a suitable person to hold the allocation; and
+(c) has agreed, in writing, to the transfer.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 2  Allocations
+Division 4  Transfer or revocation not because of breach
+Section 22
+14
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+(4) If the Secretary transfers the allocation:
+(a) the Secretary must give written notice of the transfer to:
+(i) the original approved participant; and
+(ii) the gaining approved participant; and
+(b) the notice must state the day on which the transfer has effect, which must 
+be the day the original approved participant applied for the transfer or a 
+later day; and
+(c) the Secretary may impose additional special conditions on the allocation, 
+so long as the gaining approved participant agrees to the imposition of 
+those conditions before the allocation is transferred; and
+(d) the Secretary may give to the gaining approved participant an incentive that 
+otherwise would have been given to the original approved participant, so 
+long as the Secretary does so:
+(i) at the request of the original approved participant or the gaining 
+approved participant; and
+(ii) with the agreement of the original approved participant and the 
+gaining approved participant.
+Note 1:
+Paragraph (b) means the gaining approved participant, and not the original approved 
+participant, will be entitled to the portion of the incentive that relates to the part of the 
+NRAS year that includes, and is after, the day the transfer takes effect (see 
+subsections 50(1) and 53(2)).
+Note 2:
+Paragraph (d) relates to the portion of the incentive that relates to the part of the NRAS 
+year that is before the day the transfer takes effect.
+(5) If the Secretary acts under paragraph (4)(d) to give an incentive (the agreed 
+incentive) to the gaining approved participant:
+(a) section 63 (about passing on incentives) applies to the gaining approved 
+participant for the agreed incentive and an investor; and
+(b) the original approved participant:
+(i) despite subsection 50(1), is not entitled to receive the agreed 
+incentive; and
+(ii) despite an arrangement to the contrary, is not required to pass on the 
+agreed incentive to the investor.
+22  Transfer of provisional allocation on Secretary’s own initiative
+(1) The Secretary may, on the Secretary’s own initiative, transfer a provisional 
+allocation for a rental dwelling to another person.
+Note:
+A decision under this subsection is reviewable by the Administrative Review Tribunal 
+(see section 71).
+(2) However, the Secretary must not transfer the allocation unless the Secretary:
+(a) is satisfied that the dwelling is not actively rented under the Scheme; and
+(b) has notified the approved participant that holds the allocation of the 
+Secretary’s intention to transfer the allocation under this section; and
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Allocations  Part 2
+Transfer or revocation not because of breach  Division 4
+Section 23
+National Rental Affordability Scheme Regulations 2020
+15
+Compilation No. 1
+Compilation date: 14/10/2024
+(c) has invited the approved participant that holds the allocation to give the 
+Secretary a written submission in relation to the proposed transfer within 
+28 days; and
+(d) has taken into account any such submission given by the approved 
+participant that holds the allocation; and
+(e) is satisfied that the other person:
+(i) is not a disqualified person; and
+(ii) has the capacity to properly manage the allocation; and
+(iii) is a suitable approved participant to hold the allocation; and
+(iv) has agreed, in writing, to the transfer.
+(3) If the Secretary transfers the allocation:
+(a) the Secretary must give written notice of the transfer to:
+(i) the original approved participant; and
+(ii) the gaining approved participant; and
+(b) the notice must state the day on which the transfer has effect, which must 
+be the day the notice is prepared or a later day; and
+(c) the Secretary may impose additional special conditions on the allocation, 
+so long as the gaining approved participant agrees to the imposition of 
+those conditions before the allocation is transferred.
+23  Revocation on application by approved participant etc.
+(1) This section applies if the approved participant, for a rental dwelling covered by 
+an allocation, applies in the approved form for the Secretary to revoke the 
+allocation.
+Revoking the allocation
+(2) The Secretary may revoke the allocation.
+(3) If the Secretary revokes the allocation:
+(a) the Secretary must give the approved participant written notice of the 
+revocation; and
+(b) the notice must state the day on which the revocation has effect, which 
+must be the day the notice is prepared or a later day.
+Note:
+No incentive is available for the part of the NRAS year that is after the day the 
+revocation takes effect (see section 16 and subsection 51(2)).
+Transferring the allocation instead of revoking it
+(4) Instead of revoking the allocation, the Secretary may transfer the allocation to 
+another person.
+(5) However, the Secretary must not transfer the allocation unless the Secretary is 
+satisfied that the other person:
+(a) is not a disqualified person; and
+(b) has the capacity to properly manage the allocation; and
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 2  Allocations
+Division 4  Transfer or revocation not because of breach
+Section 23
+16
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+(c) is a suitable approved participant to hold the allocation; and
+(d) has agreed, in writing, to the transfer.
+(6) If the Secretary transfers the allocation:
+(a) the Secretary must give written notice of the transfer to:
+(i) the original approved participant; and
+(ii) the gaining approved participant; and
+(b) the notice must state the day on which the transfer has effect, which must 
+be the day the notice is prepared or a later day; and
+(c) the Secretary may impose additional special conditions on the allocation, 
+so long as the gaining approved participant agrees to the imposition of 
+those conditions before the allocation is transferred.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Allocations  Part 2
+Transfer or revocation because of breach  Division 5
+Section 24
+National Rental Affordability Scheme Regulations 2020
+17
+Compilation No. 1
+Compilation date: 14/10/2024
+Division 5—Transfer or revocation because of breach
+Subdivision A—Determinations of breaches
+24  Individual breach
+(1) The Secretary may, in writing, determine that the approved participant for a 
+rental dwelling covered by an allocation has committed an individual breach if 
+the Secretary is satisfied that the approved participant:
+(a) is the subject of an insolvency event; or
+(b) has breached the approved participants code of conduct in relation to the 
+dwelling; or
+(c) has committed a compliance breach in relation to the dwelling.
+Note:
+A decision under this subsection is reviewable by the Administrative Review Tribunal 
+(see section 71).
+(2) The approved participant breaches the approved participants code of conduct if 
+the approved participant fails to comply with the code.
+(3) The approved participant commits a compliance breach if:
+(a) the approved participant fails to comply with the Act or this instrument 
+(other than the approved participants code of conduct); or
+(b) the approved participant contravenes a condition of the allocation.
+25  Serious breach
+The Secretary may, in writing, determine that the approved participant for a 
+rental dwelling covered by an allocation has committed a serious breach if the 
+Secretary is satisfied that:
+(a) the approved participant has breached the approved participants code of 
+conduct in relation to 3 or more investors within a period of 6 months, 
+resulting in material financial detriment to those investors; or
+(b) has committed a compliance breach that involves one or more of the 
+following:
+(i) providing false or misleading information to the Secretary or the 
+Department in relation to the Scheme;
+(ii) failing to comply with the law of the Commonwealth or a State or 
+Territory in relation to the dwelling or any other aspect of the 
+Scheme;
+(iii) claiming a tax offset that the approved participant is not entitled to 
+claim;
+(iv) passing on a tax offset to a person who is not entitled to claim the tax 
+offset; or
+(c) all of the following apply:
+(i) the approved participant has breached the approved participants code 
+of conduct or committed a compliance breach;
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 2  Allocations
+Division 5  Transfer or revocation because of breach
+Section 26
+18
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+(ii) the Secretary has, in writing, required the approved participant to take 
+remedial action in relation to the breach;
+(iii) the remedial action is not taken within 28 days after the requirement is 
+given to the approved participant; or
+(d) all of the following apply:
+(i) the approved participant has breached the approved participants code 
+of conduct or committed a compliance breach;
+(ii) the Secretary has given the approved participant a written warning in 
+relation to the breach;
+(iii) within 12 months after being given the warning, the approved 
+participant commits a similar breach (whether in relation to the same 
+or another allocation).
+Note:
+A decision under this section is reviewable by the Administrative Review Tribunal (see 
+section 71).
+26  Disqualifying breach
+The Secretary may, in writing, determine that an approved participant has 
+committed a disqualifying breach if:
+(a) the Secretary is satisfied that the approved participant is the subject of an 
+insolvency event; or
+(b) the Secretary:
+(i) has determined under section 25 that the approved participant has 
+committed a serious breach; and
+(ii) is satisfied that, within 12 months after making that determination, the 
+Secretary will likely be able to determine under section 25 that the 
+approved participant has committed another serious breach; or
+(c) the approved participant, or a director of the approved participant, has been 
+convicted of an offence against a law of the Commonwealth, or of a State 
+or Territory, involving fraud, dishonesty, bribery or corruption.
+Note 1:
+Part VIIC of the Crimes Act 1914 includes provisions that, in certain circumstances, 
+relieve persons from the requirement to disclose spent convictions and require persons 
+aware of such convictions to disregard them.
+Note 2:
+Paragraph (c) covers the approved participant, and the individuals who are currently its 
+directors, regardless of when the conviction happened.
+Note 3:
+A decision under this section is reviewable by the Administrative Review Tribunal (see 
+section 71).
+27  Approved participants code of conduct
+(1) The approved participants code of conduct is set out in subsection (2).
+(2) The approved participant for a rental dwelling:
+(a) must comply with legal obligations relating to investors in a timely 
+manner; and
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Allocations  Part 2
+Transfer or revocation because of breach  Division 5
+Section 27
+National Rental Affordability Scheme Regulations 2020
+19
+Compilation No. 1
+Compilation date: 14/10/2024
+(b) must comply with the Scheme, and with any other law of the 
+Commonwealth or of a State or Territory that relates to dealings with 
+investors and tenants; and
+(c) must lodge an annual Statement of Compliance in relation to the dwelling; 
+and
+(d) must respond to a communication from an investor within 30 days, unless 
+the approved participant has a reasonable excuse; and
+(e) must have an internal or external dispute resolution mechanism for use by 
+investors; and
+(f) must not enforce, seek to enforce, or threaten to enforce, an unfair 
+arrangement; and
+(g) must not make a misrepresentation to an investor; and
+(h) must not engage in misleading or deceptive conduct in relation to an 
+investor; and
+(i) must not threaten or coerce an investor to take an action the investor is not 
+required to take under an arrangement; and
+(j) must not prevent an investor from entering into an arrangement with a 
+suitably qualified and experienced person in relation to the dwelling; and
+(k) must not threaten to take action that would result in an investor not 
+receiving incentive to which the investor is entitled under law; and
+(l) must not require an investor to enter into an arrangement with another 
+person in relation to the dwelling, unless the arrangement relates to a 
+property management service provider and the approved participant is able 
+to ensure that the provider:
+(i) complies with the arrangement between the provider and the investor; 
+and
+(ii) complies with legal obligations relating to the investor in a timely 
+manner; and
+(iii) complies with the laws of the Commonwealth and the States and 
+Territories in relation to dealings with investors and tenants; and
+(iv) does not enforce, seek to enforce, or threaten to enforce, an unfair 
+arrangement with an investor; and
+(v) does not make a misrepresentation to an investor; and
+(vi) does not engage in misleading or deceptive conduct in relation to an 
+investor; and
+(vii) does not threaten or coerce an investor to take action the investor is 
+not required to take under an arrangement; and
+(m) if the approved participant requires the investor to enter into an 
+arrangement as mentioned in paragraph (l)—must ensure that the property 
+management service provider acts in accordance with subparagraphs (l)(i) 
+to (vii).
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 2  Allocations
+Division 5  Transfer or revocation because of breach
+Section 28
+20
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Subdivision B—Procedures for making determinations of breaches
+28  Secretary may determine breach on own initiative or on request by an 
+investor
+The Secretary may determine under Subdivision A that the approved participant 
+for a rental dwelling covered by an allocation has committed an individual 
+breach, a serious breach or a disqualifying breach:
+(a) on the Secretary’s own initiative; or
+(b) on a transfer request (by an investor for the dwelling) for the allocation to 
+be transferred because of that breach.
+29  Transfer requests
+Investor may request allocations to be transferred because of breach
+(1) An investor for a dwelling covered by an allocation may make a written request 
+(a transfer request) for the allocation to be transferred because the approved 
+participant has committed, or allegedly committed, any of the following:
+(a) an individual breach;
+(b) a serious breach;
+(c) a disqualifying breach.
+The transfer request may be made before or after any determination of the breach 
+is made under Subdivision A.
+Requirements for certain transfer requests
+(2) A transfer request:
+(a) must:
+(i) be in a form approved by the Secretary; and
+(ii) include details of the breach alleged by the investor; but
+(b) does not need to specify whether the alleged breach is an individual breach, 
+a serious breach or a disqualifying breach.
+(3) However, an investor must not make a transfer request unless:
+(a) the investor has given the approved participant written notice of the alleged 
+breach; and
+(b) 90 days have passed since the notice was given; and
+(c) the investor is satisfied that the approved participant has not taken 
+appropriate action in relation to the alleged breach.
+(4) Paragraph (2)(a) and subsection (3) do not apply if:
+(a) the approved participant is allegedly the subject of an insolvency event; or
+(b) a determination of the breach has already been made under Subdivision A.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Allocations  Part 2
+Transfer or revocation because of breach  Division 5
+Section 30
+National Rental Affordability Scheme Regulations 2020
+21
+Compilation No. 1
+Compilation date: 14/10/2024
+Withdrawing transfer requests
+(5) An investor may withdraw a transfer request by giving written notice to the 
+Secretary.
+Note:
+For this to be effective, this notice will need to be given before the Secretary transfers 
+the allocation under section 32 in response to the transfer request.
+30  Requirements for determinations of breach
+Secretary must give notice of proposed determination
+(1) Before determining under Subdivision A that an approved participant committed 
+an individual breach, a serious breach or a disqualifying breach, the Secretary 
+must give written notice of the proposed determination to:
+(a) the approved participant; and
+(b) if the Secretary proposes to make the determination because an investor 
+made a transfer request—the investor.
+(2) The notice must:
+(a) state that the Secretary proposes to determine that the approved participant 
+has committed the breach; and
+(b) invite the approved participant or investor, as the case requires, to make a 
+written submission to the Secretary about the proposed determination no 
+later than 14 days after the day the Secretary gives the notice.
+Secretary must have regard to certain matters
+(3) In deciding whether to make the determination, the Secretary must have regard 
+to:
+(a) any submission made in accordance with paragraph (2)(b); and
+(b) the interests of investors, including the need to ensure that investors 
+maintain confidence in the Scheme.
+(4) Subsection (3) does not limit the matters to which the Secretary may have regard 
+in deciding whether to make the determination.
+Secretary must give notice of decision
+(5) If the Secretary gives notice under subsection (1) to an approved participant or 
+investor of a proposed determination, the Secretary must, after having decided 
+whether or not to make the determination, give written notice to the approved 
+participant or investor of that decision.
+31  Publishing notice of certain breaches
+If the Secretary determines under Subdivision A that the approved participant has 
+committed a serious breach or a disqualifying breach, the Secretary may publish 
+notice of the breach on the Department’s website.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 2  Allocations
+Division 5  Transfer or revocation because of breach
+Section 32
+22
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Note:
+An investor for a dwelling for which an allocation is held by the approved participant 
+may request the Secretary to transfer the allocation (see section 29).
+Subdivision C—Transfer or revocation because of breach
+32  Transfer or revocation because of breach
+(1) This section applies if:
+(a) the Secretary has determined under Subdivision A that the approved 
+participant for a rental dwelling covered by an allocation has committed an 
+individual breach, a serious breach or a disqualifying breach (whether the 
+breach related to the dwelling or not); and
+(b) either:
+(i) the Administrative Review Tribunal has confirmed the Secretary’s 
+decision to make the determination; or
+(ii) the period for making an application to the Administrative Review 
+Tribunal for review of the Secretary’s decision to make the 
+determination has expired.
+Individual breach—investor requested transfer
+(2) The Secretary must transfer the allocation covering the dwelling to another 
+person if:
+(a) the determination of the breach was that the approved participant 
+committed an individual breach; and
+(b) the individual breach:
+(i) related to the dwelling; or
+(ii) arose because the Secretary was satisfied that the approved participant 
+was the subject of an insolvency event; and
+(c) an investor has requested the transfer, and that request has not been 
+withdrawn.
+Individual breach—determined on the Secretary’s own initiative etc.
+(3) The Secretary may transfer the allocation covering the dwelling to another 
+person if:
+(a) the determination of the breach was that the approved participant 
+committed an individual breach; and
+(b) the individual breach:
+(i) related to the dwelling; or
+(ii) arose because the Secretary was satisfied that the approved participant 
+was the subject of an insolvency event; and
+(c) the determination was made on the Secretary’s own initiative (see 
+paragraph 28(a)), or on a transfer request that was withdrawn.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Allocations  Part 2
+Transfer or revocation because of breach  Division 5
+Section 32
+National Rental Affordability Scheme Regulations 2020
+23
+Compilation No. 1
+Compilation date: 14/10/2024
+Serious breach—investor requested transfer
+(4) The Secretary must transfer the allocation covering the dwelling to another 
+person if:
+(a) the determination of the breach was that the approved participant 
+committed a serious breach (whether the breach related to the dwelling or 
+not); and
+(b) an investor has requested the transfer, and that request has not been 
+withdrawn.
+Serious breach—determined on the Secretary’s own initiative etc.
+(5) The Secretary may transfer the allocation covering the dwelling to another 
+person, or revoke the allocation, if:
+(a) the determination of the breach was that the approved participant 
+committed a serious breach (whether the breach related to the dwelling or 
+not); and
+(b) the determination was made on the Secretary’s own initiative (see 
+paragraph 28(a)), or on a transfer request that was withdrawn.
+Disqualifying breach
+(6) If this section starts to apply (see subsection (1)) to the approved participant in 
+relation to a determination of a disqualifying breach:
+(a) the Secretary must, during the next 6 months, endeavour to transfer to other 
+persons all of the approved participant’s allocations for rental dwellings; 
+and
+(b) at the end of those 6 months, any of those allocations that were not so 
+transferred is revoked by force of this subsection.
+Requirements for transfer
+(7) The Secretary must not transfer an allocation to a person under this section 
+unless the Secretary is satisfied that the person:
+(a) is not a disqualified person; and
+(b) has the capacity to properly manage the allocation; and
+(c) is a suitable person to hold the allocation; and
+(d) has agreed, in writing, to the transfer.
+Notice of transfer and imposition of conditions
+(8) If the Secretary transfers an allocation under this section:
+(a) the Secretary must give written notice of the transfer to:
+(i) the original approved participant; and
+(ii) the gaining approved participant; and
+(iii) each investor for a rental dwelling covered by the allocation about 
+whom the Secretary has been notified under section 48; and
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 2  Allocations
+Division 5  Transfer or revocation because of breach
+Section 32
+24
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+(b) the notice must state the day on which the transfer has effect, which must 
+be the earliest of the following days or a later day:
+(i) the day the notice is prepared;
+(ii) if an investor has requested the transfer—the day the request was 
+made;
+(iii) if an application for an identical transfer was made under section 21 
+before the breach referred to in paragraph (1)(a) of this section 
+happens—the day that application was made; and
+(c) the Secretary may impose additional special conditions on the allocation, 
+so long as the gaining approved participant agrees to the imposition of 
+those conditions before the allocation is transferred.
+Note:
+Paragraph (b) means the gaining approved participant, and not the original approved 
+participant, will be entitled to the portion of the incentive that relates to the part of the 
+NRAS year that includes, and is after, the day the transfer takes effect (see 
+subsections 50(1) and 53(2)).
+Notice of revocation
+(9) If an allocation is revoked under or by this section:
+(a) the Secretary must give the approved participant written notice of the 
+revocation; and
+(b) the notice must state the day on which the revocation has effect, which 
+must be the day the notice is prepared or a later day.
+Note:
+No incentive is available for the part of the NRAS year that is after the day the 
+revocation takes effect (see section 16 and subsection 51(2)).
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Allocations  Part 2
+General rules for transfers  Division 6
+Section 33
+National Rental Affordability Scheme Regulations 2020
+25
+Compilation No. 1
+Compilation date: 14/10/2024
+Division 6—General rules for transfers
+33  Legal arrangements do not prevent transfers
+An arrangement has no effect to the extent that the arrangement prohibits or 
+prevents an investor from, or penalises an investor for:
+(a) making a transfer request; or
+(b) assisting with, or supporting in any way, a transfer request.
+34  Obligations of approved participants when allocations are transferred
+(1) This section applies if an allocation is transferred from one approved participant 
+to another person.
+(2) The original approved participant must give to the gaining approved participant 
+any information that is:
+(a) requested by the Secretary; and
+(b) relevant to the administration of the Scheme.
+(3) The information must be given within 21 days after the request is made.
+(4) Within 49 days after the request is made, the original approved participant must, 
+in writing, advise the Secretary whether the original approved participant has 
+complied with subsections (2) and (3).
+35  Statement of compliance if allocation is transferred
+If the Secretary transfers an allocation for a rental dwelling from an approved 
+participant to another person during an NRAS year, the Secretary may require 
+the other person to lodge a statement of compliance for the dwelling that includes 
+statements and details for either or both of the following:
+(a) the NRAS year;
+(b) the previous NRAS year.
+Note:
+For access to information held by an original approved participant, see section 34.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 3  Market value rent
+  
+Section 36
+26
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Part 3—Market value rent
+  
+36  Meaning of market value rent
+(1) The market value rent for a rental dwelling covered by an allocation is:
+(a) for:
+(i) the initial rental period for the dwelling; or
+(ii) the fifth or eighth incentive year for the allocation (so long as that 
+incentive year is after that initial rental period);
+the market value rent assessed by a valuer under section 37; or
+(b) for any other incentive year (the indexed year) for the allocation that is 
+after that initial rental period—the market value rent for the dwelling for:
+(i) the previous incentive year for the allocation; or
+(ii) if that initial rental period ends just before the indexed year—that 
+initial rental period;
+indexed in accordance with the NRAS market index for the dwelling for 
+the NRAS year in which the indexed year begins, and rounded to the next 
+whole dollar.
+(2) An incentive year, for an allocation, is a 12-month period that:
+(a) is in the incentive period for the allocation; and
+(b) begins on the first day of that incentive period, or on a 12-month 
+anniversary of that first day.
+(3) The initial rental period, for a rental dwelling covered by an allocation, is the 
+period that:
+(a) begins on the day the dwelling is first available for rent under the Scheme; 
+and
+(b) ends at the end of the incentive year for the allocation that includes that 
+day.
+37  Valuations
+(1) The market value rent for a period or incentive year referred to in 
+paragraph 36(1)(a), is the market rent for the dwelling as assessed by a valuer for 
+a day during the 13 weeks immediately before the beginning of the period or 
+year.
+(2) The valuation must be in the approved form and prepared by a valuer who:
+(a) if the State or Territory in which the dwelling is located requires valuers to 
+be registered—is registered in that State or Territory; and
+(b) is a member, and at least an Associate Member, of the Australian Property 
+Institute or the Australian Valuers Institute; and
+(c) has no commercial relationship with, or interest in, a person who is:
+(i) an investor in relation to the dwelling; or
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Market value rent  Part 3
+  
+Section 38
+National Rental Affordability Scheme Regulations 2020
+27
+Compilation No. 1
+Compilation date: 14/10/2024
+(ii) the manager of the dwelling; or
+(iii) a recipient of a Commonwealth, State or Territory government benefit 
+in relation to the dwelling; and
+(d) has no interest in the approved participant in relation to the dwelling; and
+(e) if the valuer has a commercial relationship with the approved participant in 
+relation to the dwelling—is dealing with the approved participant at arm’s 
+length.
+(3) The valuer:
+(a) must assess the market rent of the dwelling on the basis of the condition in 
+which the dwelling is to be rented, including:
+(i) whether the dwelling will be rented furnished or unfurnished; and
+(ii) whether any car parking spaces are included with the dwelling; but
+(b) must not take into account:
+(i) any optional car spaces; or
+(ii) any amenities, utilities, inclusions, allowances or services (however 
+described) provided in connection with the dwelling.
+(4) In preparing the valuation for the initial rental period, the valuer must attend and 
+inspect the dwelling.
+Note:
+Later valuations may be “desktop” valuations.
+Overlapping valuation periods
+(5) If the fifth or eighth incentive year for the allocation begins within 13 weeks 
+after the beginning of the initial rental period for the dwelling, the market value 
+rent for the initial rental period is also the market value rent for that fifth or 
+eighth incentive year.
+38  Giving valuations
+(1) A valuation of market value rent for an initial rental period or the fifth or eighth 
+year of an incentive period must be given to the Secretary before the beginning 
+of that period or year.
+(2) The Secretary may require the approved participant:
+(a) to give the Secretary further evidence in relation to matters in the 
+valuation; and
+(b) to do so within the period and in the manner specified by the Secretary.
+(3) An approved participant must not submit further valuations for a period or year 
+for a dwelling if the Secretary has:
+(a) accepted a valuation for the period or year for the dwelling; or
+(b) accepted a valuation for the period or year for the dwelling subject to an 
+error being corrected.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 3  Market value rent
+  
+Section 39
+28
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+39  Secretary may extend time for giving valuations
+(1) The Secretary may, on the application of the approved participant, agree to a 
+valuation being given to the Secretary after the time specified in subsection 38(1) 
+if:
+(a) the Secretary is satisfied that the approved participant has a reasonable 
+excuse for not being able to give the valuation to the Secretary before that 
+time; or
+(b) both of the following apply:
+(i) the allocation concerned has been transferred to another dwelling or to 
+a gaining approved participant;
+(ii) the Secretary is satisfied that, because of the transfer, it is reasonable 
+to extend the period for giving the valuation.
+(2) The application must be in the approved form.
+(3) If the Secretary agrees to the valuation being given to the Secretary after the time 
+specified in subsection 38(1), the Secretary may, by writing given to the 
+approved participant, determine that subsection 13(2) (outstanding documents or 
+information) does not apply in relation to the valuation for the period specified in 
+the determination.
+(4) However, the Secretary must not make a determination under subsection 12(2) in 
+relation to a particular charge of rent for the dwelling if the charge was more than 
+20% of the market value rent for the dwelling because a valuation was not 
+available by a particular time.
+40  Valuations—other matters
+Secretary may require valuation from a different valuer
+(1) If the Secretary reasonably believes that a valuation (the first valuation) is not 
+accurate, the Secretary may require the approved participant:
+(a) to give the Secretary a valuation prepared by a different valuer in 
+replacement of the first valuation; and
+(b) to do so within the period specified by the Secretary.
+(2) Subsection (1) applies whether or not the Secretary accepted the first valuation.
+Valuations to be obtained at approved participant’s expense
+(3) A valuation under this Part of a rental dwelling covered by an allocation is to be 
+obtained at the approved participant’s expense.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Eligible tenants  Part 4
+  
+Section 41
+National Rental Affordability Scheme Regulations 2020
+29
+Compilation No. 1
+Compilation date: 14/10/2024
+Part 4—Eligible tenants
+  
+41  Eligible tenants
+(1) In this instrument:
+(a) a reference to the tenants of a rental dwelling is a reference to the 
+particular person or persons who are tenants of the dwelling; and
+(b) the day on which those tenants become tenants of the dwelling is their start 
+day; and
+(c) the 12-month period beginning on their start day or an anniversary of their 
+start day is an eligibility year for those tenants; and
+(d) adult means:
+(i) a person 18 years of age or older; or
+(ii) a person under 18 years of age living independently outside of the 
+family home and who is not financially dependent on an eligible 
+tenant; and
+(e) child means a person under 18 years of age who is financially dependent 
+on an eligible tenant.
+(2) The tenants of a rental dwelling covered by an allocation become eligible tenants 
+on their start day if their combined gross income for the 12 months ending on the 
+day before the start day does not exceed the income limit for their household as 
+set out in this section.
+Note:
+For working out the income limit, see subsections (5) to (8).
+(3) Eligible tenants cease to be eligible tenants if:
+(a) they cease to be tenants of a rental dwelling covered by an allocation; or
+(b) their combined gross income exceeds the income limit for their household 
+by 25% or more in 2 consecutive eligibility years; or
+(c) a person (other than an eligible tenant) joins their household and the 
+person’s income for the previous 12 months exceeds the income limit for a 
+first adult for the year in which the person joins the household.
+Note:
+See subparagraph (5)(a)(i) for the income limit for a first adult for a year beginning in 
+the NRAS year beginning on 1 May 2019.
+(4) For the purposes of paragraph (3)(a), a person does not cease to be an eligible 
+tenant only because of a move if the move:
+(a) is from one rental dwelling covered by an allocation to another rental 
+dwelling covered by an allocation; and
+(b) happens because of unexpected or exceptional circumstances.
+(5) The income limit for a household for a 12-month period beginning in the NRAS 
+year beginning on 1 May 2019 is:
+(a) if the household does not include a sole parent:
+(i) $51,398 for the first adult; and
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 4  Eligible tenants
+  
+Section 41
+30
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+(ii) $19,663 for each additional adult; and
+(iii) $17,050 for each child; and
+(b) if the household includes a sole parent:
+(i) $54,060 for the first sole parent; and
+(ii) $19,663 for each additional adult; and
+(iii) $17,050 for each child.
+(6) For the purposes of this section a rental dwelling may only include one 
+household.
+(7) The income limits mentioned in subsection (5), for a household for each 
+subsequent NRAS year, are the amounts for the previous NRAS year indexed in 
+accordance with the NRAS tenant income index for that subsequent NRAS year, 
+rounded to the next whole dollar.
+(8) The Secretary may, by legislative instrument, change from time to time, any or 
+all of the income limits mentioned in subsection (5).
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Demonstrating compliance  Part 5
+  
+Section 42
+National Rental Affordability Scheme Regulations 2020
+31
+Compilation No. 1
+Compilation date: 14/10/2024
+Part 5—Demonstrating compliance
+  
+42  Statement of compliance required for each NRAS year
+(1) The approved participant for a rental dwelling covered by an allocation must 
+give the Secretary a statement of compliance for the dwelling for each NRAS 
+year.
+(2) A statement of compliance must:
+(a) be in the approved form; and
+(b) include the information required by the form for the purposes of the 
+Scheme.
+Note:
+Sections 137.1 and 137.2 of the Criminal Code create offences for providing false or 
+misleading information or documents.
+(3) The statement of compliance must be given to the Secretary before:
+(a) 30 June after the end of the NRAS year; or
+(b) a later date approved by the Secretary, which must not be later than 
+30 September after the end of the NRAS year.
+Note:
+No incentive is available for any period during which the approved participant fails to 
+comply with this subsection (see subsections 13(2) to (4)).
+(4) The Secretary may approve a later date:
+(a) on the Secretary’s own initiative, if the Secretary considers it appropriate; 
+or
+(b) on the application of the approved participant, if:
+(i) the application is in the approved form; and
+(ii) the application is made before 30 September after the end of the 
+NRAS year; and
+(ii) the Secretary is satisfied that the approved participant has a 
+reasonable excuse for not being able to lodge the statement by 
+30 June.
+(5) The Secretary must give the approved participant notice in writing of a later date 
+approved by the Secretary.
+(6) If the Secretary approves a later date, the Secretary may, by writing given to the 
+approved participant, determine that subsection 13(2) (outstanding documents or 
+information) does not apply in relation to the statement of compliance for the 
+period specified in the determination.
+Transferred allocations
+(7) If, because an allocation for a rental dwelling is transferred, there is more than 
+one approved participant for the dwelling for an NRAS year, each approved 
+participant must give the Secretary a statement of compliance for the period for 
+which the approved participant held the allocation.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 5  Demonstrating compliance
+  
+Section 43
+32
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+(8) Subsection (7) has effect subject to section 35 (about transferred allocations).
+43  Contents of statement of compliance
+(1) The statement of compliance must include the following for the NRAS year:
+(a) a statement that at all times during the year, any tenant or tenants were 
+eligible tenants, or details of any way in which this requirement was not 
+met;
+(b) details of the rent charged during the year;
+(c) a statement that each charge of rent for the rental dwelling during the year 
+was at least 20% less than the market value rent for the dwelling, or details 
+of any way in which this requirement was not met;
+(d) details of any period during the year in which the dwelling was vacant;
+(e) whether or not there is an investor for the dwelling and, if there is an 
+investor, the contact and other details of the investor required by the 
+approved form;
+(f) a statement that at all times during the year the approved participant 
+complied with landlord-tenant, building, and health and safety laws of the 
+State or Territory and local government area in which the dwelling is 
+located, or details of any way in which such laws were not complied with;
+(g) a statement that at all times during the year the approved participant 
+complied with consumer protection laws in relation to the dwelling, or 
+details of any way in which such laws were not complied with;
+(h) a statement that at all times during the year the approved participant 
+complied with the approved participants code of conduct, or details of any 
+way in which this requirement was not met;
+(i) a statement that all special conditions of the allocation for the dwelling 
+have been complied with during the year, or details of any way in which 
+this requirement was not met;
+(j) a statement that none of the circumstances covered by the general 
+conditions of the allocation happened during the year, or details of any 
+happenings of those circumstances.
+(2) A statement of compliance may require any other information relevant to the 
+operation of the Scheme.
+44  Tenant consent form
+(1) The approved participant for a rental dwelling covered by an allocation must 
+give the Secretary a tenant consent form for each tenant of the dwelling.
+(2) The form must:
+(a) be in the approved form; and
+(b) include the information about the tenant required by the form for the 
+purposes of the Scheme; and
+(c) be signed by the tenant.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Demonstrating compliance  Part 5
+  
+Section 45
+National Rental Affordability Scheme Regulations 2020
+33
+Compilation No. 1
+Compilation date: 14/10/2024
+(3) The form must be given to the Secretary before the next statement of compliance 
+for the dwelling is given to the Secretary.
+Note:
+No incentive is available for any period during which the approved participant fails to 
+comply with this subsection (see subsections 13(2) to (4)).
+45  Lease agreement
+(1) The approved participant for a rental dwelling covered by an allocation must 
+give the Secretary a copy of each current lease agreement for the dwelling.
+(2) The copy must be given to the Secretary before the next statement of compliance 
+for the dwelling is given to the Secretary.
+Note:
+No incentive is available for any period during which the approved participant fails to 
+comply with this subsection (see subsections 13(2) to (4)).
+46  Secretary may request other documents and information
+(1) An approved participant must give the Secretary any other information or 
+document requested by the Secretary for the purposes of the operation of the 
+Scheme.
+(2) The information or document must be given to the Secretary within the period 
+specified by the Secretary, which must be a reasonable period.
+Note:
+No incentive is available for any period during which the approved participant fails to 
+comply with this subsection (see subsections 13(2) to (4)).
+47  Changes to approved participant’s details
+(1) This section applies if an approved participant has notified the Secretary of any 
+of the following details:
+(a) contact details of the approved participant, including the address for 
+service;
+(b) the address of the approved participant’s principal place of business, if 
+different from the address for service;
+(c) details of any officers of the approved participant;
+(d) details of any person authorised to act on the approved participant’s behalf.
+Note:
+The details may have been notified under subsection 79(1) in April 2020.
+(2) If the details notified to the Secretary change, the approved participant must, 
+within 28 days, notify the Secretary of the change.
+Note 1:
+No incentive is available for any period during which the approved participant fails to 
+comply with this subsection (see subsections 13(2) to (4)).
+Note 2:
+There is a similar obligation if the approved participant ceases to be an endorsed 
+charitable institution (see subsection 55(5)).
+(3) For the purposes of this instrument, the Secretary is taken to have given the 
+approved participant a notice or other document if the Secretary gives the notice 
+or document using the most recent details notified as described in subsections (1) 
+and (2).
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 5  Demonstrating compliance
+  
+Section 48
+34
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Note 1:
+The Secretary can rely on these contact details even where they have changed if the 
+approved participant is yet to notify the Secretary of the change.
+Note 2:
+A notice could be given using an email address notified as described in subsections (1) 
+and (2).
+48  Changes relating to investors
+(1) The approved participant for a rental dwelling covered by an allocation must, 
+within 28 days after becoming aware of a person becoming an investor for the 
+dwelling, notify the Secretary of the following details:
+(a) the person’s name and contact details;
+(b) the day on which the person became an investor.
+Note:
+There is a similar transitional requirement in subsection 79(1).
+(2) The approved participant must, within 28 days after becoming aware of any 
+change to details notified under subsection (1), notify the Secretary of the 
+change.
+Note:
+No incentive is available for any period during which the approved participant fails to 
+comply with this section (see subsections 13(2) to (4)).
+49  Record keeping
+(1) An approved participant must maintain the following for 5 years:
+(a) information or documents required by the Secretary under section 46;
+(b) the approved participant’s records in relation to all of the following that 
+relate to the approved participant:
+(i) an application under the Scheme;
+(ii) an allocation;
+(iii) an incentive given (to the approved participant);
+(iv) an incentive, or State or Territory contribution, required to be passed 
+on under Part 7;
+(v) a summary required to be given under section 67;
+(vi) a notice of end of allocation required to be given under section 70.
+Note:
+No incentive is available for any period during which the approved participant fails to 
+comply with this section (see subsections 13(8) and (9)).
+(2) Records relating to a requirement in subparagraph (1)(b)(iv), (v) or (vi) must be 
+sufficient to show how and when the approved participant satisfied the 
+requirement.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Incentives  Part 6
+Entitlement to incentives  Division 1
+Section 50
+National Rental Affordability Scheme Regulations 2020
+35
+Compilation No. 1
+Compilation date: 14/10/2024
+Part 6—Incentives
+Division 1—Entitlement to incentives
+50  Entitlement to incentives
+(1) The approved participant for a rental dwelling covered by an allocation is 
+entitled to receive an incentive for the dwelling for each NRAS year, or part of 
+an NRAS year, within the incentive period for the allocation, unless a 
+determination under subsection (2) or (4) is in force for the allocation.
+Note 1:
+While a determination under subsection (2) or (4) is in force, the entitlement is 
+effectively paused for the entire part of the NRAS year for which the allocation is held 
+by the approved participant.
+Note 2:
+The approved participant’s entitlement will cease completely:
+(a)
+in the event of a redirection arising from a breach (see Division 3); or
+(b)
+if requested as part of an agreed transfer (see paragraph 21(4)(d)).
+No entitlement if a breach is reasonably believed to have been committed
+(2) The Secretary may, in writing, determine that subsection (1) does not apply in 
+relation to an allocation if the Secretary reasonably believes that the approved 
+participant has committed an individual breach, a serious breach or a 
+disqualifying breach.
+(3) A determination under subsection (2) ceases to be in force if:
+(a) during the next 180 days, the Secretary fails to give notice under 
+subsection 30(1) of a proposed determination (a breach determination) 
+under section 24, 25 or 26 relating to the breach; or
+(b) such a notice is so given, but the Secretary fails to make the breach 
+determination during the next 120 days; or
+(c) the breach determination is so made, but the breach determination ceases to 
+be in force.
+Note:
+For paragraph (c), the breach determination could cease to be in force following review 
+by the Administrative Review Tribunal (see paragraph 71(e)).
+No entitlement if incentive may be redirected
+(4) The Secretary may, in writing, determine that subsection (1) does not apply in 
+relation to an allocation if the Secretary has given notice under section 61 of a 
+proposed redirection of an incentive for a rental dwelling covered by the 
+allocation.
+(5) A determination under subsection (4) ceases to be in force if:
+(a) the Secretary fails to redirect the incentive during the next 120 days; or
+(b) if the Secretary so redirects the incentive, the redirection ceases to have 
+effect.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 6  Incentives
+Division 1  Entitlement to incentives
+Section 51
+36
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Note:
+For paragraph (b), the redirection could cease to have effect if the Secretary’s decision 
+to redirect the incentives is set aside by the Administrative Review Tribunal (see 
+paragraph 71(h)).
+51  Amount of incentive and reductions by Secretary
+(1) The amount of an incentive for an NRAS year, for a rental dwelling covered by 
+an allocation, is the full amount of incentive for the dwelling for the year reduced 
+(as necessary) by the Secretary in accordance with this section.
+Note:
+This amount of incentive may sometimes be apportioned between 2 or more approved 
+participants (see section 53).
+Reducing incentives
+(2) The Secretary must reduce the full amount of the incentive if the Secretary is 
+satisfied that, for one or more days during the NRAS year:
+(a) the incentive was not available; or
+(b) circumstances specified in a condition of the allocation have not happened.
+Note:
+Division 2 of Part 2 sets out some of the circumstances when the incentive will not be 
+available.
+(3) The reduced amount of the incentive must be worked out by apportioning the full 
+amount by reference to the number of days in the NRAS year not covered by 
+subsection (2).
+(4) To avoid doubt, one or more reductions made by the Secretary under this section 
+may reduce the amount of the incentive to nil.
+Internal review
+(5) If, under this section, the Secretary makes a decision to reduce the amount of an 
+incentive, the Secretary must give the approved participant for the allocation 
+concerned written notice of the decision.
+(6) The following may apply to the Secretary for review of the decision:
+(a) the approved participant to whom the notice was given;
+(b) if the allocation is transferred to another person within the period that 
+applies under paragraph (7)(b)—the gaining approved participant.
+(7) The application must be made:
+(a) in the form approved by the Secretary; and
+(b) within 60 days after notice of the decision is given under subsection (5), or 
+within such further period as the Secretary allows.
+(8) If an application for review of the decision is made in accordance with this 
+section, the Secretary must:
+(a) review the decision; and
+(b) confirm, revoke or vary the decision; and
+(c) give the applicant notice in writing of the confirmation, revocation or 
+variation (the review notice).
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Incentives  Part 6
+Entitlement to incentives  Division 1
+Section 52
+National Rental Affordability Scheme Regulations 2020
+37
+Compilation No. 1
+Compilation date: 14/10/2024
+Note:
+A decision under this subsection is reviewable by the Administrative Review Tribunal 
+(see section 71).
+(9) If the Secretary has not given the applicant a review notice within 2 months after 
+the applicant applied for the review, the Secretary is taken to have given the 
+applicant a review notice confirming the decision.
+52  Full amount of incentive
+The full amount of an incentive for an NRAS year for a rental dwelling is:
+(a) for the year beginning on 1 May 2019—$8,436.07; and
+(b) for each later NRAS year, the amount for the previous NRAS year indexed 
+in accordance with the NRAS incentive index for that later NRAS year.
+53  Incentive amounts when approved participant changes
+(1) This section applies if:
+(a) an allocation for a rental dwelling has been held by different approved 
+participants during a particular period; and
+(b) each of those approved participants is entitled to receive an incentive for 
+the rental dwelling for a part of the period.
+Note 1:
+For when an entitlement arises, see subsection 50(1).
+Note 2:
+This section will not apply to an approved participant if the portion of the incentive to 
+which the approved participant was initially entitled is moved:
+(a)
+because of a redirection arising from a breach (see Division 3); or
+(b)
+on request as part of an agreed transfer (see paragraph 21(4)(d)).
+(2) The amount of each approved participant’s entitlement is worked out by:
+(a) identifying under subsection 51(1) the full amount of incentive for the 
+dwelling for the period; and
+(b) apportioning that full amount by reference to the number of days in the 
+period during which the approved participant held the allocation (and was 
+entitled to incentive); and
+(c) applying subsections 51(2) to (9) to that apportioned amount.
+Note:
+Paragraph (c) may result in the reduction of the apportioned amount if, on some days 
+while the approved participant held the allocation, the incentive was not available or 
+circumstances in a condition of the allocation did not happen.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 6  Incentives
+Division 2  Form and giving of incentives
+Section 54
+38
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Division 2—Form and giving of incentives
+54  Form of incentive
+(1) The Secretary must give an approved participant an incentive to which the 
+approved participant is entitled for an NRAS year in accordance with the 
+following table.
+Form of incentive
+Item
+If …
+the Secretary must give the 
+approved participant the 
+incentive …
+1
+the approved participant was not an endorsed charitable 
+institution for the whole of the NRAS year
+as a tax offset certificate.
+2
+(a) the approved participant was an endorsed charitable 
+institution during the whole of the NRAS year; and
+(b) the approved participant has made an election under 
+section 55 for the year
+as a tax offset certificate.
+3
+(a) the approved participant was an endorsed charitable 
+institution during the whole of the NRAS year; and
+(b) the approved participant has not made an election under 
+section 55 for the year
+as a payment.
+(2) A tax offset certificate must contain the following:
+(a) an identifying number;
+(b) if applicable—identification as “an amended, replacement certificate”;
+(c) the name and any applicable Australian Business Number or Australian 
+Company Number of the approved participant;
+(d) the date of issue of the certificate (being the date the Secretary approves the 
+certificate showing the amount of tax offset);
+(e) the NRAS year to which the certificate relates;
+(f) the total National Rental Affordability Scheme Tax Offset covered by the 
+certificate;
+(g) a listing of each rental dwelling covered by the certificate and the incentive 
+amount determined for each of those dwellings for the NRAS year;
+(h) any offset, variation or apportionment made to the National Rental 
+Affordability Scheme Tax Offset and the NRAS year to which it relates.
+Note 1:
+Sections 51, 53, 55 and 56 also contain information about apportionment, variation and 
+offset of incentive.
+Note 2:
+One certificate may relate to multiple rental dwellings and those dwellings may be 
+associated with different joint ventures to which the approved participant is a party.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Incentives  Part 6
+Form and giving of incentives  Division 2
+Section 55
+National Rental Affordability Scheme Regulations 2020
+39
+Compilation No. 1
+Compilation date: 14/10/2024
+55  Elections by endorsed charitable institutions
+(1) This section applies if an approved participant is an endorsed charitable 
+institution.
+(2) The approved participant may elect to receive the incentive to which the 
+approved participant is entitled for NRAS years as a tax offset certificate rather 
+than as a payment.
+(3) Unless it is withdrawn, an election applies for the purposes of all following 
+NRAS years.
+(4) However, an election has no effect in relation to a particular NRAS year unless it 
+is made before the end of 31 December in that NRAS year.
+Notice if ceases to be an endorsed charitable institution
+(5) If the approved participant ceases to be an endorsed charitable institution, the 
+approved participant must, within 28 days, notify the Secretary of the cessation.
+56  Variation of incentive amount
+(1) The Secretary may determine that the amount of an incentive for an NRAS year 
+is incorrect if the Secretary is satisfied that:
+(a) an error has been made in calculating or providing the amount; or
+(b) the amount was calculated based on information that was false or 
+misleading.
+Note:
+A decision under this subsection is reviewable by the Administrative Review Tribunal 
+(see section 71).
+(2) If the Secretary does so, the Secretary may correct the amount by increasing or 
+decreasing it.
+(3) If the Secretary increases the incentive by an amount, the Secretary must give 
+effect to the increase by:
+(a) issuing an amended tax offset certificate for the NRAS year; or
+(b) if the approved participant agrees—adding the amount to an incentive for a 
+future NRAS year; or
+(c) if the incentive was given as a payment—paying the amount.
+(4) If the Secretary decreases the incentive by an amount, the Secretary may recover 
+the amount:
+(a) by issuing an amended tax offset certificate for the NRAS year; or
+(b) by offsetting the amount against an amount of incentive for a future NRAS 
+year; or
+(c) if the incentive was given as a payment or has been claimed as a tax 
+offset—as a debt due to the Commonwealth.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 6  Incentives
+Division 3  Redirecting incentives
+Section 57
+40
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Division 3—Redirecting incentives
+57  Application of this Division
+This Division applies if:
+(a) an allocation for a rental dwelling is transferred under Division 5 of Part 2 
+(about transfers because of breach) during an NRAS year; and
+(b) the original approved participant has, or had, obligations to pass on an 
+incentive for the dwelling for an NRAS year to an investor.
+Note:
+This Division relates to:
+(a)
+the portion of the incentive that relates to the part of the NRAS year that is before 
+the day the transfer takes effect; or
+(b)
+an earlier NRAS year.
+58  Incentive for year of transfer
+(1) The Secretary may decide to give to the gaining approved participant an 
+incentive for the NRAS year that would otherwise have been given to the 
+original approved participant for the dwelling, and if the Secretary does so:
+(a) section 63 (about passing on incentives) applies to the gaining approved 
+participant for the incentive and an investor; and
+(b) the original approved participant:
+(i) despite subsection 50(1), is not entitled to receive the incentive for the 
+dwelling for the NRAS year; and
+(ii) despite an arrangement to the contrary, is not required to pass on the 
+incentive for the dwelling for the NRAS year to the investor.
+Note 1:
+This section relates to the portion of the incentive that relates to the part of the NRAS 
+year that is before the day the transfer takes effect.
+Note 2:
+A decision under this subsection is reviewable by the Administrative Review Tribunal 
+(see section 71).
+(2) This section does not apply if the incentive has already been given to the original 
+approved participant.
+59  Incentive for an earlier year
+(1) The Secretary may decide to give to the gaining approved participant an 
+incentive for an earlier NRAS year that would otherwise have been given to the 
+original approved participant for the dwelling, and if the Secretary does so:
+(a) section 63 (about passing on incentives) applies to the gaining approved 
+participant for the incentive and an investor; and
+(b) the original approved participant:
+(i) despite subsection 50(1), is not entitled to receive the incentive for the 
+earlier NRAS year; and
+(ii) despite an arrangement to the contrary, is not required to pass on the 
+incentive for the earlier NRAS year to the investor.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Incentives  Part 6
+Redirecting incentives  Division 3
+Section 60
+National Rental Affordability Scheme Regulations 2020
+41
+Compilation No. 1
+Compilation date: 14/10/2024
+Note:
+A decision under this subsection is reviewable by the Administrative Review Tribunal 
+(see section 71).
+(2) This section does not apply if the incentive has already been given to the original 
+approved participant.
+60  Meaning of redirects
+If the Secretary decides under subsection 58(1) or 59(1) to give an incentive to a 
+gaining approved participant, the Secretary redirects the incentive.
+61  Secretary must notify proposed redirection
+(1) Before the Secretary redirects an incentive, the Secretary must give written 
+notice of the proposed redirection to:
+(a) the original approved participant; and
+(b) the investor.
+(2) The notice must invite the original approved participant or investor, as the case 
+requires, to make a written submission to the Secretary about the proposed 
+redirection no later than 14 days after the day the Secretary gives the notice.
+(3) The notice may be given with a notice under subsection 32(8) (which deals with 
+notice of transfer because of breach).
+(4) If the Secretary gives notice under subsection (1) of a proposed redirection, the 
+Secretary must, after having decided whether or not to make the redirection, give 
+to the original approved participant and the investor written notice of that 
+decision.
+62  Secretary must take interests of investors into account
+In deciding whether to redirect an incentive, the Secretary must take into account 
+the interests of investors, including the need to ensure that investors maintain 
+confidence in the Scheme.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 7  Obligations to investors
+  
+Section 63
+42
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Part 7—Obligations to investors
+  
+63  Approved participant’s obligations to investors
+The approved participant for a rental dwelling is required to pass on an incentive 
+or State or Territory contribution to an investor if, at the time when the incentive 
+or contribution is given to the approved participant, the approved participant or 
+an associated party has a legal obligation:
+(a) to pass on to the investor any payment or benefit (including rent) relating to 
+the dwelling; or
+(b) to take steps to enable the investor to claim a tax offset to which the 
+investor is entitled under Division 380 of the Income Tax Assessment Act 
+1997 in relation to the incentive; or
+(c) to make an election under section 380-11 or 380-16 of the Income Tax 
+Assessment Act 1997 in relation to the incentive.
+64  Obligation to pass on incentives or State or Territory contributions in a 
+timely manner
+(1) This section applies if:
+(a) an approved participant:
+(i) is given an incentive or State or Territory contribution; and
+(ii) is required to pass on all or part of the incentive or contribution to an 
+investor (whether under an arrangement or otherwise); or
+(b) a gaining approved participant is required to give an investor an incentive 
+that has been redirected under Division 3 of Part 6.
+(2) The approved participant or gaining approved participant must comply with the 
+requirement before the earliest of the following:
+(a) if a legal obligation requires the incentive or contribution to be passed on 
+within a particular period (however described)—the end of that period;
+(b) 90 days after the approved participant is given the incentive or 
+contribution.
+65  Incentives or State or Territory contributions not to be withheld or refused if 
+investor fails or refuses to accept other services
+(1) This section applies if:
+(a) an approved participant is required to pass on all or part of an incentive or 
+State or Territory contribution to an investor under an arrangement; and
+(b) the arrangement is expressed to be subject to a term that the investor must 
+use a tenancy management service (or any similar, or other, service) that is 
+provided by the approved participant or another person specified by the 
+approved participant; and
+(c) the investor fails, or refuses, to use the service.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Obligations to investors  Part 7
+  
+Section 66
+National Rental Affordability Scheme Regulations 2020
+43
+Compilation No. 1
+Compilation date: 14/10/2024
+(2) The approved participant:
+(a) must comply with the requirement to pass on the incentive or contribution 
+as if the term were not included in the arrangement; and
+(b) must not terminate the arrangement only because the investor fails, or 
+refuses, to use the service.
+66  Incentives or State or Territory contributions not to be withheld or refused if 
+bond not paid
+(1) This section applies if:
+(a) an approved participant is required to pass on all or part of an incentive or 
+State or Territory contribution to an investor under an arrangement; and
+(b) the arrangement concerned is expressed to be subject to a term that the 
+investor or another person must pay to the approved participant a monetary 
+bond (however described) if the investor does not use a service other than a 
+service provided by the approved participant or another person specified by 
+the approved participant; and
+(c) the investor uses another service and the bond is not paid to the approved 
+participant.
+(2) The approved participant:
+(a) must comply with the requirement to pass on the incentive or contribution 
+as if the term were not included in the arrangement; and
+(b) must not terminate the arrangement only because the investor uses the 
+alternative service and the bond is not paid to the approved participant.
+67  Approved participant must give summary of code of conduct to investors
+The approved participant for a rental dwelling must give an investor for the 
+dwelling a summary of the approved participants code of conduct on or before 
+the day that is 28 days after the investor becomes an investor for the dwelling.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 8  Other matters
+  
+Section 68
+44
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Part 8—Other matters
+  
+68  Secretary may approve forms
+(1) The Secretary may do the following:
+(a) approve a form in which a document, information or response must be 
+given to the Secretary for the purposes of the Scheme;
+(b) specify the manner in which the form is to be given.
+(2) If the Secretary approves a form, the Secretary must:
+(a) publish the form on a website that is accessible to the public; and
+(b) include any specified manner for giving the form; and
+(c) take reasonable steps to direct approved participants and investors to the 
+website.
+69  Sharing and use of information
+(1) Information (including personal information) obtained by the Secretary for the 
+purposes of the Scheme may be used or disclosed by the Secretary for:
+(a) the purposes of the Scheme; or
+(b) the purposes of programs to:
+(i) increase the supply of affordable rental dwellings; or
+(ii) reduce rental costs for low and moderate income households.
+(2) Without limiting subsection (1), the information may be:
+(a) disclosed to another agency of the Commonwealth or of a State or 
+Territory:
+(i) for the purposes of the operation of the Scheme; or
+(ii) for the purposes of developing policy in relation to the Scheme; or
+(iii) for the purposes of ensuring compliance with a law of the 
+Commonwealth or a State or Territory; or
+(b) disclosed by the Secretary to approved participants, investors or tenants for 
+the purposes of administering the Scheme; or
+(c) given by the Secretary to a person if the Secretary is satisfied that:
+(i) the person is a gaining approved participant or an investor; and
+(ii) the information is relevant to the person’s interest in an allocation or a 
+rental dwelling covered by an allocation.
+70  Notice of end of allocation
+(1) The approved participant for a rental dwelling must give tenants of the dwelling 
+written notice of the end of the allocation for the dwelling.
+(2) The notice must be given:
+(a) in the form approved by the Secretary; and
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Other matters  Part 8
+  
+Section 71
+National Rental Affordability Scheme Regulations 2020
+45
+Compilation No. 1
+Compilation date: 14/10/2024
+(b) within the time specified in the form.
+71  Review of decisions by the Administrative Review Tribunal
+Applications may be made to the Administrative Review Tribunal for review of 
+the following decisions of the Secretary:
+(a) a decision under subsection 12(2), 13(9) or 15(2) not to make a 
+determination;
+(b) a decision under paragraph 19(1)(a) or (b) about a special condition;
+(c) a decision under paragraph 19(1)(c) to impose a special condition;
+(d) a decision under subsection 22(1) to transfer a provisional allocation;
+(e) a decision under section 24, 25 or 26 to determine that an approved 
+participant has committed an individual breach, a serious breach or a 
+disqualifying breach;
+(f) a decision under subsection 51(8) that:
+(i) confirms or varies a decision under subsection 51(2); or
+(ii) is taken to have been made because of subsection 51(9);
+(g) a decision under subsection 56(1) about the amount of an incentive;
+(h) a decision under subsection 58(1), 59(1) or 78(3) to redirect an incentive.
+72  When incentive cannot be redirected
+Division 3 of Part 6, and section 78, (both about redirecting incentives) have no 
+effect to the extent that their operation would result in the acquisition of property 
+other than on just terms.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 9  Application and transitional provisions
+  
+Section 73
+46
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Part 9—Application and transitional provisions
+  
+73  Things done under the previous regulations
+(1) If:
+(a) a thing was done, or arose, for a particular purpose under the previous 
+regulations; and
+(b) the thing could be done, or could arise, for that purpose under this 
+instrument;
+the thing has effect for the purposes of this instrument (and may be dealt with) as 
+if it had been done, or had arisen, for that purpose under this instrument.
+(2) Without limiting subsection (1), a reference in that subsection to a thing being 
+done, or arising, includes a reference to each of the following:
+(a) an entitlement to incentive arising under the previous regulations;
+(b) a request made under the previous regulations by an investor for an 
+allocation to be transferred;
+(c) a determination of breach under the previous regulations;
+(d) a decision, payment, incentive, notice, application or other instrument 
+being given or made.
+Note 1:
+An allocation made under the previous regulations may have additional special 
+conditions imposed on it, or be transferred, revoked or otherwise dealt with, under this 
+instrument (see subsection 6(2)).
+Note 2:
+Subsections (1) and (2) confirm that things can be done under this instrument in 
+reliance on things done under the previous regulations. For example:
+(a)
+if an amount of incentive is still to be given on 1 April 2020, the entitlement to the 
+incentive is treated as if it arose under this instrument and could result in a 
+reduction of the amount before it is given under this instrument; or
+(b)
+if an investor request for transfer is still to be dealt with on 1 April 2020, the 
+request is treated as if it had been made under this instrument and could result in a 
+transfer under this instrument; or
+(c)
+if, on 1 April 2020, a decision about redirecting an incentive is still to be made 
+following a determination of breach that has been made, the determination of 
+breach is treated as if it had been made under this instrument and could result in a 
+redirection under this instrument.
+Note 3:
+Other examples of the effect of subsection (1) are as follows:
+(a)
+a variation under subsection 23(1) of the previous regulations of a special 
+condition is treated as if it had been done under section 19 of this instrument;
+(b)
+subsection 10(2) of this instrument also covers a transfer under the previous 
+regulations that corresponds to a transfer under section 20 of this instrument.
+(3) A special condition imposed on an allocation under paragraph 13(2)(b) of the 
+previous regulations has effect for the purposes of this instrument (and may be 
+dealt with) as if it had been imposed under this instrument.
+Note:
+This subsection allows a special condition that was imposed when the allocation was 
+made to have effect, and to be varied or removed, under this instrument. Subsection (1) 
+does not already provide for this because this instrument does not provide for the 
+making of new allocations.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Application and transitional provisions  Part 9
+  
+Section 74
+National Rental Affordability Scheme Regulations 2020
+47
+Compilation No. 1
+Compilation date: 14/10/2024
+(4) An incentive period arising for an allocation under the previous regulations has 
+effect for the purposes of this instrument (and may be dealt with) as if it had 
+arisen under this instrument.
+Note:
+This subsection confirms that the incentive period under the previous regulations for an 
+allocation will continue under this instrument. Subsection (1) may not already provide 
+for this because this instrument does not provide for the making of new allocations.
+74  General conditions of allocations existing immediately before 1 April 2020
+Despite subsection 73(1), a condition that:
+(a) was on an allocation as a general condition under the previous regulations 
+(the old general condition); and
+(b) was in force immediately before 1 April 2020;
+ceases to be in force on 1 April 2020.
+Note 1:
+This section confirms that, on 1 April 2020, the old general conditions of an allocation 
+are replaced by the conditions set out in Division 2 of Part 2.
+Note 2:
+In contrast, special conditions imposed before 1 April 2020 will continue (see 
+subsections 73(2) and (3)).
+Note 3:
+This instrument can apply to a contravention of an old general condition before 1 April 
+2020 (see section 77). For example, an approved participant will have committed a 
+compliance breach if it contravened the old condition before 1 April 2020 (see 
+paragraph 24(3)(b)).
+75  Determination relating to maximum rent
+Subsections 12(2) and (3) (which deal with a determination by the Secretary 
+relating to maximum rent) apply in relation to a particular charge of rent for a 
+period during an NRAS year beginning on or after 1 May 2017.
+76  Eligible tenants moving rental dwellings
+Subsection 41(4) applies in relation to a move by an eligible tenant from one 
+rental dwelling to another rental dwelling on or after 1 April 2020.
+77  References to breaches etc.
+To avoid doubt, a reference in this instrument to:
+(a) a breach, or suspected breach, (however described); or
+(b) circumstances giving rise to such a breach or suspected breach (however 
+described);
+applies to such a breach, suspected breach or circumstances whether happening 
+before, on or after 1 April 2020.
+78  Redirecting incentives for certain earlier transfers
+(1) This section applies if:
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+  
+Part 9  Application and transitional provisions
+  
+Section 79
+48
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+(a) the Secretary transferred an allocation to an approved participant under 
+subregulation 21A(1) of the previous regulations as in force immediately 
+before 9 March 2019; and
+(b) incentive relating to the allocation for an NRAS year was not redirected as 
+described in subregulation 41(3) of the previous regulations because 
+neither subparagraph 21D(1)(b)(ii) nor 22BH(2)(b)(ii) of the previous 
+regulations could be satisfied; and
+(c) the Secretary has not received a written request from the original approved 
+participant for the incentive to be given to it.
+Note:
+Regulations 21A and 21D of the previous regulations continued to apply on and after 
+9 March 2019 under regulation 41 of the previous regulations.
+(2) The Secretary may give the gaining approved participant written notice inviting 
+the gaining approved participant to, within 3 months after the notice is given, 
+lodge a statement of compliance:
+(a) for a rental dwelling covered by the allocation; and
+(b) that includes statements and details for the NRAS year beginning on 1 May 
+2018.
+Subsections 42(3) to (5) (about timeframes) do not apply to the statement of 
+compliance.
+(3) If the gaining approved participant lodges a statement of compliance complying 
+with subsection (2), the Secretary may give to the gaining approved participant 
+the incentive referred to in paragraph (1)(b), and if the Secretary does so:
+(a) section 63 (about passing on incentives) applies to the gaining approved 
+participant for the incentive and an investor; and
+(b) the original approved participant:
+(i) despite subsection 50(1), is not entitled to receive the incentive; and
+(ii) despite an arrangement to the contrary, is not required to pass on the 
+incentive to the investor.
+(4) Sections 61 (about notice) and 62 (about interests of investors) also apply in 
+relation to a proposed redirection under subsection (3) of this section.
+Note:
+A decision under subsection (3) is reviewable by the Administrative Review Tribunal 
+(see section 71).
+79  Details of approved participants and investors
+(1) The approved participant for a rental dwelling covered by an allocation must, by 
+the end of 28 April 2020, have notified the Secretary of the following details:
+(a) the details listed in subsection 47(1) (about the approved participant);
+(b) the details listed in subsection 48(1) for each person who the approved 
+participant believes is an investor for the dwelling.
+Note:
+No incentive is available for any period during which the approved participant fails to 
+comply with this subsection (see subsections 13(2) to (4)).
+(2) Subsection 48(2) also applies in relation to details described in paragraph (1)(b) 
+of this section that are notified under this section.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+Endnotes
+Endnote 1—About the endnotes
+National Rental Affordability Scheme Regulations 2020
+49
+Compilation No. 1
+Compilation date: 14/10/2024
+Endnotes
+Endnote 1—About the endnotes
+The endnotes provide information about this compilation and the compiled law.
+The following endnotes are included in every compilation:
+Endnote 1—About the endnotes
+Endnote 2—Abbreviation key
+Endnote 3—Legislation history
+Endnote 4—Amendment history
+Abbreviation key—Endnote 2
+The abbreviation key sets out abbreviations that may be used in the endnotes.
+Legislation history and amendment history—Endnotes 3 and 4
+Amending laws are annotated in the legislation history and amendment history.
+The legislation history in endnote 3 provides information about each law that has amended (or 
+will amend) the compiled law. The information includes commencement details for amending 
+laws and details of any application, saving or transitional provisions that are not included in 
+this compilation.
+The amendment history in endnote 4 provides information about amendments at the provision 
+(generally section or equivalent) level. It also includes information about any provision of the 
+compiled law that has been repealed in accordance with a provision of the law.
+Editorial changes
+The Legislation Act 2003 authorises First Parliamentary Counsel to make editorial and 
+presentational changes to a compiled law in preparing a compilation of the law for 
+registration. The changes must not change the effect of the law. Editorial changes take effect 
+from the compilation registration date.
+If the compilation includes editorial changes, the endnotes include a brief outline of the 
+changes in general terms. Full details of any changes can be obtained from the Office of 
+Parliamentary Counsel.
+Misdescribed amendments
+A misdescribed amendment is an amendment that does not accurately describe how an 
+amendment is to be made. If, despite the misdescription, the amendment can be given effect 
+as intended, then the misdescribed amendment can be incorporated through an editorial 
+change made under section 15V of the Legislation Act 2003.
+If a misdescribed amendment cannot be given effect as intended, the amendment is not 
+incorporated and “(md not incorp)” is added to the amendment history.
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+Endnotes
+Endnote 2—Abbreviation key
+50
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Endnote 2—Abbreviation key
+ad = added or inserted
+o = order(s)
+am = amended
+Ord = Ordinance
+amdt = amendment
+orig = original
+c = clause(s)
+par = paragraph(s)/subparagraph(s)
+C[x] = Compilation No. x
+/sub-subparagraph(s)
+Ch = Chapter(s)
+pres = present
+def = definition(s)
+prev = previous
+Dict = Dictionary
+(prev…) = previously
+disallowed = disallowed by Parliament
+Pt = Part(s)
+Div = Division(s)
+r = regulation(s)/rule(s)
+ed = editorial change
+reloc = relocated
+exp = expires/expired or ceases/ceased to have
+renum = renumbered
+effect
+rep = repealed
+F = Federal Register of Legislation
+rs = repealed and substituted
+gaz = gazette
+s = section(s)/subsection(s)
+LA = Legislation Act 2003
+Sch = Schedule(s)
+LIA = Legislative Instruments Act 2003
+Sdiv = Subdivision(s)
+(md) = misdescribed amendment can be given
+SLI = Select Legislative Instrument
+effect
+SR = Statutory Rules
+(md not incorp) = misdescribed amendment
+Sub-Ch = Sub-Chapter(s)
+cannot be given effect
+SubPt = Subpart(s)
+mod = modified/modification
+underlining = whole or part not
+No. = Number(s)
+commenced or to be commenced
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+Endnotes
+Endnote 3—Legislation history
+National Rental Affordability Scheme Regulations 2020
+51
+Compilation No. 1
+Compilation date: 14/10/2024
+Endnote 3—Legislation history
+Name
+Registration
+Commencement
+Application, saving and 
+transitional provisions
+National Rental Affordability 
+Scheme Regulations 2020
+20 Mar 2020 (F2020L00282)
+s 75: 1 May 2017 (s 2(1) 
+item 2)
+s 78: 1 May 2018 (s 2(1) 
+item 4)
+Remainder: 1 Apr 2020 (s 
+2(1) items 1, 3, 5, 6)
+Administrative Review 
+Tribunal Legislation 
+Consequential Amendments 
+(2024 Measures No. 1) 
+Regulations 2024
+11 Oct 2024 (F2024L01299)
+Sch 12 (items 7–24): 14 Oct 
+2024 (s 2(1) item 1)
+—
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------
+Endnotes
+Endnote 4—Amendment history
+52
+National Rental Affordability Scheme Regulations 2020
+Compilation No. 1
+Compilation date: 14/10/2024
+Endnote 4—Amendment history
+Provision affected
+How affected
+Part 1
+s 2....................................................
+rep LA s 48D
+s 4....................................................
+rep LA s 48C
+Part 2
+Division 2
+r 12..................................................
+am F2024L01299
+r 13..................................................
+am F2024L01299
+r 15..................................................
+am F2024L01299
+Division 3
+r 19..................................................
+am F2024L01299
+Division 4
+r 22..................................................
+am F2024L01299
+Division 5
+Subdivision A
+r 24..................................................
+am F2024L01299
+r 25..................................................
+am F2024L01299
+r 26..................................................
+am F2024L01299
+Subdivision C
+r 32..................................................
+am F2024L01299
+Part 6
+Division 1
+r 50..................................................
+am F2024L01299
+r 51..................................................
+am F2024L01299
+Division 2
+r 56..................................................
+am F2024L01299
+Division 3
+r 58..................................................
+am F2024L01299
+r 59..................................................
+am F2024L01299
+Part 8
+r 71..................................................
+am F2024L01299
+Part 9
+r 78..................................................
+am F2024L01299
+Schedule 1.......................................
+rep LA s 48C
+Authorised Version F2024C00941 registered 23/10/2024
+
+--------------------------------------------------------------------------------

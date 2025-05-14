@@ -1,0 +1,1718 @@
+Metadata for pdf/HongKong/expropriation.pdf: {'format': 'PDF 1.7', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Mozilla Firefox 137.0.2', 'producer': 'cairo 1.18.0 (https://cairographics.org)', 'creationDate': "D:20250428222236+02'00", 'modDate': '', 'trapped': '', 'encryption': None, 'country': 'Hong Kong'}
+
+Country found in pdf/HongKong/expropriation.pdf: Hong Kong
+
+Chapter 124
+Lands Resumption Ordinance
+01/09/2023
+To  facilitate  the  resumption  of  Government  lands  required  for  public
+purposes.
+(Amended 50 of 1911; 1 of 1912 Schedule; 29 of 1998 s. 31)
+[14 November 1900]
+(Format changes—E.R. 3 of 2018)
+Part 1
+Preliminary
+(Added 25 of 2023 s. 3)
+1.
+Short title
+This Ordinance may be cited as the Lands Resumption Ordinance.
+(Amended 5 of 1924 s. 6; 29 of 1998 s. 32)
+2.
+Interpretation
+(1)
+In this Ordinance, unless the context otherwise requires—
+(Amended 25 of 2023 s. 4)
+amendment notice (修告) means a notice published under
+section 2C(1); (Added 25 of 2023 s. 4)
+approved land use (⼟⽤
+), in relation to any land, means
+a particular use of the land shown or provided for in a Cap.
+131 plan where the Cap. 131 plan has been approved by the
+Chief Executive in Council under Cap. 131 and the approval
+covers that particular use of the land; (Added 25 of 2023 s. 4)
+Authority (主當局) means—
+(a)
+in relation to land to which Part II of the New Territories
+Ordinance (Cap. 97)  does  not  apply,  the  Director  of
+Lands; and (Amended L.N. 107 of 1978; L.N. 76 of 1982;
+L.N. 94 of 1986; L.N. 291 of 1993)
+(b)
+in relation to land to which Part II of the New Territories
+Ordinance  (Cap.  97)  applies,  the  Director  of
+Lands; (Added 63 of 1974 s. 2. Amended L.N. 370 of
+1981; L.N. 76 of 1982; L.N. 94 of 1986; L.N. 291 of
+1993)
+Cap. 131 (《131》) means the Town Planning Ordinance
+(Cap. 131); (Added 25 of 2023 s. 4)
+Cap. 131 plan (《131》圖則)—
+(a)
+means  a  draft  plan  prepared  under  Cap.  131  or  an
+approved plan or partly approved plan under Cap. 131;
+and
+(b)
+includes a part of such a plan, and an amendment made
+or proposed amendment proposed to such a plan (or a
+part of it) under Cap. 131; (Added 25 of 2023 s. 4)
+former owner (前業主) means, in relation to land resumed by the
+Government,  the  person  who  was  the  owner  of  the  land
+immediately before the land reverted to the Government under
+section 5; (Added 63 of 1974 s. 2. Amended 29 of 1998 s. 105)
+land  ( ⼟ )  means  Government  land  of  whatever  description
+(whether  held  under  Government  lease  or  other  title
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+1 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+recognized by the Government), or any part or section thereof
+in Hong Kong and the New Territories, and includes buildings
+erected thereon; (Amended 50 of 1911; 51 of 1911; 1 of 1912
+Schedule; 2 of 1912 Schedule; 29 of 1998 s. 105)
+land use pending approval (待⼟⽤
+), in relation to any land,
+means a particular use of the land that—
+(a)
+is shown or provided for in a Cap. 131 plan; and
+(b)
+is not the approved land use of the land; (Added 25 of 
+2023 s. 4)
+notice of proposed resumption (告) means a notice
+published under section 2A(1); (Added 25 of 2023 s. 4)
+owner  ( 業主)  means  the  person  registered  or  entitled  to  be
+registered in the Land Registry in respect of any land sought to
+be resumed, or, if such person is absent from Hong Kong, or
+cannot  be  found,  or  is  bankrupt  or  dead,  his  agent  or
+representative in Hong Kong; (Amended 50 of 1911 s. 4; 51 of
+1911; 1 of 1912 Schedule; 2 of 1912 Schedule; 21 of 1912 s. 2;
+8 of 1993 s. 2; 3 of 2000 s. 3)
+proposal for land resumption (回⼟) means a proposal
+for the resumption of any land—
+(a)
+as stated in a notice of proposed resumption; and
+(b)
+(if  applicable)  as  amended  by  an  amendment  notice;
+(Added 25 of 2023 s. 4)
+reference interest rate (利) means the 1-month Hong Kong
+Dollar Interest Settlement Rate published by The Hong Kong
+Association of Banks by the close of business on a day;
+(Added 25 of 2023 s. 4)
+Secretary (局 ) means the Secretary for Development. (Added 25 
+of 2023 s. 4)
+(Amended 50 of 1911 s. 4; 25 of 2023 s. 4)
+(2)
+In this Ordinance, a reference to resumption of any land for a
+public purpose includes—
+(a)
+resumption  of  insanitary  property  for  the  purpose  of
+securing the erection of improved dwellings or buildings
+on  the  property  or  the  sanitary  improvement  of  the
+property;
+(b)
+resumption of any land on which any building is erected
+which, by reason of its proximity to or contact with
+another building, seriously interferes with ventilation or
+otherwise makes or conduces to make that other building
+to  be  in  a  condition  unfit  for  human  habitation  or
+dangerous or injurious to health;
+(c)
+resumption of any land for any purpose connected with
+the Hong Kong Garrison;
+(d)
+resumption of any land for the purposes of, or incidental
+to, any works, or any use, as defined by section 2(1) of
+the Roads (Works, Use and Compensation) Ordinance
+(Cap.  370),  proposed  or  to  be  proposed  under  that
+Ordinance;
+(e)
+resumption of any land for the purposes of, or incidental
+to, any works proposed or to be proposed under the
+Roads (Works, Use and Compensation) Ordinance (Cap.
+370) as applied by section 26 of the Water Pollution
+Control (Sewerage) Regulation (Cap. 358 sub. leg. AL);
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+2 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(f)
+resumption of any land for the purposes of, or incidental
+to, any scheme, as defined by section 2 of the Railways
+Ordinance (Cap. 519), proposed or to be proposed under
+that Ordinance; and
+(g)
+resumption of any land for any purpose (of whatever
+description, and whether or not of the same kind as a
+purpose  described  in  another  paragraph  of  this
+subsection) decided by the Chief Executive in Council to
+be a public purpose. (Added 25 of 2023 s. 4)
+___________
+Part 2
+Proposal for Land Resumption
+(Part 2 added 25 of 2023 s. 5)
+2A.
+Notice of proposed resumption
+(1)
+If the Authority proposes that any land is to be resumed for a
+public purpose, the Authority must publish a notice of the
+proposal in the Gazette.
+(2)
+The notice of proposed resumption must—
+(a)
+describe  the  public  purpose  for  which  the  land  is
+proposed to be resumed;
+(b)
+describe the land proposed to be resumed;
+(c)
+refer  to  a  plan  that  shows  the  land  proposed  to  be
+resumed  in  a  manner  sufficient  to  identify  the  land
+(relevant plan); and
+(d)
+state how the public may inspect a copy of the relevant
+plan.
+(3)
+The Authority must—
+(a)
+deposit a copy of the notice of proposed resumption and
+of the relevant plan in the Land Registry;
+(b)
+publish a copy of the notice of proposed resumption and
+of the relevant plan on the website of the Authority;
+(c)
+make a copy of the notice of proposed resumption and of
+the relevant plan available for inspection by the public
+free of charge at the time and place as the Authority
+reasonably directs;
+(d)
+publish a copy of the notice of proposed resumption in 1
+issue of an English newspaper and 1 issue of a Chinese
+newspaper; and
+(e)
+affix a copy of the notice of proposed resumption in a
+conspicuous place on or near the land proposed to be
+resumed.
+(4)
+If—
+(a)
+a Cap. 131 plan that shows or makes provision for a land
+use pending approval in relation to any land is exhibited
+or  made  available  for  public  inspection  under  any
+provision (other than section 9D or 11) of Cap. 131; and
+(b)
+the land use pending approval is the public purpose for
+which the Authority proposes to resume the land,
+the Authority may publish a notice of proposed resumption in
+respect of the land on or after the date on which the Cap. 131
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+3 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+plan begins to be so exhibited or made available.
+2B.
+Objections relating to notice of proposed resumption
+(1)
+Within  60  days  after  a  notice  of  proposed  resumption  is
+published, the following person may object to the proposal for
+the resumption of the land stated in the notice by delivering an
+objection in writing to the Authority—
+(a)
+an owner or occupier of that land; or
+(b)
+a person having any right in relation to that land.
+(2)
+An objection made by a person (objector) must—
+(a)
+sufficiently  identify  the  objector  as  a  person  falling
+within subsection (1); and
+(b)
+describe the manner in which the objector alleges the
+objector will be affected by the proposal.
+(3)
+An objection that is not made by a person falling within
+subsection (1), or that does not comply with subsection (2), is
+invalid and treated as not having been made for the purposes
+of section 2G.
+2C.
+Amendment notice
+(1)
+The Authority may, by notice published in the Gazette, amend
+a  proposal  for  land  resumption  before  the  proposal  is
+submitted to the Chief Executive in Council under section 2G.
+(2)
+The amendment notice must—
+(a)
+describe  the  amendment  to  the  proposal  for  land
+resumption;
+(b)
+refer  to  a  plan  that  shows  the  amendment  (relevant
+plan); and
+(c)
+state how the public may inspect a copy of the relevant
+plan.
+(3)
+The Authority must—
+(a)
+deposit  a  copy  of  the  amendment  notice  and  of  the
+relevant plan in the Land Registry;
+(b)
+publish  a  copy  of  the  amendment  notice  and  of  the
+relevant plan on the website of the Authority;
+(c)
+make a copy of the amendment notice and of the relevant
+plan available for inspection by the public free of charge
+at the time and place as the Authority reasonably directs;
+(d)
+publish a copy of the amendment notice in 1 issue of an
+English newspaper and 1 issue of a Chinese newspaper;
+and
+(e)
+affix a copy of the amendment notice in a conspicuous
+place on or near the land affected by the amendment.
+(4)
+If—
+(a)
+a Cap. 131 plan that shows or makes provision for a land
+use pending approval in relation to any land is exhibited
+or  made  available  for  public  inspection  under  any
+provision (other than section 9D or 11) of Cap. 131; and
+(b)
+an  amendment  to  be  made  by  an  amendment  notice
+under  subsection  (1)  relates  to  the  land  use  pending
+approval,
+the Authority may publish the amendment notice on or after
+the date on which the Cap. 131 plan begins to be so exhibited
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+4 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+or made available.
+2D.
+Objections relating to amendment notice
+(1)
+Within 60 days after an amendment notice is published, the
+following person may object to the amendment made by the
+notice by delivering an objection in writing to the Authority—
+(a)
+an  owner  or  occupier  of  the  land  affected  by  the
+amendment; or
+(b)
+a person having any right in relation to that land.
+(2)
+An objection made by a person (objector) must—
+(a)
+sufficiently  identify  the  objector  as  a  person  falling
+within subsection (1); and
+(b)
+describe the manner in which the objector alleges the
+objector will be affected by the amendment.
+(3)
+An objection that is not made by a person falling within
+subsection (1), or that does not comply with subsection (2), is
+invalid and treated as not having been made for the purposes
+of section 2G.
+2E.
+Supplementary provisions relating to objections
+(1)
+This section applies if a person (objector) makes an objection
+under section 2B or 2D (objection).
+(2)
+An objection made on a ground relating to any compensation
+(whether monetary or non-monetary) or any financial or other
+assistance (compensation or assistance) in connection with
+the proposal for land resumption is, to the extent that it is
+made on that ground, invalid and treated as not having been
+made for the purposes of section 2G.
+(3)
+In subsection (2), the reference to a ground relating to any
+compensation or assistance includes—
+(a)
+a  ground  relating  to  whether  any  compensation  or
+assistance is to be provided, whether or not under an
+enactment; and
+(b)
+a ground relating to the amount, extent or form of the
+compensation or assistance, or the time for its provision.
+(4)
+If the Authority gives any written reply to an objection, the
+objector may  give a response to  the  reply (including any
+comment on, or any request in connection with, the reply)
+within the period of 14 days after the day on which the reply is
+given.
+(5)
+For subsection (4), the mere notification by the Authority that
+the objection is treated as unwithdrawn and will be submitted
+to the Chief Executive in Council does not constitute a reply.
+(6)
+A response that is given after the 14-day period mentioned in
+subsection (4) is treated as not having been given.
+(7)
+An objector may, by writing to the Authority—
+(a)
+amend an objection made by the objector within the
+relevant period for making objections; or
+(b)
+withdraw the objection in whole or in part before the
+proposal for land resumption is submitted under section
+2G.
+(8)
+An  objection  (or  a  part  of  an  objection)  that  has  been
+withdrawn is treated as not having been made for the purposes
+of section 2G.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+5 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(9)
+An objection, an amendment or withdrawal of an objection, or
+a response (referred to in subsection (4)) may be given to the
+Authority by—
+(a)
+delivering  it  to  an  officer  who  is  authorized  by  the
+Authority to receive it on the Authority’s behalf;
+(b)
+sending it by ordinary or registered post;
+(c)
+sending  it  by  electronic  mail  transmission  to  an
+electronic mail address specified by the Authority; or
+(d)
+sending it by fax transmission to a fax number specified
+by the Authority.
+(10)
+A reply (referred to in subsection (4)) may be given to the
+objector by—
+(a)
+delivering it to the objector personally;
+(b)
+leaving it at the objector’s last known address;
+(c)
+sending it by ordinary or registered post addressed to the
+objector at the objector’s last known address;
+(d)
+sending  it  by  electronic  mail  transmission  to  the
+objector’s last known electronic mail address; or
+(e)
+sending  it  by  fax  transmission  to  the  objector’s  last
+known fax number.
+2F.
+Decision not to proceed with proposal for land resumption
+(1)
+Before a proposal for land resumption is submitted to the
+Chief Executive in Council under section 2G, if the Authority
+decides not to proceed with the proposal, the Authority must
+publish a notice of the decision in the Gazette.
+(2)
+The Authority must—
+(a)
+deposit a copy of the notice in the Land Registry;
+(b)
+publish  a  copy  of  the  notice  on  the  website  of  the
+Authority;
+(c)
+publish a copy of the notice in 1 issue of an English
+newspaper and 1 issue of a Chinese newspaper; and
+(d)
+affix a copy of the notice in a conspicuous place on or
+near the land originally proposed to be resumed under
+the proposal for land resumption.
+(3)
+A  decision  under  subsection  (1)  does  not  affect  anything
+lawfully done under this Ordinance before the decision is
+made.
+2G.
+Submission of proposal for land resumption to Chief Executive
+in Council
+(1)
+The  Authority  must,  before  the  expiry  of  the  period
+determined in accordance with subsections (2) and (3), submit
+to the Chief Executive in Council for consideration—
+(a)
+the proposal for land resumption;
+(b)
+any objection made under section 2B within the period
+for making objections under that section; and
+(c)
+if an amendment notice is published in relation to the
+proposal—any objection made under section 2D within
+the period for making objections under that section.
+(2)
+Except as extended under subsection (3), the period mentioned
+in subsection (1) is—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+6 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(a)
+unless paragraph (b) applies—5 months after the date of
+expiry of the time for making objections under section
+2B; or
+(b)
+if  one  or  more  amendment  notices  are  published  in
+relation to the proposal for land resumption—whichever
+of the following periods that ends later—
+(i)
+the period mentioned in paragraph (a);
+(ii)
+3 months after the date of expiry of the time for
+making objections under section 2D in respect of
+the amendment notice (or the last of the amendment
+notices).
+(3)
+The Secretary may, on application by the Authority—
+(a)
+extend  the  period  mentioned  in  subsection  (2)  for  2
+months if the Secretary considers it appropriate to do so
+in a particular case; and
+(b)
+further extend the period on not more than 2 occasions
+and for 2 months for each extension if the Secretary is
+satisfied  that  exceptional  circumstances  exist  in  a
+particular case.
+(4)
+Despite subsections (1), (2) and (3), if—
+(a)
+the notice of proposed resumption is published in the
+circumstances described in section 2A(4); or
+(b)
+an amendment notice in respect of the proposal for land
+resumption is published in the circumstances described
+in section 2C(4),
+the  submission  to  the  Chief  Executive  in  Council  under
+subsection (1) may not be made before a submission of the
+relevant Cap. 131 plan covering the land use pending approval
+referred to in section 2A(4) or 2C(4) (as the case may be)
+(Cap. 131 submission) is made to the Chief Executive in
+Council for approval under Cap. 131.
+(5)
+If  subsection  (4)  applies,  the  submission  to  the  Chief
+Executive  in  Council  under  subsection  (1)  must  be  made
+within a reasonable time after the making of the Cap. 131
+submission.
+___________
+Part 3
+Resumption of Land for Public Purpose
+(Added 25 of 2023 s. 6)
+3.
+Authorization of and order for resumption of land
+(1)
+The Chief Executive in Council, after considering a proposal
+for land resumption and any objection submitted under section
+2G, may—
+(a)
+authorize  the  resumption  of  the  land  for  a  public
+purpose —
+(i)
+with or without any modification to the proposal;
+and
+(ii)
+subject to any condition that the Chief Executive in
+Council considers appropriate; or
+(b)
+decline to authorize the resumption of the land.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+7 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(2)
+The Chief Executive in Council may reconsider a proposal for
+land resumption and—
+(a)
+authorize the resumption of the land for a public purpose
+which the Chief Executive in Council has previously
+declined to authorize under subsection (1)(b); or
+(b)
+remove or amend any modification or condition referred
+to in subsection (1)(a) in relation to an authorization
+previously made under that subsection.
+(3)
+If the Chief Executive in Council authorizes the resumption of
+any land under subsection (1) or (2), the Chief Executive may
+order  the  resumption  of  the  land  in  accordance  with  the
+authorization.
+(4)
+Despite subsections (1) and (2), if—
+(a)
+the notice of proposed resumption is published in the
+circumstances described in section 2A(4); or
+(b)
+an amendment notice in respect of the proposal for land
+resumption is published in the circumstances described
+in section 2C(4),
+the Chief Executive in Council may make an authorization
+under subsection (1) or (2) only if the Chief Executive in
+Council has approved the relevant Cap. 131 plan under Cap.
+131 and the approval covers the land use pending approval
+referred to in section 2A(4) or 2C(4) (as the case may be).
+(5)
+If the Chief Executive in Council declines to authorize the
+resumption of the land under subsection (1)(b), the Authority
+must—
+(a)
+publish a notice of that fact in the Gazette;
+(b)
+deposit a copy of the notice in the Land Registry;
+(c)
+publish  a  copy  of  the  notice  on  the  website  of  the
+Authority;
+(d)
+publish a copy of the notice in 1 issue of an English
+newspaper and 1 issue of a Chinese newspaper; and
+(e)
+affix a copy of the notice in a conspicuous place on or
+near the land.
+(Replaced 25 of 2023 s. 7)
+4.
+Notices
+(1)
+Where resumption is ordered a notice that the land is required
+for a public purpose and will be resumed shall be published in
+the Gazette in English and Chinese. (Amended 63 of 1974 s. 4)
+(2)
+A copy of such notice shall be served on the owner, if he can
+be  found,  and  a  further  notice  shall  be  affixed  upon  a
+conspicuous part of the land to be resumed or, where the land
+is divided into lots, sections or subsections, if practicable,
+upon each lot, section or subsection affected.
+(3)
+The notice affixed to the land shall state the date on which it
+has been so affixed. It shall also state that the land will be
+resumed on the expiration of 1 month from such date, unless
+the Chief Executive shall have authorized the giving of a
+longer period of notice, in which case the longer period shall
+be stated. (Amended 3 of 2000 s. 3)
+(3A)
+Also, the Authority must—
+(a)
+publish  a  copy  of  the  notice  on  the  website  of  the
+Authority;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+8 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(b)
+publish a copy of the notice in 1 issue of an English
+newspaper and 1 issue of a Chinese newspaper; and
+(c)
+make a copy of the notice available for inspection by the
+public  free  of  charge  at  the  time  and  place  as  the
+Authority reasonably directs. (Added 25 of 2023 s. 8)
+(4)
+A notice published and served or affixed under this section
+shall be deemed to be notice to the owner of the land and
+every person interested in the land or having any right or
+easement therein.
+(Replaced 27 of 1930 s. 2)
+4A.
+Purchase by agreement
+Where an order has been made for the resumption of any land under
+section  3,  the  Authority  may,  before  the  land  reverts  to  the
+Government under section 5, agree with the owner and any person
+having an estate or an interest in such land under an instrument
+registered in the Land Registry on the purchase of the land and of
+any such estate or interest therein, and any such agreement relating
+to land in respect of which an order under section 3 is made on or
+after  the  commencement*  of  the  Crown  Lands  Resumption
+(Amendment) Ordinance 1984 (5 of 1984) may provide for the
+payment by the Authority to the owner or such person of any costs
+or remuneration reasonably incurred or paid by him in employing
+persons to act in a professional capacity in connection with the
+purchase.
+(Added 63 of 1974 s. 5. Amended 5 of 1984 s. 2; 8 of 1993 s. 2; 29 
+of 1998 s. 33)
+____________________
+Editorial Note:
+* Commencement date: 13 January 1984.
+5.
+Reversion of ownership to the Government
+On the expiration of 1 month, or any longer period authorized under
+section 4(3), the land other than any land purchased by agreement
+under section 4A shall—
+(a)
+where  it  is  an  undivided  share  in  land,  vest  in  The
+Financial  Secretary  Incorporated  together  with  such
+rights to the use and occupation of any building or part
+thereof as may be appurtenant to the ownership of that
+share; and
+(b)
+in all other cases, revert to the Government, (Amended
+29 of 1998 s. 105)
+and all the rights of the owner, his assigns or representatives and of
+any other person in or over the land or any part thereof shall
+absolutely cease.
+(Replaced 71 of 1987 s. 20)
+___________
+Part 4
+Adjustment to Land Boundary after Authorization
+(Part 4 added 25 of 2023 s. 9)
+5A.
+Interpretation of Part 4
+In this Part—
+notice of proposed adjustment (!整告) means a notice
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+9 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+published under section 5B(1);
+proposed adjustment (!整) means a proposal for adjusting
+the boundary of the subject land as stated in a notice of
+proposed adjustment;
+subject land (#$⼟) means the land described in section 5B(1)
+(a) or (b) the boundary of which is proposed to be adjusted.
+5B.
+Notice of proposed adjustment
+(1)
+Subject to subsection (2), after an authorization is made under
+section 3(1) or (2) (authorization), the Authority may, by
+notice published in the Gazette, propose either or both of the
+following—
+(a)
+that the boundary of the land authorized to be resumed
+under the authorization is to be adjusted;
+(b)
+that the boundary of the land ordered to be resumed
+under an order made under section 3(3) in accordance
+with the authorization is to be adjusted.
+(2)
+The  proposed  adjustment  must  not  affect  any  part  of  the
+subject land—
+(a)
+in respect of which a notice has been published, served
+or affixed under section 4; or
+(b)
+that has reverted to the Government under section 5.
+(3)
+The notice of proposed adjustment must—
+(a)
+describe the proposed adjustment;
+(b)
+refer  to  a  plan  that  shows  the  proposed  adjustment
+(relevant plan); and
+(c)
+state how the public may inspect a copy of the relevant
+plan.
+(4)
+The Authority must—
+(a)
+deposit a copy of the notice of proposed adjustment and
+of the relevant plan in the Land Registry;
+(b)
+publish a copy of the notice of proposed adjustment and
+of the relevant plan on the website of the Authority;
+(c)
+make a copy of the notice of proposed adjustment and of
+the relevant plan available for inspection by the public
+free of charge at the time and place as the Authority
+reasonably directs;
+(d)
+publish a copy of the notice of proposed adjustment in 1
+issue of an English newspaper and 1 issue of a Chinese
+newspaper; and
+(e)
+affix a copy of the notice of proposed adjustment in a
+conspicuous place on or near the land affected by the
+proposed adjustment.
+(5)
+If—
+(a)
+a Cap. 131 plan that shows or makes provision for a land
+use pending approval in relation to any land is exhibited
+or  made  available  for  public  inspection  under  any
+provision (other than section 9D or 11) of Cap. 131; and
+(b)
+the proposed adjustment to be described in a notice of
+proposed  adjustment  relates  to  the  land  use  pending
+approval,
+the Authority may publish the notice of proposed adjustment
+on or after the date on which the Cap. 131 plan begins to be so
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+10 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+exhibited or made available.
+5C.
+Objections to proposed adjustment
+(1)
+Within  60  days  after  a  notice  of  proposed  adjustment  is
+published, the following person may object to the proposed
+adjustment  by  delivering  an  objection  in  writing  to  the
+Authority—
+(a)
+an  owner  or  occupier  of  the  land  affected  by  the
+proposed adjustment; or
+(b)
+a person having any right in relation to that land.
+(2)
+An objection made by a person (objector) must—
+(a)
+sufficiently  identify  the  objector  as  a  person  falling
+within subsection (1); and
+(b)
+describe the manner in which the objector alleges the
+objector will be affected by the proposed adjustment.
+(3)
+An objection that is not made by a person falling within
+subsection (1), or that does not comply with subsection (2), is
+invalid and treated as not having been made for the purposes
+of sections 5F and 5G.
+(4)
+An objection made on a ground relating to any compensation
+(whether monetary or non-monetary) or any financial or other
+assistance (compensation or assistance) in connection with
+the proposed adjustment is, to the extent that it is made on that
+ground, invalid and treated as not having been made for the
+purposes of sections 5F and 5G.
+(5)
+In subsection (4), the reference to a ground relating to any
+compensation or assistance includes—
+(a)
+a  ground  relating  to  whether  any  compensation  or
+assistance is to be provided, whether or not under an
+enactment; and
+(b)
+a ground relating to the amount, extent or form of the
+compensation or assistance, or the time for its provision.
+5D.
+Supplementary provisions to section 5C
+(1)
+If the Authority gives any written reply to an objection made
+under section 5C, the person making the objection (objector)
+may give a response to the reply (including any comment on,
+or any request in connection with, the reply) within the period
+of 14 days after the day on which the reply is given.
+(2)
+For subsection (1), the mere notification by the Authority that
+the objection is treated as unwithdrawn and will be submitted
+to the Chief Executive in Council does not constitute a reply.
+(3)
+A response that is given after the 14-day period mentioned in
+subsection (1) is treated as not having been given.
+(4)
+An objector may, by writing to the Authority—
+(a)
+amend an objection made by the objector within the
+period for making objections; or
+(b)
+withdraw the objection in whole or in part before the
+proposed adjustment is submitted under section 5G.
+(5)
+An  objection  (or  a  part  of  an  objection)  that  has  been
+withdrawn is treated as not having been made for the purposes
+of sections 5F and 5G.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+11 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(6)
+An objection, an amendment or withdrawal of an objection, or
+a response (referred to in subsection (1)) may be given to the
+Authority by—
+(a)
+delivering  it  to  an  officer  who  is  authorized  by  the
+Authority to receive it on the Authority’s behalf;
+(b)
+sending it by ordinary or registered post;
+(c)
+sending  it  by  electronic  mail  transmission  to  an
+electronic mail address specified by the Authority; or
+(d)
+sending it by fax transmission to a fax number specified
+by the Authority.
+(7)
+A reply (referred to in subsection (1)) may be given to the
+objector by—
+(a)
+delivering it to the objector personally;
+(b)
+leaving it at the objector’s last known address;
+(c)
+sending it by ordinary or registered post addressed to the
+objector at the objector’s last known address;
+(d)
+sending  it  by  electronic  mail  transmission  to  the
+objector’s last known electronic mail address; or
+(e)
+sending  it  by  fax  transmission  to  the  objector’s  last
+known fax number.
+5E.
+Decision not to proceed with proposed adjustment
+(1)
+Before a proposed adjustment is authorized by the Secretary
+under  section  5F  or  submitted  to  the  Chief  Executive  in
+Council under section 5G, if the Authority decides not to
+proceed with the proposed adjustment, the Authority must
+publish a notice of the decision in the Gazette.
+(2)
+The Authority must—
+(a)
+deposit a copy of the notice in the Land Registry;
+(b)
+publish  a  copy  of  the  notice  on  the  website  of  the
+Authority;
+(c)
+publish a copy of the notice in 1 issue of an English
+newspaper and 1 issue of a Chinese newspaper; and
+(d)
+affix a copy of the notice in a conspicuous place on or
+near the land affected by the proposed adjustment.
+(3)
+A  decision  under  subsection  (1)  does  not  affect  anything
+lawfully done under this Ordinance before the decision is
+made.
+5F.
+Authorization of adjustment to land boundary if no objection
+made
+(1)
+If no objection has been made to a proposed adjustment within
+the period for making objections under section 5C(1),  the
+Secretary may authorize the adjustment to the boundary of the
+subject land in accordance with the proposed adjustment.
+(2)
+Despite subsection (1), if the notice of proposed adjustment is
+published in the circumstances described in section 5B(5), the
+Secretary may make an authorization under that subsection
+only  if  the  Chief  Executive  in  Council  has  approved  the
+relevant Cap. 131 plan under Cap. 131 and the approval covers
+the land use pending approval referred to in that section.
+(3)
+If the Secretary declines to authorize, under subsection (1), the
+adjustment to the boundary of the subject land, the Authority
+must—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+12 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(a)
+publish a notice of that fact in the Gazette;
+(b)
+deposit a copy of the notice in the Land Registry;
+(c)
+publish  a  copy  of  the  notice  on  the  website  of  the
+Authority;
+(d)
+publish a copy of the notice in 1 issue of an English
+newspaper and 1 issue of a Chinese newspaper; and
+(e)
+affix a copy of the notice in a conspicuous place on or
+near the land affected by the proposed adjustment.
+5G.
+Authorization  of  adjustment  to  land  boundary  if  objection
+made
+(1)
+If an objection has been made to a proposed adjustment within
+the  period  for  making  objections  under  section  5C(1)
+(objection  period),  the  Authority  must,  within  3  months
+(submission period) after the end of the objection period,
+submit the proposed adjustment and every objection so made
+to the Chief Executive in Council for consideration.
+(2)
+The Secretary may, on application by the Authority—
+(a)
+extend  the  submission  period  for  2  months  if  the
+Secretary considers it appropriate to do so in a particular
+case; and
+(b)
+further extend the period on not more than 2 occasions
+and for 2 months for each extension if the Secretary is
+satisfied  that  exceptional  circumstances  exist  in  a
+particular case.
+(3)
+Despite subsections (1) and (2), if the notice of proposed
+adjustment  is  published  in  the  circumstances  described  in
+section  5B(5),  the  submission  to  the  Chief  Executive  in
+Council  under  subsection  (1)  may  not  be  made  before  a
+submission of the relevant Cap. 131 plan covering the land use
+pending  approval  referred  to  in  that  section  (Cap.  131
+submission) is made to the Chief Executive in Council for
+approval under Cap. 131.
+(4)
+If  subsection  (3)  applies,  the  submission  to  the  Chief
+Executive  in  Council  under  subsection  (1)  must  be  made
+within a reasonable time after the making of the Cap. 131
+submission.
+(5)
+The  Chief  Executive  in  Council,  after  considering  the
+proposed  adjustment  and  the  objections  submitted  under
+subsection (1), may—
+(a)
+authorize the adjustment to the boundary of the subject
+land—
+(i)
+with or without any modification to the proposed
+adjustment; and
+(ii)
+subject to any condition that the Chief Executive in
+Council considers appropriate; or
+(b)
+decline to authorize the adjustment to the boundary of
+the subject land.
+(6)
+The Chief Executive in Council may reconsider a proposed
+adjustment and—
+(a)
+authorize the adjustment to the boundary of the subject
+land  which  the  Chief  Executive  in  Council  has
+previously declined to authorize under subsection (5)(b);
+or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+13 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(b)
+remove or amend any modification or condition referred
+to in subsection (5)(a) in relation to an authorization
+previously made under that subsection.
+(7)
+Despite subsections (5) and (6), if the notice of proposed
+adjustment  is  published  in  the  circumstances  described  in
+section 5B(5), the Chief Executive in Council may make an
+authorization under subsection (5) or (6) only if the Chief
+Executive in Council has approved the relevant Cap. 131 plan
+under Cap. 131 and the approval covers the land use pending
+approval referred to in that section.
+(8)
+If the Chief Executive in Council declines to authorize the
+adjustment under subsection (5)(b), the Authority must—
+(a)
+publish a notice of that fact in the Gazette;
+(b)
+deposit a copy of the notice in the Land Registry;
+(c)
+publish  a  copy  of  the  notice  on  the  website  of  the
+Authority;
+(d)
+publish a copy of the notice in 1 issue of an English
+newspaper and 1 issue of a Chinese newspaper; and
+(e)
+affix a copy of the notice in a conspicuous place on or
+near the land affected by the proposed adjustment.
+5H.
+Effect of authorization of adjustment to land boundary
+(1)
+If  an  adjustment  to  the  boundary  of  the  subject  land  is
+authorized under section 5F(1) or 5G(5) or (6), then either or
+both of the following (as may be appropriate) are taken to be
+varied to the extent of the adjustment so authorized—
+(a)
+the  authorization  made  under  section  3(1)  or  (2)
+(relevant authorization);
+(b)
+the order made under section 3(3) (relevant order),
+and a reference to the relevant authorization or the relevant
+order in this Ordinance or any other Ordinance is a reference
+to the relevant authorization or the relevant order as so varied.
+(2)
+If any land is authorized to be resumed under the relevant
+authorization because of the variation, an order may be made
+under section 3(3) in relation to the land.
+(3)
+If any land is ordered to be resumed under the relevant order
+because of the variation, section 4 applies in relation to the
+land.
+(4)
+A variation under subsection (1) does not affect—
+(a)
+a notice published, served or affixed under section 4
+before the variation;
+(b)
+the  reversion  of  any  land  to  the  Government  under
+section 5 before the variation;
+(c)
+anything lawfully done under this Ordinance before the
+variation; or
+(d)
+any  right  (including  right  to  compensation)  accrued
+under this Ordinance before the variation.
+___________
+Part 5
+Claim for and Assessment of Compensation
+(Added 25 of 2023 s. 10)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+14 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+6.
+Compensation
+(1)
+Within a period of 28 days from the date on which land reverts
+to  the  Government  under  section  5,  the  Authority  shall
+—  (Amended 29 of 1998 s. 105)
+(a)
+write to the former owner and to any person having an
+estate or interest in the land immediately before reversion
+under  an  instrument  registered  in  the  Land  Registry,
+making  an  offer  of  compensation  in  respect  of  the
+resumption of the land; or (Amended 5 of 1984 s. 3; 8 of 
+1993 s. 2)
+(b)
+serve on any of the persons referred to in paragraph (a) a
+notice  in  such  form  as  the  Authority  may  specify,
+requiring  him  to  submit  his  claim  for  compensation
+within the time stipulated in such notice.
+(2)
+Where a notice is served on a person under subsection (1)(b)
+he shall submit his claim in a form specified by the Authority
+and shall furnish to the Authority such accounts, documents
+and particulars as the Authority may reasonably require in
+support of such claim.
+(2A)
+Where, in the case of land resumed under an order made under
+section 3 on or after the commencement* of the Crown Lands
+Resumption (Amendment) Ordinance 1984 (5 of 1984),  an
+offer of compensation is made or a claim for compensation is
+submitted to or by any person under this section, such offer
+may provide for the payment by the Authority to that person
+of,  or  such  claim  may  include  a  claim  for,  any  costs  or
+remuneration reasonably incurred or paid by him in employing
+persons to act in a professional capacity in connection with
+such offer or claim. (Added 5 of 1984 s. 3)
+(3)
+If—
+(a)
+a  person  to  whom  an  offer  has  been  made  under
+subsection (1)(a) does not accept the offer within 28 days
+from the date thereof; or
+(b)
+a  person  on  whom  a  notice  has  been  served  under
+subsection (1)(b)—
+(i)
+does not submit his claim within the time stipulated
+therein; or
+(ii)
+submits his claim but he and the Authority do not
+agree as to the amount of compensation,
+such person or the Authority may then refer the matter to the
+Lands  Tribunal  for  determination  of  the  amount  of
+compensation to be paid. (Amended 5 of 1984 s. 3)
+(Replaced 63 of 1974 s. 7)
+____________________
+Editorial Note:
+* Commencement date: 13 January 1984.
+7.
+Power of entry
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+15 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(1)
+If a notice has been given under section 4, it is lawful for the
+Chief  Executive  or  any  person  authorized  by  the  Chief
+Executive  to  enter,  without  the  consent  of  the  owner  or
+occupier, into and upon any land intended to be resumed for
+the purpose of surveying and taking levels of such land and
+doing all necessary acts for setting out the line of works. (18 of 
+1910 s. 6 incorporated. Amended 28 of 1911 s. 6(c); 51 of
+1911; 2 of 1912 Schedule; 63 of 1974 s. 8; 3 of 2000 s. 3; 25 
+of 2023 s. 11)
+(2)
+If any damage is caused by reason of the entry into and upon
+the land or of any works performed under subsection (1) either
+the owner or occupier may submit to the Authority a claim for
+compensation in respect of such damage. (Added 63 of 1974 s. 
+8)
+(3)
+The Authority may compromise or settle any claim submitted
+under subsection (2), or failing agreement, either party may
+refer the matter to the Lands Tribunal for determination of the
+amount of compensation to be paid. (Added 63 of 1974 s. 8)
+8.
+Claims for compensation
+(1)
+Any  person  claiming  compensation  by  reason  of  the
+resumption of any land under this Ordinance, and being a
+person who has not been offered in writing compensation
+under section 6(1)(a), or has not been served with a notice
+under section 6(1)(b), may submit a claim in writing to the
+Authority stating the nature of his estate or interest in the land
+and the amount which he seeks to recover.
+(2)
+If any such person and the Authority do not agree as to the
+amount of compensation (if any) to be paid either party may
+submit the claim to the Lands Tribunal for determination of
+the amount of compensation (if any) to be paid.
+(3)
+A person claiming compensation under subsection (1) shall
+submit his claim to the Authority within a period of 1 year
+from the date on which the land reverted to the Government
+under section 5 or within such further period as the Chief
+Executive may allow in any case. (Amended 5 of 1984 s. 4; 29 
+of 1998 s. 105; 3 of 2000 s. 3)
+(4)
+A claim submitted by a person under subsection (1), in respect
+of land resumed under an order made under section 3 on or
+after the commencement* of the Crown Lands Resumption
+(Amendment) Ordinance 1984 (5 of 1984), may include a
+claim for any costs or remuneration reasonably incurred or
+paid  by  that  person  in  employing  persons  to  act  in  a
+professional capacity in connection with such claim. (Added 5 
+of 1984 s. 4)
+(Replaced 63 of 1974 s. 9)
+____________________
+Editorial Note:
+* Commencement date: 13 January 1984.
+9.
+Barring of actions against the Government
+Subject to the provisions of this Ordinance, no action or suit shall
+lie against the Government or against any other person for any loss
+or damage suffered by any person as the result of the resumption of
+any land under this Ordinance.
+(Replaced 63 of 1974 s. 10. Amended 3 of 2000 s. 3)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+16 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+10.
+Determination  by  Tribunal  of  compensation  payable  by
+Government
+(1)
+The Tribunal shall determine the amount of compensation (if
+any) payable in respect of a claim submitted to it under section
+6(3) or 8(2) on the basis of the loss or damage suffered by the
+claimant due to the resumption of the land specified in the
+claim.
+(2)
+The  Tribunal  shall  determine  the  compensation  (if  any)
+payable under subsection (1) on the basis of—
+(a)
+the value of the land resumed and any buildings erected
+thereon at the date of resumption;
+(b)
+the value of any easement or other right in the land
+resumed, owned, held or enjoyed by a claimant at the
+date of resumption;
+(c)
+the amount of loss or damage suffered by any claimant
+due to the severance of the land resumed or any building
+erected thereon from any other land of the claimant, or
+building erected thereon, contiguous or adjacent thereto;
+(d)
+the amount of loss or damage to a business conducted by
+a claimant at the date of resumption on the land resumed
+or in any building erected thereon, due to the removal of
+the business from that land or building as a result of the
+resumption;
+(e)
+in the case of land resumed under an order made under
+section 3 on or after the commencement* of the Crown
+Lands Resumption (Amendment) Ordinance 1984 (5 of
+1984)—
+(i)
+the amount of any expenses reasonably incurred by
+him  in  moving  from  any  premises  owned  or
+occupied by him on the land resumed to, or in
+connection with the acquisition of, alternative land
+or land and buildings, but excluding any amount to
+which paragraph (d) applies;
+(ii)
+the amount of any costs or remuneration mentioned
+in sections 6(2A) and 8(4). (Added 5 of 1984 s. 5)
+(Replaced 63 of 1974 s. 10)
+____________________
+Editorial Note:
+* Commencement date: 13 January 1984.
+11.
+Principles of assessment of compensation
+(1)
+When  any  property  is  resumed,  the  Lands  Tribunal  in
+determining the compensation to be paid and in estimating the
+value  of  the  land  resumed  and  of  any  buildings  thereon,
+may —  (Amended 28 of 1911 s. 6(i); 50 of 1911; 1 of 1912
+Schedule)
+(a)
+take into consideration the nature and existing condition
+of  the  property,  and  the  probable  duration  of  the
+buildings in their existing state, and the state of repair
+thereof; and
+(b)
+decline to make any compensation for any addition to or
+improvement of the property made after the date of the
+publication in the Gazette of the notice under section
+4(1) (unless such addition or improvement was necessary
+for the maintenance of the property in a proper state of
+repair): (Amended 27 of 1937 Schedule; 25 of 2023 s. 12)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+17 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+Provided that, in the case of any interest acquired after the date
+of such publication, no separate estimate of the value of the
+interest  is  to  be  made  so  as  to  increase  the  amount  of
+compensation. (Amended 25 of 2023 s. 12)
+(2)
+The  Lands  Tribunal  may  also  receive  evidence  to
+prove —  (Amended 28 of 1911 s. 6 (i))
+(a)
+that the rental of the buildings or premises was enhanced
+by reason of the same being used as a brothel, or as a
+gaming house, or for any illegal purpose; or
+(b)
+that the buildings or premises are in such a condition as
+to be a nuisance within the meaning of any Ordinance
+relating to buildings or to public health, or are not in
+reasonably good repair; or (Amended 50 of 1911; 51 of
+1911; 1 of 1912 Schedule; 2 of 1912 Schedule; 20 of 
+1948 s. 4)
+(c)
+that  the  buildings  or  premises  are  unfit,  and  not
+reasonably  capable  of  being  made  fit,  for  human
+habitation. (Amended 51 of 1911; 2 of 1912 Schedule)
+(3)
+If the Lands Tribunal is satisfied by such evidence, then the
+compensation—
+(a)
+shall, in the first case, so far as it is based on rental, be
+based on the rental which would have been obtainable if
+the building or premises had not been occupied as a
+brothel, or as a gaming house, or for an illegal purpose;
+and (Amended 51 of 1911; 2 of 1912 Schedule)
+(b)
+shall, in the second case, be the amount estimated as the
+value of the building or premises if the nuisance had
+been abated or if they had been put into reasonably good
+repair, after deducting the estimated expense of abating
+the nuisance or putting them into such repair, as the case
+may be; and (Amended 50 of 1911; 51 of 1911; 1 of 1912
+Schedule; 2 of 1912 Schedule)
+(c)
+shall, in the third case, be the value of the land and of the
+materials of the buildings thereon.
+(Amended 28 of 1911 s. 6(d); 14 of 1921 s. 7; 63 of 1974 s. 11)
+12.
+Additional rules for determining compensation
+In the determination of the compensation to be paid under this
+Ordinance—  (Amended 5 of 1924 s. 30)
+(a)
+no allowance shall be made on account of the resumption
+being compulsory;
+(aa)
+no account shall be taken of the fact that the land lies
+within or is affected by any area, zone or district reserved
+or set apart for the purposes specified in section 4(1)(a),
+(c), (d), (e), (f), (g), (h) or (i) of Cap. 131; (Added 32 of 
+1973 s. 2. Amended 2 of 1988 s. 8(2); 4 of 1991 s. 9; 25 
+of 2023 s. 13)
+(b)
+no compensation shall be given in respect of any use of
+the land which is not in accordance with the terms of the
+Government  lease  under  which  the  land  is
+held; (Amended 29 of 1998 s. 105)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+18 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+[cf. 1919 c. 57 s. 2 (1) & (2) U.K.]
+(c)
+no  compensation  shall  be  given  in  respect  of  any
+expectancy  or probability of the grant or renewal or
+continuance, by the Government or by any person, of any
+licence,
+ 
+permission,
+ 
+lease
+ 
+or
+ 
+permit
+whatsoever: (Amended 29 of 1998 s. 105)
+Provided that this paragraph shall not apply to any case
+in which the grant or renewal or continuance of any
+licence,  permission,  lease  or  permit  could  have  been
+enforced as of right if the land in question had not been
+resumed; and
+(d)
+subject  to  the  provisions  of  section  11  and  to  the
+provisions of paragraphs (aa), (b) and (c) of this section,
+the value of the land resumed shall be taken to be the
+amount which the land if sold by a willing seller in the
+open market might be expected to realize. (Amended 5 of 
+1924 s. 30; 32 of 1973 s. 2; 5 of 1984 s. 6)
+(Replaced 9 of 1922 s. 2)
+13.
+(Repealed 63 of 1974 s. 12)
+14.
+(Repealed 63 of 1974 s. 12)
+15.
+(Repealed 63 of 1974 s. 12)
+___________
+Part 6
+Disposal and Use of Land Resumed
+(Added 25 of 2023 s. 14)
+16.
+Power to demise or grant land resumed
+Any land resumed under the provisions of this Ordinance may be
+demised and granted by the Chief Executive on such terms and
+conditions and at such price, whether by way of rent, premium or
+otherwise, and either by public auction or private contract, as the
+Chief Executive may determine.
+(Amended 28 of 1911 s. 6(d); 3 of 2000 s. 3)
+16AA. Use of land resumed
+If any land has been resumed pursuant to an authorization of the
+resumption of the land for a public purpose made under section 3(1)
+or (2), the Government may use, or allow the use of, the land for
+any other purpose for a certain period of time before the land is used
+for that public purpose.
+(Added 25 of 2023 s. 15)
+___________
+Part 7
+Payment of Compensation and Interest
+(Added 25 of 2023 s. 16)
+16A.
+Provisional payment pending determination of compensation
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+19 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(1)
+Where, in the case of land resumed under an order made under
+section 3 on or after the commencement* of the Crown Lands
+Resumption (Amendment) Ordinance 1984 (5 of 1984), any
+offer of compensation made by the Authority to any person
+under this Ordinance in respect of any claim is not accepted,
+the Authority may, pending the determination by the Lands
+Tribunal of the compensation, if any, payable in respect of
+such claim under this Ordinance, pay—
+(a)
+an  amount  as  a  provisional  payment  of  the  amount
+payable by virtue of such determination; and
+(b)
+interest on any payment made under paragraph (a), for
+the period from the date on which the land reverts to the
+Government under section 5, until the date on which the
+payment is made, calculated on a daily basis according to
+subsection (1A). (Amended 62 of 1985 s. 2; 29 of 1998 s. 
+105; 6 of 2001 s. 2)
+(1A)
+For the purposes of subsection (1)(b), the rate of interest paid
+— (Added 6 of 2001 s. 2)
+(a)
+in respect of a day on which the reference interest rate is
+published (publication day)—is  the  reference  interest
+rate; and (Replaced 25 of 2023 s. 17)
+(b)
+in respect of a day other than a publication day—is the
+reference interest rate published on the last publication
+day before that day. (Replaced 25 of 2023 s. 17)
+(2)
+Any payment made by the Authority under subsection (1) in
+respect of any claim shall be without prejudice to the claim or
+the submission thereof to, or the determination thereof by, the
+Lands  Tribunal  under  this  Ordinance;  but  the  amount  of
+compensation  payable  by  virtue  of  such  determination  in
+respect of such claim shall be reduced by the amount of such
+payment. (Amended 62 of 1985 s. 2)
+(3)
+Where the amount of compensation payable by virtue of a
+determination of the Lands Tribunal under this Ordinance is
+reduced under subsection (2) by the amount of any payment
+made under subsection (1), such compensation shall not as
+from the date on which the payment is made bear interest
+except on the amount thereof as so reduced. (Replaced 62 of 
+1985 s. 2)
+(4)
+Where the amount of any payment made by the Authority
+under  subsection  (1)  in  respect  of  any  claim  exceeds  the
+amount of the compensation determined by the Lands Tribunal
+in respect of such claim, the amount of the excess shall be
+recoverable by the Authority as a civil debt. (Amended 62 of 
+1985 s. 2)
+(Added 5 of 1984 s. 7)
+____________________
+Editorial Note:
+For the validation of interest payments and application provisions relating to
+the amendments made by 6 of 2001—see section 13 of 6 of 2001.
+* Commencement date: 13 January 1984.
+17.
+Payment of compensation and interest
+(1)
+All sums of money agreed or determined as compensation
+(together with interest thereon as hereinafter mentioned), and
+all costs and remuneration awarded against the Government,
+shall be paid out of the general revenue. (Amended 63 of 1974 
+s. 13; 3 of 2000 s. 3)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+20 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(2)
+At any time after agreement or determination by the Lands
+Tribunal of the amount of compensation to be paid under this
+Ordinance,  the  Authority  may  by  notice  published  in  the
+Gazette require the person entitled to such compensation to
+collect the same within the time and at the place specified in
+the notice. (Replaced 63 of 1974 s. 13)
+(3)
+Subject to section 16A(3), any  sum of money payable  as
+compensation  by  virtue  of  a  determination  of  the  Lands
+Tribunal or an agreement under this Ordinance bears interest,
+calculated on a daily basis in accordance with subsection (3A),
+from the date of resumption of the land until the expiration of
+the time specified in the notice referred to in subsection (2).
+No interest is payable on any costs or remuneration. (Replaced
+63 of 1974 s. 13. Amended 5 of 1984 s. 8; 25 of 2023 s. 18)
+(3A)
+For subsection (3), the rate of interest payable—
+(a)
+in respect of a day on which the reference interest rate is
+published (publication day)—is  the  reference  interest
+rate; and
+(b)
+in respect of a day other than a publication day—is the
+reference interest rate published on the last publication
+day before that day. (Replaced 25 of 2023 s. 18)
+(3B)
+(Repealed 25 of 2023 s. 18)
+(4)
+If no claim be made for the compensation money at the place,
+and  within  the  time  appointed,  the  officer  appointed  as
+aforesaid shall cause such money to be paid into the Treasury.
+(5)
+The money thus paid into the Treasury or any part of it may,
+within a period of 5 years from the expiration of the time
+referred to in subsection (2), be claimed by the person entitled
+thereto and upon such claim being substantiated shall be paid
+to the person so entitled.
+(6)
+At the expiration of the said period of 5 years the money or
+such part of it as remains unpaid shall be transferred to the
+general revenue. (Amended 71 of 1971 s. 3; 3 of 2000 s. 3)
+(Replaced 33 of 1929 s. 2)
+____________________
+Editorial Note:
+For the validation of interest payments and application provisions relating to
+the amendments made by 6 of 2001—see section 13 of 6 of 2001.
+18.
+Payment when owner absent, etc.
+When the owner of any land which has been resumed is absent from
+Hong Kong or cannot be found, or within 6 months from the date
+when  the  amount  of  compensation  shall  have  been  determined
+makes no claim to the same, or is in the opinion of the Chief
+Executive unable to give an effectual discharge for the same, the
+Chief Executive may direct payment of the compensation to be
+made to such other person on behalf of the owner as he shall think
+proper, subject to such conditions as he thinks fit, and the receipt of
+such person shall be a valid and effectual discharge for the same in
+the same manner as if payment had been made to the owner.
+(18 of 1910 s. 7 incorporated. Amended 28 of 1911 s. 6(e); 50 of
+1911; 1 of 1912 Schedule; 62 of 1985 s. 3; 3 of 2000 s. 3)
+___________
+Part 8
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+21 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+Miscellaneous
+(Added 25 of 2023 s. 19)
+18A.
+Resumption of contiguous or adjacent land on application
+(1)
+The owner of, or a mortgagee in possession of, any land
+(relevant land) that is contiguous or adjacent to land that has
+been resumed pursuant to an authorization made under section
+3(1) or (2) (resumed land) may apply to the Chief Executive
+for the resumption of the relevant land.
+(2)
+The application must be made before the expiry of—
+(a)
+a period of 1 year from the date on which the resumed
+land reverts to the Government under section 5; or
+(b)
+a further period allowed by the Chief Executive in a
+particular case.
+(3)
+On  the  application,  the  Chief  Executive  may  order  the
+resumption of the relevant land, whether or not the resumption
+is required for a public purpose, if the Chief Executive is of
+the opinion that—
+(a)
+the resumed land is reasonably necessary to the use and
+enjoyment of the relevant land; and
+(b)
+it would be just and equitable to make an order for the
+relevant land to be resumed.
+(4)
+A person aggrieved by a decision of the Chief Executive not to
+order resumption under subsection (3) may apply to the Lands
+Tribunal to review the decision.
+(5)
+On an application under subsection (4), the Lands Tribunal
+may, if it is satisfied as to the matters mentioned in subsection
+(3)(a)  and  (b),  order  the  resumption  of  the  relevant  land,
+whether or not the resumption is required for a public purpose,
+and compensation for the resumption is to be assessed under
+this Ordinance.
+(6)
+If the resumption of the relevant land is ordered under this
+section, the Authority must publish a notice of the resumption
+of the relevant land (relevant notice) in the Gazette.
+(7)
+For the purposes of this Ordinance, the relevant notice is taken
+to be a notice published under section 4(1) and, accordingly,
+section  4(2),  (3),  (3A)  and  (4)  applies  in  relation  to  the
+relevant notice.
+(Added 25 of 2023 s. 19)
+19.
+Effect as evidence of notice of resumption
+In any notice published under section 4(1), it is sufficient to state
+that the resumption of the land is required for a public purpose,
+without stating the particular purpose for which the land is required;
+and a notice containing such statement is conclusive evidence that
+the resumption is for a public purpose.
+(Amended 28 of 1911 s. 6(f); 25 of 2023 s. 20)
+19A.
+Absence of authorization of expenditure for works not prevent
+certain matters
+The fact that the expenditure for any works for carrying out the
+public purpose for which any land (land) is to be resumed has not
+been approved or authorized under the Public Finance Ordinance
+(Cap. 2) or any other enactment does not prevent—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+22 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(a)
+the authorization of the resumption of the land under
+section 3(1) or (2);
+(b)
+the order for the resumption of the land under section
+3(3);
+(c)
+the publication of a notice in respect of the resumption of
+the land under section 4;
+(d)
+the order for the resumption of any land contiguous or
+adjacent to the land (contiguous or adjacent land) under
+section 18A; or
+(e)
+the provision of any compensation (whether monetary or
+non-monetary)  or  any  financial  or  other  assistance,
+whether or not under an enactment, in connection with
+the resumption of the land or the contiguous or adjacent
+land.
+(Added 25 of 2023 s. 21)
+20.
+Arrangement  with  owner  of  buildings  or  dwellings  to
+reconstruct them
+Whenever the buildings or dwellings on any land are of insanitary
+construction  as  regards  conditions  of  light  and  air,  the  Chief
+Executive may, notwithstanding any of the powers of resumption
+herein contained or prior to the exercise of any such powers, permit
+the owner of such buildings or dwellings to reconstruct or rebuild
+the same or any part thereof, on such terms and conditions and
+subject to such security being given for the proper carrying out of
+such reconstruction or rebuilding as the Chief Executive may think
+fit.
+(Amended 28 of 1911 s. 6(f); 50 of 1911; 1 of 1912 Schedule; 3 of 
+2000 s. 3)
+21.
+(Repealed 63 of 1974 s. 14)
+22.
+Saving of power of resumption under Government lease
+This Ordinance shall not be deemed to prevent the exercise by the
+Government  of  any  power  of  resumption  contained  in  any
+Government lease.
+(Amended 28 of 1911 s. 6(f); 50 of 1911; 1 of 1912 Schedule; 29 of 
+1998 s. 34)
+23.
+Transitional provisions for Development (Town Planning, Lands
+and Works) (Miscellaneous Amendments) Ordinance 2023
+(1)
+For the purposes of subsection (2), the Secretary may, by
+notice published in the Gazette, specify a project proposed by
+the Authority if the boundary of the land proposed to be
+resumed for the purpose of the project (relevant boundary)
+has been made available to the public (or a section of the
+public) before 1 September 2023, whether or not the relevant
+boundary is varied on or after that date.
+(2)
+In relation to a project specified under subsection (1) and the
+resumption of any land for the purpose of the project—
+(a)
+the following provisions do not apply—
+(i)
+Part 2 (as added by section 5 of the Amendment
+Ordinance); and
+(ii)
+section  3  (as  amended  by  section  7  of  the
+Amendment Ordinance); and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+23 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------
+(b)
+section 3 as in force immediately before 1 September
+2023  continues  to  apply  as  if  section  7  of  the
+Amendment Ordinance had not been enacted.
+(3)
+If any land has reverted to the Government under section 5
+before 1 September 2023, sections 16A and 17 as in force
+immediately before that date continue to apply in relation to
+the compensation in respect of the resumption of the land as if
+sections 17 and 18 of the Amendment Ordinance had not been
+enacted.
+(4)
+In this Ordinance—
+(a)
+a  reference  to  an  authorization  made  by  the  Chief
+Executive in Council under section 3(1) or (2) includes a
+decision made by the Chief Executive in Council under
+section 3 as in force immediately before 1 September
+2023; and
+(b)
+a reference to an order made by the Chief Executive
+under section 3(3) includes an order made by the Chief
+Executive under section 3 as in force immediately before
+1 September 2023.
+(5)
+In this section—
+Amendment Ordinance (《修%例》) means the Development
+(Town  Planning,  Lands  and  Works)  (Miscellaneous
+Amendments) Ordinance 2023 (25 of 2023).
+(Added 25 of 2023 s. 22)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+24 of 24
+4/28/25, 22:22
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,1228 @@
+Metadata for pdf/todo/land_development_corporate_NT.pdf: {'format': 'PDF 1.6', 'title': 'Serial No', 'author': 'Judy Florance', 'subject': '', 'keywords': '', 'creator': 'Acrobat PDFMaker 19 for Word', 'producer': 'Adobe PDF Library 19.12.66', 'creationDate': "D:20190731091938+09'30'", 'modDate': "D:20190731091951+09'30'", 'trapped': '', 'encryption': None, 'country': 'Australia'}
+
+Country found in pdf/todo/land_development_corporate_NT.pdf: Australia
+
+ 
+ 
+NORTHERN TERRITORY OF AUSTRALIA 
+LAND DEVELOPMENT CORPORATION ACT 2003 
+As in force at 13 November 2014 
+Table of provisions 
+Part 1 
+Preliminary 
+1 
+Short title ......................................................................................... 1 
+2 
+Commencement .............................................................................. 1 
+3 
+Definitions ........................................................................................ 1 
+3A 
+Application of Criminal Code ........................................................... 3 
+Part 2 
+Land Development Corporation 
+4 
+Establishment of Corporation .......................................................... 3 
+5 
+Composition of Corporation ............................................................. 3 
+6 
+Functions of Corporation ................................................................. 3 
+7 
+Powers of Corporation ..................................................................... 4 
+8 
+Minister may give Corporation directions ......................................... 5 
+9 
+Corporation to take commercial approach ....................................... 5 
+10 
+Corporation an Agency .................................................................... 6 
+11 
+Corporation excluded matter under Corporations Act 2001 ............. 6 
+12 
+Delegation ....................................................................................... 6 
+Part 3 
+Advisory Board 
+Division 1 
+Establishment and membership of Board 
+13 
+Establishment of Advisory Board ..................................................... 7 
+14 
+Function of Board ............................................................................ 7 
+15 
+Duration of appointment of ordinary member .................................. 7 
+16 
+Vacation of office of ordinary member ............................................. 7 
+17 
+Termination of appointment of ordinary member ............................. 7 
+22 
+Disclosure of interests by members ................................................. 8 
+Division 2 
+Procedures of Board 
+23 
+Convening of members of Board ..................................................... 9 
+24 
+Meetings of Board ........................................................................... 9 
+25 
+Procedure of Board ......................................................................... 9 
+Part 4 
+Property, finance and reports 
+26 
+Certain property vests in Corporation .............................................. 9 
+27 
+Acquisition of estates in fee simple in Crown land by 
+Corporation .................................................................................... 10 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Land Development Corporation Act 2003 
+ii 
+ 
+28 
+Money of Corporation .................................................................... 10 
+29 
+Proper accounts to be kept etc. ..................................................... 10 
+30 
+Corporation to report to Minister regarding financial position of 
+Corporation .................................................................................... 11 
+31 
+Provision of financial information to Treasurer ............................... 12 
+32 
+Annual report of Corporation ......................................................... 12 
+Part 5 
+By-laws 
+33 
+Power to make by-laws ................................................................. 12 
+34 
+Subject matter of by-laws .............................................................. 12 
+35 
+Application of by-laws .................................................................... 13 
+36 
+Recovery of penalties imposed under by-laws .............................. 14 
+37 
+Section 57 of Interpretation Act 1978 does not apply to by-
+laws ............................................................................................... 14 
+38 
+Proof of by-laws and suspension of by-laws .................................. 14 
+Part 6 
+Miscellaneous 
+39 
+Appointment of staff ....................................................................... 14 
+40 
+Civil penalties ................................................................................ 15 
+41 
+Validity of procedures and actions of Corporation ......................... 15 
+42 
+Protection from liability .................................................................. 15 
+43 
+Form and execution of documents by Corporation ........................ 16 
+44 
+Regulations .................................................................................... 16 
+ENDNOTES 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+NORTHERN TERRITORY OF AUSTRALIA 
+ 
+____________________ 
+As in force at 13 November 2014 
+____________________ 
+LAND DEVELOPMENT CORPORATION ACT 2003 
+An Act to establish a statutory corporation to develop and manage land 
+for use by new and existing industries in the Territory, for use for 
+residential developments and for associated activities, and for related 
+purposes 
+Part 1 
+Preliminary 
+1 
+Short title 
+This Act may be cited as the Land Development Corporation 
+Act 2003. 
+2 
+Commencement 
+This Act comes into operation on 1 July 2003. 
+3 
+Definitions 
+In this Act: 
+Board means an Advisory Board established under section 13. 
+Chief Executive Officer, see section 3(1) of the Public Sector 
+Employment and Management Act 1993. 
+co-development land means: 
+(a) 
+land declared as co-development land in an agreement 
+between the Corporation and a person who: 
+(i) 
+owns or leases the land; or 
+(ii) 
+is a mortgagee in possession of the land; or 
+(iii) occupies the land under a licence; or 
+(b) 
+land declared under the regulations as co-development land. 
+
+--------------------------------------------------------------------------------
+ 
+Part 1 
+Preliminary 
+ 
+ 
+Land Development Corporation Act 2003 
+2 
+ 
+community amenities, areas or facilities includes health care 
+facilities, child care facilities, aged care facilities, parks, open 
+spaces, community centres, civic centres, halls, libraries, sporting 
+facilities and transport facilities. 
+Corporation 
+means 
+the 
+Land 
+Development 
+Corporation 
+established under section 4. 
+Corporation land means land owned or leased by, occupied under 
+a licence by, vested in or otherwise acquired by or under the control 
+or management of the Corporation. 
+industrial 
+businesses 
+includes 
+other 
+businesses 
+usually 
+associated with providing goods or services to industrial businesses 
+or persons who work at or visit industrial businesses. 
+land includes: 
+(a) 
+rivers, creeks, streams, watercourses, channels, lakes and 
+lagoons on land; and 
+(b) 
+inland and coastal waters. 
+member, in relation to a Board, means the person appointed to be 
+the Corporation or an ordinary member of the Board. 
+ordinary member means a member who is not the person 
+appointed to be the Corporation under section 5(2). 
+project land means Corporation land or co-development land. 
+residential developments means: 
+(a) 
+developments of residential accommodation of any kind; or 
+(b)  developments of any of the following to the extent they are 
+associated with developments mentioned in paragraph (a): 
+(i) 
+community amenities, areas or facilities; 
+(ii) 
+commercial or retail areas or facilities. 
+Examples for paragraph (b) 
+1 
+A shopping precinct on the ground floor of a large apartment building. 
+2 A free standing gymnasium and a swimming pool in a suburban development 
+of single dwellings. 
+staff means the persons who are employed or engaged by the 
+Corporation. 
+
+--------------------------------------------------------------------------------
+ 
+Part 2 
+Land Development Corporation 
+ 
+ 
+Land Development Corporation Act 2003 
+3 
+ 
+vehicle means any means of transport whether self propelled or 
+not and whether used on land or sea or in the air. 
+3A 
+Application of Criminal Code  
+Part IIAA of the Criminal Code applies to an offence against this 
+Act. 
+Note for section 3A 
+Part IIAA of the Criminal Code states the general principles of criminal 
+responsibility, establishes general defences, and deals with burden of proof. It 
+also defines, or elaborates on, certain concepts commonly used in the creation of 
+offences. 
+Part 2 
+Land Development Corporation 
+4 
+Establishment of Corporation 
+ 
+(1) The Land Development Corporation is established. 
+ 
+(2) The Corporation: 
+(a) 
+is a corporation sole; 
+(b) 
+has a common seal; and 
+(c) 
+is capable, in its corporate name, of acquiring, holding and 
+disposing of real (including leasehold) and personal property 
+and of suing and being sued. 
+ 
+(3) All courts, judges and persons acting judicially are to take judicial 
+notice of the common seal of the Corporation affixed to a document 
+and are to assume that it was duly affixed. 
+5 
+Composition of Corporation 
+ 
+(1) The Corporation consists of a Chief Executive Officer. 
+ 
+(2) The Minister must, in writing, appoint a Chief Executive Officer to 
+be the Corporation. 
+6 
+Functions of Corporation 
+The functions of the Corporation are: 
+(a) 
+to develop and promote project land for use by industrial 
+businesses; and 
+(b) 
+to develop and promote project land for use for residential 
+developments; and 
+
+--------------------------------------------------------------------------------
+ 
+Part 2 
+Land Development Corporation 
+ 
+ 
+Land Development Corporation Act 2003 
+4 
+ 
+(c) 
+to undertake residential developments on project land; and 
+(d) 
+to provide services, facilities and general assistance to 
+facilitate: 
+(i) 
+the establishment and conduct of industry on project 
+land; and 
+(ii) 
+the use of project land for residential developments; and 
+(e) 
+to carry out or facilitate other activities associated with the 
+development, management or use of project land. 
+7 
+Powers of Corporation 
+ 
+(1) Subject to this Act or an instrument of a legislative or administrative 
+character made under this Act, the Corporation has power to do all 
+things that are necessary or convenient to be done for or in 
+connection with or incidental to the performance of its functions. 
+ 
+(2) In particular, the Corporation has power to: 
+(a) 
+negotiate and enter into contracts, agreements, schemes and 
+arrangements; and 
+(aa) form partnerships and enter into joint ventures and other 
+arrangements for sharing profits; and 
+(ab) borrow money or raise money otherwise than by borrowing 
+(including from outside the Territory or Australia); and 
+(b) 
+purchase, lease or otherwise acquire and hold real or personal 
+property; and 
+(c) 
+sell, grant leases of or otherwise dispose of real or personal 
+property; and 
+(d) 
+acquire, hold and dispose of rights, privileges, permits, 
+licences and authorities; and 
+(e) 
+occupy, use, control and manage land or a building; and 
+(f) 
+erect buildings and construct wharves, roads, railways, 
+pipelines, bridges or other facilities; and 
+(fa) erect and construct community amenities, areas or facilities; 
+and 
+(g) 
+purchase, lease or hire plant, machinery, equipment or other 
+things for the purpose of conducting its functions; and 
+
+--------------------------------------------------------------------------------
+ 
+Part 2 
+Land Development Corporation 
+ 
+ 
+Land Development Corporation Act 2003 
+5 
+ 
+(h) 
+impose and collect fees and charges for or in respect of use of 
+Corporation land or a facility on that land; and 
+(i) 
+accept, hold and enforce undertakings, indemnities, bonds or 
+securities protecting it against loss; and 
+(j) 
+regulate and prohibit the conduct of persons on its land and 
+set the conditions on which persons may enter or be excluded 
+from a part or parts of Corporation land; and 
+(k) 
+regulate and prohibit the presence, use and removal of 
+vehicles and animals on Corporation land or a part of the land; 
+and 
+(l) 
+employ or engage staff, engage consultants and appoint 
+agents and attorneys; and 
+(m) charge for work, services, goods and information done, 
+supplied or published by the Corporation and for admission on 
+to Corporation land; and 
+(n) 
+perform any other functions imposed on it under this Act. 
+ 
+(3) The Corporation may exercise a power involving it doing either of 
+the following only if it has the written approval of the Treasurer to do 
+so: 
+(a) 
+forming a partnership, or entering into a joint venture or other 
+arrangement for sharing profits; 
+(b) 
+borrowing money or raising money otherwise than by 
+borrowing. 
+8 
+Minister may give Corporation directions 
+ 
+(1) In performing its functions and exercising its powers, the 
+Corporation is subject to the directions of the Minister. 
+ 
+(2) The Minister must lay before the Legislative Assembly a copy of a 
+direction given under subsection (1) within 6 sitting days of the 
+Assembly after giving the direction. 
+ 
+(3) A copy of a direction given under subsection (1) in a financial year 
+is to be included in the Corporation's report for the year prepared 
+under section 32. 
+9 
+Corporation to take commercial approach 
+ 
+(1) Subject to this Act, the Corporation must act in a commercial 
+manner. 
+
+--------------------------------------------------------------------------------
+ 
+Part 2 
+Land Development Corporation 
+ 
+ 
+Land Development Corporation Act 2003 
+6 
+ 
+ 
+(2) The Minister may direct the Corporation under section 8 to act in a 
+manner other than a commercial manner. 
+ 
+(3) If the Minister directs the Corporation to act in a manner that is not 
+commercial, the Minister must specify in the direction the manner in 
+which the Corporation must act. 
+10 
+Corporation an Agency 
+ 
+(1) The Corporation is an Agency for the purposes of the Public Sector 
+Employment and Management Act 1993 and the Financial 
+Management Act 1995. 
+ 
+(2) Subsection (1) applies whether or not the Corporation is nominated 
+in the Administrative Arrangements Order as an Agency for the 
+purposes of either the Public Sector Employment and Management 
+Act 1993 or the Financial Management Act 1995 or for the 
+purposes of both of those Acts. 
+ 
+(3) The person appointed to be the Corporation under section 5: 
+(a) 
+is the Chief Executive Officer of the Corporation; and 
+(b) 
+is the accountable officer within the meaning of the Financial 
+Management Act 1995 of the Corporation. 
+11 
+Corporation excluded matter under Corporations Act 2001 
+The Corporation is declared to be an excluded matter for the 
+purposes of section 5F of the Corporations Act 2001 in relation to 
+the whole of the Corporations legislation. 
+12 
+Delegation 
+ 
+(1) The Corporation may, in writing, delegate to a person or body any 
+of its powers or functions under this Act, other than this power of 
+delegation. 
+ 
+(2) If the Corporation delegates to a body and there is a change in the 
+membership of the body, the delegation continues in force as a 
+delegation of the power or function to the body as newly constituted 
+unless the Corporation expressly revokes or varies the instrument 
+of delegation. 
+
+--------------------------------------------------------------------------------
+ 
+Part 3 
+Advisory Board 
+Division 1 
+Establishment and membership of Board 
+ 
+Land Development Corporation Act 2003 
+7 
+ 
+Part 3 
+Advisory Board 
+Division 1 
+Establishment and membership of Board 
+13 
+Establishment of Advisory Board 
+ 
+(1) The Minister may establish an Advisory Board to perform the 
+functions mentioned in section 14. 
+ 
+(2) A Board consists of the person appointed to be the Corporation and 
+not more than 4 ordinary members appointed by the Minister. 
+14 
+Function of Board 
+The function of a Board is to advise the Corporation on any matter 
+relating to the activities of the Corporation that the Minister or the 
+Corporation refers to the Board. 
+15 
+Duration of appointment of ordinary member 
+ 
+(1) An ordinary member holds office for the period specified in the 
+instrument of appointment of the member. 
+ 
+(2) An ordinary member is eligible for re-appointment. 
+16 
+Vacation of office of ordinary member 
+A person ceases to be an ordinary member if: 
+(a) 
+the person's term of office expires and the person is not 
+re-appointed; or 
+(b) 
+the person resigns by giving written notice to the Minister. 
+17 
+Termination of appointment of ordinary member 
+ 
+(1) The Minister may terminate the appointment of an ordinary member 
+on the grounds of inability, inefficiency, misbehaviour or physical or 
+mental incapacity. 
+ 
+(2) The Minister must terminate the appointment of an ordinary 
+member if the member knowingly contravenes section 22. 
+
+--------------------------------------------------------------------------------
+ 
+Part 3 
+Advisory Board 
+Division 1 
+Establishment and membership of Board 
+ 
+Land Development Corporation Act 2003 
+8 
+ 
+ 
+(3) An ordinary member's appointment terminates on either of the 
+following occurring: 
+(a) 
+the member becomes bankrupt, applies to take the benefit of 
+a law for the relief of bankrupt or insolvent debtors, 
+compounds with creditors or makes an assignment of the 
+member's remuneration for their benefit; 
+(b) 
+the member is found guilty: 
+(i) 
+by a court in the Territory of an offence punishable by 
+imprisonment for 12 months or more; or 
+(ii) 
+by a court outside the Territory of an offence which, if 
+committed against a law in force in the Territory, would 
+be an offence punishable by imprisonment for 12 months 
+or more. 
+ 
+(4) A termination of an appointment under subsection (1) or (2) must 
+be in writing and a copy must be given to the member. 
+22 
+Disclosure of interests by members 
+ 
+(1) If a member has a direct or indirect interest in a matter being 
+considered, or about to be considered, by a Board, the member 
+must disclose the nature of the interest to a meeting of the Board as 
+soon as practicable after the relevant facts come to the member's 
+knowledge. 
+ 
+(2) The disclosure is to be recorded in the Board's minutes. 
+ 
+(3) Subject to a resolution of the Board to the contrary, a member who 
+has made a disclosure under subsection (1): 
+(a) 
+must not, while the member has the interest, take part in any 
+deliberation or decision of the Board relating to the matter in 
+which the member has the interest; and 
+(b) 
+is to be disregarded for the purpose of constituting the quorum 
+of the Board for the purpose of any deliberation or decision of 
+the Board relating to the matter in which the member has the 
+interest. 
+ 
+(4) The resolution of the Board to the contrary is to be deliberated and 
+voted on in the absence of the member. 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Property, finance and reports 
+ 
+ 
+Land Development Corporation Act 2003 
+9 
+ 
+Division 2 
+Procedures of Board 
+23 
+Convening of members of Board 
+ 
+(1) The members of a Board must meet as often as is necessary to 
+perform its functions. 
+ 
+(2) The Minister may, in writing, direct a Board to meet. 
+24 
+Meetings of Board 
+ 
+(1) The person appointed to be the Corporation or, in that person's 
+absence, the ordinary member elected by the ordinary members 
+present from amongst their number, must preside at a meeting of a 
+Board. 
+ 
+(2) Each member present at a meeting has one vote. 
+ 
+(3) Questions arising at a meeting of the Board are to be determined 
+by a majority of the votes of the members present and, in the event 
+of an equality of votes, the person presiding over the meeting has a 
+casting vote. 
+ 
+(4) At a meeting of the Board, the number of members that is equal to 
+half of the members plus one constitutes a quorum. 
+25 
+Procedure of Board 
+ 
+(1) Unless otherwise prescribed, the procedures of the Board are to be 
+determined by a Board. 
+ 
+(2) The Board must keep a record of all its meetings and other 
+proceedings. 
+Part 4 
+Property, finance and reports 
+26 
+Certain property vests in Corporation 
+ 
+(1) On the commencement of this Act, all estates and interests in 
+property, real and personal, and rights held by the Trade 
+Development Zone Authority within the meaning of the Trade 
+Development 
+Zone 
+Act 1985 
+immediately 
+before 
+the 
+commencement of this Act vest in the Corporation, subject to any 
+liabilities, charges, obligations, conditions, terms or trusts affecting 
+the estates or interests. 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Property, finance and reports 
+ 
+ 
+Land Development Corporation Act 2003 
+10 
+ 
+ 
+(2) On the commencement of this Act, all levies, fees, charges, 
+interest, debts or money payable to and recoverable by the Trade 
+Development Zone Authority become payable to and recoverable 
+by the Corporation. 
+27 
+Acquisition of estates in fee simple in Crown land by 
+Corporation  
+ 
+(1) The Corporation may be granted an estate in fee simple in Crown 
+land, or a lease of Crown land, under the Crown Lands Act 1992. 
+ 
+(2) If the Corporation is granted land in accordance with subsection (1), 
+the Minister must give notice of the grant by notice in the Gazette. 
+28 
+Money of Corporation 
+ 
+(1) The money of the Corporation consists of: 
+(a) 
+money that is appropriated for its purposes; 
+(b) 
+money received as grants; 
+(c) 
+money received in performing its functions and exercising its 
+powers; and 
+(d) 
+any other money that from time to time becomes available for 
+use by the Corporation. 
+ 
+(2) The money of the Corporation is only to be applied for the purposes 
+of the Corporation. 
+29 
+Proper accounts to be kept etc. 
+The Corporation must ensure that: 
+(a) 
+proper accounts and records of the transactions and affairs of 
+the Corporation are kept; 
+(b) 
+there are adequate controls over the incurring of liabilities of 
+the Corporation; 
+(c) 
+all payments out of the money of the Corporation are correctly 
+made and properly authorised; and 
+(d) 
+adequate control is maintained over the property of or in the 
+custody, control and management of the Corporation. 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Property, finance and reports 
+ 
+ 
+Land Development Corporation Act 2003 
+11 
+ 
+30 
+Corporation to report to Minister regarding financial position 
+of Corporation 
+ 
+(1) If the Corporation: 
+(a) 
+considers that a matter is affecting its operations in such a 
+way that hinders, prevents or otherwise adversely affects to a 
+significant degree its performance of its functions or its 
+financial position; or 
+(b) 
+expects a matter to affect its operations in such a way that will 
+hinder, prevent or otherwise adversely affect to a significant 
+degree its performance of its functions or its financial position, 
+the Corporation must, as soon as practicable after becoming aware 
+of the matter, inform the Minister in writing of: 
+(c) 
+the matter; 
+(d) 
+the reasons why it considers that the matter is affecting, or will 
+affect, its performance or its financial position; and 
+(e) 
+the effect the matter is having, or the likely effect the matter 
+will have, on its performance or its financial position. 
+ 
+(2) The Corporation must, in writing, report to the Minister in respect of 
+each financial year or other reporting period determined by the 
+Minister about its financial performance during that period and its 
+expected financial performance during the next 2 reporting periods. 
+ 
+(3) The report under subsection (2) is to at least: 
+(a) 
+specify the financial performance targets of the Corporation for 
+the reporting period, identify the targets the Corporation 
+achieved and the targets it exceeded, identify the targets it did 
+not achieve and specify the reasons why it did not achieve 
+them; 
+(b) 
+detail the financial performance objectives of the Corporation 
+for the next 2 reporting periods and include details of: 
+(i) 
+the projected nature and scope of its activities for those 
+periods, including material contracts and terms and 
+conditions of any lease or sale or purchase of real 
+property; 
+(ii) 
+its financial projections for those periods; and 
+(iii) the likely financial risks for the Corporation and its 
+strategies to minimise the risks; and 
+
+--------------------------------------------------------------------------------
+ 
+Part 5 
+By-laws 
+ 
+ 
+Land Development Corporation Act 2003 
+12 
+ 
+(c) 
+contain any other information the Minister requires. 
+ 
+(4) The Corporation must give the report under subsection (2) to the 
+Minister within 3 months after the end of the reporting period it 
+refers to. 
+31 
+Provision of financial information to Treasurer 
+ 
+(1) The Treasurer may at any time request the Corporation to provide 
+the Treasurer with the information that the Treasurer considers will 
+enable him or her to accurately assess the financial affairs of the 
+Corporation. 
+ 
+(2) The Corporation must comply with the Treasurer's request. 
+32 
+Annual report of Corporation 
+ 
+(1) At the end of each financial year the Corporation must prepare a 
+report on the administration of this Act and the operations of the 
+Corporation during the financial year. 
+ 
+(2) The report is to include a copy of any directions and reasons for 
+directions given to the Corporation, and any objections to the 
+directions made by the Corporation, under section 8 during the 
+financial year. 
+ 
+(3) The Corporation must forward a copy of the report to the Minister 
+by 30 November following the end of the financial year. 
+ 
+(4) The Minister must lay a copy of the report before the Legislative 
+Assembly within 6 sitting days of the Legislative Assembly after 
+receiving the report. 
+Part 5 
+By-laws 
+33 
+Power to make by-laws 
+ 
+(1) The Corporation may make by-laws relating to the management of 
+Corporation land. 
+ 
+(2) The Corporation may not make a by-law that is inconsistent with 
+this Act, or any other Act or any regulations, or that is unlawful. 
+34 
+Subject matter of by-laws 
+ 
+(1) The by-laws may provide for the following: 
+(a) 
+the regulation or prohibition of access to or use of Corporation 
+land or buildings on the land of the Corporation; 
+
+--------------------------------------------------------------------------------
+ 
+Part 5 
+By-laws 
+ 
+ 
+Land Development Corporation Act 2003 
+13 
+ 
+(b) 
+the regulation or prohibition of the conduct of persons on 
+Corporation land or in a building on the land; 
+(c) 
+the regulation or prohibition of the presence or use of vehicles 
+or animals on Corporation land or in a building on the land and 
+provide for the removal, impounding or disposal of such 
+vehicles or animals; 
+(d) 
+the regulation of vehicular or pedestrian traffic on Corporation 
+land; 
+(e) 
+the parking of vehicles or the erection, form of or markings on 
+traffic signs or directions on Corporation land; 
+(f) 
+the security or general facility of the Corporation land; 
+(g) 
+penalties not exceeding 2 penalty units for offences against 
+the by-laws. 
+ 
+(2) A by-law may provide for matters of regulation or prohibition, either 
+absolutely or conditionally or in relation to a class of acts, matters or 
+things or a situation or other circumstance. 
+ 
+(3) A by-law may: 
+(a) 
+authorise a member of the staff or other person to do an act or 
+thing (including the giving of directions by a member of the 
+staff or other person); or 
+(b) 
+provide that an act or thing is to be done with the approval of a 
+member of the staff or other person. 
+35 
+Application of by-laws 
+ 
+(1) A by-law may apply to: 
+(a) 
+the whole or a specified part of the Corporation land; or 
+(b) 
+a specified class of persons or circumstances. 
+ 
+(2) The Corporation may, in the manner prescribed by the Regulations, 
+suspend the operation of a by-law: 
+(a) 
+for a specified period; 
+(b) 
+on the whole or a specified part of the land of the Corporation; 
+or 
+(c) 
+in relation to a specified class of persons or circumstances. 
+
+--------------------------------------------------------------------------------
+ 
+Part 6 
+Miscellaneous 
+ 
+ 
+Land Development Corporation Act 2003 
+14 
+ 
+36 
+Recovery of penalties imposed under by-laws 
+ 
+(1) If a penalty is imposed on a person as a result of a prosecution for 
+an offence committed against a by-law, or a penalty is payable 
+under an infringement notice in lieu of prosecution of an offence 
+committed or allegedly committed against a by-law, the penalty may 
+be recovered by the Corporation as a debt due and payable to the 
+Corporation by the person on whom it is imposed. 
+ 
+(2) Subsection (1) does not affect the operation of the Fines and 
+Penalties (Recovery) Act 2001. 
+37 
+Section 57 of Interpretation Act 1978 does not apply to by-laws 
+Section 57 of the Interpretation Act 1978 does not apply to the 
+by-laws. 
+38 
+Proof of by-laws and suspension of by-laws 
+ 
+(1) In any proceedings, the production of: 
+(a) 
+a copy of a by-law purporting to be a true copy of the by-law 
+on which the Corporation's common seal is affixed and which 
+is certified as a true copy of the by-law and signed by a person 
+authorised by the Corporation to do so; and 
+(b) 
+the Gazette in which notification of the making of the by-law is 
+published, 
+is conclusive evidence of the by-law having been made and the 
+contents of the by-law. 
+ 
+(2) In any proceedings, the production of a copy of the notice (if any) 
+required by the Regulations to be given in relation to the 
+suspension of a by-law purporting to be a true copy of the notice on 
+which the Corporation's common seal is affixed, and which is 
+certified as a true copy of the notice and signed by a person 
+authorised by the Corporation to do so, is conclusive evidence of 
+the suspension of the by-law. 
+Part 6 
+Miscellaneous 
+39 
+Appointment of staff 
+In addition to employees employed under the Public Sector 
+Employment and Management Act 1993, the Corporation may, on 
+the terms and conditions it considers appropriate, employ any other 
+persons it considers necessary for the purposes of the Corporation. 
+
+--------------------------------------------------------------------------------
+ 
+Part 6 
+Miscellaneous 
+ 
+ 
+Land Development Corporation Act 2003 
+15 
+ 
+40 
+Civil penalties 
+ 
+(1) An agreement to which the Corporation is a party may provide that, 
+if a party other than the Corporation is in breach of an obligation 
+under the agreement, that party is required to pay to the 
+Corporation by way of a civil penalty for the breach the amount 
+determined in accordance with the agreement. 
+ 
+(2) The agreement may also provide that the amount of the civil 
+penalty is to increase over the period during which the obligation 
+continues by a further amount determined in accordance with the 
+agreement. 
+ 
+(3) A civil penalty payable under this section is a debt due to the 
+Corporation by the party concerned despite the following: 
+(a) 
+that neither the Corporation or any other person (whether a 
+party to the agreement or not) suffered damage as a result of 
+the breach; 
+(b) 
+that the amount of the civil penalty is unrelated to the extent of 
+any damage that the Corporation or any other person 
+(whether a party to the agreement or not) may have suffered 
+as a result of the breach. 
+41 
+Validity of procedures and actions of Corporation 
+A procedure of the Corporation, or an act or thing done by a 
+delegate of the Corporation, is not invalid by reason only of any of 
+the following: 
+(a) 
+a defect in the appointment of a person to be the Corporation; 
+(b) 
+a defect in a delegation by the Corporation. 
+42 
+Protection from liability 
+ 
+(1) This section applies to a person who is or has been: 
+(a) 
+a person appointed to be the Corporation; or 
+(b) 
+a member of the staff. 
+ 
+(2) The person is not civilly or criminally liable for an act done, or 
+omitted to be done, by the person in good faith in the exercise or 
+purported exercise of a power, or the performance or purported 
+performance of a function, under this Act. 
+
+--------------------------------------------------------------------------------
+ 
+Part 6 
+Miscellaneous 
+ 
+ 
+Land Development Corporation Act 2003 
+16 
+ 
+ 
+(3) In addition, the person is not civilly or criminally liable for an act 
+done, or omitted to be done, by the Corporation in the exercise or 
+purported exercise, or the performance or purported performance of 
+a function, under this Act. 
+ 
+(4) Subsections (2) and (3) do not affect any liability the Territory 
+would, apart from those subsections, have for the act or omission. 
+43 
+Form and execution of documents by Corporation 
+ 
+(1) A deed, instrument, contract or agreement relating to any property 
+or matter that, if made or executed by an individual, would by law 
+be required to be in writing under seal may be made on behalf of 
+the Corporation in writing under its common seal. 
+ 
+(2) An instrument, contract or agreement relating to any property or 
+matter that, if made by or between individuals, would be required to 
+be in writing signed by the parties to it may be made or entered into 
+on behalf of the Corporation in writing by a person acting under the 
+authority, express or implied, of the Corporation. 
+ 
+(3) A contract relating to any property or matter that, if made between 
+individuals, would by law be valid, although made or entered into by 
+parole only and not reduced to writing, may be made on behalf of 
+the Corporation by a person acting under the authority, express or 
+implied, of the Corporation. 
+ 
+(4) A contract entered into, or an instrument, contract or agreement 
+signed, in relation to any property or obligation of the Corporation is 
+taken to have been entered into or signed by the Corporation if it is 
+entered into or signed by a person acting under the authority, 
+express or implied, of the Corporation. 
+44 
+Regulations 
+ 
+(1) The Administrator may make regulations, not inconsistent with this 
+Act, prescribing matters: 
+(a) 
+required or permitted by this Act to be prescribed; or 
+(b) 
+necessary or convenient to be prescribed for carrying out or 
+giving effect to this Act. 
+ 
+(2) The Regulations may provide for the following: 
+(a) 
+the use or custody of the common seal of the Corporation; 
+(b) 
+the manner of holding or adjourning meetings of a Board; 
+
+--------------------------------------------------------------------------------
+ 
+Part 6 
+Miscellaneous 
+ 
+ 
+Land Development Corporation Act 2003 
+17 
+ 
+(c) 
+the manner in which the Corporation may suspend the 
+operation of a by-law; 
+(d) 
+matters of liability, evidence or procedure relating to the 
+commission or prosecution of offences against the by-laws; 
+(e) 
+penalties not exceeding 100 penalty units or, if the offender is 
+a body corporate, 500 penalty units for offences against the 
+Regulations; 
+(f) 
+the payment of a prescribed amount instead of a penalty that 
+may otherwise be imposed for an offence against the by-laws 
+or the Regulations and the service of a notice relating to 
+payment of the amount on a person alleged to have 
+committed the offence and the particulars to be included in the 
+notice; 
+(g) 
+the designation of an offence against the Regulations or the 
+by-laws as a regulatory offence. 
+
+--------------------------------------------------------------------------------
+ENDNOTES 
+ 
+ 
+ 
+Land Development Corporation Act 2003 
+18 
+ 
+ENDNOTES 
+ 
+1 
+KEY 
+Key to abbreviations 
+ 
+amd = amended  
+ 
+ 
+ 
+od = order 
+app = appendix 
+ 
+ 
+ 
+om = omitted 
+bl = by-law 
+ 
+ 
+ 
+ 
+pt = Part 
+ch = Chapter 
+ 
+ 
+ 
+ 
+r = regulation/rule 
+cl = clause 
+ 
+ 
+ 
+ 
+rem = remainder 
+div = Division  
+ 
+ 
+ 
+renum = renumbered 
+exp = expires/expired  
+ 
+ 
+rep = repealed 
+f = forms 
+ 
+ 
+ 
+ 
+s = section 
+Gaz = Gazette  
+ 
+ 
+ 
+sch = Schedule 
+hdg = heading  
+ 
+ 
+ 
+sdiv = Subdivision 
+ins = inserted  
+ 
+ 
+ 
+SL = Subordinate Legislation 
+lt = long title 
+ 
+ 
+ 
+ 
+sub = substituted 
+nc = not commenced  
+ 
+ 
+ 
+2 
+LIST OF LEGISLATION 
+Land Development Corporation Act 2003 (Act No. 31, 2003) 
+Assent date 
+27 June 2003 
+Commenced 
+1 July 2003 (s 2) 
+Statute Law Revision Act 2005 (Act No. 44, 2005) 
+Assent date 
+14 December 2005 
+Commenced 
+14 December 2005 
+Land Development Corporation Amendment Act 2009 (Act No. 22, 2009) 
+Assent date 
+25 June 2009 
+Commenced 
+1 July 2009 (s 2) 
+Land Development Corporation Amendment Act 2014 (Act No. 33, 2014) 
+Assent date 
+13 November 2014 
+Commenced 
+13 November 2014 
+3 
+GENERAL AMENDMENTS 
+General amendments of a formal nature (which are not referred to in the table 
+of amendments to this reprint) are made by the Interpretation Legislation 
+Amendment Act 2018 (Act No. 22 of 2018) to: ss 1, 3, 10, 26, 27, 36, 37 and 
+39. 
+4 
+LIST OF AMENDMENTS 
+lt 
+amd No. 22, 2009, s 4 
+s 3 
+amd No. 22, 2009, s 5; No. 33, 2014, s 3 
+s 3A 
+ins No. 33, 2014, s 4 
+s 5 
+amd No. 22, 2009, s 8 
+s 6 
+sub No. 22, 2009, s 6 
+ 
+amd No. 33, 2014, s 5 
+s 7 
+amd No. 22, 2009, s 7 
+
+--------------------------------------------------------------------------------
+ENDNOTES 
+ 
+ 
+ 
+Land Development Corporation Act 2003 
+19 
+ 
+s 10 
+amd No. 22, 2009, s 8 
+ss 13 – 14 
+sub No. 33, 2014, s 6 
+s 15 
+amd No. 22, 2009, s 8 
+ 
+sub No. 33, 2014, s 6 
+s 16 
+sub No. 33, 2014, s 6 
+s 17 
+amd No. 44, 2005, s 35 
+ 
+sub No. 33, 2014, s 6 
+ss 18 – 21 
+rep No. 33, 2014, s 6 
+s 22 
+amd No. 33, 2014, s 7 
+s 23 
+amd No. 33, 2014, s 8 
+s 24 
+amd No. 33, 2014, s 9 
+s 25 
+amd No. 33, 2014, s 10 
+ss 33 – 34 
+amd No. 22, 2009, s 8 
+s 35 
+amd No. 22, 2009, s 8; No. 33, 2014, s 11 
+ss 36 – 38 
+amd No. 22, 2009, s 8 
+s 44 
+amd No. 33, 2014, s 12 
+ 
+
+--------------------------------------------------------------------------------

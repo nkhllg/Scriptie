@@ -1,0 +1,108 @@
+Metadata for pdf/HongKong/23-726a3.pdf: {'format': 'PDF 1.6', 'title': 'Microsoft Word - Two-pager for Estate Agents and Solicitors(eng)_20231025_final.docx', 'author': 'VenusTsoi', 'subject': '', 'keywords': '', 'creator': 'PScript5.dll Version 5.2.2', 'producer': 'Acrobat Distiller 17.0 (Windows)', 'creationDate': "D:20231026162948+08'00'", 'modDate': "D:20231026162948+08'00'", 'trapped': '', 'encryption': None, 'country': 'Hong Kong'}
+
+Country found in pdf/HongKong/23-726a3.pdf: Hong Kong
+
+Summary of the Suspension Mechanism of Stamp Duty for  
+Incoming Talents’ Purchase of Residential Property 
+ 
+Key arrangements of the mechanism are summarised below – 
+ 
+(a) when an eligible incoming talent1 purchases a residential property in Hong Kong 
+on or after 25 October 2023 (i.e. the 2023 PA date), he/she may apply to the Inland 
+Revenue Department (“IRD”) for suspension of stamp duty in respect of the 
+Buyer’s Stamp Duty (“BSD”) and the difference between New Residential Stamp 
+Duty (“NRSD”) and ad valorem stamp duty (“AVD”) at Scale 2 rates (i.e. “specified 
+amount”) when presenting the instrument of acquisition to IRD for stamping.  The 
+talent still has to pay AVD at Scale 2 rates to IRD; 
+ 
+(b) upon IRD’s vetting and approval of the application for suspension, a statutory 
+charge will be constituted in favour of the Collector of Stamp Revenue 
+(“Collector”) automatically by law.  IRD will register an instrument denoting the 
+charge (i.e. a certificate of charge) at the Land Registry (“LR”).  In terms of 
+priority, the charge in favour of the Collector will be second only to the first 
+mortgage for acquiring the property to the extent of a reserved amount2; 
+ 
+(c) after the eligible incoming talent becomes a HKPR, he/she can submit an 
+application for waiver to IRD for waiving the liabilities in respect of the 
+specified amount.  Upon IRD’s vetting and approval of the relevant application, 
+IRD will issue a certificate of discharge in respect of the charge in favour of the 
+Collector, which has the effect of discharging the charge and is registrable at LR; 
+and 
+ 
+(d) in the event that the eligible incoming talent buyer fails to become HKPR within 
+nine years from the date when he/she is permitted to stay in Hong Kong under the 
+designated talent scheme (i.e. seven years of ordinary residence in Hong Kong plus 
+two years as buffer), or under certain triggering circumstances3, he/she will be liable 
+to pay the specified amount to IRD within 30 days of the occurrence of the 
+circumstance.  If the eligible incoming talent buyer fails to do so, he/she will be 
+liable to pay late stamping penalty, which is set with reference to the existing 
+provision on “late stamping” under the section 9 of the Stamp Duty Ordinance4. 
+                                                       
+1 An eligible incoming talent is a person to whom a specified talent scheme applies (provided under Schedule 
+12 to the Stamp Duty Ordinance), who at the time of acquisition of the residential property, is not a beneficial 
+owner of any other residential property.  
+2 The reserved amount would be the lower of (a) the actual amount of the principal and interest in respect of 
+the loan for acquiring the subject property under the acquisition mortgage concerned; or (b) an amount arrived 
+at by deducting the specified amount from the amount/value of the consideration for the acquisition of the 
+subject property to cater for cases where the sum of mortgage loan taken out exceeds the value/consideration 
+of the property. 
+3 The triggering circumstances are (a) on any date before the deadline for waiver – if the eligible incoming 
+talent buyer/each of the eligible incoming talent co-buyers cease(s) to be a beneficial owner of the subject 
+property, or a person, other than one closely related to the talent buyer or all of the remaining co-buyers, 
+becomes a beneficial owner of the subject property; and (b) as at the deadline for waiver – in case where no 
+liability has been waived by the Collector in respect of the specified amount. 
+4  The late stamping penalty is to be imposed according to the following scale - (a) Not exceeding 1 month – 
+double the amount of the specified amount; (b) Exceeding 1 months but not exceeding 2 months – 4 times the 
+specified amount; and (c) In any other case – 10 times the amount of the specified amount. 
+
+--------------------------------------------------------------------------------
+2 
+ 
+Points to note for estate agents and solicitors handling related transactions –  
+ 
+Scenario 1: Incoming talent wishes to acquire his/her first property in Hong Kong 
+1. Confirm whether the buyer is an eligible incoming talent (i.e. permitted to stay in 
+Hong Kong by virtue of being a person to whom a specified talent scheme applies as 
+provided under Schedule 12 to the Stamp Duty Ordinance); 
+2. If the buyer is an eligible incoming talent, when presenting the instrument of 
+acquisition in respect of the property to IRD for stamping, he/she has to apply for 
+suspension of the relevant stamp duty (i.e. “specified amount”) at the same time; 
+3. Remind the incoming talent that when he/she becomes a HKPR, he/she has to 
+apply to IRD for waiving the liabilities in respect of the specified amount, in order 
+to discharge the charge registered at LR; and 
+4. Remind the incoming talent that he/she has to become HKPR within nine years 
+from the date when he/she is permitted to stay in Hong Kong under the designated 
+talent scheme.  If he/she has not become HKPR by then, or certain triggering 
+circumstances occurred (see footnote 3), he/she will be liable to pay the specified 
+amount to IRD within 30 days of the occurrence of the circumstance.  If the 
+incoming talent fails to pay the stamp duty so before the deadline, he/she will be 
+liable to pay a penalty.  The maximum penalty is 10 times the amount of the 
+specified amount. 
+ 
+Scenario 2: Incoming talent already owned a property in Hong Kong, and wishes to 
+acquire a second property for the purpose of replacing his/her property 
+1. Confirm whether the incoming talent buyer has paid BSD and NRSD in respect of 
+the original property; 
+2. Remind the incoming talent that when he/she acquires the new property, he/she 
+should first pay BSD and NRSD in respect of the new property.  When the buyer 
+has disposed of the original property within one year after his/her acquisition of the 
+new property, he/she may apply to IRD for refund of the specified amount and 
+suspension of the same in respect of the new property; and 
+3. Remind the incoming talent that when he/she becomes a HKPR, he/she has to 
+apply to IRD for waiving the liabilities in respect of the specified amount, in order 
+to discharge the charge registered at LR. 
+ 
+Scenario 3: Other buyers interested in acquiring a property registered with a charge in 
+favour of the Collector (i.e. incoming talent as seller) 
+1. Pay attention to whether there is a charge in favour of the Collector registered in the 
+land record of the property; and 
+2. If the relevant property is registered with such charge, confirm with the incoming 
+talent seller that the relevant specified amount would be paid within 30 days after the 
+signing of the agreement for sale and purchase, in order to discharge the charge; and 
+remind the buyer that if the seller has not paid the amount to discharge the charge by 
+the deadline, the charge will continue to be registered on the land record of the 
+property after completion of the transaction. 
+ 
+************* 
+
+--------------------------------------------------------------------------------

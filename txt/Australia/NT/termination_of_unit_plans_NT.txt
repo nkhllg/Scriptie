@@ -1,0 +1,1815 @@
+Metadata for pdf/todo/termination_of_unit_plans_NT.pdf: {'format': 'PDF 1.6', 'title': 'Serial No', 'author': 'LM4', 'subject': '', 'keywords': '', 'creator': 'Acrobat PDFMaker 19 for Word', 'producer': 'Adobe PDF Library 19.12.68', 'creationDate': "D:20190927083120+09'30'", 'modDate': "D:20190927083139+09'30'", 'trapped': '', 'encryption': None, 'country': 'Australia'}
+
+Country found in pdf/todo/termination_of_unit_plans_NT.pdf: Australia
+
+ 
+ 
+NORTHERN TERRITORY OF AUSTRALIA 
+TERMINATION OF UNITS PLANS AND UNIT TITLE SCHEMES ACT 2014 
+As in force at 1 May 2019 
+Table of provisions 
+Part 1 
+Preliminary matters 
+1 
+Short title ......................................................................................... 1 
+2 
+Commencement .............................................................................. 1 
+3 
+Act binds Crown .............................................................................. 1 
+4 
+Interpretation ................................................................................... 1 
+5 
+Application of Criminal Code ........................................................... 6 
+Part 2 
+General rules 
+6 
+Termination of development ............................................................ 6 
+Part 3 
+Termination by unanimous resolution 
+7 
+Termination by resolution ................................................................ 6 
+Part 4 
+Termination by vote of required 
+percentage of owners 
+8 
+Application of Part ........................................................................... 7 
+9 
+Application for approval certificate ................................................... 7 
+10 
+Approval certificate .......................................................................... 9 
+11 
+Resolution – proposed termination ................................................ 11 
+12 
+If resolution passed ....................................................................... 12 
+13 
+Sale to proponent of unit of objecting owner.................................. 15 
+14 
+Limits on vote after resolution defeated ......................................... 18 
+Part 5 
+Termination by Tribunal 
+15 
+Application of Part ......................................................................... 19 
+16 
+Who may apply to Tribunal ............................................................ 19 
+17 
+Order of Tribunal ........................................................................... 21 
+18 
+Appeal to Supreme Court .............................................................. 22 
+Part 6 
+Effect of termination 
+19 
+When termination takes effect ....................................................... 23 
+20 
+Effect of termination ....................................................................... 23 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+ii 
+ 
+Part 7 
+Miscellaneous provisions 
+21 
+Misleading information ................................................................... 25 
+22 
+Commencing proceedings ............................................................. 26 
+23 
+Regulations .................................................................................... 26 
+Part 8 
+Transitional matters for Termination of 
+Units Plans and Unit Title Schemes Act 
+2014 
+24 
+Definitions ...................................................................................... 26 
+25 
+Application for termination made before commencement .............. 27 
+26 
+Notice of termination resolution sent before commencement ........ 27 
+27 
+Termination resolution passed before commencement ................. 27 
+ENDNOTES 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+NORTHERN TERRITORY OF AUSTRALIA 
+ 
+____________________ 
+As in force at 1 May 2019 
+____________________ 
+TERMINATION OF UNITS PLANS AND UNIT TITLE SCHEMES ACT 2014 
+An Act to provide for the termination of units plans and unit title 
+schemes, and for related purposes 
+Part 1 
+Preliminary matters 
+1 
+Short title 
+This Act may be cited as the Termination of Units Plans and Unit 
+Title Schemes Act 2014. 
+2 
+Commencement 
+This Act commences on 1 January 2015. 
+3 
+Act binds Crown  
+This Act binds the Crown in right of the Territory and, to the extent 
+the legislative power of the Legislative Assembly permits, the 
+Crown in all its other capacities. 
+4 
+Interpretation 
+ 
+(1) In this Act: 
+approval certificate means: 
+(a) 
+an approval certificate issued under section 10; or 
+(b) 
+an order made by the Tribunal on an application under 
+section 10(5)(b) that has the same effect as an approval 
+certificate. 
+basic scheme, see section 63(3) of the Unit Title Schemes 
+Act 2009. 
+body corporate, in relation to a development: 
+(a) 
+if the development is a scheme – see section 5 of the Unit 
+Title Schemes Act 2009; or 
+
+--------------------------------------------------------------------------------
+ 
+Part 1 
+Preliminary matters 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+2 
+ 
+(b) 
+otherwise – means a corporation. 
+building development, see section 4(1) of the Unit Titles Act 1975. 
+common property, in relation to a development: 
+(a) 
+if the development is a scheme – see section 33(1) of the Unit 
+Title Schemes Act 2009; or 
+(b) 
+otherwise – see section 4(1) of the Unit Titles Act 1975. 
+condominium development, see section 4(1) of the Unit Titles 
+Act 1975. 
+corporation, see section 4(1) of the Unit Titles Act 1975. 
+development means a scheme, unit development, building 
+development, condominium development or estate development. 
+development land means the units and the common property of a 
+development. 
+draft notice of proposed termination, see section 9(2). 
+estate development, see section 4(1) of the Unit Titles Act 1975. 
+higher scheme, in relation to a development, means: 
+(a) 
+if the development is a scheme – a higher scheme as defined 
+in section 63(2) of the Unit Title Schemes Act 2009; or 
+(b) 
+otherwise – a development under which one or more building 
+lots or estate development lots have been further subdivided 
+into units and common property. 
+interest entitlement, in relation to a development, means: 
+(a) 
+if the development is a scheme – see section 5 of the Unit 
+Title Schemes Act 2009; or 
+(b) 
+otherwise – a unit entitlement as defined in section 4(1) of the 
+Unit Titles Act 1975. 
+notice of proposed termination, see section 10(6). 
+objecting owner, in relation to a termination of a development 
+mentioned in section 11(1), means an owner of a unit in the 
+development who has not voted in favour of the resolution 
+mentioned in that section. 
+
+--------------------------------------------------------------------------------
+ 
+Part 1 
+Preliminary matters 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+3 
+ 
+owner, in relation to a unit in a development: 
+(a) 
+means: 
+(i) 
+if the development is a scheme – the unit owner under 
+the Unit Title Schemes Act 2009; or 
+(ii) 
+otherwise – the proprietor of the unit under the Unit 
+Titles Act 1975; and 
+(b) 
+includes a person who has a share of the ownership of the 
+unit as a joint tenant or tenant in common; and 
+(c) 
+also includes the following persons: 
+(i) 
+a mortgagee in possession of the unit; 
+(ii) 
+an executor of an estate that includes the unit; 
+(iii) any other person who has the right to sell the unit.  
+plan of termination means a plan of termination prescribed by 
+regulation for section 54G of the Land Title Act 2000. 
+prescribed number of days, in relation to a provision of this Act, 
+means: 
+(a) 
+if a number of days has been prescribed for the provision by 
+regulation – that number of days; or 
+(b) 
+if a number of days has not been prescribed by regulation: 
+(i) 
+for section 10(1) or (5) or 13(4)(d) – 56 days; or 
+(ii) 
+for section 12(2)(b)(i) or 13(2)(b) – 182 days; or 
+(iii) for section 13(4)(a) or (b) – 14 days; or 
+(iv) otherwise – 28 days. 
+prescribed professional organisation means a professional 
+organisation prescribed by regulation for this Act. 
+proponent, in relation to a development to which Part 4 applies, 
+means: 
+(a) 
+an owner of a unit in the development who proposes: 
+(i) 
+the termination of the development; or 
+
+--------------------------------------------------------------------------------
+ 
+Part 1 
+Preliminary matters 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+4 
+ 
+(ii) 
+the 
+termination 
+of 
+the 
+development 
+and 
+the 
+redevelopment of the development land; or 
+(b) 
+a person formed by 2 or more owners of units mentioned in 
+paragraph (a). 
+required percentage, of the owners of the units in a development 
+to which Part 4 applies, means: 
+(a) 
+if the development is at least 30 years of age on the day on 
+which the proponent makes the application for an approval 
+certificate under section 9(1) – owners who together have the 
+right to vote in relation to at least 80% of the total interest 
+entitlement of the development on that day; or  
+(b) 
+if the development is at least 20 years of age but less than 
+30 years of age on the day on which the proponent makes the 
+application for an approval certificate under section 9(1) – 
+owners who together have the right to vote in relation to at 
+least 90% of the total interest entitlement of the development 
+on that day; or  
+(c) 
+if the development is at least 15 years of age but less than 
+20 years of age on the day on which the proponent makes the 
+application for an approval certificate under section 9(1) – 
+owners who together have the right to vote in relation to at 
+least 95% of the total interest entitlement of the development 
+on that day. 
+scheme, see section 5 of the Unit Title Schemes Act 2009. 
+schemes supervisor, see section 5 of the Unit Title Schemes 
+Act 2009. 
+subsidiary scheme, see section 63(1) of the Unit Title Schemes 
+Act 2009. 
+termination, of a development, means: 
+(a) 
+if the development is a scheme – termination of the scheme; 
+or 
+(b) 
+if 
+the 
+development 
+is 
+a 
+unit 
+development, 
+building 
+development, 
+condominium 
+development 
+or 
+estate 
+development – cancellation of the units plan. 
+Tribunal means the Northern Territory Civil and Administrative 
+Tribunal. 
+
+--------------------------------------------------------------------------------
+ 
+Part 1 
+Preliminary matters 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+5 
+ 
+unanimous resolution, of a body corporate of a development, 
+means a resolution passed when the number of the votes counted 
+in favour of the resolution is equal to the total number of the units in 
+the development. 
+unit in relation to a development: 
+(a) 
+if the development is a scheme – see section 37 of the Unit 
+Title Schemes Act 2009; or 
+(b) 
+otherwise – see section 4(1) of the Unit Titles Act 1975. 
+unit development means a development to which Part III of the 
+Unit Titles Act 1975 applies, and includes lots subdivided under 
+section 26Y, and building lots subdivided under section 26ZV, of 
+that Act. 
+valuer means a person who is a member of a prescribed 
+professional organisation. 
+ 
+(2) The start date for the reckoning of the age of a development for the 
+definition of required percentage in subsection (1) is: 
+(a) 
+for a development that contains buildings: 
+(i) 
+if the date on which the development's buildings were 
+substantially completed (or, in the case of different days, 
+the date on which the first of the development's buildings 
+to 
+be 
+substantially 
+completed 
+was 
+substantially 
+completed) is proven – that date; or  
+(ii) 
+if the date mentioned in subparagraph (i) is not proven 
+but the date on which occupancy of the development's 
+buildings was first permitted under the Building Act 1993 
+(or, in the case of different dates, the date on which 
+occupancy of the first of the buildings was first permitted 
+under that Act) is proven – that date; or  
+(iii) if the dates mentioned in subparagraphs (i) and (ii) are 
+not proven, but the Registrar-General has provided 
+information under section 38 of the Land Title Act 2000 
+that indicates the earliest date on which a development's 
+buildings existed – that date; or 
+(b) 
+for a development that does not contain buildings, or if the 
+dates mentioned in paragraph (a)(i), (ii) and (iii) are not 
+proven – the date on which the scheme was formed or the 
+units plan was registered. 
+
+--------------------------------------------------------------------------------
+ 
+Part 3 
+Termination by unanimous resolution 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+6 
+ 
+ 
+(3) A term not defined in this Act but defined in the Land Title Act 2000, 
+Real Property (Unit Titles) Act 1975, Unit Title Schemes Act 2009 
+or Unit Titles Act 1975 has the same meaning in this Act. 
+5 
+Application of Criminal Code  
+Part IIAA of the Criminal Code applies to an offence against this 
+Act. 
+Note for section 5 
+Part IIAA of the Criminal Code states the general principles of criminal 
+responsibility, establishes general defences, and deals with burden of proof. It 
+also defines, or elaborates on, certain concepts commonly used in the creation of 
+offences. 
+Part 2 
+General rules 
+6 
+Termination of development 
+ 
+(1) Unless section 72 of the Unit Title Schemes Act 2009 applies, a 
+development may be terminated only under this Act: 
+(a) 
+by unanimous resolution; or 
+(b) 
+if Part 4 applies – by a vote of the required percentage of the 
+owners of the units in the development in accordance with that 
+Part; or 
+(c) 
+by order of the Tribunal under Part 5. 
+ 
+(2) A higher scheme of a development may not be terminated under 
+this Act unless, at the same time, all its subsidiary schemes are 
+also terminated.  
+Part 3 
+Termination by unanimous resolution 
+7 
+Termination by resolution 
+A development may be terminated if the body corporate of the 
+development decides to terminate it by a unanimous resolution. 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+7 
+ 
+Part 4 
+Termination by vote of required percentage of 
+owners  
+8 
+Application of Part 
+This Part applies to the termination, by a resolution of the required 
+percentage of the owners of the units in a development: 
+(a) 
+that is at least 15 years of age on the day on which the 
+proponent makes the application for an approval certificate 
+under section 9(1); and 
+(b) 
+in which there are at least 10 units. 
+9 
+Application for approval certificate  
+ 
+(1) If there is no unanimous resolution to terminate a development, the 
+proponent of the termination of the development must make a 
+written application to the schemes supervisor for an approval 
+certificate, accompanied by the fee prescribed by regulation and a 
+draft notice of proposed termination. 
+ 
+(2) A draft notice of proposed termination must contain the following 
+information: 
+(a) 
+the name and contact details of the proponent; 
+(b) 
+an explanation of the process required under this Part for the 
+termination of the development that: 
+(i) 
+if the schemes supervisor has published a form of 
+explanation – is in that form; and 
+(ii) 
+if the development is a unit development, building 
+development, condominium development or estate 
+development – states that there is a requirement that 
+any development resulting from any redevelopment is a 
+scheme; 
+(c) 
+a statement of the right of an owner of a unit in the 
+development to sell the unit in accordance with this Part if the 
+proposed termination is approved; 
+(d) 
+a statement of any proposed disposition of the property that is 
+owned by the body corporate immediately before the 
+termination; 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+8 
+ 
+(e) 
+if redevelopment of the development land is proposed – a 
+description of the reason for the proposed termination, and a 
+description of the proposed redevelopment, including the 
+following: 
+(i) 
+architectural plans for the proposed redevelopment; 
+(ii) 
+a statement of the approximate date on which it is 
+proposed that the redevelopment would start and be 
+completed; 
+(iii) the estimated cost of the proposed redevelopment, 
+including a plan for the financing of the proposed 
+redevelopment; 
+(iv) a proposal for the way in which owners of units in the 
+development, and any tenants, would be dealt with 
+during the carrying out of the works for the proposed 
+redevelopment, and, if applicable, after its completion, 
+including in relation to relocation or a payment to the 
+owners instead of relocation; 
+(v) 
+if the proposed redevelopment would result in a higher 
+scheme or subsidiary scheme – the information 
+prescribed by regulation; 
+(vi) if applicable, a proposed scheme statement for the 
+development land after the redevelopment is completed; 
+(vii) an estimate of the value of the development land after 
+the proposed redevelopment is completed; 
+(viii) a statement disclosing any arrangements or proposed 
+arrangements 
+with 
+a 
+person 
+for 
+any 
+proposed 
+redevelopment; 
+(f) 
+any 
+other 
+information about 
+a matter 
+mentioned 
+in 
+paragraphs (a) to (e) or another matter prescribed by 
+regulation. 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+9 
+ 
+10 
+Approval certificate 
+ 
+(1) As soon as practicable after receiving an application under 
+section 9(1), the schemes supervisor must review the application, 
+and do one of the following, within the prescribed number of days 
+after receiving the application: 
+(a) 
+if satisfied that the draft notice is sufficient to permit the 
+owners of the units in the development to make an informed 
+decision on the proposed termination – issue an approval 
+certificate to the proponent; 
+(b) 
+if not satisfied that enough information has been provided for 
+the schemes supervisor to decide whether or not to issue an 
+approval certificate – serve on the proponent a request that: 
+(i) 
+describes the type of information sought; and  
+(ii) 
+fixes a date before which the proponent must provide the 
+information; 
+(c) 
+if not satisfied that the draft notice is sufficient as described in 
+paragraph (a) – do one of the following:  
+(i) 
+if satisfied that the matters to be addressed for the 
+application to comply with this Part could likely be 
+addressed within a reasonable time – serve on the 
+proponent an explanatory notice that: 
+(A) describes those matters; and 
+(B) fixes a date before which the proponent must 
+address those matters; 
+(ii) 
+otherwise – reject the application. 
+ 
+(2) If an explanatory notice under subsection (1)(c)(i) is served on the 
+proponent, the proponent may do one of the following before the 
+date fixed in the notice: 
+(a) 
+address the matters in accordance with the explanatory notice 
+and serve on the schemes supervisor an amended draft notice 
+of proposed termination; 
+(b) 
+choose not to proceed with the proposed termination and 
+serve a notice withdrawing the application on the schemes 
+supervisor; 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+10 
+ 
+(c) 
+appeal to the Tribunal against the explanatory notice, not later 
+than the last day of the prescribed number of days after the 
+date fixed in the notice. 
+ 
+(3) The proponent is taken to have abandoned the application for the 
+approval certificate if: 
+(a) 
+a request under subsection (1)(b), or an explanatory notice 
+under subsection (1)(c)(i), is served on the proponent; and 
+(b) 
+the proponent does not provide the information, or address the 
+matters, before the date fixed in the request or notice, or any 
+later date agreed to by the schemes supervisor. 
+ 
+(4) If an amended draft notice of proposed termination is served under 
+subsection (2)(a), the schemes supervisor: 
+(a) 
+must deal with the amended draft notice of proposed 
+termination as though it were the original draft notice of 
+proposed termination that accompanied the application served 
+under section 9(1); but 
+(b) 
+must not serve another request under subsection (1)(b) or 
+explanatory notice under subsection (1)(c)(i) after reviewing 
+the amended draft notice. 
+ 
+(5) If the schemes supervisor does not do one of the actions required 
+by subsection (1) before the last day of the prescribed number of 
+days applicable to that subsection: 
+(a) 
+the application for an approval certificate is taken to have 
+been rejected; and 
+(b) 
+the proponent may apply to the Tribunal, not later than the last 
+day of the prescribed number of days after the last day of the 
+prescribed number of days applicable to subsection (1), for an 
+order that has the same effect as an approval certificate; and 
+(c) 
+if the schemes supervisor does one of the actions mentioned 
+in subsection (1) before the Tribunal has begun to hear the 
+application under paragraph (b): 
+(i) 
+the action is as valid as if it had been done before that 
+last day of that prescribed number of days; and  
+(ii) 
+the Tribunal must not proceed to hear the application; 
+and 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+11 
+ 
+(iii) the schemes supervisor must, if the proponent so 
+requests, pay to the proponent an amount not greater 
+than the amount of any filing or hearing fee paid in 
+relation to the application by the proponent. 
+ 
+(6) A draft notice of proposed termination (or amended draft notice of 
+proposed 
+termination) 
+becomes 
+the 
+notice 
+of 
+proposed 
+termination for this Act: 
+(a) 
+if the proponent has applied to the Tribunal for an order under 
+subsection (5)(b) – when the order made by the Tribunal that 
+has the same effect as an approval certificate takes effect; or 
+(b) 
+otherwise – when the approval certificate is issued under this 
+section. 
+11 
+Resolution – proposed termination 
+ 
+(1) As soon as practicable after receiving an approval certificate under 
+section 10, a proponent must serve a request on the body 
+corporate asking that a meeting of the body corporate be held to 
+vote on a resolution for the termination of the development in 
+accordance with the notice of proposed termination. 
+ 
+(2) The body corporate must: 
+(a) 
+notify each owner and each mortgagee of a unit in the 
+development of the meeting; and 
+(b) 
+include a copy of the notice of proposed termination with the 
+notice to each owner and each mortgagee of the meeting; and 
+(c) 
+hold the meeting not earlier than 3 months and not later than 
+12 months after the date of the approval certificate. 
+ 
+(3) A mortgagee must be heard at the meeting if the mortgagee: 
+(a) 
+is present at the meeting; and 
+(b) 
+requests to be heard at the meeting to object to the proposed 
+termination of the development. 
+ 
+(4) If the body corporate does not do what it is required to do under 
+subsection (2): 
+(a) 
+the proponent may apply to the Tribunal, within the prescribed 
+number of days, for an order requiring the body corporate to 
+do what it is required to do; and 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+12 
+ 
+(b) 
+the Tribunal may make any order it considers necessary, 
+including the following: 
+(i) 
+an order requiring the body corporate to do what it is 
+required to do; 
+(ii) 
+an order requiring another person to do what the body 
+corporate is required to do instead of the body corporate. 
+12 
+If resolution passed 
+ 
+(1) If, at a meeting held after a request is served under section 11(1), 
+the resolution is passed by the required percentage of the owners 
+of the units in the development: 
+(a) 
+the termination of the development, in accordance with the 
+notice of proposed termination and this Act, is approved; and 
+(b) 
+the body corporate must, within 14 days after the resolution is 
+passed, serve a copy of the resolution on each owner and 
+each mortgagee of a unit in the development; and 
+(c) 
+an objecting owner must do one of the following, within the 
+prescribed number of days after the resolution is served under 
+paragraph (b): 
+(i) 
+give a notice in writing to the proponent stating that the 
+objecting owner is no longer to be considered an 
+objecting owner; 
+(ii) 
+give a notice in writing to the proponent stating that the 
+objecting owner is selling the unit otherwise than under 
+section 13; 
+(iii) serve the written notice of intention to sell the unit under 
+section 13; 
+(iv) apply to the Tribunal for an order under Part 5; and 
+(d) 
+a mortgagee who objects to the proposed termination may 
+apply to the Tribunal, within the prescribed number of days 
+after the resolution is served on the mortgagee under 
+paragraph (b), for an order under Part 5. 
+Note for subsection (1) 
+See section 19 for how and when the termination takes effect. 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+13 
+ 
+ 
+(2) The following applies to an objecting owner who gives or serves a 
+notice mentioned in subsection (1)(c): 
+(a) 
+if the notice is given under subsection (1)(c)(i) – the objecting 
+owner must cooperate in the termination of the development; 
+(b) 
+if the notice is given under subsection (1)(c)(ii): 
+(i) 
+the objecting owner must, within the prescribed number 
+of days after giving the notice, provide a copy of a 
+binding contract to purchase the objecting owner's unit 
+to the proponent; and  
+(ii) 
+the objecting owner must proceed with the sale as soon 
+as practicable after providing the copy, and in any event, 
+not later than 42 days after providing it; 
+(c) 
+if the notice is served under subsection (1)(c)(iii) – the 
+objecting owner must proceed with the sale in accordance 
+with section 13 as soon as practicable. 
+ 
+(3) If an objecting owner does not do one of the things mentioned in 
+subsection (1)(c) as required by that subsection, or comply with 
+subsection (2)(a) or (c) if applicable, the proponent may apply to the 
+Tribunal, within 28 days after the last day of the prescribed number 
+of days applicable to subsection (1)(c), for an order for the sale of 
+the objecting owner's unit to the proponent: 
+(a) 
+at a price fixed by the Tribunal after it has received the written 
+report mentioned in subsection (5); and 
+(b) 
+on the other terms and conditions ordered by the Tribunal and 
+that comply with any requirements prescribed by regulation as 
+mentioned in section 13(5)(a)(ii). 
+ 
+(4) If subsection (2)(b) applies and an objecting owner does not comply 
+with it, the proponent may apply to the Tribunal for an order for the 
+sale of the objecting owner's unit to the proponent: 
+(a) 
+at a price fixed by the Tribunal after it has received the written 
+report mentioned in subsection (5); and 
+(b) 
+on the other terms and conditions ordered by the Tribunal and 
+that comply with any requirements prescribed by regulation as 
+mentioned in section 13(5)(a)(ii). 
+ 
+(5) The Tribunal must not fix a price under subsection (3)(a) until it has 
+received a written report of a valuer's expert advice on the value of 
+the unit, assessed on the basis mentioned in section 13(4)(d)(i). 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+14 
+ 
+ 
+(6) An application under this section must be served as follows: 
+(a) 
+an application under subsection (1)(c)(iv) or (d) must be 
+served on the following persons: 
+(i) 
+the proponent; 
+(ii) 
+each owner of a unit in the development; 
+(iii) each mortgagee of a unit in the development; 
+(iv) the schemes supervisor; 
+(b) 
+an application under subsection (3) must be served on the 
+following persons: 
+(i) 
+the objecting owner; 
+(ii) 
+each mortgagee of the objecting owner's unit; 
+(iii) the schemes supervisor. 
+ 
+(7) The effect of an application mentioned in subsection (1)(c)(iv) or (d) 
+is to suspend termination of the development until the application 
+or, if applicable, an appeal under section 18, has been decided. 
+ 
+(8) If a person acquires, or enters into a binding agreement for the 
+acquisition of, a unit in the development after the resolution is 
+passed but before the details and information are registered under 
+subsection (9)(b): 
+(a) 
+the body corporate must, as soon as practicable and in any 
+event within 14 days after the body corporate becomes aware 
+of the acquisition or entering into of the agreement, serve a 
+copy of the resolution mentioned in subsection (1) on the 
+person; and 
+(b) 
+after the copy of the resolution is served: 
+(i) 
+this Act applies to the person as if the person were an 
+objecting owner; and 
+(ii) 
+the person must do one of the things mentioned in 
+subsection (1)(c), within the prescribed number of days 
+after the copy of the resolution is served under 
+paragraph (a). 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+15 
+ 
+ 
+(9) After the resolution is passed: 
+(a) 
+the body corporate must give to the Registrar-General, within 
+14 days after the date of the meeting: 
+(i) 
+a copy of the notice of proposed termination; and 
+(ii) 
+any document or information prescribed by regulation; 
+and 
+(iii) the fee prescribed by regulation; and 
+(b) 
+the Registrar-General must, as soon as practicable after 
+receiving the documents under paragraph (a), register the 
+notice of proposed termination, and the information prescribed 
+by regulation, in the land register kept under section 6 of the 
+Land Title Act 2000; and 
+(c) 
+a person who acquires, or enters into a binding agreement for 
+the acquisition of, a unit in the development after the details 
+and information are registered under paragraph (b) has the 
+same rights and duties as the owner from whom the person 
+has acquired the unit; and 
+(d) 
+the proponent must pay the body corporate, on demand, the 
+amount of the fee that the body corporate has paid under 
+paragraph (a)(iii). 
+ 
+(10) The body corporate may apply to the Tribunal for an extension of 
+the 14 days mentioned in subsection (9)(a). 
+13 
+Sale to proponent of unit of objecting owner 
+ 
+(1) An objecting owner who decides to sell the owner's unit to the 
+proponent under this section must, within the prescribed number of 
+days after a copy of the resolution is served on the objecting owner 
+under section 12(1)(b), serve a written notice of intention to sell the 
+unit on the following persons: 
+(a) 
+the proponent; 
+(b) 
+the mortgagee of the unit; 
+(c) 
+the body corporate; 
+(d) 
+the schemes supervisor. 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+16 
+ 
+ 
+(2) The notice under subsection (1) must include the following 
+information: 
+(a) 
+a statement of the price at which the objecting owner offers to 
+sell the unit; 
+(b) 
+a statement of the period (which must end at least the 
+prescribed number of days after the service on the proponent 
+of the notice of intention to sell) during which the offer to sell at 
+the price mentioned in paragraph (a) is open for acceptance; 
+(c) 
+any 
+other 
+information about 
+a matter 
+mentioned 
+in 
+paragraph (a) or (b) or another matter prescribed by 
+regulation. 
+ 
+(3) Before the last day of the prescribed number of days applicable to 
+subsection (2)(b), the proponent and the objecting owner may 
+agree to the sale of the unit, either at the price mentioned in 
+subsection (2)(a) or at another price on which they agree. 
+ 
+(4) If the proponent and the objecting owner do not agree to the sale of 
+the unit under subsection (3): 
+(a) 
+the proponent must, within the prescribed number of days 
+after the service of the notice under subsection (1), serve a 
+written application on the schemes supervisor, accompanied 
+by the fee prescribed by regulation, for an appointment under 
+paragraph (b); and 
+(b) 
+the schemes supervisor must, within the prescribed number of 
+days after the service of the application under paragraph (a), 
+request a prescribed professional organisation to appoint a 
+valuer to provide expert advice as to the value of the unit; and 
+(c) 
+the prescribed professional organisation must, within the 
+prescribed number of days after the request under 
+paragraph (b), appoint a valuer to provide that advice; and 
+(d) 
+within the prescribed number of days after the appointment 
+under paragraph (c), the valuer must: 
+(i) 
+assess the value of the unit, using the rules in 
+Schedule 2 to the Lands Acquisition Act 1978 in the 
+same way as they would be used for an assessment of 
+compensation payable for an acquisition of the unit 
+under that Act; and 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+17 
+ 
+(ii) 
+provide a written report as to the valuer's expert advice 
+on the value assessed under subparagraph (i) to the 
+following persons: 
+(A) the proponent (on payment of the reasonable fees 
+of the valuer); 
+(B) the objecting owner; 
+(C) the body corporate; 
+(D) the schemes supervisor. 
+ 
+(5) The objecting owner must, within the prescribed number of days 
+after the report is provided under subsection (4)(d)(ii): 
+(a) 
+execute a binding agreement to sell the unit to the proponent: 
+(i) 
+at a price equal to the value mentioned in the report; and 
+(ii) 
+on terms and conditions that comply with any 
+requirements prescribed by regulation, including as to 
+when the sale will occur or when vacant possession of 
+the unit must be delivered; or 
+(b) 
+apply to the Tribunal for an order under Part 5 in relation to the 
+termination of the development. 
+ 
+(6) The following persons may apply to the Tribunal, and the Tribunal 
+may make any order it considers necessary, in the following 
+circumstances: 
+(a) 
+the objecting owner may apply for an order requiring the 
+proponent to apply to the schemes supervisor for the 
+appointment of a valuer as required by subsection (4)(a); 
+(b) 
+the proponent may apply for an order requiring the schemes 
+supervisor to request a prescribed professional organisation to 
+appoint a valuer, if the schemes supervisor does not make the 
+request as required by subsection (4)(b); 
+(c) 
+the proponent, the objecting owner or the schemes supervisor 
+may apply for an order appointing a valuer to perform the 
+functions under subsection (4)(d)(i) and (ii) if the prescribed 
+professional organisation does not appoint one as required by 
+subsection (4)(c); 
+
+--------------------------------------------------------------------------------
+ 
+Part 4 
+Termination by vote of required percentage of owners 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+18 
+ 
+(d) 
+the proponent, the objecting owner or the schemes supervisor 
+may apply for an order fixing the price for the sale of the unit if 
+the valuer does not provide the report as required by 
+subsection (4)(d)(ii); 
+(e) 
+the proponent may apply for an order for the sale of the unit to 
+the proponent at the price mentioned in subsection (5)(a)(i) if 
+the objecting owner does not execute the binding agreement 
+mentioned in that subsection; 
+(f) 
+the proponent or the objecting owner may apply for an order 
+fixing the terms and conditions of the sale of the unit to the 
+proponent if the proponent and the owner are unable to agree 
+on the terms and conditions under subsection (5)(a)(ii) as 
+required by that subsection. 
+ 
+(7) The following are payable by the proponent: 
+(a) 
+the costs associated with a sale mentioned in subsection (3), 
+(5)(a) or (6)(e) or (f); 
+(b) 
+the reasonable fees of the valuer for performing the functions 
+under subsection (4)(d)(i) and (ii). 
+14 
+Limits on vote after resolution defeated 
+ 
+(1) This section applies when a person wishes to propose the 
+termination of a development after a resolution for the termination 
+of the development is voted on and not passed by the required 
+percentage of the owners of the units in the development (the 
+earlier resolution). 
+ 
+(2) If the terms of the proposal are identical to those in the earlier 
+resolution, the proponent for the earlier notice of proposed 
+termination, or another proponent, may: 
+(a) 
+serve a request under section 11(1) on the body corporate; or 
+(b) 
+make an application under section 9 for an approval 
+certificate. 
+ 
+(3) A request mentioned in subsection (2)(a) must not be served, and 
+an application mentioned in subsection (2)(b) must not be made, 
+within 26 weeks after the meeting at which the earlier resolution 
+was not passed. 
+ 
+(4) If the terms of the proposal are not identical to those in the earlier 
+resolution, the proponent (whether or not the proponent in relation 
+to the earlier resolution) must make an application under section 9 
+for an approval certificate but must not make the application within 
+
+--------------------------------------------------------------------------------
+ 
+Part 5 
+Termination by Tribunal 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+19 
+ 
+26 weeks after the meeting at which the earlier resolution was not 
+passed. 
+ 
+(5) This 
+Act 
+applies 
+every 
+time 
+a 
+request 
+mentioned 
+in 
+subsection (2)(a) is served, or an application mentioned in 
+subsection (2)(b) or (4) is made, in the same way as it does to an 
+earlier proposal. 
+Part 5 
+Termination by Tribunal 
+15 
+Application of Part 
+This Part applies when an application is made to the Tribunal by: 
+(a) 
+a person mentioned in section 16(1) for an order in relation to 
+the termination of a development: 
+(i) 
+if the development is one in which there are fewer than 
+10 units; or 
+(ii) 
+ if the development is one to which Part 4 does not apply 
+for any other reason; or 
+(b) 
+a person mentioned in section 16(2) for an order in relation to 
+the termination of a development to which Part 4 applies. 
+16 
+Who may apply to Tribunal 
+ 
+(1) The following persons may apply to the Tribunal for an order 
+mentioned in section 15(a): 
+(a) 
+if the development is a scheme: 
+(i) 
+if the scheme is a basic scheme – the body corporate, or 
+an owner of a unit, of the basic scheme; or 
+(ii) 
+if the scheme is a higher scheme – the body corporate, 
+or an owner of a unit, of the higher scheme or any of its 
+subsidiary schemes; 
+(b) 
+if 
+the 
+development 
+is 
+a 
+unit 
+development, 
+building 
+development, 
+condominium 
+development 
+or 
+estate 
+development – the corporation, the administrator of the 
+corporation or an owner of a unit in the development. 
+
+--------------------------------------------------------------------------------
+ 
+Part 5 
+Termination by Tribunal 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+20 
+ 
+ 
+(2) The following persons may apply to the Tribunal for an order 
+mentioned in section 15(b): 
+(a) 
+a person on whom a right to apply to the Tribunal is conferred 
+by Part 4 if: 
+(i) 
+a unanimous resolution to terminate the development 
+has not been passed; and 
+(ii) 
+a resolution has been passed as mentioned in 
+section 12(1); 
+(b) 
+the corporation, the administrator of the corporation or an 
+owner of a unit in the development if: 
+(i) 
+the development is a unit development, building 
+development, condominium development or estate 
+development; and 
+(ii) 
+a unanimous resolution to terminate the development 
+has not been passed; and 
+(iii) a meeting was held after a request under section 11(1) 
+but the resolution for the termination of the development 
+was not passed by the required percentage of the 
+owners of the units in the development; 
+(c) 
+the body corporate, or an owner of a unit if: 
+(i) 
+the development is a basic scheme; and 
+(ii) 
+a unanimous resolution to terminate the development 
+has not been passed; and 
+(iii) a meeting was held after a request under section 11(1) 
+but the resolution for the termination of the development 
+was not passed by the required percentage of the 
+owners of the units in the development; 
+(d) 
+the body corporate, or an owner of a unit in the higher scheme 
+or any of its subsidiary schemes if: 
+(i) 
+the development is a higher scheme; and 
+(ii) 
+a unanimous resolution to terminate the development 
+has not been passed; and 
+
+--------------------------------------------------------------------------------
+ 
+Part 5 
+Termination by Tribunal 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+21 
+ 
+(iii) a meeting was held after a request under section 11(1) 
+but the resolution for the termination of the development 
+was not passed by the required percentage of the 
+owners of the units in the development. 
+17 
+Order of Tribunal 
+ 
+(1) The Tribunal may make an order approving the termination of a 
+development, or the termination of the development and the 
+redevelopment of the development land, only if the Tribunal 
+considers that: 
+(a) 
+it is just and equitable to do so; and 
+(b) 
+any objection to the termination or redevelopment by an owner 
+of a unit in the development is unreasonable; and 
+(c) 
+it is otherwise necessary to do so, taking into account any 
+factors prescribed by regulation. 
+ 
+(2) In deciding whether to approve the termination of a development 
+and any redevelopment of the development land, the Tribunal must 
+also consider the following: 
+(a) 
+the extent to which an owner of a unit in the development is 
+likely to suffer adverse consequences if the termination of the 
+development were ordered; 
+(b) 
+the extent to which an owner of a unit in the development is 
+likely to suffer adverse consequences if the termination of the 
+development were not ordered; 
+(c) 
+the financial benefits and risks of the proposed termination 
+and, if applicable, the proposed redevelopment;  
+(d) 
+whether an order of the Tribunal, or of a court, other than an 
+order for termination of the development, would be more 
+appropriate; 
+(e) 
+any matter prescribed by regulation. 
+ 
+(3) In considering the application, the Tribunal must take into account 
+the views expressed by any of the following: 
+(a) 
+the schemes supervisor; 
+(b) 
+an affected local government council; 
+
+--------------------------------------------------------------------------------
+ 
+Part 5 
+Termination by Tribunal 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+22 
+ 
+(c) 
+the body corporate, or an owner or mortgagee of a unit in the 
+development or in a higher scheme in relation to the 
+development. 
+ 
+(4) The Tribunal may, subject to any requirements prescribed by 
+regulation, make any order it considers necessary in relation to the 
+termination or any redevelopment of the development land, 
+including the following: 
+(a) 
+an order extending the time in which an application to the 
+Tribunal must be made, or to extend any other time limit in this 
+Act; 
+(b) 
+an order providing for accommodation for occupiers of units; 
+(c) 
+an order providing for the sale of a unit of an objecting owner; 
+(d) 
+an order for the formation of a new scheme under the Unit 
+Title Schemes Act 2009 after redevelopment is complete; 
+(e) 
+an order, on application by a person who has an interest in 
+property that the body corporate held immediately before the 
+termination, for the control or disposal of the property; 
+(f) 
+an order for the termination of a tenancy, which may include 
+compensation of the tenant. 
+ 
+(5) However, the Tribunal's power under this section does not extend 
+to making an order relating to the consolidation or subdivision of 
+land otherwise than in accordance with the Planning Act 1999. 
+ 
+(6) An order of the Tribunal takes effect at the later of the following: 
+(a) 
+if no appeal is instituted under section 18 – at the end of the 
+last day of the prescribed number of days applicable to 
+section 18(3); 
+(b) 
+if an appeal is instituted within the prescribed number of days 
+applicable to section 18(3) but is unsuccessful – at the end of 
+the proceedings for the appeal. 
+18 
+Appeal to Supreme Court 
+ 
+(1) A party to an application may appeal to the Supreme Court against 
+an order of the Tribunal on the application. 
+ 
+(2) The appeal may be made in relation to a question of law only. 
+ 
+(3) The appeal must be instituted within the prescribed number of days 
+after the Tribunal makes its order. 
+
+--------------------------------------------------------------------------------
+ 
+Part 6 
+Effect of termination 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+23 
+ 
+ 
+(4) In deciding the appeal, the Supreme Court may: 
+(a) 
+confirm the Tribunal's order; or 
+(b) 
+set aside the Tribunal's order and substitute another order that 
+the Tribunal could have made. 
+Part 6 
+Effect of termination 
+19 
+When termination takes effect 
+ 
+(1) For the termination of a development to take effect, section 54G of 
+the Land Title Act 2000 (the registration provision) must be 
+complied with as follows: 
+(a) 
+if the termination is one to which Part 3 applies – the body 
+corporate must lodge the documents required under the 
+registration provision within 12 months after the unanimous 
+resolution mentioned in section 7 is passed; 
+(b) 
+if the termination is one to which Part 4 applies – the 
+proponent must lodge the documents required under the 
+registration provision within 12 months after the body 
+corporate gives the documents to the Registrar-General under 
+section 12(9)(a); 
+(c) 
+if the termination is one to which Part 5 applies – the body 
+corporate must lodge the documents within 12 months after 
+the order of the Tribunal ordering termination takes effect 
+under section 17(6). 
+ 
+(2) The person mentioned in subsection (1)(a), (b) or (c) may apply to 
+the Tribunal for an extension of the 12 months. 
+ 
+(3) The termination of a development takes effect when: 
+(a) 
+the documents required for the termination are registered 
+under the registration provision; and 
+(b) 
+the Registrar-General cancels the scheme statement or units 
+plan under the registration provision. 
+20 
+Effect of termination 
+ 
+(1) On the termination of a development: 
+(a) 
+the body corporate is dissolved; and 
+
+--------------------------------------------------------------------------------
+ 
+Part 6 
+Effect of termination 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+24 
+ 
+(b) 
+each person who was an owner of a unit in the development 
+immediately before the termination (a former owner) is 
+entitled to a share of the property held by the body corporate 
+immediately before the termination in accordance with the 
+interest entitlements; and 
+(c) 
+the liabilities of the body corporate are vested jointly and 
+severally in the former owners; and 
+(d) 
+the liabilities for any statutory charges over the common 
+property are vested jointly and severally in the former owners; 
+and 
+(e) 
+each person who was a holder of a registered interest in the 
+development land, other than a lessee, immediately before the 
+termination, continues to be the holder of the registered 
+interest but only in relation to the following land: 
+(i) 
+the land included in all of the units in the development 
+immediately before the termination; 
+(ii) 
+the land that was common property of the development 
+immediately before the termination; and  
+(f) 
+the liabilities for any taxes or statutory charges accrued by a 
+former owner in relation to a unit continue to be vested in the 
+former owner. 
+ 
+(2) A former owner: 
+(a) 
+is not liable to pay any stamp duty that would otherwise be 
+payable because of the operation of subsection (1); and 
+(b) 
+is entitled to contributions from other former owners for the 
+liabilities mentioned in subsection (1)(c) or (d) in accordance 
+with the interest entitlements. 
+ 
+(3) Subsections (1) and (2) have effect subject to any requirement 
+prescribed by regulation. 
+ 
+(4) In this section: 
+owner, in relation to a unit: 
+(a) 
+means: 
+(i) 
+if the development is a scheme – the unit owner under 
+the Unit Title Schemes Act 2009; or 
+
+--------------------------------------------------------------------------------
+ 
+Part 7 
+Miscellaneous provisions 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+25 
+ 
+(ii) 
+otherwise – the proprietor of the unit under the Unit 
+Titles Act 1975; and 
+(b) 
+includes a person who has a share of the ownership of the 
+unit as a joint tenant or tenant in common. 
+Part 7 
+Miscellaneous provisions 
+21 
+Misleading information 
+ 
+(1) A person commits an offence if: 
+(a) 
+the person gives information to another person; and 
+(b) 
+the other person is the schemes supervisor or a valuer; and 
+(c) 
+the person knows the information is misleading information; 
+and 
+(d) 
+the person knows the schemes supervisor or the valuer is 
+acting in an official capacity. 
+Maximum penalty: 
+200 penalty units or imprisonment for 
+12 months. 
+ 
+(2) A person commits an offence if: 
+(a) 
+the person gives a document to another person; and 
+(b) 
+the other person is the schemes supervisor or a valuer; and 
+(c) 
+the person knows the document contains misleading 
+information; and 
+(d) 
+the person knows the schemes supervisor or a valuer is acting 
+in an official capacity. 
+Maximum penalty: 
+200 penalty units or imprisonment for 
+12 months. 
+ 
+(3) Strict liability applies to subsections (1)(b) and (2)(b). 
+ 
+(4) Subsection (2) does not apply if the person, when giving the 
+document: 
+(a) 
+draws the misleading aspect of the document to the schemes 
+supervisor's or valuer's attention; and 
+
+--------------------------------------------------------------------------------
+ 
+Part 8 
+Transitional matters for Termination of Units Plans and Unit Title Schemes 
+Act 2014 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+26 
+ 
+(b) 
+to the extent to which the person can reasonably do so – gives 
+the schemes supervisor or valuer the information necessary to 
+remedy the misleading aspect of the document. 
+ 
+(5) In this section: 
+acting in an official capacity, in relation to the schemes 
+supervisor or a valuer, means the schemes supervisor or valuer is 
+exercising powers or performing functions under, or otherwise 
+related to the administration of, this Act. 
+misleading information means information that is misleading in a 
+material particular or because of the omission of a material 
+particular. 
+22 
+Commencing proceedings 
+Proceedings for an offence against this Act may be commenced 
+only: 
+(a) 
+within 2 years after the date on which the offence is alleged to 
+have been committed; or 
+(b) 
+with the authorisation of the Minister – at a later time within 
+5 years after the date on which the offence is alleged to have 
+been committed. 
+23 
+Regulations 
+ 
+(1) The Administrator may make regulations under this Act. 
+ 
+(2) The regulations may provide for the formula of the calculation of the 
+fee to be paid by the proponent under section 9(1), including the 
+calculation of the fee as a percentage of the estimated value of the 
+development land mentioned in section 9(2)(e)(vii). 
+Part 8 
+Transitional matters for Termination of Units 
+Plans and Unit Title Schemes Act 2014 
+24 
+Definitions 
+In this Part: 
+commencement means the commencement of this Act. 
+
+--------------------------------------------------------------------------------
+ 
+Part 8 
+Transitional matters for Termination of Units Plans and Unit Title Schemes 
+Act 2014 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+27 
+ 
+25 
+Application for termination made before commencement 
+ 
+(1) This section applies if, before the commencement: 
+(a) 
+one of the following applications had been made to the 
+Supreme Court: 
+(i) 
+an application to cancel a units plan under section 95 of 
+the Unit Titles Act 1975;  
+(ii) 
+an application to terminate a unit title scheme under 
+section 14 of the Unit Title Schemes Act 2009; and 
+(b) 
+the Supreme Court had not made a final order in relation to 
+the application. 
+ 
+(2) The Supreme Court must hear and determine the application as if 
+this Act had not commenced. 
+26 
+Notice of termination resolution sent before commencement 
+ 
+(1) This section applies if, before the commencement: 
+(a) 
+one of the following notices had been sent: 
+(i) 
+a notice of a general meeting at which a resolution 
+authorising the corporation to apply for the cancellation 
+of the units plan is to be voted on under section 95A of 
+the Unit Titles Act 1975; 
+(ii) 
+a notice that a resolution mentioned in section 15(a) of 
+the Unit Title Schemes Act 2009 to terminate a scheme 
+is to be voted on; and  
+(b) 
+the resolution had not been voted on. 
+ 
+(2) The resolution is to be voted on, and if it is passed unanimously the 
+cancellation or termination is to be registered, as if this Act had not 
+commenced. 
+27 
+Termination resolution passed before commencement 
+ 
+(1) This section applies if, before the commencement: 
+(a) 
+one of the following resolutions had been passed: 
+(i) 
+a unanimous resolution authorising the corporation to 
+apply for the cancellation of the units plan mentioned in 
+section 95A of the Unit Titles Act 1975; 
+
+--------------------------------------------------------------------------------
+ 
+Part 8 
+Transitional matters for Termination of Units Plans and Unit Title Schemes 
+Act 2014 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+28 
+ 
+(ii) 
+a unanimous resolution mentioned in section 15(a) of the 
+Unit Title Schemes Act 2009 to terminate a scheme; and  
+(b) 
+the cancellation or termination had not been registered. 
+ 
+(2) The cancellation or termination is to be registered as if this Act had 
+not commenced. 
+
+--------------------------------------------------------------------------------
+ENDNOTES 
+ 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+29 
+ 
+ENDNOTES 
+ 
+1 
+KEY 
+Key to abbreviations 
+ 
+amd = amended  
+ 
+ 
+ 
+od = order 
+app = appendix 
+ 
+ 
+ 
+om = omitted 
+bl = by-law 
+ 
+ 
+ 
+ 
+pt = Part 
+ch = Chapter 
+ 
+ 
+ 
+ 
+r = regulation/rule 
+cl = clause 
+ 
+ 
+ 
+ 
+rem = remainder 
+div = Division  
+ 
+ 
+ 
+renum = renumbered 
+exp = expires/expired  
+ 
+ 
+rep = repealed 
+f = forms 
+ 
+ 
+ 
+ 
+s = section 
+Gaz = Gazette  
+ 
+ 
+ 
+sch = Schedule 
+hdg = heading  
+ 
+ 
+ 
+sdiv = Subdivision 
+ins = inserted  
+ 
+ 
+ 
+SL = Subordinate Legislation 
+lt = long title 
+ 
+ 
+ 
+ 
+sub = substituted 
+nc = not commenced  
+ 
+ 
+ 
+2 
+LIST OF LEGISLATION 
+Termination of Units Plans and Unit Title Schemes Act 2014 (Act No. 48, 2014) 
+Assent date 
+8 December 2014 
+Commenced 
+1 January 2015 (s 2) 
+Statute Law Revision Act 2017 (Act No. 4, 2017) 
+Assent date 
+10 March 2017 
+Commenced 
+12 April 2017 (Gaz G15, 12 April 2017, p 3) 
+Agents and Land Legislation Amendment Act 2019 (Act No. 6, 2019) 
+Assent date 
+28 March 2019 
+Commenced 
+ss 3 to 5, 9 and 10, pts 3 to 5, ss 17, 25 to 27, 29, 33 and 34: 
+1 May 2019 (Gaz G18, 1 May 2019, p 4); rem: 
+1 September 2019 (Gaz G26, 26 June 2019, p 7 and Gaz 
+G30, 24 July 2019, p 2) 
+3 
+GENERAL AMENDMENTS 
+General amendments of a formal nature (which are not referred to in the table 
+of amendments to this reprint) are made by the Interpretation Legislation 
+Amendment Act 2018 (Act No. 22, 2018) to: ss 1, 4, 6, 12, 13, 17, 19, 20, 25, 
+26 and 27. 
+4 
+LIST OF AMENDMENTS 
+s 7 
+amd No. 6, 2019, s 16 
+s 19 
+amd No. 4, 2017, s 34 
+pt 9 hdg 
+exp No. 48, 2014, s 48 
+pt 9 
+div 1 hdg 
+exp No. 48, 2014, s 48 
+ss 28 – 30 
+exp No. 48, 2014, s 48 
+
+--------------------------------------------------------------------------------
+ENDNOTES 
+ 
+ 
+ 
+Termination of Units Plans and Unit Title Schemes Act 2014 
+30 
+ 
+pt 9 
+div 2 hdg 
+exp No. 48, 2014, s 48 
+ss 31 – 32 
+exp No. 48, 2014, s 48 
+pt 9 
+div 3 hdg 
+exp No. 48, 2014, s 48 
+ss 33 – 35 
+exp No. 48, 2014, s 48 
+pt 9 
+div 4 hdg 
+exp No. 48, 2014, s 48 
+ss 36 – 43 
+exp No. 48, 2014, s 48 
+pt 9 
+div 5 hdg 
+exp No. 48, 2014, s 48 
+ss 44 – 47 
+exp No. 48, 2014, s 48 
+pt 9 
+div 6 hdg 
+exp No. 48, 2014, s 48 
+s 48 
+exp No. 48, 2014, s 48 
+ 
+
+--------------------------------------------------------------------------------

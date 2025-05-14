@@ -1,0 +1,518 @@
+Metadata for pdf/HongKong/20190109.pdf: {'format': 'PDF 1.5', 'title': '', 'author': 'Eileen TAM', 'subject': '', 'keywords': '', 'creator': 'Microsoft® Office Word 2007', 'producer': 'Microsoft® Office Word 2007', 'creationDate': "D:20190109162405+08'00'", 'modDate': "D:20190109162405+08'00'", 'trapped': '', 'encryption': None, 'country': 'Hong Kong'}
+
+Country found in pdf/HongKong/20190109.pdf: Hong Kong
+
+ 
+4344838 
+ 
+1
+ 
+ 
+ 
+ PROPERTY MANAGEMENT SERVICES ORDINANCE (CAP. 626) 
+ 
+PROPOSED LICENSING REGIME FOR  
+PROPERTY MANAGEMENT COMPANIES  
+AND PROPERTY MANAGEMENT PRACTITIONERS  
+ 
+ 
+Synopsis 
+ 
+1. 
+The Property Management Services Authority (“PMSA”) has formulated 
+proposals regarding a licensing regime for property management 
+companies and property management practitioners. In November 2018 it 
+issued a consultation paper 1 to seek views on these proposals 
+(“Consultation Paper”).  
+ 
+2. 
+The Law Society has reviewed the Consultation Paper, as well as a press 
+release issued by the PMSA on the above consultation on 17 December 
+2018. 
+ 
+3. 
+We note the PMSA is now proposing to subject the legal profession to the 
+regulation, control and disciplinary proceedings of the PMSA (“Proposal 
+for Licensing Legal Services”). As a matter of principle, that cannot be 
+correct. The Law Society strongly objects to the Proposal for Licensing 
+Legal Services. 
+ 
+4. 
+Apart from the above fundamental issue, we have reservation as to 
+whether the proposals in the Consultation Paper would help implement the 
+policy intent that underpins the Property Management Services Ordinance 
+(Cap. 626) ("PMSO"). 
+ 
+5. 
+Some of the queries we raised in our previous submissions on this matter 
+in 2014 remain unanswered, notwithstanding the open agreement in 
+October 2014 by the Administration to respond. 
+ 
+6. 
+There must be suitable and relevant amendments to the PMSO to address 
+the above. 
+                                                 
+1https://www.pmsahk.org.hk/en/licensing/consultation.html 
+
+--------------------------------------------------------------------------------
+ 
+4344838 
+ 
+2
+Regulatory Regime under PMSO 
+ 
+7. 
+Section 2 of PMSO defines "property management company" to mean "a 
+business entity (whether a company, partnership or sole proprietorship) 
+that carries on the business of providing property management services". 
+"Property management services” means “any service prescribed by 
+regulation made under section 3(1)” of PMSO. 
+ 
+8. 
+Under section 3(1) of PMSO, the PMSA “may, by regulation, prescribe a 
+service falling within a category of services set out in Schedule 1 as a 
+property management service.” 
+ 
+The following are found in Schedule 1 to PMSO (italics supplied) 
+ 
+(1) 
+General management services relating to a property 
+(2) 
+Management of the environment of a property 
+(3) 
+Repair, maintenance and improvement of a property 
+(4) 
+Finance and asset management relating to a property 
+(5) 
+Facility management relating to a property 
+(6) 
+Human resources management relating to personnel involved in 
+the management of a property; and 
+(7) 
+Legal services relating to the management of a property 
+ 
+ 
+9. 
+The PMSA now proposes to prescribe all the above, including category (7), 
+as property management services – see paragraph 1.2, page 9 of the 
+Consultation Paper. 
+ 
+10. 
+There is no definition or elaboration for category (7) in PMSO. The 
+Consultation Paper itself sets out the scope of this category: 
+ 
+"[Category (7)] is on the understanding on the general scope of 
+work of government departments and the judiciary system, 
+arrangement of a litigation, arbitration and mediation relating to the 
+management of a property, drafting of building management related 
+contracts and provision of advice on issues relating to the Building 
+Management 
+Ordinance 
+(BMO) 
+(Cap. 
+344), 
+the 
+Property 
+Management Services Ordinance (Cap. 626), the DMC of a building 
+and relevant legislation or statutory orders." (Chapter 5, paragraph 
+1.2 (7), page 12 of the Consultation Paper)  
+ 
+11. 
+Disturbingly, the scope that PMSA proposes to cover in category (7) is too 
+wide - there is no exception for provision of such services by legally 
+qualified professionals. We will show in the following paragraphs that it is 
+fundamentally wrong that they should be subject to the licensing 
+
+--------------------------------------------------------------------------------
+ 
+4344838 
+ 
+3
+requirements simply because their areas of legal practice include provision 
+of any of such services.  
+ 
+12. 
+Following the above, a law firm engaged in for example the review of a 
+DMC, or provision of legal advice on a building management contract, 
+would be a property management company under the regime of PMSO. 
+ 
+13. 
+Section 2 of the PMSO has a definition for "property management 
+practitioner". It means "an individual who assumes a management or 
+supervisory role in a property management company in relation to property 
+management services provided by the company". 
+ 
+14. 
+Therefore, a partner or a supervisor in a law firm (as a property 
+management company) engaged in the preparation of a DMC or the 
+review of a DMC with a view to providing legal advice would become a 
+property management practitioner under the PMSO.  Lawyers engaged in 
+arbitrating or mediating or in the litigation of property management 
+disputes could similarly fall within the definition. 
+ 
+ 
+Policy Justification? 
+ 
+15. 
+When a property management company provides more than one category 
+of property management services, it would be required to hold a property 
+management company (“PMC”) licence – see sections 6(1) and 7(2), 
+PMSO.  Similarly, no person may act as a property management 
+practitioner (“PMP”) without a PMP (Tier 1) or (Tier 2) licence – see 
+section 6(2) and (3) of PMSO.  
+ 
+16. 
+The PMSA is clear that “whether an individual is subject to the licensing 
+requirements does not depend on the post title, but rather on whether the 
+work of the individual concerned” (see the Press Release on 17 December 
+2018). 
+ 
+17. 
+When a law firm provides legal services relating to property management, 
+it may be engaged in more than one category of property management 
+services, such as helping to prepare house rules of a building [Law 
+Society comment - according to Chapter 5, paragraph 1.2(1), page 10 of 
+the Consultation Paper, this type of service is a category (1) service] and 
+advising on the effect of the relevant DMC (see above: a category (7) 
+service). The combined effect of sections 6(1) and 7(2) of the PMSO is 
+such a law firm is required to hold a PMC licence.  Even if the law firm 
+provides legal services relating to property management in only one 
+category or sub-category of property management services and hence is 
+exempted from the licensing requirement, all lawyers in that law firm who 
+assume a management or supervisory role in relation to provision of the 
+
+--------------------------------------------------------------------------------
+ 
+4344838 
+ 
+4
+property management services are property management practitioners as 
+defined under PMSO and thereby they have to hold either a PMP (Tier1) 
+licence or a PMP (Tier 2) licence. 
+ 
+18. 
+A lawyer providing advisory services to property management can fall 
+under the PMSO and be considered a property management practitioner 
+and thereby subject to the licensing requirements. By way of illustration, 
+when an in-house lawyer is engaged in procurement of labour insurance 
+and compensation of staff involved in the management of a property (a 
+category (6)2 service) or is rendering legal advice on building management 
+related contracts (a category3 (7) service). Another example: a solicitor-
+mediator (a category (7)3service) who helps to convene owners’ 
+committee meetings (a category(1) 4 service) for the purpose of his 
+mediation would come under the regime and be required to apply for a 
+licence.  Even if only one category of service is provided, the lawyer will 
+inadvertently fall within the requirements of the PMSO.  
+ 
+19. 
+There is similarly no definition for other categories of property 
+management services in Schedule 1 of PMSO. The PMSA only gives 
+illustrations in the Consultation Paper, including: 
+ 
+Category (5) 5  – “… Examples include but are not limited to 
+management of club house, [and] it includes application for relevant 
+licences [Law Society comment– this falls squarely within the work of 
+corporate lawyers who assist in the application of the club house 
+licence]…” 
+ 
+20. 
+The PMSA proposes to include all categories of the services set out in 
+Schedule 1 of the PMSO as property management services for the 
+purposes of section 3(1) of the PMSO. In addition, section 3(2) of the 
+PMSO empowers the PMSA to prescribe more than one type of service 
+under a category. The effect of prescribing all the categories of services 
+set out in Schedule 1 as property management services without limitation 
+or exception, together with the powers given by section 3(2), will make the 
+regulatory regime under PMSO excessively broad and bring lawyers and 
+other professionals who provide services to PMCs and PMPs under the 
+licensing control of PMSA. 
+ 
+21. 
+The above is particularly troubling when 
+ 
+                                                 
+2  The Consultation explains what the PMSA envisages to be covered in this category, see p.11 
+3  See page 12 for the scope 
+4  See page 10 for the scope 
+5Ibid 
+
+--------------------------------------------------------------------------------
+ 
+4344838 
+ 
+5
+(a) the Consultation Paper merely provides “examples” of what are 
+proposed to be covered.  These “examples” are not statutory 
+provisions; 
+ 
+(b) the language used in the examples is imprecise and confusing. By 
+way of example, under Category 2, the Consultation Paper provides 
+that “[Category (2)] is on the repair, replacement, maintenance and 
+large-scale maintenance [Law Society query – how is the first 
+“maintenance” in this phrase different from “large scale maintenance” 
+referred to in the explanation notes for the same category of 
+services?], continuous improvement [Law Society query – how 
+“continuous”?] of the functions of a property [Law Society query – 
+what are meant by the “functions of a property”?]”. 
+ 
+22. 
+Put simply, the legal profession would now be subject to the regulation, 
+control and disciplinary proceedings of the PMSO under a confusing 
+regime. This is wrong as a matter of principle when, fundamentally, there 
+is no policy justification for the proposed control.  The legal professionals 
+are already subject to a well-established system of statutory and 
+regulatory control and discipline operated and monitored by the Law 
+Society.  The Law Society also has specific CPD requirements which its 
+members have to comply with annually before they are entitled to 
+practicing certificates. 
+ 
+23. 
+In fact, there are already ordinances and rules in Hong Kong which rightly 
+recognize the adequacy of the existing regulatory framework for solicitors 
+and which exempt the legal profession from the respective regulatory 
+regimes. For example, section 2(2)(b) of the Estate Agents Ordinance 
+(Cap 511)6 , section 7(5A) of the Anti-Money Laundering and Counter-
+Terrorist Financing Ordinance (Cap. 615) 7  and the professional 
+exemptions provided by the Securities and Futures Commission8.  In the 
+circumstances, the same exemption should be provided for the legal 
+profession in the proposed licensing regime. 
+ 
+24. 
+For record, the Law Society has not in any previous consultations or 
+discussions with the Policy Bureau been advised of any policy intent of 
+regulating the legal profession. There was also no indication of the above 
+in the Legislative Council when the related Property Management Services 
+Bill was scrutinized. On the other hand, in the course of review of the Bill, 
+we have raised our concerns on the meaning of “legal service” in our 
+submission of 6 August 2014 on this matter9. We have not received any 
+                                                 
+6 https://www.elegislation.gov.hk/hk/cap511?INDEX_CS=N 
+7 https://www.elegislation.gov.hk/hk/cap615?INDEX_CS=N 
+8 https://www.sfc.hk/web/EN/regulatory-functions/intermediaries/licensing/do-you-need-a-licence-or-
+registration.html#3 
+9 See para 2.3 in the submission: http://www.hklawsoc.org.hk/pub_e/news/submissions/20140806a.pdf 
+
+--------------------------------------------------------------------------------
+ 
+4344838 
+ 
+6
+replies or invitation to dialogues. The confusing and unnecessarily wide 
+licensing regime as proposed is not acceptable to the legal profession. We 
+hereby make it clear that unless our concerns are addressed and 
+appropriate amendments are made to the PMSO, we object to the 
+Proposal for Licensing Legal Services.  
+ 
+ 
+Effect on Pro Bono Services 
+ 
+25. 
+There are penalties under the licensing regime. For example, for offences 
+relating to applications for licences, an offender on conviction on 
+indictment under section 14 is liable to a fine of $200,000 and to 
+imprisonment for 1 year; or on summary conviction to a fine at level 6 and 
+to imprisonment for 6 months. 
+ 
+26. 
+The PMSA may issue and/or gazette a code of conduct for the licensees 
+under the regime (see section 4). Breaches of the code attract disciplinary 
+offences (section 3). 
+ 
+27. 
+The licensing regime coupled with pecuniary and custodial punishments 
+are demoralizing and would have deterrent effects upon those pro bono 
+legal services now offered to owners’ corporations and the general public 
+on property management.  The exception under section 7(4) of the PMSO 
+apparently does not help as the above pro bono services do involve a 
+reimbursement (of travelling expenses) which could arguably be a 
+"consideration".    
+  
+28. 
+The requirement to have a license from PMSA for pro bono solicitors 
+significantly deviates from the current practice. Currently, to protect the 
+interests of the public, pro bono solicitors are required to hold a Practising 
+Certificate issued by the Law Society of Hong Kong and hence are subject 
+to the same CPD and indemnity requirements as solicitors serving their 
+clients.   
+ 
+29. 
+Under the licensing regime, it will not be difficult to foresee that members 
+of the Law Society would be discouraged to take part in the offer of pro 
+bono advice on building management, such include (i) the scheme on 
+“Free Legal Advice Service on Building Management” run by the Home 
+Affairs Department ("HAD") since about 201510; and (ii) the "Three-year 
+Pilot Free Outreach Legal Advice Services to Owners' Corporations", also 
+proposed by HAD. This “Legal Advice Services" is a "semi" pro-bono 
+service at a consideration / fee to be agreed between HAD and the Law 
+Society.  The proposed scheme aims to, among other things, assist the 
+                                                 
+10https://www.buildingmgt.gov.hk/en/whats_new/t_2_13.htm.  The scheme had been run by the Housing 
+Society before, and it was transferred back to Home Affairs Department in 2015. 
+
+--------------------------------------------------------------------------------
+ 
+4344838 
+ 
+7
+Owners' Corporations in the conduct of general meetings.  It is expected to 
+be launched in 2019. 
+ 
+30. 
+The Law Society will have a re-think on taking part in any pro-bono service 
+and/or semi pro-bono services if our members could be exposed to a 
+confusing and unreasonable licensing regime in taking up "property 
+management services" as defined under PMSO. 
+ 
+ 
+Other Problems with the Proposals  
+ 
+31. 
+The combined effect of sections 7(5) and 7(8) of the PMSO is that an 
+owners’ organization or owner(s) of a property containing less than 1,500 
+flats and managing the property without engaging any property 
+management companies (“PMCs”) or property management practitioners 
+(“PMPs”) are not required to have a PMC licence or as the case may be a 
+PMP (Tier 1) licence or PMP (Tier 2) licence.  
+ 
+32. 
+In Hong Kong, it is not uncommon for an owners’ organization or owner(s) 
+of a property containing less than 1,500 flats to engage a PMC or PMP for 
+the management services set out in Schedule 1 of the PMO. For instance, 
+it could engage PMP/PMC for  
+ general management (such as waste and refuse disposal, a 
+Category(1) service) and  
+ finance and asset management (preparing and auditing management 
+accounts, a Category(5) service).   
+ 
+If a PMC license is exempted only when the property contains less than 
+1,500 flats and the property has not engaged any PMC or PMP, the 
+exceptions to the prohibitions of unlicensed activities would be 
+prohibitively narrow. That is not at all helpful to the general public and is 
+not consistent with the policy intent of the Administration to improve 
+property management. 
+ 
+33. 
+In most cases, although owners’ committee or owners’ corporation has 
+been formed to manage a property, the owners will also engage a PMC or 
+PMP(s) to provide property management services in particular aspect(s) 
+such as disposal of garbage and those mentioned in the above.  Since the 
+condition for exemption stipulated in Section 7(5) or 7(6)(a) of the PMSO 
+will not be satisfied in such cases, the members of the owners’ committee 
+or management committee will have to apply for PMP licences.  It is 
+foreseeable that most if not all of the existing members of owners’ 
+committee or owners’ corporation will resign from their appointment and 
+the owners of the property are deterred from acting as members of the 
+owners’ committee or management committee.  As a result, the formation 
+
+--------------------------------------------------------------------------------
+ 
+4344838 
+ 
+8
+of owners’ committee or owners’ corporation of a property will be severely 
+hindered by the narrow exceptions provided under Sections 7(5) and 7(6) 
+of the PMSO. 
+ 
+34. 
+Section 7(6)(b)(ii) of the PMSO is also peculiar for it prohibits a lawyer who 
+happens to be an owner of the kind of property intended to benefit from 
+the exception from licensing from providing property management services 
+to the property of which he is an owner in his capacity as an owner, as 
+long as he or his law firm provides legal services relating to property 
+management (category (7) services) for profit. This would mean that all 
+such lawyers who now serve on the owners’ committee or the 
+management committee of their building have to resign from their 
+appointment when the licensing regime has become effective unless they 
+have obtained licences from PMSA. 
+ 
+35. 
+In our submission11 of 6 August 2014 rendered on the matter, we raised 
+the following  
+ 
+"3.3 
+It is the intention of the Administration to subject only those 
+multi-storey buildings involving shared ownership of common parts 
+and with Deed of Mutual Covenants ("DMC") in effect to the licensing 
+regime.  Hence the following situation should be excluded from the 
+Bill12: 
+ 
+(i) The sole owner of a part (e.g. commercial accommodation) in a 
+development involving no shared ownership of common areas 
+should be allowed to manage the commercial accommodation 
+without being subject to the licensing regime. 
+ 
+(ii) Similarly, if the commercial accommodation is owned by two 
+owners without strata-title, either or both of the owners should also 
+be allowed to manage such commercial accommodation and not 
+subject to the licensing regime. 
+ 
+The Administration is invited to clarify the above scenario and include 
+them as exceptions to Clause 6 of Part 2 of the Bill." 
+ 
+36. 
+In a Legislative Council paper in October 2014 (LC Paper No. CB(2)22/14-
+15(04)), the Administration, among other things, replied in paragraph 3.3 
+of the paper that the Administration noted the Law Society's comments 
+and will consider in consultation with the Department of Justice whether to 
+include the suggested exceptions in clause 7(4) of the Bill.  We have so far 
+                                                 
+11http://www.hklawsoc.org.hk/pub_e/news/submissions/20140806a.pdf 
+12The Property Management Services Bill 
+
+--------------------------------------------------------------------------------
+ 
+4344838 
+ 
+9
+received no response from the Administration on the above, but now note 
+that (1) the exceptions have not been included in the PMSO, and (2) it is 
+not mentioned in the Consultation Paper how the Administration is to 
+address the above notwithstanding the above open promise. The situation 
+is unsatisfactory. In our views the above derails the policy intent to help 
+the general public with property management. 
+ 
+37. 
+In relation to the PMC Register as a whole, apart from information on the 
+number of household units for which a PMC is providing property 
+management services, we are of the view that other information such as 
+the addresses of the buildings managed by the PMC, the number of any 
+office, commercial and industrial buildings managed by the PMC and the 
+area of accommodation provided by the buildings, the locality of the 
+residential and other types of buildings managed by the PMC, whether 
+short term parking facilities for guests and visitors are involved, whether 
+there is any recreational space for public use in the buildings managed by 
+the PMC, should be included in the PMC Register, to make the Register 
+useful to the public.   
+ 
+38. 
+The above observations are not exhaustive.  
+ 
+39. 
+We ask that the PMSO must be amended as soon as practicable. 
+ 
+ 
+Conclusion 
+ 
+40. 
+We do not support the Proposal for Licensing Legal Services. The 
+principle underlining the Proposal for Licensing Legal Services is 
+fundamentally wrong. Some of the proposals in the Consultation Paper will 
+also have the effect of being counter-productive to the improvement of 
+property management in Hong Kong. 
+ 
+41. 
+We take a strong view that the PMSO MUST be amended as soon as 
+practicable to sufficiently and satisfactorily address the concerns we raise 
+in relation to the Proposal for Licensing Legal Services in the above as 
+well as in our submissions in 2014. Amendments are also required to 
+correct other problematic parts of the proposals in the Consultation Paper. 
+We would welcome the chance of further dialogue with the PMSA on the 
+matter. 
+ 
+ 
+ 
+ 
+The Law Society of Hong Kong 
+9 January 2019 
+
+--------------------------------------------------------------------------------

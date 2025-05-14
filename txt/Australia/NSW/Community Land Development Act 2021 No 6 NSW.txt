@@ -1,0 +1,3085 @@
+Community Land Development Act 2021 No 6
+[2021-6]
+New South Wales
+New South Wales
+Status Information
+Currency of version
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Legislation on this site is usually updated within 3 working days after a change to the legislation.
+Provisions in force
+The provisions displayed in this version of the legislation have all commenced.
+Authorisation
+This version of the legislation is compiled and maintained in a database of legislation by the Parliamentary
+Counsel's Office and published on the NSW legislation website, and is certified as the form of that legislation that
+is correct under section 45C of the Interpretation Act 1987.
+File last modified 11 December 2023
+Certified by the NSW Parliamentary Counsel as being published on www.legislation.nsw.gov.au
+Page 1 of 85
+
+--------------------------------------------------------------------------------
+Community Land Development Act 2021 No 6
+New South Wales
+New South Wales
+Contents
+Long title.......................................................................................................................................... 8
+Part 1 Preliminary.......................................................................................................................8
+1 Name of Act....................................................................................................................................... 8
+2 Commencement ................................................................................................................................8
+3 Object of Act...................................................................................................................................... 8
+4 Interpretation .................................................................................................................................... 8
+5 Meaning of “community scheme” .....................................................................................................9
+6 Meaning of “precinct scheme” ..........................................................................................................9
+7 Meaning of “neighbourhood scheme”..............................................................................................10
+Part 2 Establishment of schemes ....................................................................................10
+8 Establishment of community scheme..............................................................................................10
+9 Establishment of precinct scheme...................................................................................................11
+10 Establishment of neighbourhood scheme........................................................................................12
+11 Exclusion of corporations law ..........................................................................................................12
+12 Requirements for scheme plans ......................................................................................................12
+13 Establishment of subsidiary strata scheme .....................................................................................14
+Part 3 Plans and instruments affecting schemes...................................................14
+Division 1 Plans of subdivision and consolidation.................................................14
+14 Scheme plans of subdivision ...........................................................................................................14
+15 Requirements for scheme plan of subdivision that subdivides or creates lot ..................................15
+16 Requirements for scheme plan of subdivision that adds land to scheme parcel .............................17
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 2 of 85
+
+--------------------------------------------------------------------------------
+17 Scheme plans of consolidation ........................................................................................................18
+Division 2 Community and precinct development lots........................................18
+18 Minor adjustments between development lots and community property........................................18
+19 Severance of a development lot......................................................................................................19
+Part 4 Association property ................................................................................................20
+20 Definition......................................................................................................................................... 20
+21 Vesting of association property .......................................................................................................20
+22 Shares in association property ........................................................................................................21
+23 Dealings with association property..................................................................................................21
+24 Conversion of lots to association property ......................................................................................21
+25 Acquisition of additional association property by transfer...............................................................22
+26 Acquisition of additional association property by lease...................................................................23
+27 Lease of certain association property..............................................................................................24
+28 Transfer of association property ......................................................................................................25
+Part 5 Easements and restrictions..................................................................................26
+Division 1 Granting or accepting relevant interests ............................................26
+29 Definition......................................................................................................................................... 26
+30 Association may grant or accept relevant interest ..........................................................................26
+31 Dealings to grant or accept relevant interest ..................................................................................26
+Division 2 Statutory easements .......................................................................................27
+32 Definitions ....................................................................................................................................... 27
+33 Meaning of “statutory easement” ...................................................................................................27
+34 Creation of statutory easement.......................................................................................................27
+35 Service line provider has benefit of statutory easement .................................................................28
+36 Implied covenants ...........................................................................................................................28
+37 Service line completed after creation of statutory easement..........................................................29
+38 Developer to give copy of prescribed diagram to association .........................................................29
+39 Registrar-General may make recordings..........................................................................................29
+40 Division does not affect other rights or obligations .........................................................................29
+Part 6 Access to schemes.....................................................................................................30
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 3 of 85
+
+--------------------------------------------------------------------------------
+41 Setting apart access way in association property ...........................................................................30
+42 Special resolution required for closure of open access way ............................................................30
+43 Access ways remain as association property...................................................................................30
+44 Effect of access ways in relation to certain rights ...........................................................................31
+Part 7 Development contracts...........................................................................................31
+45 Definitions ....................................................................................................................................... 31
+46 Form and content ............................................................................................................................31
+47 Planning approval............................................................................................................................32
+48 Variation of liability for association property expenses ...................................................................33
+49 Binding effect .................................................................................................................................. 33
+50 Amendment with approval of planning authority and association...................................................34
+51 Notice of decision of planning authority and appeal .......................................................................35
+52 Amendment with approval of Court.................................................................................................35
+53 Registration of amendment .............................................................................................................36
+54 Orders of the Court for breach.........................................................................................................36
+55 Development concerns....................................................................................................................37
+56 Right to complete permitted development......................................................................................37
+57 Meetings of association relating to development concerns.............................................................38
+58 Conclusion of development contract ...............................................................................................39
+Part 8 Amalgamation of schemes....................................................................................40
+59 Amalgamation with subsidiary precinct or neighbourhood scheme ................................................40
+60 Public notice of proposed amalgamation.........................................................................................40
+61 Application for amalgamation of schemes.......................................................................................40
+62 Matters to accompany application ..................................................................................................41
+63 Consequences of registration of amalgamation of schemes ...........................................................42
+64 Regulations for purposes of this Part...............................................................................................43
+Part 9 Variation or termination of scheme.................................................................43
+Division 1 Variation or termination by Supreme Court.......................................43
+65 Variation or termination of scheme .................................................................................................43
+66 Variation of associated development contract ................................................................................44
+67 Application to Supreme Court..........................................................................................................44
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 4 of 85
+
+--------------------------------------------------------------------------------
+Division 2 Termination by Registrar-General............................................................45
+68 Termination of scheme by Registrar-General...................................................................................45
+69 Making application for termination..................................................................................................45
+70 Consequences of termination order by the Registrar-General.........................................................46
+Part 10 Resumptions...............................................................................................................47
+Division 1 Preliminary ............................................................................................................47
+71 Definitions ....................................................................................................................................... 47
+72 Application of Part ...........................................................................................................................48
+Division 2 Applications to Supreme Court..................................................................48
+73 Resuming authority must apply to Supreme Court..........................................................................48
+74 Notice of application to the Supreme Court.....................................................................................49
+75 Application may be treated as application to vary or terminate scheme ........................................50
+76 Hearing of application .....................................................................................................................50
+77 Costs ............................................................................................................................................... 50
+78 Orders take effect on registration....................................................................................................50
+Division 3 Notice of resumption .......................................................................................50
+79 Notice of resumption .......................................................................................................................50
+80 When notice is required to apply to whole parcel............................................................................51
+Division 4 Plans and instruments to be lodged with Registrar-General...51
+81 Definition......................................................................................................................................... 51
+82 Lodgment of plans...........................................................................................................................52
+83 When registered plan takes effect...................................................................................................52
+84 Registrar-General may make recordings and notations...................................................................52
+85 Resumption of whole parcel ............................................................................................................52
+86 Resumption of entire lot with exclusion from scheme .....................................................................52
+87 Resumption of part of lot without exclusion from scheme...............................................................53
+88 Resumption of part of lot with exclusion from scheme....................................................................54
+89 Resumption of part of association property.....................................................................................54
+90 Resumption of part of common property.........................................................................................55
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 5 of 85
+
+--------------------------------------------------------------------------------
+Division 5 Effect of resumption.........................................................................................56
+91 Exclusion of resumed land from scheme .........................................................................................56
+92 Interest in association or common property ....................................................................................56
+93 Continuation of resumed land within scheme..................................................................................56
+Division 6 Sale as alternative to resumption............................................................57
+94 Definition......................................................................................................................................... 57
+95 Use of acquisition plan to acquire land............................................................................................57
+96 Grounds for refusing to register acquisition plan.............................................................................57
+97 Sale of association property using acquisition plan.........................................................................58
+98 Effect of registration of transfer ......................................................................................................58
+99 Division has effect despite other provisions of Act ..........................................................................58
+Division 7 Miscellaneous.......................................................................................................58
+100 Compensation on resumption of part of lot ...................................................................................58
+101 Compensation on resumption of association or common property................................................59
+102 Resumption by authority not bound by Act ...................................................................................59
+Part 11 Lodgment and functions of Registrar-General .......................................59
+103 Application of Act to electronic plans and documents ...................................................................59
+104 Recordings and notations ..............................................................................................................60
+105 Amendment to registered plans and instruments .........................................................................60
+106 Replacement sheet or additional sheet for plan, and replacement schedule of unit entitlement..61
+107 Plans for strata subdivision not registrable under this Act ............................................................62
+108 Registration of amendment of management statement................................................................62
+109 Notice to be given to Valuer-General.............................................................................................62
+110 Recording of certain orders ...........................................................................................................62
+Part 12 Miscellaneous ............................................................................................................63
+111 Functions of associations...............................................................................................................63
+112 Expiration of initial period .............................................................................................................63
+113 Accompanying documents become part of plan on registration ...................................................64
+114 Act to bind Crown ..........................................................................................................................64
+115 Regulations.................................................................................................................................... 64
+116 Repeals.......................................................................................................................................... 64
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 6 of 85
+
+--------------------------------------------------------------------------------
+Schedule 1 Plans .......................................................................................................................64
+Schedule 2 Management statements............................................................................66
+Schedule 3 Schedules of unit entitlement .................................................................71
+Schedule 4 Savings, transitional and other provisions ......................................77
+Schedule 5 (Repealed) ...........................................................................................................78
+Dictionary ...................................................................................................................................... 78
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 7 of 85
+
+--------------------------------------------------------------------------------
+Community Land Development Act 2021 No 6
+New South Wales
+New South Wales
+An Act to facilitate the subdivision and development of land with shared property; and for
+other purposes.
+Part 1 Preliminary
+1
+Name of Act
+This Act is the Community Land Development Act 2021.
+2
+Commencement
+This Act commences on a day or days to be appointed by proclamation.
+3
+Object of Act
+The object of this Act is to facilitate the subdivision of land into parcels for separate
+development or disposition—
+(a) with a common or shared property interest in associated land, and
+(b) in conjunction with the development of another parcel or parcels.
+4
+Interpretation
+(1) The Dictionary to this Act defines certain terms used in this Act.
+Note—
+The Interpretation Act 1987 contains definitions and other provisions that affect the interpretation and
+application of this Act.
+(2) This Act is to be interpreted as part of the Real Property Act 1900 but, if there is an
+inconsistency between them, this Act prevails.
+(3) For the purposes of this Act, land is contiguous even if it is divided by, or separated
+from other land by a natural feature, railway, public road, public reserve or drainage
+reserve.
+(4) A reference in this Act to any of the following approvals, contracts or statements
+includes a reference to the approval, contract or statement as modified or amended
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 8 of 85
+
+--------------------------------------------------------------------------------
+from time to time in accordance with this or any other Act—
+(a) a planning approval,
+(b) a development contract,
+(c) a community management statement,
+(d) a precinct management statement,
+(e) a neighbourhood management statement.
+(5) Notes included in this Act do not form part of this Act.
+5
+Meaning of “community scheme”
+In this Act, community scheme means—
+(a) the subdivision of land by a community plan, and
+(b) the subdivision of land in the community plan by a precinct plan, and
+(c) the subdivision of land in the community plan or precinct plan by a neighbourhood
+plan or strata plan, and
+(d) the proposals in any related development contract, and
+(e) the rights conferred, and the obligations imposed, by or under this Act, the
+Community Land Management Act 2021, Strata Schemes Development Act 2015 and
+Strata Schemes Management Act 2015 in relation to the following—
+(i) the community association,
+(ii) the community property,
+(iii) subsidiary schemes,
+(iv) persons having interests in, or occupying, development lots and lots in subsidiary
+schemes.
+6
+Meaning of “precinct scheme”
+In this Act, precinct scheme means—
+(a) the subdivision of land by a precinct plan, and
+(b) the subdivision of land in the precinct plan by a neighbourhood plan or strata plan,
+and
+(c) the proposals in any related development contract, and
+(d) the rights conferred, and the obligations imposed, by or under this Act, the
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 9 of 85
+
+--------------------------------------------------------------------------------
+Community Land Management Act 2021, Strata Schemes Development Act 2015 and
+Strata Schemes Management Act 2015 in relation to the following—
+(i) the precinct association,
+(ii) the precinct property,
+(iii) subsidiary schemes,
+(iv) persons having interests in, or occupying, development lots and lots in subsidiary
+schemes.
+7
+Meaning of “neighbourhood scheme”
+In this Act, neighbourhood scheme means—
+(a) the subdivision of land by a neighbourhood plan, and
+(b) the proposals in any related development contract, and
+(c) the rights conferred, and the obligations imposed, by or under this Act and the
+Community Land Management Act 2021 in relation to the following—
+(i) the neighbourhood association,
+(ii) the neighbourhood property,
+(iii) persons having interests in, or occupying, the neighbourhood lots.
+Part 2 Establishment of schemes
+8
+Establishment of community scheme
+(1) A community scheme is established by the registration of a plan for the subdivision of
+land—
+(a) that is not part of a community parcel, precinct parcel, neighbourhood parcel or
+strata parcel, and
+(b) into 2 or more community development lots and 1 other lot that is community
+property, whether or not the plan includes land that, on registration of the plan,
+will be dedicated as a public road, public reserve or drainage reserve.
+(2) The registration of a community plan constitutes a corporation with the corporate
+name “Community Association DP No
+”, where the number to be inserted is
+the number of the plan registered as the community plan.
+(3) The members of the corporation are as follows—
+(a) the owner of each community development lot in the community parcel that has
+not become subject to a subsidiary scheme,
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 10 of 85
+
+--------------------------------------------------------------------------------
+(b) the precinct association constituted if a community development lot in the
+community parcel becomes subject to a precinct scheme,
+(c) the neighbourhood association constituted if a community development lot in the
+community parcel becomes subject to a neighbourhood scheme,
+(d) the strata corporation constituted if a community development lot in the
+community parcel becomes subject to a strata scheme.
+(4) In this Act—
+community association means a corporation constituted by the registration of a
+community plan.
+community plan means a plan referred to in subsection (1).
+9
+Establishment of precinct scheme
+(1) A precinct scheme is established by the registration of a plan for the subdivision of
+land—
+(a) that is a community development lot, and
+(b) into 2 or more precinct development lots and 1 other lot that is precinct property,
+whether or not the plan includes land that, on registration of the plan, will be
+dedicated as a public road, public reserve or drainage reserve.
+(2) The registration of a precinct plan constitutes a corporation with the corporate name
+“Precinct Association DP No
+”, where the number to be inserted is the
+number of the plan registered as the precinct plan.
+(3) The members of the corporation are as follows—
+(a) the owner of each precinct development lot in the precinct parcel that has not
+become subject to a subsidiary scheme,
+(b) the neighbourhood association constituted if a precinct development lot in the
+precinct parcel becomes subject to a neighbourhood scheme,
+(c) the strata corporation constituted if a precinct development lot in the precinct
+parcel becomes subject to a strata scheme.
+(4) In this Act—
+precinct association means a corporation constituted by the registration of a
+precinct plan.
+precinct plan means a plan referred to in subsection (1).
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 11 of 85
+
+--------------------------------------------------------------------------------
+10
+Establishment of neighbourhood scheme
+(1) A neighbourhood scheme that is part of a community scheme or precinct scheme is
+established by the registration of a plan for the subdivision of land—
+(a) that is a development lot, and
+(b) into 2 or more neighbourhood lots and 1 other lot that is neighbourhood property,
+whether or not the plan includes land that, on registration of the plan, will be
+dedicated as a public road, public reserve or drainage reserve.
+(2) A neighbourhood scheme that is not part of a community scheme or precinct scheme
+is established by the registration of a plan for the subdivision of land—
+(a) that is not part of a community parcel, precinct parcel, neighbourhood parcel or
+strata parcel, and
+(b) into 2 or more neighbourhood lots and 1 other lot that is neighbourhood property,
+whether or not the plan includes land that, on registration of the plan, will be
+dedicated as a public road, public reserve or drainage reserve.
+(3) The registration of a neighbourhood plan constitutes a corporation with the corporate
+name “Neighbourhood Association DP No
+”, where the number to be inserted
+is the number of the plan registered as the neighbourhood plan.
+(4) The members of the corporation are the owners of the neighbourhood lots in the
+neighbourhood parcel.
+(5) In this Act—
+neighbourhood association means a corporation constituted by the registration of
+a neighbourhood plan.
+neighbourhood plan means a plan referred to in subsection (1) or (2).
+11
+Exclusion of corporations law
+A community association, precinct association or neighbourhood association is declared to
+be an excluded matter for the purposes of section 5F of the Corporations Act 2001 of the
+Commonwealth in relation to the whole of the Corporations legislation.
+Note—
+That section permits a State to exclude a matter from the application of all or part of the Corporations
+legislation.
+12
+Requirements for scheme plans
+(1) A scheme plan—
+(a) must comply with Schedule 1, and
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 12 of 85
+
+--------------------------------------------------------------------------------
+(b) must include—
+(i) a location plan, and
+(ii) a detail plan, and
+(iii) an association property plan, and
+(c) must be accompanied by—
+(i) a management statement for the scheme that complies with Schedule 2, and
+(ii) any documents prescribed by the regulations, and
+(d) may be accompanied by a development contract for the scheme that complies
+with Part 7.
+(2) The administration sheet for a scheme plan must include—
+(a) a schedule of unit entitlement that complies with Schedule 3, and
+(b) the address at which documents may be served on the association constituted on
+registration of the plan.
+(3) On the registration of a scheme plan, the Registrar-General is to make—
+(a) a recording identifying the relevant association property in the folio for each
+development lot or neighbourhood lot, and
+(b) the recordings required by subsection (4) in the folio for the association property.
+(4) The following recordings are to be made in the folio for association property—
+(a) the name of the relevant association,
+(b) the latest address of which the Registrar-General has been notified for the service
+of notices on the association,
+(c) if the association is the association for a subsidiary scheme, a recording
+identifying the association property of the scheme of which the subsidiary scheme
+is a part,
+(d) a recording to identify easements benefiting or burdening the association property
+or the whole of the scheme parcel,
+(e) a recording to identify positive covenants or restrictions on the use of land
+burdening the association property or the whole of the scheme parcel,
+(f) a recording to identify the applicable management statement and amendments to
+the applicable management statement,
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 13 of 85
+
+--------------------------------------------------------------------------------
+(g) a recording to identify any development contract registered with the scheme plan
+and any amendments to the development contract,
+(h) the recordings required to be made under this Act or any other Act,
+(i) any other recordings that the Registrar-General thinks fit.
+13
+Establishment of subsidiary strata scheme
+(1) A community development lot or precinct development lot may also be subdivided by
+the registration of a strata plan that includes common property.
+(2) On the registration of a strata plan, the Registrar-General is to make the following
+recordings—
+(a) in the folio for the common property—
+(i) the recordings required under sections 29, 31 and 32 of the Strata Schemes
+Development Act 2015, and
+(ii) a recording identifying the association property of the scheme of which the
+strata scheme is a part, and
+(iii) the recordings required to be made under this Act or any other Act, and
+(iv) any other recordings that the Registrar-General thinks fit.
+(b) in the folio for each strata lot, the recordings required under the Strata Schemes
+Development Act 2015.
+(3) A neighbourhood lot may not be subdivided by the registration of a strata plan.
+Part 3 Plans and instruments affecting schemes
+Division 1 Plans of subdivision and consolidation
+14
+Scheme plans of subdivision
+(1) A community plan of subdivision may be used to—
+(a) subdivide 1 or more community development lots into—
+(i) 2 or more community development lots, or
+(ii) 1 or more community development lots and community property, or
+(b) subdivide 1 or more community development lots and some, but not all,
+community property into 1 or more community development lots and community
+property, or
+(c) subdivide community property into 1 or more community development lots and
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 14 of 85
+
+--------------------------------------------------------------------------------
+community property, or
+(d) add a community development lot to a community scheme.
+(2) A precinct plan of subdivision may be used to—
+(a) subdivide 1 or more precinct development lots into—
+(i) 2 or more precinct development lots, or
+(ii) 1 or more precinct development lots and precinct property, or
+(b) subdivide 1 or more precinct development lots and some, but not all, precinct
+property into 1 or more precinct development lots and precinct property, or
+(c) subdivide precinct property into 1 or more precinct development lots and precinct
+property, or
+(d) add a precinct development lot to a precinct scheme.
+(3) A neighbourhood plan of subdivision may be used to—
+(a) subdivide 1 or more neighbourhood lots into—
+(i) 2 or more neighbourhood lots, or
+(ii) 1 or more neighbourhood lots and neighbourhood property, or
+(b) subdivide 1 or more neighbourhood lots and some, but not all, neighbourhood
+property into 1 or more neighbourhood lots and neighbourhood property, or
+(c) subdivide neighbourhood property into 1 or more neighbourhood lots and
+neighbourhood property, or
+(d) add a neighbourhood lot to a neighbourhood scheme.
+15
+Requirements for scheme plan of subdivision that subdivides or creates lot
+(1) This section applies to a scheme plan of subdivision but not a scheme plan of
+subdivision that adds land to a scheme parcel as a development lot or neighbourhood
+lot.
+(2) The plan—
+(a) must comply with Schedule 1, and
+(b) must include an additional sheet of the detail plan showing the boundaries of all
+development lots or neighbourhood lots created by the subdivision, and
+(c) must include a replacement schedule of unit entitlement for the scheme that
+complies with Schedule 3, and
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 15 of 85
+
+--------------------------------------------------------------------------------
+(d) if it is necessary to amend a registered development contract to give effect to the
+plan, must be accompanied by—
+(i) a request for registration of the amendment to the development contract in the
+approved form, and
+(ii) any documents prescribed by the regulations, and
+(e) if a neighbourhood lot is being subdivided and it is held by the original owner,
+must not be registered unless—
+(i) the initial period has expired, or
+(ii) there is a development contract in force and the dealing is in accordance with
+the development contract, or
+(iii) the dealing has been authorised by the Tribunal.
+(3) The plan, if it subdivides or creates association property—
+(a) must include a replacement sheet for the association property plan showing the
+altered boundaries of the association property, and
+(b) must be accompanied by a certificate (the association certificate) in the
+approved form, and
+(c) must not be registered unless—
+(i) the initial period has expired, or
+(ii) there is a development contract in force and the plan is in accordance with the
+contract, or
+(iii) the plan has been authorised by the Tribunal.
+(4) The association certificate must be under the seal of the association and be to the
+effect that—
+(a) execution of the plan was authorised by special resolution, and
+(b) any interest in the land has been released if—
+(i) the plan has not been made subject to the interest, and
+(ii) the interest is not a statutory interest or an interest recorded in the Register,
+and
+(iii) the association has notice of the interest, and
+(c) land ceasing to be association property will no longer be affected by a by-law
+restricting the use of association property.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 16 of 85
+
+--------------------------------------------------------------------------------
+(5) A development lot or neighbourhood lot created by a subdivision of association
+property ceases to be association property.
+16
+Requirements for scheme plan of subdivision that adds land to scheme parcel
+(1) This section applies to a scheme plan of subdivision that adds land to a scheme parcel
+as a development lot or neighbourhood lot.
+(2) The plan—
+(a) must comply with Schedule 1, and
+(b) must include an additional sheet of the detail plan showing the boundaries of all
+development lots or neighbourhood lots created by the subdivision, and
+(c) must include a replacement schedule of unit entitlement for the scheme that
+complies with Schedule 3, and
+(d) must be accompanied by a certificate in the approved form certifying the
+association has been approved by special resolution the addition of the land, and
+(e) if required by the Registrar-General, must be accompanied by a replacement
+location plan showing the new boundaries and overall layout of the scheme parcel,
+and
+(f) must not be registered if the scheme parcel is a community parcel, unless the
+land—
+(i) is contiguous to the community parcel, and
+(ii) is not part of a scheme parcel or strata parcel, and
+(g) must not be registered if the scheme parcel is a precinct parcel, unless the land—
+(i) is contiguous to the precinct parcel, and
+(ii) comprises a community development lot in the relevant community scheme,
+and
+(h) must not be registered if the scheme parcel is a neighbourhood parcel that is part
+of a community scheme, unless the land—
+(i) is contiguous to the neighbourhood parcel, and
+(ii) comprises a development lot in the community scheme or, if the
+neighbourhood scheme is also part of a precinct scheme, the precinct scheme,
+and
+(i) must not be registered if the scheme parcel is a neighbourhood parcel that is not
+part of a community scheme, unless the land—
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 17 of 85
+
+--------------------------------------------------------------------------------
+(i) is contiguous to the neighbourhood parcel, and
+(ii) is not part of a scheme parcel or strata parcel, and
+(j) must not be registered, unless—
+(i) the initial period has expired, or
+(ii) there is a development contract in force and the addition of the land is in
+accordance with the contract, or
+(iii) the addition of the land has been authorised by the Tribunal.
+17
+Scheme plans of consolidation
+(1) A community plan of consolidation may be used to consolidate 2 or more, but not all,
+of the community development lots in the same community plan.
+(2) A precinct plan of consolidation may be used to consolidate 2 or more, but not all, of
+the precinct development lots in the same precinct plan.
+(3) A neighbourhood plan of consolidation may be used to consolidate 2 or more, but not
+all, of the neighbourhood lots in the same neighbourhood plan.
+(4) A scheme plan of consolidation—
+(a) must comply with Schedule 1, and
+(b) must include an additional sheet of the detail plan showing the boundaries of the
+consolidated lot, and
+(c) must include a replacement schedule of unit entitlement that—
+(i) complies with Schedule 3, and
+(ii) does not differ from the existing schedule except to show the unit entitlement
+of the consolidated lot as the sum of the lots that have been consolidated, and
+(d) must be accompanied by any documents prescribed by the regulations.
+Division 2 Community and precinct development lots
+18
+Minor adjustments between development lots and community property
+(1) A boundary adjustment plan may be used to make an adjustment that, in the opinion
+of the Registrar-General, is a minor adjustment, to—
+(a) the boundaries between community development lots and the community
+property in a community plan, or
+(b) the boundaries between precinct development lots and the precinct property in a
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 18 of 85
+
+--------------------------------------------------------------------------------
+precinct plan.
+(2) A boundary adjustment plan must—
+(a) comply with Schedule 1, and
+(b) include an additional sheet of the detail plan showing the altered boundaries of
+the affected development lots, and
+(c) include a replacement sheet for the relevant association property plan showing
+the altered boundaries of the association property, and
+(d) be accompanied by any documents prescribed by the regulations.
+(3) A boundary adjustment plan when registered—
+(a) operates, without any further assurance, to vest the land in accordance with the
+adjusted boundaries, and
+(b) does not of itself give rise to any liability for stamp duty.
+19
+Severance of a development lot
+(1) An instrument in the approved form may be used to—
+(a) sever a community development lot from a community scheme, or
+(b) sever a precinct development lot from a precinct scheme.
+(2) The instrument—
+(a) must be signed by the owner of the lot and by the association, and
+(b) must be accompanied by a replacement schedule of unit entitlement that
+complies with Schedule 3 for—
+(i) the community scheme, and
+(ii) if the severed lot is a precinct development lot, the precinct scheme, and
+(c) must be accompanied by a certificate of the planning authority signifying its
+consent to the severance, and
+(d) must be accompanied by a certificate under seal to the effect that consent to the
+severance has been given by special resolution—
+(i) for a community development lot, by the community association, or
+(ii) for a precinct development lot, by the community association and the precinct
+association, and
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 19 of 85
+
+--------------------------------------------------------------------------------
+(e) must be accompanied by the consent of each mortgagee, chargee or covenant
+chargee of the lot, and
+(f) must be accompanied by any evidence the Registrar-General may require to show
+that all easements for access and services have been created if the easements are
+necessary for the community scheme and the severed lot because of the
+severance of the lot.
+(3) On registration of the instrument, the Registrar-General is to make any recordings in
+the folio for the severed lot as the Registrar-General thinks fit—
+(a) to give effect to the severance, and
+(b) to preserve subsisting interests recorded in the folio.
+(4) A severed lot ceases to be a development lot but continues to be a lot in a current
+plan for the purposes of section 23F of the Conveyancing Act 1919.
+Part 4 Association property
+20
+Definition
+In this Part—
+relevant interest means the following—
+(a) a mortgage,
+(b) a charge,
+(c) a covenant charge,
+(d) a writ,
+(e) a caveat,
+(f) a lease, other than a lease necessary for the provision of a service to the scheme.
+21
+Vesting of association property
+(1) Registration of a plan or dealing creating association property—
+(a) vests the land in the relevant association, and
+(b) frees and discharges the land from all relevant interests.
+(2) Land vests under this section for the estate or interest evidenced by the folio for the
+land.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 20 of 85
+
+--------------------------------------------------------------------------------
+22
+Shares in association property
+(1) An association for a scheme holds association property in the scheme as agent for the
+following as tenants in common—
+(a) the owners of the development lots or neighbourhood lots in the scheme, other
+than lots in a subsidiary scheme,
+(b) any subsidiary body for a subsidiary scheme comprising a former development lot
+in the scheme.
+(2) The shares in the association property are proportional—
+(a) for owners of development lots or neighbourhood lots, to the unit entitlement of
+the lots, and
+(b) for a subsidiary body, to the unit entitlement of the former development lot.
+23
+Dealings with association property
+(1) Association property may be dealt with only in accordance with this Act and the
+Community Land Management Act 2021.
+(2) Association property held by an association as agent—
+(a) for the owner of a development lot or neighbourhood lot, may be dealt with in
+conjunction with the lot, or
+(b) for a subsidiary body, may be dealt with in conjunction with the subsidiary parcel.
+(3) A reference in a dealing, caveat or priority notice to a lot is taken to include a
+reference to association property held by an association as agent in relation to the lot.
+(4) Subsection (3) has effect without a recording being made in the folio for the
+association property.
+24
+Conversion of lots to association property
+(1) An instrument in the approved form may be used to—
+(a) convert a community development lot to community property, or
+(b) convert a precinct development lot to precinct property, or
+(c) convert a neighbourhood lot to neighbourhood property.
+(2) The instrument—
+(a) must be signed by the owner of the lot and by the association, and
+(b) must be accompanied by a replacement sheet for the association property plan
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 21 of 85
+
+--------------------------------------------------------------------------------
+showing the altered boundaries of the association property, and
+(c) must be accompanied by a replacement schedule of unit entitlement for the
+affected scheme that complies with Schedule 3, and
+(d) must be accompanied by a certificate of the planning authority showing its
+consent to the conversion, and
+(e) must be accompanied by a certificate under the seal of the relevant association to
+the effect that it has, by special resolution, consented to the conversion and to the
+new schedule of unit entitlement, and
+(f) must not be registered unless the folio for the lot is freed from all relevant
+interests, and
+(g) if the instrument is converting a neighbourhood lot held by the original owner,
+must not be registered unless—
+(i) the initial period has expired, or
+(ii) there is a development contract in force and the instrument is in accordance
+with the contract, or
+(iii) the conversion has been authorised by the Tribunal.
+(3) On registration of the instrument, the Registrar-General is to cancel the folio for the
+lot.
+25
+Acquisition of additional association property by transfer
+(1) An association may add land to its association property by transfer if—
+(a) the land is not part of the scheme parcel, and
+(b) the land is contiguous to the scheme parcel, and
+(c) the transfer is registered under the Real Property Act 1900.
+(2) If the scheme is a subsidiary scheme, the transferred land must comprise a
+development lot within a scheme of which the subsidiary scheme is part.
+(3) The transfer—
+(a), (b)
+(Repealed)
+(c) must be accompanied by a certificate under the seal of the association to which
+the land is to be transferred to the effect that acceptance of the transfer was
+authorised by special resolution, and
+(d) must be accompanied by a replacement sheet for the association property plan
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 22 of 85
+
+--------------------------------------------------------------------------------
+showing the altered boundaries of the association property, and
+(e) must be accompanied by an additional sheet of the detail plan showing the
+detailed survey information of the additional land, and
+(f) if required by the Registrar-General, must be accompanied by a replacement
+location plan showing the new boundaries and overall layout of the scheme parcel,
+and
+(g) must not be registered unless the folio for the lot is freed from all relevant
+interests, and
+(h) must not be registered unless—
+(i) the initial period has expired, or
+(ii) there is a development contract in force and the transfer is in accordance with
+the contract, or
+(iii) the transfer has been authorised by the Tribunal.
+(4) In this section—
+detailed survey information for a plan, means the survey information required to
+be included in the plan by regulations made under the Surveying and Spatial
+Information Act 2002.
+26
+Acquisition of additional association property by lease
+(1) An association may add land to its association property by lease if—
+(a) the land is not part of the scheme parcel, and
+(b) the land is contiguous to the scheme parcel, and
+(c) the lease is registered under the Real Property Act 1900.
+(2) The lease—
+(a), (b)
+(Repealed)
+(c) must be accompanied by a certificate under the seal of the association to which
+the land is to be transferred to the effect that acceptance of the lease was
+authorised by special resolution, and
+(d) if the lease is to a neighbourhood association, must not be registered unless—
+(i) the initial period has expired, or
+(ii) there is a development contract in force and the lease is in accordance with
+the contract, or
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 23 of 85
+
+--------------------------------------------------------------------------------
+(iii) the lease has been authorised by the Tribunal.
+(3) An association may surrender or vary a lease accepted by it under this section if—
+(a) it so decides by special resolution, and
+(b) the lessor consents.
+(4) In this section—
+lease includes—
+(a) a sublease, and
+(b) a leasehold estate or interest acquired by transfer.
+27
+Lease of certain association property
+(1) An association may grant a lease of land forming part of its association property if—
+(a) the land is not all of its association property, and
+(b) the lease is registered under the Real Property Act 1900.
+(2) The lease—
+(a) must be accompanied by a certificate (an association certificate) in the
+approved form, and
+(b) must not be registered unless—
+(i) the initial period has expired, or
+(ii) the grant of the lease has been authorised by the Tribunal.
+(3) The association certificate must be under the seal of the association and be to the
+effect that—
+(a) execution of the lease was authorised by special resolution, and
+(b) any interest in the land has been released if—
+(i) the lease has not been made subject to the interest, and
+(ii) the interest is not a statutory interest or an interest recorded in the Register,
+and
+(iii) the association has notice of the interest, and
+(c) any by-law restricting the use of the association property no longer affects the
+interest passing under the lease.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 24 of 85
+
+--------------------------------------------------------------------------------
+(4) An association may by special resolution accept a surrender of, or exercise a right of
+re-entry under, a lease granted by it under this section.
+(5) In this section—
+grant a lease includes grant a sublease or transfer a lease, but only if the sublease
+or transfer is not in contravention of the lease.
+28
+Transfer of association property
+(1) An association may transfer land forming part of its association property if—
+(a) the land is not all of its association property, and
+(b) the land is not held by it on lease, and
+(c) the land is shown as a lot in a plan lodged for registration as a current plan, and
+(d) the transfer is registered under the Real Property Act 1900.
+(2) The transfer—
+(a) must be accompanied by a replacement sheet for the association property plan
+showing the altered boundaries of the association property, and
+(b) must be accompanied by a certificate (an association certificate) in the
+approved form, and
+(c) must not be registered unless—
+(i) the initial period has expired, or
+(ii) the transfer has been authorised by the Tribunal.
+(3) The association certificate must be under the seal of the association and be to the
+effect that—
+(a) execution of the transfer was authorised by special resolution, and
+(b) any interest in the land has been released if—
+(i) the transfer has not been made subject to the interest, and
+(ii) the interest is not a statutory interest or an interest recorded in the Register,
+and
+(iii) the association has notice of the interest, and
+(c) any by-law restricting the use of the association property no longer affects the
+interest passing under the transfer.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 25 of 85
+
+--------------------------------------------------------------------------------
+(4) Land transferred under this section ceases to be association property.
+Part 5 Easements and restrictions
+Division 1 Granting or accepting relevant interests
+29
+Definition
+In this Division—
+relevant interest means an easement, restriction on the use of land or positive
+covenant.
+30
+Association may grant or accept relevant interest
+(1) An association may by special resolution—
+(a) grant an easement that burdens association property, or
+(b) grant a restriction on the use of land or a positive covenant that burdens
+association property or the whole of the scheme parcel, or
+(c) execute a dealing releasing or varying a relevant interest that benefits association
+property or the whole of the scheme parcel.
+(2) An association may by ordinary resolution—
+(a) accept the benefit of a relevant interest that benefits association property or the
+whole of the scheme parcel, or
+(b) accept a dealing releasing or varying a relevant interest that burdens association
+property or the whole of the scheme parcel.
+31
+Dealings to grant or accept relevant interest
+(1) A dealing by an association to grant, release, vary or accept a relevant interest that
+burdens or benefits land must be accompanied by a certificate—
+(a) in the approved form, and
+(b) under the seal of the association, and
+(c) to the effect that the dealing was approved by the association in accordance with
+this Division.
+(2) A dealing under this section must not be registered if the association is a
+neighbourhood association unless—
+(a) the initial period has expired, or
+(b) there is a development contract in force and the dealing is in accordance with the
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 26 of 85
+
+--------------------------------------------------------------------------------
+contract, or
+(c) the dealing has been authorised by the Tribunal.
+Division 2 Statutory easements
+32
+Definitions
+In this Division—
+lot means—
+(a) a development lot, neighbourhood lot or strata lot, or
+(b) community property, precinct property or neighbourhood property.
+prescribed diagram means a diagram in the approved form that complies with any
+requirements prescribed by the regulations or the lodgment rules.
+service includes—
+(a) the supply of water, gas, electricity, artificially heated or cooled air or heating oil, and
+(b) the provision of recycled water, sewerage and drainage, and
+(c) telecommunications services.
+service line means a pipe, wire, cable, duct, channel or pole used for the provision of a
+service.
+service provider includes an association that provides a service under a management
+statement.
+33
+Meaning of “statutory easement”
+For the purposes of this Act, a statutory easement is an easement conferring rights—
+(a) to provide a service line within a scheme and a service using the service line, and
+(b) to maintain and repair the service line, and
+(c) to enter the following land within the scheme and do all things as may be reasonably
+necessary to exercise the rights referred to in paragraphs (a) and (b)—
+(i) land that includes, or is to include, the service line,
+(ii) land contiguous to the land.
+34
+Creation of statutory easement
+(1) A statutory easement is created within a scheme when a prescribed diagram showing
+the position of the service line is registered as part of the management statement for
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 27 of 85
+
+--------------------------------------------------------------------------------
+the scheme.
+(2) On the creation within a scheme of a statutory easement for a service line—
+(a) the easement is appurtenant to each lot in the scheme to which a service is
+provided using the service line, and
+(b) land within the scheme in which the service line is located is subject to the
+easement to the extent the lot is affected by the service line.
+35
+Service line provider has benefit of statutory easement
+A service provider has the benefit of a statutory easement created in a scheme in relation
+to a service line if—
+(a) the service provider provides a service within a scheme using the service line, and
+(b) the service is provided in accordance with an agreement or, if the service provider is
+the association for the scheme, in accordance with a management statement.
+36
+Implied covenants
+An association, owner of land or service provider, having the benefit of a statutory
+easement is subject to the following covenants—
+(a) the rights under the easement will be exercised in a way that—
+(i) will not unreasonably interfere with the use and enjoyment by any other owner of
+land burdened by the easement, and
+(ii) will ensure any interference with the use and enjoyment of community, precinct or
+neighbourhood property by owners or occupiers of lots will be kept to a minimum,
+(b) the person exercising the rights under the easement will make good, at the person’s
+own expense, any damage to, or interference with, the parts of the scheme affected
+by the exercise of the rights—
+(i) for land within the scheme that will include, or includes, the service line—by
+restoring the land to a basic standard not including the repair or restoration of
+unusual or expensive landscaping or other works erected over the land, and
+(ii) for land within the scheme contiguous to the land referred to in subparagraph
+(i)—by restoring the land to its former state,
+(c) the person exercising the rights under the easement will leave the land on which they
+are exercised in a clean and tidy condition on completion of the installation,
+maintenance or repair of any service the subject of the easement.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 28 of 85
+
+--------------------------------------------------------------------------------
+37
+Service line completed after creation of statutory easement
+(1) If the installation of a service line is completed after the creation of the statutory
+easement, the relevant association—
+(a) must notify the Registrar-General of the completion in the approved form, and
+(b) if the service line is installed in a different position from the position shown in the
+registered prescribed diagram, must lodge a new prescribed diagram for
+registration—
+(i) showing the actual position of the service line, and
+(ii) signed by the owners of each of the lots to be burdened by the statutory
+easement to be created on registration of the new prescribed diagram.
+(2) If the installation is completed during the initial period, the notification and lodgment
+is to be done by the developer.
+(3) On registration of the new prescribed diagram—
+(a) the earlier prescribed diagram is cancelled to the extent it is inconsistent with the
+new prescribed diagram, and
+(b) the new prescribed diagram has effect on registration as if it had been registered
+immediately before installation of the service line.
+38
+Developer to give copy of prescribed diagram to association
+(1) A developer must give a copy of the prescribed diagram relating to a service line to
+the association for a scheme if—
+(a) a service line is installed as part of the scheme, and
+(b) the service line is installed after registration of the management statement.
+(2) The copy must be given within 1 month after the installation.
+39
+Registrar-General may make recordings
+The Registrar-General may make in the Register any recordings the Registrar-General
+thinks fit about any action taken under this Division.
+40
+Division does not affect other rights or obligations
+This Division does not affect any rights or obligations relating to service lines conferred or
+imposed by another Act.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 29 of 85
+
+--------------------------------------------------------------------------------
+Part 6 Access to schemes
+41
+Setting apart access way in association property
+(1) All or part of association property may be set apart as an open access way connecting
+part of the scheme parcel—
+(a) to a public place, or
+(b) if the association property is part of a subsidiary scheme, to a public place
+through an open access way in the community scheme of which the subsidiary
+scheme forms part.
+(2) All or part of association property, other than an open access way, may be set apart
+as a private access way connecting part of the scheme parcel—
+(a) to an open access way within the scheme parcel or a public place, or
+(b) if the association property is part of a subsidiary scheme, to an open access way
+within the scheme parcel or a public place through an open access way in the
+community scheme of which the subsidiary scheme forms part.
+(3) Land is set apart under this section if the management statement for the scheme
+includes a plan in the approved form that—
+(a) defines the land to be set apart as an access way, and
+(b) specifies whether the land is an open access way or a private access way, and
+(c) includes any information prescribed by the regulations or lodgment rules.
+Note—
+See section 112 of the Community Land Management Act 2021 for further provisions relating to open and
+private access ways.
+42
+Special resolution required for closure of open access way
+An open access way within a community parcel may not be closed unless the closure is
+authorised by special resolution of each association whose members are entitled to use
+the access way.
+43
+Access ways remain as association property
+(1) Setting apart land as an open access way or a private access way does not—
+(a) cause the land to cease to be association property, or
+(b) affect the obligation of an association to maintain it as association property.
+(2) This section has effect to the exclusion of anything in the Roads Act 1993 that
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 30 of 85
+
+--------------------------------------------------------------------------------
+operates to vest land in a council as a public road.
+44
+Effect of access ways in relation to certain rights
+(1) Section 45A of the Real Property Act 1900 does not apply to a conveyance of land
+abutting on an open access way or a private access way.
+(2) The owner of a lot in a scheme has no rights in relation to association property set
+apart under the scheme as an open access way or a private access way other than—
+(a) rights conferred by this Act and the Community Land Management Act 2021 on
+the owner in relation to association property, and
+(b) rights conferred by the management statement for the scheme.
+Part 7 Development contracts
+45
+Definitions
+In this Act—
+authorised proposal means any part of the proposed development that the developer is
+permitted by the contract to carry out but cannot, merely because it is described in the
+contract, be compelled to carry out.
+development concern—see section 55.
+development contract means the instruments, plans and drawings registered with a
+scheme plan that describe the way in which it is proposed to develop land in the scheme.
+warranted development means any part of the proposed development that the
+developer is permitted by the contract to carry out and may be compelled to carry out.
+46
+Form and content
+(1) A development contract and any amendment of a development contract must be in
+the approved form and be signed by or on behalf of the developer.
+(2) A development contract must describe the following—
+(a) the parcel of land to which the contract relates,
+(b) any land proposed to be added to the parcel at a later time,
+(c) the warranted development,
+(d) the authorised proposals.
+(3) A development contract must identify—
+(a) warranted development as “warranted development—proposed development
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 31 of 85
+
+--------------------------------------------------------------------------------
+subject to a warranty”, and
+(b) authorised proposals as “authorised proposals—proposed development not
+subject to a warranty”.
+(4) A development contract must include—
+(a) a concept plan, and
+(b) a description of the amenities proposed to be provided, and
+(c) details of access and construction zones, working hours and any related rights
+over association property, and
+(d) an undertaking by the developer—
+(i) to not cause unreasonable inconvenience to owners of lots in the scheme, and
+(ii) to repair without delay any damage caused to association property or common
+property by development activities, and
+(e) any other documents, particulars, information or matter prescribed by the
+regulations.
+(5) A development contract cannot provide for the subdivision of association property
+without the consent, by special resolution, of the relevant association.
+(6) This section does not limit the matters that may be included in a development
+contract.
+47
+Planning approval
+(1) A planning authority must not grant planning approval to a relevant application unless
+the proposed development contract complies with this Part.
+(2) The granting of planning approval may be, but need not be, subject to a condition
+requiring the community parcel, precinct parcel or neighbourhood parcel to be
+developed in accordance with the development contract.
+(3) The condition has effect—
+(a) for a development consent under Part 4 of the Environmental Planning and
+Assessment Act 1979—as a condition of the development consent authorised by,
+and imposed under, section 4.17 of that Act, or
+(b) for an approval under Division 5.2 of that Act—as a condition of the approval.
+(4) A planning authority that grants planning approval for a relevant application—
+(a) must certify on the development contract that—
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 32 of 85
+
+--------------------------------------------------------------------------------
+(i) planning approval has been granted to the development proposed by the
+instruments, plans and drawings that comprise the development contract, and
+(ii) the instruments, plans and drawings are not inconsistent with the planning
+approval, and
+(b) must provide the applicant with a copy of the development contract bearing the
+certificate.
+(5) In this section—
+relevant application means an application for planning approval for development in
+accordance with a proposed scheme plan accompanied by a proposed development
+contract.
+48
+Variation of liability for association property expenses
+(1) A development contract may apportion the liability for expenses relating to the use or
+maintenance of association property in a scheme differently from the way liability
+would otherwise be apportioned by the schedule of unit entitlement applicable to lots
+under the scheme.
+(2) An apportionment under this section has effect despite the current schedule of unit
+entitlement, but does not apply to any liability relating to the use or maintenance of
+the association property after the development contract is concluded.
+49
+Binding effect
+(1) A development contract comes into effect when it is registered.
+(2) A development contract registered with a scheme plan has effect as if it included an
+agreement under seal with the covenants set out in subsections (3) and (4)—
+(3) The developer covenants that the developer must—
+(a) carry out warranted development, and
+(b) carry out development in accordance with—
+(i) the covenants set out and implied in the contract, and
+(ii) any relevant planning approval.
+(4) The other parties covenant that the developer will be permitted to carry out, in
+accordance with the development contract and any relevant planning approval—
+(a) warranted development, and
+(b) authorised proposals.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 33 of 85
+
+--------------------------------------------------------------------------------
+(5) The covenants are given jointly and severally between the developer and each of the
+other parties.
+(6) Any attempt to exclude, modify or restrict the operation of the covenants is void.
+(7) The covenants do not affect any right or remedy a person has otherwise than under
+the covenants.
+(8) The covenants do not merge in a transfer.
+(9) Part 4 of the Community Land Management Act 2021 does not apply to matters
+arising under the covenants.
+(10) In this section—
+lot owner, for a scheme, means a person, other than a developer, who is the owner
+of a development lot or neighbourhood lot within the scheme.
+other parties, for a scheme, means—
+(a) the association and any subsidiary bodies, and
+(b) the lot owners, and
+(c) each registered mortgagee, chargee, covenant chargee or lessee of a lot.
+50
+Amendment with approval of planning authority and association
+(1) A development contract may be amended by the developer but the amendment is
+ineffective unless—
+(a) this section has been complied with in relation to the amendment, and
+(b) the amendment is registered.
+(2) A proposed amendment to a development contract may not be made unless it is
+approved—
+(a) by the planning authority, and
+(b) by the relevant association.
+(3) The approval of the relevant association must be by—
+(a) unanimous resolution, if the proposed amendment involves a change in—
+(i) the basic architectural or landscaping design of the development, or
+(ii) the essence or theme of the development, or
+(b) resolution, if the proposed amendment gives effect only to—
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 34 of 85
+
+--------------------------------------------------------------------------------
+(i) a change in the law, or
+(ii) a change in the requirements of the planning authority, or
+(c) special resolution, in any other case.
+(4) For the purposes of this section, an approval given under this Part by the Land and
+Environment Court to an amendment of a development contract has the same effect
+as if the approval were given by an association.
+(5) A planning authority that approves an amendment of a development contract must
+provide the applicant for the approval with—
+(a) a copy of the instruments, plans and drawings that describe and illustrate the
+amendment, and
+(b) a certificate to the effect that—
+(i) the copy describes and illustrates the approved amendment, and
+(ii) the development contract, if amended as approved by the authority, would not
+be inconsistent with the related planning approval.
+51
+Notice of decision of planning authority and appeal
+(1) If a planning authority does not approve an amendment of a development contract,
+the planning authority must give the applicant for the approval a notice stating—
+(a) the grounds for the refusal, and
+(b) the applicant may appeal to the Land and Environment Court against the refusal,
+and
+(c) the period within which the appeal may be made.
+(2) The applicant may appeal to the Land and Environment Court against the refusal
+within 12 months after receiving the notice.
+(3) However, the Land and Environment Court may, if it considers it appropriate in the
+circumstances, extend the period for making the appeal.
+(4) A decision of the Land and Environment Court on appeal is taken to be the final
+decision of the planning authority and is to be given effect as if it were the decision of
+the planning authority.
+52
+Amendment with approval of Court
+(1) A developer may apply to the Land and Environment Court for an order approving an
+amendment of a development contract if the approval by the relevant association is
+not given under this Part because—
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 35 of 85
+
+--------------------------------------------------------------------------------
+(a) a motion for giving the approval has been defeated, or
+(b) the notice relating the motion has been given but a meeting to consider the
+motion has not been held within a reasonable time after the giving of the notice.
+(2) A copy of the application must be served by the developer on—
+(a) the planning authority, and
+(b) the association and any subsidiary body, and
+(c) each person other than the developer who is the owner of a development lot or
+neighbourhood lot in the scheme or any subsidiary scheme, and
+(d) each registered mortgagee, chargee and covenant chargee of a development lot
+or neighbourhood lot in the scheme or any subsidiary scheme.
+(3) Each person or body served with a copy of the application is entitled to appear and be
+heard at the hearing of the application.
+(4) The Land and Environment Court may—
+(a) approve the amendment, or
+(b) approve a different amendment, or
+(c) refuse to approve the amendment.
+53
+Registration of amendment
+(1) An amendment to a development contract made in accordance with this Part may be
+registered by the recordings in the Register as the Registrar-General thinks fit.
+(2) The Registrar-General may refuse an application for registration of an amendment
+unless—
+(a) it is in the approved form, and
+(b) it bears the approval of the planning authority, and
+(c) it bears a certificate by the association to the effect that the amendment was
+approved by the association as required by this Part.
+54
+Orders of the Court for breach
+(1) This section applies to proceedings brought in the Land and Environment Court.
+(2) If proceedings are brought by an association, or a member of an association, under
+section 9.45 of the Environmental Planning and Assessment Act 1979 for a breach of a
+condition of a planning approval constituted by a breach of a development contract,
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 36 of 85
+
+--------------------------------------------------------------------------------
+the Court may make an award of damages under section 20(2)(d) of the Land and
+Environment Court Act 1979—
+(a) instead of making a restraining order under section 9.46 of the Environmental
+Planning and Assessment Act 1979, or
+(b) instead of, or in addition to, making an order under that section other than a
+restraining order.
+(3) If proceedings are brought under section 20(2)(d) of the Land and Environment Court
+Act 1979 for a breach of the agreement implied by section 49 in relation to a
+development contract—
+(a) the Court may make an order under section 9.46 of the Environmental Planning
+and Assessment Act 1979 instead of, or in addition to, making an award of
+damages, or
+(b) the Court may order specific performance of the development contract instead of
+making an award of damages.
+55
+Development concerns
+(1) The following are development concerns for the purposes of this Part—
+(a) adding to association property in accordance with a development contract,
+(b) adding land to a scheme in accordance with a development contract,
+(c) carrying out any other development permitted to be carried out because it is
+included in a development contract.
+(2) The following are not development concerns for the purposes of this Part—
+(a) the subdivision of association property created by a registered plan,
+(b) the grant of a lease over association property,
+(c) the amendment of a development contract, regardless of whether the subject-
+matter involved is, or relates to, a development concern.
+56
+Right to complete permitted development
+(1) The developer who is permitted to carry out development that is a development
+concern under a development contract is the relevant developer for the
+development concern.
+(2) A motion included in the notice for a meeting of an association that would have the
+effect of making a decision about a development concern may be passed or defeated
+by—
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 37 of 85
+
+--------------------------------------------------------------------------------
+(a) the vote of the relevant developer, or
+(b) if there is more than 1 relevant developer, the vote of each of the developers.
+(3) It is not necessary for a decision about a development concern to be supported by
+special or unanimous resolution of an association, despite any other provision of this
+Act.
+(4) A dealing, plan or other instrument may be executed for the purpose of giving effect
+to a decision about a development concern by—
+(a) an association, or
+(b) the relevant developer on behalf of an association.
+(5) The regulations or the lodgment rules may—
+(a) impose requirements for the execution of dealings, plans and other instruments
+by associations and developers, and
+(b) require verification by statutory declaration of the circumstances in which they
+were executed.
+57
+Meetings of association relating to development concerns
+(1) A motion, the passing or defeat of which at a meeting of an association or of the
+association committee of an association would have the effect of making a decision
+about a development concern, must be—
+(a) identified as relating to a development concern in the notice for the meeting, and
+(b) moved separately from any other kind of motion.
+(2) A general meeting of an association under Schedule 1 to the Community Land
+Management Act 2021—
+(a) may be convened by the developer, or
+(b) must be convened if a qualified request is made under section 17 of that Act.
+(3) In convening the general meeting, the developer or the persons or bodies making the
+qualified request may give notice of the meeting on behalf of the association
+committee of the association.
+(4) The required quorum at a meeting of the association or association committee of the
+association is the developer—
+(a) while business relating to a development concern is being dealt with, and
+(b) if notice of the meeting has been duly given.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 38 of 85
+
+--------------------------------------------------------------------------------
+(5) A developer may exercise any of the following functions for the purpose only of
+allowing development permitted by a development contract to be carried out—
+(a) functions of an association bound by the development contract,
+(b) functions of any other person having functions under the scheme concerned as
+may be prescribed by the regulations.
+(6) A reference to a developer in subsections (4) and (5) is, if the developer is a
+corporation, a reference to the company nominee of the corporation.
+(7) This section has effect despite any other provision of this Act.
+(8) In this section—
+company nominee, for a corporation, means a company nominee within the
+meaning of the Community Land Management Act 2021 who is authorised to exercise
+the voting rights of the corporation.
+58
+Conclusion of development contract
+(1) For the purposes of this Act, a development contract is concluded when any of the
+following occurs—
+(a) any planning approval required for carrying out the contract is revoked,
+(b) the time specified by the contract for conclusion of the contract arrives,
+(c) a notice (a completion notice) stating that the scheme to which the contract
+relates is completed is registered by the Registrar-General,
+(d) the scheme to which the contract relates is terminated under Part 9.
+(2) A development contract must specify a time for the conclusion of the contract being a
+time not later than—
+(a) 10 years after the registration of the contract, or
+(b) if the regulations permit a later date to be specified, the later date.
+(3) A completion notice must not be registered by the Registrar-General unless—
+(a) it is in the approved form, and
+(b) it has been signed by the developer concerned, and
+(c) it is lodged with a certificate of the association for the scheme concerned—
+(i) in the approved form, and
+(ii) certifying that the association has agreed, by unanimous resolution, that the
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 39 of 85
+
+--------------------------------------------------------------------------------
+development contract has concluded.
+(4) The Registrar-General must, if satisfied that a development contract has concluded—
+(a) make an appropriate record of the conclusion of the contract in the folio for the
+association and the association property, if any, of the scheme concerned, and
+(b) remove the contract from the Register.
+Part 8 Amalgamation of schemes
+59
+Amalgamation with subsidiary precinct or neighbourhood scheme
+A precinct scheme or neighbourhood scheme forming part of a community scheme may
+be amalgamated with the community scheme in accordance with this Part.
+60
+Public notice of proposed amalgamation
+(1) The following must be publicly notified at least 14 days before an application for
+amalgamation is made—
+(a) details of the proposed amalgamation,
+(b) a statement of intention to make the application.
+(2) The public notification must be done in a way the Registrar-General considers
+appropriate to cause notice of the application to come to the attention of the public.
+61
+Application for amalgamation of schemes
+(1) An application for amalgamation must—
+(a) be made to the Registrar-General in the approved form, and
+(b) be made under the seal of each of the following associations after being approved
+by special resolution of each of the associations—
+(i) the community association,
+(ii) the precinct association or neighbourhood association for the precinct scheme
+or neighbourhood scheme to be amalgamated,
+(iii) the association or strata corporation for each other subsidiary scheme in the
+community scheme,
+(iv) if the amalgamated scheme is a precinct scheme, the association or strata
+corporation for each other subsidiary scheme in the precinct scheme, and
+(c) be signed by the registered owner of each development lot in the community
+scheme that has not become part of a subsidiary scheme, and
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 40 of 85
+
+--------------------------------------------------------------------------------
+(d) bear the consent of the planning authority.
+(2) The Registrar-General may refuse to register an amalgamation unless—
+(a) the application for amalgamation is signed by each registered mortgagee,
+chargee or covenant chargee of each development lot in the community scheme
+that has not become part of a subsidiary scheme, and
+(b) the application bears the consent of each lessee of precinct property or
+neighbourhood property in the precinct scheme or neighbourhood scheme to be
+amalgamated with the community scheme.
+62
+Matters to accompany application
+(1) The application for amalgamation must be accompanied by—
+(a) an additional sheet of the detail plan for the community plan showing all the
+amalgamated precinct development lots or neighbourhood lots as community
+development lots or former community development lots without any changes to
+the boundaries or dimensions of the lots, and
+(b) a replacement sheet for the community property plan showing the altered
+boundaries of the community property including the amalgamated precinct
+property or neighbourhood property, and
+(c) a replacement schedule of unit entitlement for the community plan that complies
+with Schedule 3, and
+(d) an amended community management statement, and
+(e) any documents prescribed by the regulations.
+(2) The amended community management statement must—
+(a) comply with Schedule 2, and
+(b) include a new prescribed diagram for all the statutory easements to which the
+community scheme will be subject on registration of the amalgamation, and
+(c) if the position of service lines has changed, or is proposed to be changed, from the
+position shown on the prescribed diagrams for the community scheme, precinct
+scheme or neighbourhood scheme before amalgamation, be accompanied by the
+consent to the change of each owner of a lot affected by the change on
+registration of the amalgamation, and
+(d) include new plans under section 41 for all access ways that will exist in the
+community scheme on registration of the amalgamation, and
+(e) be accompanied by a certificate under the seal of the community association to
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 41 of 85
+
+--------------------------------------------------------------------------------
+the effect that the community management statement was amended in
+accordance with the Community Land Management Act 2021.
+63
+Consequences of registration of amalgamation of schemes
+(1) On receiving an application for amalgamation in accordance with this Part, the
+Registrar-General may register the amalgamation.
+(2) On registration of the amalgamation—
+(a) each precinct scheme or neighbourhood scheme the subject of the application is
+terminated, and
+(b) the association for a terminated scheme is dissolved, and
+(c) any money in the administrative fund of a terminated scheme is to be transferred
+to the administrative fund of the community scheme, and
+(d) any money in the sinking fund of a terminated scheme is to be transferred to the
+sinking fund of the community scheme, and
+(e) any association property in a terminated scheme becomes community property in
+the community scheme, and
+(f) any other assets and property of the association for a terminated scheme become
+the assets and property of the community association, and
+(g) any liabilities of the association for a terminated scheme become the liabilities of
+the community association, and
+(h) each precinct development lot or neighbourhood lot in a terminated scheme
+becomes a development lot in the community scheme, and
+(i) each former precinct development lot in a terminated precinct scheme becomes a
+former development lot in the community scheme, and
+(j) the change of a precinct development lot or neighbourhood lot to a community
+development lot does not affect any mortgage, charge, lease or other interest
+registered on the lot, and
+(k) each owner of a precinct development lot or neighbourhood lot in a terminated
+scheme becomes a member of the community association, and
+(l) each neighbourhood scheme or strata scheme that is a subsidiary scheme of a
+terminated precinct scheme and not the subject of the application continues as a
+subsidiary scheme of the community scheme.
+(3) If the Registrar-General registers the amalgamation, the Registrar-General—
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 42 of 85
+
+--------------------------------------------------------------------------------
+(a) must record in the Register the termination of each scheme that amalgamated
+with the community scheme, and
+(b) may make any other appropriate recordings in the Register to give effect to the
+amalgamation and its consequences.
+64
+Regulations for purposes of this Part
+Regulations may be made about the amalgamation of schemes under this Part, including
+transitional matters arising from an amalgamation of schemes.
+Part 9 Variation or termination of scheme
+Division 1 Variation or termination by Supreme Court
+65
+Variation or termination of scheme
+(1) The Supreme Court may vary or terminate a scheme if satisfied that—
+(a) the continuation of the scheme is impracticable, or
+(b) if the scheme is a staged scheme, completion of the staged scheme has become
+impracticable.
+(2) The Supreme Court may terminate a scheme and any subsidiary scheme if an
+application to terminate the scheme is made by—
+(a) the association for the scheme and each subsidiary body, and
+(b) each owner of a lot within the scheme and any subsidiary scheme, and
+(c) each registered mortgagee, chargee and covenant chargee of a lot within the
+scheme and any subsidiary scheme.
+(3) An order of the Supreme Court varying or terminating a scheme may provide for any 1
+or more of the following—
+(a) the adjustment, exercise and discharge of rights and liabilities under the scheme
+of an association and its members,
+(b) disposal of the assets of an association or of a strata corporation that is a member
+of an association,
+(c) the vesting of estates or interests in land within the scheme,
+(d) the winding up of an association or of a strata corporation that is a member of an
+association,
+(e) a variation of unit entitlement in accordance with a new valuation,
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 43 of 85
+
+--------------------------------------------------------------------------------
+(f) the amendment of the management statement for the scheme,
+(g) the registration of a new plan or reversion to a former plan,
+(h) any other matter the Court considers to be appropriate, just and equitable in the
+circumstances.
+(4) If the Supreme Court orders termination of a scheme, the parcel that was subdivided
+to constitute the scheme is, for the purposes of section 23F of the Conveyancing Act
+1919, reinstated as a lot in a current plan.
+(5) Subsection (4) does not apply if the Supreme Court orders the lodgment for
+registration of a current plan for the parcel.
+(6) In this section—
+staged scheme means a scheme for which a development contract is in force.
+66
+Variation of associated development contract
+(1) The Supreme Court may also vary an applicable development contract if satisfied that
+completion of a staged scheme has become impracticable.
+(2) An order of the Supreme Court varying a development contract may provide for any 1
+or more of the following—
+(a) the conversion of a development lot or former development lot to community
+property or precinct property,
+(b) the conversion of a neighbourhood lot to neighbourhood property,
+(c) the severance from the scheme of a development lot or neighbourhood lot,
+(d) the amendment of the management statement for the scheme,
+(e) the persons authorised to sign an instrument for the purposes of any of the
+matters referred to in paragraphs (a)–(d),
+(f) any other matter the Court considers to be appropriate, just and equitable in the
+circumstances.
+(3) In this section—
+staged scheme means a scheme for which a development contract is in force.
+67
+Application to Supreme Court
+(1) An application to the Supreme Court for an order under this Division may be made
+by—
+(a) an association or strata corporation within the scheme, or
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 44 of 85
+
+--------------------------------------------------------------------------------
+(b) a member of an association or strata corporation within the scheme, or
+(c) a person with a registered estate or interest in land within the scheme, or
+(d) a resuming authority.
+(2) If an application for an order is made to the Supreme Court under this Part—
+(a) the Registrar-General must be joined as a party to the application, and
+(b) the Supreme Court may join as a party to the application the local council or any
+other person, and
+(c) the Supreme Court may, on application or of its own motion—
+(i) deal with the application for an order to vary a development contract as if it
+were an application for an order to terminate the scheme, or
+(ii) deal with an application for an order to terminate a scheme as if it were an
+application for an order to vary a development contract.
+Division 2 Termination by Registrar-General
+68
+Termination of scheme by Registrar-General
+(1) This Division does not apply to a scheme if the scheme—
+(a) is the subject of an application to the Supreme Court under Division 1, or
+(b) has a strata scheme as a subsidiary scheme.
+(2) The Registrar-General may terminate a scheme on the application of each owner of a
+lot within the scheme and any subsidiary scheme.
+(3) On receiving an application under this Division, the Registrar-General may—
+(a) make an order terminating the scheme, or
+(b) refuse to terminate the scheme.
+(4) A refusal by the Registrar-General to terminate a scheme does not preclude an
+application to the Supreme Court under Division 1 for termination of the scheme.
+(5) An order terminating a scheme takes effect on being recorded in the Register.
+69
+Making application for termination
+(1) The following must be publicly notified at least 14 days, but not more than 6 months,
+before an application is made under this Division—
+(a) details of the scheme that is proposed to be terminated,
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 45 of 85
+
+--------------------------------------------------------------------------------
+(b) a statement of intention to make the application.
+(2) The public notification must be done in a way the Registrar-General considers
+appropriate to cause notice of the application to come to the attention of the public.
+(3) The application must be signed by—
+(a) the association for the scheme and each subsidiary body, and
+(b) each owner of a lot within the scheme and any subsidiary scheme, and
+(c) each registered mortgagee, chargee and covenant chargee of a lot within the
+scheme and any subsidiary scheme.
+(4) The application must be accompanied by the written consent of—
+(a) the relevant planning authority, and
+(b) each person who, on the basis of a recording in the Register affecting a lot within
+the scheme or a subsidiary scheme, is—
+(i) a lessee, or
+(ii) a judgment creditor under a writ, or
+(iii) a caveator, and
+(c) any of the following required by the Registrar-General—
+(i) a service provider having the benefit of a statutory easement in the scheme,
+(ii) a public authority whose consent is required to amend or revoke a by-law in
+the management statement for the scheme.
+(5) There must be lodged with the application—
+(a) a plan for the scheme parcel for registration as a current plan, and
+(b)
+(Repealed)
+(c) evidence that public notification has occurred as required by this section, and
+(d) any other documents or evidence as the Registrar-General requires.
+(6) The Registrar-General may wholly or partly waive compliance with subsections (1)–(4).
+70
+Consequences of termination order by the Registrar-General
+(1) When the Registrar-General makes an order terminating a scheme and the order takes
+effect—
+(a) the association is dissolved and the scheme is terminated, and
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 46 of 85
+
+--------------------------------------------------------------------------------
+(b) the former owners are liable for the liabilities of the association, and
+(c) any action taken by or against the association may be continued by or against the
+former owners, and
+(d) the following vest in the former owners as tenants in common—
+(i) the land in the community parcel, precinct parcel or neighbourhood parcel
+defined in the plan lodged with the application for the order,
+(ii) the assets of the association, and
+(e) the Registrar-General is to cancel the folios of the Register that evidenced title to
+the lots and association property in the scheme immediately before its
+termination, and
+(f) the estates or interests of the former owners in land vested by paragraph (d) are
+subject to any estate or interest subsisting on the folios of the Register for the land
+immediately before the termination, and
+(g) the Registrar-General is to create a folio of the Register for the land in the plan
+lodged with the application for the order.
+(2) The liabilities, land and assets vest in the former owners—
+(a) in proportion to the unit entitlement of their lots, or
+(b) as otherwise provided for in the application for termination.
+(3) Subsections (1) and (2) apply to any subsidiary scheme of the terminated scheme in
+the same way as they apply to the terminated scheme.
+(4) The Registrar-General may make appropriate recordings in the Register to give effect
+to the termination and its consequences.
+(5) In this section—
+former owners means the persons who were the owners of the development lots or
+neighbourhood lots in the scheme immediately before the termination order took
+effect.
+Part 10 Resumptions
+Division 1 Preliminary
+71
+Definitions
+In this Part—
+notice of resumption means a notice, notification or other instrument on publication of
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 47 of 85
+
+--------------------------------------------------------------------------------
+which land is resumed.
+resume means compulsorily acquire under the authority of an Act or Commonwealth Act.
+resuming authority means an authority in which land is proposed to be, or is, vested by
+resumption.
+72
+Application of Part
+(1) This Part prevails to the extent of any inconsistency with any other Act, including
+section 8 of the Land Acquisition (Just Terms Compensation) Act 1991.
+(2) A person must comply with the following, as well as this Part, to the extent they are
+not inconsistent with this Part—
+(a) the Land Acquisition (Just Terms Compensation) Act 1991, for a resumption of land
+to which both this Part and that Act apply,
+(b) Part 12 of the Roads Act 1993, for a resumption of land to which both this Part and
+that Part apply.
+(3) In this Part, a reference to a resumption does not include a reference to a resumption
+that merely results in land being burdened by an easement.
+(4) This Part applies only to resumptions of land within—
+(a) a community scheme, or
+(b) a precinct scheme, or
+(c) a neighbourhood scheme, or
+(d) a strata scheme that is part of a community scheme or precinct scheme.
+Division 2 Applications to Supreme Court
+73
+Resuming authority must apply to Supreme Court
+(1) A resuming authority proposing to resume the whole of a scheme parcel or strata
+parcel that will cease to be subject to a scheme must apply to the Supreme Court for
+an order under Part 9 terminating the scheme.
+(2) A resuming authority proposing to resume part of the land in a scheme parcel or
+strata parcel must apply to the Supreme Court for an order restructuring the scheme.
+(3) Subsection (2) does not apply if the only land to be resumed is—
+(a) part of the association property or common property in a scheme, or
+(b) land below the surface of the scheme parcel and there will be no disturbance to
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 48 of 85
+
+--------------------------------------------------------------------------------
+the surface.
+(4) The Supreme Court may, when making an order restructuring the scheme, also make
+any order it considers necessary, including—
+(a) to adjust unit entitlements, or
+(b) to amend any applicable—
+(i) development contract, or
+(ii) management statement, or
+(iii) by-laws under a strata scheme, or
+(c) if part of a lot is to be resumed—
+(i) to make the residue of the lot a lot in the scheme, or
+(ii) with the consent of the owner of the residue of the lot, to vest the residue of
+the lot in the relevant association or strata corporation as association property
+or common property.
+(5) An order under subsection (4)(c)(ii) vests the land freed from any mortgage, lease,
+charge, covenant charge, writ or caveat affecting it before the vesting.
+(6) An application under this section must be made before the publication of the relevant
+notice of resumption.
+74
+Notice of application to the Supreme Court
+(1) A resuming authority that makes an application to the Supreme Court under this
+Division must serve notice of the application on each of the following (an interested
+person)—
+(a) except to the extent, if any, that the Supreme Court otherwise directs—each
+registered owner, and each registered mortgagee, chargee and covenant chargee
+of a lot within the scheme,
+(b) the association or strata corporation for the scheme,
+(c) any subsidiary bodies of the scheme,
+(d) if the scheme is a subsidiary body of another scheme, the association for the
+scheme,
+(e) if the land resumed is part of a lot or common property and is to be excluded from
+the related scheme, the local council,
+(f) the Registrar-General,
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 49 of 85
+
+--------------------------------------------------------------------------------
+(g) any other persons as the Supreme Court may direct.
+(2) An interested person is entitled to be heard on the application.
+75
+Application may be treated as application to vary or terminate scheme
+(1) The Supreme Court may direct an application in relation to a scheme be heard and
+determined as if it were an application to vary or terminate the scheme.
+(2) The direction may be given by the Supreme Court on application or of its own motion.
+76
+Hearing of application
+(1) The Supreme Court, when deciding an application under this Division, must—
+(a) disregard any failure by the resuming authority to comply strictly with the
+requirements of this Part and of any regulations made for the purposes of this Part,
+and
+(b) consider whether any amendment is required to a schedule of unit entitlement,
+development contract or management statement, and
+(c) consider whether any contribution should be made by the resuming authority for
+the period following publication of the notice of resumption, and
+(d) make any orders the Court considers to be appropriate, just and equitable in the
+circumstances.
+(2) The Supreme Court may order a whole parcel to be resumed or a scheme to be
+terminated if it appears to the Supreme Court that the effect of a resumption of land
+would cause the continuation of the scheme to be impracticable.
+(3) Nothing in this Division authorises the Supreme Court to modify or nullify the effect of
+a notice of resumption in relation to the land resumed.
+77
+Costs
+The costs of an application under this Division to the Supreme Court are payable by the
+resuming authority unless the Court directs otherwise.
+78
+Orders take effect on registration
+An order of the Supreme Court under this Division takes effect on registration unless the
+order provides otherwise.
+Division 3 Notice of resumption
+79
+Notice of resumption
+(1) A notice of resumption must state whether or not the land resumed is excluded from a
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 50 of 85
+
+--------------------------------------------------------------------------------
+scheme.
+(2) Land is excluded from a scheme if a notice of resumption so provides.
+(3) If land is excluded from a scheme, it is also excluded from—
+(a) any scheme of which the scheme forms a part, or
+(b) any subsidiary scheme.
+(4) A notice of resumption for part of association property or community property in a
+scheme must—
+(a) describe the land to be resumed as a lot in a current plan, and
+(b) state that the land resumed is excluded from the scheme.
+(5) A notice of resumption must also include a Supreme Court case number if an
+application has been made to the Supreme Court to terminate or restructure a scheme
+as a consequence of a resumption, whether because of a requirement of this Part or
+otherwise.
+(6) The Registrar-General may, on publication of a notice of resumption, make any
+recordings and notations in the Register as the Registrar-General thinks fit.
+80
+When notice is required to apply to whole parcel
+(1) A resuming authority must resume the whole of a scheme parcel if it intends to
+resume—
+(a) all the association property for the scheme, or
+(b) all the development lots or neighbourhood lots in the scheme.
+(2) A resuming authority must resume the whole of a strata parcel for a strata scheme if
+it intends to resume—
+(a) all the common property forming part of the scheme, or
+(b) all the strata lots forming part of the scheme.
+(3) In this section—
+development lot includes a former development lot.
+Division 4 Plans and instruments to be lodged with Registrar-General
+81
+Definition
+In this Division—
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 51 of 85
+
+--------------------------------------------------------------------------------
+resumption application means a resumption application under section 31A of the Real
+Property Act 1900.
+82
+Lodgment of plans
+A plan required to be lodged under this Division must—
+(a) be lodged with the Registrar-General for registration before the publication of the
+relevant notice of resumption, and
+(b) bear a statement to the effect that it was lodged because of the resumption.
+83
+When registered plan takes effect
+A plan required to be lodged under this Division takes effect when the plan and the
+resumption application have both been registered.
+84
+Registrar-General may make recordings and notations
+The Registrar-General may, when registering a resumption application, make any of the
+following as the Registrar-General thinks fit—
+(a) recordings in the folio for the association property or common property,
+(b) recordings in the folio for the resumed land,
+(c) notations on the scheme plan.
+85
+Resumption of whole parcel
+(1) This section applies if the land to be resumed is a scheme parcel or strata parcel that
+will cease to be subject to a scheme.
+(2) The resuming authority must lodge the following—
+(a) a resumption application,
+(b) an order of the Supreme Court made under Division 2,
+(c) a plan of the parcel—
+(i) for registration as a current plan, and
+(ii) bearing a statement to the effect that the plan has been lodged to terminate
+the scheme.
+86
+Resumption of entire lot with exclusion from scheme
+(1) This section applies if the land to be resumed—
+(a) is an entire development lot, neighbourhood lot or strata lot, and
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 52 of 85
+
+--------------------------------------------------------------------------------
+(b) is to be resumed and excluded from the related scheme.
+(2) The resuming authority must lodge the following—
+(a) a resumption application,
+(b) an order of the Supreme Court made under Division 2,
+(c) a revised schedule of unit entitlement sealed by the Supreme Court for the
+affected scheme and each subsidiary scheme,
+(d) if the lot is a strata lot, a plan—
+(i) for registration as a current plan, and
+(ii) showing the lot, and
+(iii) bearing a statement to the effect that the lot is to be excluded from the
+scheme.
+87
+Resumption of part of lot without exclusion from scheme
+(1) This section applies if the land to be resumed is—
+(a) a part of a lot, and
+(b) to be resumed without being excluded from the scheme, and
+(c) not association property or common property.
+(2) The resuming authority must lodge the following—
+(a) a resumption application,
+(b) an order of the Supreme Court made under Division 2,
+(c) a revised schedule of unit entitlement sealed by the Supreme Court for the
+affected scheme,
+(d) if the resumed land is part of a strata scheme, a plan showing the land to be
+resumed as 1 or more lots in a strata plan of subdivision,
+(e) if the resumed land is not part of a strata scheme—
+(i) an additional sheet of the relevant detail plan—
+(A) for registration as a scheme plan of subdivision, and
+(B) showing the boundaries of both the land to be resumed and the residue of
+the lot after the resumption, and
+(ii) if the residue vests in the association as association property, a replacement
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 53 of 85
+
+--------------------------------------------------------------------------------
+sheet for the association property plan showing the altered boundaries of the
+association property.
+88
+Resumption of part of lot with exclusion from scheme
+(1) This section applies if the land to be resumed—
+(a) is a part of a lot, and
+(b) is to be resumed and excluded from the scheme, and
+(c) is not association property or common property.
+(2) The resuming authority must lodge the following—
+(a) a resumption application,
+(b) an order of the Supreme Court made under Division 2,
+(c) a revised schedule of unit entitlement sealed by the Supreme Court for the
+affected scheme and each subsidiary scheme,
+(d) a plan of the land to be resumed—
+(i) for registration as a current plan, and
+(ii) bearing a statement to the effect that the land is to be excluded from the
+scheme,
+(e) if the resumed land is not part of a strata scheme, an additional sheet of the detail
+plan for the relevant scheme plan showing the altered boundaries of the residue of
+the lots affected,
+(f) if the resumed land is part of a strata scheme, a strata plan of subdivision showing
+the residue of the resumed lot as a lot, unless the residue is to be vested in the
+strata corporation as common property.
+89
+Resumption of part of association property
+(1) This section applies if the land to be resumed is part of the association property in a
+scheme.
+(2) The resuming authority must lodge the following—
+(a) a resumption application,
+(b) a plan of the land to be resumed—
+(i) for registration as a current plan, and
+(ii) bearing a statement to the effect that the land is to be excluded from the
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 54 of 85
+
+--------------------------------------------------------------------------------
+scheme,
+(c) a replacement sheet for the association property plan showing the altered
+boundaries of the association property,
+(d) any of the following required by the Registrar-General—
+(i) a certificate by the resuming authority stating that the land resumed was not
+restricted property,
+(ii) a request by the association for registration of an amendment of the
+management statement under which, on registration, the land resumed would
+cease to be restricted property,
+(iii) evidence that an application has been made to the Supreme Court for
+amendment of the management statement in its application to the association
+property.
+90
+Resumption of part of common property
+(1) This section applies if the land to be resumed is part of the common property in a
+strata scheme.
+(2) The resuming authority must lodge the following—
+(a) a resumption application,
+(b) a plan of the land to be resumed—
+(i) for registration as a current plan, and
+(ii) bearing a statement to the effect that the land is to be excluded from the
+strata scheme,
+(c) any of the following required by the Registrar-General—
+(i) a certificate by the resuming authority stating that the land resumed was not
+restricted property,
+(ii) a request by the strata corporation for registration of an amendment of the by-
+laws under which, on registration, the land resumed would cease to be
+restricted property,
+(iii) evidence that an application has been made to the Supreme Court for
+amendment of the by-laws in their application to the common property.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 55 of 85
+
+--------------------------------------------------------------------------------
+Division 5 Effect of resumption
+91
+Exclusion of resumed land from scheme
+(1) If part of association property or common property is resumed—
+(a) the land ceases to be association property or common property, and
+(b) this Act and the Community Land Management Act 2021 cease to apply to it.
+(2) If resumed land was not association property or common property and the notice of
+resumption states that it is excluded from any related scheme—
+(a) the land ceases to be within the scheme, and
+(b) this Act and the Community Land Management Act 2021 cease to apply to it.
+(3) A development lot or neighbourhood lot excluded from a scheme—
+(a) ceases to be a development lot or neighbourhood lot, and
+(b) continues, for the purposes of section 23F of the Conveyancing Act 1919, as a lot
+in a current plan.
+92
+Interest in association or common property
+(1) A resuming authority does not acquire any interest in association property or common
+property by a resumption of land within a scheme, if—
+(a) the notice of resumption states that the land is excluded from a scheme, and
+(b) the land is not association property or common property.
+(2) If resumed land is excluded from a scheme, any interest in restricted property
+attaching to the land is extinguished.
+93
+Continuation of resumed land within scheme
+(1) Resumed land remains within a scheme if—
+(a) the notice of resumption states that the land is not excluded from the scheme,
+and
+(b) the land is—
+(i) the whole of a scheme parcel or strata parcel, or
+(ii) not association property or common property.
+(2) This Act and the Community Land Management Act 2021—
+(a) continue to apply to land referred to in subsection (1), and
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 56 of 85
+
+--------------------------------------------------------------------------------
+(b) apply as if the land had been vested in the resuming authority by a registered
+transfer.
+Division 6 Sale as alternative to resumption
+94
+Definition
+In this Act—
+acquisition plan means a plan—
+(a) lodged for registration as a current plan, and
+(b) showing the parts of lots and association property within a scheme that are to be
+purchased by a resuming authority under this Division.
+95
+Use of acquisition plan to acquire land
+A resuming authority proposing to resume part of the land in a community scheme,
+precinct scheme or neighbourhood scheme may instead—
+(a) register an acquisition plan, and
+(b) purchase the land in the acquisition plan.
+96
+Grounds for refusing to register acquisition plan
+(1) The Registrar-General may refuse to register an acquisition plan unless the plan bears
+a statement to the effect that, on being transferred to the resuming authority, the
+land is excluded from the scheme.
+(2) The Registrar-General may refuse to register an acquisition plan involving a
+subdivision of any of the following unless the plan is accompanied by—
+(a) for association property, a replacement sheet for the association property plan
+that—
+(i) shows the altered boundaries of the association property, and
+(ii) complies with Schedule 1,
+(b) for a development lot or neighbourhood lot, an additional sheet of the relevant
+detail plan that—
+(i) shows the altered boundaries of the lot, and
+(ii) complies with Schedule 1,
+(c) for a community development lot, a replacement schedule of unit entitlement for
+the community plan that complies with Schedule 3,
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 57 of 85
+
+--------------------------------------------------------------------------------
+(d) for a precinct development lot, replacement schedules of unit entitlement for the
+community plan and the precinct plan that comply with Schedule 3,
+(e) for a neighbourhood lot within a community scheme, replacement schedules of
+unit entitlement for the community plan, the neighbourhood plan and, if the
+neighbourhood lot is within a precinct scheme, the precinct plan that comply with
+Schedule 3,
+(f) for a neighbourhood lot not within a community scheme, a replacement schedule
+of unit entitlement for the neighbourhood plan that complies with Schedule 3.
+97
+Sale of association property using acquisition plan
+(1) An association may sell part of its association property to a resuming authority if—
+(a) the part to be sold is included in an acquisition plan, and
+(b) the sale is authorised by special resolution.
+(2) The Registrar-General may refuse to register a transfer of association property
+included in an acquisition plan unless the transfer is accompanied by a certificate—
+(a) in the approved form, and
+(b) given under the seal of the association, and
+(c) to the effect that the sale has been approved by special resolution.
+98
+Effect of registration of transfer
+On the registration of a transfer to a resuming authority of land in an acquisition plan—
+(a) any interest in restricted property benefiting or burdening the land is extinguished,
+and
+(b) any of the land that is association property ceases to be association property, and
+(c) this Act and the Community Land Management Act 2021cease to apply to the land.
+99
+Division has effect despite other provisions of Act
+This Division has effect despite any other provision of this Act.
+Division 7 Miscellaneous
+100
+Compensation on resumption of part of lot
+In assessing compensation on a resumption of part of a lot, the effect of the resumption
+on the residue of the lot must be taken into account.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 58 of 85
+
+--------------------------------------------------------------------------------
+101
+Compensation on resumption of association or common property
+(1) Only the association or strata corporation in which association property or common
+property is vested may claim and be awarded compensation for the resumption of the
+property.
+(2) Subsection (1) has effect as if—
+(a) the beneficial interests of the members in the property were vested in the
+association or strata corporation, and
+(b) any compensation paid is held by the association or strata corporation in trust for
+the members according to their beneficial interests immediately before the
+resumption.
+102
+Resumption by authority not bound by Act
+(1) If land is resumed by an authority not bound by this Act and otherwise than in
+compliance with its provisions, an application may be made under this Act for the
+affected scheme to be varied or terminated.
+(2) The application may be made by the association or strata corporation, or any other
+person, affected by the resumption.
+Part 11 Lodgment and functions of Registrar-General
+103
+Application of Act to electronic plans and documents
+(1) This section applies to—
+(a) plans lodged for the purposes of this Act, and
+(b) other documents—
+(i) required by or under this or any other Act to be lodged with or to accompany
+the plans, or
+(ii) of a class prescribed by the regulations made under this Act as documents
+that may be lodged in electronic form.
+(2) A required endorsement for a plan lodged electronically is to be included on an
+approved form lodged with the plan.
+(3) A document required to be lodged with a plan must be lodged electronically if the plan
+is lodged electronically unless the document is exempted by—
+(a) the regulations, or
+(b) the Registrar-General.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 59 of 85
+
+--------------------------------------------------------------------------------
+(4) This Act applies to plans and documents lodged electronically—
+(a) in the same way as it applies to other plans and documents, and
+(b) subject to any modifications prescribed by this Act or the Conveyancing Act 1919
+or the regulations under either of those Acts.
+(5) A reference in this Act—
+(a) to a plan or document includes a reference to an electronic data file containing a
+plan or document in an electronic form, and
+(b) to the lodging of a plan or document includes a reference to the electronic lodging
+of a plan or document in an electronic form approved by the Registrar-General,
+and
+(c) to a sheet of a plan or document in electronic form, is a reference to a sheet on
+which the whole or part of the plan or document would be reproduced if the plan
+or document were converted to hard copy form without re-pagination.
+(6) In this section—
+required endorsement means any of the following required to authenticate, or to
+authorise, the registration or recording of a plan—
+(a) a signature,
+(b) a seal,
+(c) a certificate,
+(d) a consent.
+104
+Recordings and notations
+The Registrar-General, when registering an order, plan or other instrument under this
+Act—
+(a) is to make any recordings or notations required under this or any other Act, and
+(b) may make any other recordings and notations as the Registrar-General thinks fit.
+105
+Amendment to registered plans and instruments
+(1) A requirement in this Act to lodge a plan or instrument for registration may, if the
+Registrar-General considers it appropriate, be satisfied by lodging an amendment to
+an existing registered plan or instrument.
+(2) The Registrar-General may give effect to the amendment by adding to, or substituting
+part of, the registered plan or instrument and the addition or substitution forms part of
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 60 of 85
+
+--------------------------------------------------------------------------------
+the registered plan or instrument.
+(3) Part 23, Division 3 of the Conveyancing Act 1919 applies to an amendment to a plan
+in the same way as it applies to the plan.
+106
+Replacement sheet or additional sheet for plan, and replacement schedule of unit
+entitlement
+(1) On registration of an order, plan or other instrument including, or accompanied by—
+(a) a replacement sheet for a scheme plan, the Registrar-General is to substitute the
+replacement sheet for the corresponding sheet of the scheme plan, or
+(b) an additional sheet of a detail plan for a scheme plan, the Registrar-General is to
+file the additional sheet as an additional sheet of the scheme plan, or
+(c) a schedule of unit entitlement for a scheme plan, the Registrar-General is to
+cancel the previous schedule and substitute the replacement as the schedule of
+unit entitlement for the scheme plan.
+(2) Part 23, Division 3 of the Conveyancing Act 1919 applies to a replacement sheet or
+additional sheet for a plan in the same way as it applies to the plan.
+(3) On registration of a replacement sheet or additional sheet for a plan, or a replacement
+schedule of unit entitlement, the Registrar-General must provide a copy—
+(a) if the plan is a community plan, precinct plan or neighbourhood plan within a
+community scheme, for the community association, and
+(b) if the plan is a precinct plan or neighbourhood plan within a precinct scheme, for
+the precinct association, and
+(c) if the plan is a neighbourhood plan, for the neighbourhood association.
+(4) If a replacement schedule of unit entitlement is substituted under this section, the
+Registrar-General must, in addition to providing a copy under subsection (3), provide a
+copy for the following—
+(a) the Valuer-General,
+(b) the Chief Commissioner of State Revenue,
+(c) any other public authority prescribed by the regulations.
+(5) On amending a schedule of unit entitlement, the Registrar-General is to comply with
+subsections (3) and (4) as if the amended schedule were a replacement schedule of
+unit entitlement for a plan.
+(6) The Registrar-General may provide a copy of a replacement sheet, additional sheet for
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 61 of 85
+
+--------------------------------------------------------------------------------
+a plan or a replacement schedule of unit entitlement for any other persons as the
+Registrar-General thinks fit.
+107
+Plans for strata subdivision not registrable under this Act
+A plan is not registrable under this Act if, in the opinion of the Registrar-General, it is
+essentially for—
+(a) the subdivision of a building into lots, or into lots and common property, even if it
+includes land outside the building, or
+(b) the subdivision of land into lots and common property, if the common property is
+mainly above or below the lots, or
+(c) the subdivision of land into lots with limited height or depth.
+108
+Registration of amendment of management statement
+(1) An amendment made under the Community Land Management Act 2021 to a
+management statement may be registered by the recordings in the Register as the
+Registrar-General thinks fit.
+(2) The Registrar-General may refuse to register an amendment to a management
+statement unless it is lodged in the approved form together with the prescribed fee.
+109
+Notice to be given to Valuer-General
+The Registrar-General is to notify the Valuer-General of the date of registration of—
+(a) an instrument severing a community development lot from a community scheme, and
+(b) an instrument severing a precinct development lot from a precinct scheme, and
+(c) a community plan of subdivision, and
+(d) a precinct plan of subdivision, and
+(e) a neighbourhood plan of subdivision, and
+(f) an acquisition plan.
+110
+Recording of certain orders
+(1) This section applies to an order made by the Tribunal or a court affecting—
+(a) unit entitlement, or
+(b) a management statement, or
+(c) restricted property.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 62 of 85
+
+--------------------------------------------------------------------------------
+(2) If a certified copy of an order to which this section applies is lodged with the Registrar-
+General, the Registrar-General is to make the recordings that, in the opinion of the
+Registrar-General, are necessary to give effect to the order in—
+(a) the Register, and
+(b) the schedule of unit entitlement, and
+(c) the management statement.
+(3) The Registrar-General may refuse to make recordings under subsection (2) unless the
+copy of the order is accompanied by—
+(a) a request in the approved form, and
+(b) the prescribed fee.
+(4), (5)
+(Repealed)
+(6) In this section—
+certified, for a copy of an order, means certified to be a true copy—
+(a) for an order of the Tribunal—by the principal registrar of the Tribunal, or
+(b) for an order of a court—by the appropriate officer of the court.
+Part 12 Miscellaneous
+111
+Functions of associations
+The functions of a community association, precinct association or neighbourhood
+association are specified in the Community Land Management Act 2021.
+112
+Expiration of initial period
+(1) A notification of the expiration of the initial period under a community scheme,
+precinct scheme or neighbourhood scheme may be lodged with the Registrar-General
+and recorded in the folio for the association property under the scheme.
+(2) A notification under subsection (1) must—
+(a) be in the approved form, and
+(b) be executed under seal by the relevant community association, precinct
+association or neighbourhood association.
+(3) A notification recorded under this section is, in favour of the Registrar-General,
+conclusive evidence of the expiration of the initial period.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 63 of 85
+
+--------------------------------------------------------------------------------
+113
+Accompanying documents become part of plan on registration
+A document accompanying a plan because it is required or permitted to accompany the
+plan under this Act, becomes, on registration of the plan, part of the plan.
+114
+Act to bind Crown
+(1) This Act binds the Crown in right of New South Wales and, to the extent the legislative
+power of the Parliament of New South Wales permits, the Crown in all its other
+capacities.
+(2) This Act does not bind the Crown in relation to a requirement to obtain a planning
+approval from a planning authority.
+115
+Regulations
+(1) The Governor may make regulations not inconsistent with this Act about matters—
+(a) this Act requires or permits to be prescribed, or
+(b) necessary or convenient to be prescribed for carrying out or giving effect to this
+Act.
+(2) Without limiting subsection (1), regulations may be made about—
+(a) development contracts, or
+(b) management statements, or
+(c) schedules of unit entitlement.
+116
+Repeals
+The following are repealed—
+(a) Community Land Development Act 1989 No 201,
+(b) Community Land Development Regulation 2018.
+Schedule 1 Plans
+Sections 12, 15–18 and 96
+1
+Requirements for all plans
+(1) In this clause—
+plan means the following—
+(a) a scheme plan,
+(b) a scheme plan of subdivision,
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 64 of 85
+
+--------------------------------------------------------------------------------
+(c) a scheme plan of consolidation,
+(d) a boundary adjustment plan,
+(e) an additional sheet of a detail plan or a replacement sheet for an association plan
+required by this Act,
+(f) any other prescribed plan.
+(2) A plan must be—
+(a) a formal land survey plan within the meaning of the Surveying and Spatial
+Information Act 2002, and
+(b) otherwise prepared in the approved form and in compliance with any
+requirements imposed by the regulations or by or under another Act.
+(3) A plan must be accompanied by—
+(a) an administration sheet, and
+(b) the written consent of each person who, on the basis of a recording in the Register
+affecting the land, is—
+(i) a lessee, or
+(ii) a judgment creditor under a writ, or
+(iii) a caveator.
+(4) The administration sheet must—
+(a) be signed by each person who, on the basis of a recording in the Register affecting
+the land, is—
+(i) a registered owner, or
+(ii) a mortgagee, chargee or covenant chargee, and
+(b) include a certificate, in the form prescribed under the Surveying and Spatial
+Information Act 2002, endorsed—
+(i) by a surveyor registered under that Act, and
+(ii) in accordance with the regulations under this Act, and
+(c) for a plan of subdivision other than a boundary adjustment plan—include the
+relevant subdivision certificate issued by the planning authority, and
+(d) for a boundary adjustment plan—include the consent of the local council given in
+the approved form.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 65 of 85
+
+--------------------------------------------------------------------------------
+(5) The Registrar-General may wholly or partly waive compliance with subclauses (2)(a),
+(3)(b) or (4)(a) or (b).
+2
+Public roads and public or drainage reserves
+(1) A scheme plan or a scheme plan of subdivision must define any land in the plan to be
+dedicated as a public road, a public reserve or a drainage reserve.
+(2) On registration of a plan dedicating association property, the dedicated land ceases to
+be association property.
+Schedule 2 Management statements
+Sections 12 and 62
+Part 1 Preliminary
+1
+Definitions
+In this Act—
+community management statement means a statement registered with a community
+plan as a statement of the by-laws and other particulars governing participation in the
+community scheme.
+neighbourhood management statement means a statement registered with a
+neighbourhood plan as a statement of the by-laws and other particulars governing
+participation in the neighbourhood scheme.
+precinct management statement means a statement registered with a precinct plan
+as a statement of the by-laws and other particulars governing participation in the precinct
+scheme.
+Part 2 Community management statements
+2
+Form of community management statement
+(1) A community management statement must—
+(a) be in the approved form, and
+(b) include the information prescribed by the regulations, and
+(c) include the approval of the planning authority.
+(2) A community management statement must not be inconsistent with—
+(a) a development contract for the community scheme, or
+(b) an Act or law that, by the operation of section 112 of the Community Land
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 66 of 85
+
+--------------------------------------------------------------------------------
+Management Act 2021, applies to any part of the community property set apart as
+an open access way.
+(3) Despite subclause (2), if there is an inconsistency, the development contract, Act or
+law prevails.
+3
+Matters to be included
+A community management statement must include by-laws, plans and other particulars
+relating to the following—
+(a) the location, control, management, use and maintenance of any part of the
+community property set apart as an open access way or a private access way,
+(b) the control, management, use and maintenance of any other part of the community
+property, including any special facilities provided on the community property,
+(c) the provision of, and payment for, internal fencing on the community parcel including
+any obligations of the community association or subsidiary bodies,
+(d) the storage and collection of garbage on and from the community parcel and any
+related obligations of the community association or subsidiary bodies,
+(e) the maintenance of water, sewerage, drainage, gas, electricity, telephone and other
+services,
+(f) insurance of the community property.
+Part 3 Precinct management statements
+4
+Form of precinct management statement
+(1) A precinct management statement must—
+(a) be in the approved form, and
+(b) include the information prescribed by the regulations, and
+(c) include the approval of the planning authority.
+(2) A precinct management statement must not be inconsistent with—
+(a) a development contract for the precinct scheme, or
+(b) the management statement, or a development contract, for the community
+scheme of which the precinct scheme is part, or
+(c) an Act or law that, by the operation of section 112 of the Community Land
+Management Act 2021, applies to any part of the precinct property set apart as an
+open access way.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 67 of 85
+
+--------------------------------------------------------------------------------
+(3) Despite subclause (2), if there is an inconsistency, the development contract,
+community management statement, Act or law prevails.
+5
+Matters to be included
+(1) A precinct management statement must include by-laws, plans and other particulars
+relating to the following—
+(a) the location, control, management, use and maintenance of any part of the
+precinct property set apart as an open access way or a private access way,
+(b) the control, management, use and maintenance of any other part of the precinct
+property, including any special facilities provided on the precinct property,
+(c) the provision of, and payment for, internal fencing on the precinct parcel including
+any obligations of the precinct association or subsidiary bodies,
+(d) the storage and collection of garbage on and from the precinct parcel and any
+related obligations of the precinct association or subsidiary bodies,
+(e) the maintenance of water, sewerage, drainage, gas, electricity, telephone and
+other services,
+(f) insurance of the precinct property.
+(2) A precinct management statement is not required to include anything already
+provided for by the community management statement.
+Part 4 Neighbourhood management statements
+6
+Form of neighbourhood management statement
+(1) A neighbourhood management statement must—
+(a) be in the approved form, and
+(b) include the information prescribed by the regulations, and
+(c) include the approval of the planning authority.
+(2) A neighbourhood management statement must not be inconsistent with—
+(a) a development contract for the neighbourhood scheme, or
+(b) the management statement, or a development contract, for a community scheme
+or precinct scheme of which the neighbourhood scheme is part, or
+(c) an Act or law that, by the operation of section 112 of the Community Land
+Management Act 2021, applies to any part of the neighbourhood property set
+apart as an open access way.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 68 of 85
+
+--------------------------------------------------------------------------------
+(3) Despite subclause (2), if there is an inconsistency, the development contract,
+community management statement, precinct management statement, Act or law
+prevails.
+7
+Matters to be included
+(1) A neighbourhood management statement must include by-laws, plans and other
+particulars relating to the following—
+(a) the location, control, management, use and maintenance of any part of the
+neighbourhood property set apart as an open access way or a private access way,
+(b) the control, management, use and maintenance of any other part of the
+neighbourhood property, including any special facilities provided on the
+neighbourhood property,
+(c) the provision of, and payment for, internal fencing on the neighbourhood parcel,
+(d) the storage and collection of garbage on and from the neighbourhood parcel,
+(e) the maintenance of water, sewerage, drainage, gas, electricity, telephone and
+other services,
+(f) insurance of the neighbourhood property.
+(2) A neighbourhood management statement is not required to include anything already
+provided for by the community management statement or precinct management
+statement for a scheme under which the neighbourhood scheme is a subsidiary
+scheme.
+Part 5 Provisions applying to all management statements
+8
+Optional matters for management statement
+(1) A management statement for a scheme may include by-laws and other particulars
+relating to any of the following—
+(a) the hanging of washing within the scheme parcel,
+(b) safety and security measures,
+(c) details of any restricted property,
+(d) the keeping of pets,
+(e) the obligation of the owner of a lot within the scheme not to interfere with the
+quiet enjoyment of another lot or the association property,
+(f) the control of unacceptable noise levels,
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 69 of 85
+
+--------------------------------------------------------------------------------
+(g) details of any business or trading activity to be carried on by the association and
+the method of distributing and sharing any profit or loss,
+(h) the control or preservation of the essence or theme of the development under the
+scheme,
+(i) architectural and landscaping guidelines to be observed by lot owners,
+(j) a diagram for the purpose of statutory easements,
+(k) any agreements entered into for the provision of services or recreational facilities,
+(l) a plan showing access ways within the scheme.
+(2) This clause does not limit the matters that may be included in a management
+statement.
+9
+By-law required by public authority
+(1) A management statement may include a schedule specifying by-laws made at the
+request of public authorities.
+(2) If a by-law made at the request of a public authority so provides, the by-law may not
+be amended or revoked without the consent of the public authority.
+(3) Subclause (2) has effect despite any other provision of this Act or the Community
+Land Management Act 2021.
+10
+Excluded matters
+(1) A management statement must not include any prohibition or restriction that—
+(a) affects the keeping on a lot of an animal used as an assistance animal by a person
+with a disability who is an owner or occupier of a lot, or
+(b) affects the use on a lot, or on association property, of an assistance animal by a
+person with a disability, or
+(c) unlawfully discriminates against a person, or
+(d) is based on socio-economic grouping, or
+(e) excludes public housing from a scheme.
+(2) In this clause—
+assistance animal has the same meaning as in the Companion Animals Act 1998.
+disability has the same meaning as in the Disability Inclusion Act 2014.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 70 of 85
+
+--------------------------------------------------------------------------------
+11
+Restricted property
+A management statement restricting the use of association property must include—
+(a) a description of the property, and
+(b) details of the persons entitled to use the property, and
+(c) the terms and conditions on which the persons may use the property, and
+(d) particulars relating to access to the property and the provision and keeping of any
+necessary key, and
+(e) particulars of the hours during which the property may be used, and
+(f) provisions relating to the maintenance of the property, and
+(g) matters relating to the determination, imposition and collection of levies on persons
+entitled to use the property.
+Schedule 3 Schedules of unit entitlement
+Sections 12, 15–17, 19, 24, 62 and 96
+1
+Definitions
+In this Schedule—
+approval of an association for a schedule of unit entitlement means a certificate—
+(a) in the approved form, and
+(b) given under the seal of the association, and
+(c) certifying the proposed schedule of unit entitlement has been approved by special
+resolution.
+comparative market value of lots means a comparative market value of lots as if the
+lots were vacant.
+completed scheme means a scheme for which a schedule of unit entitlement has been
+registered in accordance with clause 14.
+valuer’s certificate means a certificate in the approved form given by a qualified valuer.
+2
+General requirements for all schedules of unit entitlement
+A schedule of unit entitlement must—
+(a) be in the approved form, and
+(b) clearly state—
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 71 of 85
+
+--------------------------------------------------------------------------------
+(i) for a schedule for a completed scheme—that the schedule has been revised, or
+(ii) in any other case—that the schedule is liable to be altered before, or on,
+completion of the scheme to which it relates, and
+(c) show all unit entitlement as whole numbers.
+3
+Schedule for scheme plan
+A schedule of unit entitlement accompanying a scheme plan must—
+(a) show the unit entitlement of each development lot or neighbourhood lot, and
+(b) show the total of the unit entitlement under paragraph (a), and
+(c) be based on the comparative market values of the lots at the date prescribed by the
+regulations as the valuation day, and
+(d) be supported by a valuer’s certificate.
+4
+Scheme plan of subdivision altering entitlement or affecting association property
+(1) This clause applies to a schedule of unit entitlement accompanying a scheme plan of
+subdivision that—
+(a) subdivides or creates association property, or
+(b) adds land to a scheme parcel as a development lot or neighbourhood lot.
+(2) The schedule of unit entitlement must—
+(a) show the unit entitlement of each development lot, former development lot or
+neighbourhood lot, and
+(b) show the total of the unit entitlement under paragraph (a), and
+(c) be based on the comparative market values of the lots at the date prescribed by
+the regulations as the valuation day, and
+(d) be supported by a valuer’s certificate, and
+(e) be accompanied by the approval of the association.
+5
+Scheme plan of subdivision not altering entitlement or affecting association property
+(1) This clause applies to a schedule of unit entitlement accompanying a scheme plan of
+subdivision that does not—
+(a) subdivide or create association property, or
+(b) add land to a scheme parcel as a development lot or neighbourhood lot.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 72 of 85
+
+--------------------------------------------------------------------------------
+(2) The schedule of unit entitlement must—
+(a) show the unit entitlement of each development lot, former development lot or
+neighbourhood lot, and
+(b) show the total of the unit entitlement under paragraph (a), and
+(c) not differ from the existing schedule except by showing—
+(i) the unit entitlement for each new lot created, and
+(ii) the total unit entitlement of the new lots, which must be the same as the total
+unit entitlement for the subdivided lots, and
+(d) be based on the comparative market values of the lots at the date prescribed by
+the regulations as the valuation day, and
+(e) be supported by a valuer’s certificate.
+6
+Acquisition plan affecting scheme
+A schedule of unit entitlement accompanying an acquisition plan lodged under section 95
+of this Act that affects the unit entitlement in a scheme must—
+(a) show the unit entitlement of each development lot, former development lot or
+neighbourhood lot, and
+(b) show the total of the unit entitlement under paragraph (a), and
+(c) be based on the comparative market values of the lots at the date prescribed by the
+regulations as the valuation day, and
+(d) be supported by a valuer’s certificate, and
+(e) be accompanied by the approval of the association.
+7
+Instrument severing community development lot from scheme
+A schedule of unit entitlement accompanying an instrument lodged under section 19 of
+this Act that severs a community development lot from a community scheme must—
+(a) reduce the total of the unit entitlement for the community scheme by the unit
+entitlement of the severed lot, and
+(b) show the unit entitlement of each development lot or former development lot forming
+part of the community scheme without changing the unit entitlements, and
+(c) show the total of the unit entitlement under paragraph (b).
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 73 of 85
+
+--------------------------------------------------------------------------------
+8
+Instrument severing precinct development lot from scheme
+A schedule of unit entitlement accompanying an instrument lodged under section 19 of
+this Act that severs a precinct development lot from a precinct scheme must—
+(a) reduce the total of the unit entitlement for the precinct scheme by the unit
+entitlement of the severed lot, and
+(b) show the unit entitlement of each development lot or former development lot forming
+part of the precinct scheme without changing the unit entitlements, and
+(c) show the total of the unit entitlement under paragraph (b), and
+(d) be accompanied by a replacement schedule of unit entitlement for the community
+scheme of which the precinct scheme is part, that—
+(i) reduces the affected former development lot by the proportion attributable to the
+severed lot, and
+(ii) reduces the total of the unit entitlement for the community scheme by the
+proportion of unit entitlement attributable to the severed lot, and
+(iii) shows the unit entitlement of each development lot or former development lot
+forming part of the community scheme without changing the unit entitlements,
+and
+(iv) shows the total of the unit entitlement under subparagraph (iii), and
+(e) be accompanied by the approval of the community association.
+9
+Instrument converting community development lot to community property
+A schedule of unit entitlement accompanying an instrument lodged under section 24 of
+this Act that converts a community development lot to community property must—
+(a) make a proportionate allocation of the unit entitlement of the lot being converted
+among any former community development lots, and any remaining community
+development lots, in the community scheme, and
+(b) base the proportionate allocation on the relative sizes of the existing unit entitlement
+for each remaining community development lot and each former community
+development lot, and
+(c) show the unit entitlement of each of the lots, and
+(d) show the total of the unit entitlement under paragraph (c), and
+(e) be accompanied by the approval of the community association.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 74 of 85
+
+--------------------------------------------------------------------------------
+10
+Instrument converting precinct development lot to precinct property
+A schedule of unit entitlement accompanying an instrument lodged under section 24 of
+this Act that converts a precinct development lot to precinct property must—
+(a) make a proportionate allocation of the unit entitlement of the lot being converted
+among any former precinct development lots, and any remaining precinct
+development lots, in the precinct scheme, and
+(b) base the proportionate allocation on the relative sizes of the existing unit entitlement
+for each remaining precinct development lot and each former precinct development
+lot, and
+(c) show the unit entitlement of each of the lots, and
+(d) show the total of the unit entitlement under paragraph (c), and
+(e) be accompanied by the approval of the precinct association.
+11
+Instrument converting neighbourhood development lot to neighbourhood property
+A schedule of unit entitlement accompanying an instrument lodged under section 24 of
+this Act that converts a neighbourhood lot to neighbourhood property must—
+(a) make a proportionate allocation of the unit entitlement of the lot being converted
+among the remaining neighbourhood lots in the neighbourhood scheme, and
+(b) base the proportionate allocation on the relative sizes of the existing unit entitlement
+for each remaining neighbourhood lot, and
+(c) show the unit entitlement of each of the lots, and
+(d) show the total of the unit entitlement under paragraph (c), and
+(e) be accompanied by the approval of the neighbourhood association.
+12
+Instrument dedicating lot as public road or reserve
+(1) A schedule of unit entitlement accompanying an instrument or plan that dedicates the
+whole or part of a lot as a public road or public reserve must reduce the total of the
+unit entitlement for the scheme by—
+(a) the unit entitlement of the lot, if the whole of the lot is dedicated as a public road
+or public reserve, or
+(b) if part of the lot is dedicated as a public road or public reserve, the unit
+entitlement that would have been attributable to the part if it had been created as
+a separate lot.
+(2) A schedule of unit entitlement accompanying an instrument or plan that dedicates the
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 75 of 85
+
+--------------------------------------------------------------------------------
+whole or part of a lot as a public road or public reserve must—
+(a) show the unit entitlement of each development lot or former development lot
+forming part of the community scheme without changing the unit entitlements,
+and
+(b) show the total of the unit entitlement under paragraph (a).
+13
+Application for amalgamation
+(1) A schedule of unit entitlement accompanying an application under section 61 of this
+Act must—
+(a) be lodged as a replacement schedule of unit entitlement, and
+(b) show the unit entitlement of each of the amalgamated precinct development lots
+or neighbourhood lots that will become community development lots in the
+community scheme.
+(2) The total of the unit entitlement for the new community development lots must equal
+the unit entitlement for the community development lots that were subdivided to
+create the amalgamated precinct development lots or neighbourhood lots.
+(3) The unit entitlement of the new community development lots must bear the same
+proportion as existed between the lots when the lots were precinct development lots
+in the precinct scheme or neighbourhood lots in the neighbourhood scheme.
+(4) Despite subclauses (2) and (3), if it is intended to revise 1 or more of the unit
+entitlement for the existing community development lots in the community scheme as
+well as allocate unit entitlement for the new community development lots, the
+schedule of unit entitlement must—
+(a) show the unit entitlement of each community development lot, and
+(b) show the total of the unit entitlement under paragraph (a), and
+(c) be based on the comparative market values of the lots at the date prescribed by
+the regulations as the valuation day, and
+(d) be supported by a valuer’s certificate, and
+(e) be accompanied by the approval of the community association.
+14
+Revised schedule lodged on completion of scheme
+(1) An association for a scheme may lodge a revised schedule of unit entitlement for
+registration if it is satisfied the scheme is complete.
+(2) A schedule of unit entitlement may be lodged under this clause—
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 76 of 85
+
+--------------------------------------------------------------------------------
+(a) for a precinct scheme even if the community scheme of which it is a part is not
+completed, or
+(b) for a neighbourhood scheme that is part of a community scheme or precinct
+scheme even if the community scheme or precinct scheme is not completed.
+(3) A schedule of unit entitlement lodged under this clause must—
+(a) be lodged as a replacement schedule of unit entitlement, and
+(b) show the unit entitlement of each development lot, former development lot or
+neighbourhood lot for the scheme to which it relates, and
+(c) show the total of the unit entitlement under paragraph (b), and
+(d) be based on a table of values provided by the Valuer-General under section 76(3)
+of the Valuation of Land Act 1916 showing the values of the lots at the same base
+date, and
+(e) be accompanied by the approval of the association.
+15
+Simplification of schedule of unit entitlement
+The Registrar-General may amend a schedule of unit entitlement without changing its
+effect to simplify the way in which it is expressed.
+Schedule 4 Savings, transitional and other provisions
+Part 1 Regulations
+1
+Savings or transitional regulations
+(1) The regulations may contain provisions of a savings or transitional nature consequent
+on the commencement of—
+(a) a provision of this Act, or
+(b) a provision amending this Act.
+(2) A savings or transitional provision consequent on the commencement of a provision
+must not be made more than 2 years after that commencement.
+(3) A savings or transitional provision made consequent on the commencement of a
+provision is repealed 2 years after that commencement.
+(4) A savings or transitional provision made consequent on the commencement of a
+provision may take effect before that commencement but not before—
+(a) for a provision of this Act, the date of assent to this Act, or
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 77 of 85
+
+--------------------------------------------------------------------------------
+(b) for a provision amending this Act, the date of assent to the amending Act.
+(5) A savings or transitional provision taking effect before its publication on the NSW
+legislation website does not, before its publication—
+(a) affect the rights of a person in a way prejudicial to the person, or
+(b) impose liabilities on a person about anything done or omitted to be done.
+(6) In this clause—
+person does not include the State or an authority of the State.
+Part 2 Provisions consequent on enactment of this Act
+2
+Definitions
+In this Part—
+former Act means the Community Land Development Act 1989.
+repeal day means the day on which the former Act is repealed.
+3
+General savings
+(1) Any act, matter or thing that immediately before the repeal of the former Act had
+effect under the former Act continues to have effect under this Act.
+(2) This clause does not apply to the extent its application is inconsistent with any other
+provision of this Schedule.
+4
+Existing proceedings
+Any proceedings commenced but not determined or finalised under the former Act are to
+be dealt with and determined as if the former Act had not been repealed.
+5
+Development contracts
+The former Act continues to apply to a development contract entered into before the
+repeal day as if the former Act had not been repealed.
+Schedule 5 (Repealed)
+Dictionary
+In this Act—
+acquisition plan—see section 94.
+administration sheet, in relation to a plan, means the separate document, in the approved form,
+required to be lodged with the plan under section 195A of the Conveyancing Act 1919.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 78 of 85
+
+--------------------------------------------------------------------------------
+approval of an association, for Schedule 3—see Schedule 3, clause 1.
+approved form means a form approved by the Registrar-General.
+association means a community association, precinct association or neighbourhood association.
+association property—
+(a) for a community scheme means the community property in the scheme, or
+(b) for a precinct scheme means the precinct property in the scheme, or
+(c) for a neighbourhood scheme means the neighbourhood property in the scheme.
+association property plan—
+(a) for a community scheme means a community property plan, or
+(b) for a precinct scheme means a precinct property plan, or
+(c) for a neighbourhood scheme means a neighbourhood property plan.
+authorised proposal—see section 45.
+boundary adjustment plan means a plan registered as a boundary adjustment plan.
+common property, in relation to a strata scheme or a proposed strata scheme, has the same
+meaning as in the Strata Schemes Development Act 2015.
+community association—see section 8.
+community development lot means a lot in a community plan that is not any of the following—
+(a) community property,
+(b) a public road, public reserve or drainage reserve,
+(c) subject to a subsidiary scheme,
+(d) severed from the community scheme.
+community management statement—see Schedule 2, clause 1.
+community parcel means land the subject of a community scheme.
+community plan—see section 8.
+community plan of consolidation means a plan registered as a community plan of consolidation.
+community plan of subdivision means a plan registered as a community plan of subdivision.
+community property means the lot shown in a community plan as community property.
+community property plan means the sheets of a community plan showing the community property
+in the community scheme.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 79 of 85
+
+--------------------------------------------------------------------------------
+community scheme—see section 5.
+comparative market value, for Schedule 3—see Schedule 3, clause 1.
+completed scheme, for Schedule 3—see Schedule 3, clause 1.
+current plan means a registered plan that is a current plan within the meaning of the Conveyancing
+Act 1919 but is not any of the following under the Strata Schemes Development Act 2015—
+(a) a strata plan,
+(b) a strata plan of subdivision,
+(c) a strata plan of consolidation.
+detail plan—
+(a) for a community plan means a plan showing details of each of the community development lots in
+the community scheme, or
+(b) for a precinct plan means a plan showing details of each of the precinct development lots in the
+precinct scheme, or
+(c) for a neighbourhood plan means a plan showing details of each of the neighbourhood lots in the
+neighbourhood scheme, whether or not any sheet includes land dedicated as a public road or a lot
+for dedication as a public reserve or drainage reserve.
+developer, in relation to a scheme, means—
+(a) the original owner for the scheme, or
+(b) if there is a development contract in force, the registered owner of a development lot who is
+permitted or compelled to carry out development under the contract.
+development has the same meaning as in the Environmental Planning and Assessment Act 1979.
+development concern—see section 45.
+development contract—see section 45.
+development lot means a community development lot or precinct development lot.
+drainage reserve means land set aside as a drainage reserve under section 49 of the Local
+Government Act 1993.
+folio means a folio of the Register.
+former development lot means a precinct parcel, neighbourhood parcel or strata parcel that,
+immediately before it became subject to the precinct scheme, neighbourhood scheme or strata
+scheme, was a development lot.
+function includes a power, authority or duty, and exercise a function includes perform a duty.
+initial period has the same meaning as in the Community Land Management Act 2021.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 80 of 85
+
+--------------------------------------------------------------------------------
+land means land held under the Real Property Act 1900 in fee simple, no part of which is land in a
+qualified or limited folio and which comprises 1 or more contiguous lots in a current plan.
+location plan means a sheet of a scheme plan that—
+(a) delineates the location of the parcel in relation to natural and artificial features including rivers,
+harbours, the ocean, roads and railways, and
+(b) includes a diagrammatic representation of the parcel and the lots in the plan, without dimensions,
+and
+(c) shows the distance of the parcel from the nearest intersection of public roads.
+lodgment rules means the lodgment rules made under the Real Property Act 1900.
+lot, for Part 5, Division 2—see section 32.
+management statement means a community management statement, precinct management
+statement or neighbourhood management statement.
+neighbourhood association—see section 10.
+neighbourhood lot means a lot in a neighbourhood plan that is not any of the following—
+(a) neighbourhood property,
+(b) a public road, public reserve or drainage reserve.
+neighbourhood management statement—see Schedule 2, clause 1.
+neighbourhood parcel means land the subject of a neighbourhood scheme.
+neighbourhood plan—see section 10.
+neighbourhood plan of consolidation means a plan registered as a neighbourhood plan of
+consolidation.
+neighbourhood plan of subdivision means a plan registered as a neighbourhood plan of
+subdivision.
+neighbourhood property means the lot shown in a neighbourhood plan as neighbourhood property.
+neighbourhood property plan means the sheets of a neighbourhood plan showing the
+neighbourhood property in the neighbourhood scheme.
+neighbourhood scheme—see section 7.
+notice of resumption, for Part 10—see section 71.
+occupier of a lot means a person in lawful occupation of the lot.
+open access way means an open access way set apart under Part 6.
+original owner of land means the person who held the fee simple in the land when a scheme plan
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 81 of 85
+
+--------------------------------------------------------------------------------
+subdividing the land was registered.
+owner of a development lot or a neighbourhood lot means—
+(a) a person for the time being recorded in the Register as being entitled to a fee simple in the lot, or
+(b) a person who has an interest in the lot entitling the person to vote at a meeting of an association
+and who has given the association an association interest notice in accordance with the
+Community Land Management Act 2021.
+planning approval means—
+(a) a development consent within the meaning of the Environmental Planning and Assessment Act
+1979, or
+(b) an approval under Division 5.2 of that Act.
+planning authority, for a planning approval, means the entity or person authorised under the
+Environmental Planning and Assessment Act 1979 to grant the approval.
+precinct association—see section 9.
+precinct development lot means a lot in a precinct plan that is not any of the following—
+(a) precinct property,
+(b) a public road, public reserve or drainage reserve,
+(c) subject to a subsidiary scheme,
+(d) severed from the precinct scheme.
+precinct management statement—see Schedule 2, clause 1.
+precinct parcel means land the subject of a precinct scheme.
+precinct plan—see section 9.
+precinct plan of consolidation means a plan registered as a precinct plan of consolidation.
+precinct plan of subdivision means a plan registered as a precinct plan of subdivision.
+precinct property means the lot shown in a precinct plan as precinct property.
+precinct property plan means the sheets of a precinct plan showing the precinct property in the
+precinct scheme.
+precinct scheme—see section 6.
+prescribed diagram—see section 32.
+private access way means a private access way set apart under Part 6.
+public authority includes—
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 82 of 85
+
+--------------------------------------------------------------------------------
+(a) the council of a local government area, and
+(b) a corporation prescribed by the regulations as a public authority.
+public place and public reserve have the same meanings as in the Local Government Act 1993.
+public road has the same meaning as in the Roads Act 1993.
+qualified valuer means a person who—
+(a) has membership of the Australian Valuers Institute (other than associate or student membership),
+or
+(b) has membership of the Australian Property Institute (other than student or provisional
+membership), acquired in connection with his or her occupation as a valuer, or
+(c) has membership of the Royal Institution of Chartered Surveyors as a chartered valuer, or
+(d) is of a class prescribed by the regulations.
+Register means the Register kept under the Real Property Act 1900.
+registered means registered by the Registrar-General.
+registration, for a plan under this Act, other than a strata plan, means registration in accordance with
+Part 23, Division 3 of the Conveyancing Act 1919.
+relevant interest, for Part 4—see section 20.
+relevant interest, for Part 5, Division 1—see section 29.
+restricted property means—
+(a) association property the use of which is restricted by a management statement, or
+(b) common property in a strata scheme the use of which is restricted by the by-laws of the strata
+scheme.
+resume, for Part 10—see section 71.
+resuming authority, for Part 10—see section 71.
+resumption application, for Part 10, Division 4—see section 81.
+schedule of unit entitlement, for a strata scheme, means a schedule of unit entitlement under the
+Strata Schemes Development Act 2015.
+scheme means a community scheme, precinct scheme, neighbourhood scheme or strata scheme.
+scheme parcel means a community parcel, precinct parcel or neighbourhood parcel.
+scheme plan means a community plan, precinct plan or neighbourhood plan.
+scheme plan of consolidation means a community plan of consolidation, precinct plan of
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 83 of 85
+
+--------------------------------------------------------------------------------
+consolidation or neighbourhood plan of consolidation.
+scheme plan of subdivision means a community plan of subdivision, precinct plan of subdivision or
+neighbourhood plan of subdivision.
+service, for Part 5, Division 2—see section 32.
+service line, for Part 5, Division 2—see section 32.
+service provider, for Part 5, Division 2—see section 32.
+sign includes seal and, for a corporation other than an association or strata corporation, includes sign
+as a person authorised by the corporation.
+special resolution has the same meaning as in the Community Land Management Act 2021.
+statutory easement—see section 33.
+statutory interest means a charge or other proprietary interest—
+(a) created by this or any other Act or a Commonwealth Act, and
+(b) affecting land forming part of a community parcel, precinct parcel, neighbourhood parcel or strata
+parcel, and
+(c) enforceable against an owner, an association or a strata corporation, whether or not it has been
+recorded in the Register.
+strata corporation means an owners corporation within the meaning of the Strata Schemes
+Management Act 2015.
+strata lot means a lot within the meaning of the Strata Schemes Development Act 2015 that is part of
+a community scheme.
+strata parcel means land the subject of a strata scheme.
+strata plan has the same meaning as in the Strata Schemes Development Act 2015.
+strata scheme means—
+(a) a strata scheme under the Strata Schemes Development Act 2015 that includes common property
+and is part of a community scheme, and
+(b) the proposals in any related development contract, and
+(c) the rights conferred, and the obligations imposed, by or under the Strata Schemes Development
+Act 2015, this Act and the Community Land Management Act 2021 in relation to the scheme.
+subsidiary body of a community scheme or precinct scheme means an association or strata
+corporation constituted under a subsidiary scheme to the community scheme or precinct scheme.
+subsidiary parcel—
+(a) for a community scheme means a precinct parcel, neighbourhood parcel or strata parcel that is the
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 84 of 85
+
+--------------------------------------------------------------------------------
+subject of a subsidiary scheme, or
+(b) for a precinct scheme means a neighbourhood parcel or strata parcel that is the subject of a
+subsidiary scheme.
+subsidiary scheme—
+(a) for a community scheme means a precinct scheme, neighbourhood scheme or strata scheme that
+is part of the community scheme, or
+(b) for a precinct scheme means a neighbourhood scheme or strata scheme that is part of the precinct
+scheme.
+Tribunal means the Civil and Administrative Tribunal.
+unanimous resolution means a resolution passed at a properly convened general meeting where no
+vote is cast against the resolution.
+valuer’s certificate, for Schedule 3—see Schedule 3, clause 1.
+warranted development, for Part 7—see section 45.
+Community Land Development Act 2021 No 6 [NSW]
+Current version for 11 December 2023 to date (accessed 8 April 2025 at 19:27)
+Page 85 of 85
+
+--------------------------------------------------------------------------------

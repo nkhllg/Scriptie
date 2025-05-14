@@ -1,0 +1,952 @@
+ 
+Note: An electronic version of this Act is available in ComLaw (http://www.comlaw.gov.au/) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+National Rental Affordability Scheme 
+(Consequential Amendments) Act 2008 
+ 
+No. 130, 2008 
+ 
+ 
+ 
+ 
+ 
+An Act to amend the Extension of Charitable 
+Purpose Act 2004 and the Income Tax Assessment 
+Act 1997 in relation to the National Rental 
+Affordability Scheme, and for related purposes 
+   
+   
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+ 
+ 
+i       National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 130, 
+2008 
+Contents 
+1 
+Short title...........................................................................................1 
+2 
+Commencement.................................................................................2 
+3 
+Schedule(s)........................................................................................2 
+Schedule 1—Amendment of the Income Tax Assessment Act 
+1997 
+3 
+Schedule 2—Amendment of the Extension of Charitable 
+Purpose Act 2004 
+16 
+ 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 130, 2008       
+1 
+ 
+ 
+ 
+National Rental Affordability Scheme 
+(Consequential Amendments) Act 2008 
+No. 130, 2008 
+  
+ 
+An Act to amend the Extension of Charitable 
+Purpose Act 2004 and the Income Tax Assessment 
+Act 1997 in relation to the National Rental 
+Affordability Scheme, and for related purposes 
+[Assented to 28 November 2008] 
+The Parliament of Australia enacts: 
+1  Short title 
+ 
+ This Act may be cited as the National Rental Affordability Scheme 
+(Consequential Amendments) Act 2008. 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+   
+   
+ 
+ 
+2            National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 
+130, 2008 
+2  Commencement 
+ 
+ This Act is taken to have commenced on 1 July 2008. 
+3  Schedule(s) 
+ 
+ Each Act that is specified in a Schedule to this Act is amended or 
+repealed as set out in the applicable items in the Schedule 
+concerned, and any other item in a Schedule to this Act has effect 
+according to its terms. 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Amendment of the Income Tax Assessment Act 1997  Schedule 1 
+   
+ 
+ 
+National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 130, 2008            
+3 
+ 
+Schedule 1—Amendment of the Income Tax 
+Assessment Act 1997 
+   
+1  Section 11-55 (after table item headed “mutual receipts”) 
+Insert: 
+National Rental Affordability Scheme 
+ 
+ 
+payments made, and non-cash benefits provided, by a State 
+or Territory governmental body in relation to participation 
+in the National Rental Affordability 
+Scheme.................................................................................. 
+ 
+ 
+380-35 
+2  Section 13-1 (after table item headed “housekeeper”) 
+Insert: 
+housing 
+ 
+ 
+National Rental Affordability Scheme.................................. 
+Division 380 
+3  Section 13-1 (table item headed “partnerships”) 
+After “dividends”, insert “, housing”. 
+4  Section 13-1 (table item headed “trusts”) 
+After “dividends”, insert “, housing”. 
+5  After subsection 67-25(2A) 
+Insert: 
+National Rental Affordability Scheme 
+ 
+(2B) The *tax offsets available under Division 380 are subject to the 
+refundable tax offset rules. 
+6  At the end of subsection 118-37(1) 
+Add: 
+ 
+; (h) an incentive (within the meaning of the National Rental 
+Affordability Scheme Act 2008) you claim under this Act; 
+ 
+(i) a variation, transfer or revocation of an allocation (within the 
+meaning of the National Rental Affordability Scheme Act 
+2008); 
+ 
+(j) anything of economic value provided to you by: 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Schedule 1  Amendment of the Income Tax Assessment Act 1997 
+   
+ 
+ 
+4            National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 
+130, 2008 
+ 
+(i) a Department of a State or Territory; or 
+ 
+(ii) a body (whether incorporated or not) established for a 
+public purpose by or under a law of a State or Territory; 
+ 
+ in relation to your participation in the National Rental 
+Affordability Scheme. 
+7  After Division 376 of Part 3-45 
+Insert: 
+Division 380—National Rental Affordability Scheme 
+Table of Subdivisions 
+ 
+Guide to Division 380 
+380-A 
+National Rental Affordability Scheme Tax Offset 
+380-B 
+Payments made in relation to the National Rental 
+Affordability Scheme etc. 
+Guide to Division 380 
+380-1  What this Division is about 
+This Division provides a tax offset to certain entities as a result of 
+certificates issued under the National Rental Affordability Scheme 
+Act 2008. 
+It also ensures that payments made, and non-cash benefits 
+provided, by a State or Territory governmental body in relation to 
+the National Rental Affordability Scheme are not assessable 
+income and not exempt income. 
+Subdivision 380-A—National Rental Affordability Scheme Tax 
+Offset 
+Table of sections 
+380-5 
+Claims by individuals, corporate tax entities and superannuation funds 
+380-10 
+Claims by a party to a non-entity joint venture 
+380-15 
+Claims by certain entities to whom NRAS rent flows indirectly 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Amendment of the Income Tax Assessment Act 1997  Schedule 1 
+   
+ 
+ 
+National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 130, 2008            
+5 
+380-20 
+Claims by a trustee of a trust that does not have net income for an income 
+year 
+380-25 
+When NRAS rent flows indirectly to or through an entity 
+380-30 
+Share of NRAS rent 
+380-5  Claims by individuals, corporate tax entities and 
+superannuation funds 
+Entitlement 
+ 
+(1) An entity is entitled to a *tax offset for an income year if: 
+ 
+(a) the entity is an individual, a *corporate tax entity or 
+*superannuation fund; and 
+ 
+(b) the *Housing Secretary has issued the entity with a certificate 
+under the National Rental Affordability Scheme Act 2008; 
+and 
+ 
+(c) the income year begins in the *NRAS year to which the 
+certificate relates. 
+Amount 
+ 
+(2) The amount of the entity’s *tax offset is the amount stated in the 
+certificate. 
+ 
+(3) However, if the *Housing Secretary issues the entity with an 
+amended certificate under the National Rental Affordability 
+Scheme Act 2008, the amount of the entity’s *tax offset is the 
+amount stated in the amended certificate. 
+380-10  Claims by a party to a non-entity joint venture 
+ 
+(1) An entity is entitled to a *tax offset for an income year if: 
+ 
+(a) the entity has *NRAS rent for a rental dwelling covered by 
+subsection (3) for the income year; and 
+ 
+(b) the entity is: 
+ 
+(i) a party to a *non-entity joint venture; and 
+ 
+(ii) an individual, a *corporate tax entity or *superannuation 
+fund. 
+ 
+(2) The amount of the entity’s *tax offset for an income year is the sum 
+of all amounts worked out under subsection (4) for the income 
+year. 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Schedule 1  Amendment of the Income Tax Assessment Act 1997 
+   
+ 
+ 
+6            National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 
+130, 2008 
+ 
+(3) *NRAS rent for a rental dwelling is covered by this subsection if: 
+ 
+(a) NRAS rent is derived by a party to a *non-entity joint venture 
+in relation to the rental dwelling for an income year; and 
+ 
+(b) the *Housing Secretary has issued the non-entity joint venture 
+with a certificate under the National Rental Affordability 
+Scheme Act 2008 in relation to the rental dwelling; and 
+ 
+(c) the income year begins in the *NRAS year to which the 
+certificate relates. 
+ 
+(4) If an entity has *NRAS rent for a rental dwelling covered by 
+subsection (3), work out an amount for the income year under this 
+subsection using the following formula: 
+*
+*
+*
+NRAS rent derived by the entity from 
+the rental dwelling for the income year
+Amount stated in certificate
+for the rental dwelling
+Total *NRAS rent derived from the
+rental dwelling for the income year
+×
+ 
+ 
+ 
+(5) If a partnership or a trustee of a trust has *NRAS rent covered by 
+subsection (3), for the purpose of applying sections 380-15 and 
+380-20, assume: 
+ 
+(a) a certificate was issued by the *Housing Secretary to the 
+partnership or the trustee of the trust for the *NRAS year 
+mentioned in paragraph (3)(c) of this section; and 
+ 
+(b) the rental dwellings covered by the certificate are those for 
+which the partnership or the trustee has NRAS rent covered 
+by subsection (3) of this section; and 
+ 
+(c) the amount stated in the certificate was the total of all 
+amounts worked out under subsection (4) of this section in 
+relation to those rental dwellings. 
+ 
+(6) However, if the *Housing Secretary issues an amended certificate 
+under the National Rental Affordability Scheme Act 2008 in 
+relation to the rental dwelling, the amounts under subsection (4) 
+are to be worked out using the amount or amounts, as the case may 
+be, stated in the amended certificate. 
+380-15  Claims by certain entities to whom NRAS rent flows 
+indirectly 
+ 
+(1) An entity to whom *NRAS rent for a rental dwelling *flows 
+indirectly in an income year is entitled to a *tax offset for that 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Amendment of the Income Tax Assessment Act 1997  Schedule 1 
+   
+ 
+ 
+National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 130, 2008            
+7 
+income year that is equal to the amount worked out under 
+subsection (2), if: 
+ 
+(a) the entity is: 
+ 
+(i) an individual; or 
+ 
+(ii) a *corporate tax entity when the NRAS rent flows 
+indirectly to it; or 
+ 
+(iii) the trustee of a trust that is liable to be assessed on a 
+share of, or all or a part of, the trust’s *net income under 
+section 98, 99 or 99A of the Income Tax Assessment Act 
+1936 for that income year; or 
+ 
+(iv) the trustee of an *FHSA; or 
+ 
+(v) a *superannuation fund, an *approved deposit fund or a 
+*pooled superannuation trust; and 
+ 
+(b) the *Housing Secretary has issued a certificate under the 
+National Rental Affordability Scheme Act 2008 to a 
+partnership or a trustee of a trust in relation to the rental 
+dwelling; and 
+ 
+(c) the income year of the partnership or the trustee of the trust 
+begins in the *NRAS year to which the certificate relates. 
+Note: 
+The entities covered by this section are the ultimate recipients of the 
+NRAS rent because the NRAS rent does not flow indirectly through 
+them to other entities. 
+ 
+(2) Work out the amount using the following formula: 
+*
+*
+*
+*
+The entity’s share of NRAS rent 
+for the rental dwelling
+Amount stated in certificate
+Total NRAS rent derived from rental
+dwellings covered by the certificate for 
+the income year mentioned in 
+paragr
+×
+aph (1)(c)
+ 
+ 
+(3) However, if the *Housing Secretary issues an amended certificate 
+under the National Rental Affordability Scheme Act 2008 in 
+relation to the rental dwelling, work out the amount under 
+subsection (2) using the amount stated in the amended certificate. 
+380-20  Claims by a trustee of a trust that does not have net income 
+for an income year 
+ 
+(1) An entity is entitled to a *tax offset for an income year if: 
+ 
+(a) the entity is a trustee of a trust; and 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Schedule 1  Amendment of the Income Tax Assessment Act 1997 
+   
+ 
+ 
+8            National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 
+130, 2008 
+ 
+(b) the trust does not have a *net income for the income year; and 
+ 
+(c) *NRAS rent for a rental dwelling would otherwise *flow 
+indirectly to the entity in the income year as if: 
+ 
+(i) the trust did have a net income for the income year; and 
+ 
+(ii) for the purposes of paragraph 380-25(4)(b), the entity 
+has a share amount, being the net income referred to in 
+subparagraph (i) of this paragraph; and 
+ 
+(iii) the entity’s *share of the NRAS rent under 
+section 380-30 was a positive amount; and 
+ 
+(d) the *Housing Secretary has issued a certificate under the 
+National Rental Affordability Scheme Act 2008 to a 
+partnership or a trustee of a trust in relation to the rental 
+dwelling; and 
+ 
+(e) the income year of the partnership or the trustee of the trust 
+begins in the *NRAS year to which the certificate relates. 
+ 
+(2) The amount of the *tax offset is the amount worked out in 
+accordance with subsection 380-15(2), as if the reference in the 
+formula to paragraph (1)(c) were a reference to paragraph (1)(e) of 
+this section. For the purposes of working out the entity’s *share of 
+*NRAS rent for the rental dwelling, assume 
+subparagraphs (1)(c)(i), (ii) and (iii) of this section apply. 
+ 
+(3) However, if the *Housing Secretary issues an amended certificate 
+under the National Rental Affordability Scheme Act 2008 in 
+relation to the rental dwelling, the amount of the entity’s *tax offset 
+is worked out in accordance with subsection 380-15(2) using the 
+amount stated in the amended certificate. 
+ 
+(4) If the trustee of a trust is entitled to a *tax offset under this section: 
+ 
+(a) a beneficiary of the trust; or 
+ 
+(b) a subsequent entity to whom *NRAS rent for the rental 
+dwelling *flows indirectly; 
+is not entitled to a tax offset under this Subdivision in relation to 
+the NRAS rent for the rental dwelling. 
+380-25  When NRAS rent flows indirectly to or through an entity 
+ 
+(1) This section sets out the circumstances in which *NRAS rent: 
+ 
+(a) flows indirectly to an entity (subsection (2), (3) or (4)); or 
+ 
+(b) flows indirectly through an entity (subsection (5)). 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Amendment of the Income Tax Assessment Act 1997  Schedule 1 
+   
+ 
+ 
+National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 130, 2008            
+9 
+Partners 
+ 
+(2) *NRAS rent flows indirectly to a partner in a partnership in an 
+income year if, and only if: 
+ 
+(a) during that income year, the NRAS rent is *derived by the 
+partnership, or *flows indirectly to the partnership as a 
+beneficiary because of a previous application of 
+subsection (3); and 
+ 
+(b) the partner has an individual interest: 
+ 
+(i) in the partnership’s *net income for that income year 
+that is covered by paragraph 92(1)(a) or (b) of the 
+Income Tax Assessment Act 1936; or 
+ 
+(ii) in a *partnership loss of the partnership for that income 
+year that is covered by paragraph 92(2)(a) or (b) of that 
+Act; 
+ 
+ (whether or not that individual interest becomes assessable 
+income in the hands of the partner); and 
+ 
+(c) the partner’s *share of the NRAS rent under section 380-30 is 
+a positive amount (whether or not the partner actually 
+receives any of that share). 
+Beneficiaries 
+ 
+(3) *NRAS rent flows indirectly to a beneficiary of a trust in an 
+income year if, and only if: 
+ 
+(a) during that income year, the NRAS rent is *derived by the 
+trustee of the trust, or *flows indirectly to the trustee as a 
+partner or beneficiary because of a previous application of 
+subsection (2) or this subsection; and 
+ 
+(b) the beneficiary has this amount for that income year (the 
+share amount): 
+ 
+(i) a share of the trust’s *net income for that income year 
+that is covered by paragraph 97(1)(a) of the Income Tax 
+Assessment Act 1936; or 
+ 
+(ii) an individual interest in the trust’s net income for that 
+income year that is covered by section 98A or 100 of 
+that Act; 
+ 
+ (whether or not the share amount becomes assessable income 
+in the hands of the beneficiary); and 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Schedule 1  Amendment of the Income Tax Assessment Act 1997 
+   
+ 
+ 
+10            National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 
+130, 2008 
+ 
+(c) the beneficiary’s *share of the NRAS rent under 
+section 380-30 is a positive amount (whether or not the 
+beneficiary actually receives any of that share). 
+Trustees 
+ 
+(4) *NRAS rent flows indirectly to the trustee of a trust in an income 
+year if, and only if: 
+ 
+(a) during that income year, the NRAS rent is *derived by the 
+trustee, or *flows indirectly to the trustee as a partner or 
+beneficiary because of a previous application of 
+subsection (2) or (3); and 
+ 
+(b) the trustee is liable or, but for another provision in this Act, 
+would be liable, to be assessed in respect of an amount (the 
+share amount) that is: 
+ 
+(i) a share of the trust’s *net income for that income year 
+under section 98 of the Income Tax Assessment Act 
+1936; or 
+ 
+(ii) all or a part of the trust’s net income for that income 
+year under section 99 or 99A of that Act; 
+ 
+ (whether or not the share amount becomes assessable income 
+in the hands of the trustee); and 
+ 
+(c) the trustee’s *share of the NRAS rent under section 380-30 is 
+a positive amount (whether or not the trustee actually 
+receives any of that share). 
+Note: 
+A trustee to whom NRAS rent flows indirectly under this subsection is 
+entitled to a tax offset under section 380-15 and the NRAS rent does 
+not flow indirectly through the trustee to another entity. 
+ 
+(5) *NRAS rent flows indirectly through an entity (the first entity) to 
+another entity if, and only if: 
+ 
+(a) the other entity is the focal entity in an item of the table in 
+section 380-30 in relation to the NRAS rent; and 
+ 
+(b) that focal entity’s *share of the NRAS rent is based on the 
+first entity’s share of the NRAS rent as an intermediary entity 
+in that or another item of the table. 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Amendment of the Income Tax Assessment Act 1997  Schedule 1 
+   
+ 
+ 
+National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 130, 2008            
+11 
+380-30  Share of NRAS rent 
+Object of section 
+ 
+(1) The object of this section is to ensure that: 
+ 
+(a) *NRAS rent derived by a partnership or the trustee of a trust 
+is allocated notionally amongst entities who *derive benefits 
+from that NRAS rent; and 
+ 
+(b) that allocation corresponds with the way in which those 
+benefits were derived. 
+ 
+(2) An entity’s share of *NRAS rent is an amount notionally allocated 
+to the entity as its share of the NRAS rent, whether or not the entity 
+actually receives any of that NRAS rent. 
+ 
+(3) That amount is equal to the entity’s share of the *NRAS rent as the 
+focal entity in column 3 of an item of the table. 
+Note: 
+An entity’s share of the NRAS rent is based on the share of the NRAS 
+rent of each preceding intermediary entity through which the NRAS 
+rent flows, starting from the intermediary entity to whom the NRAS 
+rent is paid. 
+ 
+This means that in some cases (see items 2 and 4 of the table), more 
+than one item of the table will need to be applied to work out the share 
+of the NRAS rent of an ultimate recipient of the NRAS rent. 
+ 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Schedule 1  Amendment of the Income Tax Assessment Act 1997 
+   
+ 
+ 
+12            National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 
+130, 2008 
+Share of NRAS rent 
+Item 
+Column 1 
+For this intermediary 
+entity and this focal 
+entity: 
+Column 2 
+The intermediary 
+entity’s share of the 
+NRAS rent is: 
+Column 3 
+The focal entity’s share 
+of the NRAS rent is: 
+1 
+a partnership is the 
+intermediary entity and 
+a partner in that 
+partnership is the focal 
+entity if: 
+(a) *NRAS rent is 
+*derived by the 
+partnership; and 
+(b) the partner has, in 
+respect of the 
+partnership, an 
+individual interest 
+mentioned in 
+subsection 380-25(2) 
+the NRAS rent 
+so much of the NRAS 
+rent as is taken into 
+account in working out 
+the amount of that 
+individual interest 
+2 
+a partnership is the 
+intermediary entity and 
+a partner in that 
+partnership is the focal 
+entity if: 
+(a) *NRAS rent *flows 
+indirectly to the 
+partnership as a 
+beneficiary of a trust; 
+and 
+(b) the partner has, in 
+respect of the 
+partnership, an 
+individual interest 
+mentioned in 
+subsection 380-25(2) 
+the amount worked out 
+under column 3 of 
+item 3 or 4 of this table 
+where the partnership, as 
+a beneficiary, is the focal 
+entity in that item 
+so much of the amount 
+worked out under 
+column 2 of this item as 
+is attributable to the 
+partner, having regard to 
+the partnership 
+agreement and any other 
+relevant circumstances 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Amendment of the Income Tax Assessment Act 1997  Schedule 1 
+   
+ 
+ 
+National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 130, 2008            
+13 
+Share of NRAS rent 
+Item 
+Column 1 
+For this intermediary 
+entity and this focal 
+entity: 
+Column 2 
+The intermediary 
+entity’s share of the 
+NRAS rent is: 
+Column 3 
+The focal entity’s share 
+of the NRAS rent is: 
+3 
+the trustee of a trust is 
+the intermediary entity 
+and the trustee or a 
+beneficiary of the trust is 
+the focal entity if: 
+(a) *NRAS rent is 
+*derived by the 
+trustee; and 
+(b) the trustee or 
+beneficiary has, in 
+respect of the trust, a 
+share amount 
+mentioned in 
+subsection 380-25(3) 
+or (4) 
+(a) if the trust has a 
+positive amount of 
+*net income for that 
+year—the NRAS 
+rent; or 
+(b) otherwise—nil 
+so much of the amount 
+worked out under 
+column 2 of this item as 
+is taken into account in 
+working out that share 
+amount 
+4 
+the trustee of a trust is 
+the intermediary entity 
+and the trustee or a 
+beneficiary of the trust is 
+the focal entity if: 
+(a) *NRAS rent *flows 
+indirectly to the 
+trustee as a partner in 
+a partnership or as a 
+beneficiary of 
+another trust; and 
+(b) the trustee or 
+beneficiary has, in 
+respect of the trust, a 
+share amount 
+mentioned in 
+subsection 380-25(3) 
+or (4) 
+the amount worked out 
+under column 3 of: 
+(a) item 1 or 2 of this 
+table where the 
+trustee, as a partner, 
+is the focal entity in 
+that item; or 
+(b) item 3 or a previous 
+application of this 
+item where the 
+trustee, as a 
+beneficiary, is the 
+focal entity in that 
+item 
+so much of the amount 
+worked out under 
+column 2 of this item as 
+is attributable to the 
+focal entity in this item, 
+having regard to the trust 
+deed and any other 
+relevant circumstances 
+Note: 
+In item 3 or 4 of the table, the trustee of a trust can be both the 
+intermediary entity and the focal entity in the same item. 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Schedule 1  Amendment of the Income Tax Assessment Act 1997 
+   
+ 
+ 
+14            National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 
+130, 2008 
+Subdivision 380-B—Payments made in relation to the National 
+Rental Affordability Scheme etc. 
+Table of sections 
+380-35 
+Payments made and non-cash benefits provided in relation to the National 
+Rental Affordability Scheme 
+380-35  Payments made and non-cash benefits provided in relation to 
+the National Rental Affordability Scheme 
+ 
+ A payment made to you or a *non-cash benefit provided to you by: 
+ 
+(a) a Department of a State or Territory; or 
+ 
+(b) a body (whether incorporated or not) established for a public 
+purpose by or under a law of a State or Territory; 
+in relation to your participation in the National Rental 
+Affordability Scheme is not assessable income and is not *exempt 
+income. 
+8  Subsection 995-1(1) (at the end of the definition of flows 
+indirectly) 
+Add: 
+ 
+; and (e) subsections 380-25(2), (3) and (4) set out the circumstances 
+in which *NRAS rent flows indirectly to an entity; and 
+ 
+(f) subsection 380-25(5) sets out the circumstances in which 
+NRAS rent flows indirectly through an entity. 
+9  Subsection 995-1(1) 
+Insert: 
+Housing Secretary means the Secretary of the Department that 
+administers the National Rental Affordability Scheme Act 2008. 
+10  Subsection 995-1(1) 
+Insert: 
+National Rental Affordability Scheme has the same meaning as in 
+the National Rental Affordability Scheme Act 2008. 
+11  Subsection 995-1(1) 
+Insert: 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Amendment of the Income Tax Assessment Act 1997  Schedule 1 
+   
+ 
+ 
+National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 130, 2008            
+15 
+NRAS rent (short for National Rental Affordability Scheme rent) 
+means rent *derived from a rental dwelling under the National 
+Rental Affordability Scheme for an income year. 
+12  Subsection 995-1(1) 
+Insert: 
+NRAS year has the same meaning as in the National Rental 
+Affordability Scheme Act 2008. 
+13  Subsection 995-1(1) (at the end of the definition of share) 
+Add: 
+ 
+; and (e) of *NRAS rent has the meaning given by section 380-30. 
+14  Application 
+The amendments made by this Schedule apply to assessments for the 
+2008-09 income year and later income years. 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Schedule 2  Amendment of the Extension of Charitable Purpose Act 2004 
+   
+ 
+ 
+16            National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 
+130, 2008 
+ 
+Schedule 2—Amendment of the Extension of 
+Charitable Purpose Act 2004 
+   
+1  Section 3 
+Insert: 
+allocation has the same meaning as in the National Rental 
+Affordability Scheme Act 2008. 
+2  Section 3 
+Insert: 
+entity has the same meaning as in the Income Tax Assessment Act 
+1997. 
+3  Section 3 
+Insert: 
+first 2 NRAS years means: 
+ 
+(a) the period referred to in paragraph (a) of the definition of 
+NRAS year in the National Rental Affordability Scheme Act 
+2008; and 
+ 
+(b) the year beginning on 1 May 2009. 
+4  Section 3 
+Insert: 
+incentive period has the same meaning as in the National Rental 
+Affordability Scheme Act 2008. 
+5  Section 3 
+Insert: 
+National Rental Affordability Scheme has the same meaning as in 
+the National Rental Affordability Scheme Act 2008. 
+6  Section 3 
+Insert: 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Amendment of the Extension of Charitable Purpose Act 2004  Schedule 2 
+   
+ 
+ 
+National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 130, 2008            
+17 
+rental dwelling has the same meaning as in the National Rental 
+Affordability Scheme Act 2008. 
+7  Section 3 
+Insert: 
+taxation law has the same meaning as in the Income Tax 
+Assessment Act 1997. 
+8  After section 4 
+Insert: 
+4A  Provision of a rental dwelling under National Rental 
+Affordability Scheme is a charitable purpose 
+ 
+(1) Without limiting what constitutes a charitable purpose, charitable 
+purpose includes the provision of a rental dwelling if: 
+ 
+(a) the rental dwelling is provided by an entity that is: 
+ 
+(i) endorsed as exempt from income tax by the 
+Commissioner of Taxation under section 50-105 of the 
+Income Tax Assessment Act 1997; and 
+ 
+(ii) an approved participant in the National Rental 
+Affordability Scheme; and 
+ 
+(b) either: 
+ 
+(i) an allocation in relation to the rental dwelling has been 
+made to the approved participant by the Secretary that 
+specifies a date in the first 2 NRAS years from which 
+the allocation will operate or is taken to have operated; 
+or 
+ 
+(ii) an allocation in relation to the rental dwelling has been 
+reserved and it is genuinely intended by the approved 
+participant that the conditions on which the allocation 
+has been reserved will be fulfilled in the first 2 NRAS 
+years. 
+ 
+(2) To avoid doubt, the provision of the rental dwelling by the entity 
+has effect as a charitable purpose only during the incentive period 
+for the allocation. 
+ 
+(3) This section applies: 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------
+Schedule 2  Amendment of the Extension of Charitable Purpose Act 2004 
+   
+ 
+ 
+18            National Rental Affordability Scheme (Consequential Amendments) Act 2008       No. 
+130, 2008 
+ 
+(a) for the purposes of a provision of a taxation law or any 
+instrument made, granted or issued under a taxation law; and 
+ 
+(b) for the purpose of determining whether an entity that has 
+been endorsed as exempt from income tax by the 
+Commissioner of Taxation under section 50-105 of the 
+Income Tax Assessment Act 1997, remains, for the purposes 
+of a provision of a taxation law or any instrument made, 
+granted or issued under a taxation law, entitled to be so 
+endorsed. 
+ 
+ 
+ 
+ 
+ 
+[Minister’s second reading speech made in— 
+House of Representatives on 24 September 2008 
+Senate on 10 November 2008] 
+ 
+(189/08) 
+Authorised Version C2008A00130
+
+--------------------------------------------------------------------------------

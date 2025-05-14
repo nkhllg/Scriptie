@@ -1,0 +1,1232 @@
+Law Viewer
+Back Home
+
+REGISTRATION OF REAL ESTATE ACT
+
+Wholly Amended by Act No. 10580, Apr. 12, 2011
+
+Amended by Act No. 10693, May 19, 2011
+
+Act No. 10924, Jul. 25, 2011
+
+Act No. 11690, Mar. 23, 2013
+
+Act No. 11826, May 28, 2013
+
+Act No. 12421, Mar. 18, 2014
+
+Act No. 12420, Mar. 18, 2014
+
+Act No. 12738, Jun. 3, 2014
+
+Act No. 13435, Jul. 24, 2015
+
+Act No. 13426, Jul. 24, 2015
+
+Act No. 13797, Jan. 19, 2016
+
+Act No. 13953, Feb. 3, 2016
+
+Act No. 14901, Oct. 13, 2017
+
+                                                    CHAPTER I GENERAL PROVISIONS
+ Article 1
+(Purpose)
+The purpose of this Act is to prescribe matters concerning the registration of real estate.
+ Article 2
+(Definitions)
+The terms used in this Act shall be defined as follows:
+ 1. The term "register" means a book drawn up from information and data on registration that have been entered into and processed by a
+    computerized information processing system, as prescribed by the Supreme Court Regulations;
+2. The term "duplicate materials of register" means materials entered into an auxiliary memory device with the same content as the
+   register;
+3. The term "registration record" means information and data on registration concerning a parcel of land or a
+   building;
+4. The term "information on completion of registration" means information prepared by a registrar under Article 11 (1) in order to confirm
+   the holder of a right where a new holder of a right is recorded in the register.
+Article 3 (Registrable Rights,
+etc.)
+Registration shall be made for the indication of real estate and for the preservation, transfer, creation, change of, or restrictions on
+disposal or extinguishment of any of the following rights:
+1. Ownership;
+2. Superficies;
+3. Easement;
+4. Rights to lease on a deposit
+   basis;
+5. Mortgage;
+6. Pledge of
+   rights;
+7. Security rights over
+   claims;
+8. Leasehold interest.
+Article 4 (Priority Order of
+Rights)
+(1) Except as otherwise prescribed by Acts, the priority order of rights registered on the same real estate shall accord with the order of
+    registration.
+(2) The priority order of registration made in the same Gu shall accord with the number of order; and the priority order of registration
+    made in other Gus shall accord with the receipt number.
+Article 5 (Priority Order of Supplementary
+Registration)
+The priority order of supplementary registrations shall accord with that of main registration:Provided, That the priority order among
+supplementary registrations relating to main registration shall accord with the order of registration.
+ Article 6 (Timing for Receipt of Applications for Registration and Timing for
+Effectuation)
+(1) An application for registration shall be deemed received as at the time information on the application for registration prescribed by the
+     Supreme Court Regulations is stored in the computerized information processing system.
+(2) Where a registrar under Article 11 (1) completes registration, the registration shall take effect as at the time of
+    receipt.
+                                                 CHAPTER II REGISTRIES AND REGISTRARS
+Article 7 (Competent
+Registries)
+(1) A district court, its branch court or a registry (hereinafter referred to as "registry") having jurisdiction over the location of real estate
+    shall take charge of registration duties.
+ (2) If real estate spans over the jurisdictions of several registries, the head of a higher court having jurisdiction over the registries shall
+     designate a registry, as prescribed by the Supreme Court Regulations.
+ Article 8 (Delegation of
+Jurisdiction)
+The Chief Justice of the Supreme Court may have a registry delegate duties under its jurisdiction to another registry.
+ Article 9 (Change of
+Jurisdiction)
+Where the jurisdiction of a parcel of real estate is changed to another registry, the former registry shall take measures to transfer the
+authority of handling registration records concerning such real estate to another registry by using a computerized information processing
+system.
+ Article 10 (Suspension of Registration
+Duties)
+Where a cause to suspend registration duties arises in a registry, the Chief Justice of the Supreme Court may order the suspension of
+registration duties during a specified period.
+ Articles 11 (Handling of Registration
+Duties)
+ (1) Registration duties shall be handled by a person (hereinafter referred to as "registrar") designated by the chief judge of a district court
+     (referring to the chief judge of a branch of a district court where the duties of a registry is under the responsibility of the chief judge of
+     a branch of a district court; hereinafter the same shall apply) from among court officials of Grade IV, Grade V, Grade VI or Grade VII
+     (including persons who passed an employment examination administered before Dec. 21, 2001 and since have been appointed to a
+     respective post from among court officials of Grade V, Grade VI or Grade VII; hereinafter the same shall apply) serving in the registry.
+(2) Registrars shall handle registration duties by recording matters to be registered in the register using a computerized information
+    processing system.
+(3) Registrars shall handle registration duties in the order of receipt
+    number.
+(4) When a registrar has handled registration duties, he/she shall take measures by which the registrar who has handled such registration
+    duties can be identified.
+Article 12 (Restrictions on Duties Handled by
+Registrars)
+(1) Where an applicant for registration is himself/herself, his/her spouse, or a first cousin or closer relative (hereinafter referred to as
+    "spouse, etc."), he/she shall not handle registration duties without the participation of at least two adults having had ownership
+    registered in the relevant registry, but are not the spouse, etc. of such registrar. The same shall apply where spousal relationship, etc.
+    has ceased.
+(2) In cases falling under paragraph (1), a registrar shall prepare a report and put name and seal, or signature thereon together with
+    participants.
+Article 13 (Financial
+Guarantee)
+The Minister of the National Court Administration may determine and operate matters concerning the financial guarantee of registrars.
+                                                       CHAPTER III REGISTERS, ETC.
+Article 14 (Kinds of Registers,
+etc.)
+(1) Registers shall be classified into land registers and building
+    registers.
+(2) Registers shall be kept
+    permanently.
+(3) Registers shall be kept and maintained at a place prescribed by the Supreme Court Regulations, and shall not be taken out of such
+    place except for cases of seeking refuge from wars, natural disasters or any situation corresponding thereto.
+ (4) No documents supplemental to registers shall be taken out of registries except for cases of seeking refuge from wars, natural
+     disasters or any situation corresponding thereto: Provided, That this shall not apply where applications or other supplemental
+     documents are to be taken out of registries by order or entrustment of a court or are confiscated with a warrant issued by a court
+     judge.
+ Article 15
+(Realfolium)
+ (1) When a register is compiled, one registration record shall be made for one parcel of land or one building: Provided, That where a
+     building is divided into several sections, one registration record shall be made for the whole of the building.
+(2) A registration record shall consist of title sections in which the indication of real estate is recorded, section A in which ownership is
+    recorded and section B in which matters concerning rights, other than ownership, are recorded.
+Article 16 (Preparation of Duplicate Data of
+Registers)
+When a registrar completes registration, he/she shall prepare duplicate data of registration.
+Article 17 (Damage to Registers and Restoration
+Thereof)
+(1) Where all or part of a register is damaged or is likely to be damaged, the Chief Judge of the Supreme Court may order necessary
+    disposition, such as restoration of the register, prevention of damage, etc., as prescribed by the Supreme Court Regulations.
+(2) The Chief Judge of the Supreme Court may delegate authority concerning the order of disposition under paragraph (1) to the Minister
+    of National Court Administration or the chief judges of district courts.
+Article 18 (Measures for Prevention of Damage, etc. to Supplemental
+Documents)
+(1) Where documents supplemental to registers are likely to be damaged or lost, the Chief Justice of the Supreme Court may issue
+    orders to prevent such damage.
+(2) Article 17 (2) shall apply mutatis mutandis to the orders of disposition under paragraph
+    (1).
+Article 19 (Perusal of Registered Matters and
+Certification)
+(1) Anyone may request a registry to allow him/her to peruse all or part of matters entered in a registration record or to issue a certificate
+    of registered matters, as prescribed by the Supreme Court Regulations, upon paying fees: Provided, That he/she may request a
+    registry to allow him/her to peruse only the part of documents supplemental to a registration record in which he/she has interest.
+(2) Requests for perusal and issuance of a certificate of registered matters under paragraph (1) may be also made at any registry in
+    addition to the relevant registry.
+(3) Fees under paragraph (1) and the scope of exemption therefrom shall be prescribed by the Supreme Court
+    Regulations.
+Article 20 (Closure of Registration
+Records)
+(1) When a registrar copies the whole of registered matters in a register in a new register, the previous one shall be
+    closed.
+(2) The closed register shall be kept
+    permanently.
+(3) Article 19 shall apply mutatis mutandis to closed
+    registers.
+Article 21 (Rearrangement of Overlapping Registration
+Records)
+(1) Where a registrar finds overlapping registration records of the same parcel of land, he/she shall close one of the overlapping
+    registration records, as prescribed by the Supreme Court Regulations.
+(2) A registered titleholder whose registration record is closed pursuant to paragraph (1) or a party interested in such registration may
+    request a registry to reinstate the closed registration record by verifying that the parcel of land belongs to the registered titleholder
+    whose registration record is closed.
+                                             CHAPTER IV PROCEDURES FOR REGISTRATION
+                                                          Section 1 General Provisions
+Article 22 (Principle of
+Application)
+(1) Registration shall be made by application of an interested party or on the entrustment of a public
+    office.
+(2) Unless otherwise prescribed by any Act to the contrary, provisions concerning registration by application shall apply mutatis mutandis
+    to the procedures for registration on entrustment.
+(3) Anyone who intends to file for a registration shall pay fees, as prescribed by the Supreme Court
+    Regulations.
+Article 23 (Applicants for
+Registration)
+(1) Unless prescribed otherwise by any Act, registration shall be applied jointly by a person entitled to file for a registration and a person
+    obliged to file for a registration.
+(2) Registration of preservation of ownership or registration of cancellation thereof shall be applied unilaterally by a person who is to be a
+    titleholder or by a titleholder.
+(3) Registration according to inheritance, merger of corporations and general succession prescribed by the Supreme Court Regulations
+    shall be applied unilaterally by a person entitled to file for a registration.
+(4) Registration according to a court judgment shall be applied unilaterally by a person entitled to file for a registration or a person obliged
+    to file for a registration who wins the case.
+(5) Registration of change or correction of indication of real estate shall be applied unilaterally by a
+    titleholder.
+(6) Registration of change or correction of indication of a registered titleholder shall be applied unilaterally by the registered titleholder of
+    the relevant right.
+(7) Trust registration of real estate held in trust property shall be applied unilaterally by a trustee. <Added by Act No. 11826, May 28,
+    2013>
+
+(8) Where a trustee establishes a trust on trust property and puts it under the management of another person pursuant to Article 3 (5) of
+    the Trust Act, the trustee of new trust shall be a registered titleholder for the registration of transfer of the right to real estate held in
+    the relevant trust property and the trustee of original trust shall be a person obliged to file for a registration. In such cases, registration
+    of trust of real estate held in the relevant trust property shall be applied unilaterally by the trustee of new trust pursuant to paragraph
+    (7). <Added by Act No. 11826, May 28, 2013>
+Article 24 (Methods of Applying for
+Registration)
+(1) Registration shall be applied by any of the following methods: <Amended by Act No. 13953, Feb. 3,
+    2016>
+1. A method in which an applicant or his/her agent goes to a registry and submits documents stating application information and
+   accompanying information: Provided, That when such agent is an attorney (including a law firm, a law firm with limited liability, and a
+   judicial association; hereinafter the same shall apply) or a certified judicial scrivener (including a corporation of certified judicial
+   scriveners and a corporation of certified judicial scriveners with limited liability; hereinafter the same shall apply), he/she may require a
+   clerk prescribed by the Supreme Court Regulations to go a registry and submit such documents;
+2. A method in which application information and accompanying information are sent via a computerized data processing system, as
+   prescribed by the Supreme Court Regulations (limited to the type of registration designated by the Minister of Supreme Court
+   Administration).
+(2) Information on application and accompanying information to be provided by an applicant shall be prescribed by the Supreme Court
+    Regulations.
+Article 25 (Methods of Providing Information on
+Application)
+An application for registration shall be made by providing application information on a parcel of real estate for each application; Provided,
+That where the purpose of registration and ground for registration are the same or in cases prescribed by the Supreme Court Regulations,
+application information on several parcels of real estate located in the jurisdiction of the same registry may be provided en bloc.
+Article 26 (Applications for Registration by Associations, etc. Other Than
+Corporations)
+(1) As for the registration of real estate belonging to a clan, family, or association or foundation with a representative or manager, other
+    than a corporation, such association or foundation shall be an entity entitled to file for a registration or an entity obliged to file for a
+    registration.
+(2) Registration under paragraph (1) shall be applied in the name of the association or foundation by its representative or
+    manager.
+Article 27 (Applications for Registration by General
+Successors)
+Where a person entitled to file for a registration or a person obliged to file for a registration comes into an inheritance or succeeds to a
+universal title after grounds for registration arise, the inheritor or general successor may apply for registration.
+Article 28 (Applications for Registration by Right of Subrogation of
+Creditors)
+(1) A creditor may apply for registration by subrogation of a debtor pursuant to Article 404 of the Civil
+    Act.
+(2) When a registrar files for a registration on an application by subrogation under paragraph (1) or other Acts and subordinate statutes,
+     he/she shall record the name or title, address or location of an office of the subrogating party, and grounds for subrogation.
+ Article 29 (Rejection of
+Applications)
+A registrar shall, only in any of the following cases, reject an application according to a decision stating the grounds therefor: Provided,
+That this shall not apply where an applicant corrects errors by the day following the date on which the registrar orders the applicant to
+correct errors, if such errors in the application can be corrected:
+1. Where the case does not fall under the jurisdiction of such
+   registry;
+2. Where the case is not a matter to be
+   registered;
+3. Where registration is applied by a person who is not entitled to apply for
+   registration;
+4. Where an interested party or his/her agent is not present when registration is applied as prescribed in Article 24 (1)
+   1;
+5. Where the provision of information on application does not conform to a method prescribed by the Supreme Court
+   Regulations;
+6. Where the indication of real estate or a right which is the object of registration stated in the application information is not in conformity
+   with the registration record;
+7. Where the indication of a person obliged to file for a registration stated in the application information is not in conformity with the
+   registration record: Provided, That where a general successor applies for registration pursuant toArticle 27, such case shall be
+   excluded therefrom;
+8. Where application information is not in conformity with information proving grounds for
+   registration;
+9. Where no accompanying information necessary for registration is
+   provided;
+10. Where acquisition tax (where it is paid in installments pursuant to Article 20-2 of the Local Tax Act, referring to an amount to be paid
+    in installments before filing for a registration), registration license tax (applicable only to registration license tax on registration) or fees
+    are not paid, or a duty imposed on the applicant by other Acts in connection with the application for registration is not performed;
+11. Where the indication of real estate entered in the application information or registration record is not in conformity with that on the
+     land cadastre, forest land cadastre or building ledger.
+ Article 30 (Notification, etc. of Completion of
+Registration)
+When a registrar completes registration, he/she shall notify an applicant, etc. of such fact.
+ Article 31 (Change of Administrative
+Districts)
+Where administrative districts or names thereof are changed, administrative districts or names thereof entered in the registration record
+shall be deemed changed.
+ Article 32 (Correction of
+Registration)
+(1) Where a registrar discovers an error or omission in the registration after he/she completes registration, he/she shall, without delay,
+     notify a person entitled to file for a registration and a person obliged to file for a registration of such fact; where there in no one entitled
+     to file for a registration or no one liable to file for a registration, he/she shall notify a registered titleholder of such fact: Provided, That
+     where there are at least two persons entitled to file for a registration, persons liable to file for a registration or registered titleholders,
+     respectively, he/she shall be allowed to notify one of them of such fact.
+(2) Where a registrar discovers that an error or omission in the registration is due to his/her mistake, he/she shall, without delay, correct it
+    ex officio: Provided, That where a third party having interest in the registration exists, the third party’s consent shall be obtained.
+(3) Where a registrar corrects registration pursuant to paragraph (2), he/she shall notify such fact to a person entitled to file for a
+    registration, person obliged to file for a registration or a registered titleholder. In such cases, proviso to paragraph (1) shall apply
+    mutatis mutandis.
+ (4) Where registration is completed by right of subrogation of a creditor, notification under paragraphs (1) and (3) may be given to the
+     creditor. In such cases, proviso to paragraph (1) shall apply mutatis mutandis.
+ Article 33 (Copying Registration Records into New Registration
+Records)
+Where needs to copy registration records into new registration records exist due to reasonable grounds, such as that too many matters
+recorded in the registration records cause inconvenience in handling, etc., a registrar may copy only currently effective registration into
+new registration records.
+                                                       Section 2 Registration of Indication
+Sub-Section 1 Registration of Indication of Land
+ Article 34 (Matters to Be
+Registered)
+A registrar shall record the following matters in the title section of registration record:
+ 1. Indication number;
+2. Date of
+   receipt;
+3. Location and lot number;
+4. Land category;
+5. Size;
+6. Grounds for
+   registration.
+ Article 35 (Application for Registration of
+Changes)
+Where a parcel of land is subdivided or combined, or registered matters underArticle 34 are changed, a registered titleholder of the land
+shall apply for registration within one month from the time such fact occurs.
+ Article 36 (Registration of Change of Indication Ex
+Officio)
+(1) Where a registrar receives notification under Article 88 (3) of the Act on the Establishment, Management, etc. of Spatial Datafrom a
+     competent administrative office in charge of land cadastre and a registered titleholder fails to apply for registration within a period
+     under Article 35, he/she shall, without delay, register the changeex officio. <Amended by Act No. 12738, Jun. 3, 2014>
+(2) Where a registrar makes a registration under paragraph (1), he/she shall, without delay, notify the fact to the competent administrative
+    office in charge of land cadastre and a registered titleholder: Provided, That where at least two registered titleholders exist, he/she
+    shall be allowed to notify one of them of the fact.
+Article 37 (Restrictions on Combining Lots of
+Land)
+(1) With respect to land on which rights other than ownership, superficies, rights to lease on a deposit basis, leasehold interests, and
+    easements on the subservient estate are registered, combination of lots of land shall not be registered: Provided, That this shall not
+    apply where mortgages are created over all lots of land with the same grounds for registration, date and receipt number.
+(2) When a registrar rejects an application for registration in violation of paragraph (1), he/she shall, without delay, notify the competent
+    administrative office in charge of land cadastre of the grounds therefor.
+Article 38 (Special Exceptions to Combining Lots of
+Land)
+(1) Even where the transfer of ownership is registered on part of land among land combined before the combination of lots of land is
+    registered but after procedures for combining the lots of land under the Act on the Establishment, Management, etc. of Spatial Data
+    are completed, registered owners of the relevant land may apply for the registration of combination of lots to co-own the land after
+    combination of the lots if interested parties consent thereto. <Amended by Act No. 12738, Jun. 3, 2014>
+
+(2) Even where a right corresponding to the grounds for restrictions on the registration of combination of lots of land prescribed in Article
+    37 (1) is registered on a lot of land among land combined before the combination of lots of land is registered but after procedures for
+    combining land pursuant to the Act on the Establishment, Management, etc. of Spatial Data are completed, a registered titleholders of
+    ownership of the relevant land may apply for the registration of combination of lots of land which converts the object of their right into
+    the ownership stake in the land after the combination of lots if interested parties give consent thereto: Provided, That where an
+    easement is registered on the dominant estate, the registration of combination of lots shall be applied for an easement on the whole
+    parcels of land after combination of lots. <Amended by Act No. 12738, Jun. 3, 2014>
+Article 39 (Application for Registration of
+Loss)
+Where land is lost, a registered titleholder of the land shall apply for registration within one month from the time such incident occurs.
+Sub-Section 2 Registration concerning Indication of Buildings
+Article 40 (Matters to Be
+Registered)
+(1) A registrar shall record the following matters in the title section of registration record of a
+    building:
+1. Indication number;
+2. Date of
+   receipt;
+3. Location, lot number and building number: Provided, That where only one building stands on the same lot number, building number
+   shall not be recorded;
+4. Kind, structure and size of building. Where an annexed building exists, the kind, structure and size of the annexed building shall also
+   be recorded;
+5. Grounds for
+   registration;
+6. Drawing number (limited to where several buildings stand on the same lot number and where a building (hereinafter referred to as
+   "sectioned building") being the object of sectioned ownership as defined in subparagraph 1 of Article 2 of the Act on Ownership and
+   Management of Condominium Buildings.
+(2) Where a building to be registered is a sectioned building, a registrar shall record location, lot number, building name and building
+    number in the title section of registration record of the building and building number in the title section of registration record of a part
+    under exclusive ownership instead of location, lot number and building number under paragraph (1) 3.
+(3) Where a right to use a site (hereinafter referred to as "right to a site") as defined in subparagraph 6 of Article 2 of the Act on
+    Ownership and Management of Condominium Buildings, which cannot be alienated from a building and disposed of, is vested in a
+    sectioned building, a registrar shall record matters concerning the indication of land being the object of a right to a site in the title
+    section of registration record of a building and matters concerning the indication of a right to a site in the title section of registration
+    record of a section under exclusive ownership, in addition to matters to be recorded as prescribed in paragraph (2).
+(4) If a registrar registers a right to a site pursuant to paragraph (3), he/she shall, ex officio, record that ownership, superficies, a right to
+    lease on a deposit basis or leasehold interest is a right to a site in the registration record of land being the object of a right to a site.
+Article 41 (Application for Registration of
+Changes)
+(1) Where a building is divided, sectioned or combined with another building, or registered matters under Article 40 are changed, a
+    titleholder of such building shall apply for registration within one month from the time such fact exists.
+(2) As for a sectioned building and for which only indication is registered, a person falling under any of the subparagraphs of Article 65
+    shall apply for registration under paragraph (1).
+(3) Where change or extinguishment of a right to a site exists in a sectioned building, a registered titleholder of a section may apply for
+    the registration thereof in subrogation of the registered titleholders of other sections of the same building.
+(4) Where a building is a sectioned one, the registration of change of registered matters recorded in the title section of a building among
+    registration record of the building shall have the effect of registration of changes on other sections of the same building.
+Article 42 (Restrictions on Combination of
+Buildings)
+(1) With respect to buildings over which rights other than ownership, a right to lease on a deposit basis and leasehold interests are
+    registered, no registration of combination shall be made. In such cases, proviso to Article 37 (1) shall apply mutatis mutandis.
+(2) Where a registrar rejects an application for registration filed in violation of paragraph (1), he/she shall notify, without delay, the
+    competent administrative agency in charge of building ledgers of the grounds therefor.
+Article 43 (Application for Registration of
+Destruction)
+(1) Where a building is destroyed, a registered titleholder of such building shall apply for registration within one month from the time such
+    incident occurs. In such cases, Article 41 (2) shall apply mutatis mutandis.
+(2) If a registered titleholder fails to apply for the registration of destruction within one month, the owner of the site of such building may
+    apply for registration in subrogation of the registered titleholder of the building.
+(3) Where the whole of a sectioned building is destroyed, the registered titleholder of a section may apply for the registration of
+    destruction of the whole building in subrogation of the registered titleholders of other sections of such building.
+Article 44 (Non-Existence of
+Buildings)
+
+(1) Where registration of a nonexistent building exists, a registered titleholder of such building shall, without delay, apply for the
+    registration of destruction of such building.
+(2) Article 43 (2) shall apply mutatis mutandis where a registered titleholder of such building fails to apply for registration as prescribed in
+    paragraph (1).
+(3) Where a building not in existence is a sectioned one, Article 43 (3) shall apply mutatis
+    mutandis.
+Article 45 (Destruction of Buildings with Parties Interested in
+Registration)
+(1) Where registration of destruction is applied on a building for which a right other than ownership is registered, a registrar shall notify
+    the registered titleholder of such right of the purport that registration of destruction is to be made unless he/she raises an objection
+    within a specified period of up to one month: Provided, That where the purport of destruction of building is recorded in the building
+    ledger or the registered titleholder of a right other than ownership agrees to the registration of destruction, this shall not apply.
+(2) Articles 58 (2) through (4) shall apply mutatis mutandis to cases falling under the main body of paragraph
+    (1).
+Article 46 (Registration concerning Indication of Sectioned
+Buildings)
+(1) Where registration of preservation of ownership is applied for only part of a sectioned building, registration of indication shall be
+    applied simultaneously with the rest of the sectioned building.
+(2) In cases falling under paragraph (1), the owner of a sectioned building may apply for the registration of indication of the building in
+    subrogation of the owners of other sections of the building.
+(3) Where registration of preservation of ownership is applied for a sectioned building built adjoining a building registered as a non-
+    sectioned building, registration of change of indication of building shall be simultaneously applied for the non-sectioned building to
+    register it as a sectioned building. In such cases, paragraph (2) shall apply mutatis mutandis
+Article 47 (Registration of Section for Common Use under Agreement and Registration Following Repeal of
+Agreement)
+(1) Registration to the effect that it is a section for common use under Article 3 (4) of Act on Ownership and Management of
+    Condominium Buildings shall be applied by a registered titleholder. In such cases, where registration of a right other than ownership
+    exists on a section for common use, consent from the registered titleholder of such right shall be obtained.
+(2) Where an agreement to the effect that it is a section for common use is repealed, the acquirer of the section for common use shall,
+    without delay, apply for the registration of preservation of ownership.
+                                                    Section 3 Registration concerning Rights
+Sub-Section 1 Common Provisions
+Article 48 (Matters to Be
+Registered)
+(1) When a registrar registers rights in Section A or Section B, he/she shall record the following
+    matters:
+1. Priority number;
+2. Purpose of
+   registration;
+3. Date of receipt and receipt
+   number;
+4. Grounds for registration and date
+   thereof;
+5. Titleholder.
+(2) When matters concerning a titleholder under paragraph (1) 5 are recorded, a resident registration number or registration number for
+    the registration of real estate, and address or location of office shall also be recorded in addition to the name or title of the titleholder.
+(3) When any registration is made in the name of an association or foundation, other than corporation as prescribed in Article 26, the
+    name, address and resident registration number of its representative or manager shall also be recorded.
+(4) Where the number of titleholders under paragraph (1) 5 is at least two, the ownership stake of each titleholder shall be recorded; if a
+    right to be registered is included therein, the purport shall be recorded.
+Article 49 (Procedures for Assigning Registration
+Numbers)
+(1) A registration number for registration of real estate (hereinafter referred to as "registration number") under Article 48 (2) shall be
+    assigned according to the following methods: <Amended by Act No. 11690, Mar. 23, 2013; Act No. 12421, Mar. 18, 2014; Act No.
+    13426, Jul. 24, 2015>
+1. Registration numbers for the State, local governments, international organizations and foreign governments shall be designated and
+   publicly notified by the Minister of Land, Infrastructure and Transport;
+2. A registration number shall be assigned to a Korean national residing abroad with no resident registration number by the registrar of a
+   registry having jurisdiction over the location of the Supreme Court, and a registration number shall be assigned to a corporation by the
+   registrar of a registry having jurisdiction over the location of its principal office (referring to the head office in cases of a company; and
+   to a sales office or branch office in Korea, the establishment of which is first registered in cases of a foreign company);
+3. A registration number shall be assigned to an association or foundation other than a juristic person and to a foreign corporation that
+   has not registered its sales office or branch office in Korea by the head of a Si (including the heads of administrative Sis under Article
+   10 (2) of the Special Act on the Establishment of Jeju Special Self-Governing Province and the Development of Free International
+   City, but excluding the heads of Sis that have Gus other than an autonomous Gu as prescribed in Article 3 (3) of the Local Autonomy
+   Act), Gun or Gu (including the head of a Gu, other than an autonomous Gu);
+4. A registration number shall be assigned to a foreigner by the head of a local immigration office having jurisdiction over his/her place of
+   sojourn (if he/she has no place of sojourn in Korea, the seat of the Supreme Court shall be deemed his/her place of sojourn).
+(2) Procedures for assigning registration numbers pursuant to paragraph (1) 2 shall be prescribed by the Supreme Court Regulations,
+    and procedures for assigning registration numbers pursuant to paragraph (1) 3 and 4 shall be prescribed by Presidential Decree.
+Article 50 (Information on Completion of
+Registration)
+(1) Where a registrar completes registration of a new right, he/she shall prepare information on completion of registration and notify it to a
+    registered titleholder: Provided, That this shall not apply in any of the following cases:
+1. Where the registered titleholder declines to be notified of information on completion of
+   registration;
+2. Where the State or a local government is the registered
+   titleholder;
+3. Cases prescribed by the Supreme Court Regulations, in addition to those under subparagraphs 1 and
+   2.
+ (2) Where a registered titleholder and a person liable to make a registration jointly apply for registration of a right, applicants shall supply
+      information on completion of registration of a person obliged to make a registration that has been notified together with information on
+      application to the registry. The same shall also apply to cases in which a person liable to make a registration who wins a suit applies
+      for the registration of a right unilaterally.
+ Article 51 (Non-Existence of Information on Completion of
+Registration)
+Where information on completion of registration of a person obliged to make a registration does not exist in cases underArticle 50 (2), the
+person obliged to make a registration or his/her legal representative (hereinafter referred to as "person obliged to make a registration, etc.)
+shall appear in the registry and obtain confirmation from the registrar that he/she is a person obliged to make a registration, etc.: Provided,
+That this shall not apply where the fact that the representative (referring only to an attorney or certified judicial scrivener) of applicants is
+delegated by a person obliged to make a registration, etc. is confirmed or the part to be prepared by a person obliged to make a
+registration, etc. in an application (where a representative by delegation files an application, referring to documents verifying his/her
+authority) has been notarized.
+ Article 52 (Supplementary Registration)
+When a registrar registers the following matters, he/she shall make a supplementary registration:Provided, That this shall not apply where
+consent is not given by a third party with an interest in registration under subparagraph 5:
+ 1. Registration of change or correction of the indication of a registered
+    titleholder;
+2. Registration of transfer of a right other than
+   ownership;
+3. Registration of a right with a purpose of a right other than
+   ownership;
+4. Registration of restrictions on disposal of a right other than
+   ownership;
+5. Registration of change or correction of a
+   right;
+6. Registration of special agreements for repurchase under Article
+   53;
+7. Registration of agreements for the extinguishment of a right under Article
+   54;
+8. Registration of agreements for prohibition against division of co-owned property under the latter part of Article 67
+   (1);
+9. Registration prescribed by the Supreme Court
+   Regulations.
+Article 53 (Registration of Special Agreements for
+Repurchase)
+When a registrar registers a special agreement for repurchase, he/she shall record the following matters;Provided, That only where
+grounds for registration specify to record matters under subparagraph 3, such matters shall be recorded:
+1. The amount paid by a
+   purchaser;
+2. Expenses incurred in relation to the sale and
+   purchase;
+ 3. Period of
+    repurchase.
+ Article 54 (Registration of Agreements on Extingishment of
+Rights)
+Where an agreement on the extinguishment of a right is included in the grounds for registration, an applicant may apply for the
+registration of such agreement.
+Article 55 (Extinguishment of Rights Due to Death, etc. and Registration of
+Cancellation)
+Where an agreement that a right extinguishes following the death of a person or the dissolution of a corporation, who is a registered
+titleholder, is registered, and such right extinguishes following death of the person or dissolution of the corporation, a person entitled to
+make a registration may unilaterally apply for the cancellation of such registration by proving such fact.
+ Article 56 (Unknown Whereabouts of Person obliged to Make a Registration and Registration of
+Cancellation)
+ (1) Where a person entitled to make a registration is unable to apply for the cancellation of registration jointly with a person obliged to
+     make a registration due to his/her unknown whereabouts, he/she may apply for public summons, as prescribed by the Civil Procedure
+     Act.
+ (2) Where a judgment of nullification exists in cases falling under paragraph (1), a person entitled to make a registration may unilaterally
+     apply for the cancellation of registration by proving such fact.
+ Article 57 (Cancellation of Registration with Third Parties Having
+Interest)
+ (1) Where the cancellation of registration is applied and a third party with an interest in the registration exists, consent from such third
+     party is required.
+(2) Where registration is cancelled pursuant to paragraph (1), a registrar shall cancel registration in the name of a third party with an
+    interest in the registration ex officio.
+Article 58 (Cancellation of Registration Ex
+Officio)
+(1) If a registrar finds that registration corresponds to subparagraph 1 or 2 of Article 29 after he/she completes the registration, he/she
+    shall notify a person entitled to make a registration, person obliged to make a registration and third party with an interest in the
+    registration of the purport that he/she is going to cancel the registration within a specified period of up to one month if no objection is
+    raised.
+(2) If the address or abode of a person who is to receive notification under paragraph (1) is unknown, such notification shall be posted on
+    the bulletin board of the registry during the period under paragraph (1) or be publicly announced, as prescribed by the Supreme Court
+    Regulations, in place of notification under paragraph (1).
+(3) If a person raises objection to cancellation under paragraph (1), a registrar shall make a decision on such
+    objection.
+ (4) Where no person raises objection during a period under paragraph (1) or an objection is rejected, a registrar shall cancel the
+     registration under paragraph (1) ex officio.
+ Article 59 (Reinstatement of Cancelled
+Registration)
+Where the reinstatement of cancelled registration is applied and a third party with an interest in the registration exists, consent from such
+third party shall be required.
+ Article 60 (Acquisition of Rights to Use
+Sites)
+ (1) Where a person who built a sectioned building has a right to use a site as defined in subparagraph 6 of Article 2 of the Act on
+     Ownership and Management of Condominium Buildings and he/she has completed registration of transfer of ownership over the
+     sectioned building only without registering a right to use the site, he/she may apply for registration of transfer of a right to use the site
+     jointly with the current titleholder of the sectioned building.
+(2) Paragraph (1) shall apply mutatis mutandis where a person who has built and transferred a sectioned building agrees to acquire and
+    transfer a right to use the site of such building afterward.
+(3) Registration under paragraphs (1) and (2) shall be applied simultaneously with the registration of a right to a
+    site.
+Article 61 (Where Right to Site Is Registered in Registration Records of Sectioned
+Buildings)
+(1) Registration of a right to a building made after a right to a site is registered shall have the same effect on a right to the site: Provided,
+    That this shall not apply where a purport that such registration is for only the building is supplementarily recorded.
+(2) The priority order of registrations made in a Gu among registrations having an effect as registration of a right to a site under paragraph
+    (1) and registration record of land being the object of a right to a site shall accord with the receipt number.
+(3) On the registration record of a sectioned building for which a right to a site is registered, a registration for transfer of ownership,
+    registration for settlement of mortgage or other registration relating thereto over the building only shall not be made.
+(4) On the registration record of land for which a purport that it is a right to a site is registered where ownership of land is a right to a site,
+    a registration of transfer of ownership, registration of settlement of mortgage or other registration relating thereto shall not be made.
+(5) Paragraph (4) shall apply mutatis mutandis where superficies, a right to lease on a deposit base or leasehold interest is a right to a
+     site.
+ Article 62 (Notification of Change of
+Ownership)
+Where a registrar registers the following matters, he/she shall, without delay, notify such fact to an administrative agency in charge of
+cadastre in the case of land, and to an administrative agency in charge of a building ledger in the case of a building:
+1. Preservation or transfer of
+   ownership;
+2. Change or correction of indication of a registered
+   titleholder;
+3. Change or correction of
+   ownership;
+4. Cancellation of ownership or reinstatement from
+   cancellation.
+ Article 63 (Provision of Taxation
+Data)
+Where a registrar completes the registration of preservation or transfer of ownership (including provisional registration), he/she shall notify
+such fact to the head of a district tax office having jurisdiction over the location of real estate.
+Sub-Section 2 Registration concerning Ownership
+ Article 64 (Matters to Be Registered in Registration of Preservation of
+Ownership)
+When a registrar registers the preservation of ownership, he/she shall not record grounds for registration and the date thereof,
+notwithstanding Article 48 (1) 4.
+ Article 65 (Applicants for Registration of Preservation of
+Ownership)
+Any of the following persons may apply for the registration of preservation of ownership of unregistered land or buildings:
+1. An initial owner registered in the land cadastre, forest land cadastre or building cadastre, his/her heir or a general
+   successor;
+2. A person who verifies his/her ownership by a court
+   ruling;
+3. A person who verifies that he/she has acquired ownership by
+   expropriation.
+4. A person who verifies his/her ownership (limited to buildings) through the confirmation of the Governor of a Special Self-Governing
+   Province, or the head of a Si, Gun, Gu (referring to the head of an autonomous Gu).
+Article 66 (Registration of Restrictions on Disposal of Unregistered Real Estate and Preservation Ex
+Officio)
+(1) If a registrar registers restrictions on the disposal of ownership of unregistered real estate on the entrustment of a court, he/she shall
+    register the preservation of ownership ex officio, and record the purport that he/she registers ownership in accordance with a ruling of
+    the court ordering him/her to register restrictions on disposal.
+(2) Article 65 shall not apply where a registrar registers the preservation of ownership of a building pursuant to paragraph (1):Provided,
+    That where approval for use has not been obtained even though such building is subject to approval for use under the Building Act,
+    such fact shall be stated in the title section of the register.
+(3) Where approval for use under the Building Act is granted on a building registered pursuant to the proviso to paragraph (2), a
+    registered titleholder of such building shall, within a month, apply for registration of cancellation of record under proviso to paragraph
+    (2).
+Article 67 (Partial Transfer of
+Ownership)
+(1) When a registrar registers the transfer of part of ownership, he/she shall record ownership stake to be transferred. In such cases,
+    where an agreement under proviso to Article 268 (1) of the Civil Act exists in the grounds for registration, such agreement shall also
+    be recorded.
+(2) The registration of change of an agreement under the latter part of paragraph (1) shall be applied jointly by all the co-
+    owners.
+Article 68 (Registration of Transaction
+Value)
+Where a registrar registers the transfer of ownership with a contract underArticle 3 (1) of the Act on Report on Real Estate Transactions,
+Etc. as the grounds for registration, he/she shall record transaction value, as prescribed by the Supreme Court Regulations.<Amended by
+Act No. 13435, Jul. 24, 2015; Act No. 13797, Jan. 19, 2016>
+Sub-Section 3 Registration concerning Usufructuary Rights
+Article 69 (Matters to Be Registered in
+Superficies)
+Where a registrar registers the creation of superficies, he/she shall record the following matters in addition to matters prescribed in Article
+48: Provided, That only if grounds for registration include an agreement, subparagraphs 3 through 5 shall be recorded:
+1. Purpose of creating
+   superficies;
+2. Scope;
+3. Period of
+   existence;
+4. Rent and timing of
+   payment;
+5. Agreement under the latter part of Article 289-2 (1) of the Civil
+   Act;
+6. Where the scope of creation of superficies is part of land, the number of drawings indicating such
+   part.
+Article 70 (Matters to Be Registered in
+Easements)
+Where a registrar registers the creation of an easement, he/she shall record following matters in addition to the matters prescribed in
+Article 48 (1) 1 through 4: Provided, That only if grounds for registration includes an agreement, subparagraph 4 shall be recorded:
+1. Purpose of creating
+   easement;
+2. Scope;
+3. Dominant estate;
+4. Agreement under proviso to Article 292 (1), proviso to Article 297 (1), or Article 298 of the Civil
+   Act;
+5. Where the creation of easement is registered over part of servient estate, the number of drawings indicating such
+   part.
+Article 71 (Matters to Be Registered in Easements of Dominant
+Estate)
+(1) Where a registrar registers the creation of easement in servient estate, he/she shall record the following matters in the registration
+    record of dominant estate:
+1. Number of priority
+   order;
+2. Purpose of
+   registration;
+3. Servient estate;
+4. Purpose of creating
+   easement;
+5. Scope;
+6. Date of
+   registration.
+(2) If servient estate belongs to the jurisdiction of another registry, a registrar shall, without delay, notify such registry of the servient
+    estate, dominant estate, purpose and scope of creating easement and the date when an application is received.
+(3) The registrar of the registry that receives notification under paragraph (2) shall, without delay, record matters under subparagraphs 1
+    through 5, and the date and receipt number of such notification in the registration record of the real estate which is dominant estate.
+(4) Paragraphs (2) and (3) shall apply mutatis mutandis where a registrar registers the change or cancellation of
+    easement.
+Article 72 (Matters to Be Registered in Rights to Lease on Deposit Basis,
+etc.)
+(1) Where a registrar registers the creation of a right to lease on a deposit basis or sublease on a deposit basis, he/she shall record the
+    following matters in addition to matters prescribed in Article 48: Provided, That only if grounds for registration include an agreement,
+    subparagraphs 3 through 5 shall be recorded:
+1. Security deposit for lease on a deposit basis or security deposit for sublease on a deposit
+   basis;
+2. Scope;
+3. Period of
+   existence;
+4. Penalty for breach of an
+   agreement;
+5. An agreement under proviso to Article 306 of the Civil
+   Act;
+6. Where the scope of creation of a right to lease on a deposit basis or the scope of sublease is part of real estate, the number of
+   drawings indicating such part.
+(2) Article 78 shall apply mutatis mutandis where the creation of a right to lease on a deposit basis aiming at rights to several parcels of
+    real estate is registered.
+Article 73 (Registration of Partial Transfer of Rights to Lease on Deposit Basis Following Partial Transfer of Claim for Refund of Security
+Deposit)
+(1) Where a registrar registers partial transfer of a right to lease on a deposit basis on the grounds of partial transfer of claim for refund of
+    security deposit, he/she shall record the amount of transfer.
+ (2) The registration of partial transfer of a right to lease on a deposit basis under paragraph (1) shall not be applied before the period of
+     existence of a right to lease on a deposit basis expires; Provided, That this shall not apply where registration is applied by verifying
+     that relevant right to lease on a deposit basis has expired even before the period of existence expires.
+ Article 74 (Matters to Be Registered in Leasehold Interests,
+etc.)
+Where a registrar registers the creation of leasehold interests or the sublease of leased objects, he/she shall record the following matters
+in addition to matters prescribed in Article 48: Provided, That if grounds for registration include matters under subparagraphs 3 through 5,
+subparagraphs 3 through 5 shall be recorded:
+ 1. Rent;
+2. Timing for paying
+   rents;
+3. Period of existence: Provided, That where it is a short-term lease under Article 619 of the Civil Act by a lessor having no capability or
+   authority of disposal, such purport shall also be recorded;
+4. Security deposit for lease;
+5. Consent from a lessor concerning the transfer of leasehold interest or sublease of leased
+   objects;
+6. Where the scope of creation of leasehold interest or the scope of sublease of leased objects is part of real estate, the number of
+   drawings indicating such part.
+Sub-Section 4 Registration concerning Security Rights
+Article 75 (Matters to Be Registered in
+Mortgage)
+(1) Where a registrar registers the creation of mortgage, he/she shall record the following matters in addition to matters prescribed in
+    Article 48: Provided, That only if grounds for registration include an agreement, subparagraphs 3 through 8 shall be recorded:
+1. Amount of
+   claim;
+2. Name or title of an obligee and his/her address or location of his/her
+   office;
+3. Timing for paying
+   reimbursement;
+4. Interest, date on which interest accrues and date of payment of
+   interest;
+5. Place for paying principal or
+   interest;
+6. Agreement on compensation for damage due to
+   default;
+7. Agreement under proviso to Article 358 of the Civil
+   Act;
+8. Conditions of
+   claim.
+(2) Where the contents of mortgage under paragraph (1) are collateral security, the following matters shall be recorded in addition to
+    matters prescribed in Article 48: Provided, That only if grounds for registration include an agreement, subparagraphs 3 and 4 shall be
+    recorded:
+1. Maximum amount of
+   claim;
+2. Name or title of a debtor and his/her address or location of his/her
+   office;
+3. Agreement under proviso to Article 358 of the Civil
+   Act;
+4. Period of
+   existence.
+Article 76 (Matters to Be Registered in Pledge Right against Mortgage-Backed
+Credit)
+(1) Where a registrar registers a pledge right against mortgage-backed credit pursuant to Article 348 of the Civil Act, he/she shall record
+    the following matters in addition to matters prescribed in Article 48:
+1. Amount of credit or maximum amount of
+   credit;
+2. Name or title of a debtor and his/her address or location of an
+   office;
+3. Where an agreement states the period of reimbursement and interest, the details
+   thereof.
+(2) Where a registrar registers a right to claim security under Article 348 of the Civil Act being applied mutatis mutandis in Article 37 of
+    the Act on Security over Movable Property, Claims, etc., he/she shall record the following matters in addition to matters prescribed in
+    Article 48:
+1. Amount of claim or maximum amount of
+   claim;
+2. Name or title of a debtor and his/her address or location of an
+   office;
+3. Where an agreement states the period of reimbursement and interest, the details
+   thereof.
+ Article 77 (Where Secured Claim Does Not Aim at
+Amount)
+Where a registrar registers the creation of a mortgage right in order to guarantee a claim that does not aim at a certain amount, he/she
+shall record the assessed amount of the claim.
+ Article 78 (Registration of Joint
+Mortgages)
+(1) Where a registrar registers the creation of mortgage aiming at a right to several parcels of real estate for the same claim, he/she shall
+     record a purport in the registration record of each parcel of real estate that a right to such parcel of real estate is provided as the
+     purpose of mortgage together with rights to other parcels of real estate.
+(2) Where real estate in cases falling under paragraph (1) is at least five parcels, a registrar shall prepare a list of joint
+    mortgages.
+(3) The list of joint mortgages under paragraph (2) shall be deemed part of a registration
+    record.
+
+(4) Where a registrar registers the creation of mortgage aiming at a right to one or several parcels of real estate, and thereafter registers
+    the creation of mortgage aiming at a right to another one or several parcels of real estate for the same claim, he/she shall record a
+    purport that a right to each parcel of real estate is provided all together as the object of mortgage on the registration record and
+    previous registration record. In such cases, paragraphs (2) and (3) shall apply mutatis mutandis.
+ (5) Article 71 (2) and (3) shall apply mutatis mutandis where real estate registered previously belongs to the jurisdiction of another
+     registry in cases falling under paragraph (4).
+ Article 79 (Matters to Be Registered in Registration of Transfer of Part of Mortgages Due to Transfer of Part of Claim or Subrogated
+Reimbursement)
+Where a registrar registers the transfer of part of mortgage due to the transfer of part of claim or subrogated reimbursement, he/she shall
+record the amount of transfer or amount of reimbursement in addition to matters prescribed in Article 48.
+ Article 80 (Registration of Joint Mortgage by
+Subrogation)
+ (1) Where a registrar makes a registration under the latter part of Article 368 (2) of the Civil Act by subrogation, he/she shall record the
+     following matters in addition to matters prescribed in Article 48:
+1. Sold real estate (where a right other than ownership is the object of mortgage, referring to such
+   right);
+2. Sale amount;
+3. Amount that a prior mortgagee receives as
+   reimbursement.
+(2) Article 75 shall apply mutatis mutandis to the registration under paragraph
+    (1).
+Sub-Section 5 Registration concerning Trust
+Article 81 (Matters to Be Registered in Trust
+Registration)
+(1) Where a registrar makes a trust registration, he/she shall prepare a trust ledger in which the following matters are recorded, and
+    record the number of a trust ledger in the registration record in addition to matters prescribed in Article 48: <Amended by Act No.
+    12420, Mar. 18, 2014>
+1. Name and address of a truster, trustee and beneficiary (in the case of a corporation, referring to the name and location of an
+   office);
+2. Where a person is determined to be given the authority to designate or change a beneficiary, the name and address of such person (in
+   the case of a corporation, referring to the name and location of an office);
+3. Where a method of designating or changing a beneficiary is determined, such
+   method;
+4. Where a condition on the occurrence and extinguishment of a beneficiary right exists, such
+   condition;
+5. Where a trust administrator is designated, the name and address of a trust administrator (in the case of a corporation, referring to the
+   name and location of an office);
+6. In cases of a trust for a specific purpose without any beneficiary, the
+   purport;
+7. Where a truster creates a trust to another person pursuant to Article 3 (5) of the Trust Act, the
+   purport;
+8. In cases of a testamentary substitute under Article 59 (1) of the Trust Act, the
+   purport;
+9. In cases of a trust for successive beneficiaries under Article 60 of the Trust Act, the
+   purport;
+10. In cases of a trust issuing beneficiary certificates under Article 78 of the Trust Act, the
+    purport;
+11. In cases of a public trust under the Public Trust Act, the
+    purport;
+12. In cases of a limited liability trust under Article 114 (1) of the Trust Act, the
+    purport;
+13. Purpose of
+    trust;
+14. Management, disposal, operation and development of trust property and methods necessary for achieving the purpose of a
+    trust;
+15. Grounds for terminating a trust;
+16. Other provisions concerning
+    trust.
+(2) If any registration concerning paragraph (1) 5, 6, 10 and 11 is made, a registrar may elect not to record the name and address of
+    beneficiaries.
+(3) The trust ledger under paragraph (1) shall be deemed part of a registration
+    record.
+[This Article Wholly Amended by Act No. 11826, May 28, 2013]
+ Article 82 (Methods of Applying for Trust
+Registration)
+ (1) An application to register a trust shall be filed simultaneously with an application to register the creation, preservation, transfer or
+     change of a right to the relevant real estate.
+(2) A beneficiary or truster may apply for the registration of a trust in subrogation of a trustee. In such cases, paragraph (1) shall not
+    apply.
+ (3) Article 28 (2) shall apply mutatis mutandis to an application for registration in subrogation under paragraph
+     (2).
+[This Article Wholly Amended by Act No. 11826, May 28, 2013]
+ Article 82-2 (Application for Registration of Trust Following Merger, Division, etc. of
+Trusts)
+ (1) Where a right to real estate held in a piece of trust property devolves on the trust property of another trust due to the merger or
+     division of a trust, an application for the registration of cancellation of registration of trust and for the registration of new trust shall be
+     filed simultaneously with an application for the registration of change of a right due to the merger or division of trusts.
+ (2) Where a trustee who undertakes several trusts pursuant to Article 34 (1) 3 of the Trust Actand to paragraph (2) of the same Article
+     vests authority on real estate held in a piece of trust property in the trust property of another trust, paragraph (1) shall apply mutatis
+     mutandis to the method of applying for the registration of trust.
+[This Article Added by Act No. 11826, May 28, 2013]
+ Article 83 (Registration Due to Completion of Duties of
+Trustees)
+Where the duties of a trustee are completed, because any of the following is applicable, a new trustee may unilaterally apply for the
+registration of transfer of a right to real estate held in trust property: <Amended by Act No. 12420, Mar. 18, 2014>
+ 1. Where the duties of a trustee are completed because any of the subparagraphs of Article 12 (1) is
+    applicable;
+2. Where a trustee is relieved of his/her post pursuant to Article 16 (1) of the Trust
+   Act;
+3. Where a court dismisses a trustee pursuant to Article 16 (3) of the Trust
+   Act;
+ 4. Where the Minister of Justice dismisses the trustee of a public trust ex officio pursuant to Article 27 of the Public Trust
+    Act.
+[This Article Wholly Amended by Act No. 11826, May 28, 2013]
+ Article 84 (Where Several Trustees
+Exist)
+ (1) Where several trustees exist, a registrar shall record the purport that trust property is owned in
+     partnership.
+ (2) Where the duties of a trustee among the several trustees are completed due to a reason under any of the subparagraphs of Article
+     83, another trustee may unilaterally apply for the registration of change of a right. In such cases, if the number of another trustee is
+     more than one, all of them shall jointly file an application.
+[This Article Wholly Amended by Act No. 11826, May 28, 2013]
+ Article 84-2 (Special Exceptions to Application for Registration of Trust
+Property)
+In any of the following circumstances, a trustee may unilaterally apply for the registration of change of a right to real estate held in the
+relevant trust property:
+ 1. Where a trust is created pursuant to Article 3 (1) 3 of the Trust
+    Act;
+2. Where any of the following is permitted because any of the subparagraphs of Article 34 (2) of the Trust Act is
+   applicable:
+(a) Vesting authority on real estate held in trust property by a trustee in personal
+    property;
+(b) Vesting authority on real estate held in personal property by a trustee in trust
+    property;
+(c) Vesting authority on real estate held in a piece of trust property by a trustee who undertakes several trusts in the trust property of
+    another trust.
+ 3. Where a trustee merges, divides or divides and merges several trusts pursuant to Article 90 or 94 of the Trust
+    Act.
+[This Article Added by Act No. 11826, May 28, 2013]
+ Article 85 (Registration of Change of Trust by
+Entrustment)
+ (1) Where a court holds any of the following trials, it shall, without delay, entrust a registry with the registration of change of records in the
+     trust ledger:
+1. A trial dismissing a
+   trustee;
+2. A trial appointing or dismissing a trust
+   administrator;
+3. A trial changing a trust.
+(2) In any of the following cases, the Minister of Justice shall, without delay, entrust a registry with the registration of change of records in
+    the trust ledger: <Amended by Act No. 12420, Mar. 18, 2014>
+1. Where it dismisses a trustee ex
+   officio:
+2. Where it appoints or dismisses a trust administrator ex
+   officio:
+3. Where it issues an order to change the contents of a
+   trust.
+ (3) Where a registrar registers change of record in the trust ledger concerning the dismissal of a trustee by entrustment of a court or
+     competent administrative agency pursuant to paragraph (1) 1 or paragraph (2) 1, it shall add the purport of dismissal of the trustee to
+     the registration record ex officio.
+[This Article Wholly Amended by Act No. 11826, May 28, 2013]
+ Article 85-2 (Registration of Change of Trust Ex
+Officio)
+Where a registrar makes any of the following registrations of a right to real estate held in trust propertyex officio, he/she shall register the
+change of records in the trust ledger concerning such real estate:
+ 1. Registration of transfer due to the change of a
+    trustee;
+2. Registration of change due to the completion of duties of one of several
+   trustees;
+ 3. Registration of change or registration of correction concerning the name and address of a registered titleholder who is a trustee
+    (referring to the name and location of an office in cases of a corporation).
+[This Article Added by Act No. 11826, May 28, 2013]
+ Article 86 (Application for Registration of Change of
+Trust)
+Except in cases corresponding to Articles 85 and 85-2, a trustee shall, without delay, apply for the registration of change of records in the
+trust ledger if matters under the subparagraphs of Article 81 (1) are changed. <Amended by Act No. 11826, May 28, 2013>
+ Article 87 (Cancellation of Registration of
+Trust)
+ (1) Where a right held in trust property is no longer held in the trust property because such right is transferred, changed or has ceased,
+     an application for cancellation shall be filed simultaneously with an application for registration of transfer, change or cancellation of a
+     right held in a trust.
+(2) Paragraph (1) shall apply mutatis mutandis where a right held in trust property is transferred or has ceased due to the termination of a
+    trust.
+(3) Registration of cancellation of the registration of a trust may be applied unilaterally by a
+    trustee.
+ (4) Article 82 (2) and (3) shall apply mutatis mutandis to an application for registration of cancellation of the registration of a
+     trust.
+[This Article Wholly Amended by Act No. 11826, May 28, 2013]
+ Article 87-2 (Special Exceptions to Security
+Trusts)
+ (1) In cases of a trust in which a mortgage, created by a truster on real estate owned by himself/herself or a third party and with a trustee,
+     other than a creditor, as the mortgagee, is trust property and the creditor is designated as a beneficiary, a registrar shall record
+     registered matters under Article 75 by classifying them by each claim if the number of secured claims secured by mortgage are many
+     and each secured claim has registered matter under Article 75 different from each other.
+(2) Where a secured claim secured by a mortgage held in trust property of a trust under paragraph (1) is transferred, the trustee shall
+    apply for the registration of change of records in the trust ledger.
+ (3) Article 79 shall not apply where the transfer of a mortgage held in the trust property of a trust under paragraph (1) is
+     registered.
+[This Article Added by Act No. 11826, May 28, 2013]
+ Article 87-3 (Registration of Trust for Which Trust Property Administrator Is
+Appointed)
+In cases of a trust for which a trust property administrator is appointed pursuant toArticle 17 (1) or 18 (1) of the Trust Act, a "trustee" shall
+be construed as a "trust property administrator" for purposes of Articles 23 (7) and (8), 81, 82, 82-2, 84 (1), 84-2 and 85 (1) and (2),
+subparagraph 3 of Article 85-2, Articles 86, 87 and 87-2.
+[This Article Added by Act No. 11826, May 28, 2013]
+Sub-Section 6 Provisional Registration
+ Article 88 (Objects of Provisional
+Registration)
+Provisional registration shall be made if a right of claim for the creation, transfer, change or extinguishment of a right corresponding to any
+of the subparagraphs of Article 3 is to be preserved. The same shall also apply where such right of claim is effective when the time
+comes, is under condition precedent, or is to be determined in the future.
+ Article 89 (Methods of Applying for Provisional
+Registration)
+Notwithstanding Article 23 (1), a person entitled to make a provisional registration may unilaterally apply for a provisional registration if a
+person obliged to make a provisional registration gives consent or a court ordering a provisional registration issues an order of provisional
+disposition.
+ Article 90 (Orders of Provisional Disposition Ordering Provisional
+Registration)
+(1) Where a district court having jurisdiction over the location of real estate deems that grounds for provisional registration are vindicated
+    at the request of a person entitled to make a provisional registration, the district court may issue an order of disposition ordering
+    provisional registration under Article 89.
+(2) An immediate complaint may be lodged against a decision rejecting a request under paragraph
+    (1).
+ (3) Non-Contentious Case Procedure Act shall apply mutatis mutandis to the immediate complaint under paragraph
+     (2).
+ Article 91 (Priority Order for Principal Registration According to Provisional
+Registration)
+Where a principal registration is made according to a provisional registration, the priority order for a principal registration shall accord with
+the priority order for a provisional registration.
+ Article 92 (Cancellation of Registration Made after Provisional Registration Ex Officio That Infringes upon Rights Preserved by
+Provisional Registration)
+ (1) Where a registrar makes a principal registration according to a provisional registration, he/she shall, ex officio, cancel registration,
+     which is made after a provisional registration is made and infringes upon rights preserved by a provisional registration, as prescribed
+     by the Supreme Court Regulations.
+(2) If a registrar cancels a registration made after a provisional registration is made pursuant to paragraph (1), he/she shall, without delay,
+    notify a registered titleholder of the cancelled right of the fact.
+Article 93 (Cancellation of Provisional
+Registration)
+(1) Notwithstanding Article 23 (1), a titleholder of a provisional registration may unilaterally apply for the cancellation of a provisional
+    registration.
+(2) Notwithstanding Article 23 (1), a person obliged to make a provisional registration or a person with an interest in a provisional
+    registration may unilaterally apply for the cancellation of a provisional registration with consent from a titleholder of a provisional
+    registration.
+Sub-Section 7 Registration concerning Provisional Disposition
+Article 94 (Cancellation of Registration Made after Registration of Provisional Disposition Is
+Made)
+(1) Where an obligee of provisional disposition applies for the registration of transfer, cancellation or creation of a right with an obligor of
+    a provisional registration as a person obliged to make a registration after provisional disposition prohibiting disposal is registered in
+    order to preserve a right of claim for the transfer, cancellation or creation of a right pursuant to Article 305 (3) of the Civil Execution
+    Act, he/she may unilaterally apply for the cancellation of a registration, which is made after the provisional registration is made and
+    infringes upon the right of an obligee of provisional disposition, as prescribed by the Supreme Court Regulations.
+(2) Where a registrar cancels a registration made after a provisional registration is made according to an application under paragraph (1),
+    he/she shall also cancel registration of the provisional disposition.
+(3) Where a registrar cancels a registration made after a provisional registration is made according to an application under paragraph (1),
+     he/she shall, without delay, notify a registered titleholder of the cancelled right of such fact.
+ Article 95 (Registration of Creation of Right Other Than Ownership Appurtenant to Provisional
+Disposition)
+Where a registrar registers the creation of a right other than ownership in the name of a creditor of provisional disposition pursuant to
+Article 94 (1), he/she shall record the purport that the registration is based on provisional disposition.
+Sub-Section 8 Registration, etc. Entrusted by Public Offices
+ Article 96 (Registration to Be Entrusted by Public Offices in Place of Registered
+Titleholders)
+Where a public office entrusts registration of seizure due to disposition on default, it may also entrust the registration of change or
+correction of indication of real estate or a registered titleholder and the registration of transfer of a right due to general succession in place
+of a registered titleholder, heir or general successor.
+ Article 97 (Entrustment of Registration Due to Disposition of Public
+Sale)
+Where a public office receives a request from a person entitled to make a registration when it issues disposition of public sale, it shall,
+without delay, entrust a registry with the following registration:
+1. Registration of transfer of a right due to disposition of public
+    sale;
+2. Cancellation of registration of a right extinguished due to disposition of public
+   sale;
+3. Cancellation of registration of seizure concerning disposition on
+   default.
+Article 98 (Registration According to Entrustment by Public
+Offices)
+(1) Where the State or a local government is an entity entitled to make a registration, the State or the local government shall, without
+    delay, entrust a registry with registration with consent from a person obliged to make a registration.
+(2) Where the State or a local government is an entity liable to make a registration, the State or the local government shall, without delay,
+    entrust a registry with registration at the request of a person entitled to make a registration.
+Article 99 (Registration Due to
+Expropriation)
+(1) Notwithstanding Article 23 (1), registration of transfer of ownership due to expropriation may be unilaterally applied by a person
+    entitled to make a registration.
+(2) Where a person entitled to make a registration applies for registration under paragraph (1), he/she may apply for the registration of
+    change or correction of indication of real estate or a registered titleholder and the registration of transfer of a right due to inheritance
+    or general succession in place of the registered titleholder, heir or general successor.
+
+(3) Where the State or a local government is an entity entitled to make a registration under paragraph (1), the State or the local
+    government shall, without delay, entrust a registry with the registration under paragraphs (1) and (2).
+(4) Where a registrar registers the transfer of ownership due to expropriation pursuant to paragraphs (1) and (3), he/she shall cancel
+    registration concerning ownership, a right other than ownership or restrictions on disposal, if any, in the registration records of the real
+    estate: Provided, That this shall not apply to the registration of easement existing for such real estate or the registration of a right, the
+    continuance of which is officially accepted by the ruling of a land tribunal.
+(5) Paragraphs (1) through (4) shall apply mutatis mutandis to the registration of transfer of a right due to the expropriation of a right
+     other than ownership of real estate.
+                                                        CHAPTER V OBJECTIONS
+ Article 100 (Raising Objections and Jurisdiction
+Thereof)
+Any person who has an objection against a decision or disposition made by a registrar may raise an objection to a competent district
+court.
+ Article 101 (Procedures for Raising
+Objections)
+Objections shall be raised by submitting an application for objection to a registry, as prescribed by the Supreme Court Regulations.
+ Article 102 (Prohibition against Raising Objections Based on New
+Facts)
+No objection shall be raised based on new facts or new methods of evidence.
+ Article 103 (Measures to Be Taken by
+Registrars)
+(1) Where a registrar deems that a raised objection is reasonable, he/she shall issue appropriate
+     disposition.
+(2) Where a registrar deems that a raised objection is not reasonable, he/she shall return an application for objection to the competent
+    district court with his/her opinion attached thereto within three days from the date such objection is raised.
+(3) Where an objection is raised after a registration is completed, a registrar shall return an objection to the competent district court with
+    his/her opinion attached thereto within three days and notify parties having interest in the registration of the fact that an objection is
+    raised.
+Article 104 (Non-Suspension of
+Execution)
+No objection shall have the effect of suspending execution.
+Article 105 (Decisions on Objections and
+Appeals)
+(1) A competent district court shall decide on an objection with reasons attached thereto. In such cases, if it deems that such objection is
+    reasonable, it shall order a registrar to issue appropriate disposition and notify an applicant for objection and parties with interest in
+    the registration of such purport.
+(2) An appeal may be lodged against a decision under paragraph (1) according to Non-Contentious Case Procedure
+    Act.
+Article 106 (Orders of Provisional Registration or Supplementary Registration before
+Disposition)
+A competent district court may order a registrar to make a provisional registration or supplementary registration with a purport that an
+objection is raised before it makes a decision on the raised appeal.
+Article 107 (Registration According to Orders of Competent
+Courts)
+Where a registrar makes a registration according to an order of the competent district court, he/she shall record the district court issuing
+an order, date of order, purport that a registration is made according to an order and the date of registration.
+Article 108 (Serving
+Documents)
+The Civil Procedure Act shall apply mutatis mutandis to serving documents and Non-Contentious Case Procedure Act shall apply mutatis
+mutandis to expenses incurred in relation to appeals.
+                                               CHAPTER VI SUPPLEMENTARY PROVISIONS
+Article 109 (Exchange, etc. of Computerized Information
+Materials)
+(1) The Minister of National Court Administration may be provided with computerized information materials relating to the handling of
+    registration duties from State agencies or local governments.
+(2) Any person who intends to utilize registration information materials recorded in the register shall obtain approval from the Minister of
+    National Court Administration after examination by the head of the relevant central administrative agency: Provided, That where the
+    head of a central administrative agency intends to use or utilize registration information materials, he/she shall hold consultations with
+    the Minister of National Court Administration; his/her approval shall be deemed obtained when an agreement is reached in the
+    consultation.
+(3) Matters necessary for the use or utilization of registration information materials, use fee, etc. shall be prescribed by the Supreme
+    Court Regulations.
+Article 110 (Securing Safety of Information on Completion of
+Registration)
+(1) A registrar shall take measures necessary and appropriate for the prevention of leakage and loss of, or damage to information on
+    completion of registration that he/she handles and the safe management of information on completion of registration.
+(2) Registrars and persons who are or have engaged in the duties of registering real estate at registries shall not divulge confidential
+    information concerning the preparation and management of information on completion of a registration that they have become aware
+    of in the course of performing their duties.
+(3) No person shall obtain information on completion of a registration for a purpose of providing it for application for a registration or
+    entrustment of a registration in order to make an improper registration, or provide information on completion of a registration while
+    being aware of such circumstances.
+Article 111 (Penalty
+Provisions)
+Any of the following persons shall be punished by imprisonment for not more than two years or by a fine not exceeding ten million won:
+1. A person who divulges information concerning the preparation or management of information on completion of a registration, in
+   violation of Article 110 (2);
+2. A person who obtains information on completion of a registration in violation of Article 110 (3) or who provides information on
+   completion of a registration while being aware of such circumstances;
+ 3. A person who keeps information on completion of a registration obtained fraudulently for a purpose under subparagraph
+    2.
+ Article 112 Deleted. <by Act No. 14901, Oct. 13,
+2017>
+ Article 113 (Delegation to the Supreme Court
+Regulations)
+Matters necessary for the enforcement of this Act shall be prescribed by the Supreme Court Regulations.
+ADDENDA
+Article 1 (Enforcement Date)
+This Act shall enter into force six months after the date of its promulgation:Provided, That the amended provisions of subparagraph 7 of
+Article 3, Article 76 (2), and Article 4 (17) of Addenda shall enter into force on June 11, 2012.
+Article 2 (Transitional Measures concerning Certificates of Completion of Registration)
+If a person, who has been issued a certificate of completion of a registration pursuant to the former Article 67 (1) or has been notified of
+completion of a registration pursuant to the former Article 68 (1) after having the acquisition of a right registered, applies for registration
+pursuant to the amended provisions of Article 24 (1) 1, he/she may attach a certificate of completion of a registration under the former
+Article 67 (1) or a notice of completion of a registration under the former Article 68 (1) to the application instead of providing information on
+completion of a registration under the amended provisions of Article 50 (2).
+Article 3 (Transitional Measures concerning Registration of Advance Notices)
+The former provisions shall apply to procedures for cancelling registration of an advance notice already made as at the time this Act
+enters into force.
+Article 4 Omitted.
+Article 5 (Relationship with Other Statutes)
+ (1) Where a certified copy or abstract of register is cited by other Acts and subordinate statutes as at the time this Act enters into force, a
+     certificate of registered matters shall be deemed cited; where a certificate of completion of a registration is cited, a notice of
+     completion of a registration or a notice of information on completion of a registration shall be deemed cited in addition to a certificate
+     of completion of a registration.
+(2) Where provisions of the former Registration of Real Estate Act have been cited by other Acts or subordinate statutes as at the time
+    this Act enters into force, relevant provisions of this Act shall be deemed cited in place of the former provisions if provisions
+    corresponding thereto exist herein.
+ADDENDA <Act No. 10924, Jul. 25, 2011>
+Article 1 (Enforcement Date)
+This Act shall enter into force one year after the date of its promulgation.
+Articles 2 through 4 Omitted.
+ADDENDA <Act No. 11690, Mar. 23, 2013>
+Article 1 (Enforcement Date)
+(1) This Act shall enter into force on the date of its
+    promulgation.
+(2) Omitted.
+Articles 2 through 7 Omitted.
+ADDENDA <Act No. 11826, May 28, 2013>
+Article 1 (Enforcement Date)
+This Act shall enter into force three months after the date of its promulgation.
+Article 2 (Applicability)
+This Act shall begin to apply to a registration case received after this Act enters into force.
+Article 3 (Transitional Measures)
+(1) Registration of a trust completed pursuant to the former provisions as at the time this Act enters into force shall be deemed completed
+    pursuant to this Act.
+(2) Registers of trusts drawn up pursuant to the former provisions as at the time this Act enters into force shall be used as they are after
+    this Act enters into force.
+ADDENDA <Act No. 12420, Mar. 18, 2014>
+Article 1 (Enforcement Date)
+This Act shall enter into force one year after the date of its promulgation.
+Articles 2 through 4 Omitted.
+ADDENDA <Act No. 12421, Mar. 18, 2014>
+Article 1 (Enforcement Date)
+This Act shall enter into force three months after the date of its promulgation.
+Articles 2 and 3 Omitted.
+ADDENDA <Act No. 12738, Jun. 3, 2014>
+Article 1 (Enforcement Date)
+This Act shall enter into force one year after the date of its promulgation. (Proviso Omitted.)
+Articles 2 and 3 Omitted.
+ADDENDA <Act No. 13426, Jul. 24, 2015>
+Article 1 (Enforcement Date)
+This Act shall enter into force six months after the date of its promulgation. (Proviso Omitted.)
+Articles 2 through 39 Omitted.
+ADDENDA <Act No. 13435, Jul. 24, 2015>
+Article 1 (Enforcement Date)
+This Act shall enter into force on the date of its promulgation. (Proviso Omitted.)
+Articles 2 through 5 Omitted.
+ADDENDA <Act No. 13797, Jan. 19, 2016>
+Article 1 (Enforcement Date)
+This Act shall enter into force one year after the date of its promulgation.
+Articles 2 through 11 Omitted.
+ADDENDA <Act No. 13953, Feb. 3, 2016>
+Article 1 (Enforcement Date)
+This Act shall enter into force six months after the date of its promulgation.
+Articles 2 through 8 Omitted.
+ADDENDA <Act No. 14901, Oct. 13, 2017>
+Article 1 (Enforcement Date)
+This Act shall enter into force on the date of its promulgation.
+Articles 2 (Transitional Measures concerning Administrative Fines)
+The application of administrative fines imposed on acts committed before this Act enters into force, shall be governed by the previous
+provisions.
+
+PC Version Go Top
+
+ 2019 KLRI
+

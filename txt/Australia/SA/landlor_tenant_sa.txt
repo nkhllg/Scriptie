@@ -1,0 +1,3393 @@
+Version: 1.7.2020 
+Published under the Legislation Revision and Publication Act 2002 
+1 
+South Australia 
+Landlord and Tenant Act 1936 
+An Act to regulate the relationship of landlord and tenant under certain commercial 
+tenancy agreements. 
+ 
+Contents 
+Part A1—Preliminary 
+1 
+Short title 
+3A 
+Act does not apply to residential tenancy agreements 
+3B 
+Application of Act to Crown 
+Part 1—Forfeiture and relief 
+Division 1—Recovery of premises 
+4 
+Proceedings by landlord for non-payment of rent 
+5 
+Tenant, paying all rent, proceedings to cease 
+6 
+Damages for mesne profits 
+7 
+Saving of former remedies 
+8 
+Notice of writs by lessee to landlord 
+Division 2—Relief against forfeiture 
+9 
+Relief against forfeiture for non-payment of rent 
+10 
+No re-entry till notice to tenant to remedy breach 
+11 
+Court or judge may grant relief 
+12 
+Interpretation and application of preceding sections 
+Part 2—Distress for rent 
+13 
+Interpretation 
+13A 
+Jurisdiction of the Magistrates Court 
+14 
+Mode of distress, and warrant, authority 
+15 
+Exemption of warrants from stamp duty 
+16 
+Delivery of duplicate warrant 
+17 
+Distress for rent 
+18 
+Delivery of copy warrant and inventory to claimant 
+19 
+Rights of owner of agisted cattle, under-tenant, or lodger 
+20 
+Effect of payment to landlord 
+21 
+Duty of landlord after being served with declaration 
+22 
+Rights of owners of goods in other cases 
+23 
+Duty of landlord after service of declaration 
+24 
+Adverse claims 
+25 
+Decision of Magistrates Court 
+26 
+Power of landlord to hold goods 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Contents 
+ 
+2 
+Published under the Legislation Revision and Publication Act 2002 
+27 
+Power of landlord to sell goods if claim in his favour 
+28 
+False declarations 
+29 
+Person entitled to take declarations 
+30 
+Sale of distrained goods 
+31 
+Power to distrain corn and hay 
+32 
+Distress may be secured and sold on premises 
+33 
+Disposal of proceeds of sale 
+34 
+Sale to be by auction 
+35 
+Costs, charges etc of distress and sale 
+36 
+No appraisement necessary 
+37 
+Double damages against wrongful distrainer 
+38 
+Goods fraudulently or clandestinely removed 
+39 
+Damages or pound breach or rescue 
+40 
+Penalties, how recovered 
+41 
+Forms may be modified 
+42 
+Landlord's powers not abridged 
+43 
+Exemption of cattle and vehicles 
+43A 
+Exemption of records of health practitioner 
+45 
+Exemption of wearing apparel and tools 
+46 
+Application of preceding section 
+Part 3—Miscellaneous provisions 
+47 
+Effect of licences granted to lessees 
+48 
+Effect of restricted licence 
+49 
+Application of preceding sections 
+50 
+Apportionment of conditions of re-entry in certain cases 
+51 
+Protection of purchaser against forfeiture under covenant for insurance against fire in 
+certain cases 
+52 
+Preceding provisions to apply to leases for a term of years absolute etc 
+53 
+When the reversion on a lease is gone, the next estate to be deemed the reversion 
+Part 4—Commercial tenancy agreements 
+Division 1—Preliminary 
+54 
+Interpretation 
+55 
+Application of Part 
+Division 2—Jurisdiction of the Commercial Tribunal 
+56 
+Distribution of jurisdiction between the Tribunal and the courts 
+Division 3—Special provisions applying to commercial tenancies 
+57 
+Limitation on amounts payable with respect to entering into, extending or renewing a 
+commercial tenancy agreement 
+58 
+Rent in advance 
+59 
+Regulation of security bonds 
+60 
+All amounts paid under security bonds to be receipted and paid to Tribunal 
+61 
+Payment of security bonds by Tribunal to landlord or tenant 
+61A 
+Commercial tenancy agreements may be in registrable form 
+61B 
+Costs associated with the preparation of a written agreement 
+62 
+Provisions relating to written agreements prepared by or on behalf of landlords 
+62A 
+Landlord to provide a statement of operating expenses 
+62B 
+Landlord to bear cost of land tax 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Contents 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+3 
+63 
+Provision relating to payments on sale or assignment void unless approved by Tribunal 
+64 
+Right of tenant to assign or sublet 
+65 
+Hours of business etc 
+66 
+Implied warranty that premises reasonably fit for business of tenant 
+66A 
+Provision for five-year terms 
+66AB 
+Ability of landlord to move tenant to other premises 
+67 
+Tenancy to continue while extensions or renewals are negotiated 
+67A 
+Abandoned goods 
+Division 4—Disputes arising under commercial tenancy agreements 
+68 
+Power of Tribunal to act in any matter 
+Division 5—Commercial Tenancies Fund 
+69 
+Commercial Tenancies Fund 
+70 
+Investment of Fund 
+71 
+Accounts 
+Division 6—Miscellaneous 
+72 
+Contract to avoid 
+73 
+Tribunal may exempt tenancy agreement, class of agreement or premises from provisions 
+of Part 
+73A 
+Annual reports 
+74 
+Summary proceedings 
+75 
+Regulations 
+Schedule 1—Warrant to distrain 
+Schedule 2—Inventory 
+Schedule 3—Declaration to be made by or on behalf of owner of agisted 
+cattle or under-tenant or lodger 
+Schedule 4—Declaration under section 22 
+Schedule 5—Summons in case of adverse claim to goods distrained 
+Schedule 6—Order in case of adverse claim to agisted cattle or goods 
+distrained 
+Legislative history 
+Appendix—Divisional penalties and expiation fees 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part A1—Preliminary 
+ 
+4 
+Published under the Legislation Revision and Publication Act 2002 
+The Parliament of South Australia enacts as follows: 
+Part A1—Preliminary 
+1—Short title 
+This Act may be cited as the Landlord and Tenant Act 1936. 
+3A—Act does not apply to residential tenancy agreements 
+This Act shall not apply to or in relation to any residential tenancy agreement within 
+the meaning of the Residential Tenancies Act 1978 to which that Act applies. 
+3B—Application of Act to Crown 
+This Act binds the Crown. 
+Part 1—Forfeiture and relief 
+Division 1—Recovery of premises 
+4—Proceedings by landlord for non-payment of rent 
+ 
+(1) 
+In every case between a landlord and tenant, if— 
+ 
+(a) 
+one half-year's rent is in arrear; and 
+ 
+(b) 
+the landlord has by law the right to re-enter for non-payment thereof, 
+the landlord may bring an action for recovery of the demised premises without making 
+any formal demand for the rent or any re-entry, and the service of the writ in that 
+action shall have the effect of a demand and re-entry. 
+ 
+(2) 
+If the lessee or his assignees or other person claiming or deriving under the lease 
+permits and suffers judgment to be recovered in the action and execution to be 
+executed thereon without paying the rent and arrears together with full costs and 
+without proceeding for relief on equitable grounds within six months after such 
+execution executed, the said lessee, his assignees, and all other persons claiming under 
+the lease shall be barred and foreclosed from all relief or remedy legal or equitable 
+other than by appeal, and the landlord shall thereafter hold the demised premises 
+discharged from the lease. 
+ 
+(3) 
+Nothing in this section shall bar the right of any mortgagee of the lease or any part 
+thereof who is not in possession, if such mortgagee within six months after such 
+execution executed pays all rent in arrear, and all costs and damages sustained by the 
+landlord, and performs all the covenants and agreements which on the part and behalf 
+of the first lessee are and ought to be performed. 
+5—Tenant, paying all rent, proceedings to cease 
+If the tenant or his assignee at any time before the hearing of the action for recovery of 
+the land pays or tenders to the landlord, or his executors, or administrators, or his or 
+their solicitor in the action or pays into the court all the rent and arrears due at the time 
+of such payment, together with the costs, all further proceedings in the action shall 
+thereupon cease and be discontinued. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Forfeiture and relief—Part 1 
+Recovery of premises—Division 1 
+Published under the Legislation Revision and Publication Act 2002 
+5 
+6—Damages for mesne profits 
+ 
+(1) 
+On the hearing of any action brought by a landlord against a tenant for recovery of the 
+demised premises the judge, if satisfied that the defendant has been served with due 
+notice of the hearing, shall, whether the defendant appears on the trial or not, permit 
+the plaintiff, after proof of his right to recover possession of the whole or of any part 
+of the demised land, to adduce evidence of the mesne profits thereof, which accrued or 
+might have accrued from the day of the expiration or determination of the tenant's 
+interest in the land, down to the time of the judgment given in the action, or to some 
+preceding day to be specially mentioned therein; and judgment shall be given upon the 
+whole matter, both as to the recovery of the whole or any part of the land, and also as 
+to the amount of the damages to be paid for such mesne profits; and in such case the 
+landlord shall have judgment, not only for the recovery of possession and costs, but 
+also for the mesne profits found. 
+ 
+(2) 
+Nothing in this section shall be construed to bar any landlord from bringing any action 
+for the mesne profits which accrue from the time of the judgment or the day so 
+specified therein, down to the day of the delivery of possession of the premises 
+recovered in the action. 
+7—Saving of former remedies 
+Nothing in the preceding three sections shall prejudice or affect any other right of 
+action or remedy which landlords possess in any of the cases provided for, in these 
+sections, except as therein expressly enacted. 
+8—Notice of writs by lessee to landlord 
+Every tenant to whom there is delivered any writ for the recovery of the premises 
+demised to or held by him, or to whose knowledge any such writ comes, shall (except 
+where the landlord is the plaintiff named in the writ) forthwith give notice thereof to 
+the landlord or his agent; and if he fails to do so shall be liable to forfeit to the person 
+of whom he holds the premises an amount equal to the value of three years improved 
+or rack rent of the premises, to be recovered by action in any court having jurisdiction 
+in respect of claims for that amount. 
+Division 2—Relief against forfeiture 
+9—Relief against forfeiture for non-payment of rent 
+ 
+(1) 
+In the case of any action in the Supreme Court for recovery of land on forfeiture for 
+non-payment of rent, the court or a judge may, upon summons, give relief on equitable 
+grounds in a summary manner, up to and within the same time after execution 
+executed, and subject to the same terms and conditions in all respects as to payment of 
+rent, costs, and otherwise, as would have applied in the Supreme Court in its equitable 
+jurisdiction before the passing of the Supreme Court Act 1878. 
+ 
+(2) 
+If the lessee, his executors, administrators, or assigns are so relieved, they shall hold 
+the demised lands according to the terms of the lease and without any new lease. 
+ 
+(3) 
+If such relief is granted, the court or judge shall direct a minute thereof to be made, by 
+endorsement on the lease or otherwise. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 1—Forfeiture and relief 
+Division 2—Relief against forfeiture 
+6 
+Published under the Legislation Revision and Publication Act 2002 
+10—No re-entry till notice to tenant to remedy breach 
+A right of re-entry or forfeiture under any proviso or stipulation in a lease for a breach 
+of any covenant or condition in the lease shall not be enforceable by action or 
+otherwise, unless and until— 
+ 
+(a) 
+the lessor serves on the lessee a notice specifying the particular breach 
+complained of, and, if the breach is capable of remedy, requiring the lessee to 
+remedy the breach, and in any case requiring the lessee to make compensation 
+in money for the breach; and 
+ 
+(b) 
+the lessee fails within a reasonable time thereafter to remedy the breach, if it 
+is capable of remedy, and to make reasonable compensation in money to the 
+satisfaction of the lessor for the breach. 
+11—Court or judge may grant relief 
+ 
+(1) 
+Where a lessor is proceeding by action or otherwise to enforce such a right of re-entry 
+or forfeiture the lessee may, in the lessor's action (if any), or in any action brought by 
+himself, apply to the Supreme Court or a judge thereof for relief, and the court or 
+judge may grant or refuse relief as such court or judge, having regard to the 
+proceedings and conduct of the parties under the last preceding section and to all other 
+circumstances, may think fit. 
+ 
+(2) 
+If the court or judge grants relief it or he may grant it on such terms (if any) as to 
+costs, expenses, damages, compensation, penalty, or otherwise, including the granting 
+of an injunction to restrain any like breach in the future, as the court or judge in the 
+circumstances of each case thinks fit. 
+12—Interpretation and application of preceding sections 
+ 
+(1) 
+For the purposes of the two preceding sections a lease includes an original lease or a 
+derivative under-lease, or a grant securing a rent by condition, and a lessee includes an 
+original lessee or derivative under-lessee, and the heirs, executors, administrators, and 
+assigns of a lessee, also a grantee under such a grant as aforesaid, his heirs and 
+assigns; and a lessor includes an original lessor or derivative under-lessor, and his 
+heirs, executors, administrators, and assigns, also a grantor as aforesaid, and his heirs 
+and assigns. 
+ 
+(2) 
+The said sections shall apply, although the provision or stipulation under which the 
+right of re-entry or forfeiture accrues is inserted in the lease in pursuance of any Act. 
+ 
+(3) 
+For the purposes of the said sections a lease limited to continue as long only as the 
+lessee abstains from committing a breach of covenant shall be and take effect as a 
+lease to continue for any longer term for which it could subsist, but determinable by a 
+proviso for re-entry on such a breach. 
+ 
+(4) 
+The said sections shall extend to a covenant or condition against assigning, 
+under-letting, parting with the possession, or disposing of the land leased, when the 
+consent of the lessor has been vexatiously or capriciously withheld. 
+ 
+(5) 
+The said sections shall not apply to Crown leases nor affect the law relating to re-entry 
+and forfeiture for non-payment of rent. 
+ 
+(6) 
+The said sections shall apply to leases made either before or after the commencement 
+of this Act, and shall have effect notwithstanding any stipulation to the contrary. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Distress for rent—Part 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+7 
+Part 2—Distress for rent 
+13—Interpretation 
+In this Part, unless the context otherwise requires— 
+goods means any cattle, horses, livestock, furniture, goods, chattels, effects, or things 
+which are by law liable to be distrained for rent, and includes lodgers' goods, but, 
+except in sections subsequent to section 29, shall not include agisted cattle; 
+health practitioner means a registered health practitioner under the Health 
+Practitioner Regulation National Law and includes a person who was, but is no 
+longer, registered in a health profession under that law (or a previous corresponding 
+Act of the State); 
+immediate tenant means the person owing or alleged to owe any rent, in respect of 
+which a distress has been or is levied or threatened or authorised to be levied; 
+landlord means any person having power to distrain for rent due to him; 
+record means— 
+ 
+(a) 
+a documentary record; or 
+ 
+(b) 
+a record made by electronic, electromagnetic, photographic or optical 
+process; or 
+ 
+(c) 
+any other kind of record; 
+rent means any rent reserved upon or payable by virtue of any demise, lease, contract, 
+or charge whatsoever for which a distress may lawfully be levied. 
+Note— 
+For definition of divisional penalties (and divisional expiation fees) see Appendix. 
+13A—Jurisdiction of the Magistrates Court 
+ 
+(1) 
+The Magistrates Court has jurisdiction to hear and determine any application or other 
+proceeding under this Part. 
+ 
+(2) 
+If a proceeding before the Magistrates Court involves a monetary claim, or property 
+with a value, that exceeds the amount by reference to which the jurisdictional limit of 
+the Magistrates Court is fixed, the Magistrates Court must on the application of a party 
+to the proceeding refer the proceeding to the District Court. 
+ 
+(3) 
+If a proceeding is referred to the District Court, the Court has, in addition to the 
+powers that it has apart from this section, the powers that the Magistrates Court has 
+under this Part. 
+14—Mode of distress, and warrant, authority 
+ 
+(1) 
+No person to whom any rent is due shall distrain any goods for such rent except by 
+himself personally, or by some person duly authorised by warrant under his hand, or 
+the hand of his agent lawfully authorised. 
+ 
+(2) 
+Every such warrant shall be in duplicate, and in the form or to the effect of the form in 
+Schedule 1, and shall be attested by a witness. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 2—Distress for rent 
+ 
+8 
+Published under the Legislation Revision and Publication Act 2002 
+15—Exemption of warrants from stamp duty 
+Notwithstanding any other enactment, no warrant or authority to distrain shall be 
+chargeable with any stamp duty. 
+16—Delivery of duplicate warrant 
+ 
+(1) 
+Every person distraining for rent on behalf of another shall, at the time of making the 
+distress, deliver one duplicate of the warrant authorising him to distrain to the 
+immediate tenant, or some person residing on the premises where the distress is 
+levied. 
+ 
+(2) 
+If there is no person residing on the said premises with whom the duplicate can be left, 
+the person distraining shall nail or affix the duplicate on some conspicuous part of the 
+premises, and a copy of the affixed notice shall be posted to the tenant's last known 
+address. 
+17—Distress for rent 
+ 
+(1) 
+Every person making a distress for rent shall do so between the hours of six in the 
+morning and six in the afternoon. 
+ 
+(2) 
+Every person making a distress for rent shall forthwith make out a written inventory of 
+the goods distrained in the form in Schedule 2, or in a form to the like effect. 
+ 
+(3) 
+The inventory shall be dated on the day of the distress, and shall be signed by the 
+person making the distress, who shall thereupon deliver a copy thereof to the 
+immediate tenant, or some person residing on the premises where the distress is 
+levied. 
+ 
+(4) 
+If there is no person residing on the said premises with whom the copy can be left, the 
+person distraining shall nail or affix the copy on some conspicuous part of those 
+premises, and a copy of the affixed notice shall be posted to the tenant's last known 
+address. 
+18—Delivery of copy warrant and inventory to claimant 
+ 
+(1) 
+Every person distraining for rent shall on demand deliver one copy of the warrant (if 
+any) under which the distress is levied, and a copy of the inventory in the last 
+preceding section mentioned, to every person claiming an interest in the goods 
+distrained, on payment of a charge at such rate or basis as may be prescribed from 
+time to time by rules of court made under the Local and District Criminal Courts 
+Act 1926, as amended. 
+ 
+(2) 
+Any person refusing or neglecting so to supply such copy shall be guilty of an offence, 
+and liable to a penalty not exceeding ten dollars. 
+19—Rights of owner of agisted cattle, under-tenant, or lodger 
+ 
+(1) 
+If any landlord levies, or threatens to levy, or authorises to be levied, a distress on any 
+cattle agisted on the demised premises, or on any goods being the property or in the 
+lawful possession otherwise than as sub-tenant of any under-tenant other than the 
+immediate tenant, or of any lodger, for arrears of rent due to such landlord by his 
+immediate tenant, the owner of such agisted cattle, or his agent, or such under-tenant 
+or lodger, or his agent, may serve the landlord or the person authorised by him to levy 
+such distress, with a declaration in writing in or to the effect of the form in Schedule 3, 
+signed by such owner or his agent, or such under-tenant or lodger or his agent. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Distress for rent—Part 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+9 
+ 
+(2) 
+The declaration shall— 
+ 
+(a) 
+set forth that the immediate tenant has no right of property or beneficial 
+interest in such cattle other than his lien for agistment, if any, or that he has 
+no right of property or beneficial interest in such goods, and that such cattle 
+are the property of such under-tenant or owner, or that such goods are the 
+property of such lodger, or are, or immediately prior to being distrained were, 
+in his lawful possession; and 
+ 
+(b) 
+state whether any and what money is due for agistment, rent, or lodging, and 
+for what period, from such owner, under-tenant, or lodger to the immediate 
+tenant, and if no such money is due, then stating that fact; and 
+ 
+(c) 
+have annexed thereto a correct inventory signed by the declarant of the cattle 
+or goods referred to in the declaration. 
+ 
+(3) 
+And such owner, under-tenant, or lodger, may pay to the landlord, or to the person 
+authorised by him as aforesaid, the amount so due for agistment, rent, or lodging, or so 
+much thereof as shall be sufficient to discharge the claim of such landlord and his 
+lawful charges. 
+20—Effect of payment to landlord 
+Any payment made by an owner of agisted cattle, or an under-tenant, or lodger, 
+pursuant to the last preceding section, shall be deemed a valid payment on account of 
+any moneys due for agistment, rent, or lodging from him to the immediate tenant. 
+21—Duty of landlord after being served with declaration 
+Subject to the provisions of section 26, if any landlord, or any person authorised by a 
+landlord, after being served with the said declaration and inventory, and in case any 
+money is at the time of making such declaration due for agistment, rent, or lodging, as 
+mentioned in section 19 of this Act, after payment to him of the money which by such 
+section the owner of the agisted cattle, or the under-tenant, or lodger, is authorised to 
+pay, levies or proceeds with a distress on such cattle, being the property of the person 
+by or on whose behalf they have been claimed, or on the goods of the under-tenant or 
+lodger, or goods which immediately prior to being distrained were in his lawful 
+possession, that landlord, and the person so authorised, if any, shall if the immediate 
+tenant had at the time of the service of the said declaration and inventory no right of 
+property or beneficial interest in such agisted cattle other than his lien for agistment, if 
+any, or in such goods, be deemed guilty of an irregular distress, and shall be liable to 
+an action on the application of such under-tenant or lodger, but shall not be deemed 
+trespassers ab initio. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 2—Distress for rent 
+ 
+10 
+Published under the Legislation Revision and Publication Act 2002 
+22—Rights of owners of goods in other cases 
+If, in any case not coming within section 19 of this Act, any landlord levies, threatens 
+to levy, or authorises to be levied, a distress on any goods being the property or in the 
+lawful possession of any person other than the immediate tenant, such person or his 
+agent may serve the landlord, or the person authorised by him to levy such distress, 
+with a declaration in, or to the effect of, the form in Schedule 4, signed by the first 
+mentioned person or his agent, setting forth that the immediate tenant has no right of 
+property or beneficial interest in such goods, and that such goods are the property of 
+such first mentioned person, or are, or immediately prior to being distrained were, in 
+his lawful possession; and to such declaration shall be annexed an inventory, signed 
+by the declarant, of the goods referred to in the declaration. 
+23—Duty of landlord after service of declaration 
+Subject to the provisions hereinafter contained and to the person who claims the goods 
+proceeding, as provided in the next section before the sale thereof, and obtaining a 
+decision in his favour, if any landlord or any person authorised by a landlord, after 
+being served with the declaration and inventory provided for by the last preceding 
+section, levies or proceeds with a distress on the goods mentioned in the inventory, 
+being the property of the person by whom or on whose behalf the declaration and 
+inventory was served, or having been immediately prior to such distress in his lawful 
+possession, that landlord, and the person so authorised, if any, shall, if the immediate 
+tenant had at the time of such service no right of property or beneficial interest in the 
+goods, be deemed guilty of an irregular distress, and be liable to an action therefor, but 
+shall not be deemed trespassers ab initio. 
+24—Adverse claims 
+ 
+(1) 
+When any claim is made by service of a declaration and inventory, by any person 
+other than the immediate tenant, to or in respect of any agisted cattle or goods 
+distrained, or threatened to be distrained, by any landlord for rent, any justice of the 
+peace, upon complaint in writing by either the landlord or the claimant preferred 
+before the sale of such goods under the distress (where the cattle or goods have been 
+actually distrained) by the person making the claim, may— 
+ 
+(a) 
+issue a summons in the form in Schedule 5, or in a form to the like effect, 
+directed as well to the landlord as to the person making the claim; and 
+ 
+(b) 
+in his discretion order such sale to be postponed until the summons has been 
+disposed of. 
+ 
+(2) 
+The Magistrates Court, on hearing a claim under subsection (1), may make such 
+orders, including orders as to costs, as the Court thinks fit. 
+ 
+(3) 
+Service of the summons or order on a person authorised by the landlord to distrain 
+shall be deemed service on the landlord, and service of the summons or order on a 
+person who has made a claim on behalf of another shall be deemed service on the 
+principal. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Distress for rent—Part 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+11 
+25—Decision of Magistrates Court 
+If it appears upon the hearing of the complaint that— 
+ 
+(a) 
+the agisted cattle claimed were the property of the person alleged to be the 
+owner thereof, or that the goods claimed, or part of them, were the property or 
+in the lawful possession of the claimant, being an under-tenant or lodger; and 
+ 
+(b) 
+the immediate tenant had no right of property or beneficial interest in such 
+cattle, other than his lien for agistment, if any, or in such goods; but 
+ 
+(c) 
+the claimant did not, before the complaint was preferred, pay to the landlord, 
+or the person authorised by him to distrain, all moneys due by the owner of 
+the cattle, or by the under-tenant or lodger to the immediate tenant for 
+agistment, rent, or lodging, or so much thereof as was sufficient to discharge 
+the claim of such landlord and his lawful charges, 
+the Magistrates Court must decide accordingly and the decision will be taken to be in 
+favour of the landlord. 
+26—Power of landlord to hold goods 
+Where any complaint is preferred as in section 24 mentioned, the landlord may, at his 
+option, where the agisted cattle or the goods have been distrained before the making of 
+the claim, hold the cattle or goods claimed until the claim has been adjudicated upon; 
+and the costs of such holding, and of holding possession from the making of the claim 
+until the adjudication, or such part thereof as the Magistrates Court thinks fit, will, if 
+the Court so orders, be added to the costs of the distress, or paid by the claimant to the 
+landlord. 
+27—Power of landlord to sell goods if claim in his favour 
+The landlord may seize or reseize any agisted cattle or any goods as to which the 
+decision is in his favour wherever they may be found, and, if necessary, may, between 
+sunrise and sunset only, break into any premises where those cattle or goods may be, 
+or may reasonably be supposed to be, and may deal with any such cattle or goods as if 
+no such claim had been made, although he may have previously sold other cattle or 
+goods distrained at the same time, and no fresh claim has been made by the same 
+claimant. 
+28—False declarations 
+If any person wilfully makes or signs any false declaration or inventory under this Part 
+he shall be guilty of an offence, punishable by imprisonment for any term not 
+exceeding twelve calendar months. 
+29—Person entitled to take declarations 
+A declaration under this Part may be made before a justice of the peace, notary public, 
+commissioner for taking affidavits in the Supreme Court, or practitioner of the 
+Supreme Court or clerk of a local court. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 2—Distress for rent 
+ 
+12 
+Published under the Legislation Revision and Publication Act 2002 
+30—Sale of distrained goods 
+Where goods are distrained for rent, and are not replevied within five days next after 
+the delivery or affixing of the copy of the inventory provided for by section 17, the 
+landlord may, at the expiration of those five days, subject to the provisions hereinafter 
+contained, and unless payment or tender of the rent and the charges in respect of the 
+distress be made to him by or on behalf of the tenant before sale, sell the goods 
+distrained for the best price that can be obtained. 
+31—Power to distrain corn and hay 
+Any landlord or his agent may distrain any sheaves of corn, or corn loose, or in the 
+straw, or hay lying on the ground, or being in any barn, granary, hovel, stock, or rick, 
+or otherwise upon any part of the land subject to the rent, and may deal therewith as 
+he might have dealt with any other goods distrained for rent, except that corn or hay so 
+distrained shall not be removed by the landlord or his agent out of the place where it 
+was seized, if such removal would depreciate its value, but shall be kept there (as 
+impounded) until it is replevied or sold. 
+32—Distress may be secured and sold on premises 
+ 
+(1) 
+Any landlord or his agent may impound or otherwise secure goods distrained for rent, 
+in such place, or on such part of the premises subject to the rent, as are most fit and 
+convenient for impounding and securing them, and may sell and dispose of them upon 
+the premises, or, where the goods cannot be advantageously disposed of upon the said 
+premises, may remove them to some more convenient place for disposal. 
+ 
+(2) 
+Any other person or persons may, after the expiration of the five days hereinbefore 
+mentioned, come and go to and from the place or part of the said premises where the 
+goods are impounded and secured in order to view or buy the goods, or remove them 
+on account of the purchaser thereof. 
+ 
+(3) 
+If any rescue or pound breach is made of any goods distrained, the person aggrieved 
+thereby shall, in an action for the wrong sustained, recover damages and costs against 
+the offender or offenders, or any or either of them, or against the immediate tenant or 
+the owner of the goods distrained, if the goods afterwards have come to his use or 
+possession. 
+33—Disposal of proceeds of sale 
+The proceeds of any such sale shall be applied as follows: First, in payment of the 
+costs of and incident to such distress and sale; and next, in satisfaction of the rent for 
+which the distress was made; and the overplus (if any) of such proceeds shall be paid 
+into the hands of the immediate tenant, or, in his absence, to the clerk of the local 
+court nearest to the place where such distress is levied, for the use of such immediate 
+tenant. 
+34—Sale to be by auction 
+The sale of any goods distrained for rent shall be by public auction, of which full and 
+reasonable notice shall be given; and such sale shall be conducted by a licensed 
+auctioneer, or may, with the written consent of the immediate tenant, be made by the 
+landlord or his agent. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Distress for rent—Part 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+13 
+35—Costs, charges etc of distress and sale 
+In relation to any distress and sale under the provisions of this Part, such charges and 
+costs as are appropriate and as may be prescribed in that behalf from time to time by 
+rules of court which may be made under the Local and District Criminal Courts 
+Act 1926, as amended, shall be payable in accordance with the rules. 
+36—No appraisement necessary 
+In no case of distress under this Part shall any appraisement whatever be necessary, 
+nor shall any costs or expenses be charged or allowed in respect thereof. 
+37—Double damages against wrongful distrainer 
+If any distress and sale is made for rent alleged to be due where in truth no rent was 
+due to the person by whom or in whose name or right the distress was levied, the 
+owner of the goods distrained and sold, his executors or administrators, may, by action 
+against that person, recover double the value of the goods so distrained and sold, 
+together with costs as between solicitor and client. 
+38—Goods fraudulently or clandestinely removed 
+If the immediate tenant, before, at, or within fourteen days after the expiration of his 
+term or tenancy, fraudulently or clandestinely removes any goods from the premises in 
+respect of which rent is due by him to prevent the landlord from distraining upon the 
+goods for rent, it shall be lawful for the landlord or his agent, within the space of thirty 
+days next after the removal of those goods, to take and seize them wherever they are 
+found as a distress for the said rent, and to sell and dispose of them in like manner as 
+if they had actually been distrained by the landlord in and upon such premises for such 
+rent; but no landlord shall seize or take any such goods which, before such seizure, 
+have been sold bona fide and for a valuable consideration to any person not privy to 
+the fraud or clandestine removal. 
+39—Damages or pound breach or rescue 
+Upon any pound breach or rescue of goods distrained for rent, the person injured 
+thereby shall, in an action upon the case for the wrong thereby sustained, recover 
+treble damages with costs against the offender or against the owner of the goods 
+distrained if they afterwards come into his use or possession. 
+40—Penalties, how recovered 
+Penalties for offences against this Part may be recovered in a summary way on the 
+complaint of any person. 
+41—Forms may be modified 
+The forms in the Schedules may be modified according to circumstances. 
+42—Landlord's powers not abridged 
+So far as consistent with this Part, nothing in the previous sections of this Part shall 
+affect or abridge any right, remedy, or power of any landlord by statute, common law, 
+or otherwise howsoever conferred upon or vested in him. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 2—Distress for rent 
+ 
+14 
+Published under the Legislation Revision and Publication Act 2002 
+43—Exemption of cattle and vehicles 
+Cattle and vehicles at livery, with all saddles, bridles, and other harness belonging or 
+appertaining thereto are hereby exempted from distress for rent. 
+43A—Exemption of records of health practitioner 
+ 
+(1) 
+A record of a health practitioner prepared or held in the course of, or for the purpose 
+of, that practitioner's work as a practitioner is exempted from distress for rent. 
+ 
+(2) 
+If, prior to the commencement of this section, a landlord distrained for rent a record of 
+the kind referred to in subsection (1), the landlord must— 
+ 
+(a) 
+unless a direction is given under paragraph (b), take reasonable steps to return 
+the record to the health practitioner to whose practice the record relates; or 
+ 
+(b) 
+if directed to do so by the Minister for Health, deliver the record to a person 
+nominated by the Minister for Health. 
+45—Exemption of wearing apparel and tools 
+ 
+(1) 
+Wearing apparel, tools and implements of trade, and household requisites to the total 
+value of twenty dollars shall be exempt from seizure under any distress for rent, and 
+such goods are hereby protected from such seizure. 
+ 
+(2) 
+The word value as applied to goods in this section means value of such goods at a 
+forced sale. The value of any article protected under the preceding section of this Act 
+shall not be taken into account in computing the said sum of twenty dollars. 
+46—Application of preceding section 
+ 
+(1) 
+The two last preceding sections shall not extend to any case where the lease, term, or 
+interest of the tenant has expired, and where possession of the premises in respect of 
+which the rent is claimed has been demanded in writing, and where the distress is 
+made not earlier than seven days after such demand. 
+ 
+(2) 
+The said sections shall be taken as providing for and supplementing exemptions, and 
+not limiting any exemption already existing. 
+Part 3—Miscellaneous provisions 
+47—Effect of licences granted to lessees 
+ 
+(1) 
+Where a licence is granted to a lessee or his assigns to do any act which without the 
+licence would create a forfeiture, or give a right to re-enter, the licence, unless 
+otherwise expressed, shall extend only— 
+ 
+(a) 
+to the permission actually given; or 
+ 
+(b) 
+to the specific breach of any proviso or covenant made or to be made; or 
+ 
+(c) 
+to the actual assignment under lease or other matter specifically authorised by 
+the licence to be done, 
+and the licence shall not prevent any proceeding for any subsequent breach unless 
+otherwise specified in the licence. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Miscellaneous provisions—Part 3 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+15 
+ 
+(2) 
+Notwithstanding any such licence— 
+ 
+(a) 
+all rights under covenants and powers of re-entry contained in the lease shall 
+remain in full force, and be available as against any subsequent breach of 
+covenant, or condition or assignment under lease or other matter not 
+specifically authorised or waived, in the same manner as if no licence had 
+been granted; and 
+ 
+(b) 
+the condition or right of entry remains in force in all respects as if the licence 
+had not been granted, save in respect of the particular matter authorised to be 
+done. 
+48—Effect of restricted licence 
+Where in any lease there is a power or condition of re-entry on the lessee assigning, 
+subletting, or doing any other specified act without a licence, and a licence is 
+granted— 
+ 
+(a) 
+to one of two or more lessees or co-owners to do any act; or 
+ 
+(b) 
+to any lessee or owner, or to any one of two or more lessees or owners to 
+assign or underlet part only of the property, or to do any act in respect of part 
+only of the property; 
+the licence does not operate to extinguish the right of entry in case of any breach of 
+covenant or condition by any co-lessee or owner of any other share or interest in the 
+property, or by any lessee or owner of the rest of the property (as the case may be), in 
+respect of such shares or interests or remaining property, but the right of entry remains 
+in force in respect of the shares, interests, or property not the subject of the licence. 
+49—Application of preceding sections 
+The two preceding sections apply to licences granted after the first day of November, 
+1860, in respect of leases whether granted before or after that date. 
+50—Apportionment of conditions of re-entry in certain cases 
+Where the reversion upon a lease is severed, and the rent or other reservation is legally 
+apportioned, the assignee of each part of the reversion, shall, in respect of the 
+apportioned rent or other reservation allotted or belonging to him have, and be entitled 
+to the benefit of all conditions or powers of re-entry for non-payment of the original 
+rent, or other reservation, in like manner as if such conditions or powers had been 
+reserved to him as incident to his part of the reversion, in respect of the apportioned 
+rent, or other reservation, allotted or belonging to him. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 3—Miscellaneous provisions 
+ 
+16 
+Published under the Legislation Revision and Publication Act 2002 
+51—Protection of purchaser against forfeiture under covenant for insurance 
+against fire in certain cases 
+ 
+(1) 
+Where on the bona fide purchase of a leasehold interest, under a lease containing a 
+covenant on the part of the lessee to insure against loss or damage by fire, the 
+purchaser is furnished with the written receipt of the person entitled to receive the 
+rent, or his agent, for the last payment of rent accrued due before the completion of the 
+purchase, and there is subsisting at the time of the completion of the purchase an 
+insurance in conformity with the covenant, the purchaser or any person claiming under 
+him shall not be subject to any liability by way of forfeiture or damages, or otherwise, 
+in respect of any breach of the covenant committed at any time before the completion 
+of the purchase of which the purchaser had not notice before the completion of the 
+purchase: but this provision is not to take away any remedy which the lessor or his 
+legal representatives may have against the lessee or his legal representatives for 
+breach of covenant. 
+ 
+(2) 
+This section applies to all purchases made after the first day of November, 1860. 
+52—Preceding provisions to apply to leases for a term of years absolute etc 
+The preceding sections of this Part shall be applicable to leases for a term of years 
+absolute or determinable on a life or lives or otherwise, and also to a lease for the life 
+of the lessee, or the life or lives of any person or persons. 
+53—When the reversion on a lease is gone, the next estate to be deemed the 
+reversion 
+When the reversion expectant on a lease of any land is surrendered or merges, the 
+estate which for the time being confers as against the tenant under that lease the next 
+vested right to the land shall, to the extent necessary for the purpose of preserving 
+those incidents to and obligations on the reversion, which but for the surrender or 
+merger thereof would have subsisted, be deemed the reversion expectant on the lease. 
+Part 4—Commercial tenancy agreements 
+Note— 
+Part 4 has been repealed by section 81 of the Retail Shop Leases Act 1995 but continues to apply 
+(with modifications prescribed by regulation) to retail shop leases entered into before 30 June 
+1995: see Legislative history. 
+Division 1—Preliminary 
+54—Interpretation 
+In this Part, unless the contrary intention appears— 
+administrative and management costs in relation to premises means— 
+ 
+(a) 
+costs associated with— 
+ 
+(i) 
+managing the premises; or 
+ 
+(ii) 
+providing amenities for the use or enjoyment of tenants or those who 
+may resort to the premises; or 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Commercial tenancy agreements—Part 4 
+Preliminary—Division 1 
+Published under the Legislation Revision and Publication Act 2002 
+17 
+ (iii) promoting the use of the premises by the public or promoting any 
+business carried on at the premises; or 
+ (iv) providing for the security of the premises; or 
+ 
+(v) 
+providing caretaking services for the premises; or 
+ (vi) any other prescribed matter; and 
+ 
+(b) 
+if the premises form part of a shopping complex—any such costs associated 
+with the complex as a whole; 
+business means an undertaking (whether or not carried on with a view to profit) 
+involving the manufacture, sale or supply of goods or services; 
+commercial tenancy or tenancy means the right of occupancy under a commercial 
+tenancy agreement; 
+commercial tenancy agreement means an agreement under which a person grants to 
+another for valuable consideration a right to occupy, whether exclusively or 
+otherwise, premises for the purpose of carrying on a business; 
+the Commercial Tribunal or the Tribunal means the Commercial Tribunal 
+established under the Commercial Tribunal Act 1982; 
+government charges means— 
+ 
+(a) 
+any rates or taxes on land or premises; 
+ 
+(b) 
+any fees, charges or levies chargeable by the Crown, a council or a statutory 
+authority for services provided to land or premises; 
+landlord means the grantor of a right of occupancy under a commercial tenancy 
+agreement and includes his successors and assigns; 
+licensed agent means a person licensed as an agent under the Land Agents, Brokers 
+and Valuers Act 1973; 
+licensed land broker means a person licensed as a land broker under the Land 
+Agents, Brokers and Valuers Act 1973; 
+maintenance costs in relation to premises includes— 
+ 
+(a) 
+the costs of— 
+ 
+(i) 
+operating, maintaining, repairing or renovating the premises; and 
+ 
+(ii) 
+providing, operating, maintaining, repairing or replacing plant or 
+equipment associated with the premises; and 
+ 
+(b) 
+if the premises form part of a shopping complex—any such costs associated 
+with the complex as a whole; 
+operating expenses means expenses that may be recovered by or on behalf of the 
+landlord from the tenant under a commercial tenancy agreement on account of— 
+ 
+(a) 
+administrative and management costs; or 
+ 
+(b) 
+government charges; or 
+ 
+(c) 
+insurance costs; or 
+ 
+(d) 
+maintenance costs; or 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 4—Commercial tenancy agreements 
+Division 1—Preliminary 
+18 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(e) 
+any prescribed expenses, 
+but for the purposes of section 62A does not include any such expenses determined 
+according to the level of the tenant's consumption or the degree of the tenant's use; 
+premises includes— 
+ 
+(a) 
+any part of premises; and 
+ 
+(b) 
+land and appurtenances appurtenant to premises; and 
+ 
+(c) 
+unimproved land; 
+registrable form in relation to a lease means the form appropriate for registration of 
+the lease in the Lands Titles Registration Office or if the land to which the lease 
+applies (or is to apply) is not under the Real Property Act 1886 in the General 
+Registry Office; 
+related guarantee in relation to a commercial tenancy agreement means a guarantee 
+under which the guarantor guarantees the performance of obligations by the tenant 
+under the commercial tenancy agreement; 
+rent means an amount payable by a tenant to a landlord under a commercial tenancy 
+agreement in consideration of the right to occupy the premises to which the agreement 
+relates (but does not include any amount payable by the tenant under the agreement in 
+respect of operating expenses); 
+security bond means an agreement (whether included in or collateral to a commercial 
+tenancy agreement) under which an amount is paid by a tenant as security for the 
+performance of his obligations under a commercial tenancy agreement; 
+shop premises means business premises— 
+ 
+(a) 
+at which goods are sold to the public by retail; or 
+ (ab) at which services are supplied to the public; or 
+ 
+(b) 
+to which the public is invited with a view to negotiating for the supply of 
+services; 
+shopping complex means a set of two or more shop premises in the same building or 
+in adjacent buildings subject to the same administration or control and includes any 
+adjacent land subject to the same administration or control that is used in conjunction 
+with those premises; 
+small claim means a small claim within the meaning of the Local and District 
+Criminal Courts Act 1926; 
+tenant means the grantee of a right of occupancy under a commercial tenancy 
+agreement and includes his successors and assigns. 
+55—Application of Part 
+ 
+(1) 
+Subject to this section, this Part applies to a commercial tenancy agreement if— 
+ 
+(a) 
+the premises to which the agreement applies— 
+ 
+(i) 
+are shop premises or premises of a prescribed kind; or 
+ 
+(ii) 
+consist of shop premises and an adjacent dwelling; and 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Commercial tenancy agreements—Part 4 
+Preliminary—Division 1 
+Published under the Legislation Revision and Publication Act 2002 
+19 
+ 
+(b) 
+the rent payable under the agreement does not exceed $200 000 per annum; 
+and 
+ 
+(c) 
+the tenancy created by the agreement is not of a kind excluded from the 
+application of this Part by or under subsection (2); and 
+ 
+(d) 
+the commercial tenancy agreement is entered into, extended, renewed, 
+assigned or otherwise transferred after the commencement of this Part. 
+ 
+(2) 
+This Part does not apply in respect of a commercial tenancy— 
+ 
+(a) 
+where the tenancy arises under an agreement for the sale and purchase of 
+premises; or 
+ 
+(b) 
+where the tenancy arises under a mortgage in respect of the premises; or 
+ 
+(c) 
+where the tenancy arises by virtue of a scheme under which— 
+ 
+(i) 
+a group of adjacent premises is owned by a company; and 
+ 
+(ii) 
+the premises comprising the group are let by the company to persons 
+who jointly have a controlling interest in the company; or 
+ 
+(d) 
+where the tenant is— 
+ 
+(i) 
+a public company within the meaning of the Companies (South 
+Australia) Code; or 
+ 
+(ii) 
+a subsidiary of such a company (as defined by the Companies (South 
+Australia) Code); or 
+ 
+(e) 
+where the tenant is— 
+ 
+(i) 
+a body corporate lawfully carrying on the business of banking; or 
+ 
+(f) 
+where the tenant is a body corporate whose principal business is insurance; 
+or 
+ 
+(g) 
+where the tenant is— 
+ 
+(i) 
+the Crown, or an agency or instrumentality of the Crown, in right of 
+this State or any other State or Territory, or of the Commonwealth; 
+or 
+ 
+(ii) 
+a municipal or district council. 
+ 
+(3) 
+The regulations may exclude from the application of this Part or specified provisions 
+of this Part (either unconditionally or subject to conditions)— 
+ 
+(a) 
+agreements or classes of agreements; or 
+ 
+(b) 
+premises or classes of premises. 
+Division 2—Jurisdiction of the Commercial Tribunal 
+56—Distribution of jurisdiction between the Tribunal and the courts 
+ 
+(1) 
+Subject to this section, an action involving a claim arising under or in respect of a 
+commercial tenancy agreement to which this Part applies or a related guarantee 
+should be commenced before the Commercial Tribunal. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 4—Commercial tenancy agreements 
+Division 2—Jurisdiction of the Commercial Tribunal 
+20 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(2) 
+An action involving a claim arising under or in respect of a commercial tenancy 
+agreement to which this Part applies or a related guarantee should be commenced 
+before a court if— 
+ 
+(a) 
+the action involves a claim (other than a claim for costs, interest or other 
+incidental relief) that is unrelated to the commercial tenancy agreement or 
+related guarantee; or 
+ 
+(b) 
+the action involves a small claim and no other claim (apart from a claim for 
+costs, interest or both); or 
+ 
+(c) 
+the action involves a claim for personal injury; or 
+ 
+(d) 
+the action involves a monetary claim in excess of the prescribed amount; or 
+ 
+(e) 
+it may be necessary to effect service on a party to the action outside the State. 
+ 
+(3) 
+If an action that should have been commenced before the Tribunal is commenced 
+before a court, or an action that should have been commenced before a court is 
+commenced before the Tribunal, the action is not a nullity but the Tribunal or the 
+court should transfer the action to the appropriate forum where it will proceed as if 
+commenced in that forum. 
+ 
+(4) 
+Subject to the regulations relating to the practice and procedure of the Tribunal, if an 
+action is properly commenced before the Tribunal but the character of the action is 
+subsequently changed by the addition or amendment of claims, or the introduction of 
+cross claims, so that the action, if it had had that character at its inception, should 
+have been commenced in a court, the Tribunal should transfer the action to a court. 
+ 
+(5) 
+The court in which an action should be commenced, or to which an action should be 
+transferred, under this section is a court which would apart from this Act have 
+jurisdiction to grant relief of the relevant kind or amount. 
+ 
+(6) 
+A court in which an action is commenced or to which an action is transferred in 
+accordance with this section may exercise any of the powers conferred on the 
+Tribunal under this Part in relation to a commercial tenancy agreement or a related 
+guarantee. 
+ 
+(7) 
+In this section— 
+the prescribed amount means $20 000. 
+ 
+(8) 
+This section prevails over any inconsistent provisions in any other Part of this Act. 
+Division 3—Special provisions applying to commercial tenancies 
+57—Limitation on amounts payable with respect to entering into, extending or 
+renewing a commercial tenancy agreement 
+ 
+(1) 
+Subject to this Act, a landlord shall not require or receive from a tenant or 
+prospective tenant any monetary consideration for or in relation to entering into, 
+extending or renewing a commercial tenancy agreement other than rent, any amount 
+payable on account of operating expenses and a security bond. 
+Penalty: Division 9 fine. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Commercial tenancy agreements—Part 4 
+Special provisions applying to commercial tenancies—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+21 
+ 
+(2) 
+Subsection (1) does not apply to— 
+ 
+(a) 
+an amount received as consideration for the landlord carrying out, in 
+accordance with an agreement with the tenant, work on the premises before 
+the tenant goes into occupancy of the premises; or 
+ 
+(b) 
+an amount required or received as consideration for a right or option to enter 
+into a commercial tenancy agreement if, upon a commercial tenancy 
+agreement being entered into, the amount is refunded or applied towards the 
+rent payable under that agreement; or 
+ 
+(c) 
+an amount that is payable to a legal practitioner, land broker or licensed 
+agent for attendances on the tenant or for the preparation of documents that 
+are relevant to the tenancy; or 
+ 
+(d) 
+any payment of a prescribed class. 
+58—Rent in advance 
+ 
+(1) 
+A person shall not before the tenant becomes entitled to go into occupancy of premises 
+under a commercial tenancy agreement require, as rent under the agreement, an 
+amount exceeding— 
+ 
+(a) 
+the amount payable under the agreement for one months occupancy of the 
+premises; or 
+ 
+(b) 
+one-twelfth of the amount payable under the agreement for one year's 
+occupancy of the premises, 
+whichever is the lesser. 
+Penalty: Division 9 fine. 
+ 
+(2) 
+A person shall not require any payment of rent (other than the first payment) under a 
+commercial tenancy agreement earlier than seven days before the commencement of 
+the period of occupancy in respect of which the rent is payable. 
+Penalty: Division 9 fine. 
+ 
+(3) 
+An agreement that imposes obligations as to the time of payment of rent that are 
+inconsistent with this section is, to the extent of the inconsistency, void. 
+59—Regulation of security bonds 
+ 
+(1) 
+Subject to subsection (2), a person shall not in relation to a commercial tenancy 
+agreement— 
+ 
+(a) 
+require more than one security bond; or 
+ 
+(b) 
+require the payment of, or receive, under a security bond, an amount 
+exceeding— 
+ 
+(i) 
+the rent payable for one month's occupancy of the premises to which 
+the agreement relates; or 
+ 
+(ii) 
+one-twelfth of the rent for one year's occupancy of the premises to 
+which the agreement relates, 
+whichever is the lesser. 
+Penalty: Division 9 fine. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 4—Commercial tenancy agreements 
+Division 3—Special provisions applying to commercial tenancies 
+22 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(2) 
+Subsection (1) does not apply to a security bond under which a tenant agrees to pay to 
+a landlord an amount as security for the payment of government charges that are 
+payable by the tenant under a commercial tenancy agreement. 
+60—All amounts paid under security bonds to be receipted and paid to Tribunal 
+A person who receives money paid under a security bond— 
+ 
+(a) 
+shall forthwith give or cause to be given to the person paying the money a 
+receipt specifying the date on which the bond was entered into, the name of 
+the person by whom the money was paid, the amount paid and the premises in 
+respect of which it is paid; and 
+ 
+(b) 
+shall— 
+ 
+(i) 
+if the person receiving the money is a legal practitioner, a licensed 
+agent or a licensed land broker acting on behalf of a landlord—pay 
+the money to the Tribunal within twenty-eight days of its receipt; 
+ 
+(ii) 
+in any other case—pay the money to the Tribunal within seven days 
+of its receipt. 
+Penalty: Division 8 fine. 
+61—Payment of security bonds by Tribunal to landlord or tenant 
+ 
+(1) 
+The Tribunal may, on application by a landlord or tenant for an order under this 
+section, order that an amount paid under a security bond— 
+ 
+(a) 
+be paid in full to the tenant; or 
+ 
+(b) 
+be paid— 
+ 
+(i) 
+in part to the landlord to satisfy a liability of the tenant under the 
+commercial tenancy agreement; and 
+ 
+(ii) 
+as to the remainder—to the tenant; or 
+ 
+(c) 
+be paid in full to the landlord to satisfy, or towards satisfaction of, a liability 
+of the tenant under the commercial tenancy agreement. 
+ 
+(2) 
+Where both landlord and tenant agree that the amount paid under the security bond 
+should be paid out in a stipulated manner and have expressed their agreement in the 
+prescribed form, an order shall be made for payment in accordance with the 
+agreement. 
+ 
+(3) 
+Where notice of an application under this section has been given by the applicant to 
+the other party to the agreement and that other party does not within ten days of 
+receiving the notice lodge with the Tribunal a notice of his intention to dispute the 
+application, an order for payment, in the terms sought in the application, shall be 
+made. 
+ 
+(4) 
+A tenant may not apply for an order under this section unless— 
+ 
+(a) 
+the tenancy has come to an end; and 
+ 
+(b) 
+the tenant has vacated the premises. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Commercial tenancy agreements—Part 4 
+Special provisions applying to commercial tenancies—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+23 
+61A—Commercial tenancy agreements may be in registrable form 
+ 
+(1) 
+Where the tenant to a proposed commercial tenancy agreement requests that a lease 
+embodying the terms of the agreement in registrable form be prepared, the landlord 
+must, subject to subsection (2)— 
+ 
+(a) 
+prepare a lease in accordance with the request; and 
+ 
+(b) 
+on tender by the tenant of the appropriate amount for any fees or expenses for 
+which the tenant is legally liable, have the lease registered. 
+ 
+(2) 
+Subsection (1) does not apply— 
+ 
+(a) 
+if the term of the tenancy is to be for a period of one year or less; or 
+ 
+(b) 
+if the commercial tenancy agreement will not confer an exclusive right of 
+occupation; or 
+ 
+(c) 
+if the landlord does not have a registered interest in the premises subject to 
+the agreement; or 
+ 
+(d) 
+in any other case of a prescribed kind. 
+ 
+(3) 
+A provision in a commercial tenancy agreement that purports to prevent registration 
+of a commercial tenancy agreement in the Lands Titles Registration Office or in the 
+General Registry Office is void. 
+61B—Costs associated with the preparation of a written agreement 
+ 
+(1) 
+Subject to subsection (2), where a landlord requires that a written commercial 
+tenancy agreement, or a memorandum of such an agreement, be prepared by the 
+landlord, or a legal practitioner or other person who may lawfully act for a fee on 
+behalf of the landlord, the costs of the preparation of the document, and of any 
+attendances to which subsection (3) applies, must be borne by the landlord. 
+ 
+(2) 
+Where— 
+ 
+(a) 
+the tenant requests that a lease embodying the terms of the commercial 
+tenancy agreement in registrable form be prepared; and 
+ 
+(b) 
+the landlord requires that the lease be prepared by the landlord, or a legal 
+practitioner or other person who may lawfully act for a fee on behalf of the 
+landlord, 
+the costs of the preparation of the document, and of any attendances to which 
+subsection (3) applies, must be shared equally between the landlord and the tenant. 
+ 
+(3) 
+This subsection applies to attendances on the tenant by the landlord, or a legal 
+practitioner or other person acting on behalf of the landlord, in respect of— 
+ 
+(a) 
+the preparation or execution of any document that is intended to constitute 
+the commercial tenancy agreement, or a memorandum of such an agreement, 
+or of any lease; or 
+ 
+(b) 
+any other prescribed matter, 
+other than attendances that are attributable to unreasonable and unjustifiable action 
+on the part of the tenant. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 4—Commercial tenancy agreements 
+Division 3—Special provisions applying to commercial tenancies 
+24 
+Published under the Legislation Revision and Publication Act 2002 
+62—Provisions relating to written agreements prepared by or on behalf of 
+landlords 
+ 
+(1) 
+This section applies to a document— 
+ 
+(a) 
+that is intended to constitute a commercial tenancy agreement (or part of 
+such an agreement), or a memorandum of such an agreement; and 
+ 
+(b) 
+that has been prepared by the landlord or a legal practitioner or other person 
+acting on behalf of the landlord. 
+ 
+(2) 
+Where a document to which this section applies is presented to a tenant for 
+execution— 
+ 
+(a) 
+the document must specify in a clear and concise manner— 
+ 
+(i) 
+where the tenancy is for a fixed term—the term of the tenancy and 
+any agreement that the parties may have made in relation to 
+extension or renewal of the term; 
+ 
+(ii) 
+the rent payable under the agreement or the method by which that 
+rent is to be calculated and, if provision is made for review or 
+alteration of rent during the term of the tenancy, the time and 
+manner in which the review or alteration may be made; and 
+ 
+(b) 
+with each document that is presented to the tenant, there must be an 
+accompanying written statement in the prescribed form— 
+ 
+(i) 
+setting out in a clear and concise manner the information required 
+by the regulations; and 
+ 
+(ii) 
+advising the tenant to read and sign the statement, and to read the 
+document, before the tenant executes the document. 
+ 
+(3) 
+The tenant should sign the statement before executing the document. 
+ 
+(4) 
+When a tenant executes a document to which this section applies, a photocopy of the 
+document, together with a photocopy of the statement provided under 
+subsection (2)(b), must be given immediately to the tenant. 
+ 
+(5) 
+The landlord must, upon execution of the document by the tenant, if the landlord has 
+not already done so, execute the document. 
+ 
+(6) 
+The landlord must comply with subsection (5) as soon as is reasonably practicable. 
+ 
+(7) 
+A fully executed copy of the document (with the statement required under 
+subsection (2)(b) attached) must be delivered to the tenant within 28 days after the 
+payment of any stamp duty chargeable on it under the Stamp Duties Act 1923 or, if the 
+document is to be registered under the Real Property Act 1886 or the Registration of 
+Deeds Act 1935 within 28 days after a copy is made available for collection from the 
+Lands Titles Registration Office or the General Registry Office following registration 
+(unless the tenant has undertaken responsibility to stamp and, if appropriate, register 
+the document). 
+ 
+(8) 
+A landlord who fails to comply with a provision of this section is guilty of an offence. 
+Penalty: Division 9 fine. 
+ 
+(9) 
+Subject to subsection (10), non-compliance with this section does not affect the 
+validity of a commercial tenancy agreement. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Commercial tenancy agreements—Part 4 
+Special provisions applying to commercial tenancies—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+25 
+ (10) If— 
+ 
+(a) 
+a landlord— 
+ 
+(i) 
+fails to provide a written statement to a tenant under subsection (2); 
+or 
+ 
+(ii) 
+provides a written statement that is not true and correct in a material 
+respect; or 
+ (iii) fails to provide a copy of a document to a tenant under 
+subsection (4); and 
+ 
+(b) 
+on the application of the tenant, the Tribunal is satisfied that, in the 
+circumstances, an order under this subsection is justified, 
+the Tribunal may, by order, to such extent as may be appropriate and fair in the 
+circumstances— 
+ 
+(c) 
+avoid the commercial tenancy agreement, in whole or part; 
+ 
+(d) 
+vary the commercial tenancy agreement; 
+ 
+(e) 
+direct the landlord to refund money paid under the commercial tenancy 
+agreement; 
+ 
+(f) 
+require the landlord to pay compensation to the tenant; 
+ 
+(g) 
+deal with any ancillary or incidental matter. 
+ (11) The Tribunal should, in considering an application under subsection (10), take into 
+account— 
+ 
+(a) 
+the gravity of, and the circumstances surrounding, the landlord's actions; 
+ 
+(b) 
+the conduct of both the landlord and the tenant in relation to the commercial 
+tenancy agreement and any negotiations surrounding the making of the 
+agreement; 
+ 
+(c) 
+the extent of any loss suffered, or likely to be suffered, by the tenant as a 
+result of the landlord's actions; 
+ 
+(d) 
+the effect that making an order, or not making an order, would have on each 
+party, 
+and may take into account such other matters as the Tribunal thinks fit. 
+62A—Landlord to provide a statement of operating expenses 
+ 
+(1) 
+Where a tenant is or is to be required to pay any amount in respect of operating 
+expenses, the landlord must give to the tenant a written statement setting out— 
+ 
+(a) 
+the nature of those expenses; and 
+ 
+(b) 
+estimates of the amount of the tenant's liability in respect of each separate 
+category of those expenses over each accounting period. 
+Penalty: Division 9 fine. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 4—Commercial tenancy agreements 
+Division 3—Special provisions applying to commercial tenancies 
+26 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(2) 
+The estimates referred to in subsection (1) must be given— 
+ 
+(a) 
+in relation to a commercial tenancy agreement entered into before the 
+commencement of this section—within one month of the commencement of the 
+first accounting period and thereafter at least one month before the 
+commencement of each successive accounting period; or 
+ 
+(b) 
+in relation to a commercial tenancy agreement entered into on or after the 
+commencement of this section—before it is entered into and thereafter at least 
+one month before the commencement of each successive accounting period. 
+ 
+(3) 
+A landlord must, within three months of the expiration of an accounting period, give 
+the tenant a written statement, certified by the landlord or his or her agent to be 
+correct, setting out, under each separate category of operating expenses, the amount 
+actually incurred by the landlord, and the amount payable by the tenant, for that 
+period. 
+Penalty: Division 9 fine. 
+ 
+(4) 
+Notwithstanding the provisions of a commercial tenancy agreement, a landlord is not 
+at any particular time entitled to payment from the tenant on account of operating 
+expenses in a particular accounting period of an amount in excess of— 
+ 
+(a) 
+an amount calculated in accordance with the following formula: 
+(
+)
+2
+ or  (whichever is the lesser)
+x
+e
+a
+e
+y
++
+=
+ 
+where— 
+a is the amount 
+e is the landlord's estimate of aggregate operating expenses for the 
+accounting period 
+x is the number of complete months to have elapsed since the commencement 
+of the accounting period 
+y is the number of complete months in the accounting period; or 
+ 
+(b) 
+the amount of the reimbursement or contribution to which the landlord is 
+entitled in respect of operating expenses that have fallen due for payment or 
+for which an account has been rendered to the landlord. 
+ 
+(5) 
+Where a landlord receives from a tenant in respect of operating expenses for an 
+accounting period an amount in excess of the expenses actually incurred for that 
+period, the landlord must, within three months of the expiration of the period— 
+ 
+(a) 
+refund the excess to the tenant; or 
+ 
+(b) 
+with the consent of the tenant—credit the excess against future liabilities of 
+the tenant in relation to operating expenses. 
+Penalty: Division 9 fine. 
+ 
+(6) 
+A statement may be given to a tenant under this section— 
+ 
+(a) 
+personally; or 
+ 
+(b) 
+by leaving the statement at the business premises of the tenant with a person 
+apparently employed by the tenant; or 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Commercial tenancy agreements—Part 4 
+Special provisions applying to commercial tenancies—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+27 
+ 
+(c) 
+by posting the statement to the tenant at his or her business addresses or last 
+known residential address. 
+ 
+(7) 
+This section does not prevent a landlord from recovering any amount payable by the 
+tenant in respect of operating expenses once the tenancy has come to an end. 
+ 
+(8) 
+In this section— 
+accounting period means— 
+ 
+(a) 
+in relation to a commercial tenancy agreement entered into before the 
+commencement of this section— 
+ 
+(i) 
+a period commencing on 1 January, 1988, and not exceeding 
+18 months, determined by the landlord as the first accounting period 
+or, in the absence of such a determination, the period commencing 
+on 1 January, 1988, and ending on 30 June, 1988; and 
+ 
+(ii) 
+each successive period of 12 months; and 
+ 
+(b) 
+in relation to a commercial tenancy agreement entered into on or after the 
+commencement of this section— 
+ 
+(i) 
+a period running from the commencement of the tenancy and not 
+exceeding 18 months, determined by the landlord as the first 
+accounting period or, in the absence of such a determination, the 
+period from the commencement of the tenancy to the following 
+30 June; and 
+ 
+(ii) 
+each successive period of 12 months. 
+62B—Landlord to bear cost of land tax 
+ 
+(1) 
+Subject to subsection (2), it will be a term of every commercial tenancy agreement 
+entered into on or after the commencement of this section that the landlord will bear 
+any tax imposed in respect of the premises under the Land Tax Act 1936. 
+ 
+(2) 
+Subsection (1) does not apply to a commercial tenancy agreement that arises from: 
+ 
+(a) 
+a renewal pursuant to an option to renew contained in a commercial tenancy 
+agreement entered into before the commencement of this section; or 
+ 
+(b) 
+an assignment or transfer of a commercial tenancy agreement entered into 
+before the commencement of this section. 
+63—Provision relating to payments on sale or assignment void unless approved 
+by Tribunal 
+ 
+(1) 
+This section applies to a liability— 
+ 
+(a) 
+that arises under an agreement between a landlord and a tenant (whether or 
+not a commercial tenancy agreement)— 
+ 
+(i) 
+upon or in respect of the sale or disposal of a business conducted in 
+premises subject to a commercial tenancy agreement between the 
+landlord and tenant; or 
+ 
+(ii) 
+upon or in respect of the assignment of rights under a commercial 
+tenancy agreement between the landlord and tenant or the subletting 
+of premises subject to such an agreement; and 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 4—Commercial tenancy agreements 
+Division 3—Special provisions applying to commercial tenancies 
+28 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(b) 
+that is calculated by reference to— 
+ 
+(i) 
+the consideration, or any part of the consideration, to which the 
+tenant is entitled in respect of the transaction referred to above; or 
+ 
+(ii) 
+the value of the goodwill or any other asset of the business conducted 
+in the premises subject to the commercial tenancy agreement. 
+ 
+(2) 
+A provision in an agreement that purports to create a liability to which this section 
+applies is void and of no effect unless approved by the Tribunal. 
+ 
+(3) 
+The Tribunal shall not approve a provision under this section unless satisfied that the 
+provision is, in the circumstances of the case, fair and reasonable. 
+ 
+(4) 
+Where a tenant makes a payment to a landlord under a provision of an agreement that 
+is void by virtue of subsection (2), the amount of that payment may be recovered by 
+the tenant from the landlord as a debt by application to the Tribunal. 
+64—Right of tenant to assign or sublet 
+ 
+(1) 
+It shall be a term of every commercial tenancy agreement that the tenant has the right, 
+subject to the consent of the landlord, to assign his rights arising under the 
+commercial tenancy agreement or to sublet the premises subject to the agreement and 
+that the landlord will not— 
+ 
+(a) 
+unreasonably withhold his consent; or 
+ 
+(b) 
+make any charge for giving his consent other than his reasonable incidental 
+expenses. 
+ 
+(2) 
+Where in any proceedings the question arises as to whether or not the landlord 
+unreasonably withheld a consent referred to in this section, the burden shall be on the 
+landlord to prove that he has not unreasonably withheld his consent. 
+65—Hours of business etc 
+ 
+(1) 
+In this section— 
+closing time in relation to a shop means the time at which shops generally in the 
+shopping district, or part of the shopping district, in which the shop is situated must 
+close under the Shop Trading Hours Act 1977 notwithstanding that under that Act the 
+shop concerned is not required to close at all or is required to close at some time 
+other than the general closing time; 
+core trading hours means— 
+ 
+(a) 
+in relation to a shop in an enclosed shopping complex— 
+ 
+(i) 
+the hours specified in a resolution passed pursuant to subsection (5) 
+as being the hours that the shopping complex should be open for 
+business; or 
+ 
+(ii) 
+if no such resolution is in force—standard trading hours; 
+ 
+(b) 
+in relation to a shop in any other shopping complex—standard trading hours; 
+enclosed shopping complex means three or more shop premises that comprise the 
+whole or part of a shopping complex and that share a common area that is locked 
+when they are closed for business so as to prevent public access to any of them 
+through that area; 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Commercial tenancy agreements—Part 4 
+Special provisions applying to commercial tenancies—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+29 
+opening costs in relation to a shopping complex means the cost of airconditioning, 
+lighting, security and any other cost incurred in opening the shopping complex to the 
+public; 
+standard trading hours in relation to a shop means— 
+ 
+(a) 
+8.30 a.m. to closing time on a Monday, Tuesday, Wednesday, Thursday or 
+Friday but not if the day is a public holiday; 
+ 
+(b) 
+8.30 a.m. to 12.30 p.m. on a Saturday, but not if the Saturday is a public 
+holiday. 
+ 
+(2) 
+Subject to this section, a term of a commercial tenancy agreement that purports to 
+impose on the tenant an obligation to keep the premises open for business at 
+particular times or during particular periods is void. 
+ 
+(3) 
+A commercial tenancy agreement in relation to premises in an enclosed shopping 
+complex may include a term requiring the tenant to keep the premises open for 
+business at particular times, or during particular periods, that fall within core trading 
+hours if it is lawful for those premises to be open at those times or during those 
+periods. 
+ 
+(4) 
+A term of a commercial tenancy agreement in relation to premises in an enclosed 
+shopping complex that was in force immediately before the commencement of the 
+Statutes Amendment (Shop Trading Hours and Landlord and Tenant) Act 1990 will 
+only be void by virtue of subsection (2) to the extent that it requires the tenant to keep 
+the premises open for business outside core trading hours. 
+ 
+(5) 
+A resolution is passed in pursuance of this subsection if the following conditions are 
+satisfied: 
+ 
+(a) 
+the resolution must be put to a meeting of the tenants of the enclosed 
+shopping complex (which the landlord of the shopping complex is entitled to 
+attend) by one or more of the tenants; and 
+ 
+(b) 
+the landlord and all the tenants occupying shop premises in the enclosed 
+shopping complex must have received at least seven days notice of the 
+meeting; and 
+ 
+(c) 
+the notice must be in writing and must— 
+ 
+(i) 
+state the time and place at which the meeting will be held; and 
+ 
+(ii) 
+set out the text of the resolution that is to be put to the meeting; and 
+ 
+(d) 
+the resolution must not reduce the core trading hours to less than 50 hours 
+per week; and 
+ 
+(e) 
+the persons present at the meeting must appoint one of their number to 
+preside at the meeting; and 
+ 
+(f) 
+only the landlord and a tenant occupying shop premises in the enclosed 
+shopping complex, or his or her proxy, is allowed to cast a vote at the 
+meeting; and 
+ 
+(g) 
+voting on the resolution must be by secret ballot on the basis of one vote for 
+the landlord and one vote per tenancy; and 
+ 
+(h) 
+the number of votes supporting the resolution must equal or exceed 
+three-quarters of the number of votes cast at the meeting; and 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 4—Commercial tenancy agreements 
+Division 3—Special provisions applying to commercial tenancies 
+30 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(i) 
+every person who cast a vote is entitled to scrutinise the counting of votes. 
+ 
+(6) 
+A resolution pursuant to subsection (5) may only be varied or revoked by a subsequent 
+resolution passed pursuant to that subsection after the expiration of three months after 
+the firstmentioned resolution was passed. 
+ 
+(7) 
+A term of a commercial tenancy agreement in respect of premises situated in a 
+shopping complex that purports to impose on the tenant an obligation to pay for, or 
+contribute to, opening costs is void to the extent that it relates to— 
+ 
+(a) 
+a time or period outside core trading hours when the tenant's premises are 
+not open for trading; or 
+ 
+(b) 
+a time or period during core trading hours when it is unlawful for the tenant 
+to open his or her premises for trading. 
+66—Implied warranty that premises reasonably fit for business of tenant 
+ 
+(1) 
+Where a landlord had, before entering into a commercial tenancy agreement, notice 
+from the tenant that the premises were required for carrying on a particular business, 
+the agreement shall subject to subsection (2) be deemed to include a warranty that the 
+premises will, for the duration of the agreement, be structurally suitable for that 
+purpose. 
+ 
+(2) 
+The warranty referred to in subsection (1) is excluded if the landlord gives notice of 
+the exclusion, in the prescribed manner and form, before execution of the agreement 
+by the tenant. 
+ 
+(3) 
+Where— 
+ 
+(a) 
+a commercial tenancy agreement includes the warranty referred to in 
+subsection (1); and 
+ 
+(b) 
+the tenant assigns his or her rights under the agreement, or sublets the 
+premises subject to the agreement; and 
+ 
+(c) 
+the premises continue to be used for a business of the same kind, 
+the person who obtains a right to occupy the premises by virtue of the assignment or 
+subletting may sue on the warranty in his or her own right. 
+ 
+(4) 
+In any proceedings for breach of the warranty referred to in subsection (1), it is a 
+defence for the landlord to prove— 
+ 
+(a) 
+that the premises were structurally suitable for the relevant purpose at the 
+time that the commercial tenancy agreement was entered into; and 
+ 
+(b) 
+that any change in the structural suitability of the premises is not attributable 
+to any act or omission of the landlord. 
+66A—Provision for five-year terms 
+ 
+(1) 
+Subject to this section, where— 
+ 
+(a) 
+the right of occupancy conferred by a commercial tenancy agreement is for a 
+term of less than five years (not being a right that arises if the tenant holds 
+over after the expiration of the term); and 
+ 
+(b) 
+the agreement makes no provision for extension or renewal of the tenancy so 
+that its aggregate term will equal or exceed five years, 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Commercial tenancy agreements—Part 4 
+Special provisions applying to commercial tenancies—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+31 
+this section applies to the agreement. 
+ 
+(2) 
+This section does not apply to a commercial tenancy agreement— 
+ 
+(a) 
+if the term of the tenancy is two months or less and the tenant has before 
+entering into the agreement sought and received independent advice from a 
+legal practitioner and the legal practitioner has signed a certificate in the 
+prescribed form as to the giving of that advice; or 
+ 
+(b) 
+if the tenant is the landlord's spouse, parent, grandparent, step-parent, child, 
+grandchild, step-child, brother or sister, or the spouse of the landlord's child, 
+grandchild, step-child, brother or sister; or 
+ 
+(c) 
+— 
+ 
+(i) 
+if the landlord is a body corporate and the tenant or tenants have a 
+controlling interest in the body corporate; or 
+ 
+(ii) 
+if the landlord and the tenant are both bodies corporate and the 
+same person or persons have a controlling interest in both bodies 
+corporate. 
+ 
+(3) 
+The tenant under a commercial tenancy agreement to which this section applies may 
+apply in writing to the landlord for extension of the term of the tenancy so that the 
+tenancy will expire— 
+ 
+(a) 
+on the fifth anniversary of the date of the commencement of the tenancy; or 
+ 
+(b) 
+on some specified earlier date. 
+ 
+(4) 
+An application under subsection (3) should be made— 
+ 
+(a) 
+within 21 days after a notice served on the tenant by the landlord under 
+subsection (5) takes effect; or 
+ 
+(b) 
+if no such notice has been served—not later than three months before the 
+expiration of the term of the tenancy conferred by the commercial tenancy 
+agreement, 
+unless the Commercial Tribunal is satisfied that the failure to make the application 
+within time was occasioned by mistake, absence from the State, or other reasonable 
+cause. 
+ 
+(5) 
+The landlord under a commercial tenancy agreement to which this section applies 
+may serve on the tenant— 
+ 
+(a) 
+if the tenancy is for a term of six months or less—on or before the 
+commencement of the tenancy; 
+ 
+(b) 
+in any other case—not earlier than six months, and not later than three 
+months, before the expiration of the term of the tenancy, 
+a notice in the prescribed form requiring the tenant to decide whether or not the 
+tenant will make an application under this section. 
+ 
+(6) 
+A notice under subsection (5) takes effect— 
+ 
+(a) 
+if served before the commencement of the tenancy—on the commencement of 
+the tenancy; 
+ 
+(b) 
+in any other case—at the time of service of the notice on the tenant. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 4—Commercial tenancy agreements 
+Division 3—Special provisions applying to commercial tenancies 
+32 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(7) 
+If— 
+ 
+(a) 
+a tenant applies to the landlord under subsection (3); and 
+ 
+(b) 
+at the expiration of one month from the date of the application the landlord 
+and the tenant have not agreed to an extension of the tenancy on mutually 
+agreed terms, 
+either may apply to the Commercial Tribunal. 
+ 
+(8) 
+On an application under subsection (7), the Tribunal may extend the tenancy for such 
+term (being a term that expires on or before the fifth anniversary of the date on which 
+the tenancy first took effect) and on such terms and conditions as it considers just. 
+ 
+(9) 
+The Tribunal should, in considering an application under subsection (7), take into 
+account— 
+ 
+(a) 
+the relative bargaining positions of the landlord and tenant at the time the 
+commercial tenancy agreement was entered into; 
+ 
+(b) 
+any proposals of the landlord for a new tenancy between the landlord and the 
+tenant; 
+ 
+(c) 
+any plans of the landlord for the future use or development of the premises; 
+ 
+(d) 
+any prospect the tenant may have of obtaining other comparable premises; 
+ 
+(e) 
+any breaches by the tenant of the commercial tenancy agreement, 
+and may take into account such other matters as the Tribunal thinks fit. 
+ (10) Where an application is made to the Commercial Tribunal under this section, the 
+tenancy to which the application relates continues upon the same terms and 
+conditions (subject to any modifications stipulated by the Tribunal) until the 
+application is determined. 
+66AB—Ability of landlord to move tenant to other premises 
+ 
+(1) 
+Where— 
+ 
+(a) 
+the term of a tenancy is extended under section 66A; and 
+ 
+(b) 
+the premises form part of a shopping complex, 
+the landlord is entitled, subject to this section, to require the tenant to move his or her 
+business to other premises in the shopping complex. 
+ 
+(2) 
+Where— 
+ 
+(a) 
+a landlord proposes to require a tenant to move his or her business to other 
+premises in pursuance of subsection (1); or 
+ 
+(b) 
+a landlord has (apart from this section) the right under the commercial 
+tenancy agreement to require the tenant to move his or her business to other 
+premises and proposes to exercise that right, 
+then the landlord must, at least three months before the business is to be moved, notify 
+the tenant of the requirement, of the premises to which the business is to be moved, 
+and of the date on or before which the business is to be moved. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Commercial tenancy agreements—Part 4 
+Special provisions applying to commercial tenancies—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+33 
+ 
+(3) 
+A tenant may, within one month after receiving notice under subsection (2) or such 
+longer period as the Commercial Tribunal may allow, apply to the Tribunal for relief 
+against the requirement. 
+ 
+(4) 
+On an application under subsection (3), the Tribunal may— 
+ 
+(a) 
+annul the requirement; or 
+ 
+(b) 
+make any adjustment of rights between the landlord and tenant that may be 
+just in view of the requirement (and for any proposed commercial tenancy 
+agreement that is to take effect in substitution). 
+ 
+(5) 
+The Tribunal should in considering an application under subsection (3), take into 
+account the interests of the landlord, the tenant, and the other tenants that have 
+premises in the shopping complex. 
+ 
+(6) 
+The Tribunal cannot annul the requirement unless satisfied that the proposed move 
+would have a seriously adverse, and enduring, effect on the tenant's business. 
+67—Tenancy to continue while extensions or renewals are negotiated 
+ 
+(1) 
+Where— 
+ 
+(a) 
+a commercial tenancy agreement makes provision for extension or renewal of 
+the term of the tenancy upon its expiration (other than provision for the case 
+where a tenant holds over after its expiration); 
+ 
+(b) 
+the tenant gives written notice to the landlord within the period provided in 
+the agreement, or, if no such period is provided, not later than three months 
+before the expiration of the term of the tenancy, that he desires an extension 
+or renewal of the term of the tenancy; but 
+ 
+(c) 
+at the expiration of the term agreement has not been reached between the 
+parties in relation to an extension or renewal, 
+the tenancy shall be deemed to continue upon the same terms and conditions until the 
+matter is resolved by the parties or by determination of the Tribunal made having 
+regard to the terms of the agreement. 
+ 
+(2) 
+Where, on the extension or renewal of a commercial tenancy agreement that is 
+continued after its expiration under subsection (1), there is a variation in the rent that 
+is payable under the agreement, that variation shall be deemed to have applied from 
+the date of expiration of the agreement and, where the rent is increased, the amount of 
+the increase shall be payable by the tenant to the landlord and, where the rent 
+decreased, the landlord shall refund to the tenant any amount overpaid. 
+67A—Abandoned goods 
+ 
+(1) 
+Where a commercial tenancy agreement is terminated and goods are left on the 
+premises that were subject to the agreement, the landlord may, after the expiration of 
+two days from the termination of the agreement, remove and destroy or dispose of the 
+goods if— 
+ 
+(a) 
+the goods are perishable foodstuffs; or 
+ 
+(b) 
+the value of the goods is less than the total estimated cost of the removal, 
+storage and sale of the goods. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 4—Commercial tenancy agreements 
+Division 3—Special provisions applying to commercial tenancies 
+34 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(2) 
+Where a commercial tenancy agreement is terminated, the landlord must store in a 
+safe place and manner for a period of not less than 60 days any goods left on the 
+premises that were subject to the agreement and not removed for destruction or 
+disposal under subsection (1). 
+ 
+(3) 
+A landlord must before the expiration of seven days after he or she has stored goods 
+under subsection (2)— 
+ 
+(a) 
+where the tenant has informed the landlord of a forwarding address—send a 
+notice to the tenant at that address in the form prescribed for the purposes of 
+this paragraph; and 
+ 
+(b) 
+send to any other person who has to the knowledge of the landlord an interest 
+in the goods and whose name and address are known to or reasonably 
+ascertainable by the landlord, a notice in the form prescribed for the 
+purposes of this paragraph; and 
+ 
+(c) 
+cause a notice in the form prescribed for the purposes of this paragraph to be 
+inserted in a newspaper circulated generally throughout the State. 
+ 
+(4) 
+A person who has a lawful right to goods removed and stored under subsection (2) 
+may at any time before the goods are sold under subsection (5) reclaim the goods by 
+paying to the landlord— 
+ 
+(a) 
+the reasonable costs of removing and storing the goods; and 
+ 
+(b) 
+the reasonable costs of giving notice under subsection (3)(c); and 
+ 
+(c) 
+any other reasonable costs incurred by the landlord as a result of the goods 
+being left on the premises. 
+ 
+(5) 
+Where goods are stored under subsection (2) and have not been reclaimed within 
+60 days after the day on which they where removed and stored, the landlord must as 
+soon as practicable after the expiration of that period cause them to be sold by public 
+auction. 
+ 
+(6) 
+If goods are stored, removed and sold by public auction under this section, the 
+landlord may retain out of the proceeds of sale— 
+ 
+(a) 
+the reasonable costs of removing, selling and storing the goods; and 
+ 
+(b) 
+the reasonable costs of giving notice under subsection (3)(c); and 
+ 
+(c) 
+any other reasonable costs incurred by the landlord as a result of the goods 
+being left on the premises; and 
+ 
+(d) 
+any amount owed by the tenant under the commercial tenancy agreement. 
+ 
+(7) 
+Where goods are sold under this section, the landlord must pay— 
+ 
+(a) 
+to the tenant; or 
+ 
+(b) 
+if the landlord does not know the whereabouts of the tenant—to the Tribunal, 
+the balance of the proceeds of sale remaining after deduction of the amounts that the 
+landlord is entitled to retain under subsection (6). 
+ 
+(8) 
+The landlord must, when making a payment to the Tribunal under subsection (7), 
+furnish the Tribunal with a notice containing the prescribed information. 
+ 
+(9) 
+Any money paid to the Tribunal under subsection (7) will be paid into the Fund. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Commercial tenancy agreements—Part 4 
+Special provisions applying to commercial tenancies—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+35 
+ (10) Where an application is made to the Tribunal by a person claiming any amount paid 
+into the Fund under this section, the Tribunal may, upon being satisfied that the 
+person is entitled to the amount, order that the amount be paid to the person. 
+ (11) Where goods are sold by public auction under this section, the purchaser will, unless 
+he or she has actual notice of any interest in the goods of any person other than the 
+tenant, acquire a good title to the goods in defeasance of any such interest. 
+ (12) Where a dispute arises between a landlord and a tenant in respect of goods to which 
+this section applies, the Tribunal may, upon application by either party to the dispute, 
+order the payment of any amount or make such other order as the Tribunal considers 
+appropriate in the circumstances. 
+Division 4—Disputes arising under commercial tenancy agreements 
+68—Power of Tribunal to act in any matter 
+ 
+(1) 
+Subject to this Part, an action for relief under this section may be commenced by 
+application to the Tribunal by any party (or former party) to a commercial tenancy 
+agreement to which this Part applies or to a related guarantee. 
+ 
+(2) 
+Upon an application under subsection (1), the Tribunal may, as the case requires— 
+ 
+(a) 
+conciliate between the parties and attempt to achieve settlement of any matter 
+by agreement; or 
+ 
+(b) 
+by order— 
+ 
+(i) 
+restrain any action in breach of the agreement or a related 
+guarantee, or in breach of any law; or 
+ 
+(ii) 
+require any action in performance of the agreement or a related 
+guarantee, or to ensure compliance with any law; or 
+ 
+(c) 
+order the payment of any amount payable under the agreement or a related 
+guarantee; or 
+ 
+(d) 
+order the payment of compensation for loss or damage caused by any breach 
+of the agreement or a related guarantee; or 
+ (da) grant relief from the operation of any provision of the agreement or a related 
+guarantee; or 
+ (db) where rights of occupation conferred by a commercial tenancy agreement 
+have been forfeited or have otherwise terminated for a reason other than the 
+expiration of the term of the agreement—order reinstatement of those rights 
+on such terms as may be just; or 
+ 
+(e) 
+authorise payment of the rent under the agreement into the Tribunal until the 
+agreement has been performed or an application for compensation has been 
+determined; or 
+ 
+(f) 
+where appropriate, order that the rent paid into the Tribunal be paid out 
+towards the cost of remedying the breach or towards the amount of the 
+compensation; or 
+ 
+(g) 
+upon a termination of the agreement, order the tenant to surrender 
+possession of the premises to the landlord; or 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 4—Commercial tenancy agreements 
+Division 4—Disputes arising under commercial tenancy agreements 
+36 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(h) 
+make such other order as the Tribunal thinks fit. 
+ 
+(3) 
+Where the Tribunal exercises its power of conciliation on an application under 
+subsection (1)— 
+ 
+(a) 
+nothing said or done during the course of the conciliation proceedings shall 
+subsequently be given in evidence before the Tribunal; and 
+ 
+(b) 
+a member of the Tribunal who acted in the conciliation proceedings shall not 
+be disqualified from constituting the Tribunal in other proceedings that may 
+subsequently occur in relation to the application; and 
+ 
+(c) 
+if the proceedings are settled, the Tribunal may embody the terms of the 
+settlement in an order. 
+ 
+(4) 
+The Tribunal may make an order under subsection (2) in the nature of an injunction 
+or order for specific performance. 
+ 
+(5) 
+The Tribunal may, in relation to the determination of an application under 
+subsection (1), make such ancillary or incidental orders as the Tribunal considers 
+appropriate in the circumstances. 
+Division 5—Commercial Tenancies Fund 
+69—Commercial Tenancies Fund 
+ 
+(1) 
+The fund entitled the Commercial Tenancies Fund will be kept and administered by 
+the Commissioner for Consumer Affairs. 
+ 
+(2) 
+An amount paid under a security bond must, on receipt by the Tribunal, be paid into 
+the Fund. 
+70—Investment of Fund 
+ 
+(1) 
+Any moneys standing to the credit of the Fund that are not immediately required for 
+the purposes of this Part may be invested in such manner as may be approved by the 
+Minister. 
+ 
+(2) 
+Any income derived from the investment of the Fund may be applied, at the direction 
+of the Minister— 
+ 
+(a) 
+towards the costs of administering this Part; or 
+ 
+(b) 
+towards programmes designed to improve the management of businesses in 
+this State; or 
+ 
+(c) 
+for the benefit of landlords or tenants in such other manner as may appear 
+desirable. 
+71—Accounts 
+ 
+(1) 
+The Commissioner for Consumer Affairs shall cause proper accounts of receipts and 
+payments to be kept in relation to the Fund. 
+ 
+(2) 
+The Auditor-General may at any time, and shall at least once in every year, audit the 
+accounts of the Fund. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Commercial tenancy agreements—Part 4 
+Miscellaneous—Division 6 
+Published under the Legislation Revision and Publication Act 2002 
+37 
+Division 6—Miscellaneous 
+72—Contract to avoid 
+ 
+(1) 
+An agreement or arrangement that is inconsistent with a provision of this Part or 
+purports to exclude, modify or restrict the operation of this Part is to that extent void 
+and of no effect. 
+ 
+(2) 
+Any purported waiver of a right conferred by or under this Part is void and of no 
+effect. 
+ 
+(3) 
+Any person who enters into any agreement or arrangement with intent either directly 
+or indirectly to defeat, evade or prevent the operation of this Part is guilty of an 
+offence. 
+Penalty: Division 7 fine. 
+73—Tribunal may exempt tenancy agreement, class of agreement or premises 
+from provisions of Part 
+ 
+(1) 
+The Tribunal may, upon application by any interested person, grant an exemption 
+from all or any of the provisions of this Part— 
+ 
+(a) 
+in relation to a particular commercial tenancy agreement or proposed 
+commercial tenancy agreement; or 
+ 
+(b) 
+in relation to a particular class of commercial tenancy agreements; or 
+ 
+(c) 
+in relation to particular premises. 
+ 
+(2) 
+An exemption under this section may be granted on such conditions as the Tribunal 
+thinks fit. 
+73A—Annual reports 
+ 
+(1) 
+The Commissioner for Consumer Affairs must, on or before 30 September in each 
+year, deliver to the Minister an annual report— 
+ 
+(a) 
+containing a report on the application during the financial year ending on 
+30 June in that year of any income derived from the investment of the 
+Commercial Tenancies Fund; and 
+ 
+(b) 
+containing a copy of the accounts of the Commercial Tenancies Fund last 
+audited by the Auditor-General. 
+ 
+(2) 
+The Registrar of the Tribunal must, on or before 30 September in each year, deliver to 
+the Minister an annual report containing a report on— 
+ 
+(a) 
+the work of the Tribunal and the Registrar under this Part during the 
+financial year ending on 30 June in that year; 
+ 
+(b) 
+the administration and enforcement of this Part during the financial year 
+ending on 30 June in that year; 
+ 
+(c) 
+any matters of general significance to landlords and tenants that, in the 
+opinion of the Registrar, should be reported. 
+ 
+(3) 
+The Minister must, within 12 sitting days after the receipt of a report under this 
+section, cause a copy of the report to be laid before each House of Parliament. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Part 4—Commercial tenancy agreements 
+Division 6—Miscellaneous 
+38 
+Published under the Legislation Revision and Publication Act 2002 
+74—Summary proceedings 
+ 
+(1) 
+Offences against this Act are summary offences. 
+ 
+(2) 
+A prosecution for an offence against this Act must be commenced within two years 
+after the date on which the offence is alleged to have been committed, or within such 
+further period as the Minister may in a particular case, allow. 
+ 
+(3) 
+A document apparently signed by the Minister and stating that the Minister allows an 
+extension of the period for commencing a particular prosecution will be accepted, in 
+the absence of proof to the contrary, as proof of the fact so stated. 
+75—Regulations 
+ 
+(1) 
+The Governor may make such regulations as are contemplated by, or necessary or 
+expedient for the purposes of, this Part. 
+ 
+(2) 
+Without limiting the generality of the foregoing, those regulations may— 
+ 
+(a) 
+prescribe codes of practice to be complied with by landlords and tenants; 
+ 
+(b) 
+impose penalties (not exceeding a division 10 fine) for breach of, or failure to 
+comply with, the regulations. 
+Schedule 1—Warrant to distrain 
+ 
+Schedule 2—Inventory 
+ 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Declaration to be made by or on behalf of owner of agisted cattle or under-tenant or lodger—Schedule 3 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+39 
+Schedule 3—Declaration to be made by or on behalf of owner of 
+agisted cattle or under-tenant or lodger 
+ 
+Schedule 4—Declaration under section 22 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Schedule 5—Summons in case of adverse claim to goods distrained 
+ 
+40 
+Published under the Legislation Revision and Publication Act 2002 
+Schedule 5—Summons in case of adverse claim to goods 
+distrained 
+ 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Order in case of adverse claim to agisted cattle or goods distrained—Schedule 6 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+41 
+Schedule 6—Order in case of adverse claim to agisted cattle or 
+goods distrained 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Legislative history 
+ 
+42 
+Published under the Legislation Revision and Publication Act 2002 
+Legislative history 
+Notes 
+ 
+• 
+Please note—References in the legislation to other legislation or instruments or to 
+titles of bodies or offices are not automatically updated as part of the program for the 
+revision and publication of legislation and therefore may be obsolete. 
+ 
+• 
+Earlier versions of this Act (historical versions) are listed at the end of the legislative 
+history. 
+ 
+• 
+For further information relating to the Act and subordinate legislation made under the 
+Act see the Index of South Australian Statutes or www.legislation.sa.gov.au. 
+Legislation repealed by principal Act 
+The Landlord and Tenant Act 1936 repealed the following: 
+An Act to amend the Law of Landlord and Tenant (No. 580 of 1893) 
+The Distress for Rent Amendment Act 1907 
+Legislation amended by principal Act 
+The Landlord and Tenant Act 1936 amended the following: 
+An Act to amend the law of Real Property (No. 25 of 1852) 
+Supreme Court Procedure Amendment Act (No. 5 of 1853) 
+The Property Act of 1860 
+The Common Law Procedure Act 1862 
+The Distress for Rent Act 1888 
+Principal Act and amendments 
+New entries appear in bold. 
+Year No 
+Title 
+Assent 
+Commencement 
+1936 2301 Landlord and Tenant Act 1936 
+5.11.1936 
+1.5.1937 (Gazette 25.3.1937 p645) 
+1974 84 
+Statute Law Revision Act 
+(No. 2) 1974 
+21.11.1974 
+21.11.1974 
+1978 24 
+Landlord and Tenant Act 
+Amendment Act 1978 
+30.3.1978 
+1.12.1978: s 2 
+1985 19 
+Statutes Amendment (Commercial 
+Tenancies) Act 1985 
+14.3.1985 
+1.1.1986 (Gazette 12.12.1985 p1802) 
+1987 104 
+Landlord and Tenant Act 
+Amendment Act 1987 
+17.12.1987 
+1.1.1988 (Gazette 23.12.1987 p1916) 
+1990 49 
+Landlord and Tenant Act 
+Amendment Act 1990 
+15.11.1990 
+15.11.1990 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+43 
+1990 50 
+Statutes Amendment (Shop Trading 
+Hours and Landlord and Tenant) 
+Act 1990 as amended by 
+81/1993—s 11 impliedly repealed by 
+14/1995 s 81—the section amended 
+was subsequently deleted 
+22.11.1990 
+s 10—22.11.1990 (Gazette 22.11.1990 
+p1581) 
+1990 58 
+Landlord and Tenant Act 
+Amendment Act (No. 2) 1990 
+29.11.1990 
+11.3.1991 (Gazette 28.2.1991 p693) 
+except ss 7, 10 & 11—1.9.1991 (Gazette 
+29.8.1991 p690) 
+1993 81 
+Statutes Amendment (Landlord and 
+Tenant) Act 1993 
+27.10.1993 
+27.10.1993 
+1994 59 
+Criminal Law Consolidation 
+(Felonies and Misdemeanours) 
+Amendment Act 1994 
+27.10.1994 
+1.1.1995 (Gazette 8.12.1994 p1942) 
+1995 14 
+Retail Shop Leases Act 1995 
+6.4.1995 
+s 81—30.6.1995 (Gazette 29.6.1995 
+p2976) 
+1999 33 
+Financial Sector Reform (South 
+Australia) Act 1999 
+17.6.1999 
+Sch (item 32)—1.7.1999 being the date 
+specified under s 3(16) of the Financial 
+Sector Reform (Amendments and 
+Transitional Provisions) Act (No. 1) 
+1999 of the Commonwealth as the 
+transfer date for the purposes of that 
+Act: s 2(2) 
+1999 55 
+Residential Tenancies 
+(Miscellaneous) Amendment 
+Act 1999 
+12.8.1999 
+3.10.1999 (Gazette 30.9.1999 p1341) 
+2003 44 
+Statute Law Revision Act 2003 
+23.10.2003 
+Sch 1—24.11.2003 (Gazette 13.11.2003 
+p4048) 
+2005 56 
+Justices of the Peace Act 2005 
+17.11.2005 
+Sch 2 (cll 29—32)—1.7.2006 (Gazette 
+22.6.2006 p2012) 
+2006 17 
+Statutes Amendment (New Rules of 
+Civil Procedure) Act 2006 
+6.7.2006 
+Pt 43 (ss 147—151)—4.9.2006 (Gazette 
+17.8.2006 p2831) 
+2006 44 
+Statutes Amendment (Justice 
+Portfolio) Act 2006 
+14.12.2006 
+Pt 17 (s 29)—18.1.2007 (Gazette 
+18.1.2007 p234) 
+2008 37 
+Landlord and Tenant (Distress for 
+Rent—Health Records Exemption) 
+Amendment Act 2008 
+7.8.2008 
+7.8.2008 
+2010 5 
+Health Practitioner Regulation 
+National Law (South Australia) Act 
+2010 
+1.7.2010 
+Sch 1 (cl 21)—1.7.2010 (Gazette 
+1.7.2010 p3338) 
+2016 35 
+Statutes Amendment (Gender 
+Identity and Equity) Act 2016 
+4.8.2016 
+Pt 10 (s 35)—8.9.2016 (Gazette 
+8.9.2016 p3676) 
+2019 47 
+Retail and Commercial Leases 
+(Miscellaneous) Amendment 
+Act 2019 
+19.12.2019 
+Pt 3 (ss 30 & 31)—1.7.2020 (Gazette 
+14.5.2020 p962 
+Provisions amended since 3 February 1976 
+ 
+• 
+Legislative history prior to 3 February 1976 appears in marginal notes and footnotes 
+included in the consolidation of this Act contained in Volume 5 of The Public General 
+Acts of South Australia 1837-1975 at page 538. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Legislative history 
+ 
+44 
+Published under the Legislation Revision and Publication Act 2002 
+New entries appear in bold. 
+Entries that relate to provisions that have been deleted appear in italics. 
+Provision 
+How varied 
+Commencement 
+Long title 
+amended by 19/1985 s 4 
+1.1.1986 
+ 
+substituted by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+Pt A1 
+heading inserted by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 1 
+substituted by 19/1985 s 5 
+1.1.1986 
+s 2 
+deleted by 19/1985 s 5 
+1.1.1986 
+s 3 
+amended by 19/1985 s 6 
+1.1.1986 
+ 
+omitted under Legislation Revision and 
+Publication Act 2002 
+24.11.2003 
+s 3A 
+inserted by 24/1978 s 3 
+1.12.1978 
+s 3B 
+inserted by 19/1985 s 7 
+1.1.1986 
+Pt 1 
+ 
+ 
+Pt 1 Div 1 
+heading preceding s 4 deleted and Div 1 
+heading inserted by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 6 
+ 
+ 
+s 6(1) 
+s 6 amended and redesignated as s 6(1) by 
+44/2004 s 3(1) (Sch 1) 
+24.11.2003 
+s 6(2) 
+s 6 amended and redesignated as s 6(2) by 
+44/2004 s 3(1) (Sch 1) 
+24.11.2003 
+Pt 1 Div 2 
+heading preceding s 9 deleted and Div 2 
+heading inserted by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 9 
+ 
+ 
+s 9(1) 
+amended by 17/2006 s 147 
+4.9.2006 
+Pt 2 
+ 
+ 
+s 13 
+ 
+ 
+health practitioner inserted by 37/2008 s 3 
+7.8.2008 
+ 
+substituted by 5/2010 Sch 1 cl 21 
+1.7.2010 
+record 
+inserted by 37/2008 s 3 
+7.8.2008 
+s 13A 
+inserted by 47/2019 s 30 
+1.7.2020 
+s 14 
+ 
+ 
+s 14(2) 
+amended by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 17 
+ 
+ 
+s 17(2) 
+amended by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 19 
+ 
+ 
+s 19(1) 
+amended by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 21 
+amended by 17/2006 s 148 
+4.9.2006 
+s 22 
+amended by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 24 
+ 
+ 
+s 24(1) 
+amended by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 24(2) 
+amended by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+ 
+substituted by 56/2005 Sch 2 cl 29 
+1.7.2006 
+ 
+substituted by 47/2019 s 31 
+1.7.2020 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+45 
+s 25 
+amended by 56/2005 Sch 2 cl 30 
+1.7.2006 
+s 26 
+amended by 56/2005 Sch 2 cl 31 
+1.7.2006 
+s 28 
+amended by 59/1994 Sch 2 
+1.1.1995 
+ 
+amended by 44/2006 s 29 
+18.1.2007 
+s 32 
+ 
+ 
+s 32(3) 
+amended by 17/2006 s 149 
+4.9.2006 
+s 37 
+amended by 17/2006 s 150 
+4.9.2006 
+s 39 
+amended by 17/2006 s 151 
+4.9.2006 
+s 41 
+amended by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+heading preceding 
+s 43 
+deleted by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 43A 
+inserted by 37/2008 s 4 
+7.8.2008 
+s 44 
+deleted by 35/2016 s 35 
+8.9.2016 
+Pt 4 
+inserted by 19/1985 s 8 
+1.1.1986 
+ 
+amended by 104/1987 ss 3—11 
+1.1.1988 
+ 
+amended by 49/1990 s 2 
+15.11.1990 
+ 
+amended by 50/1990 s 10 
+22.11.1990 
+ 
+amended by 58/1990 ss 3—6, 8, 9, 12—16 
+(Sch) 
+11.3.1991 
+ 
+amended by 58/1990 ss 7, 10, 11 
+1.9.1991 
+ 
+amended by 81/1993 ss 3—6 
+27.10.1993 
+ 
+deleted by 14/1995 s 81(1) 
+30.6.1995 
+ 
+amended by 33/1999 Sch (item 32) 
+1.7.1999 
+ 
+amended by 55/1999 s 8 
+3.10.1999 
+Schs 1—6 
+Schs A—F redesignated as Schs 1—6 by 
+44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+Sch J 
+deleted by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+Transitional etc provisions associated with Act or amendments 
+Landlord and Tenant Act Amendment Act 1987 
+12—Savings provision 
+A provision of a commercial tenancy agreement entered into before the 
+commencement of this Act is not invalidated or affected in any other way by any 
+inconsistency with, or failure to comply with, section 62(1)(a)(iii) of the principal Act 
+as in force before the commencement of this Act. 
+Landlord and Tenant Act Amendment Act (No. 2) 1990 
+18—Transitional provisions 
+The amendments effected by sections 4, 6, 7, 9 and 10 apply only in relation to 
+commercial tenancy agreements entered into on or after the commencement of this 
+Act. 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Legislative history 
+ 
+46 
+Published under the Legislation Revision and Publication Act 2002 
+Retail Shop Leases Act 1995 as amended by section 17 of the Retail Shop Leases 
+Amendment Act 1997 
+81—Amendment of the Landlord and Tenant Act 
+ 
+(1) 
+Part 4 of the Landlord and Tenant Act 1936 (the former legislation) is repealed. 
+ 
+(2) 
+However— 
+ 
+(a) 
+the former legislation continues to apply, subject to modifications prescribed 
+by regulation,
+1 to retail shop leases entered into before the commencement of 
+this Act (including such a lease that is renewed after the commencement of 
+this Act under a right or option of renewal conferred before the 
+commencement of this Act); but 
+ 
+(b) 
+if the retail shop lease creates a periodic tenancy, this Act applies to the lease 
+as from the beginning of the first period after the first anniversary of the 
+commencement of this Act as if there were a novation of the lease on that 
+date. 
+ 
+(3) 
+The regulations made for the purposes of subsection (2)(a) may provide that specified 
+provisions of this Act apply to a retail shop lease entered into before the 
+commencement of this Act. 
+ 
+(4) 
+The Fund established under the former legislation is dissolved and the money 
+constituting that Fund at the commencement of this Act is incorporated in the Fund 
+established under this Act. 
+ 
+(5) 
+References in the former legislation to the Fund established under that legislation are 
+to be construed (so far as the relevant provisions give rights or impose obligations on 
+parties to leases) as references to the Fund under this Act. 
+Note— 
+1 
+Regulations have been made for the purposes of s 81(2)(a) of the Retail Shop Leases 
+Act 1995 (see Gazette 29.6.1995 p3101) as follows: 
+13—Issues associated with Landlord and Tenant Act 
+ 
+(1) 
+For the purposes of section 81(2)(a) of the Act, the following 
+modifications to the Landlord and Tenant Act 1936 (the former 
+legislation) are prescribed: 
+ 
+(a) 
+a reference to the Commercial Tribunal (including through the 
+use of the definition the Tribunal) is to be construed as a 
+reference to the Civil (Consumer and Business) Division of 
+the Magistrates Court; 
+ 
+(b) 
+section 56 of the former legislation will be taken to have been 
+replaced by the following provision: 
+56—Substantial monetary claims 
+ 
+(1) 
+An action involving a claim arising under or 
+in respect of a commercial tenancy agreement 
+to which this Part applies or a related 
+guarantee should be commenced before the 
+Magistrates Court. 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+47 
+ 
+(2) 
+An action before the Magistrates Court that 
+involves a monetary claim for $10 000 or less 
+will be taken to be a minor statutory 
+proceeding under the Magistrates Court 
+Act 1991. 
+ 
+(3) 
+If an action before the Magistrates Court 
+involves a monetary claim for an amount 
+exceeding $30 000, the Magistrates Court 
+must on the application of a party to the 
+proceeding refer the proceeding to the 
+District Court. 
+ 
+(4) 
+If a proceeding is referred to the District 
+Court, the Court has, in addition to the 
+powers that it has apart from this section, the 
+powers that the Magistrates Court has under 
+this Part. 
+ 
+(5) 
+In this section— 
+Magistrates Court means the Civil 
+(Consumer and Business) Division of the 
+Magistrates Court.; 
+ 
+(c) 
+sections 59, 60, 61 and 65 of the former legislation will be 
+taken to have been repealed; 
+ 
+(d) 
+the following sections will be taken to be inserted after section 
+72 of the former legislation: 
+72A—Unlawful threats 
+A landlord or an agent of a landlord must not 
+make threats to the effect that the landlord 
+will not renew or extend the term of tenancy 
+if the tenant exercises a right under this Act. 
+Penalty: Division 5 fine. 
+72B—Vexatious acts 
+A party to a commercial tenancy agreement 
+must not, in connection with the exercise of a 
+right or power under this Act or the 
+agreement, engage in conduct that is, in all 
+the circumstances, vexatious. 
+Penalty: Division 6 fine. 
+ 
+(2) 
+Pursuant to section 81(3) of the Act, the following provisions of the Act 
+apply to a retail shop lease entered into before the commencement of the 
+Act: 
+ 
+(a) 
+section 12 (Lessee to be given disclosure statement); 
+ 
+(b) 
+section 13 (Lessee not required to pay undisclosed 
+contributions); 
+ 
+(c) 
+section 19 (Security bond); 
+ 
+(d) 
+section 20 (Repayment of security); 
+ 
+(e) 
+section 52 (Statistical information to be made available to 
+lessee); 
+ 
+(f) 
+section 61 (Trading hours). 
+
+--------------------------------------------------------------------------------
+ 
+Landlord and Tenant Act 1936—1.7.2020 
+Legislative history 
+ 
+48 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(3) 
+Subregulations (1) and (2) do not affect any determination of core 
+trading hours under the former legislation before the commencement of 
+the Act and such a determination will have effect for the purposes of 
+section 61 of the Act. 
+Justices of the Peace Act 2005, Sch 2 
+32—Transitional provision 
+An amendment made by Schedule 2 of the Justices of the Peace Act 2005 to the 
+Landlord and Tenant Act 1936 does not apply in respect of proceedings commenced 
+before the commencement of the amending provision (and those proceedings may 
+continue as if the amending provision had not been enacted). 
+Historical versions 
+Reprint No 1—1.10.1991 
+ 
+Reprint No 2—27.10.1993 
+ 
+Reprint No 3—1.1.1995 
+ 
+Reprint No 4—30.6.1995 
+ 
+Reprint No 5—3.10.1999 
+ 
+Reprint No 6—24.11.2003 
+ 
+1.7.2006 
+ 
+4.9.2006 
+ 
+18.1.2007 
+ 
+7.8.2008 
+ 
+1.7.2010 
+ 
+8.9.2016 
+ 
+Appendix—Divisional penalties and expiation fees 
+At the date of publication of this version divisional penalties and expiation fees are, as 
+provided by section 28A of the Acts Interpretation Act 1915, as follows: 
+ 
+Division 
+Maximum 
+imprisonment 
+Maximum fine 
+Expiation fee 
+1 
+15 years 
+$60 000 
+— 
+2 
+10 years 
+$40 000 
+— 
+3 
+7 years 
+$30 000 
+— 
+4 
+4 years 
+$15 000 
+— 
+5 
+2 years 
+$8 000 
+— 
+6 
+1 year 
+$4 000 
+$300 
+7 
+6 months 
+$2 000 
+$200 
+8 
+3 months 
+$1 000 
+$150 
+9 
+– 
+$500 
+$100 
+10 
+– 
+$200 
+$75 
+11 
+– 
+$100 
+$50 
+
+--------------------------------------------------------------------------------
+ 
+1.7.2020—Landlord and Tenant Act 1936 
+Divisional penalties and expiation fees—Appendix 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+49 
+Division 
+Maximum 
+imprisonment 
+Maximum fine 
+Expiation fee 
+12 
+– 
+$50 
+$25 
+Note: This appendix is provided for convenience of reference only. 
+
+--------------------------------------------------------------------------------

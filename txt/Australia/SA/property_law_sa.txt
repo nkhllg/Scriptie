@@ -1,0 +1,3565 @@
+Version: 1.1.2025 
+Published under the Legislation Revision and Publication Act 2002 
+1 
+South Australia 
+Law of Property Act 1936 
+An Act to consolidate and amend certain Acts relating to property and conveyancing. 
+ 
+Contents 
+Part 1—Preliminary 
+1 
+Short title 
+4 
+Repeal 
+5 
+Savings 
+6 
+Application of Act to land under Real Property Act 1886 
+7 
+Interpretation 
+Part 2—General rules affecting property 
+8 
+Lands lie in grant only 
+9 
+Use of word "grant" unnecessary 
+10 
+Power to dispose of all rights and interests in land 
+11 
+Lis pendens to be registered 
+12 
+Tenant for life without impeachment of waste, not to commit equitable waste 
+13 
+No merger at law where none in equity 
+14 
+Suits for possession of land by mortgagors 
+15 
+Assignment of debts and choses in action 
+16 
+Stipulations not of the essence of a contract 
+17 
+Satisfied terms, whether created out of freehold or leasehold land, to cease 
+18 
+Vesting order consequential on judgment for sale or mortgage of land 
+19 
+Vesting order consequential on judgment for specific performance etc 
+20 
+Rights of pre-emption capable of release 
+21 
+Purchaser not to be concerned with the trusts of the proceeds of sale 
+22 
+Right of light not deemed to exist by reason only of enjoyment or presumption of lost 
+grant 
+23 
+Gift not to be avoided by illegal stipulation attached thereto 
+24 
+Alien friends may hold real and personal property 
+24A 
+Certain contracts with infants for the repayment of loans to be valid 
+24B 
+Abolition of doctrine of interesse termini 
+24C 
+Body corporate may hold property as joint tenant 
+24D 
+Capacities of corporations 
+25 
+Contingent remainders protected against the premature failure of a preceding estate 
+Part 3—General rules affecting contracts, conveyances, and other instruments 
+26 
+Contracts for sale of land to be in writing 
+27 
+Discharge of incumbrances by the Court on sales or exchanges 
+28 
+Conveyances to be by deed 
+29 
+Instruments required to be in writing 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Contents 
+ 
+2 
+Published under the Legislation Revision and Publication Act 2002 
+30 
+Creation of interests in land by parol 
+31 
+Savings in regard to last two sections 
+32 
+Effect of possession of documents 
+33 
+Interests of persons in possession 
+34 
+Persons taking who are not parties and as to indentures 
+35 
+Conditions and certain covenants not implied 
+36 
+General words implied in conveyances 
+37 
+All estate clause implied 
+38 
+Partial release of security from rent-charge 
+39 
+Release of part of land affected from a judgment 
+40 
+Conveyances by a person to self etc 
+41 
+Execution and attestation of deeds 
+41AA 
+Execution and attestation of other instruments 
+41A 
+Easements without dominant land to be validly created 
+42 
+Covenants for title 
+Part 4—Mortgages 
+43 
+Realisation of equitable charges by the court 
+44 
+Sale of mortgaged property in action for redemption or foreclosure 
+45 
+Obligation to transfer instead of reconveying 
+46 
+Vesting order in place of conveyance by devisee of mortgagee 
+47 
+Powers incident to estate or interest of mortgagee 
+48 
+Regulation of exercise of power of sale 
+49 
+Conveyance on sale 
+50 
+Application of proceeds of sale 
+51 
+Provisions as to exercise of power of sale 
+52 
+Mortgagee's receipts, discharges etc 
+53 
+Appointment, powers, remuneration and duties of receiver 
+54 
+Effect of advance on joint account 
+55 
+Notice of trusts affecting mortgage debts 
+55A 
+Enforcement of rights against mortgagor 
+55B 
+Collateral covenants 
+56 
+Application to registered land 
+Part 5—Powers 
+57 
+Disclaimer etc of powers 
+57A 
+Validation of appointments where objects are excluded or take illusory shares 
+58 
+Execution of powers not testamentary 
+Part 6—Class closure, perpetuities and accumulations 
+Division 1—Preliminary 
+58A 
+Interpretation and jurisdiction 
+59 
+Application of Part 
+Division 2—Rules for class ascertainment 
+60 
+Class ascertainment 
+60A 
+Court's power to reverse statutory limitation on class membership 
+Division 3—Perpetuities and accumulations 
+61 
+Abolition of rules against perpetuities and excessive accumulations 
+62 
+Court may order vesting of interests 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Contents 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+3 
+62A 
+Preservation of rule in Saunders v Vautier 
+Part 7—Apportionment 
+63 
+Definitions 
+64 
+Apportionment of rents in respect of time 
+65 
+When apportioned part payable or recoverable 
+66 
+Right of recovering apportioned parts 
+67 
+Policies of assurance 
+68 
+Contracting out 
+Part 8—Partition 
+69 
+Power to order partition or sale instead of partition 
+70 
+Sale on application of certain proportion of parties interested 
+71 
+As to purchase of share of party desiring sale 
+72 
+Notice to interested parties 
+73 
+Proceedings where service is dispensed with 
+74 
+Authority for parties interested to bid 
+75 
+Court to declare what parties are trustees of lands comprised in any suit, and as to the 
+interests of persons unborn 
+76 
+Payment and application of moneys arising from settled land 
+77 
+Trustees may apply moneys in certain cases without application to court 
+78 
+Until money directed to be applied it is to be invested and dividends to be paid to parties 
+entitled 
+79 
+Court may direct application of money in respect of leases or reversions as may appear 
+just 
+80 
+Interpretation of settled land 
+81 
+Provision for case of successive sales in same auction 
+82 
+Request by infant or person under disability 
+83 
+Application for partition to include application for sale and distribution of the proceeds 
+84 
+Costs 
+Part 9—Voidable dispositions 
+86 
+Voluntary conveyances to defraud creditors 
+87 
+Voluntary disposition with intent to defraud voidable as against purchasers 
+88 
+Acquisitions of reversions at an under value 
+Part 10—Miscellaneous 
+89 
+Vesting order in lieu of conveyance 
+90 
+Vesting order in cases of mentally incapacitated or infant mortgagee 
+91 
+In what cases the heir, representative, or devisee of a person, who has contracted to sell 
+land, shall be deemed a trustee 
+100 
+Assurance policy by spouses 
+108 
+Interpretation of terms 
+110 
+Invalidity of restraints upon anticipations 
+112 
+Regulations respecting notices 
+114 
+Power of Court to sell interest of Crown in real estate 
+116 
+Definition of intestacy 
+117 
+Restrictions on constructive notice 
+118 
+Lessor to have benefit of an informal insurance 
+119 
+Payment into court 
+120 
+Saving of certain rights of the Crown 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Contents 
+ 
+4 
+Published under the Legislation Revision and Publication Act 2002 
+Schedule 1—Acts repealed 
+Schedule 2—Implied covenants 
+1 
+Covenant implied in a conveyance for valuable consideration, other than a mortgage, by a 
+person who conveys and is expressed to convey as beneficial owner 
+2 
+Further covenant implied in a conveyance of leasehold property for valuable 
+consideration, other than a mortgage, by a person who conveys and is expressed to convey 
+as beneficial owner 
+3 
+Covenant implied in a conveyance by way of mortgage by a person who conveys and is 
+expressed to convey as beneficial owner 
+4 
+Covenant implied in a conveyance by way of mortgage of leasehold property by a person 
+who conveys and is expressed to convey as beneficial owner 
+5 
+Covenant implied in a conveyance by way of settlement, by a person who conveys and is 
+expressed to convey as settlor 
+6 
+Covenant implied in any conveyance, by every person who conveys and is expressed to 
+convey as trustee or mortgagee, or as personal representative of a deceased person, or as 
+administrator, committee or other person empowered to act on behalf of a mentally 
+incapacitated person or under an order of the court 
+Legislative history 
+ 
+The Parliament of South Australia enacts as follows: 
+Part 1—Preliminary 
+1—Short title 
+This Act may be cited as the Law of Property Act 1936. 
+4—Repeal 
+The Acts mentioned in Schedule 1 of this Act are repealed to the extent shown in that 
+Schedule. 
+5—Savings 
+Any alteration, by this Act, of the law, whether by the repeal of an enactment, or 
+otherwise, shall not, unless otherwise expressly provided by this Act affect— 
+ 
+(a) 
+any right accrued, or obligation incurred, before the commencement of this 
+Act under the law so altered; or 
+ 
+(b) 
+the validity or invalidity, or any operation, effect or consequence of any 
+instrument executed or made, or of anything done or suffered before the 
+commencement of this Act; or 
+ 
+(c) 
+any action, proceeding or thing then pending or uncompleted and every such 
+action, proceeding and thing may be carried on and completed as if the 
+enactment had not been repealed, or the law otherwise altered. 
+6—Application of Act to land under Real Property Act 1886 
+Except as in this Act expressly provided, this Act, so far as inconsistent with the Real 
+Property Act 1886 shall not apply to land which is under the provisions of that Act. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Preliminary—Part 1 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+5 
+7—Interpretation 
+In this Act unless inconsistent with the context or subject-matter or some other 
+meaning is clearly intended— 
+bankruptcy includes insolvency and liquidation by arrangement and also any other act 
+or proceeding in law having under any law for the time being in force effects or results 
+similar to those of bankruptcy; 
+building purposes includes the erecting and improving of and the adding to, and the 
+repairing of buildings; and a building lease is a lease for building purposes or 
+purposes connected therewith; 
+conveyance includes a mortgage, charge, lease, assent, vesting declaration, disclaimer, 
+release, surrender, extinguishment and every other assurance of property or of an 
+interest therein by any instrument, except a will; convey has a corresponding meaning; 
+court means— 
+ 
+(a) 
+the Supreme Court; or 
+ 
+(b) 
+the District Court; or 
+ 
+(c) 
+if the proceedings involve property with a value not exceeding the amount by 
+reference to which the jurisdictional limit of the Magistrates Court is fixed for 
+actions to obtain or recover title to, or possession of, real or personal 
+property—the Magistrates Court; 
+disposition includes a conveyance and also a devise, bequest, or an appointment of 
+property contained in a will; and dispose of has a corresponding meaning; 
+income includes rents and profits; 
+incumbrance includes a legal or equitable mortgage and a trust for securing money, 
+and a lien, and a charge of a portion, annuity, or other capital or annual sum; and 
+incumbrancer has a meaning corresponding with that of incumbrance, and includes 
+every person entitled to the benefit of an incumbrance, or to require payment or 
+discharge thereof; 
+instrument includes deed and will but does not include a statute, unless the statute 
+creates a settlement; 
+interest in property means a legal or equitable interest; 
+land includes land of any tenure, and mines and minerals whether or not held apart 
+from the surface, buildings or parts of buildings (whether the division is horizontal, 
+vertical or made in any other way) and other corporeal hereditaments; also a rent and 
+other incorporeal hereditaments, and an easement, right, privilege, or benefit in, over, 
+or derived from the land and also an undivided share in land; and mines and minerals 
+include any strata or seam of minerals or substances in or under any land, and powers 
+of working and getting the same; 
+limitation includes a trust; 
+mentally incapacitated person has the same meaning as in the Guardianship and 
+Administration Act 1993; 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 1—Preliminary 
+ 
+6 
+Published under the Legislation Revision and Publication Act 2002 
+mining lease means a lease for mining purposes, that is the searching for, winning, 
+working, getting, making merchantable, carrying away, or disposing of mines and 
+minerals, or purposes connected therewith, and includes a grant or licence for mining 
+purposes; 
+mortgage includes any charge or lien on any property for securing money or money's 
+worth; mortgage money means money or money's worth secured by a mortgage; 
+mortgagor includes any person from time to time deriving title under the original 
+mortgagor or entitled to redeem a mortgage according to his estate interest or right in 
+the mortgaged property; mortgagee includes any person from time to time deriving 
+title under the original mortgagee; and mortgagee in possession is, for the purposes of 
+this Act, a mortgagee who, in right of the mortgage, has entered into and is in 
+possession of the mortgaged property; and right of redemption includes an option to 
+repurchase only if the option in effect creates a right of redemption; 
+notice includes constructive notice; 
+personal representative means the executor, original or by representation, or 
+administrator for the time being of a deceased person; 
+possession includes receipt of rents and profits or the right to receive the same (if 
+any); 
+property includes any thing in action, and any interest in real or personal property; 
+purchaser means a purchaser in good faith for valuable consideration and includes a 
+lessee, mortgagee or other person who for valuable consideration acquires an interest 
+in property except that where so expressly provided purchaser means a person only 
+who acquires an interest in or charge on property for money or money's worth; and 
+where the context so requires purchaser includes an intending purchaser; purchase 
+has a meaning corresponding with that of purchaser; and valuable consideration 
+includes marriage but does not include a nominal consideration in money; 
+registered land means land which is subject to the Real Property Act 1886; and 
+registrar means the Registrar-General under that Act; 
+rent includes a rent service or a rent charge, or other rent toll, duty, royalty, or annual 
+or periodical payment in money or money's worth, reserved or issuing out of or 
+charged upon land, but does not include mortgage interest; rent charge includes a fee 
+farm rent; fine includes a premium or foregift and any payment consideration, or 
+benefit in the nature of a fine, premium or foregift; lessor includes an under-lessor and 
+a person deriving title under a lessor or under-lessor; and lessee includes an 
+under-lessee and a person deriving title under a lessee or under-lessee, and lease 
+includes an under-lease or other tenancy; 
+representative means an executor or administrator, and includes the Public Trustee in 
+cases where the Supreme Court shall have authorised him to administer the estate of a 
+deceased person; 
+sale means a sale properly so called; 
+securities include stocks, funds and shares; 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Preliminary—Part 1 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+7 
+trust for sale in relation to land, means an immediate binding trust for sale, whether or 
+not exercisable at the request or with the consent of any person, and with or without a 
+power at discretion to postpone the sale; trustees for sale means the persons 
+(including a personal representative) holding land on trust for sale; and power to 
+postpone a sale means power to postpone in the exercise of a discretion; 
+vest, in relation to property, means to vest in interest or possession. 
+Example— 
+For example, an interest in remainder vests in interest when— 
+ 
+(a) 
+the persons who are to take the interest are ascertainable; and 
+ 
+(b) 
+the vesting in possession of the interest is dependent only on the determination 
+of prior interests and no other contingency. 
+Part 2—General rules affecting property 
+8—Lands lie in grant only 
+All lands and all interests therein shall lie in grant and shall be incapable of being 
+conveyed by livery or livery and seisin, or by feoffment, or by bargain and sale; and a 
+conveyance of an interest in land may operate to pass the possession or right to 
+possession thereof, without actual entry, but subject to all prior rights thereto. 
+9—Use of word "grant" unnecessary 
+The use of the word "grant" is not necessary to convey land or to create any interest 
+therein. 
+10—Power to dispose of all rights and interests in land 
+All rights and interests in land may be disposed of, including— 
+ 
+(a) 
+a contingent, executory, or future interest in any land, or a possibility coupled 
+with an interest in any land, whether or not the object of the gift or limitation 
+of such interest or possibility be ascertained; 
+ 
+(b) 
+a right of entry, into or upon land whether immediate or future, and whether 
+vested or contingent. 
+11—Lis pendens to be registered 
+No lis pendens shall bind any bona fide purchaser or mortgagee for valuable 
+consideration without express notice thereof, unless and until it is registered under the 
+Registration of Deeds Act 1935 by delivering to the Registrar-General of Deeds a 
+memorial containing the title of the cause or matter, and the name and address of the 
+persons whose estate or interest is sought to be affected thereby; and every such 
+memorial shall be signed by the solicitor of one of the parties to the cause or matter, or 
+of some person claiming to be entitled to deliver such memorial. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 2—General rules affecting property 
+ 
+8 
+Published under the Legislation Revision and Publication Act 2002 
+12—Tenant for life without impeachment of waste, not to commit equitable 
+waste 
+An estate for life, without impeachment of waste, shall not confer upon the tenant for 
+life any legal right to commit waste of the description known as equitable waste, 
+unless an intention to confer such right expressly appears by the instrument creating 
+such estate. 
+13—No merger at law where none in equity 
+There shall not be any merger by operation of law only of any estate, the beneficial 
+interest in which would not be deemed to be merged or extinguished in equity. 
+14—Suits for possession of land by mortgagors 
+A mortgagor entitled for the time being to the possession or receipt of the rents and 
+profits of any land, as to which no notice of his intention to take possession or to enter 
+upon the receipt of the rents and profits thereof has been given by the mortgagee, may 
+sue for such possession, or for the recovery of such rents or profits, or to prevent or to 
+recover damages in respect of any trespass or other wrong relative thereto, in his own 
+name only, unless the cause of action arises upon a lease or other contract made by 
+him jointly with any other person. 
+15—Assignment of debts and choses in action 
+ 
+(1) 
+Any absolute assignment by writing under the hand of the assignor (not purporting to 
+be by way of charge only) of any debt or other legal chose in action, of which express 
+notice in writing has been given to the debtor, trustee, or other person from whom the 
+assignor would have been entitled to receive or claim such debt or chose in action, 
+shall be effectual in law (subject to equities having priority over the right of the 
+assignee), to pass and transfer from the date of such notice— 
+ 
+(a) 
+the legal right to such debt or chose in action; and 
+ 
+(b) 
+all legal and other remedies for the same; and 
+ 
+(c) 
+the power to give a good discharge for the same, without the concurrence of 
+the assignor. 
+ 
+(2) 
+However, if the debtor, trustee, or other person liable in respect of such debt or chose 
+in action has notice— 
+ 
+(a) 
+that such assignment is disputed by the assignor, or any person claiming 
+under him; or 
+ 
+(b) 
+of any other opposing or conflicting claims, to such debt or chose in action, 
+he may, if he thinks fit, either call upon the persons making claim thereto to interplead 
+concerning the same, or pay the debt or other chose in action into court, under the 
+provisions of the Trustee Act 1936. 
+16—Stipulations not of the essence of a contract 
+Stipulations in a contract, as to time or otherwise, which according to rules of equity 
+are not deemed to be or to have become of the essence of the contract, shall be 
+construed and have effect at law in accordance with the rules of equity. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+General rules affecting property—Part 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+9 
+17—Satisfied terms, whether created out of freehold or leasehold land, to cease 
+ 
+(1) 
+Where the purposes of a term of years, created or limited at any time out of freehold 
+land, become satisfied (whether or not that term either by express declaration or by 
+construction of law becomes attendant upon the freehold reversion), that term of years 
+shall merge in the reversion expectant thereon and shall cease accordingly. 
+ 
+(2) 
+Where the purposes of a term of years, created or limited at any time out of leasehold 
+land, become satisfied, that term shall merge in the reversion expectant thereon and 
+cease accordingly. 
+ 
+(3) 
+Where the purposes are satisfied as respects part only of the land comprised in a term, 
+this section has effect as if a separate term had been created in regard to that part of 
+the land. 
+18—Vesting order consequential on judgment for sale or mortgage of land 
+Where the court gives a judgment, or makes an order directing the sale or mortgage of 
+land, every person, whether under disability or not, who is entitled to or possessed of 
+the land, or entitled to any interest therein, and is a party to the action or proceeding, 
+or otherwise bound by the judgment or order, shall be deemed to be so entitled or 
+possessed, as the case may be, as a trustee within the meaning of the Trustee Act 1936; 
+and the court may, if it thinks expedient, make an order vesting the land, or any part 
+thereof, for such estate as the court thinks fit in the purchaser or mortgagee, or in any 
+other person. 
+19—Vesting order consequential on judgment for specific performance etc 
+Where a judgment is given for the specific performance of a contract concerning any 
+land, or for the partition, or sale in lieu of partition, or exchange of any land, or 
+generally where any judgment is given for the conveyance of any land, either in cases 
+arising out of the doctrine of election or otherwise, the court may declare that any of 
+the parties to the action are trustees of the land, or any part thereof, within the 
+meaning of the Trustee Act 1936 or may declare that the interests of unborn persons 
+who might claim under any party to the action, or under the will or voluntary 
+settlement of any person deceased who was during his lifetime a party to the contract 
+or transactions concerning which the judgment is given, are the interests of persons 
+who, on coming into existence, would be trustees within the meaning of the Trustee 
+Act 1936; and thereupon the court may make a vesting order relating to the rights of 
+those persons, born and unborn, as if they had been trustees. 
+20—Rights of pre-emption capable of release 
+All statutory and other rights of pre-emption affecting a legal estate shall be and be 
+deemed always to have been capable of release. 
+21—Purchaser not to be concerned with the trusts of the proceeds of sale 
+A purchaser of a legal estate from trustees for sale shall not be concerned with the 
+trusts affecting the proceeds of sale of land subject to a trust for sale or affecting the 
+rents and profits of the land until sale, whether or not those trusts are declared by the 
+same instrument by which the trust for sale is created. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 2—General rules affecting property 
+ 
+10 
+Published under the Legislation Revision and Publication Act 2002 
+22—Right of light not deemed to exist by reason only of enjoyment or 
+presumption of lost grant 
+ 
+(1) 
+After the twenty-sixth day of October, 1911, no right to the access or use of light to or 
+for any building shall be capable of coming into existence by reason only of the 
+enjoyment of such access or use for any period of time, or of any presumption of a lost 
+grant based upon such enjoyment. 
+ 
+(2) 
+This section shall not affect any right actually acquired before the said date. 
+23—Gift not to be avoided by illegal stipulation attached thereto 
+ 
+(1) 
+No gift, whether by testamentary disposition or by instrument inter vivos, shall be held 
+to be void solely on the ground that the testator or donor has attached an illegal 
+stipulation to such gift, whether such stipulation is in the nature of a limitation of the 
+gift or of a condition precedent or subsequent to the gift, unless it is proved to the 
+satisfaction of the court before which the matter is in question that the donee of such 
+gift consented to such stipulation at or before the time when the testamentary 
+disposition or instrument inter vivos was executed by the testator or donor. 
+ 
+(2) 
+Unless it is proved as aforesaid, in construing the testamentary disposition or 
+instrument inter vivos, the gift shall be read as if the illegal stipulation had not been 
+attached thereto. 
+24—Alien friends may hold real and personal property 
+Every alien friend may inherit, or otherwise take by representation, acquire, hold, 
+convey, assign, devise, bequeath, or otherwise dispose of every description of 
+property, whether real or personal, in the same manner as if he were a natural-born 
+subject of His Majesty. 
+24A—Certain contracts with infants for the repayment of loans to be valid 
+ 
+(1) 
+Notwithstanding anything to the contrary contained in any other Act or in any rule of 
+common law or equity the following contracts, whether entered into before or after the 
+commencement of the Law of Property Act Amendment Act 1966 shall be as valid and 
+binding on an infant for all purposes as if the infant were of full age at the time he 
+entered into the contract, namely— 
+ 
+(a) 
+any contract entered into by an infant not under the age of eighteen years with 
+the State Bank of South Australia for the repayment of moneys advanced or 
+to be advanced to the infant by the said bank under the provisions of the 
+Advances for Homes Act 1928; and 
+ 
+(b) 
+any contract entered into by an infant not under the age eighteen years with 
+the South Australian Housing Trust or any institution or society within the 
+meaning of the Homes Act 1941 for the repayment of moneys lent or to be 
+lent to the infant by the said Trust or any such institution or society; and 
+ 
+(c) 
+any contract entered into by an infant not under the age of eighteen years— 
+ 
+(i) 
+with a building society registered under the Building Societies 
+Act 1881; or 
+ 
+(ii) 
+with an industrial and provident society registered under the 
+Industrial and Provident Societies Act 1923, 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+General rules affecting property—Part 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+11 
+for the repayment of moneys lent or advanced or to be lent or advanced to the 
+infant by any such society; and 
+ 
+(d) 
+any contract entered into by an infant not under the age of eighteen years for 
+the repayment of moneys lent or advanced or to be lent or advanced to the 
+infant by a bank or life assurance company or society for the purpose of 
+purchasing or erecting a dwelling house for his own occupation; and 
+ 
+(e) 
+any contract entered into by an infant not under the age of eighteen years with 
+any building contractor for the purchase or erection of a dwelling house for 
+his own occupation. 
+ 
+(2) 
+An infant who has entered into any contract referred to in the last preceding 
+subsection, whether before or after the commencement of the Law of Property Act 
+Amendment Act 1966 shall not at any time be entitled on any ground relating to his 
+infancy or former infancy to avoid any of his obligations under the contract or under 
+any instrument executed by the infant whereby the repayment of any moneys lent or 
+advanced is secured or to repudiate any contract or any transfer, conveyance or 
+assignment to any such infant relating to any property charged by him. 
+ 
+(3) 
+Any instrument executed or purporting to have been executed by an infant by way of 
+security for the repayment of any moneys lent or advanced or to be lent or advanced to 
+the infant in pursuance of a contract of a kind referred to in subsection (1) of this 
+section shall be as valid and effectual for all purposes as if the infant were of full age 
+and capacity at the time he executed the instrument. 
+ 
+(4) 
+For the purposes of this section— 
+ 
+(a) 
+any reference in this section to a contract entered into by an infant shall be 
+read and construed as including reference to a contract entered into by an 
+infant jointly with some other person or persons (whether of full age or not); 
+and 
+ 
+(b) 
+any reference in this section to moneys lent or advanced or to be lent or 
+advanced to an infant shall be read and construed as including reference to 
+moneys lent or advanced or to be lent or advanced to the order of an infant or 
+to an infant jointly with some other person or persons (whether of full age or 
+not); and 
+ 
+(c) 
+any reference in this section to an instrument executed by an infant shall be 
+read and construed as including reference to an instrument executed by an 
+infant jointly with some other person or persons (whether of full age or not); 
+and 
+ 
+(d) 
+any reference in this section to an instrument shall include an instrument 
+registrable under the provisions of the Real Property Act 1886. 
+24B—Abolition of doctrine of interesse termini 
+ 
+(1) 
+A leasehold estate or interest is capable of taking effect notwithstanding that the lessee 
+has not entered into possession of the land subject to the lease. 
+ 
+(2) 
+This section applies to leasehold estates or interests whether created before or after the 
+commencement of the Statutes Amendment (Property) Act 1980. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 2—General rules affecting property 
+ 
+12 
+Published under the Legislation Revision and Publication Act 2002 
+24C—Body corporate may hold property as joint tenant 
+ 
+(1) 
+Subject to subsection (2), a body corporate is capable of acquiring and holding real or 
+personal property in joint tenancy. 
+ 
+(2) 
+The acquisition and holding of property by a body corporate in joint tenancy is subject 
+to— 
+ 
+(a) 
+any limitations on the capacity of the body corporate to acquire or hold 
+property in joint tenancy imposed by a statute or other instrument defining or 
+affecting the capacities of the body corporate; and 
+ 
+(b) 
+any limitations on the capacity of the body corporate to acquire or hold 
+property that apply whether the property is to be acquired or held in joint 
+tenancy or not. 
+ 
+(3) 
+Where a body corporate is a joint tenant of property, the property devolves, on 
+dissolution of the body corporate, on the other joint tenant. 
+24D—Capacities of corporations 
+ 
+(1) 
+A corporation sole established under an Act has, and will be taken always to have 
+had— 
+ 
+(a) 
+perpetual succession and a common seal; and 
+ 
+(b) 
+the capacity to sue and be sued in the corporation's name; and 
+ 
+(c) 
+subject to any limitations imposed under an Act, all the powers of a natural 
+person. 
+ 
+(2) 
+A right or liability that a corporation sole or corporation aggregate would have 
+acquired or incurred but for the occurrence (before or after the commencement of this 
+section) of a temporary vacancy in the office or offices of the corporation will be 
+treated as having taken effect on the filling of the vacant office or offices as if the 
+vacancy or vacancies had been filled before the right or liability was acquired or 
+incurred. 
+25—Contingent remainders protected against the premature failure of a 
+preceding estate 
+A contingent remainder existing at any time after the commencement of this Act shall 
+be capable of taking effect, notwithstanding the want of a particular estate of freehold 
+to support it in the same manner as it would take effect if it were a contingent 
+remainder of an equitable estate supported by an outstanding estate in fee simple. 
+Part 3—General rules affecting contracts, conveyances, and 
+other instruments 
+26—Contracts for sale of land to be in writing 
+ 
+(1) 
+No action shall be brought upon any contract for the sale or other disposition of land 
+or of any interest in land, unless an agreement upon which such action is brought, or 
+some memorandum or note thereof, is in writing, and signed by the party to be 
+charged or by some person thereunto by him lawfully authorised. 
+ 
+(2) 
+This section does not affect the law relating to part performance, or sale by the court. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+General rules affecting contracts, conveyances, and other instruments—Part 3 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+13 
+27—Discharge of incumbrances by the Court on sales or exchanges 
+ 
+(1) 
+Where land subject to any incumbrance, whether immediately realisable or payable or 
+not, is sold or exchanged by the court, or out of court, the court may, if it thinks fit, on 
+the application of any party to the sale or exchange, direct or allow payment into court 
+of such sum as is hereinafter mentioned, that is to say— 
+ 
+(a) 
+in the case of an annual sum charged on the land, or of a capital sum charged 
+on a determinable interest in the land, the sum to be paid into court shall be of 
+such amount as, when invested in Government securities, the court considers 
+will be sufficient, by means of the dividends thereof, to keep down or 
+otherwise provide for that charge; and 
+ 
+(b) 
+in any other case of capital money charged on the land, the sum to be paid 
+into court shall be of an amount sufficient to meet the incumbrance and any 
+interest due thereon 
+but in either case there shall also be paid into court such additional amount as the 
+court considers will be sufficient to meet the contingency of further costs, expenses 
+and interest, and any other contingency, except depreciation of investments, not 
+exceeding one-tenth part of the original amount to be paid in, unless the court for 
+special reason thinks fit to require a larger additional amount. 
+ 
+(2) 
+Thereupon, the court may, if it thinks fit, and either after or without any notice to the 
+incumbrancer, as the court thinks fit, declare the land to be freed from the 
+incumbrance, and make any order for conveyance, or vesting order, proper for giving 
+effect to the sale or exchange, and give directions for the retention and investment of 
+the money in court and for the payment or application of the income thereof. 
+ 
+(3) 
+The court may declare all other land (if any) affected by the incumbrance (besides the 
+land sold or exchanged) to be freed from the incumbrance, and this power may be 
+exercised either after or without notice to the incumbrancer, and notwithstanding that 
+on a previous occasion an order, relating to the same incumbrance, has been made by 
+the court which was confined to the land then sold or exchanged. 
+ 
+(4) 
+On any application under this section the court may, if it thinks fit, as respects any 
+vendor or purchaser, dispense with the service of any notice which under this Act or 
+otherwise would apart from this subsection be required to be served on the vendor or 
+purchaser. 
+ 
+(5) 
+After notice served on the persons interested in or entitled to the money or fund in 
+court, the court may direct payment or transfer thereof to the persons entitled to 
+receive or give a discharge for the same on such terms as to delivering up of deeds or 
+other documents or on such other terms as the court thinks fit, and generally may give 
+directions respecting the application or distribution of the capital or income thereof. 
+ 
+(6) 
+This section shall apply to sales and exchanges, and to incumbrances whether created 
+by statute or otherwise. 
+28—Conveyances to be by deed 
+ 
+(1) 
+All conveyances of land or of any interest therein shall be void for the purpose of 
+conveying or creating a legal estate unless made by deed. 
+ 
+(2) 
+This section shall not apply to— 
+ 
+(a) 
+assents by a personal representative: 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 3—General rules affecting contracts, conveyances, and other instruments 
+ 
+14 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(b) 
+disclaimers made in accordance with the provisions of any law relating to 
+bankruptcy or not required to be evidenced in writing: 
+ 
+(c) 
+surrenders by operation of law, including surrenders which may, by law, be 
+effected without writing: 
+ 
+(d) 
+leases or tenancies or other assurances not required by law to be made in 
+writing: 
+ 
+(e) 
+receipts not required by law to be under seal: 
+ 
+(f) 
+vesting orders of the court or other competent authority: 
+ 
+(g) 
+conveyances taking effect by operation of law. 
+29—Instruments required to be in writing 
+ 
+(1) 
+Subject to the provisions hereinafter contained with respect to the creation of interests 
+in land by parol— 
+ 
+(a) 
+no interest in land can be created or disposed of except by writing signed by 
+the person creating or conveying the same, or by his agent thereunto lawfully 
+authorised in writing, or by will, or by operation of law; 
+ 
+(b) 
+a declaration of trust respecting any land or any interest therein must be 
+manifested and proved by some writing signed by some person who is able to 
+declare such trust or by his will; 
+ 
+(c) 
+a disposition of an equitable interest or trust subsisting at the time of the 
+disposition must be in writing signed by the person disposing of the same, or 
+by his agent thereunto lawfully authorised in writing or by will. 
+ 
+(2) 
+This section shall not affect the creation or operation of resulting, implied, or 
+constructive trusts. 
+30—Creation of interests in land by parol 
+ 
+(1) 
+All interests in land created by parol and not put in writing and signed by the persons 
+so creating the same, or by their agents thereunto lawfully authorised in writing, shall 
+have, notwithstanding any consideration having been given for the same, the force and 
+effect of interests at will only. 
+ 
+(2) 
+Nothing in the preceding sections of this Act shall affect the creation by parol of 
+leases taking effect in possession for a term not exceeding three years (whether or not 
+the lessee is given power to extend the term) at the best rent which can be reasonably 
+obtained without taking a fine. 
+31—Savings in regard to last two sections 
+Nothing in the two last preceding sections shall— 
+ 
+(a) 
+invalidate dispositions by will; or 
+ 
+(b) 
+affect any interest validly created before the commencement of this Act; or 
+ 
+(c) 
+affect the right to acquire an interest in land by virtue of taking possession; or 
+ 
+(d) 
+affect the operation of the law relating to part performance. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+General rules affecting contracts, conveyances, and other instruments—Part 3 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+15 
+32—Effect of possession of documents 
+This Act shall not prejudicially affect the right or interest of any person arising out of 
+or consequent on the possession by him of any documents relating to a legal estate in 
+land, nor affect any question arising out of or consequent upon any omission to obtain 
+or any other absence of possession by any person of any documents relating to a legal 
+estate in land. 
+33—Interests of persons in possession 
+This Act shall not prejudicially affect the interest of any person in possession or in 
+actual occupation of land to which he may be entitled in right of such possession or 
+occupation. 
+34—Persons taking who are not parties and as to indentures 
+ 
+(1) 
+A person may take an immediate or other interest in land or other property, or the 
+benefit of any condition, right of entry, covenant, or agreement over or respecting land 
+or other property, although he is not named as a party to the conveyance or other 
+instrument. 
+ 
+(2) 
+A deed between parties, to effect its objects, shall have the effect of an indenture 
+though not indented or expressed to be an indenture. 
+35—Conditions and certain covenants not implied 
+ 
+(1) 
+An exchange, a partition, or other conveyance of land made by deed shall not imply 
+any condition in law. 
+ 
+(2) 
+The word "give" or "grant" shall not, in a deed, imply any covenant in law, save where 
+otherwise provided by statute. 
+36—General words implied in conveyances 
+ 
+(1) 
+A conveyance of land shall be deemed to include and shall by virtue of this Act 
+operate to convey, with the land, all buildings, erections, fixtures, commons, hedges, 
+ditches, fences, ways, waters, watercourses, liberties, privileges, easements, rights, 
+and advantages whatsoever, appertaining or reputed to appertain to the land, or any 
+part thereof, or at the time of conveyance, demised, occupied, or enjoyed with, or 
+reputed or known as part or parcel of or appurtenant to the land or any part thereof. 
+ 
+(2) 
+A conveyance of land, having houses or other buildings thereon, shall be deemed to 
+include and shall by virtue of this Act operate to convey, with the land, houses or 
+other buildings, all outhouses, erections, fixtures, cellars, areas, courts, courtyards, 
+cisterns, sewers, gutters, drains, ways, passages, lights, watercourses, liberties, 
+privileges, easements, rights and advantages whatsoever, appertaining or reputed to 
+appertain to the land, houses or other buildings conveyed, or any of them, or any part 
+thereof, or, at the time of conveyance, demised, occupied, or enjoyed with, or reputed 
+or known as part or parcel of or appurtenant to, the land, houses or other buildings 
+conveyed, or any of them, or any part thereof. 
+ 
+(3) 
+This section shall apply only if and as far as a contrary intention is not expressed in 
+the conveyance, and shall have effect subject to the terms of the conveyance and to the 
+provisions therein contained. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 3—General rules affecting contracts, conveyances, and other instruments 
+ 
+16 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(4) 
+This section shall not be construed as giving to any person a better title to any 
+property, right or thing in this section mentioned than the title which the conveyance 
+gives to him to the land expressed to be conveyed, or as conveying to him any 
+property, right, or thing in this section mentioned, further or otherwise than as the 
+same could have been conveyed to him by the conveying parties. 
+37—All estate clause implied 
+ 
+(1) 
+Every conveyance shall be effectual to pass all the estate, right, title, interest, claim 
+and demand which the conveying parties respectively have, in, to, or on the property 
+conveyed, or expressed or intended so to be, or which they respectively have power to 
+convey in, to, or on the same. 
+ 
+(2) 
+This section shall apply only if and as far as a contrary intention is not expressed in 
+the conveyance, and shall have effect subject to the terms of the conveyance and to the 
+provisions therein contained. 
+38—Partial release of security from rent-charge 
+A release from a rentcharge of part of the land charged therewith shall not extinguish 
+the whole rentcharge, but shall operate only to bar the right to recover any part of the 
+rentcharge out of the land released, without prejudice to the rights of any persons 
+interested in the land remaining unreleased, and not concurring in or confirming the 
+release. 
+39—Release of part of land affected from a judgment 
+ 
+(1) 
+A release from an execution of part of any land charged therewith shall not affect the 
+validity of the execution as respects any land not specifically released. 
+ 
+(2) 
+This section shall operate without prejudice to the rights of any persons interested in 
+the property remaining unreleased and not concurring in or confirming the release. 
+40—Conveyances by a person to self etc 
+ 
+(1) 
+Personal property, including chattels real, may be conveyed by a person to themselves 
+jointly with another person by the like means by which it might be conveyed by the 
+person to another person. 
+ 
+(2) 
+Freehold land, or a thing in action, may be conveyed by a person to themselves jointly 
+with another person by the like means by which it might be conveyed by the person to 
+another person. 
+ 
+(3) 
+A person may convey land or any other property to themselves, or to themselves and 
+others. 
+ 
+(4) 
+Two or more persons (whether or not being trustees or personal representatives) may 
+convey, and shall be deemed always to have been capable of conveying any property 
+vested in them to any one or more of themselves in like manner as they could have 
+conveyed such property to a third party: Provided that if the persons in whose favour 
+the conveyance is made are, by reason of any fiduciary relationship or otherwise, 
+precluded from validly carrying out the transaction, the conveyance shall be liable to 
+be set aside. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+General rules affecting contracts, conveyances, and other instruments—Part 3 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+17 
+41—Execution and attestation of deeds 
+ 
+(1) 
+The following rules govern the execution of a deed: 
+ 
+(a) 
+a natural person executes a deed by signing, or making a mark, on the deed; 
+ 
+(b) 
+a body corporate executes a deed by affixation of the common seal of the 
+body corporate to the deed in accordance with the rules governing the use of 
+the common seal; 
+ 
+(c) 
+a deed may be executed on behalf of a party to a deed— 
+ 
+(i) 
+by an attorney acting in pursuance of an authority conferred by deed; 
+or 
+ 
+(ii) 
+where a party is a natural person—by a person acting at the direction, 
+and in the presence, of the party. 
+ 
+(2) 
+The execution of a deed must be attested— 
+ 
+(a) 
+where the deed is executed by a natural person—by at least one witness who 
+is not a party to the deed; 
+ 
+(b) 
+where the deed is executed by a person acting at the direction, and in the 
+presence, of the party—by a person who is authorised by law to take 
+affidavits. 
+ 
+(3) 
+Delivery and indenting are not necessary in any case. 
+ 
+(4) 
+Notwithstanding the defective execution of a deed by or on behalf of a party to the 
+deed, the execution will be taken to be valid if it appears from evidence external to the 
+deed that the party intended to be bound by it. 
+ 
+(5) 
+Notwithstanding any other law, an instrument executed in accordance with this section 
+is a deed if— 
+ 
+(a) 
+the instrument is expressed to be an indenture or deed; or 
+ 
+(b) 
+the instrument is expressed to be sealed and delivered or, in the case of an 
+instrument executed by a natural person, to be sealed; or 
+ 
+(c) 
+it appears from the circumstances of execution of the instrument or from the 
+nature of the instrument that the parties intended it to be a deed. 
+41AA—Execution and attestation of other instruments 
+ 
+(1) 
+A party may execute an instrument (not being a will)— 
+ 
+(a) 
+subject to a condition that the execution is not to be effective until the party 
+gives (personally or by an agent) some further indication of the party's 
+intention to be bound by the instrument; or 
+ 
+(b) 
+subject to some other condition on the fulfilment of which the execution is to 
+become effective. 
+ 
+(2) 
+The conditional execution of an instrument may be expressed orally, in writing, or by 
+conduct evincing an intention that the execution should be conditional. 
+ 
+(3) 
+Where an instrument is conditionally executed, then, subject to subsection (4) and any 
+contrary intention that appears from the instrument— 
+ 
+(a) 
+the execution cannot be recalled; and 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 3—General rules affecting contracts, conveyances, and other instruments 
+ 
+18 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(b) 
+on the fulfilment of the condition, the execution takes effect— 
+ 
+(i) 
+from the time of execution; or 
+ 
+(ii) 
+if it appears from the instrument or the condition of execution that 
+the execution is intended to take effect from some later time—from 
+that later time. 
+ 
+(4) 
+Where an instrument is conditionally executed and the fulfilment of the condition is 
+within the control of the party by whom the instrument was conditionally executed, 
+then— 
+ 
+(a) 
+any party to the instrument may, without breach of obligation, recall 
+execution of the instrument at any time prior to the fulfilment of the 
+condition; and 
+ 
+(b) 
+on the fulfilment of the condition, the execution (if not previously recalled) 
+takes effect— 
+ 
+(i) 
+from the time of fulfilment of the condition; or 
+ 
+(ii) 
+if it appears from the instrument or the condition of execution that 
+the execution is intended to take effect from some later time—from 
+that later time. 
+ 
+(5) 
+Notwithstanding subsections (3) and (4), where the conditional execution of an 
+instrument is not expressed in the instrument itself, the party by whom the instrument 
+was conditionally executed cannot rely on the condition to defeat the claim of— 
+ 
+(a) 
+another party who has acted on the instrument or relied on its execution 
+without actual notice of the condition; or 
+ 
+(b) 
+a person claiming under any such party. 
+ 
+(6) 
+In any legal proceedings— 
+ 
+(a) 
+if the execution of an instrument is proved, the execution will be presumed, in 
+the absence of proof to the contrary, to have been unconditional; and 
+ 
+(b) 
+if it appears from an instrument or evidence external to an instrument that the 
+instrument was executed conditionally, it will be presumed, in the absence of 
+proof to the contrary, that the condition of execution has been fulfilled. 
+ 
+(7) 
+The common law doctrine of escrow is abolished. 
+41A—Easements without dominant land to be validly created 
+ 
+(1) 
+It is lawful and it is to be taken to have been always lawful for— 
+ 
+(a) 
+an easement to be created or operate in favour of— 
+ 
+(i) 
+the Crown; or 
+ 
+(ii) 
+a public or local authority; or 
+ (iii) a body declared under this section, 
+despite the fact that the easement is not appurtenant to any other land; 
+ 
+(b) 
+an easement to be made appurtenant or annexed to another easement. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+General rules affecting contracts, conveyances, and other instruments—Part 3 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+19 
+ 
+(2) 
+The Governor may, by proclamation— 
+ 
+(a) 
+declare a body for the purposes of subsection (1)(a)(iii); 
+ 
+(b) 
+vary or revoke a proclamation under this subsection. 
+42—Covenants for title 
+ 
+(1) 
+In a conveyance there shall, in the several cases in this section mentioned, be deemed 
+to be included, and there shall in those several cases, by virtue of this Act, be implied, 
+a covenant to the effect in this section stated, by the person or by each person who 
+conveys, as far as regards the subject-matter or share of subject-matter expressed to be 
+conveyed by him, with the person, if one, to whom the conveyance is made, or with 
+the persons jointly, if more than one, to whom the conveyance is made as joint 
+tenants, or with each of the persons, if more than one, to whom the conveyance is 
+made as tenants in common, that is to say: 
+ 
+(a) 
+in a conveyance for valuable consideration, other than a mortgage, a covenant 
+by a person who conveys and is expressed to convey as beneficial owner in 
+the terms set out in clause 1 of Schedule 2 to this Act; 
+ 
+(b) 
+in a conveyance of leasehold property for valuable consideration, other than a 
+mortgage, a further covenant by a person who conveys and is expressed to 
+convey as beneficial owner in the terms set out in clause 2 of Schedule 2 to 
+this Act; 
+ 
+(c) 
+in a conveyance by way of mortgage a covenant by a person who conveys 
+and is expressed to convey as beneficial owner in the terms set out in clause 3 
+of Schedule 2 to this Act; 
+ 
+(d) 
+in a conveyance by way of mortgage of leasehold property, a further covenant 
+by a person who conveys and is expressed to convey as beneficial owner in 
+the terms set out in clause 4 of Schedule 2 to this Act; 
+ 
+(e) 
+in a conveyance by way of settlement, a covenant by a person who conveys 
+and is expressed to convey as settlor in the terms set out in clause 5 of 
+Schedule 2 to this Act; 
+ 
+(f) 
+in any conveyance, a covenant by every person who conveys and is expressed 
+to convey as trustee or mortgagee, or as personal representative of a deceased 
+person, or as administrator, committee or other person empowered to act on 
+behalf of a mentally incapacitated person, or under an order of the court, in 
+the terms set out in clause 6 of Schedule 2 to this Act, which covenant shall 
+be deemed to extend to every such person's own acts only, and may be 
+implied in an assent by a personal representative in like manner as in a 
+conveyance by deed. 
+ 
+(2) 
+Where in a conveyance it is expressed that by direction of a person expressed to direct 
+as beneficial owner another person conveys, then, for the purposes of this section, the 
+person giving the direction, whether he conveys and is expressed to convey as 
+beneficial owner or not, shall be deemed to convey and to be expressed to convey as 
+beneficial owner the subject-matter so conveyed by his direction; and a covenant on 
+his part shall be implied accordingly. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 3—General rules affecting contracts, conveyances, and other instruments 
+ 
+20 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(4) 
+Where in a conveyance a person conveying is not expressed to convey as beneficial 
+owner, or as settlor, or as trustee, or as mortgagee, or as personal representative of a 
+deceased person, or as administrator, committee or other person empowered to act on 
+behalf of a mentally incapacitated person, or under an order of the court, or by 
+direction of a person as beneficial owner, no covenant on the part of the person 
+conveying shall be, by virtue of this section, implied in the conveyance. 
+ 
+(5) 
+In this section a conveyance does not include a demise by way of lease at a rent, but 
+does include a charge, and convey has a corresponding meaning. 
+ 
+(6) 
+The benefit of a covenant implied as aforesaid shall be annexed and incident to, and 
+shall go with, the estate or interest of the implied covenantee, and shall be capable of 
+being enforced by every person in whom that estate or interest is, for the whole or any 
+part thereof, from time to time vested. 
+ 
+(7) 
+A covenant implied as aforesaid may be varied or extended by a deed or an assent, 
+and, as so varied or extended, shall, as far as may be, operate in the like manner, and 
+with all the like incidents, effects, and consequences, as if such variations or 
+extensions were directed in this section to be implied. 
+Part 4—Mortgages 
+43—Realisation of equitable charges by the court 
+Where an order for sale is made by the court in reference to an equitable mortgage on 
+land the court may, in favour of a purchaser, make a vesting order conveying the land 
+or may appoint a person to convey the land, or may create and vest in the mortgagee a 
+legal estate in the land to enable him to carry out the sale as the case requires, in like 
+manner as if the mortgage had been made by way of legal mortgage, but without 
+prejudice to any incumbrance having priority to the equitable mortgage unless the 
+incumbrancer consents to the sale. 
+44—Sale of mortgaged property in action for redemption or foreclosure 
+ 
+(1) 
+Any person entitled to redeem mortgaged property may have a judgment or order for 
+sale instead of for redemption in an action brought by him either for redemption alone, 
+or for sale alone, or for sale or redemption in the alternative. 
+ 
+(2) 
+In any action, whether for foreclosure, or for redemption, or for sale, or for the raising 
+and payment in any manner of mortgage money, the court, on the request of the 
+mortgagee, or of any person interested either in the mortgage money or in the right of 
+redemption, and, notwithstanding that— 
+ 
+(a) 
+any other person dissents; or 
+ 
+(b) 
+the mortgagee or any person so interested does not appear in the action, 
+and without allowing any time for redemption or for payment of any mortgage money, 
+may, if it thinks fit, direct a sale of the mortgaged property, on such terms as it thinks 
+fit, including the deposit in court of a reasonable sum fixed by the court to meet the 
+expenses of sale and to secure performance of the terms. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Mortgages—Part 4 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+21 
+ 
+(3) 
+But, in an action brought by a person interested in the right of redemption and seeking 
+a sale, the court may, on the application of any defendant, direct the plaintiff to give 
+such security for costs as the court thinks fit, and may give the conduct of the sale to 
+any defendant, and may give such directions as it thinks fit respecting the costs of the 
+defendants or any of them. 
+ 
+(4) 
+In any case within this section the court may, if it thinks fit, direct a sale without 
+previously determining the priorities of incumbrancers. 
+ 
+(5) 
+In this section— 
+mortgaged property shall include the estate or interest which a mortgagee would have 
+had power to convey if the statutory power of sale were applicable. 
+ 
+(6) 
+For the purposes of this section the court may, in favour of a purchaser, make a 
+vesting order conveying the mortgaged property, or appoint a person to do so, subject 
+or not to any incumbrance, as the court thinks fit; or, in the case of an equitable 
+mortgage, may create and vest in the mortgagee a legal estate to enable him to carry 
+out the sale in like manner as if the mortgage had been made by way of legal 
+mortgage. 
+45—Obligation to transfer instead of reconveying 
+ 
+(1) 
+Where a mortgagor is entitled to redeem, then subject to compliance with the terms on 
+compliance with which he would be entitled to require a reconveyance or surrender, or 
+in the case of registered land a transfer of the mortgage, he shall be entitled to require 
+the mortgagee, instead of reconveying or surrendering, to assign the mortgage debt 
+and convey the mortgaged property, or in the case of registered land to transfer the 
+mortgage, to any third person, as the mortgagor directs; and the mortgagee shall be 
+bound to assign, convey, or transfer accordingly. 
+ 
+(2) 
+The rights conferred by this section shall belong to and shall be capable of being 
+enforced by each incumbrancer, or by the mortgagor, notwithstanding any 
+intermediate incumbrance; but a requisition of an incumbrancer shall prevail over a 
+requisition of the mortgagor, and, as between incumbrancers, a requisition of a prior 
+incumbrancer shall prevail over a requisition of a subsequent incumbrancer. 
+ 
+(3) 
+This section shall take effect notwithstanding any stipulation to the contrary. 
+ 
+(4) 
+The foregoing provisions of this section do not apply in the case of a mortgagee being 
+or having been in possession. 
+46—Vesting order in place of conveyance by devisee of mortgagee 
+Where a mortgagee of land has died without having entered into possession or into the 
+receipt of the rents and profits thereof, and the money due in respect of the mortgage 
+has been paid to a person entitled to receive the same, or such person consents to an 
+order for the reconveyance of the land, the court may make an order vesting the land 
+in such person or persons in such manner and for such estate as the court may direct in 
+any of the following cases, namely: 
+ 
+(a) 
+Where the representative or devisee of the mortgagee is out of the jurisdiction 
+of the court, or cannot be found: and 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 4—Mortgages 
+ 
+22 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(b) 
+Where the representative or devisee of the mortgagee, on demand made by or 
+on behalf of a person entitled to require a conveyance of the land, has stated 
+in writing that he will not convey the same, or does not convey the same for 
+twenty-eight days next after a proper instrument conveying the land has been 
+tendered to him by or on behalf of the person so entitled: and 
+ 
+(c) 
+Where it is uncertain which of several devisees of the mortgagee, was the 
+survivor: and 
+ 
+(d) 
+Where it is uncertain as to the survivor of several devisees of the mortgagee, 
+or as to the representative of the mortgagee, whether he is living or dead: and 
+ 
+(e) 
+Where there is no representative of a mortgagee who has died intestate as to 
+the land, or where the mortgagee has died and it is uncertain who is his 
+representative or devisee. 
+47—Powers incident to estate or interest of mortgagee 
+ 
+(1) 
+A mortgagee, where the mortgage is made by deed, shall, by virtue of this Act, and in 
+the case of registered land by virtue of the Real Property Act 1886 and of this Act, 
+have the following powers, to the like extent as if they had been in terms conferred by 
+the mortgage deed, but not further, namely: 
+ 
+(a) 
+A power, when the mortgage money has become due, to sell, or to concur 
+with any other person in selling, the mortgaged property, or any part thereof, 
+either subject to prior charges or not, and either together or in lots, by public 
+auction or by private contract, and for a sum payable either in one sum or by 
+instalments, subject to such conditions respecting title, or evidence of title, or 
+other matter, as he, the mortgagee, thinks fit, with power to vary any contract 
+for sale, and to buy in at an auction, or to rescind any contract for sale, and to 
+re-sell, without being answerable for any loss occasioned thereby, with power 
+to make such roads, streets, and passages and grant such easements of right of 
+way or drainage over the same as the circumstances may require and he 
+thinks fit; and 
+ 
+(b) 
+A power, at any time after the date of the mortgage deed, to insure and keep 
+insured against loss or damage by fire any building, or any effects or property 
+of an insurable nature, whether affixed to the freehold or not, being or 
+forming part of the property which or an estate or interest wherein is 
+mortgaged, and the premiums paid for any such insurance shall be a charge 
+on the mortgaged property or estate or interest, in addition to the mortgage 
+money, and with the same priority, and with interest at the same rate, as the 
+mortgage money; and 
+ 
+(c) 
+A power, when the mortgage money has become due, to appoint a receiver of 
+the income of the mortgaged property, or any part thereof; or, if the 
+mortgaged property consists of an interest in income, or of a rent charge or an 
+annual or other periodical sum, a receiver of that property or any part thereof. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Mortgages—Part 4 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+23 
+ 
+(2) 
+The power of sale aforesaid shall include the following powers is incident thereto, 
+namely: 
+ 
+(a) 
+A power to impose or reserve or make binding, as far as the law permits, by 
+covenant, condition, or otherwise, on the unsold part of the mortgaged 
+property or any part thereof, or on the purchaser and any property sold, any 
+restriction or reservation with respect to building on or other user of land, or 
+with respect to mines and minerals, or for the purpose of the more beneficial 
+working thereof, or with respect to any other thing: 
+ 
+(b) 
+A power to sell the mortgaged property, or any part thereof, or all or any 
+mines and minerals apart from the surface— 
+ 
+(i) 
+With or without a grant or reservation of rights of way, rights of 
+water, easements, rights and privileges for or connected with 
+building or other purposes in relation to the property remaining 
+unsold or any part thereof, or to any property sold; and 
+ 
+(ii) 
+With or without an exception or reservation of all or any of the mines 
+and minerals in or under the mortgaged property, and with or without 
+a grant or reservation of powers of working, wayleaves, or 
+rights-of-way, rights of water, and drainage and other powers, 
+easements, rights and privileges for or connected with mining 
+purposes in relation to the property remaining unsold or any part 
+thereof, or to any property sold; and 
+ (iii) With or without covenants by the purchaser to expend money on the 
+land sold. 
+ 
+(3) 
+The provisions of this Act relating to the foregoing powers, comprised either in this 
+section, or in any other section regulating the exercise of those powers, may be varied 
+or extended by the mortgage deed, and, as so varied or extended, shall, as far as may 
+be, operate in the like manner and with all the like incidents, effects, and 
+consequences as if such variations or extensions were contained in this Act. 
+ 
+(4) 
+This section shall apply only if and as far as a contrary intention is not expressed in 
+the mortgage deed, and shall have effect subject to the terms of the mortgage deed and 
+to the provisions therein contained. 
+48—Regulation of exercise of power of sale 
+A mortgagee shall not exercise the power of sale conferred by this Act unless and 
+until— 
+ 
+(a) 
+notice requiring payment of the mortgage money has been served on the 
+mortgagor or one of two or more mortgagors, and default has been made in 
+payment of the mortgage money, or of part thereof, for one month or any less 
+time provided by the mortgage after such service; or 
+ 
+(b) 
+some interest under the mortgage is in arrear and unpaid for one month after 
+becoming due; or 
+ 
+(c) 
+there has been a breach of some provision contained in the mortgage deed or 
+in this Act, and on the part of the mortgagor, or of some person concurring in 
+making the mortgage, to be observed or performed, other than and besides a 
+covenant for payment of the mortgage money or interest thereon. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 4—Mortgages 
+ 
+24 
+Published under the Legislation Revision and Publication Act 2002 
+49—Conveyance on sale 
+ 
+(1) 
+A mortgagee exercising the power of sale conferred by this Act shall have power to 
+convey or to transfer, as the case may be, the property sold, for such estate and interest 
+therein as he is by this Act authorised to sell or convey, or as may be the subject of the 
+mortgage, freed from all estates, interests, and rights to which the mortgage has 
+priority, but subject to all estates, interests, and rights which have priority to the 
+mortgage. 
+ 
+(2) 
+Where a conveyance or transfer is made in exercise of the power of sale conferred by 
+this Act, the title of the purchaser shall not be impeachable on the ground— 
+ 
+(a) 
+that no case had arisen to authorise the sale; or 
+ 
+(b) 
+that due notice was not given; or 
+ 
+(c) 
+that permission of the court, when so required, was not obtained; or 
+ 
+(d) 
+that the power was otherwise improperly or irregularly exercised; 
+and a purchaser shall not, either before or on conveyance or transfer, be concerned to 
+see or inquire whether a case has arisen to authorise the sale, or due notice has been 
+given, or the power is otherwise properly and regularly exercised; but any person 
+damnified by an unauthorised, or improper, or irregular exercise of the power shall 
+have his remedy in damages against the person exercising the power. 
+ 
+(3) 
+A conveyance or transfer on sale by a mortgagee shall be deemed to have been made 
+in exercise of the power of sale conferred by this Act or by the Real Property Act 1886 
+unless a contrary intention appears. 
+50—Application of proceeds of sale 
+The money which is in fact received by the mortgagee, arising from the sale, after 
+discharge of prior incumbrances to which the sale is not made subject (if any) or after 
+payment into court under this Act of a sum to meet any prior incumbrance, shall be 
+held by him in trust to be applied by him, first, in payment of all costs, charges, and 
+expenses properly incurred by him as incident to the sale or any attempted sale, or 
+otherwise; and secondly, in discharge of the mortgage money, interest, and costs, and 
+other money (if any) due under the mortgage; and the residue of the money so 
+received shall be paid to the person entitled to the mortgaged property, or authorised 
+to give receipts for the proceeds of the sale thereof. 
+51—Provisions as to exercise of power of sale 
+ 
+(1) 
+The power of sale conferred by this Act may be exercised by any person for the time 
+being entitled to receive and give a discharge for the mortgage money. 
+ 
+(2) 
+The power of sale conferred by this Act shall not affect the right of foreclosure. 
+ 
+(3) 
+The mortgagee shall not be answerable for any involuntary loss happening in or about 
+the exercise or execution of the power of sale conferred by this Act, or of any trust 
+connected therewith, or of any power or provision contained in the mortgage deed. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Mortgages—Part 4 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+25 
+ 
+(4) 
+At any time after the power of sale conferred by this Act has become exercisable, the 
+person entitled to exercise the power may demand and recover from any person, other 
+than a person having in the mortgaged property an estate, interest or right in priority to 
+the mortgage, all the deeds and documents relating to the property, or to the title 
+thereto, which a purchaser under the power of sale would be entitled to demand and 
+recover from him. 
+52—Mortgagee's receipts, discharges etc 
+ 
+(1) 
+The receipt in writing of a mortgagee shall be a sufficient discharge for any money 
+arising under the power of sale conferred by this Act, or for any money or securities 
+comprised in his mortgage, or arising thereunder; and a person paying or transferring 
+the same to the mortgagee shall not be concerned to inquire whether any money 
+remains due under the mortgage or as to the application of the money or securities so 
+paid or transferred. 
+ 
+(2) 
+Money received by a mortgagee under his mortgage or from the proceeds of securities 
+comprised in his mortgage shall be applied in like manner as in this Act directed 
+respecting money received by him arising from a sale under the power of sale 
+conferred by this Act, but with this variation, that the costs, charges, and expenses 
+payable shall include the costs, charges, and expenses properly incurred of recovering 
+and receiving the money or securities, and of conversion of securities into money, 
+instead of those incident to sale. 
+53—Appointment, powers, remuneration and duties of receiver 
+ 
+(1) 
+A mortgagee entitled to appoint a receiver under the power in that behalf conferred by 
+this Act shall not appoint a receiver until he has become entitled to exercise the power 
+of sale conferred by this Part, or by the Real Property Act 1886 or by the mortgage, 
+but may then, by writing under his hand, appoint a receiver. 
+ 
+(2) 
+A receiver appointed under the powers conferred by this Act shall be deemed to be the 
+agent of the mortgagor; and the mortgagor shall be solely responsible for the receiver's 
+acts or defaults unless the mortgage deed otherwise provides. 
+ 
+(3) 
+The receiver shall have power to demand and recover all the income of which he is 
+appointed receiver, by action, distress, or otherwise, in the name either of the 
+mortgagor or of the mortgagee, to the full extent of the estate or interest which the 
+mortgagor could dispose of, and to give effectual receipts accordingly for the same, 
+and to exercise any powers which may have been delegated to him by the mortgagee 
+pursuant to this Act. 
+ 
+(4) 
+A person paying money to the receiver shall not be concerned to inquire whether any 
+case has happened to authorise the receiver to act. 
+ 
+(5) 
+The receiver may be removed, and a new receiver may be appointed, from time to 
+time by the mortgagee by writing under his hand. 
+ 
+(6) 
+The receiver shall for his remuneration, and in satisfaction of all costs, charges, and 
+expenses incurred by him as receiver, be entitled to retain out of any money received 
+by him, a commission at such rate, not exceeding five per centum on the gross amount 
+of all money received, as is specified in his appointment, and if no rate is so specified, 
+then at the rate of five per centum on that gross amount, or at such higher rate as the 
+court thinks fit to allow, on application made by him for that purpose. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 4—Mortgages 
+ 
+26 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(7) 
+The receiver shall, if so directed in writing by the mortgagee, insure to the extent (if 
+any) to which the mortgagee might have insured and keep insured against loss or 
+damage by fire, out of the money received by him, any building, effects or property 
+comprised in the mortgage, whether affixed to the freehold or not, being of an 
+insurable nature. 
+ 
+(8) 
+Subject to the provisions of this Act as to the application of insurance money, the 
+receiver shall apply all money received by him as follows, namely: 
+ 
+(a) 
+In discharge of all rents, taxes, rates, and outgoings whatever affecting the 
+mortgaged property; and 
+ 
+(b) 
+In keeping down all annual sums or other payments, and the interest on all 
+principal sums, having priority to the mortgage in right whereof he is 
+receiver; and 
+ 
+(c) 
+In payment of his commission, and of the premiums on fire, life, or other 
+insurances (if any) properly payable under the mortgage deed or under this 
+Act, and the cost of executing necessary or proper repairs directed in writing 
+by the mortgagee; and 
+ 
+(d) 
+In payment of the interest accruing due in respect of any principal sum due 
+under the mortgage; and 
+ 
+(e) 
+In or towards discharge of the principal money if so directed in writing by the 
+mortgagee; 
+and shall pay the residue (if any) of the money received by him to the person who, but 
+for the possession of the receiver, would have been entitled to receive the income of 
+which he is appointed receiver, or who is otherwise entitled to the mortgaged property. 
+54—Effect of advance on joint account 
+ 
+(1) 
+Where— 
+ 
+(a) 
+in a mortgage, or an obligation for payment of money, or a transfer of a 
+mortgage or of such an obligation, the sum, or any part of the sum, advanced 
+or owing is expressed to be advanced by or owing to more persons than one 
+out of money, or as money, belonging to them on a joint account; or 
+ 
+(b) 
+a mortgage, or such an obligation, or such a transfer is made to more persons 
+than one, jointly and not in shares, 
+the mortgage money, or other money or money's worth, for the time being due to 
+those persons on the mortgage or obligation, shall, as between them and the mortgagor 
+or obligor, be deemed to be and remain money or money's worth belonging to those 
+persons on a joint account; and the receipt in writing of the survivors or last survivor 
+of them, or of the personal representative of the last survivor shall be a complete 
+discharge for all money or money's worth for the time being due, notwithstanding any 
+notice to the payer of a severance of the joint account. 
+ 
+(2) 
+This section shall apply if and so far as a contrary intention is not expressed in the 
+mortgage, obligation or transfer, and shall have effect subject to the terms of the 
+mortgage, obligation, or transfer, and to the provisions therein contained. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Mortgages—Part 4 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+27 
+55—Notice of trusts affecting mortgage debts 
+ 
+(1) 
+A person dealing in good faith with a mortgagee, or with the mortgagor if the 
+mortgage has been discharged, released, or postponed as to the whole or any part of 
+the mortgaged property, shall not be concerned with any trust at any time affecting the 
+mortgage money or the income thereof, whether or not he has notice of the trust, and 
+may assume unless the contrary is expressly stated in the instruments relating to the 
+mortgage— 
+ 
+(a) 
+that the mortgagees (if more than one) are or were entitled to the mortgage 
+money on a joint account; and 
+ 
+(b) 
+that the mortgagee has or had power to give valid receipts for the 
+purchase-money or mortgage-money and the income thereof (including any 
+arrears of interest) and to release or postpone the priority of the mortgage debt 
+or any part thereof or to deal with the same or the mortgaged property or any 
+part thereof, 
+without investigating the equitable title to the mortgage debt or the appointment or 
+discharge of trustees in reference thereto. 
+ 
+(2) 
+This section shall not affect the liability of any person in whom the mortgage debt is 
+vested for the purposes of any trust to give effect to that trust. 
+55A—Enforcement of rights against mortgagor 
+ 
+(1) 
+A right of sale or foreclosure in respect of mortgaged land, a right to enter into 
+possession of mortgaged land or a right to appoint a receiver in respect of mortgaged 
+land shall not be enforceable by the mortgagee under a mortgage to which this section 
+applies against the mortgagor by action or otherwise unless— 
+ 
+(a) 
+the mortgagee has served upon the mortgagor a notice in writing— 
+ 
+(i) 
+alleging a breach of a covenant or condition of the mortgage by the 
+mortgagor; and 
+ 
+(ii) 
+if the breach is capable of remedy, requiring the mortgagor within 
+one month after service of the notice, or such longer period as may 
+be stipulated in the notice, to remedy the breach; and 
+ (iii) if the mortgagee seeks compensation for the breach, requiring the 
+mortgagor within one month after service of the notice or such 
+longer period as may be stipulated in the notice, to pay to the 
+mortgagee the amount of the cost and expenses, stipulated in the 
+notice, that the mortgagee has reasonably incurred in consequence of 
+the breach; and 
+ 
+(b) 
+where requirements are made of the mortgagor in the notice, he has failed to 
+comply with those requirements. 
+ 
+(2) 
+Where a mortgage to which this section applies contains a provision by virtue of 
+which a liability to repay moneys under the mortgage falls due in the event of a breach 
+of a covenant or condition of the mortgage at an earlier date than if there were no such 
+breach, that provision shall be inoperative unless a notice has been served upon the 
+mortgagor in conformity with the provisions of subsection (1) of this section and 
+where requirements are made of the mortgagor in the notice, he has failed to comply 
+with those requirements. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 4—Mortgages 
+ 
+28 
+Published under the Legislation Revision and Publication Act 2002 
+ (2a) Upon the application of a mortgagee, a court may dispense, upon such terms and 
+conditions as it thinks fit, with the requirement of notice under this section. 
+ (2b) Where such a dispensation has been granted, the provisions of subsection (1) and 
+subsection (2) of this section shall not apply in respect of the mortgage. 
+ 
+(3) 
+In any proceedings brought by a mortgagee for the recovery of a mortgage debt or for 
+the enforcement of a mortgage, or in proceedings instituted by a mortgagor within 
+twenty-one days after service of a notice under this section, a court may, upon such 
+fair and equitable terms as it may determine, grant relief to a mortgagor against the 
+enforcement of rights of a kind referred to in subsection (1) of this section, and may 
+reinstate the position of the mortgagor in all respects as if no breach of a covenant or 
+condition of the mortgage had occurred. 
+ 
+(5) 
+This section applies to a mortgage of land (whether or not the land has been brought 
+under the provisions of the Real Property Act where— 
+ 
+(a) 
+the mortgagor is a natural person; and 
+ 
+(b) 
+the land is appropriated for domestic or agricultural use. 
+ 
+(6) 
+For the purposes of this section— 
+ 
+(a) 
+land shall be deemed to be appropriated for domestic or agricultural use 
+unless the mortgagor has made a statutory declaration that during the 
+currency of the mortgage— 
+ 
+(i) 
+no part of the land is to be used as a place of dwelling for the 
+mortgagor's own personal occupation; and 
+ 
+(ii) 
+in the case of land exceeding two hectares in area, no part of the land 
+is to be used by the mortgagor for the business of primary 
+production; and 
+ 
+(b) 
+where such a declaration has been made it shall be conclusively presumed 
+that the land is not appropriated for domestic or agricultural use. 
+ 
+(7) 
+In this section— 
+business of primary production means the business of agriculture, pasturage, 
+horticulture, viticulture, apiculture, poultry farming, dairy farming, forestry, or any 
+other business consisting of the cultivation of the soil, the gathering in of crops, or the 
+rearing of livestock. 
+ 
+(8) 
+This section shall not apply to any mortgage granted before the commencement of the 
+Law of Property Act Amendment Act (No. 2) 1972. 
+55B—Collateral covenants 
+ 
+(1) 
+Notwithstanding any covenant to the contrary, a mortgagee shall be deemed to have 
+covenanted with the mortgagor that where the mortgagee makes demand of any 
+amount in pursuance of the mortgage, he will at the request of the mortgagor, supply 
+him with reasonable particulars of how the amount of the demand is arrived at. 
+ 
+(2) 
+Where a mortgage is entered into after the commencement of the Law of Property Act 
+Amendment Act 1972 and a covenant collateral to the mortgage is made between the 
+mortgagor and mortgagee, the collateral covenant shall have no further force or effect 
+upon extinguishment of the mortgage debt. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Mortgages—Part 4 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+29 
+ 
+(3) 
+Any covenant by which a mortgagee might enforce a personal right to the repayment 
+of a debt secured by a mortgage after and without re-opening the foreclosure of the 
+mortgage is invalid. 
+56—Application to registered land 
+The provisions of this Part so far as the same apply to registered land shall apply 
+subject to compliance with the provisions of the Real Property Act 1886 relating to the 
+registration of instruments and the priority conferred by registration. 
+Part 5—Powers 
+57—Disclaimer etc of powers 
+ 
+(1) 
+Any person to whom any power, whether coupled with an interest or not, is given may 
+by deed disclaim, release, or contract not to exercise the power, and after such 
+disclaimer, release, or contract shall not be capable of exercising or joining in the 
+exercise of the power. 
+ 
+(2) 
+On such disclaimer, release, or contract the power may be exercised by the other 
+person or persons or the survivor or survivors of the other persons to whom the power 
+is given unless the contrary is expressed in the instrument creating the power. 
+57A—Validation of appointments where objects are excluded or take illusory 
+shares 
+ 
+(1) 
+Subject to subsections (2) and (3) of this section, no appointment purported to be 
+made in exercise of any power to appoint any property among two or more objects 
+shall be invalid on the ground that— 
+ 
+(a) 
+an unsubstantial, illusory or nominal share only is appointed or left 
+unappointed to devolve upon any object of the power; or 
+ 
+(b) 
+any object of the power is thereby altogether excluded. 
+ 
+(2) 
+Subsection (1) of this section shall not affect any provision in the instrument creating 
+the power which indicates the amount or proportion of any share from which any 
+object of the power is not to be excluded. 
+ 
+(3) 
+Subsection (1) of this section shall apply only— 
+ 
+(a) 
+to any appointment purported to be made after the enactment of this section, 
+in exercise of a power created before or after the enactment of this section; 
+and 
+ 
+(b) 
+to any appointment purported to be made by a will executed before the 
+enactment of this section, if the testator dies after the enactment of this 
+section. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 5—Powers 
+ 
+30 
+Published under the Legislation Revision and Publication Act 2002 
+58—Execution of powers not testamentary 
+ 
+(1) 
+A deed executed in the presence of and attested by two or more witnesses (in the 
+manner in which deeds are ordinarily executed and attested) shall so far as respects the 
+execution and attestation thereof, be a valid execution of a power of appointment by 
+deed or by any instrument in writing, not testamentary, notwithstanding that it is 
+expressly required that a deed or instrument in writing, made in exercise of the power, 
+is to be executed or attested with some additional or other form of execution or 
+attestation or solemnity. 
+ 
+(2) 
+This section shall not operate to defeat any direction in the instrument creating the 
+power that— 
+ 
+(a) 
+the consent of any particular person is to be necessary to a valid execution; 
+ 
+(b) 
+in order to give validity to any appointment, any act is to be performed having 
+no relation to the mode of executing and attesting the instrument. 
+ 
+(3) 
+This section shall not prevent the donee of a power from executing it in accordance 
+with the power by writing, or otherwise than by an instrument executed and attested as 
+a deed; and where a power is so executed this section shall not apply. 
+Part 6—Class closure, perpetuities and accumulations 
+Division 1—Preliminary 
+58A—Interpretation and jurisdiction 
+ 
+(1) 
+In this Part— 
+court means the Supreme Court. 
+ 
+(2) 
+The District Court does not have jurisdiction in respect of a matter in respect of which 
+the Supreme Court has jurisdiction under this Part. 
+59—Application of Part 
+ 
+(1) 
+This Part applies to— 
+ 
+(a) 
+dispositions of property made before or after the commencement of this Part; 
+and 
+ 
+(b) 
+rights and powers granted or conferred before or after the commencement of 
+this Part. 
+ 
+(2) 
+However, this Part does not validate a disposition of property if, before the 
+commencement of this Part, property subject to the disposition had been wholly or 
+partly distributed on the basis that the disposition is invalid. 
+ 
+(3) 
+This Part applies to land whether or not it has been brought under the provisions of the 
+Real Property Act 1886. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Class closure, perpetuities and accumulations—Part 6 
+Rules for class ascertainment—Division 2 
+Published under the Legislation Revision and Publication Act 2002 
+31 
+Division 2—Rules for class ascertainment 
+60—Class ascertainment 
+For the purpose of ascertaining whether the membership of a class is presently 
+ascertainable and, if so, the membership of the class— 
+ 
+(a) 
+the possibility that a person might, while under the age of 12 years, become 
+the natural or adoptive parent of a child is to be ignored; and 
+ 
+(b) 
+the possibility that a male or female over the age of 55 years might become 
+the adoptive parent of a child is to be ignored; and 
+ 
+(c) 
+the possibility that a female over the age of 55 years might bear a child is to 
+be ignored; and 
+ 
+(d) 
+the possibility that a child might be born to a living person is to be ignored if 
+it is established to the satisfaction of the court that there is no real prospect 
+that the possibility will be realised; and 
+ 
+(e) 
+the possibility of biological parentage arising from an artificial reproductive 
+procedure involving the use of reproductive material from a person who is 
+dead at the time of the procedure is to be ignored. 
+60A—Court's power to reverse statutory limitation on class membership 
+ 
+(1) 
+The court may, on application by an interested person, expand the membership of a 
+class by including in the class a living person who would, but for this Division, have 
+been a member of the class. 
+ 
+(2) 
+A new member included in a class under this section becomes entitled, subject to any 
+conditions stated in the court's order, to share in a distribution of property to members 
+of the class made after the date of the order. 
+ 
+(3) 
+The inclusion of a new member in the class under this section does not affect a 
+distribution of property made before the date of the court's order. 
+Division 3—Perpetuities and accumulations 
+61—Abolition of rules against perpetuities and excessive accumulations 
+ 
+(1) 
+A disposition of property is not invalid— 
+ 
+(a) 
+because of the remoteness from the date of the disposition of the time an 
+interest will, or may, vest in pursuance of the disposition; or 
+ 
+(b) 
+because, under the terms of the disposition, an interest is limited, for life, to a 
+person who was unborn at the date of the disposition, with a remainder over 
+to a child or other issue of that person; or 
+ 
+(c) 
+because it provides for or permits the accumulation of income. 
+ 
+(2) 
+A right or power in respect of property is not invalid because of the remoteness of the 
+time it is to be, or may be, exercised. 
+ 
+(3) 
+A purported exercise of a right or power in respect of property is not invalid because 
+of its remoteness from the time the right or power was created. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 6—Class closure, perpetuities and accumulations 
+Division 3—Perpetuities and accumulations 
+32 
+Published under the Legislation Revision and Publication Act 2002 
+62—Court may order vesting of interests 
+ 
+(1) 
+If, 80 years or more after the date of a disposition of property, there remain interests in 
+the property that have not vested, the court may, on application under this section, 
+vary the terms of the disposition so that the interests vest immediately. 
+ 
+(2) 
+The court may, on application under this section, vary the terms of a disposition of 
+property so that interests that cannot vest, or are unlikely to vest, within 80 years after 
+the date of the disposition, will vest within that period. 
+ 
+(3) 
+If a disposition provides for the accumulation, or partial accumulation, of income from 
+property over a period that will or may terminate 80 years or more after the date of the 
+disposition, the court may, on application under this section, vary the terms of the 
+disposition so that both capital and income will vest within 80 years from the date of 
+the disposition. 
+ 
+(4) 
+In varying the terms of a disposition under this section the court should give effect to 
+the spirit of the original disposition insofar as that is possible given that interests are to 
+vest earlier than contemplated by the person who made the disposition. 
+ 
+(5) 
+An application under this section may be made by— 
+ 
+(a) 
+the Attorney-General; or 
+ 
+(b) 
+a trustee of property to which the disposition relates; or 
+ 
+(c) 
+the next-of-kin of a deceased person to whose estate the disposition relates; or 
+ 
+(d) 
+a person who has, under the terms of the disposition, an actual or potential 
+interest in property subject to the disposition; or 
+ 
+(e) 
+a person who would, assuming the existence and continuance of lineal issue, 
+be the ancestor of a person (as yet unborn) who would have an actual or 
+potential interest in property subject to the disposition. 
+ 
+(6) 
+This section does not apply to— 
+ 
+(a) 
+a trust constituted by statute or letters patent; or 
+ 
+(b) 
+a trust of which the purposes are wholly charitable; or 
+ 
+(c) 
+a trust wholly for the provision of benefits of the following kinds, or of any 
+one or more of the following kinds: 
+ 
+(i) 
+superannuation or retirement benefits; or 
+ 
+(ii) 
+medical, hospital or funeral benefits; or 
+ (iii) other benefits payable in the event of death, sickness or incapacity; 
+or 
+ 
+(d) 
+a trust for the benefit of the members of an unincorporated association. 
+ 
+(7) 
+A disposition of property by will is, for the purposes of this section, taken to have 
+been made at the date of death of the testator or testatrix. 
+62A—Preservation of rule in Saunders v Vautier 
+This Part does not affect the principle under which a beneficiary who is sui juris may 
+put an end to an accumulation and require distribution of his or her presumptive share 
+of property subject to the accumulation
+1. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Class closure, perpetuities and accumulations—Part 6 
+Perpetuities and accumulations—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+33 
+Note— 
+1 
+The rule in Saunders v Vautier applies where there is more than one beneficiary, even 
+though their several interests are not immediate but successive, provided they are 
+unanimous in wishing to end the trust—See Jacobs on Trusts, 5th ed. para 2308. 
+Part 7—Apportionment 
+63—Definitions 
+In this Part— 
+annuities includes salaries and pensions; 
+dividends includes (besides dividends strictly so called) all payments made by the 
+name of dividends, bonus, or otherwise out of the revenue of trading or other public 
+companies, divisible between all or any of the members of such respective companies, 
+whether such payments shall be usually made or declared at any fixed times or 
+otherwise; and all such divisible revenue shall, for the purposes of this Act, be deemed 
+to have accrued by equal daily increment during and within the period for or in respect 
+of which the payment of the same revenue shall be declared or expressed to be made; 
+but the said word dividend does not include payments in the nature of a return or 
+reimbursement of capital; 
+rent includes all periodical payments or renderings in lieu of or in the nature of rent. 
+64—Apportionment of rents in respect of time 
+All rent, annuities, dividends, and other periodical payments in the nature of income 
+(whether reserved or made payable under an instrument in writing, or otherwise) shall, 
+like interest on money lent, be considered as accruing from day to day, and shall be 
+apportionable in respect of time accordingly. 
+65—When apportioned part payable or recoverable 
+The apportioned part of any such rent, annuity, dividend, or other payment shall be 
+payable or recoverable, in the case of a continuing rent, annuity, or other such 
+payment, when the entire portion of which such apportioned part shall form part shall 
+become due and payable, and not before; and in the case of a rent, annuity, or other 
+such payment determined by re-entry, death, or otherwise when the next entire portion 
+of the same would have been payable if the same had not so determined, and not 
+before. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 7—Apportionment 
+ 
+34 
+Published under the Legislation Revision and Publication Act 2002 
+66—Right of recovering apportioned parts 
+All persons and their respective executors, administrators, and assigns, and also the 
+executors, administrators, and assigns respectively of persons whose interests 
+determine with their own deaths, shall have such or the same remedies at law and in 
+equity for recovering such apportioned parts as aforesaid when payable (allowing 
+proportionate parts of all just allowances) as they respectively would have had for 
+recovering such entire portions as aforesaid if entitled thereto respectively: Provided 
+that persons liable to pay rent reserved out of or charged on lands or other 
+hereditaments of any tenure and the same lands or other hereditaments shall not be 
+resorted to for any such apportioned part forming part of an entire or continuing rent 
+as aforesaid specifically; but the entire or continuing rent, including such apportioned 
+part, shall be recovered and received by the person who, if the rent had not been 
+apportionable under this Part, or otherwise, would have been entitled to such entire or 
+continuing rent; and such apportioned part shall be recoverable from such person by 
+the executors or other parties entitled under this Part to the same by action at law or in 
+equity. 
+67—Policies of assurance 
+Nothing in this Part shall render apportionable any annual sums made payable in 
+policies of assurance of any description. 
+68—Contracting out 
+This Part shall not extend to any case in which it is or shall be expressly stipulated that 
+no apportionment shall take place. 
+Part 8—Partition 
+69—Power to order partition or sale instead of partition 
+ 
+(1) 
+On any application for partition the court may order a partition of the said land or 
+other property, and may give all necessary or proper consequential directions. 
+ 
+(2) 
+On any such application if it appears to the court that, by reason of the nature of the 
+property, or of the number of the parties interested or presumptively interested therein, 
+or of the absence or disability of some of those parties, or of any other circumstance, a 
+sale of the property and a distribution of the proceeds would be more beneficial for the 
+parties interested than a division of the property between or among them, the court 
+may, if it thinks fit, on the request of any of the parties interested, and notwithstanding 
+the absence, dissent or disability of any others of them, direct a sale of the property 
+accordingly, and may give all necessary or proper consequential directions. 
+70—Sale on application of certain proportion of parties interested 
+On any application for partition, if the party or parties interested individually or 
+collectively, to the extent of one moiety or upwards in the property, request the court 
+to direct a sale of the property and a distribution of the proceeds, instead of a division 
+of the property between or among the parties interested, the court shall, unless it sees 
+good reason to the contrary, direct a sale of the property accordingly, and shall give all 
+necessary or proper consequential directions. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Partition—Part 8 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+35 
+71—As to purchase of share of party desiring sale 
+On any application for partition, if any party interested in the property requests the 
+court to direct a sale of the property and a distribution of the proceeds instead of a 
+division of the property between or among the parties interested, the court may, if it 
+thinks fit, unless the other parties interested in the property, or some of them, 
+undertake to purchase the share of the party requesting a sale, direct a sale of the 
+property, and give all necessary or proper consequential directions, and in case of such 
+undertaking being given the court may order a valuation of the share of the party 
+requesting a sale in such manner as the court thinks fit, and may give all necessary or 
+proper consequential directions. 
+72—Notice to interested parties 
+ 
+(1) 
+Notice of every application for partition shall be served on all other parties interested 
+in the property unless the court otherwise directs. 
+ 
+(2) 
+Any party served with notice may attend the proceedings. 
+ 
+(3) 
+The court may direct such inquiries as to the nature of the property and the persons 
+interested therein and other matters as it thinks necessary or proper with a view to an 
+order for partition or sale. 
+ 
+(4) 
+If it appears to the court that notice of the application cannot be served on all parties 
+interested in the property, or cannot be served without undue delay or expense 
+disproportionate to the value of the property the court may dispense with the service 
+of notice of the application on any person or class of person specified in the order 
+dispensing with service. 
+ 
+(5) 
+The court may direct advertisements to be published in such manner as the court 
+thinks fit, calling on all persons interested to come in and establish their claims within 
+a time limited by the advertisements. 
+ 
+(6) 
+If an order is made by the court dispensing with service or for the publication of 
+advertisements, all parties interested shall be bound by the proceedings in the 
+application, whether they are within or without the jurisdiction of the court (including 
+persons under any disability) as if they had been served with notice. 
+73—Proceedings where service is dispensed with 
+Where an order is made under the preceding section dispensing with service, and 
+property is sold by order of the court, the following provisions shall have effect, 
+subject to any contrary order of the court: 
+ 
+(a) 
+the proceeds of sale shall be paid into court to abide the further order of the 
+court; 
+ 
+(b) 
+the court shall, by order, fix a time, at the expiration of which the proceeds 
+will be distributed, and may from time to time, by further order, extend that 
+time; 
+ 
+(c) 
+the court shall direct such notices to be given by advertisements or otherwise 
+as it thinks best adapted for notifying to any persons who may not have 
+previously come in and established their claims, the fact of the sale, the time 
+of the intended distribution, and the time within which a claim to participate 
+in the proceeds must be made; 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 8—Partition 
+ 
+36 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(d) 
+if at the expiration of the time so fixed or extended the interests of all the 
+persons interested have been ascertained, the court shall distribute the 
+proceeds in accordance with the rights of those persons; 
+ 
+(e) 
+if at the expiration of the time so fixed or extended the interests of all the 
+persons interested have not been ascertained, and it appears to the court that 
+they cannot be ascertained, or cannot be ascertained without undue delay or 
+expense disproportionate to the value of the property or of the unascertained 
+interest, the court shall distribute the proceeds in such manner as appears to 
+the court to be most in accordance with the rights of the persons whose claims 
+to participate in the proceeds have been established, whether all those persons 
+are or are not before the court, and with such reservations (if any) as to the 
+court may seem fit in favour of any other persons (whether ascertained or not) 
+who may appear from the evidence before the court to have any prima facie 
+rights which ought to be so provided for, although such rights may not have 
+been fully established, but to the exclusion of all other persons, and thereupon 
+all such other persons shall by virtue of this Part be excluded from 
+participation in those proceeds on the distribution thereof, but 
+notwithstanding the distribution any excluded person may recover from any 
+participating person any portion received by him of the share of the excluded 
+person. 
+74—Authority for parties interested to bid 
+On any sale under this Part the court may, if it thinks fit, allow any of the parties 
+interested in the property to bid at the sale, on such terms as to non-payment of 
+deposit, or as to setting off or accounting for the purchase-money, or any part thereof, 
+instead of paying the same, or as to any other matters as to the court seem reasonable. 
+75—Court to declare what parties are trustees of lands comprised in any suit, 
+and as to the interests of persons unborn 
+In any application for partition where an order shall be made by the court for the sale 
+instead of the partition of the property, it shall be lawful for the court to declare that 
+any of the parties are trustees of such property or any part thereof within the meaning 
+of this Part, or to declare concerning the interests of unborn persons who might claim 
+under any party or under the will or voluntary settlement of any person deceased who 
+was during his lifetime a party to the transaction concerning which such order is made, 
+that such interests of unborn persons are the interests of persons who, upon coming 
+into existence, would be trustees within the meaning of this Part, and thereupon it 
+shall be lawful for the court to make such order or orders as to the estates, rights, and 
+interests of such persons, born or unborn, as the said court might, under the provisions 
+of this Part make concerning the estates, rights, and interests of trustees born or 
+unborn. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Partition—Part 8 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+37 
+76—Payment and application of moneys arising from settled land 
+All moneys to be received on any sale effected under the authority of this Part, when 
+the property sold is settled land, may, if the court shall think fit be paid to any trustees 
+of whom it shall approve, or otherwise the same shall be paid into court, and such 
+money shall be applied as the court shall from time to time direct to some one or more 
+of the following purposes, namely: 
+ 
+(a) 
+The discharge or redemption of any incumbrance affecting the hereditaments 
+in respect of which such money was paid, or affecting any other 
+hereditaments, subject to the same uses as trusts; or 
+ 
+(b) 
+The purchase of other hereditaments to be settled in the same manner as 
+hereditaments in respect of which the money was paid; or 
+ 
+(c) 
+The payment to any person becoming absolutely entitled. 
+77—Trustees may apply moneys in certain cases without application to court 
+The application of the money in manner aforesaid may, if the court shall so direct, be 
+made by the trustees (if any) without any application to the court, or otherwise upon 
+an order of the court, upon the application of the person who would be entitled to the 
+possession or the receipt of the rents and profits of the land if the money had been 
+invested in the purchase of land. 
+78—Until money directed to be applied it is to be invested and dividends to be 
+paid to parties entitled 
+Until the money shall be directed by the court to be applied as aforesaid, the same 
+shall be invested as the court shall direct in some or one of the investments in which 
+money under the control of the court is for the time being authorised to be invested, 
+and the interest and dividends of such investments shall be paid to the person who 
+would have been entitled to the rents and profits of the land if the money had been 
+invested in the purchase of land. 
+79—Court may direct application of money in respect of leases or reversions as 
+may appear just 
+Where any purchase money paid into court under the provisions of this Part shall have 
+been paid in respect of any lease or any estate in lands less than the whole fee simple 
+thereof, or of any reversion dependent on any such lease or estate, the court may, on 
+the application of any party interested in such money, order that the same shall be laid 
+out, invested, accumulated, and paid in such manner as the court may consider will 
+give to the parties interested in such money the same benefit therefrom as they might 
+lawfully have had from the lease, estate, or reversion in respect of which such money 
+shall have been paid, or as near thereto as may be. 
+80—Interpretation of settled land 
+ 
+(1) 
+The term settled land, as used in this Part, shall signify all hereditaments of any 
+tenure, and all estates or interest in any such hereditaments, which are or shall be the 
+subject of a settlement; and for the purpose of this Part a tenant in tail after possibility 
+of issue extinct, shall be deemed to be a tenant for life. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 8—Partition 
+ 
+38 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(2) 
+All estates or interests in remainder or reversion not disposed of by the settlement, or 
+reverting to a settlor, or descending to the heirs, executors, or administrators of a 
+testator, shall be deemed to be estates coming to such settlor or heirs, executors, and 
+administrators under or by virtue of the settlement. 
+ 
+(3) 
+In determining what are settled lands within the meaning of this Part, the court shall 
+be governed by the state of facts, and by trusts or limitations of the settlement at the 
+time of the said settlement taking effect. 
+81—Provision for case of successive sales in same auction 
+If on any application for partition two or more sales are made and if any person who 
+has by virtue of this Part been excluded from participation in the proceeds of any of 
+those sales establishes his claim to participate in the proceeds of a subsequent sale, the 
+shares of the other persons interested in the proceeds of the subsequent sale shall abate 
+to the extent (if any) to which they were increased by the non-participation of the 
+excluded person in the proceeds of the previous sale, and shall to that extent be 
+applied in or towards payment to that person of the share to which he would have been 
+entitled in the proceeds of the previous sale if his claim thereto had been established in 
+due time. 
+82—Request by infant or person under disability 
+In an application for partition a request for sale may be made or an undertaking to 
+purchase given on the part of an infant, person of unsound mind, or person under any 
+other disability, by the next friend, guardian, committee (if so authorised by order of 
+the court) or other person authorised to act on behalf of the person under such 
+disability, but the court shall not be bound to comply with any such request or 
+undertaking on the part of an infant unless it appears that the sale or purchase will be 
+for his benefit. 
+83—Application for partition to include application for sale and distribution of 
+the proceeds 
+In an application for partition it shall be sufficient to claim a sale and distribution of 
+the proceeds, and it shall not be necessary to claim a partition. 
+84—Costs 
+In any application for partition the court may make such order as it thinks just 
+respecting costs. 
+Part 9—Voidable dispositions 
+86—Voluntary conveyances to defraud creditors 
+ 
+(1) 
+Every conveyance of property made with intent to defraud creditors shall be voidable 
+at the instance of the party prejudiced thereby. 
+ 
+(2) 
+This section shall not extend to any estate or interest in property conveyed for 
+valuable consideration and in good faith or upon good consideration and in good faith 
+to any person not having, at the time of the conveyance, notice of the intent to defraud 
+creditors. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Voidable dispositions—Part 9 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+39 
+87—Voluntary disposition with intent to defraud voidable as against 
+purchasers 
+ 
+(1) 
+Every voluntary disposition of land made with intent to defraud a subsequent 
+purchaser is voidable at the instance of that purchaser. 
+ 
+(2) 
+For the purposes of this section no voluntary disposition shall be deemed to have been 
+made with intent to defraud by reason only that a subsequent conveyance for valuable 
+consideration was made. In this section disposition includes every mode of disposition 
+mentioned or referred to in the Real Property Act 1886. 
+88—Acquisitions of reversions at an under value 
+ 
+(1) 
+No acquisition made in good faith, without fraud or unfair dealing, of any reversionary 
+interest in real or personal property, for money or money's worth, shall be liable to be 
+opened or set aside merely on the ground of under value. 
+ 
+(2) 
+In this section— 
+reversionary interest includes an expectancy or possibility. 
+ 
+(3) 
+This section shall not affect the jurisdiction of the court to set aside or modify 
+unconscionable bargains. 
+Part 10—Miscellaneous 
+89—Vesting order in lieu of conveyance 
+Where a person entitled to or possessed of land or any interest therein, either solely or 
+jointly with any other person, by way of security for money, is an infant, or a mentally 
+incapacitated person, the court may make an order vesting or releasing or disposing of 
+the land or interest therein in like manner as in the case of a trustee who is an infant or 
+a mentally incapacitated person. 
+90—Vesting order in cases of mentally incapacitated or infant mortgagee 
+Where a person entitled alone or jointly with another person to stock or a chose in 
+action by way of security for money is a mentally incapacitated person, or an infant, 
+the court may make an order vesting the right to transfer, or call for a transfer of the 
+stock, or receive the dividends or income thereof, or to sue for or recover the chose in 
+action in like manner as in the case of a trustee who is a mentally incapacitated person, 
+or an infant. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 10—Miscellaneous 
+ 
+40 
+Published under the Legislation Revision and Publication Act 2002 
+91—In what cases the heir, representative, or devisee of a person, who has 
+contracted to sell land, shall be deemed a trustee 
+Where a person having contracted in writing to sell land dies without having conveyed 
+the land in pursuance of his contract, and the consideration for the sale has been paid 
+or satisfied in his lifetime, or after his decease, or the person entitled to receive the 
+consideration money or such part thereof as may remain unsatisfied, is willing to 
+receive the same, and there is no dispute or question as to the making of the contract, 
+or as to the right of the purchaser of the land so agreed to be sold to demand specific 
+performance of such contract, and the court shall be satisfied that the only impediment 
+to the performance thereof arises from the fact that the legal estate in the land has 
+become vested in the representative or devisee of the deceased vendor, who is an 
+infant, or a mentally incapacitated person, the court may make an order declaring the 
+representative or devisee, as the case may be, of the deceased vendor to be a trustee of 
+the land contracted to be sold, and such representative or devisee shall thereupon be 
+deemed to be a trustee thereof within the meaning of Trustee Act 1936 and at the same 
+time or subsequently the court may order that the land shall vest in such person in 
+such manner and for such estate as the court may direct, and may give directions as to 
+the payment and satisfaction of any unpaid or unsatisfied purchase-money. 
+100—Assurance policy by spouses 
+ 
+(1) 
+A policy of assurance effected by a person on the person's own life, and expressed to 
+be for the benefit of the person's spouse or children, or of the person's spouse and 
+children, or any of them, creates a trust in favour of the objects named in the policy. 
+ (1a) The money payable under a policy referred to in subsection (1) will not, so long as any 
+of the trust remains unperformed, form part of the estate of the insured, or be subject 
+to the insured's debts. 
+ 
+(2) 
+The insured may by the policy, or by any memorandum under his or her hand, appoint 
+a trustee or trustees of the moneys payable under the policy, and from time to time 
+appoint a new trustee or new trustees thereof, and may make provision for the 
+appointment of a new trustee or new trustees thereof, and for the investment of the 
+moneys payable under any such policy. In default of any such appointment of a 
+trustee, such policy, immediately on its being effected, shall vest in the insured and his 
+or her legal personal representatives, in trust for the purposes aforesaid. If, at the time 
+of the death of the insured, or at any time afterwards, there shall be no trustee, or it 
+shall be expedient to appoint a new trustee or new trustees, a trustee or trustees, or a 
+new trustee or new trustees may be appointed by the court. 
+ 
+(3) 
+The receipt of a trustee or trustees duly appointed, or, in default of any such 
+appointment, or in default of notice to the insurance office, the receipt of the legal 
+personal representative of the insured, shall be a discharge to the office for the sum 
+secured by the policy, or for the value thereof, in whole or in part. 
+108—Interpretation of terms 
+The word contract in this Part shall include the acceptance of any trust, or of the 
+office of executor or administrator. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Miscellaneous—Part 10 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+41 
+110—Invalidity of restraints upon anticipations 
+Any restraint or restriction upon anticipation or alienation affecting the enjoyment of 
+property by a woman that could not have been validly made or imposed in respect of 
+the enjoyment of property by a man, is invalid. 
+112—Regulations respecting notices 
+ 
+(1) 
+Any notice required or authorised to be served or given by this Act shall be in writing. 
+ 
+(2) 
+Any notice required or authorised by this Act to be served on a mortgagor shall be 
+sufficient, although only addressed to the mortgagor by that designation, without his 
+name, or generally to the persons interested, without any name, and notwithstanding 
+that any person to be affected by the notice is absent, under disability, unborn, or 
+unascertained. 
+ 
+(3) 
+Any notice required or authorised by this Act to be served shall be sufficiently served 
+if it is left at the last-known place of abode or business in South Australia of the 
+mortgagee, mortgagor, or other person to be served, or, in case of a notice required or 
+authorised to be served on a mortgagor, is affixed or left for him on the land or any 
+house or building comprised in the mortgage. 
+ 
+(4) 
+Any notice required or authorised by this Act to be served shall also be sufficiently 
+served if it is sent by post in a registered letter addressed to the mortgagee, mortgagor, 
+or other person to be served, by name, at the aforesaid place of abode or business, and 
+if that letter is not returned through the post office undelivered; and that service shall 
+be deemed to be made at the time at which the registered letter would in the ordinary 
+course be delivered. 
+114—Power of Court to sell interest of Crown in real estate 
+ 
+(1) 
+Where in any proceeding it appears to the court that His Majesty is entitled to any 
+hereditament, corporeal or incorporeal, or to any estate, legal or equitable, therein, the 
+court may, on the application or with the consent of the Attorney-General, 
+notwithstanding that no office has been found and no commission issued, order a sale 
+of the hereditament, estate, or interest; and the net proceeds of such sale, or such 
+portion thereof as represents the interest of His Majesty, shall be paid to the Treasurer 
+for the purposes of the public revenue. 
+ 
+(2) 
+The court on any such sale may make an order for the Public Trustee to convey the 
+hereditament, estate, or interest to or vesting the same in the purchaser. 
+116—Definition of intestacy 
+Where any beneficial interest in land of a deceased person, whether the estate or 
+interest of such deceased person therein was legal or equitable, is owing to the failure 
+of the objects of the devise or other circumstances happening before or after the death 
+of such person in whole or in part not effectually disposed of, such person shall be 
+deemed for the purposes of this Act to have died intestate in respect of such part of the 
+said beneficial interest as is ineffectually disposed of. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Part 10—Miscellaneous 
+ 
+42 
+Published under the Legislation Revision and Publication Act 2002 
+117—Restrictions on constructive notice 
+ 
+(1) 
+A purchaser shall not be prejudicially affected by notice of any instrument, fact, or 
+thing unless— 
+ 
+(a) 
+it is within his own knowledge, or would have come to his knowledge if such 
+inquiries and inspections had been made as ought reasonably to have been 
+made by him; or 
+ 
+(b) 
+in the same transaction with respect to which a question of notice to the 
+purchaser arises, it has come to the knowledge of his solicitor or other agent, 
+as such, or would have come to the knowledge of his solicitor or other agent, 
+as such, if such inquiries and inspections had been made as ought reasonably 
+to have been made by the solicitor or other agent. 
+ 
+(2) 
+This section shall not exempt a purchaser from any liability under, or any obligation to 
+perform or observe, any covenant, condition, provision, or restriction contained in any 
+instrument under which his title is derived, mediately or immediately; and such 
+liability or obligation may be enforced in the same manner and to the same extent as if 
+this section had not been passed. 
+ 
+(3) 
+A purchaser shall not by reason of anything in this section be affected by notice in any 
+case where he would not have been so affected if this section had not been passed. 
+118—Lessor to have benefit of an informal insurance 
+The person entitled to the benefit of a covenant on the part of a lessee or mortgagor to 
+insure against loss or damage by fire, shall, on loss or damage by fire happening, have 
+the same advantage from any then subsisting insurance relating to the building 
+covenanted to be insured effected by the lessee or mortgagor, in respect of his interest 
+under the lease or in the property, or by any person claiming under him, but not 
+effected in conformity with the covenant, as he would have from an insurance effected 
+in conformity with the covenant. 
+119—Payment into court 
+Payment of money into court effectually exonerates therefrom the person making the 
+payment. 
+120—Saving of certain rights of the Crown 
+ 
+(1) 
+Nothing in this Act shall be construed as rendering any property of the Crown subject 
+to distress, or liable to be taken or disposed of by means of any distress. 
+ 
+(2) 
+Subject as aforesaid, and subject to any enactment to the contrary, the provisions of 
+this Act shall bind the Crown. 
+Schedule 1—Acts repealed 
+ 
+Number and year 
+of Act 
+Short or long title of Act 
+Extent of repeal 
+15 of 1843 
+An Ordinance to facilitate conveyances of real 
+estate 
+The whole 
+15 of 1845 
+An Ordinance to render effectual conveyances by 
+married women and to declare the effect of certain 
+The whole 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Acts repealed—Schedule 1 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+43 
+Number and year 
+of Act 
+Short or long title of Act 
+Extent of repeal 
+deeds in relation to dower 
+25 of 1852 
+An Ordinance to amend the law of real property 
+The whole 
+5 of 1853 
+An Act for the more effectual administration of 
+justice by means of the Supreme Court 
+Sections 171 and 172 
+6 of 1860 
+An Act to amend the law of property and for other 
+purposes 
+The whole Act so far as the 
+same is unrepealed except 
+sections 22 and 23 
+7 of 1862 
+An Act to give to trustees, mortgagees, and others, 
+certain powers now commonly inserted in 
+settlements, mortgages, and wills 
+Sections 10 to 22 both inclusive 
+5 of 1864 
+An Act to amend and consolidate the laws relating 
+to aliens 
+The whole 
+7 of 1866 
+Supreme Court Procedure Act 
+Sections 15 and 26 
+20 of 1866-7 
+The Equity Act 
+Sections 150 and 151 
+23 of 1872 
+The Married Women's Acknowledgements Act 
+Section 1 
+116 of 1878 
+Supreme Court Act 
+Section 6, I. to VII., inclusive 
+142 of 1879 
+An Act to amend the law relating to sales of 
+reversions 
+The whole 
+203 of 1881 
+Partition Act 
+The whole 
+300 of 1883-4 
+Married Women's Property Act 
+The whole 
+486 of 1890 
+Public Trustee Amendment Act 
+The whole so far as the same is 
+unrepealed 
+586 of 1893 
+Trustee Act 
+Sections 30, 31, 32, 33, 34, 38, 
+39(2), 43, 69, 72, 73, 74, and 75 
+898 of 1905 
+Apportionment Act 
+The whole 
+796 of 1902 
+Married Women's Property Act Amendment Act 
+The whole 
+1043 of 1911 
+Ancient Lights Act 
+The whole 
+1045 of 1911 
+Law of Property Amendment Act 
+The whole 
+1084 of 1912 
+Married Women's Property Act Amendment Act 
+The whole 
+1502 of 1922 
+Partition Act Amendment Act 
+The whole 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Schedule 2—Implied covenants 
+ 
+44 
+Published under the Legislation Revision and Publication Act 2002 
+Schedule 2—Implied covenants 
+1—Covenant implied in a conveyance for valuable consideration, other than a 
+mortgage, by a person who conveys and is expressed to convey as 
+beneficial owner 
+ 
+(1) 
+That, notwithstanding anything by the person who so conveys or any one through 
+whom he derives title otherwise than by purchase for value, made, done, executed or 
+omitted, or knowingly suffered, the person who so conveys, has, with the concurrence 
+of every other person (if any) conveying by his direction, full power to convey the 
+subject-matter expressed to be conveyed, subject as, if so expressed, and in the 
+manner in which, it is expressed to be conveyed, and that, notwithstanding anything as 
+aforesaid, that subject-matter shall remain to and be quietly entered upon, received, 
+and held, occupied, enjoyed, and taken, by the person to whom the conveyance is 
+expressed to be made, and any person deriving title under him, and the benefit thereof 
+shall be received and taken accordingly, without any lawful interruption or 
+disturbance by the person who so conveys or any person conveying by his direction, 
+or rightfully claiming or to claim by, through, under, or in trust for the person who so 
+conveys, or any person conveying by his direction, or by, through, or under any one 
+(not being a person claiming in respect of an estate or interest subject whereto the 
+conveyance is expressly made), through whom the person who so conveys derives 
+title, otherwise than by purchase for value. 
+ 
+(2) 
+And that, freed and discharged from, or otherwise by the person who so conveys 
+sufficiently indemnified against, all such estates, incumbrances, claims, and demands, 
+other than those subject to which the conveyance is expressly made, as, either before 
+or after the date of the conveyance, have been or shall be made, occasioned or suffered 
+by that person or by any person conveying by his direction, or by any person rightfully 
+claiming by, through, under or in trust for the person who so conveys, or by, through 
+or under any person conveying by his direction, or by, through, or under any one 
+through whom the person who so conveys derives title, otherwise than by purchase for 
+value. 
+ 
+(3) 
+And further, that the person who so conveys, and any person conveying by his 
+direction, and every other person having or rightfully claiming any estate or interest in 
+the subject-matter of conveyance, other than an estate or interest subject whereto the 
+conveyance is expressly made, by, through, under or in trust for the person who so 
+conveys, or by, through, or under any person conveying by his direction, or by, 
+through or under any one through whom the person who so conveys derives title, 
+otherwise than by purchase for value, will, from time to time and at all times after the 
+date of the conveyance, on the request and at the cost of any person to whom the 
+conveyance is expressed to be made, or of any person deriving title under him, 
+execute and do all such lawful assurances and things for further or more perfectly 
+assuring the subject-matter of the conveyance to the person to whom the conveyance 
+is made, and to those deriving title under him, subject as, if so expressed, and in the 
+manner in which the conveyance is expressed to be made, as by him or them or any of 
+them shall be reasonably required. 
+ 
+(4) 
+In the above covenant a purchase for value shall not be deemed to include a 
+conveyance in consideration of marriage. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Implied covenants—Schedule 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+45 
+2—Further covenant implied in a conveyance of leasehold property for 
+valuable consideration, other than a mortgage, by a person who conveys 
+and is expressed to convey as beneficial owner 
+ 
+(1) 
+That, notwithstanding anything by the person who so conveys, or any one through 
+whom he derives title, otherwise than by purchase for value, made, done, executed or 
+omitted, or knowingly suffered, the lease or grant creating the term or estate for which 
+the land is conveyed is, at the time of conveyance, a good, valid, and effectual lease or 
+grant of the property conveyed, and is in full force, unforfeited, unsurrendered, and 
+has in nowise become void or voidable, and that, notwithstanding anything as 
+aforesaid, all the rents reserved by, and all the covenants, conditions and agreements 
+contained in, the lease or grant, and on the part of the lessee or grantee and the persons 
+deriving title under him to be paid, observed and performed, have been paid, observed, 
+and performed up to the time of conveyance. 
+ 
+(2) 
+In the above covenant a purchase for value shall not be deemed to include a 
+conveyance in consideration of marriage. 
+3—Covenant implied in a conveyance by way of mortgage by a person who 
+conveys and is expressed to convey as beneficial owner 
+ 
+(1) 
+That the person who so conveys, has, with the concurrence of every other person, if 
+any, conveying by his direction, full power to convey the subject-matter expressed to 
+be conveyed by him, subject as, if so expressed, and in the manner in which it is 
+expressed to be conveyed. 
+ 
+(2) 
+And also that, if default is made in payment of the money intended to be secured by 
+the conveyance, or any interest thereon, or any part of that money or interest, contrary 
+to any provision in the conveyance, it shall be lawful for the person to whom the 
+conveyance is expressed to be made, and the persons deriving title under him, to enter 
+into and upon, or receive, and thenceforth quietly hold, occupy and enjoy or take and 
+have, the subject-matter expressed to be conveyed, or any part thereof, without any 
+lawful interruption or disturbance by the person who so conveys, or any person 
+conveying by his direction, or any other person (not being a person claiming in respect 
+of an estate or interest subject whereto the conveyance is expressly made). 
+ 
+(3) 
+And that, freed and discharged from, or otherwise by the person who so conveys 
+sufficiently indemnified against, all estates, incumbrances, claims and demands 
+whatever other than those subject whereto the conveyance is expressly made. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Schedule 2—Implied covenants 
+ 
+46 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(4) 
+And further, that the person who so conveys and every person conveying by his 
+direction, and every person deriving title under any of them, and every other person 
+having or rightfully claiming any estate or interest in the subject-matter of 
+conveyance, or any part thereof, other than an estate or interest subject whereto the 
+conveyance is expressly made, will from time to time and at all times, on the request 
+of any person to whom the conveyance is expressed to be made, or of any person 
+deriving title under him, but, as long as any right of redemption exists under the 
+conveyance, at the cost of the person so conveying, or of those deriving title under 
+him, and afterwards at the cost of the person making the request, execute and do all 
+such lawful assurances and things for further or more perfectly assuring the 
+subject-matter of conveyance and every part thereof to the person to whom the 
+conveyance is made, and to those deriving title under him, subject as, if so expressed, 
+and in the manner in which the conveyance is expressed to be made, as by him or 
+them or any of them shall be reasonably required. 
+4—Covenant implied in a conveyance by way of mortgage of leasehold 
+property by a person who conveys and is expressed to convey as beneficial 
+owner 
+ 
+(1) 
+That the lease or grant creating the term or estate for which the land is held is, at the 
+time of conveyance, a good, valid and effectual lease or grant of the land conveyed 
+and is in full force, unforfeited and unsurrendered and has in nowise become void or 
+voidable, and that all the rents reserved by, and all the covenants, conditions and 
+agreements contained in, the lease or grant, and on the part of the lessee or grantee and 
+the persons deriving title under him to be paid, observed and performed, have been 
+paid, observed and performed up to the time of conveyance. 
+ 
+(2) 
+And also that the person so conveying, or the persons deriving title under him, will at 
+all times, as long as any money remains owing on the security of the conveyance, pay 
+observe and perform, or cause to be paid, observed and performed all the rents 
+reserved by, and all the covenants, conditions and agreements contained in, the lease 
+or grant, and on the part of the lessee or grantee and the persons deriving title under 
+him to be paid, observed and performed, and will keep the person to whom the 
+conveyance is made, and those deriving title under him, indemnified against all 
+actions, proceedings, costs, charges, damages, claims and demands (if any) to be 
+incurred or sustained by him or them by reason of the non-payment of such rent or the 
+non-observance or non-performance of such covenants, conditions and agreements, or 
+any of them. 
+5—Covenant implied in a conveyance by way of settlement, by a person who 
+conveys and is expressed to convey as settlor 
+That the person so conveying, and every person deriving title under him by deed or act 
+or operation of law in his lifetime subsequent to that conveyance, or by testamentary 
+disposition or devolution in law, on his death, will, from time to time, and at all times, 
+after the date of that conveyance, at the request and cost of any person deriving title 
+thereunder, execute and do all such lawful assurances and things for further or more 
+perfectly assuring the subject-matter of the conveyance to the persons to whom the 
+conveyance is made and those deriving title under them, as by them or any of them 
+shall be reasonably required, subject as if so expressed, and in the manner in which the 
+conveyance is expressed to be made. 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Implied covenants—Schedule 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+47 
+6—Covenant implied in any conveyance, by every person who conveys and is 
+expressed to convey as trustee or mortgagee, or as personal representative 
+of a deceased person, or as administrator, committee or other person 
+empowered to act on behalf of a mentally incapacitated person or under 
+an order of the court 
+That the person so conveying has not executed or done, or knowingly suffered, or 
+been party or privy to any deed or thing, whereby or by means whereof the 
+subject-matter of the conveyance or any part thereof, is or may be impeached, 
+charged, affected or incumbered in title, estate, or otherwise, or whereby or by means 
+whereof the person who so conveys is in anywise hindered from conveying the 
+subject-matter of the conveyance, or any part thereof, in the manner in which it is 
+expressed to be conveyed. 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Legislative history 
+ 
+48 
+Published under the Legislation Revision and Publication Act 2002 
+Legislative history 
+Notes 
+ 
+• 
+Please note—References in the legislation to other legislation or instruments or to 
+titles of bodies or offices are not automatically updated as part of the program for the 
+revision and publication of legislation and therefore may be obsolete. 
+ 
+• 
+Earlier versions of this Act (historical versions) are listed at the end of the legislative 
+history. 
+ 
+• 
+For further information relating to the Act and subordinate legislation made under the 
+Act see the Index of South Australian Statutes or www.legislation.sa.gov.au. 
+Principal Act and amendments 
+New entries appear in bold. 
+Year No 
+Title 
+Assent 
+Commencement 
+1936 2328  Law of Property Act 1936 
+3.12.1936 
+1.11.1937 (Gazette 25.3.1937 p646) 
+1945 18 
+ Law of Property Act Amendment 
+Act 1945 
+6.12.1945 
+6.12.1945 
+1956 16 
+ Law of Property Act Amendment 
+Act 1956 
+8.11.1956 
+8.11.1956 
+1958 14 
+ Law of Property Act Amendment 
+Act 1958 
+23.10.1958 
+23.10.1958 
+1960 12 
+ Law of Property Act Amendment 
+Act 1960 
+18.8.1960 
+18.8.1960 
+1966 44 
+ Law of Property Act Amendment 
+Act 1966 
+22.9.1966 
+22.9.1966 
+1969 57 
+ Law of Property Act Amendment 
+Act 1969 
+4.12.1969 
+21.5.1970 (Gazette 21.5.1970 p1841) 
+1969 77 
+ Law of Property Act Amendment 
+Act (No. 2) 1969 
+11.12.1969 
+31.8.1970 (Gazette 20.8.1970 p696) 
+1971 15 
+ Age of Majority (Reduction) 
+Act 1971 
+8.4.1971 
+15.4.1971 (Gazette 15.4.1971 p1598) 
+1972 2 
+ Law of Property Act Amendment 
+Act 1972 
+16.3.1972 
+1.11.1973 (Gazette 6.9.1973 p1899) 
+1972 19 
+ Statutes Amendment (Law of 
+Property and Wrongs) Act 1972 
+30.3.1972 
+18.5.1972 (Gazette 18.5.1972 p1926) 
+1972 138 
+ Law of Property Act Amendment 
+Act (No. 2) 1972 
+7.12.1972 
+1.11.1973 (Gazette 6.9.1973 p1899) 
+1974 42 
+ Statute Law Revision Act 1974 
+11.4.1974 
+11.4.1974 
+1975 87 
+ Law of Property Act Amendment 
+Act 1975 
+20.11.1975 
+29.1.1976 (Gazette 29.1.1976 p357) 
+1980 32 
+ Statutes Amendment (Property) 
+Act 1980 
+17.4.1980 
+22.5.1980 (Gazette 22.5.1980 p1373) 
+1984 22 
+ Law of Property Act Amendment 
+Act 1984 
+10.5.1984 
+10.5.1984 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+49 
+1984 23 
+ Law of Property Act Amendment 
+Act (No. 2) 1984 
+10.5.1984 
+10.5.1984 
+1989 13 
+ Law of Property Act Amendment 
+Act 1989 
+20.4.1989 
+1.7.1989 (Gazette 8.6.1989 p1552) 
+1991 33 
+ Statutes Amendment 
+(Attorney-General's Portfolio) 
+Act 1991 
+24.4.1991 
+6.6.1991 (Gazette 6.6.1991 p1776) 
+1995 27 
+ Statutes Amendment 
+(Attorney-General's Portfolio) 
+Act 1995 
+27.4.1995 
+s 15—4.5.1995 (Gazette 4.5.1995 
+p1705) 
+1996 7 
+ Law of Property (Perpetuities and 
+Accumulations) Amendment 
+Act 1996 
+4.4.1996 
+1.5.1996 (Gazette 18.4.1996 p1990) 
+1996 67 
+ Statutes Amendment 
+(Attorney-General's Portfolio) 
+Act 1996 
+15.8.1996 
+s 22—17.10.1996 (Gazette 17.10.1996 
+p1361) 
+1997 59 
+ Statutes Amendment 
+(Attorney-General's Portfolio) 
+Act 1997 
+31.7.1997 
+Pt 6 (ss 9—14) & Sch—14.9.1997 
+(Gazette 11.9.1997 p704) 
+2003 44 
+ Statute Law Revision Act 2003 
+23.10.2003 
+Sch 1—24.11.2003 (Gazette 13.11.2003 
+p4048) 
+2006 17 
+ Statutes Amendment (New Rules of 
+Civil Procedure) Act 2006 
+6.7.2006 
+Pt 44 (ss 152—154)—4.9.2006 (Gazette 
+17.8.2006 p2831) 
+2019 46 
+Statutes Amendment (Legalisation of 
+Same Sex Marriage Consequential 
+Amendments) Act 2019 
+19.12.2019 
+Pt 9 (s 24)—1.5.2020 (Gazette 
+30.4.2020 p838) 
+2019 48 
+Married Persons (Separate Legal 
+Status) Act 2019 
+19.12.2019 
+Sch 1 (cll 2 to 9)—1.5.2020 (Gazette 
+30.4.2020 p837) 
+2023 30 
+Succession Act 2023 
+25.10.2023 
+Sch 2 (cll 5 & 6)—1.1.2025 (Gazette 
+27.6.2024 p1894) 
+Provisions amended since 3 February 1976 
+ 
+• 
+Legislative history prior to 3 February 1976 appears in marginal notes and footnotes 
+included in the consolidation of this Act contained in Volume 5 of The Public General 
+Acts of South Australia 1837-1975 at page 620. 
+New entries appear in bold. 
+Entries that relate to provisions that have been deleted appear in italics. 
+Provision 
+How varied 
+Commencement 
+Pt 1 
+ 
+ 
+s 2 
+deleted by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 3 
+deleted in pursuance of the Acts Republication 
+Act 1967 
+14.9.1997 
+s 7 
+ 
+ 
+court 
+substituted by 33/1991 s 13 
+6.6.1991 
+ 
+substituted by 59/1997 s 9 
+14.9.1997 
+interest 
+inserted by 7/1996 s 3(a) 
+1.5.1996 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Legislative history 
+ 
+50 
+Published under the Legislation Revision and Publication Act 2002 
+mental defective 
+and mentally 
+defective person 
+and committee 
+deleted by 59/1997 s 14 (Sch) 
+14.9.1997 
+mentally 
+incapacitated 
+person 
+inserted by 59/1997 s 14 (Sch) 
+14.9.1997 
+vest 
+inserted by 7/1996 s 3(b) 
+1.5.1996 
+Pt 2 
+ 
+ 
+heading preceding 
+s 8 
+deleted by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 15 
+ 
+ 
+s 15(1) 
+s 15 amended and designated as s 15(1) by 
+44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 15(2) 
+s 15 amended and designated as s 15(2) by 
+44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 24B 
+inserted by 32/1980 s 5 
+22.5.1980 
+s 24C 
+inserted by 23/1984 s 2 
+10.5.1984 
+s 24D 
+inserted by 27/1995 s 15 
+4.5.1995 
+heading preceding 
+s 25 
+deleted by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+Pt 3 
+ 
+ 
+heading preceding 
+s 28 
+deleted by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 40 
+ 
+ 
+s 40(1) 
+amended by 48/2019 Sch 1 cl 2(1), (2) 
+1.5.2020 
+s 40(2) 
+substituted by 48/2019 Sch 1 cl 2(3) 
+1.5.2020 
+s 40(3) 
+amended by 48/2019 Sch 1 cl 2(4) 
+1.5.2020 
+s 41 
+amended by 22/1984 s 2 
+10.5.1984 
+ 
+substituted by 13/1989 s 3 
+1.7.1989 
+s 41AA 
+inserted by 13/1989 s 3 
+1.7.1989 
+s 41A 
+inserted by 32/1980 s 6 
+22.5.1980 
+ 
+substituted by 67/1996 s 22 
+17.10.1996 
+heading preceding 
+s 42 
+deleted by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 42 
+ 
+ 
+s 42(1) 
+amended by 59/1997 s 14 (Sch) 
+14.9.1997 
+ 
+amended by 44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 42(3) 
+deleted by 48/2019 Sch 1 cl 3 
+1.5.2020 
+s 42(4) 
+amended by 59/1997 s 14 (Sch) 
+14.9.1997 
+Pt 4 
+ 
+ 
+s 49 
+ 
+ 
+s 49(2) 
+amended by 17/2006 s 152 
+4.9.2006 
+s 55A 
+ 
+ 
+s 55A(2a) 
+amended by 59/1997 s 10(a) 
+14.9.1997 
+s 55A(4) 
+deleted by 59/1997 s 10(b) 
+14.9.1997 
+
+--------------------------------------------------------------------------------
+ 
+1.1.2025—Law of Property Act 1936 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+51 
+Pt 6 
+substituted by 7/1996 s 4 
+1.5.1996 
+s 58A 
+inserted by 59/1997 s 11 
+14.9.1997 
+Pt 7 
+ 
+ 
+s 66 
+amended by 17/2006 s 153 
+4.9.2006 
+Pt 8 
+ 
+ 
+s 73 
+s 73 I—V redesignated as s 73(a)—(e) by 
+44/2003 s 3(1) (Sch 1) 
+24.11.2003 
+s 82 
+amended by 48/2019 Sch 1 cl 4(1), (2) 
+1.5.2020 
+Pt 9 
+ 
+ 
+s 85 
+deleted by 59/1997 s 12 
+14.9.1997 
+Pt 10  
+heading amended by 59/1997 s 14 (Sch) 
+14.9.1997 
+ss 89—91 
+amended by 59/1997 s 14 (Sch) 
+14.9.1997 
+heading preceding 
+s 92 
+deleted by 59/1997 s 14 (Sch) 
+14.9.1997 
+ss 92—99 
+deleted by 48/2019 Sch 1 cl 5 
+1.5.2020 
+s 100 
+ 
+ 
+s 100(1) 
+substituted by 46/2019 s 24 
+1.5.2020 
+s 100(1a) 
+inserted by 46/2019 s 24 
+1.5.2020 
+ss 101—104 
+deleted by 48/2019 Sch 1 cl 6 
+1.5.2020 
+s 105 before deletion 
+by 48/2019 
+ 
+ 
+s 105(1) 
+amended by 59/1997 s 13(a) 
+14.9.1997 
+s 105(2) 
+amended by 59/1997 s 13(b) 
+14.9.1997 
+s 105(3) 
+amended by 59/1997 s 13(c) 
+14.9.1997 
+s 105 
+deleted by 48/2019 Sch 1 cl 6 
+1.5.2020 
+ss 106 and 107 
+deleted by 48/2019 Sch 1 cl 6 
+1.5.2020 
+s 108 
+amended by 48/2019 Sch 1 cl 7 
+1.5.2020 
+s 109 
+deleted by 48/2019 Sch 1 cl 8 
+1.5.2020 
+s 111 
+deleted by 48/2019 Sch 1 cl 9 
+1.5.2020 
+s 114 
+ 
+ 
+s 114(1) 
+amended by 17/2006 s 154 
+4.9.2006 
+s 114(3) 
+deleted by 30/2023 Sch 2 cl 5 
+1.1.2025 
+s 115 
+deleted by 30/2023 Sch 2 cl 6 
+1.1.2025 
+Pt 11  
+ 
+ 
+heading 
+deleted by 59/1997 s 14 (Sch) 
+14.9.1997 
+Sch 2 
+amended by 59/1997 s 14 (Sch) 
+14.9.1997 
+ 
+Pts 1—6 redesignated as cll and scll by 44/2003 
+s 3(1) (Sch 1) 
+24.11.2003 
+Historical versions 
+Reprint No 1—1.10.1991 
+ 
+Reprint No 2—4.5.1995 
+ 
+Reprint No 3—1.5.1996 
+ 
+Reprint No 4—17.10.1996 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Law of Property Act 1936—1.1.2025 
+Legislative history 
+ 
+52 
+Published under the Legislation Revision and Publication Act 2002 
+Reprint No 5—14.9.1997 
+ 
+Reprint No 6—24.11.2003 
+ 
+4.9.2006 
+ 
+1.5.2020 
+ 
+ 
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,3194 @@
+Metadata for pdf/HongKong/Chapter 219 Conveyancing and Property Ordinance.pdf: {'format': 'PDF 1.7', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Mozilla Firefox 137.0.2', 'producer': 'cairo 1.18.0 (https://cairographics.org)', 'creationDate': "D:20250508135256+02'00", 'modDate': '', 'trapped': '', 'encryption': None, 'country': 'Hong Kong'}
+
+Country found in pdf/HongKong/Chapter 219 Conveyancing and Property Ordinance.pdf: Hong Kong
+
+Chapter 219
+Conveyancing and Property
+Ordinance
+13/12/2018
+To make provision relating to conveyancing and the law of property; to
+make provision concerning agreements and deeds relating to land
+and other agreements; to make provision for the acquisition and
+holding  of  land  and  other  property;  to  provide  for  standard
+agreements and deeds relating to land; to imply certain covenants
+and other provisions in agreements and deeds relating to land; to
+revise and consolidate certain miscellaneous provisions relating to
+land and other matters; and for connected purposes.
+[1 November 1984]
+(Format changes—E.R. 5 of 2018)
+Part I
+Preliminary
+1.
+Short title
+This Ordinance may be cited as the Conveyancing and Property
+Ordinance.
+2.
+Interpretation
+In this Ordinance, unless the context otherwise requires—
+assignment (轉、轉) includes—
+(a)
+the transfer of the whole of the interest in land held under
+a Government lease; (Amended 31 of 1988 s. 2; 29 of 
+1998 s. 105)
+(b)
+a legal charge;
+(c)
+a lease (other than a Government lease); (Amended 29 of 
+1998 s. 105)
+(d)
+a surrender;
+(e)
+an assent; and
+(f)
+every other assurance or conveyance of land by any
+instrument;
+bankruptcy (破) includes winding up;
+borrower (借人), where used in the First, Second and Third
+Schedules, includes mortgagor;
+encumbrance (	負) includes a legal and equitable mortgage,
+a trust for securing money, a lien, a charge of a portion,
+annuity, or other capital or annual sum; and encumbrancer (
+	 負 人)  has  a  meaning  corresponding  with  that  of
+encumbrance and includes every person entitled to the benefit
+of  an  encumbrance,  or  to  require  payment  or  discharge
+thereof; (Added 32 of 2000 s. 6)
+equitable interest (衡平	) means any estate, interest or
+charge in or over land which is not a legal estate or a freehold;
+instrument (書) means any document having legal effect except a
+will;
+land (⼟) includes—
+(a)
+land covered by water;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+1 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(b)
+any estate, right, interest or easement in or over any land;
+(bb)
+the whole or part of an undivided share in land and any
+estate, right, interest or easement in or over the whole or
+part of an undivided share in land; and (Added 31 of 
+1988 s. 2)
+(c)
+things  attached  to  land  or  permanently  fastened  to
+anything attached to land;
+legal charge (押) means a mortgage expressed to be a legal
+charge;
+legal estate (業	) means—
+(a)
+a term of years absolute in land;
+(b)
+the legal interest in any easement, right or privilege in or
+over land for an interest equivalent to a term of years
+absolute; and
+(c)
+a legal charge;
+lender  ( 貸 人),  where  used  in  the  First,  Second  and  Third
+Schedules, includes mortgagee;
+mortgage () means a security over land for securing money or
+money’s worth;
+mortgage money (金) means the money, or money’s worth,
+secured by a mortgage;
+mortgagee  (   人)  includes  any  person  claiming  under  a
+mortgagee;
+mortgagor  (   人)  includes  any  person  claiming  under  a
+mortgagor;
+sale (賣), in relation to the sale of land, includes the disposition
+of  all  or  part  of  the  vendor’s  estate  and  interest under  a
+Government lease; (Amended 29 of 1998 s. 105)
+term of years absolute (對年期) includes a term for less than a
+year, for a year or years and a fraction of a year and from year
+to year.
+___________
+Part II
+General Rules Affecting Property
+3.
+Land contracts to be in writing
+(1)
+Subject to section 6(2), no action shall be brought upon any
+contract for the sale or other disposition of land unless the
+agreement  upon  which  such  action  is  brought,  or  some
+memorandum or note thereof, is in writing and signed by the
+party  to  be  charged  or  by  some  other  person  lawfully
+authorized by him for that purpose.
+(2)
+[cf. 1925 c. 20 s. 40 U.K.]
+This  section  applies  to  contracts  or  other  dispositions
+whenever made and does not affect the law relating to part
+performance or sales by the court.
+4.
+Legal estate to be disposed of etc. by deed
+(1)
+A legal estate in land may be created, extinguished or disposed
+of only by deed.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+2 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(2)
+This section does not apply to—
+(a)
+an assent in writing by a personal representative;
+(b)
+a disclaimer made in accordance with section 59 of the
+Bankruptcy Ordinance (Cap. 6) or section 268 of the
+Companies (Winding Up and Miscellaneous Provisions)
+Ordinance (Cap. 32); (Amended 28 of 2012 ss. 912 &
+920)
+(c)
+a surrender by operation of law, including a surrender
+which may, by law, be effected without writing;
+(d)
+the grant, disposal or surrender of a lease taking effect in
+possession for a term not exceeding 3 years (whether or
+not the lessee is given power to extend the term) at the
+best rent which can be reasonably obtained without a
+premium;
+(e)
+other  assurances  not  required  by  law  to  be  made  in
+writing;
+(f)
+a receipt not required by law to be under seal;
+(g)
+a vesting order or vesting declaration by a court or other
+competent authority;
+(h)
+[cf. 1925 c. 20 s. 52 U.K.]
+a creation, extinguishment or disposal of a legal estate in
+land by operation of law.
+5.
+Certain instruments to be in writing
+(1)
+Subject to section 6—
+(a)
+no equitable interest in land can be created or disposed of
+except  by  writing  signed  by  the  person  creating  or
+disposing of the same, or by his agent thereunto lawfully
+authorized in writing, or by will, or by operation of law;
+(b)
+a  declaration  of  trust  respecting  land  or  any  interest
+therein shall be manifested and proved in writing signed
+by the person who is able to declare such trust or by his
+will. (Amended 31 of 1988 s. 3)
+(2)
+[cf. 1925 c. 20 s. 53 U.K.]
+This  section  does  not  affect  the  creation  or  operation  of
+resulting, implied or constructive trusts.
+6.
+Creation of interest in land by parol
+(1)
+All interests in land created by parol and not put in writing and
+signed by the persons creating the same, or by their agents
+thereunto  lawfully  authorized  in  writing,  have,
+notwithstanding any consideration having been given for the
+same, the force and effect of interests at will only.
+(2)
+[cf. 1925 c. 20 s. 54 U.K.]
+Nothing in section 3 or 5 or in subsection (1) shall affect the
+creation by parol of leases taking effect in possession for a
+term not exceeding 3 years (whether or not the lessee is given
+power to extend the term) at the best rent which can be
+reasonably obtained without a premium.
+7.
+Savings in regard to sections 5 and 6
+Nothing in section 5 or 6 shall—
+(a)
+invalidate dispositions by will;
+(b)
+affect  any  interest  validly  created  before  the
+commencement* of this section;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+3 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(c)
+affect the right to acquire an interest in land by virtue of
+taking possession; or
+(d)
+[cf. 1925 c. 20 s. 55 U.K.]
+affect  the  operation  of  the  law  relating  to  part
+performance.
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+8.
+Severance of joint tenancy
+(1)
+A joint tenancy of an estate or interest in land may be severed
+at law only by—
+(a)
+a  notice  served  by  a  joint  tenant  on  the  other  joint
+tenants; or
+(b)
+an instrument.
+(2)
+A joint tenancy of an estate or interest in land may be severed
+in equity by a notice served by a joint tenant on the other joint
+tenants or by any other method that is effective in equity or
+that would, but for subsection (1), be effective at law.
+(Replaced 31 of 1988 s. 4)
+9.
+Presumption in favour of tenancy in common
+(1)
+Where a tenancy in the same estate or interest in land vests in
+2 or more persons under an instrument or a will, it shall be
+presumed, unless the contrary intention is expressed in that
+instrument or will, that the tenancy vests in those persons as
+tenants in common rather than as joint tenants.
+(2)
+This section shall not apply to any instrument or will made
+before the commencement* of this section.
+(3)
+This section shall not apply to a tenancy vesting in trustees or
+personal representatives. (Added 31 of 1988 s. 5)
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+10.
+Corporation may hold as joint tenant
+(1)
+A corporation shall be capable of acquiring and holding any
+property in joint tenancy in the same manner as if it were an
+individual.
+(2)
+[cf. 1899 c. 20 s. 1 U.K.]
+Where a corporation is a joint tenant of any property, on its
+dissolution,  that  property  shall  devolve  on  the  other  joint
+tenant.
+11.
+Presumption of survivorship
+(1)
+Except for the purposes of section 4(11) of the Intestates’
+Estates Ordinance (Cap. 73), where, after the commencement*
+of  this  section,  2  or  more  persons  die  in  circumstances
+rendering it uncertain that any one of them, or which of them,
+survived the other or others, such deaths shall, for all purposes
+affecting the title to property, be presumed to have occurred in
+order  of  seniority,  and  accordingly  the  younger  shall  be
+deemed to have survived the elder.
+(2)-(3)
+[cf. 1925 c. 20 s. 184 U.K.]
+(Omitted as spent)
+____________________
+Editorial Note:
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+4 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+* Commencement date: 1 November 1984.
+12.
+Application to court by vendor and purchaser
+(1)
+A vendor or purchaser of land may apply by petition or by
+originating summons to the court in respect of any question
+arising out of or connected with any contract for the sale or
+exchange of land (not being a question affecting the existence
+or validity of the contract or relating to compensation payable
+by the Government or a public body), and the court may make
+such order upon the petition or originating summons and as to
+costs as to the court appears just. (61 of 1999 s. 3)
+(2)
+[cf. 1925 c. 20 s. 49 U.K.]
+In this section, court (#) means the Court of First Instance
+unless the vendor and purchaser submit to the jurisdiction of
+the District Court. (Amended 25 of 1998 s. 2)
+12A.
+Discharge of encumbrances by the court
+(1)
+Where  land  is  subject  to  any  encumbrance,  whether
+immediately  realizable  or  payable  or  not,  and  the
+encumbrancer is out of the jurisdiction, cannot be found or is
+unknown, or if it is uncertain who the encumbrancer is, the
+court may, if it thinks fit, on the application of the party for the
+time being entitled to redeem the encumbrance, direct or allow
+payment into court of a sum of money sufficient to redeem the
+encumbrance and any interest thereon.
+(2)
+Upon payment into court of the sum referred to in subsection
+(1), the court may, if it thinks fit, and either after or without
+any notice to the encumbrancer, as the court thinks fit, declare
+the land to be free from the encumbrance, and make any order
+for  conveyance  or  vesting  order  as  appropriate,  and  give
+directions for the retention and  investment of the sum of
+money paid into court and for the payment or application of
+the income thereof, and for the payment of an amount certified
+by the court to be the reasonable costs of the applicant in
+making the application, such amount to be deducted from the
+sum of money paid into court.
+(3)
+On application by the encumbrancer or any person entitled to
+the money or fund in court, the court may direct payment or
+transfer thereof to the persons entitled to receive or give a
+discharge for the same, and generally may give directions
+respecting  the  application  or  distribution  of  the  capital  or
+income thereof.
+(4)
+In this section, court (#) means the Court of First Instance
+unless the party to the application submits to the jurisdiction of
+the District Court.
+(Added 32 of 2000 s. 7)
+13.
+Proof of title and recitals
+(1)
+Unless the contrary intention is expressed, a purchaser of land
+shall be entitled to require from the vendor, as proof of title to
+that land, only production of the Government lease relating to
+the land sold and—  
+(Amended 29 of 1998 s. 105)
+(a)
+proof of title to that land—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+5 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(i)
+where the grant of the Government lease was less
+than 15 years before the contract of sale of that
+land,  extending  for  the  period  since  that  grant;
+or (Amended 29 of 1998 s. 105)
+(ii)
+in any other case, extending not less than 15 years
+before the contract of sale of that land commencing
+with an assignment, a mortgage by assignment or a
+legal charge, each dealing with the whole estate and
+interest in that land; (Replaced 31 of 1988 s. 6)
+(b)
+production  of  any  document  referred  to  in  the
+assignment, mortgage or charge mentioned in paragraph
+(a)  creating  or  disposing  of  an  interest,  power  or
+obligation, which is not shown to have ceased or expired
+and subject to which any part of that land is disposed of;
+and
+(c)
+production of any power of attorney under which any
+document produced is executed where that document
+was executed less than 15 years before the contract of
+sale of that land. (Amended 31 of 1988 s. 6)
+(2)
+Where this section requires the production of any document, it
+shall be sufficient to produce a copy—
+(a)
+attested, before 1 November 1984, by 2 solicitors’ clerks;
+or
+(b)
+certified by a public officer or a solicitor,
+to be a true copy. (Amended 31 of 1988 s. 6)
+(3)
+Subject to subsection (1), where any document produced as
+proof of title to any land contains a recital of any document
+dated or made before the date from which a vendor is required
+to prove title, the purchaser of that land shall assume, unless
+the contrary is proved, that—
+(a)
+the recital is correct;
+(b)
+the recital gives all the material contents of the document
+recited; and
+(c)
+the document recited was duly executed and perfected.
+(4)
+A recital, statement, and description of any fact, matter or
+party contained in any document of title, mortgage, declaration
+or power of attorney relating to any land and dated or made
+not less than 15 years before the contract of sale of that land
+shall, for the purposes of any question as to proof of title
+concerning the parties to that contract and unless the contrary
+is proved, be sufficient evidence of the truth of that recital,
+statement and description.
+(4A)
+Where any document is or has been produced by a vendor as
+proof of title to any land and that document purports to have
+been executed, not less than 15 years before the contract of
+sale of that land, under a power of attorney, it shall for the
+purposes  of  any  question  as  to  the  title  to  that  land  be
+conclusively presumed—
+(a)
+as between the parties to that contract; and
+(b)
+in favour of the purchaser under that contract as against
+any other person,
+that the power of attorney—
+(i)
+was validly executed;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+6 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(ii)
+was  in  force  at  the  time  of  the  execution  of  that
+document; and
+(iii)
+validly  authorized  the  execution  of  that
+document. (Added 31 of 1988 s. 6)
+(5)
+This section affects only the rights and obligations of the
+parties to a contract for the sale of land entered into after the
+commencement* of this section.
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+13A.
+Delivery of original deeds or documents of title
+(1)
+Unless the contrary intention is expressed, a purchaser of land
+shall be entitled to require the vendor to deliver to him, for the
+purpose of giving title to that land, the original of both of the
+following only—
+(a)
+if there is a Government lease that relates exclusively to
+the land, the lease; and
+(b)
+any document that relates exclusively to the land and is
+required to be produced by the vendor as proof of title to
+that land under section 13(1)(a) and (c).
+(2)
+Subsection (1) does not affect any rule of common law under
+which the vendor may discharge his obligation to give title to
+that land otherwise than by delivering the Government lease or
+document to the purchaser.
+(3)
+If the vendor is not required to deliver to the purchaser a
+document in giving title to that land, the purchaser has no
+proprietary right or ownership in the document.
+(4)
+The fact that—
+(a)
+the vendor is not required to deliver to the purchaser a
+document in giving title to that land; and
+(b)
+the purchaser has no proprietary right or ownership in the
+document,
+does not affect the right or interest of any other person in that
+land.
+(Added 25 of 2008 s. 10)
+14.
+Conversion of equitable interest to legal estate where right to
+Government lease
+(1)
+Where a person has a right to a Government lease of any land
+upon compliance with any conditions precedent, then, upon
+compliance with those conditions—
+(a)
+the equitable interest under that right shall become a
+legal estate in that land as if held under a Government
+lease issued in accordance with that right; and (Amended
+31 of 1988 s. 7)
+(b)
+for the purposes of section 42 and any other law, such a
+Government lease shall be deemed to have been issued
+upon compliance with those conditions.
+(2)
+Where, under an agreement for a Government lease entered
+into  before  1  January  1970,  a  person  has  a  right  to  a
+Government  lease  upon  compliance  with  any  conditions
+precedent he shall be deemed, for the purposes of this section,
+to  have  complied  with  those  conditions  on  the
+commencement* of this section.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+7 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(3)
+Where under an agreement for a Government lease entered
+into on or after 1 January 1970, a person has a right to a
+Government  lease  upon  compliance  with  any  conditions
+precedent, he shall be deemed, for the purposes of this section,
+to have complied with those conditions—
+(a)
+upon the issue by the Government of a certificate that
+those  conditions  have  been  complied  with  and  the
+registration of that certificate in the Land Registry under
+the Land Registration Ordinance (Cap. 128); or
+(b)
+upon  the  endorsement  by  the  Government  on  the
+Government  lease  of  a  note  to  the  effect  that  those
+conditions have been complied with and the registration
+of a copy of that endorsement in the Land Registry under
+the Land Registration Ordinance (Cap. 128); or
+(c)
+upon the entry on the register kept in the Land Registry
+under  the  Land  Registration  Ordinance  (Cap.  128)
+relating to the land of a note to the effect that those
+conditions have been complied with. (Amended 31 of 
+1988 s. 7; 8 of 1993 s. 2)
+(4)
+Where a person has a right to a Government lease of any land
+and that right is not subject to any conditions precedent—
+(a)
+the equitable interest under that right shall become a
+legal estate in that land as if held under a Government
+lease issued in accordance with that right; and
+(b)
+for the purposes of section 42 and any other law, such a
+Government lease shall be deemed to have been issued
+on  the  commencement#  of  the  Conveyancing  and
+Property (Amendment) Ordinance 1988 (31 of 1988) or
+on the date of the grant of that right, whichever is the
+later. (Added 31 of 1988 s. 7)
+(5)
+Where a person has a right to a Government lease of any land
+and that land is partitioned by assignment or otherwise by
+deed,  this  section  shall  apply  to  each  part  of  that  land
+constituted by that partition, as it applies to the whole of that
+land, as if there were a right to a Government lease of each
+such part. (Added 31 of 1988 s. 7)
+(6)
+Where a person has a Government  lease, or a right to a
+Government lease, of any land and additional land is granted
+to that person with the intent that he should hold it as part of
+the land leased, this section shall apply to that additional land
+as if that additional land were part of the land originally leased
+and held subject to any further conditions precedent imposed
+when that additional land was granted. (Added 31 of 1988 s. 7)
+(Amended 29 of 1998 s. 105)
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+#  Commencement date: 3 June 1988.
+14A.
+Modification of Government lease
+(1)
+Any  modification  in  writing  by  the  Government  of  the
+covenants, terms or conditions of a Government lease shall
+have the same effect as if made by deed. (Amended 29 of 1998 
+s. 105)
+(2)
+Subsection (1) applies to a modification made before or after
+the  commencement  of  the  Conveyancing  and  Property
+(Amendment) Ordinance 1988 (31 of 1988).
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+8 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(Added 31 of 1988 s. 8)
+___________
+Part III
+Instruments
+15.
+Construction of words and expressions
+Unless the contrary intention appears, in any instrument affecting
+land made after the commencement* of this section—
+(a)
+any definition used in, or, by this section, incorporated
+into,  that  instrument  shall  extend  to  the  grammatical
+variations  and  cognate  expressions  of  the  word  or
+expression defined;
+(b)
+words and expressions importing the masculine gender
+include the feminine; (Amended L.N. 387 of 1987)
+(c)
+words and expressions in the singular include the plural
+and  words  and  expressions  in  the  plural  include  the
+singular; (Amended L.N. 387 of 1987)
+(d)
+Chinese words and terms shall be construed according to
+Chinese language and custom and, if there is any conflict
+between Chinese words and terms and English words
+used in the instrument, the meaning of the English words
+shall prevail; and
+(e)
+act (作為) includes a series of acts, an omission or a
+series of omissions;
+contravene (&') includes failure to comply;
+court (#、() means any court of Hong Kong of
+competent jurisdiction;
+Crown  lease  ( )  )  means  a  Government
+lease; (Replaced 26 of 1998 s. 44)
+document (件) means any matter written, expressed or
+described upon any substance by means of letters,
+characters, figures or marks or by a combination of
+these;
+general holiday and public holiday (+,假期、+,假
+⽇) mean a general holiday within the meaning of
+section 3 of the Interpretation and General Clauses
+Ordinance (Cap. 1); (Added 26 of 1998 s. 44)
+Government (政0) means the Government of the Hong
+Kong Special Administrative Region; ( Amended
+61 of 1999 s. 3)
+Government lease (政0租) means a Government
+lease  within  the  meaning  of  section  3  of  the
+Interpretation and General Clauses Ordinance (Cap.
+1); (Added 26 of 1998 s. 44)
+Hong  Kong  ( 2 3 )  means  Hong  Kong  within  the
+meaning  of  section  3  of  the  Interpretation  and
+General Clauses Ordinance (Cap. 1); (Added 26 of 
+1998 s. 44)
+Kowloon (九5) means Kowloon within the meaning of
+section 3 of the Interpretation and General Clauses
+Ordinance (Cap. 1); (Replaced 26 of 1998 s. 44)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+9 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+law (律、例、法) means any law for the time being
+in force in, having legislative effect in, extending to
+or applicable to Hong Kong;
+month (⽉) means calendar month;
+New Kowloon (9九5) means the area specified in the
+Fifth Schedule to the Interpretation and General
+Clauses Ordinance (Cap. 1);
+New Territories (9界) means New Territories within the
+meaning  of  section  3  of  the  Interpretation  and
+General Clauses Ordinance (Cap. 1); (Replaced 26 
+of 1998 s. 44)
+occupy (佔⽤) includes use, inhabit, be in possession of
+or  enjoy  the  land  to  which  the  word  relates
+otherwise than as a mere servant or for the mere
+purpose of the care, custody or charge thereof;
+or (或), other and otherwise (其?、以其?形式、在其
+?情況下) shall be construed disjunctively and not
+as implying similarity, unless the word similar (相
+類) or some other word of like meaning is added;
+per cent (G、百IJ), when used in relation to a rate of
+interest payable in any circumstances, means the
+rate of interest specified payable in respect of a
+year,  unless  it  is  expressly  provided  that  it  is
+payable in respect of any other period;
+person (人、人⼠、個人、人物、人N) includes any
+public  body  or  body  of  persons,  corporate  or
+unincorporate;
+power (	、	力) includes any privilege, authority or
+discretion;
+registered (P冊),  in  relation  to a  document,  means
+registered  under  any  law  applicable  to  the
+registration of that document;
+sign (R名、R署) includes, in the case of a person
+unable to write, the affixing or making of his seal,
+mark, thumbprint or chop;
+year  ( 年)  means  a  year  according  to  the  Gregorian
+calendar.
+(Amended 26 of 1998 s. 44)
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+16.
+What an assignment is deemed to include
+(1)
+Unless the contrary intention is expressed in the assignment,
+an assignment shall operate to assign, with the land, all rights,
+interests,  privileges,  easements  or  appurtenances  in,  over,
+belonging or appertaining to that land or at the time of the
+assignment used, held, occupied or enjoyed with that land and
+things attached to the land or permanently fastened to anything
+attached to the land. (Amended 31 of 1988 s. 9)
+(2)
+[cf. 1925 c. 20 s. 62 U.K.]
+This section shall not operate to give to any person a better
+title than that assigned or any better title than that enjoyed by
+the assignor.
+17.
+Assignment passes whole estate
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+10 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+[cf. 1925 c. 20 s. 63 U.K.]
+Unless the contrary intention is expressed in the assignment, an
+assignment shall operate to assign all the estate, right and interest in
+the land assigned which the assignor has in that land and which he
+has the power to assign.
+18.
+Receipt in body of an instrument
+(1)
+A receipt for consideration in the body of an instrument shall
+be a sufficient discharge to the person paying the consideration
+and, in favour of any other person acting on the faith of the
+receipt, shall be sufficient evidence of payment.
+(2)
+[cf. 1925 c. 20 ss. 67, 68 & 69 U.K.]
+A solicitor producing an instrument containing a receipt for
+consideration shall be deemed to be authorized to receive that
+consideration unless the person liable to pay that consideration
+is served with a notice in writing stating that the solicitor is not
+so authorized.
+19.
+Execution of deed by individual
+(1)
+A deed by an individual shall be signed by him.
+(2)
+A document shall be presumed to have been sealed by an
+individual if the document signed by him—
+(a)
+describes itself as a deed; or
+(b)
+states that it has been sealed; or
+(c)
+bears any mark, impression or addition intended to be or
+to represent a seal or the position of a seal.
+(3)
+Subsection (1) applies only to documents executed after the
+commencement* of this section.
+(4)
+Subsection (2) applies to a document executed before or after
+the commencement of this section.
+(5)
+This  section  does  not  affect  any  other  law  by  which  an
+individual may authorize another person to sign a deed on his
+behalf. (Added 31 of 1988 s. 10)
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+20.
+Execution of deed by corporation
+(1)
+In favour of a person dealing with a corporation aggregate in
+good faith, his successors in title and persons deriving title
+under or through him or them, a deed shall be deemed to have
+been duly executed by the corporation if the deed purports to
+bear the seal of the corporation affixed in the presence of and
+attested by its secretary or other permanent officer of the
+corporation  and  a  member  of  the  corporation’s  board  of
+directors or other governing body or by 2 members of that
+board or body. (Amended 31 of 1988 s. 11)
+(2)
+Where  a  person  is  empowered  to  execute  a  deed  by  a
+corporation, he may execute the deed as agent by signing the
+name of the corporation or his own name and by affixing his
+own seal. (Amended 31 of 1988 s. 11)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+11 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(3)
+Where a corporation aggregate is empowered to execute a
+deed by another person, an officer appointed for that purpose
+by the board of directors or other governing body of the
+corporation may execute the deed in the name of such other
+person; and where a deed purports to be so executed then the
+deed shall, in favour of a person dealing with the corporation
+in good faith, be deemed to have been executed by an officer
+duly authorized.
+(4)
+[cf. 1925 c. 20 s. 74 U.K.]
+This section applies to transactions wherever effected, but only
+to deeds executed after the commencement* of this section;
+except that, in the case of powers of appointment of an officer,
+they  apply  whether  the  power  was  conferred  or  the
+appointment was made before or after the commencement of
+this section.
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+21.
+[cf. 1925 c. 20 s. 75 U.K.]
+Rights as to execution
+A person shall be entitled, at his own cost, to require that an
+assignment to him be executed in the presence of his agent.
+22.
+Presumption as to capacity
+A party to any instrument shall be presumed, until the contrary is
+proved, to have full legal capacity to execute that instrument, to
+bind himself in terms of that instrument and to dispose of or hold
+any property or rights assigned under that instrument.
+23.
+Presumption as to due execution
+An instrument appearing to be duly executed shall be presumed,
+until the contrary is proved, to have been duly executed.
+23A.
+Proof of title and presumptions of due execution of deed by
+corporation
+(1)
+A deed purporting to be—
+(a)
+executed prior to the commencement* of section 9 of the
+Law  Amendment  and  Reform  (Miscellaneous
+Provisions) Ordinance 2003 (14 of 2003) by or on behalf
+of a corporation aggregate; and
+(b)
+attested by a signatory or more than one signatory, where
+the signatory or each of the signatories, if more than one,
+is a person who could have been authorized under the
+articles  of  association  or  other  instruments  of  the
+corporation,
+shall,  until  the  contrary  is  proved,  be  presumed  for  the
+purposes of proof of title to any land to have been duly
+executed by the purported signatory or signatories, as the case
+may  be,  with  the  authority  conferred  by  the  articles  of
+association or other instruments of the corporation, whether or
+not the source of the authority or the means by which such
+authority was purportedly conferred is apparent from the deed.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+12 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(2)
+Where any deed is or has been produced by a vendor as proof
+of  title  to  any  land  and  that  deed  purports  to  have  been
+executed by a corporation aggregate not less than 15 years
+before the contract of sale of that land, it shall for the purposes
+of any question as to the title to that land be conclusively
+presumed—
+(a)
+as between the parties to that contract; and
+(b)
+in favour of the purchaser under that contract as against
+any other person,
+that the deed was validly executed.
+(3)
+This section applies only to deeds produced as proof of title to
+any land pursuant to contracts for the sale of such land entered
+into on or after the commencement* of section 9 of the Law
+Amendment  and  Reform  (Miscellaneous  Provisions)
+Ordinance 2003 (14 of 2003).
+(Added 14 of 2003 s. 9)
+____________________
+Editorial Note:
+* Commencement date: 9 May 2003.
+24.
+Reservation of rights
+A reservation of any rights or interests in land may be effected in an
+assignment  of  the  land  in  respect  of  which  those  rights  are
+exercisable or interests are vested and a regrant of the rights or
+interests reserved shall not be necessary.
+25.
+Agreements, assignments etc. by person with or to himself
+(1)
+A person may, in one legal capacity, assign to, or agree or
+covenant with, himself in another legal capacity.
+(2)
+An assignment, agreement or covenant—
+(a)
+by a person to, or with, himself and another or others; or
+(b)
+by a person and another or others to, or with, himself,
+shall, unless the contrary intention is expressed and otherwise
+without prejudice to its effect in law, be enforceable between
+the parties as if that assignment, agreement or covenant were
+made—
+(i)
+in the case of paragraph (a), to, or with, the other or
+others alone; or
+(ii)
+in the case of paragraph (b), by the other or others alone.
+(3)
+This section shall not prevent any assignment, agreement or
+covenant being set aside on the grounds of fraud or breach of
+trust or other fiduciary relationship.
+(4)
+This section  shall  apply  to  an  assignment, agreement  and
+covenant  made  or  entered  into  before  or  after  the
+commencement of this section.
+(5)
+[cf. 1925 c. 20 ss. 72 & 82 U.K.]
+This  section  shall  apply  to  assignments,  agreements  and
+covenants relating to land and other property.
+26.
+[cf. 1925 c. 20 s. 56 (1) U.K.]
+Benefits to non-parties
+A person may take an immediate or other interest granted to him in
+land or the benefit of any condition, right of entry, covenant or
+agreement granted to him over or in respect of land, although he
+may not be named as a party to the instrument.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+13 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+27.
+Description of deeds
+(1)
+A deed between parties, to effect its objects, has effect as an
+indenture  although  not  indented  or  expressed  to  be  an
+indenture.
+(2)
+[cf. 1925 c. 20 ss. 56 (2) & 57 U.K.]
+A deed, whether or not an indenture, may be described as
+a deed simply or according to the nature of the transaction
+intended to be effected.
+28.
+[cf. 1925 c. 20 s. 58 U.K.]
+Supplemental instruments
+Any  instrument  (whether  executed  before  or  after  the
+commencement of this section) expressed to be supplemental to a
+previous  instrument  shall  be  read  and  have  effect  as  if  the
+supplemental instrument contained the full recital of the previous
+instrument.
+29.
+Effect of licences or permits granted to lessees
+(1)
+Where a licence or permit is granted to a lessee to do any act,
+the licence or permit, unless otherwise expressed, extends only
+to—
+(a)
+the permission actually given; or
+(b)
+the specific breach of any provision or covenant referred
+to; or
+(c)
+any other matter thereby specifically authorized to be
+done,
+and the licence or permit does not prevent any proceeding for
+any  subsequent  breach  unless  otherwise  specified  in  the
+licence or permit.
+(2)
+Notwithstanding any such licence or permit—
+(a)
+any right of re-entry contained in the lease remains in full
+force and is available as against any subsequent breach
+of covenant, condition or other matter not specifically
+authorized or waived, in the same manner as if no licence
+or permit had been granted; and
+(b)
+any right of re-entry remains in force in all respects as if
+the licence or permit has not been granted, except in
+respect of the particular matter authorized to be done.
+(3)
+Where in any lease there is a right of re-entry on the lessee
+assigning, subletting or doing any other specified act without a
+licence or permit, and a licence or permit is granted —
+(a)
+to any one of 2 or more lessees to do any act, or to deal
+with his share or interest; or
+(b)
+to any lessee, or to any one of 2 or more lessees to assign
+or underlet part only of the land, or to do any act in
+respect of part only of the land,
+the licence or permit does not operate to extinguish the right of
+re-entry in case of any breach of covenant or condition by the
+co-lessee of another share or interest in the land, or by the
+lessee of the rest of the land (as the case may be) in respect of
+such share or interest or remaining land, but the right of re-
+entry remains in force in respect of the share, interest or land
+not the subject of the licence or permit.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+14 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(4)
+This section applies to a licence or permit granted before or
+after the commencement of this section.
+(5)
+[cf. 1925 c. 20 s. 143 U.K.]
+Nothing  in  this  section  shall  affect  the  provisions  of  the
+Government  Rights  (Re-entry  and  Vesting  Remedies)
+Ordinance (Cap. 126). (Amended 29 of 1998 s. 54)
+30.
+Apportionment of conditions on severance
+(1)
+Notwithstanding the severance by assignment or otherwise of
+the reversionary estate in any land comprised in a lease, and
+notwithstanding the avoidance or cesser in any other manner
+of the term granted by a lease as to part only of the land
+comprised therein, every condition or right of re-entry, and
+every  other  condition  contained  in  the  lease,  shall  be
+apportioned, and shall remain annexed to the severed parts of
+the reversionary estate as severed, and shall be in force with
+respect to the terms whereon each severed part is reversionary,
+or the term in the part of the land as to which the term has not
+been surrendered, or has not been avoided or has not otherwise
+ceased, in like manner as if the land comprised in each severed
+part, or the land as to which the term remains subsisting, as the
+case may be, had alone originally been comprised in the lease.
+(2)
+In this section right of re-entry (重V	) includes a right to
+determine the lease by notice to quit or otherwise or to give
+notice or make an application under any law which may result
+in the determination of the lease or the grant of a new lease;
+but where the notice or application is served by a person
+entitled to a severed part of the reversion so that it extends to
+part only of the land demised, the lessee may within one
+month determine the lease in regard to the rest of the land by
+giving to the owner of the reversionary estate therein a counter
+notice effective at the same time as the notice or application
+served  by  the  person  entitled  to  the  severed  part  of  the
+reversion is effective to determine the lease of that part.
+(3)
+[cf. 1925 c. 20 s. 140 U.K.]
+This  section  applies  to  leases  made  before  or  after  the
+commencement of this section and whether the severance of
+the reversionary estate or the partial avoidance or cesser of the
+term was effected before or after such commencement.
+31.
+Rent and benefit of lessee’s covenants to run with the reversion
+(1)
+Rent reserved by a lease, and the benefit of every covenant or
+provision therein contained, having reference to the subject-
+matter thereof, and on the lessee’s part to be observed or
+performed, and every condition of re-entry and other condition
+therein contained, shall be annexed and incident to and shall
+go with the reversionary estate in the land, or in any part
+thereof, immediately expectant on the term granted by the
+lease, notwithstanding severance of that reversionary estate,
+and without prejudice to any liability affecting a covenantor or
+his estate.
+(2)
+Any rent, covenant or provision mentioned in subsection (1)
+shall be capable of being recovered, received, enforced, and
+taken advantage of, by the person from time to time entitled,
+subject to the term granted by the lease, to the income of the
+whole or any part, as the case may require, of the land leased.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+15 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(3)
+Where  the  person  mentioned  in  subsection  (2)  becomes
+entitled as mentioned in that subsection by assignment or
+otherwise,  the  rent,  covenant  or  provision  mentioned  in
+subsection (1) may be recovered, received, enforced or taken
+advantage  of  by  him  notwithstanding  that  he  becomes  so
+entitled after the condition of re-entry or forfeiture has become
+enforceable, but this subsection does not render enforceable
+any condition of re-entry or other condition waived or released
+before such person becomes entitled as aforesaid.
+(4)
+This  section  applies  to  leases  made  before  or  after  the
+commencement  of  this  section,  but  does  not  affect  the
+operation of—
+(a)
+any severance of the reversionary estate; or
+(b)
+any acquisition by assignment or otherwise of the right to
+receive or enforce any rent covenant or provision,
+effected before the commencement* of this section.
+(5)
+[cf. 1925 c. 20 s. 141 U.K.]
+Nothing  in  this  section  shall  affect  the  provisions  of  the
+Government  Rights  (Re-entry  and  Vesting  Remedies)
+Ordinance (Cap. 126). (Amended 29 of 1998 s. 54)
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+32.
+Obligation of lessor’s covenants to run with reversion
+(1)
+The obligation under a condition or of a covenant entered into
+by a lessor with reference to the subject-matter of the lease
+shall,  if  and  as  far  as  the  lessor  has  power  to  bind  the
+reversionary estate immediately expectant on the term granted
+by the lease, be annexed and incident to and shall go with that
+reversionary  estate,  or  the  several  parts  thereof,
+notwithstanding severance of that reversionary estate, and may
+be taken advantage of and enforced by the person in whom the
+term is from time to time vested by assignment, devolution in
+law, or otherwise; and, if and as far as the lessor has power to
+bind the person from time to time entitled to that reversionary
+estate, the obligation aforesaid may be taken advantage of and
+entered against any person so entitled.
+(2)
+This  section  applies  to  leases  made  before  or  after  the
+commencement of this section, whether the severance of the
+reversionary  estate  was  effected  before  or  after  such
+commencement.
+(3)
+This section takes effect without prejudice to any liability
+affecting a covenantor or his estate.
+(4)
+[cf. 1925 c. 20 s. 142 U.K.]
+Nothing  in  this  section  shall  affect  the  provisions  of  the
+Government  Rights  (Re-entry  and  Vesting  Remedies)
+Ordinance (Cap. 126). (Amended 29 of 1998 s. 54)
+33.
+Lessor or mortgagee to have benefit of informal insurance
+The person entitled to the benefit of a covenant on the part of a
+lessee or mortgagor to insure against loss or damage by fire shall,
+on loss or damage by fire happening, have the same advantage from
+any then subsisting insurance relating to the building covenanted to
+be insured which has been effected by the lessee or mortgagor in
+respect of his interest under the lease or in the property or by any
+person claiming under him, but not effected in conformity with the
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+16 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+covenant,  as  he  would  have  from  an  insurance  effected  in
+conformity with the covenant.
+34.
+Protection of purchaser against forfeiture under covenant for
+insurance
+(1)
+Where, on the bona fide purchase of a leasehold interest under
+a lease containing a covenant on the part of the lessee to insure
+against loss or damage by fire, the purchaser is furnished with
+the written receipt of the person entitled to receive the rent, or
+his agent, for the last payment of rent accrued due before the
+completion of the purchase, and there is subsisting at the time
+of the completion of the purchase an insurance in conformity
+with the covenant, the purchaser or any person claiming under
+him shall not be subject to any liability, by way of forfeiture or
+damages or otherwise, in respect of any breach of the covenant
+committed at any time before the completion of the purchase
+of which the purchaser had no notice before the completion of
+the  purchase;  but  this  provision  is  not  to  take  away  any
+remedy which the lessor or his personal representatives may
+have against the lessee or his personal representatives for
+breach of covenant.
+(2)
+Nothing in subsection (1) shall affect the provisions of the
+Government  Rights  (Re-entry  and  Vesting  Remedies)
+Ordinance (Cap. 126). (Amended 29 of 1998 s. 54)
+34A.
+Provision requiring purchaser to pay costs of vendor void*
+(1)
+This section applies to an agreement for the sale and purchase
+of undivided shares in land, together with a right to exclusive
+occupation of a unit or other interest—
+(a)
+in an uncompleted development of the land; or
+(b)
+in a completed development of the land where—
+(i)
+the  vendor  is  the  developer  of  the  whole
+development; and
+(ii)
+no  assignment  of  the  unit  or  interest  has  been
+executed  since  the  date  on  which  the  relevant
+occupation permit or certificate of compliance was
+issued in respect of the development.
+(2)
+This section also applies to an agreement for the sub-sale and
+sub-purchase of undivided shares in land, together with a right
+to  exclusive  occupation  of  a  unit  or  other  interest  in  an
+uncompleted  or  completed  development  referred  to  in
+subsection  (1),  but  only  where  a  solicitor  or  solicitor
+corporation, or 2 or more solicitors practising in partnership or
+association,  is  or  are  authorized,  by  or  under  the  Legal
+Practitioners Ordinance (Cap. 159), to act for both the sub-
+vendor and the sub-purchaser of those undivided shares.
+(3)
+Any provision of an agreement to which this section applies is
+void in so far as it would, but for this section, have the effect
+of requiring the purchaser or sub-purchaser of the undivided
+shares in the relevant land to pay the costs of the vendor or
+sub-vendor in or in relation to—
+(a)
+preparing,  completing,  stamping  and  registering  the
+agreement; or
+(b)
+preparing,  obtaining  approval  for  and  executing  any
+instrument that gives effect to the agreement; or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+17 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(c)
+preparing  and  executing  any  relevant  preliminary
+agreement.
+(4)
+Subsection (3) has effect only where the vendor and purchaser,
+or the sub-vendor and sub-purchaser, under the agreement
+have separate legal representation.
+(5)
+In this section—
+building (WX物)  has  the  same  meaning  as  in  the  Buildings
+Ordinance (Cap. 123);
+certificate of compliance (Y⼯[) means, in relation to land that is
+the subject of a Government grant, a document signed by or on
+behalf  of  the  Director  of  Lands  certifying  that  all  of  the
+positive obligations imposed on the grantee, and the grantee’s
+successors and assignees, have been complied with to the
+satisfaction of that Director;
+completed development (已Y成的⼟_`項⽬) means—
+(a)
+a development in respect of which an occupation permit
+or a temporary occupation permit is issued under section
+21(2) of the Buildings Ordinance (Cap. 123) after the
+commencement# of this section; or
+(b)
+a  development  that  is  completed  after  that
+commencement#,
+and in respect of which any relevant certificate of compliance
+has been issued or is taken to have been issued, or the requisite
+consent has been obtained from the Director of Lands;
+development  ( _ ` 項⽬)  means  a  development  involving  the
+construction of a new building;
+preliminary agreement (cd協f) means an agreement (whether
+in writing or not) that is entered into with a view to making an
+agreement for sale and purchase to which this section applies;
+stamping (加hij), in relation to an agreement for sale and
+purchase to which this section applies, does not include the
+stamp  duty  payable  in  respect  of  the  agreement  or  any
+document relating to the agreement;
+uncompleted development (未Y成的⼟_`項⽬) means a
+development—
+(a)
+for which neither a temporary occupation permit nor an
+occupation permit has been issued under section 21(2) of
+the Buildings Ordinance (Cap. 123); or
+(b)
+that is otherwise uncompleted; or
+(c)
+where applicable, for which a certificate of compliance
+has not been issued or is taken not to have been issued.
+(Added 94 of 1997 s. 14)
+____________________
+Editorial Note:
+* This section does not apply to an agreement for the sale and purchase of
+undivided shares in land if the agreement was entered into before 8
+August 1997. See s. 4 of Schedule 2 to 94 of 1997 and LN 413 of 1997.
+# Commencement date: 8 August 1997.
+___________
+Part IV
+Forms, Covenants and Conditions
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+18 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+35.
+Implied covenants
+(1)
+There shall be implied—
+(a)
+in any assignment of the whole of the interest in land
+held under a Government lease, the covenant by a person
+who assigns, and the covenant by a person to whom an
+assignment is made, mentioned in Part I of the First
+Schedule; (Amended 31 of 1988 s. 12; 29 of 1998 s. 105)
+(b)
+in  an  assignment  to  a  purchaser  for  valuable
+consideration,  the  covenants,  by  a  person  who  is
+expressed to assign as beneficial owner, mentioned in
+Part II of the First Schedule;
+(c)
+in an assignment by way of voluntary disposition, the
+covenant, by a person who is expressed to assign as
+donor, mentioned in Part III of the First Schedule;
+(d)
+in any assignment, the covenant, by a person who is
+expressed  to  assign  as  trustee,  confirmor,  mortgagee,
+legal  chargee,  personal  representative  of  a  deceased
+person or under an order of court, mentioned in Part IV
+of the First Schedule; and
+(e)
+in a legal charge, the covenants, by a person who is
+expressed to charge as beneficial owner, mentioned in
+Part V of the First Schedule.
+(1A)
+The  covenants  implied  under  subsection  (1)(a)  shall  be
+covenants to which section 41 applies. (Added 31 of 1988 s. 
+12)
+(1B)
+The benefit of the covenants implied under this section shall
+run with the land and shall be enforceable by the covenantee
+and his successors in title and persons deriving title under or
+through him or them. (Added 31 of 1988 s. 12)
+(1C)
+In paragraphs (a) to (d) of subsection (1), assignment (轉)
+does not include a legal charge. (Added 31 of 1988 s. 12)
+(1D)
+Unless the contrary intention is expressed, the liability of joint
+parties to any assignment or legal charge in respect of the
+covenants  mentioned  in  subsection  (1)  shall  be  joint  and
+several. (Added 31 of 1988 s. 12)
+(2)
+The covenants implied under this section may be excluded,
+varied or extended in the assignment or legal charge.
+(3)
+[cf. 1925 c. 20 s. 76 U.K.]
+This section shall not affect any assignment or legal mortgage
+executed before the commencement* of this section.
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+36.
+Other covenants and conditions
+The covenants and conditions mentioned in the Second Schedule, or
+any of them, may be incorporated into any instrument by reference.
+37.
+[cf. 1925 c. 20 s. 206 U.K.]
+Standard forms
+A deed, agreement or receipt in the appropriate form given in the
+Third  Schedule  shall,  in  regard  to  form  and  expression,  be
+sufficient.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+19 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+38.
+Protection of solicitors etc.
+(1)
+The powers given by this Ordinance to any person and the
+covenants  and  conditions  implied  by,  or  incorporated  by
+reference under, this Ordinance in any instrument shall be
+deemed  in  law  proper  to  be  included  in  the  appropriate
+instrument  and  a  solicitor,  acting  in  good  faith  and  with
+reasonable diligence, shall not be liable for failing to exclude
+those powers, covenants or conditions or to insert others in
+their place:
+Provided that this subsection shall not imply that the inclusion
+of other powers, covenants or conditions is improper.
+(2)
+[cf. 1925 c. 20 s. 182 U.K.]
+A  person  acting  in  a  fiduciary  position,  whether  with  or
+without a solicitor, shall be entitled to the protection afforded
+to a solicitor by subsection (1).
+39.
+Benefit of covenants relating to land
+(1)
+A covenant relating to any land of the covenantee shall be
+deemed, unless the contrary intention is expressed, to be made
+with the covenantee and his successors in title and persons
+deriving title under or through him or them. (Amended 31 of 
+1988 s. 13)
+(2)
+[cf. 1925 c. 20 s. 78 U.K.]
+This section shall apply to covenants entered into before or
+after the commencement of this section.
+40.
+Burden of covenants relating to land
+(1)
+A covenant relating to any land of a covenantor or capable of
+being bound by him, shall be deemed, unless the contrary
+intention is expressed, to be made by the covenantor on behalf
+of himself, his successors in title and persons deriving title
+under or through him or them.
+(2)
+This section extends to a covenant to do some act relating to
+the land, notwithstanding that the subject matter may not be in
+existence when the covenant is made.
+(3)
+[cf. 1925 c. 20 s. 79 U.K.]
+This section shall apply to covenants entered into before or
+after the commencement of this section.
+41.
+Enforcement of covenants
+(1)
+This section applies to an express covenant and a covenant
+implied by or under this Ordinance or any other law.
+(2)
+This  section  applies  to  any  covenant,  whether  positive  or
+restrictive in effect —
+(a)
+which relates to the land of the covenantor;
+(b)
+the burden of which is expressed or intended to run with
+the land of the covenantor; and
+(c)
+which is expressed and intended to benefit the land of the
+covenantee and his successors in title or persons deriving
+title to that land under or through him or them.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+20 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(3)
+Notwithstanding  any  rule  of  law  or  equity  but  subject  to
+subsection (5), a covenant shall run with the land and, in
+addition to being enforceable between the parties, shall be
+enforceable  against  the  occupiers  of  the  land  and  the
+covenantor and his successors in title and persons deriving
+title under or through him or them by the covenantee and his
+successors in title and persons deriving title under or through
+him or them.
+(4)
+(a)
+For the purposes of the enforcement of a covenant, the
+following remedies shall be available—
+(i)
+proceedings  for  an
+injunction  (including  a
+mandatory injunction) or other equitable relief;
+(ii)
+an action for money due under the covenant;
+(iii)
+an  action  for  damages  (whether  in  respect  of
+pecuniary or non-pecuniary kinds of damage).
+(b)
+For the purposes of ascertaining the existence, nature and
+effect of a covenant, a court of competent jurisdiction
+may make a declaration relating to those matters.
+(5)
+A positive covenant shall not, by virtue only of this section, be
+enforceable against—
+(a)
+a lessee from the covenantor or from a successor in title
+of the covenantor or from any person deriving title under
+or through the covenantor or a successor in title of the
+covenantor; or
+(b)
+any person deriving title under or through such a lessee;
+or
+(c)
+any person merely because he is an occupier of land.
+(6)
+A  positive  covenant  is  a  covenant  to  expend  money,  do
+something or which is otherwise positive in nature.
+(7)
+A covenant shall be enforceable under this section whether or
+not the covenant is between owners of the same land.
+(8)
+A covenant shall not bind a person after he has ceased to have
+any estate or interest in the land affected by that covenant
+except in respect of a breach of that covenant committed by
+him before that cessation.
+(9)
+A covenant in an instrument registered in the Land Registry
+under the Land Registration Ordinance (Cap. 128) against the
+land affected by the covenant shall bind the successors in title
+of  the  covenantor  and  the  persons  deriving  title  under  or
+through him or them whether or not they had notice of the
+covenant. (Amended 8 of 1993 s. 2)
+(10)
+This section shall apply to covenants whether entered into
+before or after the commencement of the Conveyancing and
+Property (Amendment) Ordinance 1988 (31 of 1988).
+(Replaced 31 of 1988 s. 14)
+42.
+Saving of covenants, terms and conditions
+(1)
+Any  instrument  entered  into  and  taking  effect  after  an
+agreement for the Government lease of the land affected by
+the instrument but before the issue of the Government lease of
+that land shall have the same force and effect in relation to that
+land  after  the  issue  of  that  Government  lease  as  it  had
+immediately before that issue. (Amended 31 of 1988 s. 15)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+21 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(2)
+Where  any  instrument  referred  to  in  subsection  (1)  is
+registered under the Land Registration Ordinance (Cap. 128),
+that registration shall continue in force after the issue of, and
+in relation to, the Government lease of the land affected by the
+instrument with effect from the date of registration; and the
+Land Registrar may make an entry directing attention to the
+provisions  of  this  section  in  the  Land  Registry  registers
+relating to any land affected by that instrument. (Amended 31 
+of 1988 s. 15; 8 of 1993 ss. 2 & 3)
+(3)
+Where a Government lease expires and is either renewed or
+replaced by a new Government lease relating to the same land,
+any covenant relating to that land shall, unless the contrary
+intention is expressed, continue to have effect.
+(Amended 29 of 1998 s. 105)
+43.
+Effect of agreement with 2 or more jointly
+(1)
+Any agreement or covenant relating to land or other property,
+express or implied, with 2 or more persons jointly to do any
+act  for  their  benefit  shall  be  deemed,  unless  the  contrary
+intention is expressed, to include an obligation to do that act
+for the benefit of the survivor or survivors of them and for the
+benefit of any other person to whom the right to sue on the
+agreement devolves; and shall be construed as being made
+with each of them.
+(2)
+[cf. 1925 c. 20 s. 81 U.K.]
+This section applies only to agreements entered into after 22
+June 1979.
+___________
+Part V
+Mortgages
+44.
+Mortgage of legal estate
+(1)
+After the commencement* of this section, a mortgage of a
+legal estate, including any second or subsequent mortgage of
+that legal estate, may be effected at law only by a charge by
+deed expressed to be a legal charge.
+(2)
+Under a mortgage effected by a legal charge, the mortgagor
+and the mortgagee shall, subject to this Ordinance, have the
+same  protection,  powers  and  remedies  (including  but  not
+limited  to  those  relating  to  foreclosure  and  the  equity  of
+redemption but excluding the power of the mortgagee to enter
+into possession before any default by the mortgagor) as if the
+mortgage had been effected by way of assignment of the legal
+estate before the commencement* of this section.
+(3)
+Upon the commencement* of this section, a mortgage of a
+legal estate effected by way of assignment of the legal estate
+before the commencement* of this section shall be deemed,
+for  the  purposes  of  this  Ordinance,  to  be  reassigned  and
+discharged and replaced by a legal charge in the same terms
+and  having  the  same  validity  and  priority,  subject  to  this
+Ordinance, as the mortgage which it replaces.
+(4)
+Subsection (3) does not affect—
+(a)
+the  mortgagee’s  right  to  the  possession  of  any
+documents; or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+22 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(b)
+any rights or obligations, under any guarantee, suretyship
+or otherwise, ancillary to the mortgage replaced under
+that subsection.
+(5)
+Subject  to  any  agreement  between  the  mortgagor  and  the
+mortgagee, where the mortgaged land is mortgaged by way of
+legal  charge,  the  mortgagor  may  execute  a  second  or
+subsequent  charge  against  the  mortgaged  land  by  a  legal
+charge.
+(6)
+Unless  the  contrary  intention  is  expressed,  the  mortgagee
+under the first mortgage of a legal estate shall be entitled to
+possession of the deeds of title relating to the mortgaged land.
+(7)
+This  section  does  not  affect  any  mortgage,  including  a
+mortgage by sub-demise, effected before the commencement*
+of this section which is not replaced under subsection (3).
+(8)
+This section does not affect any mortgage, charge or lien
+arising under any Ordinance or by operation of law.
+(9)
+This section does not affect the right or interest of any person
+arising out of or consequent on the possession by him of any
+documents relating to a legal estate in land.
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+45.
+Tacking
+(1)
+A  mortgagee  under  prior  mortgage  may  make  a  further
+advance or re-advance to rank in the same priority over a
+subsequent mortgage as the original advance under that prior
+mortgage—
+(a)
+if the subsequent mortgagee so consents; or
+(b)
+where the further advance or re-advance does not exceed,
+with any other outstanding advance or re-advance, the
+specified  maximum  amount  secured  under  that  prior
+mortgage; or
+(c)
+where that prior mortgage is in favour of an authorized
+institution (as defined in the Banking Ordinance (Cap.
+155)) and is expressed to secure all money which may,
+from  time  to  time,  be  owing  to  the  prior
+mortgagee, (Amended 27 of 1986 s. 137)
+and paragraphs (b) and (c) shall have effect whether or not the
+prior mortgagee had notice of the subsequent mortgage at the
+time when the further advance or re-advance was made by the
+prior mortgagee.
+(2)
+The priority to which a prior mortgagee is entitled under
+subsection (1) shall extend, in addition to the amount secured
+under the prior mortgage, to interest on that amount and to all
+costs, charges and expenses secured under the mortgage.
+(3)
+Subject to subsection (1), the right to tack in relation to land is
+abrogated: (Amended 31 of 1988 s. 16)
+Provided  that  nothing  in  this  section  shall  affect  any  priority
+acquired before the commencement* of this section.
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+46.
+Conversion of equitable mortgage
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+23 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(1)
+Where  an  equitable  interest  becomes  a  legal  estate  under
+section 14, any equitable mortgage by deed over that equitable
+interest shall become a legal charge over that legal estate in the
+same terms, subject to this Ordinance, as are contained in that
+deed.
+(2)
+This section applies to equitable mortgages by deed executed
+before or after the commencement of this section.
+47.
+Inspection of title deeds
+(1)
+A mortgagor and a mortgagee not having possession of the
+deeds of title relating to the mortgaged land, for so long as
+they have an interest in that land, shall be entitled at any
+reasonable times to inspect and make copies of those deeds in
+the possession of a mortgagee.
+(2)
+This section applies to a mortgage made before or after the
+commencement  of  this  section  and  notwithstanding  any
+agreement to the contrary.
+48.
+Mortgage to 2 or more jointly
+Where any mortgage effected after the commencement* of this
+section is expressed to be made to 2 or more persons jointly, the
+mortgage money shall (if and so far as the contrary intention is not
+expressed in the mortgage), as between them and the mortgagor, be
+deemed to be owing to these persons on a joint account and the
+receipt of the survivors or the last survivor of them or of the
+successor or personal representative of the last survivor shall be a
+complete discharge.
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+49.
+Action for possession of land by mortgagor
+(1)
+A mortgagor under any mortgage (whether effected before or
+after the commencement of this section) entitled for the time
+being to the possession or receipt of the rents or profits of any
+land in respect of which no notice has been given by the
+mortgagee of his intention to take possession or to enter into
+the receipt of the rents and profits of that land may sue for
+such possession, or for the recovery of the rents and profits, or
+to prevent or recover damages in respect of any trespass or
+other wrong relating to that land, in his own name only, unless
+the cause of action arises upon a lease or other contract made
+by him jointly with any other person.
+(2)
+[cf. 1925 c. 20 s. 98(1) U.K.]
+This section does not affect the power of the mortgagor, apart
+from this section, in right of the legal estate or otherwise, to
+take proceedings in his own name.
+50.
+Power to appoint a receiver
+(1)
+There  shall  be  implied  in  any  legal  charge  or  equitable
+mortgage by deed, where the mortgage money has become
+due, a power exercisable in writing by the mortgagee and any
+person entitled to give a receipt for the mortgage money on its
+repayment to appoint a receiver or receivers of the mortgaged
+land and the income thereof, to remove any receiver appointed
+and appoint another in his place.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+24 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(2)
+Any receiver so appointed will be deemed the agent of the
+mortgagor and the mortgagor will be solely responsible for the
+receiver’s acts and defaults.
+(3)
+Any receiver so appointed may act in his own name or the
+name of the mortgagor.
+(4)
+Where 2 or more receivers are appointed, the appointment
+shall be deemed to be a joint and several appointment.
+(5)
+The mortgagee may, from time to time, fix the remuneration of
+the receiver and the receiver shall be entitled to retain out of
+any money received by him that remuneration and all costs,
+charges and expenses properly incurred by him as a receiver.
+(6)
+Without prejudice to the powers mentioned in the Fourth
+Schedule,  the  receiver  shall  have  power  to  demand  and
+recover all the land of which he is appointed receiver and the
+income thereof, by action, distress, or otherwise, in the name
+either of the mortgagor or of the mortgagee, to the full extent
+of the estate or interest which the mortgagor could dispose of,
+and  to  give  effectual  receipts  accordingly  for  the
+same. (Amended 31 of 1988 s. 17)
+(7)
+A person paying money to the receiver shall not be concerned
+to inquire whether any event has happened to authorize the
+receiver to act.
+(8)
+The provisions of this section are subject to contrary intention
+expressed in the mortgage deed and may be varied or extended
+by the mortgage deed, and, as so varied or extended, shall
+have effect as if contained in this Ordinance.
+(9)
+This section shall not apply to any mortgage executed before
+the commencement* of this section.
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+51.
+Powers of mortgagee and receiver
+(1)
+Unless  the  contrary  intention  is  expressed,  there  shall  be
+implied in any legal charge or equitable mortgage by deed, the
+powers,  exercisable  by  the  mortgagee,  a  receiver  (acting
+personally or through their agents) and any person entitled to
+give  a  receipt  for  the  mortgage  money  on  its  repayment,
+mentioned in the Fourth Schedule.
+(2)
+Any power exercisable under a mortgage shall be subject to
+any prior estates, interests and rights to which the mortgaged
+land is subject.
+(3)
+No power of sale shall empower a mortgagee or a receiver
+under an equitable mortgage, by virtue of that mortgage only,
+to assign the legal estate in the mortgaged land.
+(4)
+The powers implied by subsection (1), and the provisions of
+the Fourth Schedule relating to the exercise of those powers
+may be varied or extended by the mortgage deed and, as so
+varied or extended, shall have effect as if contained in this
+Ordinance.
+(5)
+This section shall not apply to any mortgage executed before
+the commencement* of this section.
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+52.
+Protection of purchaser
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+25 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+Where a sale is made under a mortgage, the title of the purchaser
+shall not be affected by the fact that no case had arisen to authorize
+the sale or that due notice was not given or that the power was
+otherwise improperly or irregularly exercised; but any person who
+suffers loss through an unauthorized, improper or irregular exercise
+of the power of sale shall have a remedy in damages against the
+person exercising the power.
+53.
+Sale by mortgagee
+(1)
+Where  a  mortgagee  or  receiver  sells  under  an  express  or
+statutory  power  of  sale,  the  assignment  shall  operate
+— (Amended 31 of 1988 s. 18)
+(a)
+to assign to the purchaser the mortgagor’s estate in that
+land, subject to any other mortgage having priority to the
+mortgage under which the sale is made; and
+(b)
+to discharge that land from the mortgage under which the
+sale is made and any subsequent mortgage.
+(2)
+Where a mortgagee obtains an order of foreclosure absolute,
+that order shall (unless it otherwise provides) operate—
+(a)
+to assign to the mortgagee the mortgagor’s estate in the
+mortgaged land, subject to any other mortgage having
+priority to the mortgage under which the foreclosure
+order was obtained; and
+(b)
+[cf. 1925 c. 20 s. 89 U.K.]
+to discharge that land from the mortgage under which the
+foreclosure  order  was  obtained  and  any  subsequent
+mortgage.
+54.
+[cf. 1925 c. 20 ss. 105 & 107(2) U.K.]
+Application of money received
+Any money received by a mortgagee or a receiver from the sale or
+other dealing with the mortgaged land or any security comprised in
+the mortgage shall be applied according to the following priority—
+(a)
+in discharge of all rent, taxes, rates and other outgoings
+due and affecting the mortgaged land;
+(b)
+unless  the  mortgaged  land  is  sold  subject  to  a  prior
+incumbrance, in discharge of that prior incumbrance;
+(c)
+in payment of the receiver’s lawful remuneration, costs,
+charges and expenses and all lawful costs and expenses
+properly incurred in the sale or other dealing;
+(d)
+in payment of mortgage money, interest and costs due
+under the mortgage,
+and any residue shall be paid to the person who, immediately before
+any sale or other dealing, was entitled to the mortgaged land or
+authorized to give a receipt for the proceeds of the sale of that land.
+55.
+Mortgagee’s receipt
+(1)
+A receipt in writing of a mortgagee or a receiver shall be a
+sufficient discharge for any money arising under a power of
+sale or for any money or security comprised in the mortgage
+or  arising  under  it;  and  a  person  paying  that  money  or
+transferring that security shall not be concerned to inquire
+whether any money remains due under the mortgage.
+(2)
+[cf. 1925 c. 20 s. 107 U.K.]
+A receipt mentioned in subsection (1) need not be under seal.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+26 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+56.
+Discharge of mortgage by signed receipt
+(1)
+A receipt, written on or annexed to a mortgage deed, for all
+money secured by that mortgage, which is executed by the
+mortgagee or the person in whom the mortgage is vested and
+who is legally entitled to give a receipt for the mortgage
+money, shall operate, without any surrender or release as a
+discharge  and,  where  applicable,  reassignment  of  the
+mortgaged  property  from  all  principal  money  and  interest
+secured by, and from all claims under, that mortgage, but
+without  prejudice  to  any  term  or  other  interest  which  is
+paramount to the estate or interest of the mortgagee or other
+person in whom the mortgage is vested. (Amended L.N. 387 of
+1987; 31 of 1988 s. 19)
+(2)
+Upon performance of the terms of a mortgage, a mortgagor
+shall be entitled, at his cost and charge, to a receipt mentioned
+in subsection (1).
+(3)
+In  a  receipt  mentioned  in  subsection  (1),  there  shall  be
+implied, unless the contrary intention is expressed, a covenant
+by the person who executes the receipt that such person has
+not executed or done, or knowingly suffered, or been party or
+privy to, any deed or thing, whereby or by means whereof the
+mortgaged  property  or  any  part  thereof  is  or  may  be
+impeached, charged, affected or incumbered in title, estate or
+otherwise.
+(4)
+Where the mortgage is contained in more than one deed, a
+receipt may, for the purposes of this section, refer to all those
+deeds and be written on or annexed to one of those deeds.
+(5)
+A receipt under this section need not be under seal.
+(6)
+[cf. 1925 c. 20 s. 115 U.K.]
+This section applies to the discharge of any mortgage by deed,
+whether  that  deed  was  executed  before  or  after  the
+commencement of this section, but only to discharges effected
+after the commencement* of this section.
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+56A.
+Floating charges
+(1)
+A floating charge over property (whether or not it purports to
+restrict the chargor’s right to alienate the property) shall not
+affect any estate or interest in any land, being part of the
+property, acquired by any other person before crystallisation of
+the floating charge, whether or not the other person had actual
+or constructive notice of the floating charge or of any such
+purported restriction.
+(2)
+This section applies to any floating charge granted on or after
+1 November 1984.
+(Added 31 of 1988 s. 20)
+57.
+(Omitted as spent)
+___________
+Part VI
+Relief Against Forfeiture
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+27 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+58.
+Restrictions on and relief against forfeiture of leases and under-
+leases
+(1)
+A  right  of  re-entry  or  forfeiture  under  any  proviso  or
+stipulation in a lease for a breach of any covenant or condition
+in the lease shall not be enforceable, by action or otherwise,
+unless and until the lessor serves on the lessee a notice—
+(a)
+specifying the particular breach complained of; and
+(b)
+if the breach is capable of remedy, requiring the lessee to
+remedy the breach; and
+(c)
+specifying the compensation, if any, which the lessor
+requires in respect of the breach,
+and the lessee fails, within a reasonable time thereafter, to
+remedy the breach, if it is capable of remedy, and to make
+reasonable compensation in money, to the satisfaction of the
+lessor, for the breach.
+(2)
+Where  a  lessor  is  proceeding,  by  action  or  otherwise,  to
+enforce such a right of re-entry or forfeiture, the lessee may, in
+the lessor’s action, if any, or in any action brought by himself,
+apply to the court for relief; and the court may grant or refuse
+relief, as  the court, having regard  to the proceedings  and
+conduct of the parties under the foregoing provisions of this
+section, and to all the other circumstances, thinks fit; and in
+case of relief may grant it on such terms, if any, as to costs,
+expenses,  damages,  compensation,  penalty,  or  otherwise,
+including the granting of an injunction to restrain any like
+breach in the future, as the court, in the circumstances of each
+case, thinks fit.
+(3)
+A lessor shall be entitled to recover as a debt due to him from
+a lessee, and in addition to damages (if any), all reasonable
+costs and expenses properly incurred by the lessor in the
+employment  of  a  solicitor  and  surveyor  or  valuer,  or
+otherwise, in reference to any breach giving rise to a right of
+re-entry or forfeiture which, at the request of the lessee, is
+waived by the lessor, or from which the lessee is relieved,
+under the provisions of this section.
+(4)
+Where a lessor is proceeding by action or otherwise to enforce
+a right of re-entry or forfeiture under any covenant, proviso, or
+stipulation in a lease, or for non-payment of rent, the court
+may, on application by any person claiming as under-lessee
+any estate or interest in the property comprised in the lease or
+any part thereof, either in the lessor’s action (if any) or in any
+action brought by such person for that purpose, make an order
+vesting, for the whole term of the lease or any less term, the
+property comprised in the lease or any part thereof in any
+person entitled as under-lessee to any estate or interest in such
+property upon such conditions as to execution of any deed or
+other document, payment of rent, costs, expenses, damages,
+compensation, giving security, or otherwise, as the court in the
+circumstances of each case may think fit, but in no case shall
+any such under-lessee be entitled to require a lease to be
+granted to him for any longer term than he had under his
+original sub-lease.
+(5)
+For the purposes of this section—
+(a)
+lease (租) includes an original or derivative under-
+lease; also an agreement for a lease where the lessee has
+become entitled to have his lease granted;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+28 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(b)
+lessee (租人) includes an original or derivative under-
+lessee, and the persons deriving title under a lessee;
+(c)
+lessor (l租人) includes an original or derivative under-
+lessor, and the persons deriving title under a lessor;
+(d)
+under-lease (I租租) includes an agreement for an
+under-lease where the under-lessee has become entitled
+to have his under-lease granted;
+(e)
+under-lessee (I租人) includes any person deriving title
+under an under-lessee.
+(6)
+This section applies although the proviso or stipulation under
+which the right of re-entry or forfeiture accrues is inserted in
+the lease under any Ordinance.
+(7)
+For the purposes of this section, a lease limited to continue as
+long only as the lessee abstains from committing a breach of
+covenant shall be and take effect as a lease to continue for any
+longer term for which it could subsist, but determinable by a
+proviso for re-entry on such a breach.
+(8)
+This section does not extend to a covenant or condition against
+assigning,  underletting,  parting  with  the  possession,  or
+disposing of the land leased or any part thereof where the
+breach occurred before the commencement* of this section.
+(9)
+Except in subsection (4), this section does not apply to a
+condition for forfeiture on the bankruptcy of the lessee or on
+taking in execution of the lessee’s interest. (Amended 31 of 
+1988 s. 21)
+(10)
+This section does not, save as mentioned in subsection (4),
+affect the law relating to re-entry or forfeiture or relief in case
+of non-payment of rent.
+(11)
+This section has effect notwithstanding any stipulation to the
+contrary.
+(12)
+Nothing  in  this  section  shall  affect  the  provisions  of  the
+Government  Rights  (Re-entry  and  Vesting  Remedies)
+Ordinance (Cap. 126). (Amended 29 of 1998 s. 54)
+(13)
+In this section, court (#) includes the Lands Tribunal.
+(14)
+[cf. 1925 c. 20 s. 146 U.K.]
+This section shall have effect subject to the Landlord and
+Tenant (Consolidation) Ordinance (Cap. 7) and the District
+Court Ordinance (Cap. 336).
+____________________
+Editorial Note:
+* Commencement date: 1 November 1984.
+___________
+Part VII
+Voidable Dispositions
+59.
+Purchase not voidable for undervalue
+(1)
+No  purchase,  made  bona  fide  and  without  fraud,  of  any
+interest in property of any kind within Hong Kong shall be
+opened or set aside merely on the ground of undervalue.
+(2)
+For the purpose of this section, purchase (購買) shall include
+every kind of disposition under or by which any beneficial
+interest in any kind of property may be acquired.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+29 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+[cf. 1868 c. 4 s. 1 U.K.]
+60.
+Voidability of dispositions to defraud creditors
+(1)
+Subject  to  subsections  (2)  and  (3),  every  disposition  of
+property made, whether before or after the commencement of
+this section, with intent to defraud creditors, shall be voidable,
+at the instance of any person thereby prejudiced.
+(2)
+This section does not affect the law of bankruptcy for the time
+being in force.
+(3)
+[cf. 1925 c. 20 s. 172 U.K.]
+This  section  does  not  extend  to  any  estate  or  interest  in
+property disposed of for valuable consideration and in good
+faith or upon good consideration and in good faith to any
+person not having, at the time of the disposition, notice of the
+intent to defraud creditors. (Amended 31 of 1988 s. 22)
+61.
+Voluntary  disposition  of  land:  how  far  voidable  as  against
+purchasers
+(1)
+Every  voluntary  disposition  of  land  made  with  intent  to
+defraud a subsequent purchaser is voidable at the instance of
+that purchaser.
+(2)
+[cf. 1925 c. 20 s. 173 U.K.]
+For the purposes of this section, no voluntary disposition shall
+be deemed to have been made with intent to defraud by reason
+only that a subsequent disposition for valuable consideration
+was made.
+___________
+Part VIII
+Miscellaneous
+62.
+Service of notices
+(1)
+Any notice relating to land required or authorized by this
+Ordinance to be served or given shall be in writing.
+(2)
+Any notice required or authorized by this Ordinance to be
+served on a mortgagor or lessee shall be sufficient, although
+only addressed to the mortgagor or lessee by that designation,
+without  his  name,  or  generally  to  the  persons  interested,
+without any name, and notwithstanding that any person to be
+affected by the notice is absent, under disability, unborn, or
+unascertained.
+(3)
+Any notice required or authorized by this Ordinance to be
+served shall be sufficiently served if it is left at the last-known
+place of abode or business in Hong Kong of the mortgagee,
+mortgagor, or lessee or other person to be served, or, in case of
+a notice required or authorized to be served on a mortgagor or
+lessee, is affixed or left for him on the land comprised in the
+mortgage or lease. (Amended 31 of 1988 s. 23)
+(4)
+Any notice required or authorized by this Ordinance to be
+served  shall  also  be  sufficiently  served  if  it  is  sent  by
+post. (Amended 31 of 1988 s. 23)
+(5)
+Unless the contrary intention is expressed, the provisions of
+this section shall extend to—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+30 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(a)
+notices required to be served by any instrument affecting
+land; and
+(b)
+notices to terminate any lease.
+(6)
+[cf. 1925 c. 20 s. 196 U.K.]
+This section does not apply to notices served in proceedings in
+any court or tribunal.
+63.
+(Omitted as spent)
+64.
+Amendment of Schedules
+The Legislative Council may by resolution amend the First, Second,
+Third and Fourth Schedules.
+___________
+First Schedule
+[s. 35]
+Part I
+Implied Covenants in any Assignment of Land
+(Replaced 31 of 1988 s. 24)
+A. By a Person who Assigns
+That, in the event of the land being partitioned by assignment, the assignor
+shall from the date of the assignment or other date therein stated pay the
+balance of the Government rent on the due dates and observe and perform
+all  the  covenants  (other  than  the  covenant  to  pay  the  whole  of  the
+Government rent) agreements and conditions contained in the Government
+lease and any Deed of Mutual Covenant and on the part of the lessee to be
+observed and performed so far as the same relate to the portion of the land
+remaining vested in the assignor.
+(Amended 31 of 1988 s. 24; 29 of 1998 s. 105)
+B. By a Person to whom an Assignment is Made
+That the assignee and any person deriving title under the assignee shall at all
+times from the date of the assignment or other date therein stated pay the
+Government rent or as the case may be the apportioned Government rent
+and observe and perform all the covenants (other than the covenant to pay
+the  whole  of  the  Government  rent  if  the  Government  rent  has  been
+apportioned) agreements and conditions contained in the Government lease
+and any Deed of Mutual Covenant and on the part of the lessee to be
+observed and performed so far as the same relate to the land assigned.
+(Amended 31 of 1988 s. 24; 29 of 1998 s. 105)
+Part II
+Covenants for Title Implied in an Assignment of Land
+to a Purchaser for Valuable Consideration by a Person
+who is Expressed to Assign as Beneficial Owner (the
+vendor)
+That the liability of the vendor in respect of a breach of any of the following
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+31 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+covenants shall extend and shall extend only to such a breach arising from
+anything made, done, executed or omitted, or knowingly suffered—
+(a)
+by the vendor;
+(b)
+by any person through whom the vendor derives title
+otherwise than by purchase for value;
+(c)
+by any person assigning by the direction of the vendor;
+(d)
+by any person rightfully claiming through, under or in
+trust  for  the  vendor  or  any  person  assigning  by  his
+direction;
+(e)
+by any person rightfully claiming by, through or under
+any person (other than in respect of an estate or interest
+subject  to  which  the  assignment  is  expressly  made)
+through whom the vendor derives title otherwise than by
+purchase for value.
+1.
+That the Government lease is good, valid and subsisting.
+2.
+That, so far as the same relate to the land assigned—
+(a)
+the  premium  or  other  money  (if  any)  and  the
+Government  rent  payable  under  and  reserved  by  the
+Government lease have been paid; and
+(b)
+the covenants, terms and  conditions contained  in the
+Government lease and any Deed of Mutual Covenant
+have been observed and performed,
+up to the date of the assignment.
+(Replaced 31 of 1988 s. 25)
+3.
+That the vendor now has good right and title to assign the land free
+from encumbrances save as specified in the assignment and subject
+to the manner in which the assignment is expressed to be made.
+4.
+That the land may be quietly entered into and during the residue of
+the term of years created by the Government lease (and any renewal
+thereof) held and enjoyed by the person to whom the assignment is
+expressed to be made (the purchaser) and any person deriving title
+under him without any lawful interruption or disturbance.
+5.
+That all such lawful acts, assurances and things for further or more
+perfectly assuring the land and every part thereof to the purchaser
+and to those deriving title under the purchaser shall, from time to
+time and at all times at the request and cost of the purchaser or any
+person deriving title under him, be executed and done (subject to
+the manner in which the assignment is expressed to be made) as by
+the purchaser or any such person may be reasonably required.
+(Amended 29 of 1998 s. 105)
+Part III
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+32 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+Covenant for Title Implied in an Assignment by way of
+Voluntary Disposition by a Person who is Expressed to
+Assign as Donor
+That the donor and any person assigning the land by his direction and any
+person deriving title under him by deed or act or operation of law in his
+lifetime subsequent to that assignment, or by testamentary disposition or
+devolution in law, on his death, shall from time to time after the date of that
+assignment, at the request and at the cost of the person to whom the land is
+expressed to be assigned or any person deriving title under such person
+execute and do all such lawful acts, assurances and things for further or
+more perfectly assuring the land and every part thereof to the person to
+whom the land is expressed to be assigned and to those deriving title under
+him (subject to the manner in which the assignment is expressed to be
+made) as by him or any such person may be reasonably required.
+Part IV
+Covenant for Title Implied in an Assignment by a
+Person who is Expressed to Assign as Trustee,
+Confirmor, Mortgagee, Legal Chargee, Personal
+Representative or under an Order of Court
+That the person so assigning has not executed or done, or knowingly
+suffered, or been party or privy to, any deed or thing, whereby or by means
+whereof the land or any part thereof, is or may be impeached, charged,
+affected or incumbered in title, estate or otherwise or whereby or by means
+whereof the person who so conveys is in any way hindered from assigning
+the land or any part thereof in the manner in which it is expressed to be
+assigned.
+Part V
+Covenants for Title Implied in a Legal Charge by
+a Person who is Expressed to Charge as
+Beneficial Owner (the borrower)
+1.
+That the Government lease is good, valid and subsisting.
+2.
+That, so far as the same relate to the land mortgaged—
+(a)
+the  premium  or  other  money  (if  any)  and  the
+Government  rent  payable  under  and  reserved  by  the
+Government lease have been paid; and
+(b)
+the covenants, terms and  conditions contained  in the
+Government lease and any Deed of Mutual Covenant
+have been observed and performed,
+up to the date of the legal charge and will continue to be paid,
+observed and performed during the subsistence of the legal charge.
+(Replaced 31 of 1988 s. 26)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+33 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+3.
+That the borrower now has good right and title to charge the land
+free from incumbrances save as specified in the legal charge and
+subject to the manner in which the charge is expressed to be made.
+4.
+That, upon the lender being entitled so to do under the terms of the
+legal charge, the land may be quietly entered into and during the
+residue of the term created by the Government lease (and any
+renewal thereof) held and enjoyed by the lender without any lawful
+interruption or disturbance by the borrower, any person charging by
+his direction or any person rightfully claiming through, under or in
+trust for the borrower (other than in respect of an estate or interest
+subject to which the legal charge is expressly made).
+5.
+That the borrower and any person charging the land by his direction
+and any person deriving title under them and any other person
+having or rightfully claiming any estate or interest in the land or any
+part thereof (other than an estate or interest subject whereto the
+legal charge is expressly made) shall from time to time and at all
+times at the request of the lender or any person deriving title under
+him at the cost, until sale of the land in accordance with the legal
+charge, of the borrower and, after such sale, at the cost of the person
+making the request execute and do all such lawful acts assurances
+and things for further or more perfectly assuring the land and every
+part thereof to the lender and to those deriving title under him
+(subject to the manner in which the legal charge is expressed to be
+made) as by the lender or any such person may be reasonably
+required.
+(Amended 29 of 1998 s. 105)
+___________
+Second Schedule
+[s. 36]
+Covenants and Conditions which may be Incorporated
+by Reference
+Part A
+(In an Agreement for Sale of a Residential, Commercial,
+Industrial or Other Unit in a Completed Building)
+1.
+Rents, Outgoings and Apportionments
+The rents and profits shall be received and all outgoings shall be
+discharged by the vendor up to and inclusive of the actual day of
+completion, and as from but exclusive of that day all outgoings shall
+be discharged by the purchaser. All such rents, profits and outgoings
+shall, if necessary, be apportioned between the vendor and the
+purchaser and paid on completion.
+2.
+Insurance
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+34 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(1)
+As from the date of this agreement, the vendor shall hold in
+trust for the purchaser the benefit of any existing policy of
+insurance relating to the property.
+(2)
+The vendor does not warrant that any or any adequate policy
+of insurance exists relating to the property or, if any such
+policy exists, that it will be renewed on expiration.
+(3)
+The  vendor  shall,  if  required,  and  at  the  expense  of  the
+purchaser obtain or consent to an endorsement of notice of the
+purchaser’s interest on the policy of insurance relating to the
+property and in such case the vendor (keeping such policy in
+force)  may  require  the  purchaser  to  pay  on  completion  a
+proportionate  part  of  the  premium  from  the  date  of  this
+agreement.
+3.
+Condition of Property
+The  purchaser  purchases  with  full  knowledge  of  the  physical
+condition of the property and takes it as it stands.
+4.
+Easements, Rights and Liabilities
+(1)
+The vendor warrants that the property is not adversely affected
+by any easement, right, privilege or liability of which he is
+aware or could have ascertained on reasonable inquiry other
+than—
+(a)
+those disclosed in this agreement; or
+(b)
+those of which the purchaser is aware or could have
+ascertained on reasonable inspection of the property.
+(2)
+Subject  to  subclause  (1),  the  property  shall  be  conveyed
+subject  to  all  easements,  rights,  privileges  and  liabilities
+adversely or beneficially affecting it.
+5.
+Tenancies
+(1)
+This condition applies if the property is sold subject to any
+tenancy and shall have effect notwithstanding any partial or
+incomplete reference in the agreement to any tenancy.
+(2)
+Full particulars of all tenancies not vested in the purchaser
+having been furnished to him, the purchaser shall be deemed
+to purchase with full knowledge thereof and shall take the
+property subject to the rights of the tenants thereunder or by
+reason thereof.
+(3)
+The  vendor  gives  no  warranty  as  to  the  amount  of  rent
+lawfully recoverable from any tenant, as to the effect of any
+legislation in relation to any tenancy or as to compliance with
+any legislation affecting the same.
+(4)
+The vendor shall inform the purchaser of any change in the
+disclosed terms and conditions of any tenancy.
+(5)
+If a tenancy subject to which the property is sold terminates
+for any reason, the vendor shall inform the purchaser and, on
+being indemnified by the purchaser against all consequential
+loss, expenditure or liability, shall act as the purchaser directs.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+35 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(6)
+Subclauses (4) and (5) shall not entitle the vendor to agree to,
+or permit, any change in the terms and conditions of any
+tenancy or its termination.
+6.
+Errors, Omissions and Misstatements
+(1)
+No error, omission or misstatement herein or in any plan
+furnished  or  any  statement  made  in  the  course  of  the
+negotiations leading to the contract shall annul the sale or
+entitle the purchaser to be discharged from the purchase.
+(2)
+Any  such  error,  omission  or  misstatement  shown  to  be
+material shall entitle the purchaser to proper compensation,
+provided that the purchaser shall not in any event be entitled to
+compensation  for  matters  falling  within  clause  3  or  5(3)
+hereof.
+(3)
+No immaterial error, omission or misstatement (including a
+mistake in any plan furnished for identification only) shall
+entitle either party to compensation.
+(4)
+Subclause (1) shall not apply where compensation for any
+error, omission or misstatement shown to be material cannot
+be assessed nor enable either party to compel the other to
+accept or convey property differing substantially (in quantity,
+quality, tenure or otherwise) from the property agreed to be
+sold if the other party would be prejudiced by the difference.
+(5)
+The Misrepresentation Ordinance (Cap. 284) applies to this
+agreement.
+7.
+Requisitions
+(1)
+Any requisition or objection in respect of the title shall be
+delivered  in  writing  to  the  vendor’s  solicitors  as  soon  as
+practicable after delivery of the title deeds and, in any event,
+not later than 14 days prior to the date of completion.
+(2)
+If the purchaser shall make and insist on any objection or
+requisition either as to title or any matter appearing on the title
+deeds or otherwise which the vendor shall be unable or (on the
+grounds  of  difficulty,  delay  or  expense  or  on  any  other
+reasonable ground) unwilling to remove or comply with, or if
+the title of the vendor shall be defective, the vendor shall
+notwithstanding any previous negotiation or litigation be at
+liberty to annul the sale in which case the purchaser shall be
+entitled  to  the  return  of  the  deposit  but  without  costs  or
+compensation  and,  if  that  return  is  made  within  7  days,
+without interest.
+8.
+Documents of Title
+Such of the documents of title as are required for the purpose of
+giving title to the property shall be delivered to the purchaser. All
+other documents of title in the possession of the vendor shall be
+retained by the vendor who shall, if so required on completion of
+the sale, give to the purchaser a covenant for safe custody thereof
+and for production and delivery of copies thereof, such covenant to
+be prepared by the purchaser.
+(Amended 25 of 2008 s. 11)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+36 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+9.
+Good Title
+The vendor shall give title to the property in accordance  with
+section 13A of the Conveyancing and Property Ordinance (Cap.
+219). The vendor shall, in accordance  with section 13  of  that
+Ordinance, prove his title to the property at the vendor’s own
+expense and shall at the like expense make and furnish to the
+purchaser such copies of any deeds or documents of title, wills and
+matters of public record as may be necessary to prove such title.
+The costs of verifying the title by inspection and examination,
+including search fees, shall be borne by the purchaser who shall
+also, if the purchaser requires copies of any documents in the
+vendor’s  possession  relating  to  other  premises  retained  by  the
+vendor as well as to the property pay the cost of such copies.
+(Amended 31 of 1988 s. 27; 25 of 2008 s. 11)
+10.
+Failure of the Purchaser
+If the purchaser shall fail to comply with any of the terms and
+conditions of the agreement the deposit money shall be absolutely
+forfeited as and for liquidated damages (and not as a penalty) to the
+vendor who may (without being obliged to tender an assignment to
+the purchaser) rescind the agreement and either retain the property
+the subject of the agreement or any part or parts thereof or resell the
+same, either as a whole or in lots, and either by public auction or by
+private contract, or partly by the one and partly by the other, and
+subject to such conditions and stipulations as to title or otherwise as
+the vendor may think fit. Any deficiency arising from such resale
+and all expenses attending the same or any attempted resale shall be
+made good and paid by the purchaser as and for liquidated damages,
+and any increase in price realized by any such resale shall belong to
+the vendor. This clause shall not preclude or be deemed to preclude
+the vendor from taking other steps or remedies to enforce the
+vendor’s rights under the agreement or otherwise. On the exercise
+of the vendor’s right of rescission under the agreement the vendor
+shall have the right, if the agreement shall have been registered in
+the Land Registry, to register at the Land Registry an instrument to
+rescind the sale of the property. This clause shall not prevent the
+vendor  recovering,  in  addition  to  liquidated  damages,  damages
+representing  interest  paid  or  lost  by  him  by  reason  of  the
+purchaser’s failure.
+(Amended 8 of 1993 s. 2)
+11.
+Failure of the Vendor
+In the event of the vendor failing to complete the sale in accordance
+with the terms of the agreement it shall not be necessary for the
+purchaser  to  tender  an  assignment to the  vendor  for  execution
+before taking proceedings to enforce specific performance of the
+agreement or for damages for breach of the agreement.
+12.
+Proper Assurance
+Upon completion of the sale the vendor and all other necessary
+parties (if any) shall execute a proper assurance to the purchaser (or
+his nominee or sub-purchaser) in accordance with the agreement but
+otherwise free from incumbrances.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+37 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+13.
+Receipt of Money
+(1)
+The  vendor’s  solicitors  are  the  vendor’s  agents  for  the
+purposes of the receipt of any money due under this agreement
+and any payment made under the agreement to the vendor’s
+solicitors  shall  be  a  full  and  sufficient  discharge  of  the
+purchaser’s obligation in respect of that payment.
+(2)
+Any  revocation  of  the  authority of  the  vendor’s  solicitors
+under this clause shall be effective only if it—
+(a)
+is in writing addressed to the purchaser;
+(b)
+is delivered to the purchaser care of his solicitors at least
+7 days before completion; and
+(c)
+specifically identifies this agreement.
+(Added 31 of 1988 s. 27)
+Part B
+(In an Equitable Mortgage of a Residential,
+Commercial, Industrial or Other Unit in an
+Uncompleted Building)
+(a)
+That the Government lease is good, valid and subsisting. (Amended
+29 of 1998 s. 105)
+(b)
+That the borrower shall pay all and every sum or sums of money (if
+any) and perform and observe the terms conditions and stipulations
+mentioned or contained in the agreement and on the part of the
+borrower to be paid performed and observed.
+(c)
+That if default shall be made by the borrower in the performance
+and observance of the terms conditions and stipulations mentioned
+or contained in the agreement it shall be lawful for the lender to pay
+the said sum or sums of money and perform and observe the said
+terms conditions and stipulations and the borrower shall on demand
+repay to the lender all money expended by the lender for that
+purpose and that until such repayment the same shall be a charge
+upon the property as if the same had formed part of the loan and
+bear interest accordingly.
+(d)
+That the borrower shall not without the prior consent in writing of
+the  lender  exercise  any  option  or  other  right  conferred  on  the
+borrower under the agreement which would result in the security
+created  by  the  equitable  mortgage  being  nullified  diminished
+impeached or otherwise affected.
+(e)
+That when the borrower shall be entitled under the agreement to call
+for an assignment of the property the borrower shall at once notify
+that fact to the lender and at his own cost and expense (including
+stamp duty) procure the execution of such assignment to himself
+(and not to a nominee) and pending the execution of a legal charge
+thereof to the lender shall hold the legal estate in the property in
+trust for the lender and shall deposit the assignment forthwith with
+the lender.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+38 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(f)
+That upon performance of the agreement and execution of the
+assignment in favour of the borrower provided the security be still
+at that time subsisting the borrower shall at his own cost and
+expense (including stamp duty) execute and complete a legal charge
+of the property to secure the loan such legal charge to be in the form
+of  legal  charge  prescribed  in  the  Third  Schedule  to  the
+Conveyancing  and  Property  Ordinance  1984  and  contain  the
+covenants mentioned in Part C of the Second Schedule  to  that
+Ordinance or such other form and containing such other covenants
+as the lender shall have required.
+(g)
+That the borrower shall not without the prior written consent of the
+lender at any time during the continuance of the equitable mortgage
+assign charge underlet or in any manner otherwise deal with or
+dispose of the property or any interest therein or the equity of
+redemption in respect thereof or enter into any agreement so to do.
+ 
+Part C
+(In a Legal Charge)
+(a)
+That the borrower shall during the continuance of the legal charge
+pay the premium and other moneys (if any) and Government rent
+and perform and observe the covenants terms and conditions by and
+in the Government lease reserved and contained and shall pay the
+property tax (if any) rates charges outgoings and impositions from
+time to time assessed charged or imposed on or payable in respect
+of the property or any part thereof and shall at all times keep the
+lender indemnified therefrom and from and against all actions suits
+expenses and claims which may be incurred or sustained on account
+of the non-payment of the said premium or other moneys (if any) or
+Government  rent  property  tax  rates  charges  outgoings  and
+impositions or any part thereof or the breach or non-performance or
+non-observance of the said covenants terms and conditions or any
+of them. (Amended 29 of 1998 s. 105)
+(b)
+That moneys due under any covenant relating to the property have
+been paid and any other covenants, terms and conditions relating to
+the property have been duly observed and performed.
+(c)
+That the borrower shall at all times during the continuance of the
+legal charge—
+(i)
+keep and maintain the property in good and tenantable repair
+and  condition  to  the  satisfaction  of  the  lender  and
+Government;
+(ii)
+comply with all Government or other legal requirements and
+notices  whether  statutory  or  otherwise  in  respect  of  the
+property;
+(iii)
+allow the lender and his servants or agents to enter and view
+the state of repair of the property at all reasonable times
+without the lender by so doing only being deemed to have
+taken possession of the property; and
+(iv)
+pay all moneys due from time to time under and observe and
+perform the covenants terms and conditions contained in the
+deed of mutual covenant (if any).
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+39 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(d)
+That the borrower shall during the continuance of the legal charge
+insure and keep insured the property with some insurance company
+in Hong Kong to be first approved in writing by the lender against
+loss or damage from fire and such other risks as the lender shall
+think fit in the full insurable value thereof for the time being and if
+so required by the lender in the joint names of the borrower and the
+lender and duly and punctually pay all premiums and other moneys
+necessary for effecting and keeping up such insurance immediately
+upon the same becoming due and shall forthwith endorse over and
+deliver  to  the  lender  the  policies  and  all  current  receipts  for
+premium for the time being.
+(e)
+That if the borrower shall make default in payment of the said
+premium and other moneys (if any) or the Government rent or any
+part  thereof  or  in  the  performance  or  observance  of  the  said
+covenants terms and conditions or any of them or in effecting such
+insurance or in paying the insurance premiums or in so repairing as
+aforesaid or in duly complying with all such requirements and
+notices as aforesaid or shall fail to endorse over and deliver such
+policies and receipts then and in such case and so often as the same
+shall happen it shall be lawful for the lender to pay such premium or
+other moneys (if any) or Government rent and so perform and
+observe such covenants terms and conditions effect such insurance
+or repairs pay such insurance premiums or comply with all such
+requirements  and  notices  as  aforesaid  and  the  borrower  shall
+forthwith repay to the lender on demand all moneys expended by
+the lender in so doing and until such repayment such moneys shall
+be a charge upon the property as if the same had formed part of the
+loan and bear interest accordingly. (Amended 29 of 1998 s. 105)
+(f)
+That the borrower shall not without the prior written consent of the
+lender at any time during the continuance of the legal charge assign
+sub-divide charge underlet part with possession or in any manner
+otherwise deal with or dispose of the property or any part thereof or
+any interest therein or enter into any agreement or arrangement so to
+do.
+___________
+Third Schedule
+[s. 37]
+Form 1
+Assignment of a Lot or Section of a Lot or of a Residential,
+Commercial, Industrial or Other Unit in a Completed Building
+THIS ASSIGNMENT is made the              day of             19            
+BETWEEN
+(1)
+(“the Vendor”) and
+(2)
+(“the Purchaser”).
+In consideration of the sum of $                                    paid  by  the
+Purchaser to the Vendor (receipt whereof is acknowledged) the Vendor as [
+                                    ] ASSIGNS to the Purchaser the land described in
+the Schedule hereto (“the Property”) TO HOLD the same unto the Purchaser
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+40 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+[as             ] for the residue of the term of years created by the Government
+lease referred to in the Schedule subject to the payment of the [apportioned]
+yearly Government  rent  reserved  by  and  the  covenants  conditions and
+provisos contained in the Government lease [and subject to and with the
+benefit of the Deed of Mutual Covenant registered in the Land Registry by
+Memorial No.                     ].
+Schedule
+1.
+The Property—
+(a)
+Description and address:
+(b)
+Lot number, sections, undivided shares etc.:
+(c)
+Exceptions and reservations, etc.:
+(d)
+Easements and other appurtenant rights, if any:
+2.
+The Government Lease—
+(a)
+Date:
+(b)
+Parties:
+(c)
+Term:
+(d)
+Lot number:
+SIGNED SEALED AND DELIVERED etc.
+(Amended 31 of 1988 s. 28; 8 of 1993 s. 2; 29 of 1998 s. 105)
+________
+Form 2
+Agreement for Sale of a Residential, Commercial, Industrial
+or Other Unit in a Completed Building
+THIS AGREEMENT is made the              day of              19            
+BETWEEN
+(1)
+(“the Vendor”) and
+(2)
+(“the Purchaser”).
+1.    The Vendor sells and the Purchaser purchases the land described in the
+Schedule hereto (“the Property”) for the residue of the term of years created
+by the Government lease referred to in the Schedule.
+2.    The purchase price is the sum of $             .
+3.    A deposit of $            shall be paid by the Purchaser to [ the Vendor’s
+solicitors,  Messrs                     ,  as  stakeholders]  on  the  signing  of  this
+Agreement  and  the  balance  of  the  purchase  price  shall  be  paid  on
+completion. The deposit shall be paid to the Vendor on completion.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+41 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+4.    Completion shall take place at the offices of the Vendor’s solicitors at
+, or as they may direct, on the
+day of
+19
+.
+5.    [Vacant possession of the Property shall be given to the Purchaser on
+completion].
+6.    [Time shall in every respect be of the essence of this Agreement].
+7.    The Vendor shall assign the Property as [            ].
+8.    The title shall commence with the Government lease and [            ].
+9.    The Property is sold subject to and with the benefit of            .
+10.    There are incorporated into this Agreement as if they were herein
+written  the  conditions  respectively  on  the  part  of  the  Vendor  and  the
+Purchaser set out in Part A of the Second Schedule to the Conveyancing and
+Property Ordinance.
+11.    The stamp duty and land registration fees payable on the assignment
+made pursuant to this Agreement shall be borne by [            ].
+Schedule
+1.
+The Property—
+(a)
+Description and address:
+(b)
+Lot number, sections, undivided shares etc.:
+(c)
+Exceptions and reservations etc.:
+(d)
+Easements and other appurtenant rights, if any:
+2.
+The Government Lease—
+(a)
+Date:
+(b)
+Parties:
+(c)
+Term:
+(d)
+Lot number:
+SIGNED etc.
+RECEIVED the day and year first above written of and from the
+Purchaser the above mentioned deposit of $
+_____________________
+[Messrs                                             
+as stakeholders]
+(Amended 31 of 1988 s. 28; 29 of 1998 s. 105)
+________
+Form 3
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+42 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+Equitable Mortgage of a Residential, Commercial, Industrial
+or Other Unit in an Uncompleted Building
+THIS EQUITABLE MORTGAGE is made the             day of              19
+           
+BETWEEN
+(1)
+(“the Borrower”) and
+(2)
+(“the Lender”).
+(A)
+By an Agreement dated the            day of            19             made
+between                (“the  Vendor”)  and  the  Borrower  (“the
+Agreement”) the Borrower purchased the land described in the
+Schedule hereto (“the Property”) for the sum of $              (“the
+Purchase Price”) subject to the terms and conditions set out in the
+Agreement.
+(B)
+Upon  the  issue  of  the  [Occupation  Permit]  [Certificate  of
+Compliance] relating to the Property by the [Building Authority]
+[Government] and upon payment of the balance of the Purchase
+Price the Borrower will be entitled to an assignment of the Property.
+1.    In consideration of $             (the whole or any part whereof and any
+interest thereon remaining owing for the time being is hereinafter called “the
+Loan”)  paid  by  the  Lender  to  the  Borrower  (the  receipt  whereof  is
+acknowledged) the Borrower covenants with the Lender to repay the Loan
+on [demand] [a date being one month next after the date hereof] together
+with interest thereon from the date hereof day by day at the rate [of...] [from
+time to time notified by the Lender to the Borrower].
+2.    Notwithstanding Clause 1 the Borrower may repay and the Lender shall
+accept repayment of the Loan by equal monthly instalments of $              [or
+such other sum as may be notified from time to time by the Lender to the
+Borrower].
+3.    In consideration of the Loan and as security for the repayment thereof
+the Borrower charges his interest in the Property and assigns his rights in the
+Agreement to the Lender by way of equitable mortgage.
+4.    The Borrower irrevocably appoints the Lender and any receiver or
+receivers appointed by the Lender by way of security jointly and each of
+them severally to be the attorney of the Borrower (with full power of
+substitution) and in the Borrower’s name or otherwise and on his behalf and
+as his act and deed—
+(a)
+to comply and require compliance in all respects with the
+Agreement;
+(b)
+to accept the Assignment to the Borrower;
+(c)
+to execute a legal charge of the Property in favour of the
+Lender such legal charge to be in such form and to contain
+such covenants and provisions as the Lender shall require;
+and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+43 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(d)
+to sign seal execute deliver perfect and do all other deeds
+instruments acts and things which may be required or which
+the Lender or any such receiver or receivers shall think fit
+for carrying out any obligation imposed on the Borrower
+hereunder or for carrying into effect any sale lease charge or
+dealing by the Lender or by any such receiver or receivers
+or for giving to the Lender the full benefit of this charge.
+5.    There  are  incorporated  herein  as  if  they  were  herein  written  the
+covenants on the part of the Borrower set out in Part B of the Second
+Schedule to the Conveyancing and Property Ordinance.
+Schedule
+1.
+The Property—
+(a)
+Description and address:
+(b)
+Lot number, sections, undivided shares etc.:
+(c)
+Exceptions and reservations, etc.:
+(d)
+Easements and other appurtenant rights, if any:
+2.
+The Government Lease—
+(a)
+Date:
+(b)
+Parties:
+(c)
+Term:
+(d)
+Lot number:
+SIGNED SEALED AND DELIVERED etc.
+(Amended 31 of 1988 s. 28; 29 of 1998 s. 105)
+________
+Form 4
+Legal Charge
+THIS LEGAL CHARGE is made the             day of             19            
+BETWEEN
+(1)
+(“the Borrower”) and
+(2)
+(“the Lender”).
+1.    In consideration of $ ............  (the whole or any part whereof and any
+interest thereon remaining owing for the time being is hereinafter called “the
+Loan”)  paid  by  the  Lender  to  the  Borrower  (the  receipt  whereof  is
+acknowledged) the Borrower covenants with the Lender to repay the Loan
+on [demand] [a date being one month next after the date hereof] together
+with interest thereon from the date hereof day by day at the rate [of.......... ]
+[from time to time notified by the Lender to the Borrower].
+2.    [Notwithstanding Clause 1 the Borrower may repay and the Lender
+shall accept repayment of the Loan by equal monthly instalments of $
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+44 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+            or such other sum as may be notified from time to time by the
+Lender to the Borrower].
+3.    In consideration of the Loan and as security for the repayment thereof
+the Borrower as beneficial owner charges the land described in the Schedule
+hereto (“the Property”) to the Lender by way of legal charge subject to the
+covenants conditions and provisos contained in the Government lease [and
+subject to the Deed of Mutual Covenant registered in the Land Registry by
+Memorial No.             ].
+4.    The Borrower hereby irrevocably appoints the Lender and any receiver
+or receivers appointed by the Lender by way of security jointly and each of
+them severally to be the attorney of the Borrower (with full power of
+substitution) and in his name or otherwise and on his behalf and as his act
+and deed to sign seal execute deliver perfect and do all deeds instruments
+acts and things which may be required or which the Lender or any such
+receiver or receivers shall think fit for carrying out any obligation imposed
+on the Borrower hereunder or for carrying into effect any sale lease charge
+or dealing by the Lender or by any such receiver or receivers or for giving
+to the Lender the full benefit of this charge.
+5.    There  are  incorporated  herein  as  if  they  were  herein  written  the
+covenants on the part of the Borrower set out in Part C of the Second
+Schedule to the Conveyancing and Property Ordinance.
+Schedule
+1.
+The Property—
+(a)
+Description and address:
+(b)
+Lot number, sections, undivided shares etc.:
+(c)
+Exceptions and reservations, etc.:
+(d)
+Easements and other appurtenant rights, if any:
+2.
+The Government Lease—
+(a)
+Date:
+(b)
+Parties:
+(c)
+Term:
+(d)
+Lot number:
+SIGNED SEALED AND DELIVERED etc.
+(Amended 31 of 1988 s. 28; 8 of 1993 s. 2; 29 of 1998 s. 105)
+________
+Form 5
+Legal Charge to secure General Banking Facilities
+THIS LEGAL CHARGE is made the             day of             19            
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+45 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+BETWEEN
+(1)
+(“the Borrower”) and
+(2)
+(“the Lender”).
+1.    In consideration of the provision of general banking facilities provided
+or  to  be  provided  by  the  Lender  to  the  Borrower  (“the  Facility”) the
+Borrower covenants to pay on demand to the Lender—
+(a)
+all present and future indebtedness of the Borrower to the
+Lender according to the Books of the Lender on any current
+or other account together with all bank charges thereon; and
+(b)
+all costs charges and expenses however incurred by the
+Lender or by any receiver or any delegate appointed by the
+Lender in relation to this Legal Charge on a full indemnity
+basis; and
+(c)
+all other liabilities of the Borrower to the Lender according
+to the Books of the Lender whether present future actual or
+contingent or as principal or guarantor and whether due
+alone or with any other person,
+and interest on all of the foregoing in accordance with the provisions of
+Clause 3 hereof.
+2.             (a)    The  Borrower  as  beneficial  owner  charges  the  land
+described in the Schedule hereto (“the Property”) to the
+Lender by way of legal charge subject to the covenants
+conditions and provisos contained in the Government lease
+[and subject to the Deed of Mutual Covenant registered in
+the Land Registry by Memorial No. 
+] as security for
+the repayment of the Facility up to the extent of $
+and
+all interest thereon and for all costs charges and expenses
+due from the Borrower to the Lender.
+(b)    The charge created by this Clause shall be a continuing
+security and shall not be considered satisfied or discharged
+by any intermediate payment or satisfaction of the whole or
+any part of the Facility from time to time.
+3.    Interest shall be calculated and shall be paid in the following manner—
+(a)
+at such rate as may be notified from time to time by the
+Lender to the Borrower  from  the  time  any  part  of  the
+Facility shall have been advanced until repayment thereof;
+(b)
+on the daily balance from time to time outstanding with
+monthly rests until full discharge; and
+(c)
+on the last business day of each month or on such date or
+dates as may be determined at the sole discretion of the
+Lender.
+4.    The Borrower irrevocably appoints the Lender and any receiver or
+receivers appointed by the Lender by way of security jointly and each one
+of them severally to be the attorney of the Borrower (with full power of
+substitution) and in his name or otherwise on his behalf and as his act and
+deed to sign seal execute deliver perfect and do all deeds and instruments
+acts and things which may be required or which the Lender or any such
+receiver or receivers shall think fit for carrying out any obligations imposed
+on the Borrower hereunder or for performing any sale lease charge or
+dealing by the Lender or by any such receiver or receivers or for giving to
+the Lender the full benefit of this security.
+5.    This Legal Charge is in addition to and shall not affect or be affected by
+any other security or guarantee which the Lender may now or at any time
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+46 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+hold or take from the Borrower or from any other person in respect of the
+Facility.
+6.    There  are  incorporated  herein  as  if  they  were  herein  written  the
+covenants on the part of the Borrower set out in Part C of the Second
+Schedule to the Conveyancing and Property Ordinance.
+Schedule
+1.
+The Property—
+(a)
+Description and address:
+(b)
+Lot number, sections, undivided shares etc.:
+(c)
+Exceptions and reservations, etc.:
+(d)
+Easements and other appurtenant rights, if any:
+2.
+The Government Lease—
+(a)
+Date:
+(b)
+Parties:
+(c)
+Term:
+(d)
+Lot number:
+SIGNED SEALED AND DELIVERED etc.
+(Amended 31 of 1988 s. 28; 8 of 1993 s. 2; 29 of 1998 s. 105)
+________
+Form 6
+Receipt on discharge of a Charge
+The Lender acknowledges receipt of all money secured by the annexed/
+within written Charge.
+Dated.
+[Signature]
+or
+[Seal]
+___________
+Fourth Schedule
+[s. 51]
+Powers of Mortgagee and Receiver
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+47 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+1.
+To insure the mortgaged land or any part thereof for any sum not
+exceeding its full reinstatement value, and any money paid for such
+insurance shall be a charge on the mortgaged land in addition to the
+mortgage money, with the same priority, with interest at the same
+rate as the mortgage money; and the mortgagee shall account to the
+mortgagor for all money received by him on an insurance effected
+on the mortgaged land.
+2.
+To take possession of the mortgaged land and, for that purpose, to
+take any legal proceedings.
+3.
+To do all things necessary or desirable to preserve, maintain and
+manage the mortgaged land.
+4.
+To  lease,  surrender  and  accept  the  surrender  of  leases  of,  the
+mortgaged land.
+5.
+To exercise any powers or rights incidental to the ownership of the
+mortgaged land.
+6.
+To settle, adjust, refer to arbitration, compromise and arrange any
+claim, demand or dispute relating to the mortgaged land.
+7.
+To bring, prosecute, enforce, defend, compromise and abandon any
+claim, action, suit or proceeding in relation to the mortgaged land.
+8.
+To sell and assign the mortgaged land, subject to any prior estates,
+interests and rights to which the mortgaged land is subject, but free
+from the mortgage and all other estates, interests and rights to which
+the mortgage has priority, in such manner and subject to such lawful
+conditions as the mortgagee or receiver thinks fit; with power to
+vary or rescind any contract for sale, buy in at any auction and to
+resell  without  being  answerable  to  the  mortgagor  for  any  loss
+occasioned.
+9.
+To do all things necessary or desirable for realizing the mortgaged
+land.
+10.
+In the case of any equitable mortgage over the mortgagor’s interest
+in the mortgaged land and in any agreement of purchase of that land
+—
+(a)
+to comply and require compliance in all respects with
+that agreement;
+(b)
+to accept the assignment ot the mortgagor;
+(c)
+to execute a legal charge over that land in favour of the
+mortgagee in such form and containing such covenants
+and provisions as the mortgagee may require; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+48 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------
+(d)
+to sign, seal, execute, deliver, perfect and do all other
+deeds,  instruments,  acts  and  things  which  may  be
+required or which the mortgagee or receiver shall think
+fit  for  carrying  out  any  obligation  imposed  on  the
+mortgagor under the mortgage or for carrying into effect
+any sale, lease, charge or dealing by the mortgagee or
+receiver or for giving to the mortgagee the full benefit of
+that charge. (Amended 31 of 1988 s. 29)
+11.
+The powers mentioned in paragraphs 2 to 9 shall not be exercisable
+unless—
+(a)
+notice requiring payment of the mortgage money has
+been served on the mortgagor, or on one of the several
+mortgagors, and default has been made in payment of the
+mortgage money or part thereof for one month after such
+service; or
+(b)
+interest under the mortgage is in arrear and unpaid for
+one month after becoming due; or
+(c)
+there has been a breach of a provision, express or under
+this Ordinance, of the mortgage other than a covenant for
+payment of the mortgage money and interest.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+49 of 49
+5/8/25, 13:52
+
+--------------------------------------------------------------------------------

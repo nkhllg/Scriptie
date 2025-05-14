@@ -1,0 +1,194 @@
+Metadata for pdf/HongKong/property.pdf: {'format': 'PDF 1.4', 'title': 'Microsoft Word - UN terrorism bill CSA submission.doc', 'author': 'Administrator', 'subject': '', 'keywords': '', 'creator': 'http://www.fineprint.com', 'producer': 'FinePrint pdfFactory Pro v1.31 (Windows 2000 Chinese)', 'creationDate': 'D:20040521134229', 'modDate': '', 'trapped': '', 'encryption': None, 'country': 'Hong Kong'}
+
+Country found in pdf/HongKong/property.pdf: Hong Kong
+
+ 
+1
+ 
+ 
+Comments on the Committee Stage Amendments of 
+United Nations (Anti-Terrorism Measures) (Amendment) Bill 2003 
+ 
+The Law Society has reviewed the Committee Stage Amendments submitted by the 
+Administration and has the following comments: 
+ 
+Threshold to freeze property 
+1. 
+We maintain our earlier criticism that the Secretary for Security (“ S for S”) 
+should not be able to freeze terrorist property based on his judgment that he is 
+satisfied there are “ reasonable grounds to suspect” as this threshold is too low to 
+trigger the exercise of this power.   
+ 
+2. 
+The triggering mechanism in Section 6, “ Freezing of property”, is inconsistent 
+with those in Section 13, “ Forfeiture of certain terrorist property” and the new 
+Part 4B, “ Seizure and Detention of property suspected to be terrorist property”.  
+Clarification is required. 
+ 
+Comparison of Section 6, Part 4B and Section 13 
+ 
+Section 6 
+Freezing of 
+terrorist 
+property 
+Part 4B  
+Seizure and 
+Detention of property 
+suspected to be 
+terrorist property 
+Section 13 
+Forfeiture of certain terrorist property 
+Circumstances
+Any property 
+held by any 
+person is 
+terrorist 
+property 
+(a) In any premises 
+there is terrorist 
+property; 
+(b) There is in any 
+premises anything 
+that is, or 
+contains, evidence 
+of a relevant 
+offence 
+Any specified property 
+(a) In whole or in part directly or 
+indirectly represents any proceeds 
+arising from a terrorist act; 
+(b) Is intended to be used to finance or 
+otherwise assist the commission of a 
+terrorist act; or 
+(c) Was used to finance or otherwise assist 
+the commission of a terrorist act 
+
+--------------------------------------------------------------------------------
+ 
+2
+ 
+Section 6 
+Part 4B 
+Section 13 
+Authorization
+S for S to 
+specify 
+Authorized by the 
+Court 
+Authorized by the Court 
+Standard of 
+proof 
+Having 
+reasonable 
+grounds to 
+suspect 
+There is reasonable 
+cause to suspect 
+The standard of proof applicable to civil 
+proceedings 
+ 
+Standard of proof applicable to civil proceedings 
+3. 
+In the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) and the 
+Organized and Serious Crimes Ordinance (Cap. 455), restraint orders and 
+charging orders are issued as “ interim measures” before the defendant is charged 
+with the offence.  The property cannot be used, while the law enforcement 
+agencies continue their investigation to gather sufficient evidence to charge the 
+defendant or forfeit the property.  Thus, when the Court of First Instance issues 
+restraint or charging orders, it should be “ satisfied that, in all the circumstances 
+of the case, there is reasonable cause to believe that the defendant may be 
+charged with the offence after further investigation is carried out” (s. 9(1)(ba) of 
+Cap. 405 and s. 14(1)(ba) of Cap. 455). 
+ 
+4. 
+The rationale should be the same for the freezing, seizing and detaining of 
+terrorist property.  When the S for S specifies the property, or when the Court 
+issues a warrant to seize and detain property, the understanding should be that the 
+property concerned will eventually be forfeited, after sufficient evidence has 
+been obtained. 
+ 
+5. 
+The standard of proof to freeze, seize and detain terrorist property should 
+therefore be the same as that of forfeiting terrorist property in Section 13(4) of 
+the United Nations (Anti-Terrorism Measures) Ordinance: “ The standard of 
+proof on an application under this section shall be the standard of proof 
+applicable to civil proceedings in a court of law”.   
+ 
+Section 6(1) and Section 12G(1) 
+6. 
+The Administration should clarify the relation between Section 6 and Section 
+12G(1). 
+ 
+ 
+Section 6 Freezing of property 
+(1) Where the Secretary has reasonable grounds to suspect that any property held by 
+
+--------------------------------------------------------------------------------
+ 
+3
+any person is terrorist property, the Secretary may, by notice in writing specifying 
+the property, direct that the property not be made available, directly or indirectly, 
+to any person except under the authority of a licence granted by the Secretary 
+ 
+Section 12G 
+Issue of warrant 
+(1) Where it appears to the Court upon the oath of any person that there is reasonable 
+cause to suspect that –  
+(a) in any premises there is terrorist property; or 
+(b) there is in any premises any thing that is, or contains, evidence of a relevant offence, 
+the Court may issue a warrant authorizing an authorized officer to enter the 
+premises named in the warrant and there to search for and seize, remove and detain 
+any terrorist property. 
+ 
+l 
+Will the use of one procedure trigger use of the other?   
+l 
+What will be the criteria in the selection of either procedure?   
+l 
+Can the S for S pick and choose whatever procedure is convenient to him? 
+In theory, he can use Section 6 when the possibility of obtaining the Court’s 
+approval under Part 4B is questionable. 
+ 
+Restraint Orders and Charging Orders 
+7. 
+The Administration should consider adopting the model of issuing restraint 
+orders and charging orders in the Drug Trafficking (Recovery of Proceeds) 
+Ordinance and the Organized and Serious Crimes Ordinance.  There is working 
+experience of this model and these procedures would provide flexibility in 
+freezing different types of property. 
+ 
+Expiration of a freezing order under Section 6 
+8. 
+As shown in the table above, the S for S has very wide powers to freeze property 
+belonging to suspected terrorists.  The test as stated provides a low threshold, 
+while that of the Court to seize, detain and forfeit terrorist property is limited to 
+specified circumstances.  Once the S for S freezes property belonging to 
+suspected terrorists, it should be incumbent on him to proceed with an 
+application to the Court to forfeit the property as soon as practicable.  The 
+length of the freezing order of two years is unreasonably long.  The 
+Administration should consider shortening this period, so that the risks of a 
+wrongful freezing order can be properly balanced. 
+ 
+“ Warrantless search power”  
+9. 
+In Section 6(10) there is a proposal to enable the S for S to authorize 
+
+--------------------------------------------------------------------------------
+ 
+4
+“ warrantless searches” to seize terrorist property. There is concern over possible 
+abuse by the Executive, therefore in relation to any decision on seizure it would 
+be preferable to maintain a warrant-based power.  
+If the Administration maintains its view on “ warrantless searches”, the Law 
+Society is of the view that, as a minimum and in order to satisfy the threshold 
+test in Section 6(11), namely “ reasonable cause to suspect that the relevant 
+property will be removed from the HKSAR”, the S for S should at the very least 
+demonstrate, or better still provide proof that the property would be removed 
+from Hong Kong before the authority can be exercised.  
+ 
+ 
+The Law Society of Hong Kong 
+20 May 2004 
+77049 
+
+--------------------------------------------------------------------------------

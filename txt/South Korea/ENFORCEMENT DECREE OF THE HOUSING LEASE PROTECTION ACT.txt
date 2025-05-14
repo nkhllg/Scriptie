@@ -1,0 +1,598 @@
+ 
+법령, 판례 등 모든 법령정보를 한 번에 검색 OK !
+ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT
+[Enforcement Date 21. Feb, 2023.] [Presidential Decree No.33254, 21. Feb, 2023.,
+Partial Amendment]
+법무부 (법무심의관실)02-2110-3164
+법제처 국가법령정보센터
+www.law.go.kr
+2025.04.05
+
+--------------------------------------------------------------------------------
+법제처                                                            1                                                       국가법령정보센터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT
+[Enforcement Date 21. Feb, 2023.] [Presidential Decree No.33254, 21. Feb, 2023., Partial Amendment]
+법무부 (법무심의관실) 02-2110-3164
+국토교통부 (주택임대차기획팀) 044-201-3348, 4178
+ 
+Article 1 (Purpose) The purpose of this Decree is to prescribe matters mandated by the
+Housing Lease Protection Act and matters necessary for the enforcement thereof.
+[This Article Wholly Amended on Aug. 21, 2008]
+ 
+Article 2 (Corporations with Recognized Right of Standing) "Corporations with recognized
+right of standing" in the latter part of Article 3 (2) of the Housing Lease Protection Act
+(hereinafter referred to as the "Act") means the following corporations: <Amended on Sep.
+21, 2009; Sep. 29, 2020>
+1. The Korea Land and Housing Corporation established under the Korea Land and
+Housing Corporation Act (hereinafter referred to as "LH");
+2. Local public enterprises established for housing affairs pursuant to Article 49 of the Local
+Public Enterprises Act.
+[This Article Wholly Amended on Aug. 21, 2008]
+[Moved from Article 1-2; previous Article 2 moved to Article 8 <Dec. 30, 2013>]
+ 
+Article 2-2  [Moved to Article 9 <Dec. 30, 2013>]
+ 
+Article 3 (Management of Personally Identifiable Information) Where inevitable to conduct
+affairs related to granting of confirmed occupancy dates, provision of information on a
+housing lease, etc. under Article 3-6 of the Act, any of the following persons may manage
+resident registration numbers and alien registration numbers under subparagraphs 1 and 4
+of Article 19 of the Enforcement Decree of the Personal Information Protection Act:
+<Amended on Jan. 22, 2016>
+1. The head of a Si (including the head of an administrative city under Article 11 of the
+Special Act on the Establishment of Jeju Special Self-Governing Province and the
+Development of Free International City, but excluding the Special Metropolitan City
+Mayor, Metropolitan City Mayors, and a Special Self-Governing City Mayor), Gu (referring
+to the head of an autonomous Gu) or Gun;
+
+--------------------------------------------------------------------------------
+법제처                                                            2                                                       국가법령정보센터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+2. The head of an Eup/Myeon/Dong;
+3. A notary public under the Notary Public Act.
+[This Article Wholly Amended on Dec. 30, 2013]
+[Moved from Article 1-3; previous Article 3 moved to Article 10 <Dec. 30, 2013>]
+ 
+Article 4 (Matters to Be Entered in Confirmed Occupancy Date Register) (1) Matters to be
+entered in a confirmed occupancy date register prepared pursuant to Article 3-6 (2) of the
+Act by an authority granting confirmed occupancy dates under Article 3-6 (1) of that Act
+(excluding district courts, branch courts, and registry offices; hereinafter referred to as
+"authority granting confirmed occupancy dates") shall be as follows:
+1. Serial number of the confirmed occupancy date;
+2. Date the confirmed occupancy date is granted;
+3. Personal information of the landlord and the tenant:
+(a) In cases of a natural person: Name, address, and resident registration number (alien
+registration number, for a foreigner);
+(b) In cases of a corporation or non-corporate organization: Name of the corporation or
+organization, corporate registration number or registration number for registration of
+real estate, and location of the head office or the main office;
+4. Location of the house;
+5. Subject matter of lease;
+6. Term of lease;
+7. Rent and deposit;
+8. Name and the first six digits of resident registration number of the applicant (the first six
+digits of alien registration number, for a foreigner).
+(2) A confirmed occupancy date shall be granted in the same manner as the serial number
+of confirmed occupancy date, the date the confirmed occupancy date is granted, and the
+authority granting confirmed occupancy dates are indicated on the housing lease contract
+document.
+(3) Other than those provided for in paragraphs (1) and (2), matters necessary for affairs
+related to granting a confirmed occupancy date, such as the method for preparing a
+confirmed occupancy date register and matters to be confirmed when a confirmed
+occupancy date is granted, shall be prescribed by Ordinance of the Ministry of Justice.
+
+--------------------------------------------------------------------------------
+법제처                                                            3                                                       국가법령정보센터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+[This Article Newly Inserted on Dec. 30, 2013]
+[Previous Article 4 moved to Article 11 <Dec. 30, 2013>]
+ 
+Article 5 (Scope of Persons Interested in Lease of Houses) A person interested in the lease of
+a house (hereinafter referred to as "interested person") who is eligible to request the
+provision of information under Article 3-6 (3) of the Act, shall be any of the following
+persons: <Amended on Sep. 29, 2020>
+1. The landlord and the tenant of the relevant house;
+2. The owner of the relevant house;
+3. A person prescribed by Ordinance of the Ministry of Justice, among the rightful persons
+entered in the record of registration of the relevant house or site;
+4. A financial institution succeeded to the right to preferential payment under Article 3-2
+(7) of the Act;
+5. A person who was a tenant of a lease contract and for whom the renewal of the
+contract is refused on the grounds specified in Article 6-3 (1) 8 of the Act;
+6. A person having a position or right corresponding to any of those provided for in
+subparagraphs 1 through 5, who is prescribed by Ordinance of the Ministry of Justice.
+[This Article Newly Inserted on Dec. 30, 2013]
+[Previous Article 5 moved to Article 12 <Dec. 30, 2013>]
+ 
+Article 6 (Scope of Requestable Information and Provision Method Thereof) (1) A person
+specified in subparagraph 1 or 5 of Article 5 may request an authority granting confirmed
+occupancy dates to issue a document wherein the following details inspected or entered
+concerning the relevant lease contract (in cases of a person specified in subparagraph 5 of
+Article 5, referring to the lease contract that will continue to exist for the period that might
+have been renewed if the renewal request had not been rejected) are stated, pursuant to
+Article 3-6 (3) of the Act: <Amended on Sep. 29, 2020>
+1. Subject matter of the lease;
+2. Personal information of the landlord and the tenant (in cases of a person specified in
+subparagraph 5 of Article 5, limited to the name, corporation name, or organization
+name of the landlord and the tenant);
+3. Date the confirmed occupancy date is granted;
+4. Rent and deposit;
+
+--------------------------------------------------------------------------------
+법제처                                                            4                                                       국가법령정보센터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+5. Term of lease.
+(2) Any person specified in subparagraphs 2 through 4 or 6 of Article 5 or a person who
+intends to enter into a lease contract may request an authority granting confirmed
+occupancy dates to issue a document wherein the following details inspected or entered
+are stated, pursuant to Article 3-6 (3) or (4) of the Act: <Amended on Sep. 29, 2020>
+1. Subject matter of the lease;
+2. Date the confirmed occupancy date is granted;
+3. Rent and deposit;
+4. Term of lease.
+(3) Other than those provided for in paragraphs (1) and (2), matters necessary for
+requesting the provision of information shall be prescribed by Ordinance of the Ministry of
+Justice.
+[This Article Newly Inserted on Dec. 30, 2013]
+[Previous Article 6 moved to Article 13 <Dec. 30, 2013>]
+ 
+Article 7 (Fees) (1) Fees payable to an authority granting confirmed occupancy dates under
+Article 3-6 (5) of the Act shall be divided into a fee for granting a confirmed occupancy
+date and a fee for provision of information, and the specified amount thereof shall be
+prescribed by Ordinance of the Ministry of Justice.
+(2) Persons prescribed by Ordinance of the Ministry of Justice, including recipients under
+the National Basic Living Security Act, may be exempted from fees specified in paragraph
+(1).
+[This Article Newly Inserted on Dec. 30, 2013]
+[Previous Article 7 moved to Article 14 <Dec. 30, 2013>]
+ 
+Article 8 (Standards for Request for Increase in Rent, etc.) (1) No request for increase in rent
+or deposit (hereinafter referred to as "rent, etc.") under Article 7 of the Act shall exceed the
+amount equivalent to 1/20 of any rent, etc. agreed upon.
+(2) No request for increase under paragraph (1) shall be made within one year after a lease
+contract is concluded or rent, etc. agreed upon is increased.
+[This Article Wholly Amended on Aug. 21, 2008]
+[Moved from Article 2; previous Article 8 moved to Article 15 <Dec. 30, 2013>]
+ 
+
+--------------------------------------------------------------------------------
+법제처                                                            5                                                       국가법령정보센터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+Article 9 (Computation Ratio in Conversion into Monthly Rent) (1) "Ratio prescribed by
+Presidential Decree" in subparagraph 1 of Article 7-2 of the Act means 10 percent per
+annum.
+(2) "Interest rate prescribed by Presidential Decree" in subparagraph 2 of Article 7-2 of the
+Act means 2 percent per annum.<Amended on Nov. 29, 2016; Sep. 29, 2020>
+[This Article Wholly Amended on Dec. 30, 2013]
+[Moved from Article 2-2; previous Article 9 moved to Article 16 <Dec. 30, 2013>]
+ 
+Article 10 (Extent of Specified Amount of Security Deposit) (1) The extent of a specified
+amount of a security deposit to be preferentially repaid under Article 8 of the Act shall not
+exceed the following relevant amounts: <Amended on Jul. 21, 2010; Dec. 30, 2013; Mar. 31,
+2016; Sep. 18, 2018; May 11, 2021; Feb. 21, 2023>
+1. Seoul Special Metropolitan City: 55 million won;
+2. Over-concentration control regions under the Seoul Metropolitan Area Readjustment
+Planning  Act  (excluding  Seoul  Special  Metropolitan  City),  Sejong  City,  Yongin-si,
+Hwaseong-si,  and  Gimpo-si:  48  million  won;
+3. Metropolitan Cities (excluding areas included in the over-concentration control regions
+prescribed in the Seoul Metropolitan Area Readjustment Planning Act and Gun areas),
+Ansan-si, Gwangju-si, Paju-si, Icheon-si, and Pyeongtaek-si: 28 million won;
+4. Other areas: 25 million won.
+(2) Where a specified amount of the security deposit of a tenant exceeds 1/2 of the value
+of a housing unit, the right of preferential repayment shall only apply to the amount
+equivalent to 1/2 of the value of the housing unit.
+(3) Where at least two tenants dwell in a housing unit, and the total sum of specified
+amounts of security deposits exceeds 1/2 of the value of the housing unit, 1/2 of the value
+of the housing unit multiplied by the rate of a specified amount of the security deposit of
+a tenant to the total sum of specified amounts of security deposits shall be deemed the
+specified amount of the security deposit of each tenant.
+(4) Where at least two tenants dwell exist in a housing unit, and the tenants live together
+as members of a family in the housing unit, they shall be deemed one tenant and their
+security deposits shall be added up accordingly.
+[This Article Wholly Amended on Aug. 21, 2008]
+
+--------------------------------------------------------------------------------
+법제처                                                            6                                                       국가법령정보센터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+[Moved from Article 3; previous Article 10 moved to Article 17 <Dec. 30, 2013>]
+ 
+Article 11 (Scope of Tenants Subject to Preferential Payment) A tenant to be preferentially
+repaid pursuant to Article 8 of the Act shall be a tenant whose security deposit does not
+exceed the following relevant amounts: <Amended on Jul. 21, 2010; Dec. 30, 2013; Mar. 31,
+2016; Sep. 18, 2018; May 11, 2021; Feb. 21, 2023>
+1. Seoul Special Metropolitan City: 165 million won;
+2. Over-concentration control regions under the Seoul Metropolitan Area Readjustment
+Planning  Act  (excluding  Seoul  Special  Metropolitan  City),  Sejong  City,  Yongin-si,
+Hwaseong-si,  and  Gimpo-si:  145  million  won;
+3. Metropolitan Cities (excluding areas included in over-concentration control regions
+under the Seoul Metropolitan Area Readjustment Planning Act and Gun areas), Ansan-si,
+Gwangju-si, Paju-si, Icheon-si, and Pyeongtaek-si: 85 million won;
+4. Other areas: 75 million won.
+[This Article Wholly Amended on Aug. 21, 2008]
+[Moved from Article 4; previous Article 11 moved to Article 18 <Dec. 30, 2013>]
+ 
+Article 12 (Composition of Housing Lease Committee) "Persons prescribed by Presidential
+Decree" in Article 8-2 (4) 6 of the Act means any of the following persons: <Amended on
+May 29, 2017>
+1. The competent head of an office or bureau in charge of housing policy- or real estate-
+related affairs in a Special Metropolitan City, Metropolitan City, Special Self-Governing
+City, Do, or Special Self-Governing Province (hereinafter referred to as "City/Do");
+2. A certified judicial scrivener who has engaged in the relevant activities for at least five
+years, with extensive experience in housing lease-related affairs.
+[This Article Newly Inserted on Jul. 30, 2009]
+[Moved from Article 5; previous Article 12 moved to Article 19 <Dec. 30, 2013>]
+ 
+Article 13 (Terms of Office of Members) (1) The terms of office of members of the Housing
+Lease Committee (hereinafter referred to as the "Committee") prescribed in Article 8-2 of
+the Act shall be two years, and may be renewed only once: Provided, That the term of
+office of a member who is a public official shall continue as long as he or she holds office
+of the same duties. <Amended on Mar. 31, 2016>
+
+--------------------------------------------------------------------------------
+법제처                                                            7                                                       국가법령정보센터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+(2) If a commissioned member falls under any of the following cases, the chairperson of
+the Committee may discharge him or her from his or her office: <Amended on Mar. 31,
+2016>
+1. Where he or she becomes incapable of carrying out his or her duties due to mental
+handicap;
+2. Where he or she is indicted on a criminal charge;
+3. Where he or she is deemed unsuitable for a member due to delinquency of duties,
+injury to dignity, or any other reason;
+4. Where he or she voluntarily confesses that it is difficult for him or her to carry out his or
+her duties.
+[This Article Newly Inserted on Jul. 30, 2009]
+[Moved from Article 6; previous Article 13 moved to Article 20 <Dec. 30, 2013>]
+ 
+Article 14 (Duties of Chairperson) (1) The chairperson shall represent the Committee and
+have overall control over the affairs of the Committee.
+(2) When the chairperson is unable to perform any of his or her duties due to extenuating
+circumstances, a member designated by the chairperson in advance shall perform his or
+her duties on his or her behalf.
+[This Article Newly Inserted on Jul. 30, 2009]
+[Moved from Article 7 <Dec. 30, 2013>]
+ 
+Article 15 (Administrative Secretary) (1) The Committee shall have an administrative secretary,
+who shall be designated by the chairperson of the Committee, from among public officials
+in general service, belonging to the Senior Executive Service of the Ministry of Justice
+(including equivalent public officials in special or extraordinary service) and engaged in
+housing lease-related affairs.
+(2) The administrative secretary shall assist operation of the Committee, maintain records
+of Committee meetings, and deal with affairs concerning preparation and retention of
+other documents.
+(3) The administrative secretary may attend a Committee meeting and explain matters to
+be deliberated on or state his or her opinion, as necessary.
+[This Article Newly Inserted on Jul. 30, 2009]
+[Moved from Article 8 <Dec. 30, 2013>]
+
+--------------------------------------------------------------------------------
+법제처                                                            8                                                       국가법령정보센터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+Article 16 (Committee Meetings) (1) Committee meetings shall be classified as either regular
+meetings convened once annually or extraordinary meetings convened by the chairperson
+when deemed necessary or upon request by at least 1/3 of all members.
+(2) The chairperson shall convene and preside over Committee meetings.
+(3) Committee meetings shall commence with the attendance of a majority of incumbent
+members; and a resolution shall be adopted by the affirmative vote of a majority of those
+present.
+(4) No Committee meeting shall be open to the public.
+(5) The chairperson may have a person who is not a member of the Committee attend a
+meeting to present his or her opinion, or request cooperation from relevant institutions
+and organizations to submit necessary materials, opinions, etc.
+[This Article Newly Inserted on Jul. 30, 2009]
+[Moved from Article 9 <Dec. 30, 2013>]
+ 
+Article 17 (Working Committee) (1) A working committee shall be established under the
+Committee to support efficient discussion of agenda items to be discussed at a Committee
+meeting.
+(2) The working committee shall discuss and coordinate the following matters:
+1. Agenda and matters that the Committee has entrusted with it related thereto;
+2. Other matters on which the chairperson or members of the Committee request working-
+level consultations.
+(3) The chairperson of the working committee shall become the administrative secretary of
+the Committee and members of the working committee shall be appointed by the heads
+of  the  agencies  with  which  they  are  affiliated,  from  among  the  following  persons:
+<Amended  on  Mar.  23,  2013>
+1. State public officials of Grade V or higher in charge of price-related affairs at the
+Ministry of Strategy and Finance;
+2. State public officials of Grade V or higher in charge of housing lease-related affairs at
+the Ministry of Justice;
+3. State public officials of Grade V or higher in charge of housing affairs or residential
+welfare-related affairs at the Ministry of Land, Infrastructure and Transport;
+4. Local public officials of Grade V or higher in charge of housing policy- or real estate-
+related affairs at a City/Do.
+
+--------------------------------------------------------------------------------
+법제처                                                            9                                                       국가법령정보센터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+[This Article Newly Inserted on Jul. 30, 2009]
+[Moved from Article 10 <Dec. 30, 2013>]
+ 
+Article 18 (Expert Members) (1) The Committee may have not exceeding five expert members
+to perform specialized investigation or research related to matters to be deliberated by the
+Committee.
+(2) Expert members shall be commissioned by the Minister of Justice, from among persons
+of learning and experience in the fields of law, economics, or real estate, etc.; the term of
+office of expert members shall be two years.
+[This Article Newly Inserted on Jul. 30, 2009]
+[Moved from Article 11 <Dec. 30, 2013>]
+ 
+Article 19 (Allowances) Members of the Committee or working committee may be paid an
+allowance within budgetary limits: Provided, That the same shall not apply, if a member
+who is a public official attends a Committee meeting for matters directly related with
+affairs under his or her jurisdiction.
+[This Article Newly Inserted on Jul. 30, 2009]
+[Moved from Article 12 <Dec. 30, 2013>]
+ 
+Article 20 (Detailed Regulations for Operation) Except as otherwise provided for in this
+Decree, matters necessary for operating the Committee shall be determined by the
+Minister of Justice.
+[This Article Newly Inserted on Jul. 30, 2009]
+[Moved from Article 13 <Dec. 30, 2013>]
+ 
+Article 21 (Establishment of Housing Lease Dispute Conciliation Committees) District offices,
+branch offices, and offices of the Korea Legal Aid Corporation established under Article 8
+of the Legal Aid Act (hereinafter referred to as the "Corporation"), LH, and the Korea Real
+Estate Board established under the Korea Real Estate Board Act (hereinafter referred to as
+the “Real Estate Board”) that shall establish a housing lease dispute conciliation committee
+under Article 14 (1) of the Act (hereinafter referred to as “conciliation committee”) and
+their jurisdiction shall be as listed in attached Table 1. <Amended on Dec. 8, 2020>
+[This Article Wholly Amended on Sep. 29, 2020]
+ 
+
+--------------------------------------------------------------------------------
+법제처                                                            10                                                       국가법령정보센
+터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+Article 22 (Matters to Be Deliberated and Mediated by Conciliation Committees) "Disputes
+prescribed by Presidential Decree in relation to housing leases" in Article 14 (2) 5 of the
+Act means the following disputes:
+1. Disputes over the fulfillment of a lease contract or interpretation of the provisions of a
+lease contract;
+2. Disputes over the renewal or termination of a lease contract;
+3. Disputes over a claim for compensation for damage due to non-performance, etc. of a
+lease contract;
+4. Disputes over the bearing of costs, such as compensation payable to a licensed real
+estate agent;
+5. Disputes over the use of a standard housing lease contract;
+6. Other disputes equivalent to those prescribed in subparagraphs 1 through 5, which is
+deemed  to  require  conciliation  by  the  chairperson  of  a  conciliation  committee
+(hereinafter  referred  to  as  "chairperson").
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 23 (Secretariat of Conciliation Committee to Be Established in District Office of
+Corporation) (1) The secretariat of a conciliation committee to be established in a district
+office, a branch office, or an office of the Corporation, LH, or the Real Estate Board
+pursuant to Article 14 (3) of the Act (hereinafter referred to as "secretariat") shall have one
+secretary general and shall have examiners and investigators under the secretary general.
+<Amended on Sep. 29, 2020; Dec. 8, 2020>
+(2) Each secretary general shall be appointed by the president of the Corporation, the CEO
+of LH, and the CEO of the Real Estate Board and may become a member of the relevant
+conciliation committee (hereinafter referred to as "member of a conciliation committee")
+concurrently. <Amended on Sep. 29, 2020; Dec. 8, 2020>
+(3) Examiners and investigators shall be appointed by the president of the Corporation, the
+CEO of LH, and the CEO of the Real Estate Board, respectively. <Amended on Sep. 29,
+2020; Dec. 8, 2020>
+(4)  The  secretary  general  shall  exercise  general  supervision  over  the  affairs  of  the
+secretariat  and  direct  and  supervise  employees  under  his  or  her  jurisdiction.
+(5) An examiner shall take charge of the following affairs:
+
+--------------------------------------------------------------------------------
+법제처                                                            11                                                       국가법령정보센
+터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+1. Preparing issues on and conducting legal reviews of a case for which an application for
+dispute conciliation is filed;
+2. Directing and supervising the affairs which investigators are in charge of;
+3. Conducting other affairs that the chairperson deems necessary to deal with the
+administrative affairs of the conciliation committee.
+(6) An investigator shall take charge of the following affairs:
+1. Receiving applications for conciliation;
+2. Providing information concerning applications for dispute conciliation;
+3. Providing forwarding service and notification to parties to a dispute;
+4. Conducting fact-finding investigations necessary for dispute conciliation;
+5. Conducting other affairs that the chairperson deems necessary for handling the
+administrative affairs of the conciliation committee.
+(7) The secretary general and examiners shall be persons qualified as attorneys-at-law.
+[This Article Newly Inserted on May 29, 2017]
+[Title Amended on Sep. 29, 2020]
+ 
+Article 24 (Secretariat of Conciliation Committee of City/Do) Where a City/Do establishes a
+conciliation committee pursuant to the latter part of Article 14 (1) of the Act, matters
+concerning the organization, operation, etc. of the secretariat thereof shall be prescribed
+by ordinance of the relevant City/Do, taking into account the actual state of the local
+government. <Amended on Sep. 29, 2020>
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 25 (Composition of Conciliation Committees) "Person prescribed by Presidential
+Decree" in Article 16 (3) 6 of the Act means a person engaged in the affairs related to
+housing lease for at least six years as a certified tax accountant, housing manager, or
+certified architect.
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 26 (Operation of Conciliation Committees) (1) If necessary for the efficient operation, a
+conciliation committee may deliberate on or mediate cases subject to dispute conciliation
+separately or jointly. In such cases, it shall notify parties to a dispute of such fact without
+delay.
+
+--------------------------------------------------------------------------------
+법제처                                                            12                                                       국가법령정보센
+터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+(2) Each meeting of a conciliation committee shall not be disclosed: Provided, That the
+parties to a dispute or interested persons may be allowed to watch it by a resolution of
+the conciliation committee, if deemed necessary.
+(3)  A  conciliation  committee  shall  have  one  administrative  secretary,  who  shall  be
+appointed  by  the  chairperson  from  among  the  employees  of  the  secretariat.
+(4) A conciliation committee shall prepare meeting minutes, on which its members who
+have participated in the meeting shall sign or affix their names and seals.
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 27 (Allowances, etc. for Members of Conciliation Committees) Members of a
+conciliation committee who are present at a meeting of the conciliation committee or a
+conciliation division may be paid allowances and reimbursed for travel expenses and other
+necessary expenses within budgetary limits.
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 28 (Matters to be Deliberated or Mediated by Conciliation Division) "Disputes over the
+amount below the amount prescribed by Presidential Decree" in Article 17 (3) 1 of the Act
+means any of the following disputes:
+1. Disputes, in which the deposit for a lease contract does not exceed the following
+amount:
+(a)  Seoul  Metropolitan  area  defined  in  subparagraph  1  of  Article  2  of  the  Seoul
+Metropolitan  Area  Readjustment  Planning  Act:  500  million  won;
+(b) Areas other than the area prescribed in item (a): 300 million won;
+2. Disputes, in which the value of the gains claimed by conciliation (hereinafter referred to
+as "value of the subject matter of conciliation") does not exceed 200 million won. In such
+cases, the method for calculating the value of the subject matter of litigation under the
+Act on the Stamps Attached for Civil Litigation, Etc. shall apply mutatis mutandis to the
+calculation of the value of the subject matter of conciliation.
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 29 (Composition and Operation of Conciliation Division) (1) Members of a conciliation
+division shall be appointed by the chairperson from among the members of a conciliation
+committee.
+
+--------------------------------------------------------------------------------
+법제처                                                            13                                                       국가법령정보센
+터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+(2)  Where  two  or  more  conciliation  divisions  are  established,  the  chairperson  may
+designate a conciliation division responsible for a case in which an application for dispute
+conciliation is filed.
+(3) Article 26 shall apply mutatis mutandis to the operation of a conciliation division. In
+such cases, "conciliation committee" shall be construed as "conciliation division", and
+"chairperson" as "the head of a conciliation division".
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 30 (Application for Conciliation) (1) An application for conciliation may be filed
+verbally or in writing (including an electronic document defined in subparagraph 1 of
+Article 2 of the Framework Act on Electronic Documents and Transactions; hereinafter the
+same shall apply).
+(2) Where an application for conciliation is filed verbally, the claimant shall make a
+statement to an examiner or investigator. In such cases, the examiner or investigator in
+receipt of the application for conciliation shall prepare a protocol of application for
+conciliation and require the claimant to sign thereon or affix his or her seal thereto.
+(3) An application for conciliation or a protocol of application for conciliation shall include
+the parties to a dispute, the agent, the purport of the application, details of disputes, etc.
+In such cases, evidential documents or evidence, if any, shall be attached thereto or
+submitted.
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 31 (Matters to Be Informed to Claimants) (1) "Matters prescribed by Presidential
+Decree" in Article 21 (2) of the Act means any of the following matters:
+1. Reasons for rejecting an application for conciliation under subparagraphs of Article 21
+(3) of the Act;
+2. Requirements for commencing conciliation process under Article 22 (2) of the Act;
+3. Processing period under Article 23 of the Act;
+4. The fact that the claimant, the respondent, an interested party to the dispute, or a
+witness may be requested to appear and make a statement or to submit necessary
+materials, articles, etc. pursuant to Article 24 of the Act, if necessary;
+5. Requirements for and effect of the completion of conciliation;
+
+--------------------------------------------------------------------------------
+법제처                                                            14                                                       국가법령정보센
+터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+6. Expenses to be borne by the parties to a dispute.
+(2) The information under paragraph (1) may be provided by means of delivery or service
+of a document.
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 32 (Service, etc. of Conciliation Documents) (1) Upon receipt of an application for
+conciliation, the chairperson shall serve the respondent with the application for conciliation
+or a duplicate of the protocol of application for conciliation (hereafter in this Article
+referred to as "application for conciliation, etc.") without delay.
+(2) If the respondent has the intention to respond to the conciliation, he or she shall notify
+such  intention  to  the  conciliation  committee  within  seven  days  from  the  date  the
+application  for  conciliation,  etc.  is  served.
+(3) If the chairperson receives a notification under paragraph (2), he or she may request
+the respondent to submit a written defense against the details of the application for a
+fixed period.
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 33 (Fees) (1) A person who files an application for conciliation pursuant to Article 21
+(1) of the Act shall pay a fee prescribed in attached Table 2.
+(2) Where a claimant falls under any of the following subparagraphs, he or she may be
+exempted from the fee: <Amended on Sep. 29, 2020; Apr. 6, 2021>
+1. A lessee eligible to receive a repayment preferentially pursuant to Article 8 of the Act;
+2. A recipient defined in subparagraph 2 of Article 2 of the National Basic Living Security
+Act;
+3. A person of distinguished service to national independence or his or her bereaved family
+(limited to only one person of the first priority; hereafter in this Article the same shall
+apply) registered pursuant to Article 6 of the Act on the Honorable Treatment of Persons
+of Distinguished Service to Independence;
+4. A person who has rendered distinguished service to the State or his or her bereaved
+family registered pursuant to Article 6 of the Act on the Honorable Treatment of and
+Support for Persons, etc. of Distinguished Service to the State;
+5. A patient suffering from actual aftereffects of defoliants, patient suffering from potential
+aftereffects of defoliants, or second-generation patient suffering from actual aftereffects
+
+--------------------------------------------------------------------------------
+법제처                                                            15                                                       국가법령정보센
+터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+of defoliants, registered pursuant to Article 4 of the Act on Assistance to Patients
+Suffering from Actual or Potential Aftereffects of Defoliants, etc. and Establishment of
+Related Organizations;
+6. A war veteran registered pursuant to Article 5 of the Act on Honorable Treatment of
+War Veterans, etc. and Establishment of Related Associations;
+7. A person of distinguished service to the May 18 Democratization Movement or his or
+her bereaved family determined to be registered pursuant to Article 7 of the Act on the
+Honorable Treatment of Persons of Distinguished Service to the May 18 Democratization
+Movement and Establishment of Related Organizations;
+8. A person of distinguished services during special military missions or his or her bereaved
+family registered pursuant to Article 6 of the Act on Honorable Treatment of Persons of
+Distinguished Service during Special Military Missions and Establishment of Related
+Organizations;
+9. A wounded noble person or a family member of a deceased noble person recognized
+pursuant to Article 5 of the Act on Honorable Treatment of and Support for Persons
+Who Died or Was Injured for Public Good;
+10. A person eligible for support under Article 5 of the Single-Parent Family Support Act;
+11. Any other person who meets the provisions of subparagraphs 1 through 10, jointly
+determined and publicly notified by the Minister of Justice and the Minister of Land,
+Infrastructure and Transport or prescribed by ordinance of a City/Do.
+(3) A claimant may claim the refund of a fee in any of the following cases:
+1. Where his or her application for conciliation is rejected pursuant to Article 21 (3) 1 or 2
+of the Act: Provided, That cases where the claimant files a lawsuit or an application for
+conciliation pursuant to the Judicial Conciliation of Civil Disputes Act after filing an
+application for conciliation shall be excluded herefrom;
+2. Where his or her application for conciliation is rejected pursuant to Article21 (3) 3 or 5
+of the Act;
+3. Where he or she withdraws his or her application for conciliation before a meeting of
+the conciliation committee or conciliation division is called. In such cases, the amount of
+refund shall be one half of the paid fee.
+(4) Matters necessary for the method for paying a fee under paragraph (1), the procedures
+for fee refund under paragraph (3), etc. shall be jointly determined and publicly notified by
+
+--------------------------------------------------------------------------------
+법제처                                                            16                                                       국가법령정보센
+터
+「ENFORCEMENT DECREE OF THE HOUSING LEASE PROTECTION ACT」
+the Minister of Justice and the Minister of Land, Infrastructure and Transport or prescribed
+by ordinance of a City/Do. <Amended on Sep. 29, 2020>
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 34 (Preparation of Deed of Conciliation) A deed of conciliation under Article 26 (4) of
+the Act shall include the following matters, and the chairperson and members of the
+conciliation committee who have participated in the conciliation shall sign thereon or affix
+their signatures and seals thereto:
+1. Number and title of the case;
+2. Names, dates of birth, and addresses of the parties to a dispute (if any party is a
+corporation, referring to its name, corporate registration number, and location of its main
+office);
+3. Location of the leased house;
+4. The purport of and reasons for the application;
+5.  Details  of  conciliation  (including  agreement  reached  to  the  effect  of  accepting
+compulsory  execution  pursuant  to  Article  26  (4)  of  the  Act);
+6. Date of preparation.
+[This Article Newly Inserted on May 29, 2017]
+ 
+Article 35 (Notification of Result of Conciliation) (1) Upon termination of conciliation process,
+the conciliation committee shall notify the result thereof to the parties to a dispute.
+(2) Where a deed of conciliation under Article 26 (4) of the Act is prepared, the conciliation
+committee shall deliver or serve the authentic copy of the deed of conciliation to the
+parties to a dispute without delay.
+[This Article Newly Inserted on May 29, 2017]
+
+--------------------------------------------------------------------------------

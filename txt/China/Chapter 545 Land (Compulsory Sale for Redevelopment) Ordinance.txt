@@ -1,0 +1,1811 @@
+Metadata for pdf/todo/Chapter 545 Land (Compulsory Sale for Redevelopment) Ordinance.pdf: {'format': 'PDF 1.7', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Mozilla Firefox 137.0.2', 'producer': 'cairo 1.18.0 (https://cairographics.org)', 'creationDate': "D:20250514232003+02'00", 'modDate': '', 'trapped': '', 'encryption': None, 'country': 'Hong Kong'}
+
+Country found in pdf/todo/Chapter 545 Land (Compulsory Sale for Redevelopment) Ordinance.pdf: Hong Kong
+
+Chapter 545
+Land (Compulsory Sale for
+Redevelopment) Ordinance
+06/12/2024
+An Ordinance to enable persons who own a specified majority of the
+undivided shares in a lot to make an application to the Tribunal for
+an order for the sale of all of the undivided shares in the lot for the
+purposes of the redevelopment of the lot; to enable the Tribunal to
+make such an order if specified criteria are met; and for matters
+incidental thereto or connected therewith.
+[7 June 1999] L.N. 104 of 1999
+(Format changes—E.R. 1 of 2021)
+(Enacting provision omitted—E.R. 1 of 2021)
+1.
+Short title
+(Amended E.R. 1 of 2021)
+(1)
+This Ordinance may be cited as the Land (Compulsory Sale
+for Redevelopment) Ordinance.
+(2)
+(Omitted as spent—E.R. 1 of 2021)
+2.
+Interpretation
+(1)
+In this Ordinance, unless the context otherwise requires—
+auction (拍賣), in relation to a lot, means the auction of the lot
+pursuant to section 5(1)(a);
+building (物) means a building within the meaning of Cap.
+123; (Amended 25 of 2024 s. 3)
+Building  Authority  (   事務 督)  means  the  Director  of
+Buildings; (Added 25 of 2024 s. 3)
+building works (⼯) has the meaning given by section 2(1)
+of Cap. 123; (Added 25 of 2024 s. 3)
+Cap. 17A (《17A》) means the Lands Tribunal Rules (Cap. 17
+sub. leg. A); (Added 25 of 2024 s. 3)
+Cap. 123 (《123》) means the Buildings Ordinance (Cap.
+123); (Added 25 of 2024 s. 3)
+directions (⽰) means directions under section 4(6);
+lis pendens (待件) means a lis pendens—
+(a)
+within  the  meaning  of  section  1A  of  the  Land
+Registration Ordinance (Cap. 128); and
+(b)
+which is registered under that Ordinance;
+lot ()—
+(a)
+means—
+(i)
+any  piece  or  parcel  of  ground  the  subject  of  a
+Government lease;
+(ii)
+a section which by virtue of section 8(3) or 27(2) of
+the
+ 
+Government
+ 
+Rent
+ 
+and
+ 
+Premium
+(Apportionment) Ordinance (Cap. 125) is deemed
+to  be  a  lot  for  the  purposes  of  that
+Ordinance; (Amended 14 of 2002 s. 3)
+(b)
+includes a section and subsection of a lot;
+majority owner (多有人), in relation to a lot—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+1 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(a)
+means the person or persons who has or have made an
+application under section 3(1) in respect of the lot; and
+(b)
+includes any person who becomes a successor in title to
+any  such  person  or  persons  at  any  time  before  a
+purchaser of the lot becomes the owner of the lot where
+the lot is the subject of an order for sale;
+minority owner (少有人), in relation to a lot which is the
+subject of an application under section 3(1)—
+(a)
+means the person or persons who—
+(i)
+owns or own undivided shares in the lot otherwise
+than as a mortgagee; but
+(ii)
+is or are not the person or persons who has or have
+made the application; and
+(b)
+includes any person who becomes a successor in title to
+any  such  person  or  persons  at  any  time  before  a
+purchaser of the lot becomes the owner of the lot where
+the lot is the subject of an order for sale;
+mortgage  (   )  means  a  security  over  a  lot  (including  an
+undivided  share  in  a  lot)  for  securing  money  or  money’s
+worth;
+mortgagee  ( !  人)  includes  any  person  claiming  under  a
+mortgagee but does not include a mortgagee in possession;
+occupation permit (佔⽤$可&) means an occupation permit
+issued by the Building Authority under section 21(2)(a) of
+Cap. 123; (Added 25 of 2024 s. 3)
+order for sale ('賣() means an order under section 4(1)(b)(i);
+owner-occupier (⾃⽤有人), in relation to a property on a lot the
+subject of an application under section 3(1), means a person
+who satisfies the Tribunal under section 4B that the person has
+occupied the property for not less than 3 months immediately
+before the date of the filing of a notice of occupation under
+rule 78FA of Cap. 17A; (Added 25 of 2024 s. 3)
+property (物業) means immovable property;
+purchaser (購買者), in relation to a lot the subject of an order for
+sale, means the purchaser of the lot at an auction (or, where
+section 5(1)(b) is applicable, the purchaser of the lot by the
+other means referred to in that section);
+redevelopment  ( 重/ 0 1 ),  in  relation  to  a  lot,  means  the
+replacement of a building on (or formerly on) the lot;
+relevant date (有2⽇期), in relation to a lot the subject of an
+application  under  section  3(1),  means  the  date  of  the
+application; (Added 25 of 2024 s. 3)
+tenancy (租6) includes a sub-tenancy;
+tenant (租7) includes a sub-tenant;
+Tribunal (89:) means the Lands Tribunal;
+trustees (受<人), in relation to an order for sale, means the trustees
+appointed under the order.
+(2)
+References in this Ordinance to an application under section
+3(1) shall be construed to include any documents required by
+that section or Schedule 1 to accompany the application.
+(3)
+It is hereby declared that—
+(a)
+for the purposes of—
+(i)
+the definition of minority owner; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+2 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(ii)
+the  definition  of  majority  owner  as  read  with
+section 3(1),
+a mortgagee in possession of any property on a lot shall
+be deemed to be the owner of the undivided shares in the
+lot which relate to that property;
+(b)
+where there is any inconsistency between the provisions
+of  this  Ordinance  and  the  provisions  of  the  Trustee
+Ordinance (Cap. 29) in relation to the trustees under an
+order for sale, the provisions of this Ordinance shall
+prevail  over  the  provisions  of  the  Trustee  Ordinance
+(Cap. 29) to the extent of that inconsistency;
+(c)
+for the purposes of this Ordinance, the purchaser of a lot
+the subject of an order for sale does not become the
+owner of the lot until the purchaser of the lot is the legal
+owner of all the undivided shares in the lot.
+3.
+Application to Tribunal for compulsory sale of lot
+(1)
+Subject to subsection (5), the person or persons who owns or
+own, otherwise than as a mortgagee, not less than 90% of the
+undivided shares in a lot may make an application—
+(a)
+accompanied by a valuation report as specified in Part
+1A of Schedule 1; and (Amended 25 of 2024 s. 4)
+(b)
+to the Tribunal for an order to sell all the undivided
+shares in the lot for the purposes of the redevelopment of
+the lot.
+(2)
+Without  prejudice  to  the  operation  of  subsection  (5),  an
+application under subsection (1) may cover—
+(a)
+2 or more lots where the majority owner owns not less
+than the percentage specified in subsection (1) of the
+undivided shares in each lot (each is referred to as a
+majority-owned lot); (Amended 25 of 2024 s. 4)
+(b)
+2 or more lots that are staircase-connected lots (one set
+of staircase-connected lots); (Replaced 25 of 2024 s. 4)
+(c)
+2  or  more  lots  that  are  adjoining  lots  (one  set  of
+adjoining lots); or (Added 25 of 2024 s. 4)
+(d)
+3 or more lots that are composed of more than one set of
+staircase-connected lots or a combination of any two or
+more of the following, and that are adjoined to form a
+cluster of lots bound by a continuous boundary—
+(i)
+one or more majority-owned lots;
+(ii)
+one or more sets of staircase-connected lots;
+(iii)
+one or more sets of adjoining lots. (Added 25 of 
+2024 s. 4)
+(2A)
+An application under subsection (1) that covers 3 or more lots
+by reason of subsection (2)(d) may also cover one or more
+than one additional lot (additional lot) if—
+(a)
+the  application  covers  at  least  one  set  of  staircase-
+connected lots;
+(b)
+the additional lot, or each of the additional lots, belongs
+to a specified class of lots;
+(c)
+the following is satisfied—
+(i)
+if only one additional lot is covered—the additional
+lot adjoins a set of staircase-connected lots along a
+common boundary; or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+3 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(ii)
+if more than one additional lot is covered—at least
+one of the additional lots adjoins a set of staircase-
+connected lots along a common boundary;
+(d)
+the additional lot or lots, together with the other lots the
+subject of the application, form a cluster of lots bound by
+a continuous boundary;
+(e)
+the percentage of the undivided shares owned by the
+majority  owner  in  the  additional  lot,  or  each  of  the
+additional lots, is not less than 65%; and
+(f)
+the  averaging  requirement  is  fulfilled  for  the  lots
+(excluding the staircase-connected lots) the subject of the
+application. (Added 25 of 2024 s. 4)
+(2B)
+To avoid doubt, an application under subsection (1) may cover
+more than one lot by reason of subsection (2)(b), (c) or (d) or
+(2A) even if any of the lots is wholly owned by the majority
+owner. (Added 25 of 2024 s. 4)
+(2C)
+For ascertaining whether the averaging requirement is fulfilled
+for the lots the subject of an application under subsection (1)
+that covers 2 or more lots by reason of subsection (2)(c) or (d)
+or (2A), the application must be accompanied, for each of the
+lots, by each of the following documents (if it is applicable to
+the lot)—
+(a)
+a Government lease that shows the area or boundary of
+the  lot,  together  with  any  document  subsequently
+executed or issued by the Government that effects an
+adjustment of the area or boundary of the lot;
+(b)
+an instrument effecting a division of land that—
+(i)
+shows the area or boundary of the lot; and
+(ii)
+is registered in the Land Registry,
+together with any document subsequently executed or
+issued by the Government that effects an adjustment of
+the area or boundary of the lot; and
+(c)
+plans (as approved under Cap. 123) for the following that
+show the area or boundary of the lot—
+(i)
+the existing building on the lot; or
+(ii)
+(if there is no existing building on the lot) any
+building formerly erected on the lot. (Added 25 of 
+2024 s. 4)
+(2D)
+However, subsection (2C) does not require such an application
+to be accompanied, for a lot, by a document mentioned in that
+subsection if the Tribunal is satisfied that the document is not
+available for the lot. (Added 25 of 2024 s. 4)
+(3)
+The majority owner of a lot who has made an application
+under subsection (1) shall—
+(a)
+subject to subsection (4), serve a copy of the application
+on each minority owner of the lot;
+(b)
+cause a copy of the application to be registered under the
+Land Registration Ordinance (Cap. 128) against the lot;
+and
+(c)
+cause a notice, as specified in Part 2 of Schedule 1 and in
+the Chinese and English languages—
+(i)
+to be affixed—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+4 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(A)
+upon a conspicuous part of the building on the
+lot (or, if there is more than one building on
+the  lot,  upon  a  conspicuous  part  of  each
+building); or
+(B)
+where there is no building on the lot, upon a
+conspicuous  part  of  the  lot  (or,  if  the
+application relates to 2 or more lots, upon a
+conspicuous part of each lot); and
+(ii)
+to be published in not less than 1 Chinese language
+newspaper (and in the Chinese language), and in
+not less than 1 English language newspaper (and in
+the  English  language),  circulating  generally  in
+Hong Kong.
+(4)
+Where it appears to the Tribunal that a copy of an application
+under subsection (1) cannot be served in accordance with
+subsection (3)(a), the Tribunal may, if it thinks fit, by order—
+(a)
+dispense with such service on any minority owner or
+class of minority owners mentioned in the order; and
+(b)
+direct notices to be published at such time and in such
+manner as it thinks fit, calling upon all persons claiming
+to be minority owners of the lot and who have not been
+so served, to establish their claims before the Tribunal
+within a time specified in the notice,
+and after expiration of the time specified, all persons claiming
+to be minority owners shall be bound by the proceedings as if
+they had been served in accordance with subsection (3)(a).
+(5)
+Subject to subsection (6), the Chief Executive in Council may,
+by notice in the Gazette, specify a percentage lower than the
+percentage mentioned in subsection (1) in respect of a lot
+belonging to a class of lots specified in the notice and, in any
+such case, subsection (1) and the other provisions of this
+Ordinance  shall  be  construed  as  if,  in  relation  to  a  lot
+belonging to that class of lots, that percentage so specified
+were substituted for the percentage mentioned in subsection
+(1).
+(6)
+No percentage may be specified in a notice under subsection
+(5) which is less than 65%. (Amended 25 of 2024 s. 4)
+(7)
+It is hereby declared that—
+(a)
+without prejudice to the generality of the definition of
+minority owner or the operation of subsection (1)(b) or
+section 4(1)(b)(i), for the purposes of this section, in the
+calculation of any percentage of undivided shares in a lot
+owned by a person or persons (and whether or not he is
+or they are the person or persons referred to in subsection
+(1)), there shall be  disregarded  any  undivided shares
+which  are  undivided  shares  in  respect  solely  of  any
+common parts of the lot;
+(b)
+a notice under subsection (5) is subsidiary legislation.
+(8)
+In this section—
+(a)
+2 or more lots are staircase-connected lots if—
+(i)
+one building on any of the lots is connected to
+another  building  on  any  other  lot  or  lots  by  a
+staircase intended for common use by the occupiers
+of the buildings, regardless of where the staircase is
+located; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+5 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(ii)
+the average of the following percentages is not less
+than the percentage specified in subsection (1)—
+(A)
+the percentage of the undivided shares owned
+by the majority owner in the lot or lots on
+which one of the buildings stands; and
+(B)
+the percentage of the undivided shares owned
+by the majority owner in the lot or lots on
+which the other of the buildings stands;
+(b)
+2 or more lots are adjoining lots if—
+(i)
+the following is satisfied—
+(A)
+in the case of 2 lots—they adjoin each other
+along a common boundary; or
+(B)
+in the case of 3 or more lots—each lot adjoins
+at least one of the other lots along a common
+boundary;
+(ii)
+the lots are adjoined to form a cluster of lots bound
+by a continuous boundary;
+(iii)
+the percentage of the undivided shares owned by
+the majority owner in each lot is—
+(A)
+for a lot belonging to a specified class of lots,
+not less than 65%; and
+(B)
+for a lot not belonging to a specified class of
+lots, not less than 90%; and
+(iv)
+the averaging requirement is fulfilled for the lots,
+each of which belongs to a specified class of lots;
+and
+(c)
+the averaging requirement is fulfilled for 2 or more lots if
+the average of the percentage of the undivided shares
+owned  by  the  majority  owner  in  the  lots  (averaged
+ownership percentage)  is  not  less  than  the  specified
+threshold percentage, where—
+(i)
+averaged  ownership  percentage  is  derived  by
+aggregating  the  sum  of  the  percentages  of  the
+undivided shares owned by the majority owner in
+each of the lots (if it belongs to a specified class of
+lots) multiplied by the area of the corresponding lot
+(total sum), then dividing the total sum by the total
+area of all the lots concerned; and
+(ii)
+specified  threshold  percentage  is  derived  by
+aggregating the sum of the percentages specified in
+section 3 of Cap. 545A for each of the lots (if it
+belongs to a specified class of lots) multiplied by
+the area of the corresponding lot (total sum), then
+dividing the total sum by the total area of all the
+lots concerned. (Added 25 of 2024 s. 4)
+(9)
+For the purposes of subsection (8)(c)—
+(a)
+if subsection (2C) does not require an application to be
+accompanied, for a lot, by all the documents mentioned
+in that subsection by reason of subsection (2D); or
+(b)
+if the Tribunal is satisfied that the area of a lot cannot be
+ascertained from the documents mentioned in subsection
+(2C) accompanying an application,
+the lot is to be disregarded by the Tribunal in ascertaining the
+fulfilment of the averaging requirement for the lots the subject
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+6 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+of the application. (Added 25 of 2024 s. 4)
+(10)
+In this section—
+Cap. 545A (《545A》) means the Land (Compulsory Sale for
+Redevelopment) (Specification of Lower Percentage) Notice
+(Cap. 545 sub. leg. A);
+specified class of lots (明類別) means a class of lots
+specified in section 4 of Cap. 545A. (Added 25 of 2024 s. 4)
+4.
+Determination of application
+(1)
+Subject to subsection (2), the Tribunal shall determine an
+application under section 3(1) by—
+(a)
+first—
+(i)
+if any minority owner of the lot the subject of the
+application disputes the value of any property as
+assessed in the application, hearing and determining
+the dispute;
+(ii)
+in the case of any minority owner of the lot who
+cannot be found, requiring the majority owner of
+the lot to satisfy the Tribunal that the value of the
+minority  owner’s  property  as  assessed  in  the
+application is—
+(A)
+not less than fair and reasonable; and
+(B)
+not  less  than  fair  and  reasonable  when
+compared  with  the  value  of  the  majority
+owner’s  property  as  assessed  in  the
+application;
+(b)
+second—
+(i)
+making an order that all the undivided shares in the
+lot the subject of the application be sold for the
+purposes of the redevelopment of the lot; or
+(ii)
+refusing to make such an order; and
+(c)
+third, where paragraph (b)(i) is applicable—
+(i)
+appointing in the order for sale trustees satisfactory
+to the Tribunal nominated by the majority owner to
+discharge the duties imposed on trustees under this
+Ordinance in relation to the lot; and
+(ii)
+authorizing  the  trustees  to  charge  such
+remuneration for their services as trustees as the
+Tribunal thinks fit and specified in the order.
+(2)
+The Tribunal shall not make an order for sale unless, after
+hearing the objections, if any, of the minority owners of the lot
+the subject of the application under section 3(1) concerned, the
+Tribunal is satisfied that—
+(a)
+the redevelopment of the lot is justified (and whether or
+not the majority owner  proposes to or is capable  of
+undertaking the redevelopment)—
+(i)
+due to the age or state of repair of the existing
+development on the lot; or
+(ii)
+on  1  or  more  grounds,  if  any,  specified  in
+regulations made under section 12; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+7 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(b)
+the majority owner has taken reasonable steps to acquire
+all the undivided shares in the lot (including, in the case
+of  a  minority  owner  whose  whereabouts  are  known,
+negotiating for the purchase of such of those shares as
+are owned by that minority owner on terms that are fair
+and reasonable).
+(2A)
+However, subsection (2) is to have effect as if paragraph (a)(i)
+of that subsection did not exist if—
+(a)
+each of the buildings erected on the lot was issued with
+an occupation permit at least 50 years before the relevant
+date; and
+(b)
+the whereabouts of all the minority owners of the lot the
+subject of the application are known, and each of them
+has filed a notice of no objection under rule 78CA of
+Cap. 17A. (Added 25 of 2024 s. 5)
+(2B)
+For the purposes of subsection (2A)(b), if—
+(a)
+the Government is a minority owner of the lot the subject
+of the application; and
+(b)
+any undivided shares in the lot held by the Government
+are vested in the Government as bona vacantia,
+the  Government  is  deemed  to  have  filed  a  notice  of  no
+objection in the capacity of such a minority owner in relation
+to those undivided shares. (Added 25 of 2024 s. 5)
+(2C)
+Subsection (2) does not apply to a lot that is wholly owned by
+the majority owner. (Added 25 of 2024 s. 5)
+(2D)
+Subsection (2E) applies if, in determining an application under
+section 3(1) that covers 2 or more lots (each is referred to as a
+relevant lot) by reason of section 3(2), the Tribunal is of the
+view that—
+(a)
+it is required by subsection (2) not to make an order for
+sale; and
+(b)
+it would not be so required if—
+(i)
+the application would still be an application under
+section 3(1) if a relevant lot were no longer the
+subject of the application; and
+(ii)
+it could determine the application as if the relevant
+lot were no longer the subject of the application.
+(Added 25 of 2024 s. 5)
+(2E)
+The Tribunal may—
+(a)
+determine the application as if the relevant lot were no
+longer the subject of the application; or
+(b)
+reject the application. (Added 25 of 2024 s. 5)
+(3)
+Subject to section 8(3) and (4), the Tribunal shall not, in
+determining  an  application  under  section  3(1),  take  into
+account  any  provision  of  the  Landlord  and  Tenant
+(Consolidation) Ordinance (Cap. 7) relating to the right of a
+tenant  whose  tenancy  is  terminated  or  is  sought  to  be
+terminated.
+(4)
+The majority owner of the lot the subject of an order for sale
+shall cause—
+(a)
+subject to subsection (5), a copy of the order to be served
+on each minority owner of the lot;
+(b)
+a copy of the order to be served on the Director of Lands;
+and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+8 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(c)
+a notice to be published—
+(i)
+in not less than 1 Chinese language newspaper (and
+in the Chinese language), and in not less than 1
+English language newspaper (and in the English
+language), circulating generally in Hong Kong; and
+(ii)
+stating—
+(A)
+sufficient particulars of the lot to identify the
+lot;
+(B)
+that the Tribunal has made an order that all the
+undivided shares in the lot be sold for the
+purposes of the redevelopment of the lot; and
+(C)
+that the lot will be sold by auction (or, where
+section 5(1)(b) is applicable, the other means
+referred to in that section by which the lot will
+be sold).
+(5)
+Where it appears to the Tribunal that a copy of an order for
+sale cannot be served in accordance with subsection (4)(a), the
+Tribunal may, if it thinks fit, by order—
+(a)
+dispense with such service on any owner or class of
+owners mentioned in the order; and
+(b)
+direct notices to be published at such time and in such
+manner as it thinks fit, informing all persons claiming to
+be owners of the lot—
+(i)
+that the Tribunal has made an order for sale of the
+lot; and
+(ii)
+where and the times during which a copy of the
+order may be obtained.
+(6)
+Where the Tribunal makes an order for sale, it may order,
+subject to section 8(3), (4) and (5), that compensation be paid
+to a tenant for termination of his tenancy under section 8(1)(b)
+and it may also give such directions as it thinks fit—
+(a)
+relating to—
+(i)
+the sale and purchase of the lot the subject of the
+order, including (but without limiting the generality
+of  the  foregoing)  settling  the  particulars  and
+conditions of sale of the lot;
+(ii)
+the termination of tenancies of any tenants of any
+property on the lot;
+(iii)
+subject  to  section  11(5),  the  application  of  the
+proceeds of the sale including—
+(A)
+the holding by the trustees of such part of
+those proceeds as is specified by the Tribunal
+in view of any lis pendens affecting the lot;
+and
+(B)
+the payment of that part of those proceeds,
+upon the occurrence of an event specified by
+the Tribunal, to such person or persons as is or
+are specified by the Tribunal;
+(b)
+requiring the trustees under the order for sale to pay into
+the Tribunal the proceeds of sale of the lot the subject of
+the order (after deduction, if any, pursuant to section
+10(2) or 11(1) or (2)(a) and (b)), which includes but is
+not limited to—  (Amended 32 of 2000 s. 48)
+(i)
+any deposit money for the purchase of the lot;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+9 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(ii)
+any  other  part  of  the  proceeds  of  sale  that  is
+required under this Ordinance to be held by or paid
+to the trustees; and
+(c)
+which are not inconsistent with the other provisions of
+this Ordinance,
+and, in any such case, subsections (4)(a) and (5) shall, with all
+necessary  modifications,  apply  to  those  directions  as  they
+apply to an order for sale.
+(7)
+Where proceeds of sale are paid into the Tribunal pursuant to a
+direction given under subsection (6)(b), the Tribunal shall, in
+accordance with rules made under section 10A(1) of the Lands
+Tribunal Ordinance (Cap. 17), release such proceeds or any
+part of it to the respective persons who would have been
+entitled to payment of the proceeds under the provisions of
+this Ordinance if the proceeds of sale had remained with the
+trustees.
+(8)
+Any proceeds of sale—
+(a)
+paid into the Tribunal pursuant to a direction given under
+subsection (6)(b); and
+(b)
+not  yet  released  pursuant  to  subsection  (7)  on  the
+expiration of 3 years beginning with the date on which
+such proceeds were paid into the Tribunal,
+shall be paid into the general revenue, and, in any such case,
+section 11(7)(b) and (c) shall apply in relation to the proceeds
+with all necessary modifications.
+(9)
+In any case of doubt or difficulty or in any matter not provided
+for under this Ordinance, the trustees under an order for sale,
+or the majority owner or any minority owner of the lot the
+subject of the order, may apply to the Tribunal for directions.
+(10)
+The Tribunal may make an order amending an order for sale
+by appointing a new trustee or trustees either in substitution
+for or in addition to any existing trustee or trustees under the
+order for sale (even though there is no existing trustee)—
+(a)
+upon the application of the trustees under the order for
+sale or the majority owner or minority owner of the lot;
+and
+(b)
+if the Tribunal is of the opinion that it is expedient to do
+so.
+(11)
+The remuneration referred to in subsection (1)(c)(ii) to be paid
+to the trustees under an order for sale shall be paid by the
+majority owner of the lot the subject of the order.
+(12)
+Where—
+(a)
+an application under section 3(1) is made by a majority
+owner consisting of 2 or more persons; and
+(b)
+any of those persons (or if the undivided share in the lot
+owned  by  any  such  person  has  been  assigned,  his
+successor  in  title)  informs  the  Tribunal,  at  any  time
+before  an  order  for  sale,  if  any,  is  made  on  the
+application, that he no longer wishes to be a party to the
+application,
+then  the  application  shall  thereupon  be  deemed  to  be
+withdrawn irrespective of the percentage of undivided shares
+in the lot the subject of the application owned by the other
+persons or their successors in title (if applicable) who wish to
+remain as parties to the application.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+10 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(13)
+Where the Tribunal refuses to make an order for sale, the
+majority owner in the application made under section 3(1)
+shall, as soon as practicable thereafter, cause the registration
+referred to in section 3(3)(b) of the application to be vacated
+under section 20 of the Land Registration Ordinance (Cap.
+128).
+4A.
+Supplemental provisions to section 4: notice of no objection
+(1)
+Within 7 days after the date on which a notice of no objection
+is filed by a minority owner for the purposes of section 4(2A)
+(b), the minority owner must cause a copy of the notice to be
+registered under the Land Registration Ordinance (Cap. 128)
+against the minority owner’s undivided shares in the lot.
+(2)
+Subsection (1) does not apply to the Government to the extent
+that the Government is deemed to have filed a notice of no
+objection in the capacity of a minority owner under section
+4(2B).
+(3)
+For the purposes of subsection (1), a notice of no objection is
+deemed to be an instrument affecting land or premises and is
+registrable in the Land Registry. However, a failure to register
+a notice of no objection does not affect the validity of the
+notice.
+(Added 25 of 2024 s. 6)
+4B.
+Supplemental provisions to section 4:  further  occupation  by
+minority owner
+(1)
+A person who is a minority owner of a lot the subject of an
+application under section 3(1) and who owns undivided shares
+in the  lot which  relates to  a  property  of  the  person  may
+continue to occupy the property for a period not exceeding 6
+months  after  the  day  on  which  the  purchaser  of  the  lot
+becomes the owner of the lot if the person—
+(a)
+has filed a notice of occupation under rule 78FA of Cap.
+17A; and
+(b)
+has satisfied the Tribunal that the person has occupied
+the property for not less than 3 months immediately
+before the date of the filing of the notice of occupation.
+(2)
+The Tribunal may order the person to pay to the purchaser of
+the lot an amount calculated in the way specified in subsection
+(3) for the period of occupation as specified in the notice of
+occupation.
+(3)
+The amount referred to in subsection (2) is to be calculated by
+multiplying the period of occupation by the reference rental
+value of the property.
+(4)
+In this section—
+reference rental value (@照租B), in relation to a property on a lot,
+means—
+(a)
+in the case of the property being a tenement that was, at
+the date on which the relevant order for sale is made by
+the Tribunal for the lot, included in the valuation list in
+force under section 14 of the Rating Ordinance (Cap.
+116)—the rateable value of the property contained in that
+list on that date (disregarding any subsequent amendment
+or alteration made to that list, even if the amendment or
+alteration takes retrospective effect); or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+11 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(b)
+in any other case—the market rent of the property as
+shown in a valuation report that—
+(i)
+is made and signed by a professionally qualified
+valuation surveyor, who is subject to the discipline
+of a professional body, within 3 months after the
+date on which the order for sale is made for the lot;
+and
+(ii)
+is provided by the person before the trustees under
+the order for sale applies the proceeds for sale in
+accordance with section 11.
+(Added 25 of 2024 s. 6)
+4C.
+Supplemental provisions to section 4: redevelopment of lots
+(1)
+This section applies if—
+(a)
+an order for sale was made for the lots the subject of an
+application  that  covers  2  or  more  lots  by  reason  of
+section 3(2)(c) or (d) or (2A); and
+(b)
+the lots (subject lots) were sold to a purchaser under the
+order for sale.
+(2)
+Subject to subsection (3), the purchaser, or each successor in
+title of the purchaser, must redevelop the subject lots in such a
+way that the lots form one site or part of one site.
+(3)
+The subject lots must be redeveloped—
+(a)
+in  accordance  with  a  plan  or  a  set  of  plans  that  is
+approved under section 14(1)(a) of Cap. 123 for the site
+mentioned in subsection (2); and
+(b)
+with the consent of the Building Authority under section
+14(1)(b)  of  Cap.  123  for  the  commencement  of  the
+building works in accordance with the plan or the set of
+plans.
+(4)
+If—
+(a)
+a new lot (whether or not a new lot number is assigned)
+is granted by or on behalf of the Government in a lot
+extension or in-situ land exchange application involving
+any or all of the subject lots (with or without any other
+lot); and
+(b)
+the new lot includes land that was included under the
+subject lots,
+subsections (2) and (3) are to have effect as if the reference to
+the subject lots in those subsections were a reference to the
+new lot (but only to the extent of the land that was included
+under the subject lots).
+(5)
+If the Building Authority is of the opinion that any proposed
+building works on the subject lots (relevant works) do not
+comply  with  the  requirement  under  subsection  (2),  the
+Building Authority may, despite Cap. 123, do any or all of the
+following to such extent as is necessary to avoid the non-
+compliance—
+(a)
+refuse  to  give  approval  to  any  plan  or  set  of  plans
+relating to, or to consent to the commencement of, the
+relevant works;
+(b)
+withdraw an approval that the Building Authority has or
+is deemed to have given to any plan or set of plans
+relating to the relevant works;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+12 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(c)
+require an amendment of any plan or set of plans relating
+to the relevant works;
+(d)
+impose conditions on an approval to any plan or set of
+plans relating to the relevant works or on a consent to
+commence the works.
+(6)
+A power under subsection (5) is not exercisable in relation to
+the relevant works unless the Building Authority has advised
+the person who intends to carry out the works of—
+(a)
+the Building Authority’s opinion that the works do not
+comply with the requirement under subsection (2); and
+(b)
+the reasons for the opinion.
+(7)
+Moreover,  a  power  under  subsection  (5)  is  no  longer
+exercisable after the earlier of the following—
+(a)
+each of the buildings (whether wholly or partly) erected
+on the subject lots under the redevelopment has been
+issued with an occupation permit;
+(b)
+each of the buildings erected on the site mentioned in
+subsection  (2)  has  been  issued  with  an  occupation
+permit.
+(8)
+For the purposes of sections 23 and 24 of Cap. 123, any of the
+following constitutes a contravention of Cap. 123—
+(a)
+the carrying out of building works following any refusal
+to give approval or to consent under subsection (5)(a) or
+withdrawal of approval under subsection (5)(b);
+(b)
+the carrying out of building works otherwise than in
+accordance with any plan amended under subsection (5)
+(c) or condition imposed under subsection (5)(d).
+(Added 25 of 2024 s. 6)
+5.
+Lot  to  be  sold  by  auction  or  other  means  and  default  on
+payment by the purchaser of the lot
+(1)
+Where an order for sale is granted and the trustees under the
+order have complied with section 7(1) in respect of the lot the
+subject of the order—
+(a)
+subject to paragraph (b), the lot shall be sold by public
+auction in accordance with the conditions specified in
+Schedule 2; or
+(b)
+if the whereabouts of each minority owner of the lot is
+known, the lot may be sold by any other means—
+(i)
+agreed  in  writing  by  each  minority  owner  and
+majority owner of the lot;
+(ii)
+approved by the Tribunal in its absolute discretion;
+and
+(iii)
+in accordance with such conditions, if any, as the
+Tribunal specifies in directions.
+(2)
+Where the trustees under an order for sale receive—
+(a)
+at any time before there is a purchaser of the lot the
+subject of the order; and
+(b)
+if the whereabouts of each minority owner of the lot is
+known, notices in writing—
+(i)
+from each majority owner and minority owner of
+the lot the subject of the order; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+13 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(ii)
+expressly stating that they each do not want the lot
+to be sold,
+then that order shall immediately be deemed to be of no effect
+as if it had been cancelled by the Tribunal.
+(3)
+Where the purchaser of a lot the subject of an order for sale
+defaults on a payment for the lot—
+(a)
+the trustees under the order shall, with the agreement in
+writing of the majority owner and minority owner of the
+lot, institute legal proceedings to seek—
+(i)
+relief for the loss and damages caused to the owners
+by reason of the purchaser’s default;
+(ii)
+specific performance of the purchaser’s agreement
+to purchase the lot,
+as may be applicable; and
+(b)
+subject to paragraph (a), the deposit money paid by the
+purchaser of the lot shall be forfeited to the trustees for
+the benefit of the majority owner and minority owner of
+the lot.
+(4)
+Where the lot the subject of an order for sale is not sold—
+(a)
+subject  to  paragraph  (b),  within  the  3  months
+immediately following the date on which the order is
+made; or
+(b)
+within such further period of 3 months as the Tribunal
+may specify in directions given on application made to it
+by the trustees under the order or the majority owner or
+any minority owner of the lot,
+then that order shall immediately be deemed to be of no effect
+as if it had been cancelled by the Tribunal.
+(5)
+It is hereby declared that—
+(a)
+if the lot the subject of an order for sale is to be sold by
+auction, it shall be sold to the highest bidder at the
+auction;
+(b)
+nothing in this Ordinance shall operate to prevent the
+majority owner or any minority owner of the lot the
+subject of an order for sale from being the purchaser of
+the lot.
+6.
+Amount  to  be  paid  to  trustees  where  majority  owner  or
+minority owner is successful purchaser
+(1)
+The majority owner of a lot the subject of an order for sale
+who is the purchaser of the lot—
+(a)
+subject to paragraph (b), is not required to pay to the
+trustees under the order the full purchase price; but
+(b)
+is  required  to  pay  to  the  trustees  not  less  than  that
+proportion of that amount that the trustees calculate is
+necessary—
+(i)
+for the majority owner to purchase all the undivided
+shares in the lot not already owned by the majority
+owner; and
+(ii)
+to enable the trustees to comply with section 11(2)
+to  the  extent  that  any  liability  due  to  the
+Government in respect of the lot, or compensation
+payable to any tenant, referred to in that section is
+attributable to the majority owner.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+14 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(2)
+Subsection (1) shall apply to any minority owner of a lot the
+subject of an order for sale who is the purchaser of the lot as it
+applies to the majority owner of a lot the subject of an order
+for sale who is the purchaser of the lot.
+7.
+Registration of order for sale, etc.
+(1)
+The trustees under an order for sale shall cause a copy of—
+(a)
+the order; and
+(b)
+Schedule 3,
+to be registered under the Land Registration Ordinance (Cap.
+128)  against  the  lot  to  which  the  order  relates  and,
+immediately upon that registration—
+(i)
+notwithstanding any other law, there shall by virtue of
+this section vest in the trustees the power to assign all the
+estate, right and interest in the lot held by the majority
+owner and the minority owner of the lot for—
+(A)
+the purposes of selling the lot only to the purchaser
+of the lot (or, if the purchaser is the majority owner
+or any minority owner, selling such part of the lot
+which is not already owned by the purchaser);
+(B)
+the purposes of discharging the duties imposed on
+trustees under this Ordinance in relation to the lot;
+and
+(C)
+the purposes of executing any documents required
+for any of the purposes referred to in subparagraph
+(A) or (B); and
+(ii)
+the conditions specified in Schedule 3 shall be binding
+on  and  enforceable  against  the  purchaser  and  the
+purchaser’s successors in title.
+(2)
+A new trustee or trustees appointed by virtue of section 4(10)
+shall cause a copy of the order appointing him or them to be
+registered under the Land Registration Ordinance (Cap. 128)
+against the lot to which the order relates and, immediately
+upon that registration—
+(a)
+the order for sale concerned shall be read and have effect
+to take into account the effect of that first-mentioned
+order; and
+(b)
+the references to “trustees” in subsection (1)(i), and the
+other provisions of this Ordinance, shall be construed
+accordingly.
+(3)
+Where an order for sale is of no effect by virtue of section 5(2)
+or (4), the trustees under the order shall as soon as practicable
+thereafter cause—
+(a)
+the registration referred to in subsection (1) of the order
+and of Schedule 3 (insofar as it relates to the lot); and
+(b)
+the registration, if any, referred to in subsection (2) of the
+order first-mentioned in subsection (2),
+to  be  vacated  under  section  20  of  the  Land  Registration
+Ordinance (Cap. 128).
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+15 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(4)
+Where the purchaser of the lot the subject of an order for sale
+is the majority owner or any minority owner of the lot, the
+power vested under subsection (1)(i) in the trustees under the
+order to assign all the estate, right and interest in the lot shall
+cease immediately upon the purchaser becoming the owner of
+that  part  of  the  lot  which  is  not  already  owned  by  the
+purchaser.
+(5)
+It is hereby declared that—
+(a)
+subsection (1)(i) shall not operate to prevent the majority
+owner or any minority owner of the lot the subject of an
+order for sale from assigning all or any part of the estate,
+right and interest in the lot respectively held by them—
+(i)
+at any time before there is a purchaser of the lot;
+and
+(ii)
+that they have the power to assign;
+(b)
+where  the  trustees  exercise  the  power  vested  under
+subsection (1)(i) to assign all the estate, right and interest
+in the lot, then for all purposes the assignment shall be as
+valid and effectual as if it had been made by the majority
+owner and minority owner of the lot.
+(6)
+The purchaser of the lot shall, not later than 14 days after the
+day on which he became the owner of the lot, notify the
+Director of Lands in writing that he became such owner.
+8.
+Protection of purchaser of lot, etc.
+(1)
+Where the lot the subject of an order for sale is sold—
+(a)
+immediately upon the purchaser of the lot becoming the
+owner  of  the  lot  all  the  rights  of  any  prior  owner
+(including  the  prior  owner’s  assigns  or  personal
+representatives) in or over the lot or any part thereof shall
+absolutely cease except to the extent, if any, specified in
+the order;
+(b)
+notwithstanding the terms of any lease or the provisions
+of the Landlord and Tenant (Consolidation) Ordinance
+(Cap. 7) but in accordance with such conditions, if any,
+as the Tribunal specifies in directions—
+(i)
+immediately upon the day on which the purchaser
+of the lot becomes the owner of the lot it shall be
+deemed,  by  virtue  of  this  section  and  for  all
+purposes, that there has on that day been terminated
+the tenancy of any tenant of any property on the lot
+who is such a tenant by virtue of any lease entered
+into at any time before the purchaser became such
+owner; and
+(ii)
+immediately  upon  the  expiration  of  6  months
+immediately following that day, the purchaser is
+entitled to, and the tenant is required to deliver up,
+vacant possession of the property; and (Amended 25 
+of 2024 s. 9)
+(c)
+an owner-occupier is required to deliver up, and the
+purchaser is entitled to, vacant possession of the property
+immediately on the expiry of the period of occupation
+referred to in section 4B(2). (Added 25 of 2024 s. 9)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+16 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(2)
+Where there is any tenancy terminated by virtue of subsection
+(1)(b)(i), the purchaser of the lot to which the tenancy relates
+shall, not later than 14 days after the day on which he became
+the owner of the lot, cause a notice, as specified in Schedule 4
+and in the Chinese and English languages, to be served on the
+tenant of the tenancy by leaving the notice with an adult
+occupier of the property in which the tenant resides and to
+which the tenancy relates.
+(3)
+Subject to subsections (4) and (5), the order for compensation
+referred to in section 4(6) may relate to compensation—
+(a)
+payable by—
+(i)
+the  majority  owner  of  the  lot  concerned  to  the
+tenant under a lease referred to in subsection (1)(b)
+which relates to property on the lot which was
+owned by the majority owner immediately before
+the purchaser of the lot became the owner of the lot
+(and  whether  or  not  the  majority  owner  is  the
+purchaser);
+(ii)
+the  minority  owner  of  the  lot  concerned  to  the
+tenant under a lease referred to in subsection (1)(b)
+which relates to property on the lot which was
+owned by the minority owner immediately before
+the purchaser of the lot became the owner of the lot
+(and  whether  or  not  the  minority  owner  is  the
+purchaser);
+(b)
+determined by reference to any of the provisions of the
+Landlord and Tenant (Consolidation) Ordinance (Cap. 7),
+and  whether  with  or  without  modifications  thereto
+specified in the order.
+(4)
+Without  prejudice  to  the  generality  of  subsection  (3),  the
+Tribunal may take into account—
+(a)
+the representations, if any, of the tenant as to whether
+compensation should be payable and, if so, the amount of
+the compensation;
+(b)
+for the purposes of determining any such compensation,
+the benefit, if any, afforded the tenant by virtue of the
+operation of subsection (1)(b)(ii).
+(5)
+No compensation shall be payable under this Ordinance to the
+tenant in relation to any lease entered into on or after the date
+on which the order for sale of the lot concerned was made.
+(6)
+In this section—
+lease  ( 租C )  includes  every  agreement  for  the  letting  of  any
+premises, whether oral or in writing, and howsoever described;
+prior owner (前有人), in relation to a lot—
+(a)
+means a person who formerly owned an undivided share
+in the lot;
+(b)
+does not include the purchaser of the lot;
+rights (E利), in relation to a prior owner of a lot, means all rights
+which—
+(a)
+were  exercisable  by  virtue  of  the  prior  owner’s
+ownership of an undivided share in the lot; and
+(b)
+affect the lot.
+9.
+Conditions deemed to be conditions of Government lease, etc.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+17 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(1)
+Each condition specified in Schedule 3 shall be deemed to be a
+condition of the Government lease of the lot the subject of an
+order for sale and, accordingly, a breach of such a condition
+shall entitle the Government to re-enter the lot under and in
+accordance with the provisions of the Government Rights (Re-
+entry and Vesting Remedies) Ordinance (Cap. 126). (Amended
+25 of 2024 s. 10)
+(2)
+For the purposes of subsection (1), Schedule 3 as amended by
+the Land (Compulsory Sale for Redevelopment) (Amendment)
+Ordinance 2024 (25 of 2024) applies if the order for sale was
+made  on  or  after  the  commencement*  of  that  Ordinance,
+whether or not the application for the order was made before
+that commencement. (Added 25 of 2024 s. 10)
+____________________
+Editorial Note:
+* Commencement date : 6 December 2024.
+10.
+Basis of apportionment of expenses and proceeds
+(1)
+The expenses of the auction or of the other means referred to
+in section 5(1)(b) by which the lot is sold incurred by the
+trustees under an order for sale shall be borne—
+(a)
+where there is no purchaser of the lot, solely by the
+majority owner of the lot; and
+(b)
+where there is a purchaser of the lot, by the majority
+owner  and  minority  owner  of  the  lot  as  apportioned
+amongst  them  on  the  basis  specified  in  Part  3  of
+Schedule 1.
+(2)
+The trustees may deduct the expenses required to be borne by
+the majority owner or any minority owner of the lot pursuant
+to subsection (1) from any deposit money of the purchase
+price of the lot that is apportioned to such owner.
+(3)
+The apportionment between the majority owner and minority
+owner of the lot the subject of an order for sale of—
+(a)
+the proceeds of sale of the lot; and
+(b)
+any deposit money forfeited as referred to in section 5(3)
+(b),
+shall be on the basis specified in Part 3 of Schedule 1.
+11.
+Application of proceeds of sale
+(1)
+The proceeds of sale for the lot the subject of an order for sale
+shall, after deduction of—
+(a)
+the expenses referred to in section 10(1) (unless such
+expenses have already been deducted in accordance with
+section 10(2) or otherwise paid); and
+(b)
+the legal costs on the assignment of the lot incurred by
+the trustees under the order as assignor to the assignment,
+be paid to the trustees.
+(2)
+The trustees under an order for sale shall apply the proceeds of
+sale paid to them in respect of the lot the subject of the order
+in the following order—
+(a)
+first,  in  the  discharge  of  any  liability  due  to  the
+Government in respect of the lot;
+(b)
+second, subject to subsection (3), in the discharge of any
+incumbrance affecting the lot;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+18 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(c)
+third, subject to any directions given by virtue of section
+4(6)(a)(iii)(A) and (B) and to subsections (4) and (4A),
+in payment of the residue to— (Amended 25 of 2024 s. 
+11)
+(i)
+the majority owner of the lot in accordance with
+directions but only after any compensation payable
+by the majority owner under section 8(3) to the
+tenant concerned has been deducted by the trustees
+out of the residue payable to the majority owner;
+(ii)
+the minority owner of the lot (other than an owner-
+occupier of a property on the lot) in accordance
+with directions but only after any compensation
+payable by the minority owner under section 8(3) to
+the  tenant  concerned  has  been  deducted  by  the
+trustees out of the residue payable to the minority
+owner; and (Amended 25 of 2024 s. 11)
+(iii)
+every owner-occupier of a property on the lot but
+only  after  any  amount  payable  by  the  owner-
+occupier  under  section  4B(2)  to  the  purchaser
+concerned has been deducted by the trustees out of
+the residue payable to the owner-occupier. (Added
+25 of 2024 s. 11)
+(3)
+The trustees under an order for sale do not have to comply
+with subsection (2)(b)—
+(a)
+where the purchaser of the lot the subject of the order is
+the majority owner or any minority owner of the lot; and
+(b)
+to the extent that—
+(i)
+any incumbrance affecting the lot is attributable to
+the purchaser; and
+(ii)
+the  purchaser  agrees  in  writing  that  the
+incumbrance is not to be discharged.
+(4)
+Where compensation is payable under section 8(3) to a tenant
+of any property on a lot the subject of an order for sale, the
+trustees under the order shall not pay more than half of the
+compensation to the tenant before the trustees are satisfied that
+the tenant has delivered up vacant possession of the property
+to the purchaser of the lot.
+(4A)
+Where an amount is ordered to be paid under section 4B(2) to
+a purchaser of a lot the subject of an order for sale, the trustees
+under the order should not pay more than 95% of the proceeds
+of sale (that is payable under subsection (2)(c)(iii))  to  the
+owner-occupier before the trustees are satisfied that the owner-
+occupier has delivered up vacant possession of the property to
+the purchaser of the lot. (Added 25 of 2024 s. 11)
+(5)
+The trustees under an order for sale shall pay into the Tribunal
+—
+(a)
+any  amount  held  by  the  trustees  pursuant  to  any
+directions given by virtue of section 4(6)(a)(iii)(A) and
+(B)  where  the  event  referred  to  that  section  has  not
+occurred before the trustees have started to discharge
+their  duty  under  subsection  (2)(c)  in  respect  of  the
+proceeds of sale of the lot the subject of the order; and
+(b)
+any residue referred to in subsection (2)(c) in respect of
+which the majority owner or minority owner cannot be
+found.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+19 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(6)
+Any amount or residue paid into the Tribunal under subsection
+(5) shall—
+(a)
+where subsection (5)(a) is applicable, be paid to such
+person or persons as is or are specified in the directions
+concerned under section 4(6)(a)(iii)(A) and (B) upon the
+occurrence of the event referred to in that section;
+(b)
+where subsection (5)(b) is applicable—
+(i)
+be paid to the majority owner or minority owner, as
+the case may be, if and when the owner is found;
+(ii)
+be  paid  into  the  general  revenue  if,  upon  the
+expiration of 3 years beginning with the date on
+which the Tribunal was paid the residue, that owner
+has still not been found.
+(7)
+It is hereby declared that—
+(a)
+the application of the proceeds of sale to discharge any
+liability or incumbrance referred to in subsection (2)(a)
+or (b) shall be on the basis that the majority owner or
+minority owner of the lot shall pay for the discharge to
+the extent that the liability or incumbrance, as the case
+may be, is attributable to that majority owner or minority
+owner, as the case may be;
+(b)
+subsection (6)(b)(ii)  shall  not  operate  to  prevent  any
+claim being made against the Government—
+(i)
+in  relation  to  any  residue  referred  to  in  that
+subsection; and
+(ii)
+by a person who would have been entitled, or who
+appears would have been entitled, to be paid the
+residue  if  the  residue  had  remained  with  the
+Tribunal;
+(c)
+where a person claims to have had an interest in the lot
+sold pursuant to an order for sale, nothing in this section
+or in section 8(1)(a) shall prevent the person from taking
+any action or commencing any proceedings in relation to
+any proceeds of sale arising from the sale of that part of
+the lot to which the interest relates.
+(8)
+Without prejudice to the operation of subsection (3), in this
+section incumbrance (GE負I), in relation to a lot, does not
+include, unless otherwise specified in directions—
+(a)
+if Part II of the New Territories Ordinance (Cap. 97)
+applies to the lot, any Chinese custom or customary right
+affecting the land;
+(b)
+any easements, rights of way or rights of water; or
+(c)
+any covenants which run with the lot.
+12.
+Regulations
+(1)
+The  Secretary  for  Development  may  make  regulations
+—  (Amended L.N. 330 of 1999; L.N. 106 of 2002; L.N. 130 of
+2007)
+(a)
+specifying grounds for the purposes of section 4(2)(a)(ii);
+(b)
+specifying  matters  to  be  taken  into  account  for  the
+purposes of section 4(2)(b);
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+20 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(c)
+specifying  matters  to  be  taken  into  account  in  the
+nomination or appointment of trustees to discharge the
+duties  imposed  on  trustees  under  this  Ordinance  in
+relation to the lot the subject of an order for sale; and
+(d)
+generally, providing for the better carrying into effect of
+the provisions and purposes of this Ordinance.
+(2)
+A regulation made under subsection (1)(a) or (b) shall not
+apply to any proceedings arising out of an application made
+under  section  3(1)  before  the  commencement  of  the
+regulation.
+13.
+Amendment of Schedules
+The Chief Executive in Council may, by notice in the Gazette,
+amend Schedule 1, 2, 3 or 4.
+14.
+(Omitted as spent—E.R. 1 of 2021)
+15.
+(Omitted as spent—E.R. 1 of 2021)
+___________
+Schedule 1
+[ss. 2(2), 3, 10 & 13]
+Valuation Report, Notice that Application has been
+Made, Apportionment of Proceeds, etc.
+(Amended 25 of 2024 s. 12)
+Part 1
+Interpretation
+1.
+In this Schedule—
+deed of mutual covenant (JC), in relation to any land (or any part
+of it), means a document that—
+(a)
+defines the rights, interests and obligations of owners of
+the undivided shares in the land among themselves; and
+(b)
+is registered in the Land Registry.
+(Part 1 replaced 25 of 2024 s. 12)
+Part 1A
+Valuation Report
+1.
+A valuation report, prepared within 3 months before the date on
+which the application under section 3(1) is made, setting out—
+(a)
+the assessed market value of each property on the lot
+(other than a lot wholly owned by the majority owner
+who made the application)—
+(i)
+on a vacant possession basis;
+(ii)
+assessed as if the lot could not be made the subject
+of an application for an order for sale; and
+(iii)
+not taking into account the redevelopment potential
+of the property or the lot; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+21 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(b)
+the following assessed market value—
+(i)
+for  a  single  lot  governed  by  a  deed  of  mutual
+covenant—the  assessed  market  value  of  the  lot
+which  takes  into  account  the  redevelopment
+potential of the lot on its own; and
+(ii)
+for 2 or more lots governed by a single deed of
+mutual covenant—the assessed market value of all
+the  lots  which  takes  into  account  the  joint
+redevelopment potential of the lots on their own.
+(Part 1A added 25 of 2024 s. 12)
+Part 2
+Notice that Application has been Made under the Land
+(Compulsory Sale for Redevelopment) Ordinance (Cap.
+545) for the Sale of Lot No........./Lot Nos........* Located
+at..............................
+ 
+Persons occupying any part of the above lot/lots* are hereby notified
+that  an  application  has  been  made  under  section  3(1)  of  the  Land
+(Compulsory Sale for Redevelopment) Ordinance (Cap. 545) to the Lands
+Tribunal  for  an  order  to  sell  the  lot/lots*  for  the  purposes  of  the
+redevelopment of the lot/lots*.
+It should be noted that if such an order for sale is made, the Lands
+Tribunal—
+(a)
+may order compensation to be paid to a tenant (including
+any sub-tenant) of any property on such lot/lots* whose
+tenancy  is  terminated  by  the  operation  of  the  Land
+(Compulsory  Sale  for  Redevelopment)  Ordinance  (Cap.
+545);
+(b)
+may take into account the representations, if any, of the
+tenant as to whether compensation should be payable to the
+tenant  and,  if so,  the  amount of  the  compensation; and
+(Amended 25 of 2024 s. 12)
+(c)
+may order an amount to be paid to the purchaser of the lot/
+lots* by a person who is an owner-occupier# of a property on
+the lot/lots* for the person’s continued occupation of the
+property after the day on which the purchaser of the lot/lots*
+becomes the owner of the lot/lots*. (Added 25 of 2024 s. 12)
+* Delete whichever is inapplicable.
+# The amount ordered to be paid is to be deducted from the proceeds of sale payable to the owner-
+occupier. (Amended 25 of 2024 s. 12)
+Part 3
+Basis of Apportionment of Proceeds of Sale of Lot
+1.
+For an order for sale of a lot the subject of an application that covers
+one lot, the proceeds of sale of the lot are to be apportioned on a pro
+rata basis in accordance with—
+(a)
+subject to paragraph (b), the values of the respective
+properties of each majority owner and each minority
+owner of the lot as assessed in the application under
+section 1(a) of Part 1A of this Schedule; and
+(b)
+where—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+22 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(i)
+there has been a dispute referred to in section 4(1)
+(a)(i) that has resulted in a variation of those values;
+or
+(ii)
+in consequence of the requirement under section
+4(1)(a)(ii)  on  the  majority  owner  to  satisfy  the
+Tribunal as to the matter referred to in that section,
+there has been a variation of those values,
+those values as so varied.
+2.
+For an order for sale of lots the subject of an application that covers
+more than one lot, the proceeds of sale of the lots—
+(a)
+are to be apportioned between the lots on a pro rata basis
+in accordance with, and subject to paragraph (c)—
+(i)
+for a lot governed by a deed of mutual covenant
+covering that lot only, the redevelopment value of
+the lot as assessed in the application under section
+1(b)(i) of Part 1A of this Schedule; and
+(ii)
+for 2 or more lots governed by a single deed of
+mutual covenant, the redevelopment value of the
+lots as  assessed  jointly  in the  application under
+section 1(b)(ii) of Part 1A of this Schedule;
+(b)
+are to be apportioned between each majority owner and
+each minority owner of a lot on a pro rata basis in
+accordance with, and subject to paragraph (c), the values
+of the respective properties of each majority owner and
+each  minority  owner  of  the  lot  as  assessed  in  the
+application  under  section  1(a)  of  Part  1A  of  this
+Schedule; and
+(c)
+where—
+(i)
+there has been a dispute referred to in section 4(1)
+(a)(i) that has resulted in a variation of those values;
+or
+(ii)
+in consequence of the requirement under section
+4(1)(a)(ii)  on  the  majority  owner  to  satisfy  the
+Tribunal as to the matter referred to in that section,
+there has been a variation of those values,
+are to be apportioned in accordance with those values as
+so varied.
+(Part 3 replaced 25 of 2024 s. 12)
+___________
+Schedule 2
+[ss. 5(1) & 13]
+Conditions in Accordance with which Lot shall be Sold
+by Auction
+1.
+The public shall be given notice of the auction by means of an
+advertisement—
+(a)
+published—
+(i)
+in not less than 1 Chinese language newspaper (and
+in the Chinese language), and in not less than 1
+English language newspaper (and in the English
+language), circulating generally in Hong Kong; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+23 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(ii)
+not  less  than  once  in  each  of  the  3  weeks
+immediately  preceding  the  date  on  which  the
+auction is to be held; and
+(b)
+stating—
+(i)
+that the lot the subject of the auction is being sold
+pursuant to an order for sale under this Ordinance;
+(ii)
+that the purchaser of the lot and the purchaser’s
+successors in title will be subject to the conditions
+specified in Schedule 3 and the conditions, if any,
+specified in the order for sale;
+(iii)
+where, and during what times, a copy of the order
+for  sale  and  the  directions  may  be  obtained  or
+inspected; and
+(iv)
+the date, time and place of the auction.
+2.
+The lot the subject of the auction shall be sold subject to a reserve
+price—
+(a)
+which takes into account—
+(i)
+for an order for sale of one lot—the redevelopment
+potential of the lot on its own; or
+(ii)
+for an order for sale of 2 or more lots—the joint
+redevelopment potential of the lots on their own;
+and (Replaced 25 of 2024 s. 13)
+(b)
+approved by the Tribunal.
+___________
+Schedule 3
+[ss. 7, 9 & 13 & Sch. 2]
+Conditions to which Purchaser of Lot and Purchaser’s
+Successors in Title shall be Subject
+1.
+The lot the subject of an order for sale must be redeveloped and the
+redevelopment must be completed and made fit for occupation—
+(a)
+subject to paragraph (b)—
+(i)
+for an order for sale of one lot—within such period,
+not being a period which expires after 6 years after
+the date on which the purchaser of the lot became
+the owner of the lot, as specified by the Tribunal in
+the order for sale;
+(ii)
+for an order for sale of 2 or more lots—within such
+period, not being a period which expires after 7
+years after the date on which the purchaser of the
+lots became the owner of the lots, as specified by
+the Tribunal in the order for sale;
+(b)
+within such further period, if any, as the Tribunal may
+allow on the application of the purchaser of that lot or his
+successor in title. (Replaced 25 of 2024 s. 14)
+2.
+Section 1 of this Schedule extends to a new lot (whether or not a
+new lot number assigned) that is granted by or on behalf of the
+Government in a lot extension or in-situ land exchange application
+involving—
+(a)
+the lot mentioned in that section; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+24 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------
+(b)
+any  other  lots  (if  any)  being  the  subject  of  the
+application. (Added 25 of 2024 s. 14)
+3.
+If there is more than one period (as described in section 1 of this
+Schedule) applying to the new lot by the operation of section 2 of
+this Schedule, the timeframe for the redevelopment of the new lot is
+the period with the earliest end date or such other period as may be
+allowed by the Tribunal on the application of the owner of the new
+lot. (Added 25 of 2024 s. 14)
+___________
+Schedule 4
+[ss. 8(2) & 13]
+Notice that Tenancies of Lot have been Terminated
+Tenants (including sub-tenants) under any tenancies of any properties
+on  this  lot  which  were  entered  into  any  time  before
+............................................................................  [insert  date  on  which
+purchaser of lot became owner of lot] are hereby notified that pursuant to
+section  8(1)(b)  of  the  Land  (Compulsory  Sale  for  Redevelopment)
+Ordinance (Cap. 545)—
+(a)
+all those tenancies were terminated on that date; and
+(b)
+the purchaser is entitled to, and those tenants are required to
+deliver up, vacant possession of those properties immediately
+upon the expiration of 6 months immediately following that
+date.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+25 of 25
+5/14/25, 23:20
+
+--------------------------------------------------------------------------------

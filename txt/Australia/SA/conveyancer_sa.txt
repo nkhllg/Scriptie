@@ -1,0 +1,3090 @@
+Version: 4.10.2018 
+Published under the Legislation Revision and Publication Act 2002 
+1 
+South Australia 
+Conveyancers Act 1994 
+An Act to regulate conveyancers; and for other purposes. 
+ 
+Contents 
+Part 1—Preliminary 
+1 
+Short title 
+3 
+Interpretation 
+4 
+Commissioner to be responsible for administration of Act 
+Part 2—Registration of conveyancers 
+5 
+Conveyancers to be registered 
+6 
+Application for registration 
+7 
+Entitlement to be registered 
+7A 
+Reviews 
+8 
+Duration of registration and annual fee and return 
+9 
+Requirements for professional indemnity insurance 
+Part 2A—Cancellation, suspension or variation of registration 
+9AA 
+Commissioner may cancel, suspend or impose conditions on registration 
+Part 3—Provisions regulating incorporated conveyancers 
+9A 
+Company conveyancer's business to be properly managed and supervised 
+9B 
+Improper directions etc relating to conveyancing 
+10 
+Non-compliance with constitution 
+11 
+Alteration of constitution 
+13 
+Joint and several liability 
+Part 4—Trust accounts and indemnity fund 
+Division 1—Preliminary 
+14 
+Interpretation of Part 4 
+Division 2—Trust accounts 
+15 
+Trust money to be deposited in trust account 
+16 
+Withdrawal of money from trust account 
+17 
+Payment of interest on trust accounts to Commissioner 
+18 
+Appointment of administrator of trust account 
+19 
+Appointment of temporary manager 
+20 
+Powers of administrator or temporary manager 
+21 
+Term of appointment of administrator or temporary manager 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Contents 
+ 
+2 
+Published under the Legislation Revision and Publication Act 2002 
+22 
+Review of appointment of administrator or temporary manager 
+23 
+Keeping of records 
+24 
+Audit of trust accounts 
+25 
+Appointment of examiner 
+26 
+Obtaining information for purposes of audit or examination 
+27 
+ADIs etc to report deficiencies in trust accounts 
+28 
+Confidentiality 
+29 
+ADIs etc not affected by notice of trust 
+30 
+Failing to comply with requirement of administrators etc 
+Division 3—Indemnity fund 
+31 
+Indemnity fund 
+32 
+Claims on indemnity fund 
+33 
+Limitation of claims 
+34 
+Establishment and determination of claims 
+35 
+Claims by conveyancers 
+36 
+Personal representative may make claim 
+37 
+Review of Commissioner's determination 
+38 
+Determination, evidence and burden of proof 
+39 
+Claimant's entitlement to compensation and interest 
+40 
+Rights of Commissioner 
+41 
+Insurance in respect of claims against indemnity fund 
+42 
+Insufficiency of indemnity fund 
+43 
+Accounts and audit 
+Part 5—Discipline 
+44 
+Interpretation of Part 5 
+45 
+Cause for disciplinary action 
+46 
+Complaints 
+47 
+Hearing by Tribunal 
+48 
+Participation of assessors in disciplinary proceedings 
+49 
+Disciplinary action 
+50 
+Contravention of orders 
+Part 6—Miscellaneous 
+51 
+Delegations 
+52 
+Agreement with professional organisation 
+53 
+Exemptions 
+54 
+Register of conveyancers 
+55 
+Commissioner and proceedings before Tribunal 
+56 
+False or misleading information 
+57 
+Statutory declaration 
+58 
+Investigations 
+59 
+General defence 
+60 
+Liability for act or default of officer, employee or agent 
+62 
+Continuing offence 
+63 
+Prosecutions 
+64 
+Evidence 
+65 
+Service of documents 
+66 
+Annual report 
+67 
+Regulations 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Contents 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+3 
+Schedule 2—Transitional provisions 
+1 
+General 
+2 
+Mortgage financiers 
+3 
+Special provisions relating to Growden Investments 
+Legislative history 
+ 
+The Parliament of South Australia enacts as follows: 
+Part 1—Preliminary 
+1—Short title 
+This Act may be cited as the Conveyancers Act 1994. 
+3—Interpretation 
+ 
+(1) 
+In this Act, unless the contrary intention appears— 
+close associate—see subsection (2); 
+Commissioner means the Commissioner for Consumer Affairs; 
+conveyancer means a person, other than a legal practitioner, who carries on a business 
+that consists of or involves the preparation of conveyancing instruments for fee or 
+reward; 
+conveyancing instrument means an instrument as defined in the Real Property 
+Act 1886; 
+director of a company includes— 
+ 
+(a) 
+a person occupying or acting in the position of director of the company, by 
+whatever name called and whether or not validly appointed to occupy or duly 
+authorised to act in the position; and 
+ 
+(b) 
+any person in accordance with whose directions or instructions the directors 
+of the company are accustomed to act; 
+domestic partner means a person who is a domestic partner within the meaning of the 
+Family Relationships Act 1975, whether declared as such under that Act or not; 
+indemnity fund means the indemnity fund maintained under Part 3 of the Land Agents 
+Act 1994; 
+land includes an interest in land; 
+legal practitioner has the same meaning as in the Legal Practitioners Act 1981; 
+money includes an instrument for the payment of money that may be negotiated by an 
+ADI; 
+mortgage means a legal or equitable mortgage over land; 
+mortgage financing means negotiating or arranging loans secured by mortgage 
+including receiving or dealing with payments under such transactions; 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 1—Preliminary 
+ 
+4 
+Published under the Legislation Revision and Publication Act 2002 
+prescribed relative, in relation to a person, means a spouse, domestic partner, parent, 
+child or grandchild of the person; 
+spouse—a person is the spouse of another if they are legally married; 
+Tribunal means the South Australian Civil and Administrative Tribunal established 
+under the South Australian Civil and Administrative Tribunal Act 2013. 
+ 
+(2) 
+Subject to subsection (3), 2 persons are close associates if— 
+ 
+(a) 
+they are in partnership; or 
+ 
+(b) 
+they are related bodies corporate (within the meaning of the Corporations 
+Act 2001 of the Commonwealth); or 
+ 
+(c) 
+one is a body corporate and the other is a director, manager, secretary or 
+public officer of the body corporate; or 
+ 
+(d) 
+one is a body corporate (other than a public company whose shares are quoted 
+on a prescribed financial market) and the other is a shareholder in the body 
+corporate; or 
+ 
+(e) 
+one is a body corporate whose shares are quoted on a prescribed financial 
+market and the other is a substantial shareholder (within the meaning of the 
+Corporations Act 2001 of the Commonwealth) in the body corporate; or 
+ 
+(f) 
+one has a right to participate (otherwise than as a shareholder in a body 
+corporate) in income or profits derived from a business conducted by the 
+other; or 
+ 
+(g) 
+one is in a position to exercise control or significant influence over the 
+conduct of the other; or 
+ 
+(h) 
+they fall within a class of persons prescribed by the regulations for the 
+purposes of this subsection; or 
+ 
+(i) 
+a chain of relationships can be traced between them under any one or more of 
+the above paragraphs. 
+ 
+(3) 
+The Governor may, by regulation, exclude classes of persons from the ambit of 
+subsection (2). 
+ 
+(4) 
+In subsection (2)— 
+prescribed financial market means a prescribed financial market within the meaning 
+of section 9 of the Corporations Act 2001 of the Commonwealth. 
+4—Commissioner to be responsible for administration of Act 
+The Commissioner is responsible, subject to the control and directions of the Minister, 
+for the administration of this Act. 
+Part 2—Registration of conveyancers 
+5—Conveyancers to be registered 
+A person must not carry on business, or hold himself or herself out, as a conveyancer 
+unless registered under this Act. 
+Maximum penalty:  
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Registration of conveyancers—Part 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+5 
+ 
+(a) 
+for an offence committed by a natural person— 
+ 
+(i) 
+for a first or second offence—$50 000; or 
+ 
+(ii) 
+for a third or subsequent offence—$50 000 or 12 months 
+imprisonment or both; or 
+ 
+(b) 
+for an offence committed by a body corporate—$250 000. 
+6—Application for registration 
+ 
+(1) 
+An application for registration must— 
+ 
+(a) 
+be made to the Commissioner in the manner and form approved by the 
+Commissioner; and 
+ 
+(b) 
+be accompanied by the fee fixed by regulation. 
+ 
+(2) 
+An applicant for registration must provide the Commissioner with such evidence as 
+the Commissioner thinks appropriate as to the identity, age and address of the 
+applicant and any other information required by the Commissioner for the purposes of 
+determining the application. 
+ 
+(3) 
+If an applicant for registration has previously failed to pay a fee or penalty that 
+became payable under this Act, the Commissioner may require the applicant to pay 
+the whole or a specified part of the fee or penalty. 
+ 
+(4) 
+The Commissioner may, by notice in writing, require an applicant for registration, 
+within a time fixed by the notice (which may not be less than 28 days after service of 
+the notice), to comply with any requirement under this section to the Commissioner's 
+satisfaction. 
+ 
+(5) 
+If the applicant fails to comply with the notice under subsection (4), the Commissioner 
+may, without further notice, refuse the application but keep the fee that accompanied 
+the application. 
+7—Entitlement to be registered 
+ 
+(1) 
+A natural person is entitled to be registered as a conveyancer if the person— 
+ 
+(a) 
+has— 
+ 
+(i) 
+the qualifications required by regulation; or 
+ 
+(ii) 
+subject to the regulations, the qualifications that the Commissioner 
+considers appropriate; and 
+ 
+(b) 
+has not— 
+ 
+(i) 
+been convicted of an indictable offence of dishonesty; or 
+ 
+(ii) 
+during the period of 10 years preceding the application for 
+registration, been convicted of a summary offence of dishonesty; and 
+ 
+(c) 
+is not suspended or disqualified from practising or carrying on an occupation, 
+trade or business under a law of this State, the Commonwealth, another State 
+or a Territory of the Commonwealth; and 
+ 
+(d) 
+is not an insolvent under administration within the meaning of the 
+Corporations Act 2001 of the Commonwealth; and 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 2—Registration of conveyancers 
+ 
+6 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(e) 
+has not, during the period of five years preceding the application for 
+registration, been a director of a body corporate wound up for the benefit of 
+creditors— 
+ 
+(i) 
+when the body was being so wound up; or 
+ 
+(ii) 
+within the period of six months preceding the commencement of the 
+winding up; and 
+ 
+(f) 
+is a fit and proper person to be registered as a conveyancer. 
+ 
+(2) 
+Subject to subsection (3), a company is entitled to be registered as a conveyancer if— 
+ 
+(a) 
+the company— 
+ 
+(i) 
+is not suspended or disqualified from practising or carrying on an 
+occupation, trade or business under a law of this State, the 
+Commonwealth, another State or a Territory of the Commonwealth; 
+and 
+ 
+(ii) 
+is not being wound up and is not under official management or in 
+receivership; and 
+ (ab) no director of the company is a prescribed person; and 
+ 
+(b) 
+no director of the company— 
+ 
+(i) 
+has— 
+ (A) been convicted of an indictable offence of dishonesty; or 
+ 
+(B) 
+during the period of 10 years preceding the application for 
+registration, been convicted of a summary offence of 
+dishonesty; or 
+ 
+(ii) 
+is suspended or disqualified from practising or carrying on an 
+occupation, trade or business under a law of this State, the 
+Commonwealth, another State or a Territory of the Commonwealth; 
+or 
+ (iii) has, during the period of five years preceding the application for 
+registration, been a director of a body corporate wound up for the 
+benefit of creditors— 
+ (A) when the body was being so wound up; or 
+ 
+(B) 
+within the period of six months preceding the 
+commencement of the winding up; and 
+ 
+(c) 
+each director of the company is a fit and proper person to be the director of a 
+company that is registered as a conveyancer. 
+ 
+(3) 
+A company is not entitled to be registered as a conveyancer unless the constitution of 
+the company contains stipulations so that— 
+ 
+(a) 
+the sole object of the company must be to carry on business as a conveyancer; 
+and 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Registration of conveyancers—Part 2 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+7 
+ 
+(b) 
+the majority of the directors of the company must be natural persons who are 
+registered conveyancers (but where there are only 2 directors 1 may be a 
+registered conveyancer and the other may be a person who is not a registered 
+conveyancer and nothing in this paragraph prevents a constitution providing 
+that all directors of a company must be registered conveyancers); and 
+ 
+(c) 
+no director of the company may be a prescribed person; and 
+ 
+(d) 
+the majority of voting rights exercisable at a meeting of the members of the 
+company must be held by registered conveyancers who are directors or 
+employees of the company (but nothing in this paragraph prevents a 
+constitution providing that all such rights must be held by registered 
+conveyancers); and 
+ 
+(e) 
+no share in the capital of the company, and no rights to participate in 
+distribution of profits of the company, may be owned beneficially by a 
+prescribed person. 
+ 
+(4) 
+For the purposes of this section, a person is a prescribed person if the person is— 
+ 
+(a) 
+a land agent; or 
+ 
+(b) 
+a financier; or 
+ 
+(c) 
+a close associate of a land agent or financier, 
+other than where the land agent, financier or close associate is also— 
+ 
+(d) 
+a registered conveyancer; or 
+ 
+(e) 
+a prescribed relative of a registered conveyancer who is a director of the 
+particular company seeking registration under this section. 
+ 
+(5) 
+In this section— 
+financier means a person who carries on a business that consists of or involves— 
+ 
+(a) 
+mortgage financing; or 
+ 
+(b) 
+lending money for the purchase of land; 
+land agent means an agent or a sales representative within the meaning of the Land 
+Agents Act 1994. 
+7A—Reviews 
+ 
+(1) 
+A person whose application for registration has been refused by the Commissioner 
+may seek a review of the Commissioner's decision by the Tribunal under section 34 of 
+the South Australian Civil and Administrative Tribunal Act 2013. 
+ 
+(2) 
+Subject to subsection (4), an application for review may be made to the Tribunal 
+within 1 month after the making of the Commissioner's decision. 
+ 
+(3) 
+The Commissioner must, if so required by the person, state in writing the reasons for 
+the Commissioner's decision. 
+ 
+(4) 
+If the reasons are not given in writing at the time of the making of the Commissioner's 
+decision and the person (within 1 month of the making of the decision) requires the 
+Commissioner to state the reasons in writing, the time for making an application for 
+review runs from the time at which the person receives the written statement of those 
+reasons. 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 2—Registration of conveyancers 
+ 
+8 
+Published under the Legislation Revision and Publication Act 2002 
+8—Duration of registration and annual fee and return 
+ 
+(1) 
+Registration remains in force (except for any period for which it is suspended) until— 
+ 
+(a) 
+the registration is surrendered or cancelled; or 
+ 
+(b) 
+the registered conveyancer dies or, in the case of a registered company, is 
+dissolved. 
+ 
+(2) 
+A registered conveyancer must, each year not later than the date fixed by regulation— 
+ 
+(a) 
+pay to the Commissioner the fee fixed by regulation; and 
+ 
+(b) 
+lodge with the Commissioner a return in the manner and form required by the 
+Commissioner. 
+ 
+(3) 
+Where a registered conveyancer fails to pay the annual fee or lodge the annual return 
+in accordance with subsection (2), the Commissioner may, by notice in writing, 
+require the conveyancer to make good the default. 
+ 
+(4) 
+Where the conveyancer fails to comply with the notice within 28 days after service of 
+the notice, the conveyancer's registration is cancelled. 
+ 
+(5) 
+The Commissioner must notify the conveyancer in writing of the cancellation of the 
+conveyancer's registration. 
+ 
+(6) 
+A registered conveyancer may surrender registration. 
+ 
+(7) 
+In this section— 
+registered conveyancer includes a registered conveyancer whose registration has been 
+suspended. 
+9—Requirements for professional indemnity insurance 
+ 
+(1) 
+A person must, at all times when carrying on business as a conveyancer, be insured in 
+accordance with the regulations. 
+ 
+(2) 
+A conveyancer's registration is suspended for any period for which the conveyancer is 
+not insured as required under subsection (1). 
+Part 2A—Cancellation, suspension or variation of registration 
+9AA—Commissioner may cancel, suspend or impose conditions on registration 
+ 
+(1) 
+If the Commissioner is satisfied that events have occurred such that a registered 
+conveyancer would not be entitled to be so registered if the person were to apply for 
+registration, the Commissioner may, by notice served on the person— 
+ 
+(a) 
+cancel the registration; or 
+ 
+(b) 
+suspend the registration for a specified period or until the fulfilment of 
+stipulated conditions; or 
+ 
+(c) 
+impose conditions on the registration. 
+ 
+(2) 
+If the Commissioner is satisfied that the facts and circumstances that gave rise to the 
+imposition of conditions on a registration under this section have altered, the 
+Commissioner may, by further notice specifying the date of termination, terminate the 
+imposition of the conditions. 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Cancellation, suspension or variation of registration—Part 2A 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+9 
+ 
+(3) 
+If, during the suspension of a registration under this section, the Commissioner is 
+satisfied that the facts and circumstances that gave rise to the suspension have altered, 
+the Commissioner may, by further notice specifying the date of termination, terminate 
+the suspension and restore the registration to the person (either in the form in which it 
+existed prior to the suspension or subject to new conditions). 
+ 
+(4) 
+A person whose registration is cancelled, suspended or made subject to conditions 
+under this section may seek a review by the Tribunal, under section 34 of the South 
+Australian Civil and Administrative Tribunal Act 2013, of the decision of the 
+Commissioner to cancel or suspend the registration or to impose the conditions. 
+ 
+(5) 
+Subject to subsection (7), an application for review may be made to the Tribunal 
+within 1 month after the making of the relevant decision. 
+ 
+(6) 
+The Commissioner must, if so required by the person, state in writing the reasons for 
+the Commissioner's decision. 
+ 
+(7) 
+If the reasons of the Commissioner are not given in writing at the time of the making 
+of the decision and the person (within 1 month of the making of the decision) requires 
+the Commissioner to state the reasons in writing, the time for making an application 
+for review runs from the time at which the person receives the written statement of 
+those reasons. 
+ 
+(9) 
+This section applies in relation to conduct occurring before or after the 
+commencement of this section. 
+Part 3—Provisions regulating incorporated conveyancers 
+9A—Company conveyancer's business to be properly managed and supervised 
+A company that is a registered conveyancer must ensure that the company's business 
+as a conveyancer is properly managed and supervised by a registered conveyancer 
+who is a natural person. 
+Maximum penalty: $20 000. 
+9B—Improper directions etc relating to conveyancing 
+If a director or manager of a company that is a registered conveyancer directs or 
+incites a registered conveyancer or other person employed by the company to act 
+unlawfully, improperly, negligently or unfairly in the course of managing or 
+supervising, or being employed or otherwise engaged in, the company's business as a 
+conveyancer, the company and the director or manager are each guilty of an offence. 
+Maximum penalty: $20 000. 
+10—Non-compliance with constitution 
+Where one or more of the stipulations required by Part 2 to be included in the 
+constitution of a company registered as a conveyancer are not complied with, the 
+company is guilty of an offence. 
+Maximum penalty: $20 000. 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 3—Provisions regulating incorporated conveyancers 
+ 
+10 
+Published under the Legislation Revision and Publication Act 2002 
+11—Alteration of constitution 
+A company that is registered as a conveyancer must not alter its constitution so that 
+the constitution ceases to conform to the requirements of Part 2 for registration of a 
+company as a conveyancer. 
+Maximum penalty: $20 000. 
+13—Joint and several liability 
+Despite any other Act or law, a civil liability incurred by a company that is a 
+registered conveyancer is enforceable jointly and severally against the company and 
+the persons who were directors of the company at the time the liability was incurred. 
+Part 4—Trust accounts and indemnity fund 
+Division 1—Preliminary 
+14—Interpretation of Part 4 
+ 
+(1) 
+In this Part, unless the contrary intention appears— 
+auditor means a registered company auditor within the meaning of the Corporations 
+Act 2001 of the Commonwealth; 
+fiduciary default means a defalcation, misappropriation or misapplication of trust 
+money occurring while the money is in the possession or control of— 
+ 
+(a) 
+a conveyancer; or 
+ 
+(b) 
+a firm of which a conveyancer is a member; 
+record includes information kept by computer, microfilm or other process; 
+trust account means an account in which trust money is required to be deposited by a 
+conveyancer; 
+trust money, in relation to a conveyancer, means money— 
+ 
+(a) 
+that is received by the conveyancer when acting on behalf of another in 
+connection with a dealing with land; and 
+ 
+(b) 
+to which the conveyancer is not wholly entitled in law and in equity, 
+but does not include money received by a conveyancer in the course of mortgage 
+financing. 
+ 
+(2) 
+A reference in this Part to a fiduciary default extends to a fiduciary default that 
+occurred before the commencement of this Act. 
+Division 2—Trust accounts 
+15—Trust money to be deposited in trust account 
+ 
+(1) 
+A conveyancer must, as soon as practicable after receiving trust money, deposit the 
+money in an account (in the name of the conveyancer) approved by the Commissioner 
+at an ADI. 
+Maximum penalty: $20 000. 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Trust accounts and indemnity fund—Part 4 
+Trust accounts—Division 2 
+Published under the Legislation Revision and Publication Act 2002 
+11 
+ 
+(2) 
+A conveyancer must not pay any other money into the conveyancer's trust account. 
+Maximum penalty: $20 000. 
+ 
+(3) 
+A conveyancer must not withdraw, or permit another person to withdraw, money from 
+a trust account except in accordance with this Part. 
+Maximum penalty: $20 000. 
+ 
+(4) 
+The Commissioner may, by notice in writing to an ADI— 
+ 
+(a) 
+approve accounts of a particular class (being accounts that carry interest at a 
+rate considered satisfactory by the Commissioner) for the purposes of this 
+section; or 
+ 
+(b) 
+vary or revoke any such approval. 
+16—Withdrawal of money from trust account 
+A conveyancer may withdraw money from a trust account— 
+ 
+(a) 
+for payment to the person entitled to the money or for payment in accordance 
+with the directions of that person; or 
+ 
+(b) 
+in satisfaction of a claim for commission, fees, costs or disbursements that the 
+conveyancer has against the person on behalf of whom the money is held; or 
+ 
+(c) 
+to satisfy an order of a court or the Tribunal against the person on behalf of 
+whom the conveyancer is holding the money; or 
+ 
+(d) 
+for payment into a court or the Tribunal before which proceedings have been 
+instituted in relation to the money; or 
+ 
+(e) 
+for the purpose of dealing with the money in accordance with the Unclaimed 
+Moneys Act 1891; or 
+ 
+(f) 
+for making any other payment authorised by law. 
+17—Payment of interest on trust accounts to Commissioner 
+Interest that an ADI is liable to pay in respect of trust money held in a trust account 
+must be paid by the ADI to the Commissioner on the days fixed by regulation. 
+18—Appointment of administrator of trust account 
+ 
+(1) 
+If the Commissioner knows or suspects on reasonable grounds that a conveyancer— 
+ 
+(a) 
+is not registered as required by law; or 
+ 
+(b) 
+has been guilty of a fiduciary default in relation to trust money; or 
+ 
+(c) 
+has operated on the trust account in such an irregular manner as to require 
+immediate supervision; or 
+ 
+(d) 
+has acted contrary to this Act or otherwise unlawfully or improperly or 
+negligently in the conduct of the business; or 
+ 
+(e) 
+in the case of a natural person— 
+ 
+(i) 
+is dead or cannot be found; or 
+ 
+(ii) 
+is suffering from mental or physical incapacity preventing the 
+conveyancer from properly attending to the conveyancer's affairs; or 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 4—Trust accounts and indemnity fund 
+Division 2—Trust accounts 
+12 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(f) 
+has ceased to carry on business as a conveyancer; or 
+ 
+(g) 
+has become bankrupt or insolvent or has taken the benefit (as a debtor) of a 
+law relating to bankrupt or insolvent debtors or, in the case of a company, is 
+being wound up, is under official management or is in receivership, 
+the Commissioner may appoint a person to administer the conveyancer's trust account. 
+ 
+(2) 
+This section applies in relation to conduct occurring before or after the 
+commencement of this Act. 
+ 
+(3) 
+The Commissioner must, as soon as practicable after appointing an administrator, give 
+notice in writing of the appointment to— 
+ 
+(a) 
+the conveyancer; and 
+ 
+(b) 
+all persons who are entitled (whether solely or jointly) to withdraw money 
+from, or deal with money in, the account; and 
+ 
+(c) 
+the ADI at which the account is held. 
+ 
+(4) 
+A person who has been given notice of the appointment of an administrator, or who 
+knows that an administrator has been appointed, must not withdraw money from, or 
+deal with money in, the trust account while the appointment continues. 
+Maximum penalty: $20 000. 
+ 
+(5) 
+An ADI that has been given notice of the appointment of an administrator must not, 
+while the appointment continues, accept any withdrawal of, or dealing with, money in 
+the trust account unless the withdrawal or dealing is at the direction, or with the 
+written approval, of the administrator. 
+Maximum penalty: $20 000. 
+19—Appointment of temporary manager 
+ 
+(1) 
+Where an administrator is appointed under this Division, the Commissioner may 
+appoint that person or some other person to be a temporary manager to transact any 
+urgent or uncompleted business of the conveyancer. 
+ 
+(2) 
+The Commissioner must, as soon as practicable after appointing a temporary manager, 
+give notice in writing of the appointment to the conveyancer. 
+20—Powers of administrator or temporary manager 
+The following powers may be exercised by an administrator or temporary manager: 
+ 
+(a) 
+the administrator or manager may require any person in a position to do so— 
+ 
+(i) 
+to produce documents and records relating to the conveyancer's 
+business including written records that reproduce in a readily 
+understandable form information kept by computer, microfilm or 
+other process; and 
+ 
+(ii) 
+to provide information relevant to the conveyancer's business; and 
+ 
+(b) 
+the administrator may require any person in a position to do so to provide all 
+authorities and orders to ADIs and others that may be reasonably required for 
+the operation of the conveyancer's trust account; and 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Trust accounts and indemnity fund—Part 4 
+Trust accounts—Division 2 
+Published under the Legislation Revision and Publication Act 2002 
+13 
+ 
+(c) 
+the administrator or manager may take possession of documents and records 
+forming part of the conveyancer's business and for that purpose may enter 
+business premises of the conveyancer using such force as is reasonably 
+necessary; and 
+ 
+(d) 
+such other powers as the Commissioner sets out in the instrument of 
+appointment of the administrator or the manager. 
+21—Term of appointment of administrator or temporary manager 
+ 
+(1) 
+The appointment of an administrator or temporary manager remains in force for such 
+period (not exceeding 12 months) as is specified in the instrument of appointment 
+unless sooner terminated by the Commissioner or the Tribunal. 
+ 
+(2) 
+Subject to an order of the Tribunal to the contrary, the Commissioner may reappoint 
+an administrator. 
+22—Review of appointment of administrator or temporary manager 
+ 
+(1) 
+A conveyancer may, within 28 days after receiving notice of the appointment of an 
+administrator or temporary manager, seek a review of the appointment by the Tribunal 
+under section 34 of the South Australian Civil and Administrative Tribunal Act 2013. 
+23—Keeping of records 
+ 
+(1) 
+A conveyancer must keep detailed records of all trust money received by the 
+conveyancer and of any disbursement of, or other dealing with, that money and must 
+compile detailed accounts of those receipts and disbursements that— 
+ 
+(a) 
+accurately disclose the state of the trust account maintained by the 
+conveyancer; and 
+ 
+(b) 
+enable the receipt and disposition of trust money to be conveniently and 
+properly audited; and 
+ 
+(c) 
+comply with all other requirements specified by regulation. 
+Maximum penalty: $20 000. 
+ 
+(2) 
+In particular, the conveyancer must, in respect of the receipt of trust money— 
+ 
+(a) 
+make available to the person making payment a receipt that sets out the 
+information specified by regulation in the form specified by regulation; and 
+ 
+(b) 
+make and retain a copy of the receipt as part of the conveyancer's records. 
+Maximum penalty: $20 000. 
+ 
+(3) 
+A conveyancer must, at the request of a person who has an interest in trust money, 
+provide that person with a statement setting out details of dealings by the conveyancer 
+with the money. 
+Maximum penalty: $20 000. 
+ 
+(4) 
+A conveyancer must keep the accounts and records referred to in this section or a 
+corresponding previous enactment in a legible written form, or so as to be readily 
+convertible into such a form, for at least five years. 
+Maximum penalty: $20 000. 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 4—Trust accounts and indemnity fund 
+Division 2—Trust accounts 
+14 
+Published under the Legislation Revision and Publication Act 2002 
+24—Audit of trust accounts 
+ 
+(1) 
+Subject to this section, a conveyancer who maintains a trust account must— 
+ 
+(a) 
+have the accounts and records kept under this Division audited by an auditor 
+in respect of each audit period specified by regulation; and 
+ 
+(b) 
+lodge with the Commissioner a statement relating to the audit that sets out the 
+information specified by regulation. 
+ (1a) If no trust money was held in a conveyancer's trust account during a particular audit 
+period, no audit or statement is required under subsection (1) in relation to that period 
+but the conveyancer must make and lodge with the Commissioner a declaration, in a 
+form approved by the Commissioner, setting out the reasons for not holding any 
+money in the trust account during that period. 
+ 
+(2) 
+A conveyancer, who did not maintain a trust account during a particular audit period, 
+must make and lodge with the Commissioner a declaration, in a form approved by the 
+Commissioner, setting out the reasons for not maintaining a trust account during that 
+period. 
+ 
+(3) 
+A conveyancer who— 
+ 
+(a) 
+fails to have accounts and records audited as required; or 
+ 
+(b) 
+fails to lodge an audit statement or a declaration required under this section 
+within the time allowed by or under the regulations, 
+is guilty of an offence. 
+Maximum penalty: $20 000. 
+ 
+(4) 
+Where a conveyancer fails to lodge an audit statement or a declaration required under 
+this section within the time allowed by or under the regulations, the Commissioner 
+may, by notice in writing, require the conveyancer to make good the default. 
+ 
+(5) 
+Where the conveyancer fails to comply with the notice within 28 days after service of 
+the notice, the conveyancer's registration is cancelled. 
+ 
+(6) 
+The Commissioner must notify the conveyancer of the cancellation of the 
+conveyancer's registration. 
+25—Appointment of examiner 
+ 
+(1) 
+The Commissioner may, at any time, appoint a person— 
+ 
+(a) 
+to examine, either generally or in a particular case, the accounts and records 
+kept under this Division by a conveyancer; and 
+ 
+(b) 
+to examine, either generally or in a particular case, the audit program, 
+working papers and other documents used or prepared by an auditor in the 
+course of auditing the trust accounts of a conveyancer; and 
+ 
+(c) 
+to confer with an auditor in relation to audits of the trust accounts of a 
+conveyancer. 
+ 
+(2) 
+An examiner may, and must if required by the Commissioner to do so, provide the 
+Commissioner with a confidential report as to the state of any accounts or records 
+subject to examination by the examiner. 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Trust accounts and indemnity fund—Part 4 
+Trust accounts—Division 2 
+Published under the Legislation Revision and Publication Act 2002 
+15 
+ 
+(3) 
+The Commissioner must, as soon as practicable, cause a copy of a report provided by 
+an examiner to be given or sent by post to the conveyancer. 
+ 
+(4) 
+In this section— 
+conveyancer includes a former conveyancer. 
+26—Obtaining information for purposes of audit or examination 
+ 
+(1) 
+An auditor employed by a conveyancer to make an audit of the trust accounts of the 
+conveyancer, or an examiner appointed under this Division, may require the 
+conveyancer or any other person in a position to do so— 
+ 
+(a) 
+to produce all the accounts (including accounts that are not trust accounts) 
+relating to the business of the conveyancer and all documents and records 
+relating to those accounts, including written records that reproduce in a 
+readily understandable form information kept by computer, microfilm or 
+other process; and 
+ 
+(b) 
+to provide any relevant information relating to the operation of the accounts. 
+ 
+(2) 
+The manager or other principal officer of an ADI or other financial institution with 
+which a conveyancer has deposited money, whether in his or her own account or in a 
+general or separate trust account, must, on being required to do so by an auditor or 
+examiner employed or appointed to make an audit or examination under this Division, 
+disclose every such account (including all deposit slips, cancelled cheques and other 
+documents relating to the operation of the account) to the auditor or examiner. 
+Maximum penalty: $20 000. 
+ 
+(3) 
+A person who is required by this section to produce documents to an auditor or 
+examiner must permit the auditor or examiner to make a copy of the whole, or any 
+part, of those documents. 
+Maximum penalty: $20 000. 
+ 
+(4) 
+In this section— 
+account includes a record required to be kept under this Division in relation to the 
+receipt and disposition of trust money; 
+conveyancer includes a former conveyancer. 
+27—ADIs etc to report deficiencies in trust accounts 
+An ADI with which a trust account has been established must, as soon as practicable, 
+and in any event within 14 days, after becoming aware of a deficiency in that account, 
+report the deficiency to the Commissioner. 
+Maximum penalty: $20 000. 
+28—Confidentiality 
+ 
+(1) 
+An administrator, temporary manager, auditor or examiner must not divulge 
+information that has come to his or her knowledge in the course of performing 
+functions under this Act or a corresponding previous enactment except— 
+ 
+(a) 
+to the conveyancer; or 
+ 
+(b) 
+to the Commissioner; or 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 4—Trust accounts and indemnity fund 
+Division 2—Trust accounts 
+16 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(c) 
+as otherwise required by law. 
+Maximum penalty: $20 000. 
+ 
+(2) 
+A person engaged in the administration of this Act, must not divulge information 
+disclosed in a report provided under this Part or a corresponding previous enactment 
+except— 
+ 
+(a) 
+for the purpose of confidential consideration of the report by the Minister or 
+the Commissioner; or 
+ 
+(b) 
+as is otherwise necessary for the proper administration of this Act; or 
+ 
+(c) 
+as is otherwise permitted or required by law. 
+Maximum penalty: $20 000. 
+29—ADIs etc not affected by notice of trust 
+ 
+(1) 
+Subject to subsection (2), an ADI is not affected by notice of a specific trust to which 
+money deposited in a trust account is subject, and is not bound to satisfy itself of the 
+due application of that money. 
+ 
+(2) 
+This section does not relieve an ADI of liability for negligence. 
+30—Failing to comply with requirement of administrators etc 
+A person must not— 
+ 
+(a) 
+refuse or fail to comply with a requirement of an administrator, temporary 
+manager, auditor or examiner under this Division; or 
+ 
+(b) 
+hinder, delay or obstruct an administrator, temporary manager, auditor or 
+examiner in the performance of functions under this Division by altering or 
+destroying relevant documents or by any other means. 
+Maximum penalty: $20 000. 
+Division 3—Indemnity fund 
+31—Indemnity fund 
+ 
+(1) 
+The following money is to be paid into the indemnity fund: 
+ 
+(a) 
+interest paid by ADIs to the Commissioner on trust accounts; and 
+ 
+(b) 
+money recovered by the Commissioner in relation to a fiduciary default; and 
+ 
+(c) 
+fines recovered as a result of disciplinary proceedings under Part 5; and 
+ 
+(d) 
+any other money required to be paid into the fund under this or any other Act. 
+ 
+(2) 
+Money standing to the credit of the indemnity fund may be applied by the 
+Commissioner for any of the following purposes: 
+ 
+(a) 
+the costs of investigating compliance with this Act, compliance with the Land 
+and Business (Sale and Conveyancing) Act 1994 by conveyancers or possible 
+misconduct of conveyancers; 
+ (ab) the costs of conciliating disputes relating to the activities of conveyancers; 
+ (ac) the costs of disciplinary proceedings under Part 5; 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Trust accounts and indemnity fund—Part 4 
+Indemnity fund—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+17 
+ 
+(b) 
+the costs of prosecutions for offences against this Act or for alleged offences 
+by conveyancers against the Land and Business (Sale and Conveyancing) 
+Act 1994; 
+ 
+(c) 
+costs consequent on the appointment of an administrator, temporary manager 
+or examiner under this Act; 
+ 
+(d) 
+the costs of processing claims under this Division and of paying out those 
+claims to the extent authorised by this Division; 
+ 
+(e) 
+the costs of administering and insuring the fund; 
+ 
+(f) 
+the payment of amounts, approved by the Minister, towards the cost of— 
+ 
+(i) 
+prescribed educational programs conducted for the benefit of 
+conveyancers or members of the public; or 
+ 
+(ii) 
+reviewing the operation of this Act or the operation of the Land and 
+Business (Sale and Conveyancing) Act 1994 insofar as it relates to 
+conveyancers; 
+ 
+(g) 
+any other purpose specified by or under this or any other Act. 
+32—Claims on indemnity fund 
+ 
+(1) 
+A person who has suffered a pecuniary loss as a result of a fiduciary default may make 
+a claim for compensation to the Commissioner. 
+ 
+(2) 
+The amount of the claim cannot exceed the sum of— 
+ 
+(a) 
+the actual pecuniary loss suffered by the claimant in consequence of the 
+fiduciary default; and 
+ 
+(b) 
+any reasonable legal expenses incurred in taking action to recover the loss or 
+in making the claim to the Commissioner, 
+less any amount that the claimant has received or may reasonably be expected to 
+recover (apart from this Division) in reduction of the loss. 
+ 
+(3) 
+A person is not entitled to make a claim under this Division where— 
+ 
+(a) 
+the conveyancer by whom the fiduciary default was committed, or to whom 
+the fiduciary default relates, was required to be registered or licensed under 
+this Act or a corresponding previous enactment; and 
+ 
+(b) 
+that person knew, or ought to have known, at the time of appointing or 
+instructing the conveyancer, that the conveyancer was not so registered or 
+licensed. 
+33—Limitation of claims 
+ 
+(1) 
+The Commissioner may, by notice published in a newspaper circulating generally 
+throughout the State, fix a day (not earlier than three months after the publication of 
+the notice) on or before which claims in respect of a fiduciary default, or a series of 
+fiduciary defaults, referred to in the notice, must be made. 
+ 
+(2) 
+A claim that is not made within the time fixed by the notice is barred unless the 
+Tribunal, on application, otherwise determines. 
+ 
+(3) 
+No action in defamation lies in respect of the publication, in good faith, of the notice. 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 4—Trust accounts and indemnity fund 
+Division 3—Indemnity fund 
+18 
+Published under the Legislation Revision and Publication Act 2002 
+34—Establishment and determination of claims 
+ 
+(1) 
+A claim for compensation must be made to the Commissioner in a manner and form 
+determined by the Commissioner. 
+ (1a) The Commissioner may require a person making a claim— 
+ 
+(a) 
+to furnish further information specified by the Commissioner; 
+ 
+(b) 
+to verify, by statutory declaration, information furnished for the purposes of 
+making or establishing a claim. 
+ 
+(2) 
+The Commissioner must, on receipt of a claim for compensation— 
+ 
+(a) 
+give the claimant and the conveyancer or former conveyancer concerned 
+notice of the claim in accordance with the regulations; and 
+ 
+(b) 
+allow the claimant and the conveyancer or former conveyancer a reasonable 
+opportunity to appear before the Commissioner personally or by 
+representative to make submissions as to the claim. 
+ 
+(3) 
+The Commissioner may do any 1 or more of the following in response to the claim: 
+ 
+(a) 
+require the claimant to take specified action to recover the loss (and postpone 
+determination of the claim); 
+ 
+(b) 
+determine the claim and, if appropriate, make a payment to the claimant from 
+the indemnity fund; 
+ 
+(c) 
+require the claimant to make contractual undertakings as to the assistance that 
+the claimant must give the Commissioner in any action taken by the 
+Commissioner to recover the loss. 
+ 
+(4) 
+In deciding whether to require the claimant to take action to recover the loss, and in 
+deciding what action the claimant should be required to take to recover the loss, the 
+Commissioner is to consider the size of the claim, the complexity of the case, the 
+claimant's financial circumstances, the claimant's mental or physical health or capacity 
+and any other factors that the Commissioner considers relevant. 
+ 
+(5) 
+The Commissioner must— 
+ 
+(a) 
+keep the claimant informed of the progress of the claim in accordance with 
+the regulations; and 
+ 
+(b) 
+on making a determination on a claim, give the claimant and the conveyancer 
+or former conveyancer written notice of the determination. 
+35—Claims by conveyancers 
+ 
+(1) 
+A conveyancer who has paid compensation to a person for pecuniary loss suffered in 
+consequence of a fiduciary default committed by a partner or employee of the 
+conveyancer may make a claim for compensation to the Commissioner. 
+ 
+(2) 
+The Commissioner must, on receipt of the claim, if satisfied that— 
+ 
+(a) 
+all legal or equitable claims in respect of the fiduciary default have been fully 
+satisfied; and 
+ 
+(b) 
+the claimant acted honestly and reasonably in all the circumstances of the 
+case, 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Trust accounts and indemnity fund—Part 4 
+Indemnity fund—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+19 
+determine the amount of compensation payable to the claimant and, by notice in 
+writing, inform the claimant of the determination. 
+ 
+(3) 
+A person is not entitled to make a claim under this section where— 
+ 
+(a) 
+the conveyancer by whom the fiduciary default was committed, or to whom 
+the fiduciary default relates, was required to be registered or licensed under 
+this Act or a corresponding previous enactment; and 
+ 
+(b) 
+that person knew, or ought to have known, at the time of the default, that the 
+conveyancer was not so registered or licensed. 
+36—Personal representative may make claim 
+The personal representative of a claimant (including a deceased claimant) is entitled to 
+make the claim on behalf of the claimant or the claimant's estate. 
+37—Review of Commissioner's determination 
+ 
+(1) 
+The claimant or the conveyancer or former conveyancer by whom the fiduciary 
+default was committed or to whom the fiduciary default relates may seek a review of 
+the Commissioner's determination by the Tribunal under section 34 of the South 
+Australian Civil and Administrative Tribunal Act 2013. 
+ (1a) An application for review may be made to the Tribunal within 3 months after the 
+person receives notice of the determination. 
+ 
+(2) 
+Where an application for review is not made within the time allowed, the claimant's 
+entitlement to compensation is finally determined for the purposes of this Division. 
+38—Determination, evidence and burden of proof 
+ 
+(1) 
+In determining a claim for compensation under this Division, any possible reduction to 
+which the claimant's entitlement may be subject because of insufficiency of the 
+indemnity fund must be disregarded. 
+ 
+(2) 
+In determining a claim for compensation under this Division— 
+ 
+(a) 
+an admission or confession may be accepted as evidence of a fiduciary 
+default despite the absence of the person by whom the admission or 
+confession was made; and 
+ 
+(b) 
+questions of fact are to be decided on the balance of probabilities. 
+39—Claimant's entitlement to compensation and interest 
+ 
+(1) 
+Subject to any reduction because of insufficiency of the indemnity fund, a claimant is 
+entitled to payment of the amount of compensation determined under this Division. 
+ 
+(2) 
+A claimant's entitlement to compensation will (to the extent to which it has not been 
+satisfied or discharged) be increased by interest at the rate fixed by regulation from the 
+first anniversary of the lodgment of the claim with the Commissioner until the 
+entitlement is satisfied or discharged, but interest must not be calculated on any 
+component of the claimant's entitlement that is attributable to interest that has already 
+accrued under this subsection. 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 4—Trust accounts and indemnity fund 
+Division 3—Indemnity fund 
+20 
+Published under the Legislation Revision and Publication Act 2002 
+40—Rights of Commissioner 
+ 
+(1) 
+Where the Commissioner makes a payment (whether in respect of compensation or 
+interest) to a claimant, the Commissioner is, to the extent of the payment, subrogated 
+to the rights of the claimant against a person liable at law or in equity for the fiduciary 
+default in respect of which the payment was made. 
+ 
+(2) 
+However, this section does not confer on the Commissioner any right to recover 
+money from a person whose liability in respect of a fiduciary default does not arise 
+from a wrongful or negligent act or omission on that person's part. 
+41—Insurance in respect of claims against indemnity fund 
+ 
+(1) 
+The Commissioner may insure the indemnity fund to such extent as the Commissioner 
+thinks fit against claims under this Division. 
+ 
+(2) 
+The cost of the insurance will be paid from the indemnity fund. 
+42—Insufficiency of indemnity fund 
+ 
+(1) 
+Where the indemnity fund is insufficient to pay all outstanding amounts to which 
+claimants are entitled, the Commissioner must make proportionate reductions in the 
+amounts paid out in respect of those entitlements. 
+ 
+(2) 
+Where, at the time at which a claimant's entitlement to compensation is determined, 
+other persons have made claims that have not yet been determined, the Commissioner 
+may defer payment of the claimant's entitlement for any period (not exceeding 
+12 months) in order to allow time for the entitlements of those other claimants to be 
+determined. 
+ 
+(3) 
+The Commissioner may set aside a part of the indemnity fund as the Commissioner 
+from time to time considers necessary to protect the interests of persons who— 
+ 
+(a) 
+have made claims against the fund that have not been determined; or 
+ 
+(b) 
+are likely to make claims against the fund in the future, 
+and, when determining whether payments to claimants should be reduced, the 
+Commissioner must not take into account a part of the fund set aside by the 
+Commissioner. 
+ 
+(4) 
+If, after a claimant's entitlement to compensation has been determined, the claimant 
+recovers an amount (that was not allowed for in that determination) in respect of the 
+pecuniary loss suffered by the claimant, the claimant's entitlement to compensation is 
+reduced by the amount recovered. 
+ 
+(5) 
+Entitlements in respect of which payments are made under this section are discharged 
+despite the fact that they may not have been satisfied in full. 
+ 
+(6) 
+The Commissioner may, with the approval of the Minister, make payments to a 
+person— 
+ 
+(a) 
+whose entitlement to compensation has been discharged; or 
+ 
+(b) 
+whose entitlement to compensation is insufficient because an amount that the 
+person was expected to recover in respect of the pecuniary loss has not been 
+recovered; or 
+ 
+(c) 
+whose claim is barred, 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Trust accounts and indemnity fund—Part 4 
+Indemnity fund—Division 3 
+Published under the Legislation Revision and Publication Act 2002 
+21 
+but a payment so made does not revive or reinstate an entitlement or claim. 
+43—Accounts and audit 
+ 
+(1) 
+The Commissioner must keep proper accounts of all money received and dealt with 
+under this Division. 
+ 
+(2) 
+The Auditor-General may at any time, and must at least once in every calendar year, 
+audit those accounts. 
+Part 5—Discipline 
+44—Interpretation of Part 5 
+In this Part— 
+conveyancer includes— 
+ 
+(a) 
+a former conveyancer; and 
+ 
+(b) 
+a person registered as a conveyancer, whether or not carrying on business as a 
+conveyancer; and 
+ 
+(c) 
+a person formerly registered as a conveyancer; 
+director of a company includes a former director of a company. 
+45—Cause for disciplinary action 
+ 
+(1) 
+There is proper cause for disciplinary action against a conveyancer if— 
+ 
+(a) 
+registration of the conveyancer was improperly obtained; or 
+ 
+(b) 
+the conveyancer has acted contrary to an assurance accepted by the 
+Commissioner under the Fair Trading Act 1987; or 
+ 
+(c) 
+the conveyancer or any other person has acted contrary to this Act or 
+otherwise unlawfully, or improperly, negligently or unfairly, in the course of 
+conducting, or being employed or otherwise engaged in, the business of the 
+conveyancer; or 
+ (ca) in the case of a conveyancer who has been employed or engaged to manage 
+and supervise a company's business as a conveyancer—the conveyancer or 
+any other person has acted unlawfully, improperly, negligently or unfairly in 
+the course of managing or supervising, or being employed or otherwise 
+engaged in, that business; or 
+ (cb) in the case of a conveyancer that is a company—a director or manager of the 
+company has been convicted of an offence against section 9B; or 
+ 
+(d) 
+events have occurred such that the conveyancer would not be entitled to be 
+registered as a conveyancer if the conveyancer were to apply for registration. 
+ 
+(2) 
+Disciplinary action may be taken against each director of a company that is a 
+conveyancer if there is proper cause for disciplinary action against the company. 
+ 
+(3) 
+Disciplinary action may not be taken against a person in relation to the act or default 
+of another if that person could not reasonably be expected to have prevented that act 
+or default. 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 5—Discipline 
+ 
+22 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(4) 
+This section applies in relation to conduct occurring before or after the 
+commencement of this Act. 
+46—Complaints 
+The Commissioner or any other person may lodge with the Tribunal a complaint 
+setting out matters that are alleged to constitute grounds for disciplinary action under 
+this Part. 
+47—Hearing by Tribunal 
+ 
+(1) 
+On the lodging of a complaint, the Tribunal may conduct a hearing for the purpose of 
+determining whether the matters alleged in the complaint constitute grounds for 
+disciplinary action under this Part. 
+ 
+(2) 
+Without limiting the usual powers of the Tribunal, the Tribunal may during the 
+hearing— 
+ 
+(a) 
+allow an adjournment to enable the Commissioner to investigate or further 
+investigate matters to which the complaint relates; and 
+ 
+(b) 
+allow the modification of the complaint or additional allegations to be 
+included in the complaint subject to any conditions as to adjournment and 
+notice to parties and other conditions that the Tribunal may think fit to 
+impose. 
+48—Participation of assessors in disciplinary proceedings 
+ 
+(1) 
+For the purposes of section 22 of the South Australian Civil and Administrative 
+Tribunal Act 2013, there will be a panel of assessors consisting of— 
+ 
+(a) 
+persons representative of conveyancers; and 
+ 
+(b) 
+persons representative of members of the public who deal with conveyancers, 
+who have expertise that would be of value to the Tribunal in relation to proceedings 
+before the Tribunal under this Part. 
+ 
+(2) 
+In any proceedings under this Part, the Tribunal may, if the President so determines, 
+sit with 1 or more assessors from the panel. 
+ 
+(3) 
+In this section— 
+President means the President of the Tribunal appointed under the South Australian 
+Civil and Administrative Tribunal Act 2013. 
+49—Disciplinary action 
+ 
+(1) 
+On the hearing of a complaint, the Tribunal may, if it is satisfied on the balance of 
+probabilities that there is proper cause for taking disciplinary action against the person 
+to whom the complaint relates, by an order or orders do one or more of the following: 
+ 
+(a) 
+reprimand the person; 
+ 
+(b) 
+impose a fine not exceeding $20 000 on the person; 
+ 
+(c) 
+in the case of a person who is registered as a conveyancer— 
+ (ai) impose conditions or further conditions on the registration; or 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Discipline—Part 5 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+23 
+ 
+(i) 
+suspend the registration for a specified period or until the fulfilment 
+of stipulated conditions or until further order; or 
+ 
+(ii) 
+cancel the registration; 
+ 
+(d) 
+in the case of a person whose registration is suspended—impose conditions as 
+to the conduct of the person or the person's business as a conveyancer after 
+the end of the period of suspension; 
+ 
+(e) 
+disqualify the person from being registered under this Act; 
+ 
+(f) 
+prohibit the person from being employed or otherwise engaged in the 
+business of a conveyancer; 
+ 
+(g) 
+prohibit the person from being a director of a company that is a conveyancer. 
+ 
+(2) 
+The Tribunal may— 
+ 
+(a) 
+stipulate that a disqualification or prohibition is to apply— 
+ 
+(i) 
+permanently; or 
+ 
+(ii) 
+for a specified period; or 
+ (iii) until the fulfilment of stipulated conditions; or 
+ (iv) until further order; 
+ 
+(b) 
+stipulate that an order relating to a person is to have effect at a specified 
+future time and impose conditions as to the conduct of the person or the 
+person's business until that time. 
+ 
+(3) 
+A fine imposed under subsection (1) is payable to the Commissioner for the credit of 
+the indemnity fund. 
+ 
+(4) 
+If— 
+ 
+(a) 
+a person has been found guilty of an offence; and 
+ 
+(b) 
+the circumstances of the offence form, in whole or in part, the subject matter 
+of the complaint, 
+the person is not liable to a fine under this section in respect of conduct giving rise to 
+the offence. 
+50—Contravention of orders 
+ 
+(1) 
+If a person contravenes or fails to comply with a condition imposed by the Tribunal as 
+to the conduct of the person or the person's business, the person is guilty of an offence. 
+Maximum penalty: $35 000 or imprisonment for 6 months. 
+ 
+(2) 
+If a person— 
+ 
+(a) 
+is employed or otherwise engages in the business of a conveyancer; or 
+ 
+(b) 
+becomes a director of a company that is a conveyancer, 
+in contravention of an order of the Tribunal, that person and the conveyancer are each 
+guilty of an offence. 
+Maximum penalty: $35 000 or imprisonment for 6 months. 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 6—Miscellaneous 
+ 
+24 
+Published under the Legislation Revision and Publication Act 2002 
+Part 6—Miscellaneous 
+51—Delegations 
+ 
+(1) 
+The Commissioner may delegate any of the Commissioner's functions or powers 
+under this Act— 
+ 
+(a) 
+to a person employed in the Public Service; or 
+ 
+(b) 
+to the person for the time being holding a specified position in the Public 
+Service; or 
+ 
+(c) 
+to any other person under an agreement under this Act between the 
+Commissioner and an organisation representing the interests of conveyancers. 
+ 
+(2) 
+The Minister may delegate any of the Minister's functions or powers under this Act 
+(except the power to direct the Commissioner). 
+ 
+(3) 
+A delegation under this section— 
+ 
+(a) 
+must be in writing; and 
+ 
+(b) 
+may be conditional or unconditional; and 
+ 
+(c) 
+is revocable at will; and 
+ 
+(d) 
+does not prevent the delegator from acting in any matter. 
+52—Agreement with professional organisation 
+ 
+(1) 
+The Commissioner may, with the approval of the Minister, make an agreement with 
+an organisation representing the interests of conveyancers under which the 
+organisation undertakes a specified role in the administration or enforcement of this 
+Act. 
+ 
+(2) 
+The agreement— 
+ 
+(a) 
+must be in writing and executed by the Commissioner and the organisation; 
+and 
+ 
+(b) 
+may contain delegations by the Commissioner of functions or powers under 
+this Act or the Fair Trading Act 1987; and 
+ 
+(c) 
+must set out any conditions governing the performance or exercise of 
+functions or powers conferred on the organisation; and 
+ 
+(d) 
+must make provision for the variation and termination of the agreement by 
+the Commissioner with the approval of the Minister or the organisation. 
+ 
+(3) 
+The Commissioner may not delegate any of the following for the purposes of the 
+agreement: 
+ 
+(a) 
+functions or powers under Part 2; 
+ 
+(b) 
+the approval of classes of accounts at ADIs under Division 2 of Part 4; 
+ 
+(c) 
+the appointment, reappointment or termination of appointment of a person to 
+administer a conveyancer's trust account or of a temporary manager under 
+Division 2 of Part 4; 
+ 
+(d) 
+functions or powers under Division 3 of Part 4; 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Miscellaneous—Part 6 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+25 
+ 
+(e) 
+power to request the Commissioner of Police to investigate and report on 
+matters under Part 6; 
+ 
+(f) 
+power to commence a prosecution for an offence against this Act. 
+ 
+(4) 
+A delegation by the Commissioner for the purposes of the agreement— 
+ 
+(a) 
+has effect subject to the conditions specified in the agreement; and 
+ 
+(b) 
+may be varied or revoked by the Commissioner in accordance with the terms 
+of the agreement; and 
+ 
+(c) 
+does not prevent the Commissioner from acting in any matter. 
+ 
+(5) 
+The Minister must, within six sitting days after the making of the agreement, cause a 
+copy of the agreement to be laid before both Houses of Parliament. 
+53—Exemptions 
+ 
+(1) 
+The Minister may, on application by a person, exempt the person from compliance 
+with a specified provision of this Act. 
+ 
+(2) 
+An exemption is subject to the conditions (if any) imposed by the Minister. 
+ 
+(3) 
+The Minister may, at his or her discretion, vary or revoke an exemption. 
+ 
+(4) 
+The grant or a variation or revocation of an exemption must be notified in the Gazette. 
+54—Register of conveyancers 
+ 
+(1) 
+The Commissioner must keep a register of persons registered as conveyancers under 
+this Act. 
+ 
+(2) 
+The Commissioner must record on the register— 
+ 
+(a) 
+disciplinary action taken against a person under this Act; and 
+ 
+(b) 
+a note of any assurance accepted by the Commissioner under the Fair 
+Trading Act 1987 in relation to a registered conveyancer. 
+ (2a) If any of the following events occur in relation to a person who is registered as a 
+conveyancer, or is a director of a company that is registered as a conveyancer, the 
+Commissioner may record a note of the event on the register: 
+ 
+(a) 
+the person is convicted of an offence of dishonesty; 
+ 
+(b) 
+the person is suspended or disqualified from practising or carrying on an 
+occupation, trade or business under a law of this State, the Commonwealth, 
+another State or a Territory of the Commonwealth; 
+ 
+(c) 
+the person becomes an insolvent under administration within the meaning of 
+the Corporations Act 2001 of the Commonwealth; 
+ 
+(d) 
+a body corporate is wound up for the benefit of creditors and the person was a 
+director of the body corporate— 
+ 
+(i) 
+when the body corporate was being so wound up; or 
+ 
+(ii) 
+within the period of 6 months preceding the commencement of the 
+winding up; 
+ 
+(e) 
+the person, being a company, is being wound up or is under official 
+management or in receivership. 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 6—Miscellaneous 
+ 
+26 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(3) 
+A person may inspect the register on payment of the fee fixed by regulation. 
+55—Commissioner and proceedings before Tribunal 
+ 
+(1) 
+The Commissioner is entitled to be joined as a party to any proceedings of the 
+Tribunal under this Act. 
+ 
+(2) 
+The Commissioner may appear personally in any such proceedings or may be 
+represented at the proceedings by counsel or a person employed in the Public Service. 
+ 
+(3) 
+Subsection (1) applies in addition to section 53 of the South Australian Civil and 
+Administrative Tribunal Act 2013. 
+56—False or misleading information 
+A person must not make a statement that is false or misleading in a material particular 
+(whether by reason of the inclusion or omission of any particular) in any information 
+provided, or record kept, under this Act. 
+Maximum penalty:  
+ 
+(a) 
+If the person made the statement knowing that it was false or 
+misleading—$10 000. 
+ 
+(b) 
+In any other case—$2 500. 
+57—Statutory declaration 
+Where a person is required to provide information to the Commissioner, the 
+Commissioner may require the information to be verified by statutory declaration and, 
+in that event, the person will not be taken to have provided the information as required 
+unless it has been verified in accordance with the requirements of the Commissioner. 
+58—Investigations 
+The Commissioner of Police must, at the request of the Commissioner, investigate and 
+report on any matter relevant to— 
+ 
+(a) 
+the determination of an application under this Act; or 
+ 
+(b) 
+a matter that might constitute proper cause for disciplinary action under this 
+Act. 
+59—General defence 
+It is a defence to a charge of an offence against this Act if the defendant proves that 
+the offence was not committed intentionally and did not result from any failure on the 
+part of the defendant to take reasonable care to avoid the commission of the offence. 
+60—Liability for act or default of officer, employee or agent 
+For the purposes of this Act, an act or default of an officer, employee or agent of a 
+person carrying on a business will be taken to be an act or default of that person unless 
+it is proved that the officer, employee or agent acted outside the scope of his or her 
+actual, usual and ostensible authority. 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Miscellaneous—Part 6 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+27 
+62—Continuing offence 
+ 
+(1) 
+A person convicted of an offence against a provision of this Act in respect of a 
+continuing act or omission— 
+ 
+(a) 
+is liable, in addition to the penalty otherwise applicable to the offence, to a 
+penalty for each day during which the act or omission continued of not more 
+than one-tenth of the maximum penalty prescribed for that offence; and 
+ 
+(b) 
+is, if the act or omission continues after the conviction, guilty of a further 
+offence against the provision and liable, in addition to the penalty otherwise 
+applicable to the further offence, to a penalty for each day during which the 
+act or omission continued after the conviction of not more than one-tenth of 
+the maximum penalty prescribed for the offence. 
+ 
+(2) 
+Where an offence consists of an omission to do something that is required to be done, 
+the omission will be taken to continue for as long as the thing required to be done 
+remains undone after the end of the period for compliance with the requirement. 
+63—Prosecutions 
+ 
+(1) 
+Proceedings for an offence against this Act must be commenced— 
+ 
+(a) 
+in the case of an expiable offence—within the time limits prescribed for 
+expiable offences by the Summary Procedure Act 1921; 
+ 
+(b) 
+in any other case—within 2 years of the date on which the offence is alleged 
+to have been committed or, with the authorisation of the Minister, at a later 
+time within 5 years of that date. 
+ 
+(2) 
+A prosecution for an offence against this Act cannot be commenced except by— 
+ 
+(a) 
+the Commissioner; or 
+ 
+(b) 
+an authorised officer under the Fair Trading Act 1987; or 
+ 
+(c) 
+a person who has the consent of the Minister to commence the prosecution. 
+ 
+(3) 
+In any proceedings, an apparently genuine document purporting to be a certificate of 
+the Minister certifying authorisation of, or consent to, a prosecution for an offence 
+against this Act will be accepted, in the absence of proof to the contrary, as proof of 
+the authorisation or consent. 
+64—Evidence 
+In any proceedings, a certificate executed by the Commissioner certifying— 
+ 
+(a) 
+that a person was or was not registered as a conveyancer on a specified date; 
+or 
+ 
+(b) 
+as to any matter relating to the appointment of an administrator, temporary 
+manager or examiner, 
+constitutes proof, in the absence of proof to the contrary, of the matters so certified. 
+65—Service of documents 
+ 
+(1) 
+Subject to this Act, a notice or document required or authorised by this Act to be given 
+to or served on a person may— 
+ 
+(a) 
+be served on the person personally; or 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Part 6—Miscellaneous 
+ 
+28 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(b) 
+be posted in an envelope addressed to the person— 
+ 
+(i) 
+at the person's last known address; or 
+ 
+(ii) 
+where the person is a registered conveyancer—at the person's 
+address for service; or 
+ 
+(c) 
+where the person is a registered conveyancer—be left for the person at the 
+address for service with someone apparently over the age of 16 years; or 
+ 
+(d) 
+be transmitted by facsimile transmission to a facsimile number provided by 
+the person (in which case the notice or document will be taken to have been 
+given or served at the time of transmission). 
+ 
+(2) 
+The address for service of a registered conveyancer is the address of which the 
+Commissioner has been last notified in writing by the conveyancer as the 
+conveyancer's address for service. 
+66—Annual report 
+ 
+(1) 
+The Commissioner must, on or before 31 October in each year, submit to the Minister 
+a report on the administration of this Act during the period of 12 months ending on the 
+preceding 30 June. 
+ 
+(2) 
+The report must contain the audited statement of accounts of the indemnity fund for 
+the period to which the report relates. 
+ 
+(3) 
+The Minister must, within six sitting days after receipt of the report, cause a copy of 
+the report to be laid before each House of Parliament. 
+67—Regulations 
+ 
+(1) 
+The Governor may make such regulations as are contemplated by, or necessary or 
+expedient for the purposes of, this Act. 
+ 
+(2) 
+Without limiting the generality of subsection (1), the regulations may— 
+ 
+(a) 
+require registered conveyancers to comply with a code of conduct; 
+ 
+(b) 
+require conveyancers to lodge with the Commissioner certificates evidencing 
+the conveyancer's insurance coverage as required under Part 2; 
+ 
+(c) 
+fix fees to be paid in respect of any matter under this Act and regulate the 
+recovery, refund, waiver or reduction of such fees; 
+ 
+(d) 
+exempt (conditionally or unconditionally) classes of persons or activities from 
+the application of this Act or specified provisions of this Act; 
+ 
+(e) 
+impose a penalty (not exceeding $2 500) for contravention of, or 
+non-compliance with, a regulation; 
+ 
+(f) 
+fix expiation fees, not exceeding $210, for alleged offences against the 
+regulations. 
+ 
+(3) 
+Regulations under this Act— 
+ 
+(a) 
+may be of general application or limited application; 
+ 
+(b) 
+may make different provision according to the matters or circumstances to 
+which they are expressed to apply; 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Miscellaneous—Part 6 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+29 
+ 
+(c) 
+may provide that a matter or thing in respect of which regulations may be 
+made is to be determined according to the discretion of the Commissioner or 
+the Minister. 
+ 
+(4) 
+The regulations may operate by reference to a specified code as in force at a specified 
+time or as in force from time to time. 
+ 
+(5) 
+If a code is referred to in the regulations— 
+ 
+(a) 
+a copy of the code must be kept available for inspection by members of the 
+public, without charge and during normal office hours, at an office 
+determined by the Minister; and 
+ 
+(b) 
+evidence of the contents of the code may be given in any legal proceedings by 
+production of a document apparently certified by the Minister to be a true 
+copy of the code. 
+Schedule 2—Transitional provisions 
+1—General 
+ 
+(1) 
+A person who held a licence as a land broker under the Land Agents, Brokers and 
+Valuers Act 1973 immediately before the commencement of this Act will be taken to 
+have been registered as a conveyancer under this Act. 
+ 
+(2) 
+An approval, appointment or order in force under the Land Agents, Brokers and 
+Valuers Act 1973 immediately before the commencement of this Act in relation to a 
+land broker or former land broker will be taken to be an approval, appointment or 
+order in force under the corresponding provision of this Act. 
+ 
+(3) 
+A notice given or served under the Land Agents, Brokers and Valuers Act 1973 in 
+relation to a land broker or former land broker has effect as a notice given or served 
+under the corresponding provision of this Act. 
+ 
+(4) 
+A reference in an Act or other instrument to a licensed land broker will be taken to be 
+a reference to a conveyancer registered under this Act. 
+2—Mortgage financiers 
+ 
+(1) 
+In this clause— 
+mortgage financier means a person who— 
+ 
+(a) 
+is— 
+ 
+(i) 
+a conveyancer; or 
+ 
+(ii) 
+an associate of a conveyancer; and 
+ 
+(b) 
+engages in mortgage financing; 
+trust money, in relation to a mortgage financier, means money received by a mortgage 
+financier in the mortgage financier's capacity as such to which the mortgage financier 
+is not wholly entitled at law and in equity. 
+ 
+(2) 
+For the purposes of this clause, a person is an associate of another if— 
+ 
+(a) 
+they are partners; or 
+ 
+(b) 
+one is a spouse, domestic partner, parent or child of the other; or 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Schedule 2—Transitional provisions 
+ 
+30 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(c) 
+they are both trustees or beneficiaries of the same trust, or one is a trustee and 
+the other is a beneficiary of the same trust; or 
+ 
+(d) 
+one is a body corporate and the other is a director of the body corporate; or 
+ 
+(e) 
+one is body corporate and the other is a person who has a legal or equitable 
+interest in five per cent or more of the share capital of the body corporate; or 
+ 
+(f) 
+a chain of relationships can be traced between them under any one or more of 
+the above paragraphs. 
+ 
+(3) 
+This clause applies— 
+ 
+(a) 
+to trust money received by a mortgage financier before the commencement of 
+this Act; and 
+ 
+(b) 
+where trust money received by a mortgage financier was lent to another on 
+the security of a mortgage before the commencement of this Act—to trust 
+money received by the mortgage financier (whether before or after that 
+commencement) by way of payment of principal or interest, or both, under 
+that loan. 
+ 
+(4) 
+Part 4 applies to a mortgage financier as if— 
+ 
+(a) 
+a reference in that Part to a conveyancer were a reference to a mortgage 
+financier; and 
+ 
+(b) 
+a reference in that Part to trust money were a reference to trust money to 
+which this clause applies. 
+ 
+(5) 
+The power of the Governor to make regulations under this Act includes power to 
+make regulations requiring mortgage financiers to provide specified information to 
+prospective investors or regulating or making provision with respect to any other 
+matter relating to mortgage financiers. 
+3—Special provisions relating to Growden Investments 
+ 
+(1) 
+A failure on the part of Growden Investments to disclose material facts with respect to 
+the investment of trust money to which clause 2 applies will be taken to be a fiduciary 
+default for the purposes of Part 4. 
+ 
+(2) 
+Subclause (1) applies with respect to any such failure on the part of Growden 
+Investments (and accordingly the Commissioner must, to the extent that a relevant 
+claim based on a failure on the part of Growden Investments to disclose material facts 
+has been rejected, on application by the claimant, reassess the claim). 
+ 
+(3) 
+Despite clause 2(4), no interest is payable under section 39(2) with respect to an 
+entitlement to compensation arising from fiduciary default on the part of Growden 
+Investments. 
+ 
+(4) 
+In this clause— 
+Growden Investments means G.C. Growden Pty. Ltd. and includes any associate of 
+G.C. Growden Pty. Ltd. (as in existence at any time). 
+ 
+(5) 
+For the purposes of this clause, a person is an associate of G.C. Growden Pty. Ltd. if 
+the person would be an associate of that person under clause 2 (assuming (if necessary 
+for the purposes of this provision) the continued existence of that person and that 
+company). 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+31 
+Legislative history 
+Notes 
+ 
+• 
+Please note—References in the legislation to other legislation or instruments or to 
+titles of bodies or offices are not automatically updated as part of the program for the 
+revision and publication of legislation and therefore may be obsolete. 
+ 
+• 
+Earlier versions of this Act (historical versions) are listed at the end of the legislative 
+history. 
+ 
+• 
+For further information relating to the Act and subordinate legislation made under the 
+Act see the Index of South Australian Statutes or www.legislation.sa.gov.au. 
+Principal Act and amendments 
+New entries appear in bold. 
+Year No 
+Title 
+Assent 
+Commencement 
+1994 86 
+ Conveyancers Act 1994 
+15.12.1994 
+1.6.1995 (Gazette 25.5.1995 p2198) 
+except s 9—15.12.1996 (s 7(5) Acts 
+Interpretation Act 1915) 
+1995 96 
+ Statutes Amendment (Sunday 
+Auctions and Indemnity Fund) 
+Act 1995 
+7.12.1995 
+Pt 3 (s 5)—7.12.1995: s 2(1) 
+1996 34 
+ Statutes Amendment and Repeal 
+(Common Expiation Scheme) Act 1996 
+2.5.1996 
+Sch (cl 13)—3.2.1997 (Gazette 
+19.12.1996 p1923) 
+1998 21 
+ Statutes Amendment (Consumer 
+Affairs) Act 1998 as amended by 
+22/1998 
+2.4.1998 
+Pt 5 (ss 12—15) and Sch 
+(cl 3)—28.5.1998 (Gazette 28.5.1998 
+p2292) 
+1998 22 
+ Statutes Amendment (Consumer 
+Affairs) Amendment Act 1998 
+2.4.1998 
+2.4.1998 
+1999 33 
+ Financial Sector Reform (South 
+Australia) Act 1999 
+17.6.1999 
+Sch (item 12)—1.7.1999 being the date 
+specified under s 3(16) of the Financial 
+Sector Reform (Amendments and 
+Transitional Provisions) Act (No. 1) 1999 
+of the Commonwealth as the transfer date 
+for the purposes of that Act: s 2(2) 
+2000 4 
+ District Court (Administrative and 
+Disciplinary Division) Amendment 
+Act 2000 
+20.4.2000 
+Sch 1 (cl 6)—1.6.2000 (Gazette 
+18.5.2000 p2554) 
+2001 47 
+ Statutes Amendment (Consumer 
+Affairs) Act 2001 
+11.10.2001 
+Pt 3 (s 10)—1.11.2001 (Gazette 
+25.10.2001 p4686) 
+2003 4 
+ Statutes Amendment and Repeal 
+(National Competition Policy) 
+Act 2003 
+29.5.2003 
+Pt 2 (ss 4 & 5)—1.7.2003 (Gazette 
+26.6.2003 p2811) 
+2004 26 
+ Conveyancers (Corporate Structures) 
+Amendment Act 2004 
+29.7.2004 
+1.12.2004 (Gazette 28.10.2004 p4083) 
+2004 29 
+ Land Agents (Indemnity 
+Fund-Growden Default) Amendment 
+Act 2004 
+29.7.2004 
+Pt 3 (s 8)—1.9.2004: s 2 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Legislative history 
+ 
+32 
+Published under the Legislation Revision and Publication Act 2002 
+2006 43 
+ Statutes Amendment (Domestic 
+Partners) Act 2006 
+14.12.2006 
+Pt 17 (ss 53—55)—1.6.2007 (Gazette 
+26.4.2007 p1352) 
+2007 28 
+ Statutes Amendment (Real Estate 
+Industry Reform) Act 2007 
+2.8.2007 
+Pt 2 (ss 4—9)—28.7.2008 (Gazette 
+3.7.2008 p3203) 
+2009 39 
+ Statutes Amendment and Repeal 
+(Fair Trading) Act 2009 
+23.7.2009 
+Pt 4 (ss 9 & 10)—3.9.2009 (Gazette 
+3.9.2009 p4367) 
+2013 16 
+ Statutes Amendment (Directors' 
+Liability) Act 2013 
+23.5.2013 
+Pt 11 (s 15)—17.6.2013 (Gazette 
+6.6.2013 p2498) 
+2013 17 
+ Statutes Amendment (Real Estate 
+Reform Review and Other Matters) 
+Act 2013 
+23.5.2013 
+Pt 2 (s 4)—21.11.2013 (Gazette 
+21.11.2013 p4278) 
+2013 71 
+ Statutes Amendment (Occupational 
+Licensing) Act 2013 
+21.11.2013 
+Pt 3 (ss 13, 14 & 16)—1.11.2014 (Gazette 
+9.10.2014 p6095); s 15—21.11.2015 
+(Gazette 29.10.2015 p4742) 
+2017 7 
+ Statutes Amendment and Repeal 
+(Simplify) Act 2017 
+15.3.2017 
+Pt 5 (s 19)—15.3.2017: s 2(1); ss 18 & 
+20—1.7.2017 (Gazette 22.6.2017 p2224) 
+2017 51 
+ Statutes Amendment (SACAT No 2) 
+Act 2017 
+28.11.2017 
+Pt 9 (ss 38 to 53)—4.10.2018 (Gazette 
+28.6.2018 p2618) 
+Provisions amended 
+New entries appear in bold. 
+Entries that relate to provisions that have been deleted appear in italics. 
+Provision 
+How varied 
+Commencement 
+Pt 1 
+ 
+ 
+s 2 
+omitted under Legislation Revision and 
+Publication Act 2002 
+1.7.2003 
+s 3 
+ 
+ 
+s 3(1) 
+s 3 redesignated as s 3(1) by 26/2004 s 4(2) 
+1.12.2004 
+close associate 
+inserted by 26/2004 s 4(1) 
+1.12.2004 
+Court 
+deleted by 51/2017 s 38(1) 
+4.10.2018 
+domestic partner 
+inserted by 43/2006 s 53(1) 
+1.6.2007 
+legal practitioner 
+substituted by 4/2003 s 4 
+1.7.2003 
+money 
+amended by 33/1999 Sch (item 12(a)) 
+1.7.1999 
+prescribed relative amended by 43/2006 s 53(2) 
+1.6.2007 
+spouse 
+substituted by 43/2006 s 53(3) 
+1.6.2007 
+Tribunal 
+inserted by 51/2017 s 38(2) 
+4.10.2018 
+s 3(2)—(4) 
+inserted by 26/2004 s 4(2) 
+1.12.2004 
+Pt 2 
+ 
+ 
+s 5 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+amended by 71/2013 s 13 
+1.11.2014 
+s 6 
+ 
+ 
+s 6(1) 
+s 6 redesignated as s 6(1) by 47/2001 s 10 
+1.11.2001 
+s 6(2)—(5) 
+inserted by 47/2001 s 10 
+1.11.2001 
+s 7 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+33 
+s 7(1) 
+amended by 21/1998 s 12 
+28.5.1998 
+amended by 4/2003 s 5(a) 
+1.7.2003 
+amended by 28/2007 s 4(1) 
+28.7.2008 
+ 
+amended by 39/2009 s 9 
+3.9.2009 
+s 7(2) 
+amended by 4/2003 s 5(b) 
+1.7.2003 
+ 
+amended by 26/2004 s 5(1) 
+1.12.2004 
+amended by 28/2007 s 4(2) 
+28.7.2008 
+s 7(3) 
+substituted by 26/2004 s 5(2) 
+1.12.2004 
+s 7(4) and (5) 
+inserted by 26/2004 s 5(2) 
+1.12.2004 
+s 7A before 
+substitution by 
+51/2017 
+inserted by 21/1998 s 13 
+28.5.1998 
+s 7A(2) 
+amended by 4/2000 s 9(1) (Sch 1 cl 6(a)) 
+1.6.2000 
+s 7A(5) 
+deleted by 4/2000 s 9(1) (Sch 1 cl 6(b)) 
+1.6.2000 
+s 7A(6) 
+deleted by 4/2000 s 9(1) (Sch 1 cl 6(c)) 
+1.6.2000 
+s 7A 
+substituted by 51/2017 s 39 
+4.10.2018 
+s 8 
+ 
+ 
+s 8(3) 
+amended by 7/2017 s 18 
+1.7.2017 
+Pt 2A 
+inserted by 71/2013 s 14 
+1.11.2014 
+s 9AA 
+ 
+ 
+s 9AA(4) 
+amended by 51/2017 s 40(1) 
+4.10.2018 
+s 9AA(5) 
+substituted by 51/2017 s 40(2) 
+4.10.2018 
+s 9AA(6) 
+amended by 51/2017 s 40(3) 
+4.10.2018 
+s 9AA(7) 
+substituted by 51/2017 s 40(4) 
+4.10.2018 
+s 9AA(8) 
+deleted by 51/2017 s 40(4) 
+4.10.2018 
+Pt 3 
+ 
+ 
+ss 9A and 9B 
+inserted by 26/2004 s 6 
+1.12.2004 
+s 10 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+ 
+amended by 26/2004 s 7 
+1.12.2004 
+s 11 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+amended by 26/2004 s 8 
+1.12.2004 
+s 12 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+ 
+deleted by 7/2017 s 19 
+15.3.2017 
+Pt 4 
+s 14 
+ 
+ 
+s 14(1) 
+ 
+ 
+auditor 
+amended by 28/2007 s 5 
+28.7.2008 
+s 15 
+ 
+ 
+s 15(1) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+ 
+amended by 33/1999 Sch (item 12(b)) 
+1.7.1999 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Legislative history 
+ 
+34 
+Published under the Legislation Revision and Publication Act 2002 
+s 15(2) and (3) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+s 15(4) 
+amended by 33/1999 Sch (item 12(c)) 
+1.7.1999 
+s 16 
+amended by 51/2017 s 41 
+4.10.2018 
+s 17 
+amended by 33/1999 Sch (item 12(d)) 
+1.7.1999 
+s 18 
+ 
+ 
+s 18(3) 
+amended by 33/1999 Sch (item 12(e)) 
+1.7.1999 
+s 18(4) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+s 18(5) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+ 
+amended by 33/1999 Sch (item 12(f)) 
+1.7.1999 
+s 20 
+amended by 33/1999 Sch (item 12(g)) 
+1.7.1999 
+s 21 
+ 
+ 
+s 21(1) 
+amended by 51/2017 s 42(1) 
+4.10.2018 
+s 21(2) 
+amended by 51/2017 s 42(2) 
+4.10.2018 
+s 22 
+ 
+ 
+s 22(1) 
+amended by 51/2017 s 43 
+4.10.2018 
+s 22(2) 
+deleted by 4/2000 s 9(1) (Sch 1 cl 6(d)) 
+1.6.2000 
+s 23 
+ 
+ 
+s 23(1)—(4) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+s 24 
+ 
+ 
+s 24(1) 
+amended by 71/2013 s 15(1) 
+21.11.2015 
+s 24(1a) 
+inserted by 71/2013 s 15(2) 
+21.11.2015 
+s 24(3) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+ 
+amended by 71/2013 s 15(3) 
+21.11.2015 
+s 24(4) 
+amended by 71/2013 s 15(3) 
+21.11.2015 
+ 
+amended by 7/2017 s 20(1) 
+1.7.2017 
+s 24(7) 
+deleted by 7/2017 s 20(2) 
+1.7.2017 
+s 26 
+ 
+ 
+s 26(2) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+amended by 33/1999 Sch (item 12(h)) 
+1.7.1999 
+s 26(3) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+s 27 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+ 
+amended by 33/1999 Sch (item 12(i)) 
+1.7.1999 
+s 28 
+ 
+ 
+s 28(1) and (2) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+s 29 
+ 
+ 
+s 29(1) and (2) 
+amended by 33/1999 Sch (item 12(j)) 
+1.7.1999 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+35 
+s 30 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+s 31 
+ 
+ 
+s 31(1) 
+amended by 33/1999 Sch (item 12(k)) 
+1.7.1999 
+amended by 28/2007 s 6(1) 
+28.7.2008 
+s 31(2) 
+substituted by 96/1995 s 5 
+7.12.1995 
+amended by 28/2007 s 6(2) 
+28.7.2008 
+ 
+amended by 17/2013 s 4(1)—(3) 
+21.11.2013 
+s 32 
+ 
+ 
+s 32(1) and (2) 
+substituted by 28/2007 s 7 
+28.7.2008 
+s 33 
+ 
+ 
+s 33(2) 
+amended by 51/2017 s 44 
+4.10.2018 
+s 34 
+ 
+ 
+s 34(1) 
+amended by 28/2007 s 8(1) 
+28.7.2008 
+s 34(1a) 
+inserted by 28/2007 s 8(2) 
+28.7.2008 
+s 34(2) 
+amended by 28/2007 s 8(3) 
+28.7.2008 
+s 34(3) 
+substituted by 28/2007 s 8(4) 
+28.7.2008 
+s 34(4) and (5) 
+inserted by 28/2007 s 8(4) 
+28.7.2008 
+s 37 
+ 
+ 
+s 37(1) 
+substituted by 51/2017 s 45(1) 
+4.10.2018 
+s 37(1a) 
+inserted by 51/2017 s 45(1) 
+4.10.2018 
+s 37(2) 
+amended by 51/2017 s 45(2) 
+4.10.2018 
+s 37(3) 
+deleted by 4/2000 s 9(1) (Sch 1 cl 6(e)) 
+1.6.2000 
+s 45 
+ 
+ 
+s 45(1) 
+amended by 26/2004 s 9 
+1.12.2004 
+ 
+amended by 28/2007 s 9 
+28.7.2008 
+Pt 5 
+s 46 
+amended by 51/2017 s 46 
+4.10.2018 
+s 47 
+ 
+ 
+s 47(1) 
+amended by 51/2017 s 47(1) 
+4.10.2018 
+s 47(2) 
+amended by 51/2017 s 47(2) 
+4.10.2018 
+s 48 
+amended by 21/1998 s 14 
+28.5.1998 
+substituted by 51/2017 s 48 
+4.10.2018 
+s 49 
+ 
+ 
+s 49(1) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+amended by 71/2013 s 16 
+1.11.2014 
+ 
+amended by 51/2017 s 49(1) 
+4.10.2018 
+s 49(2) 
+amended by 51/2017 s 49(2) 
+4.10.2018 
+s 50 
+ 
+ 
+s 50(1) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+amended by 51/2017 s 50(1) 
+4.10.2018 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Legislative history 
+ 
+36 
+Published under the Legislation Revision and Publication Act 2002 
+s 50(2) 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+amended by 51/2017 s 50(2) 
+4.10.2018 
+Pt 6 
+s 52 
+ 
+ 
+s 52(3) 
+amended by 33/1999 Sch (item 12(l)) 
+1.7.1999 
+s 54 
+ 
+ 
+s 54(2a) 
+inserted by 39/2009 s 10 
+3.9.2009 
+s 55 
+ 
+ 
+s 55(1) 
+amended by 51/2017 s 51(1) 
+4.10.2018 
+s 55(3) 
+inserted by 51/2017 s 51(2) 
+4.10.2018 
+s 56 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+s 61 
+deleted by 16/2013 s 15 
+17.6.2013 
+s 63 
+ 
+ 
+s 63(1) 
+substituted by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+s 67 
+ 
+ 
+s 67(2) 
+amended by 34/1996 s 4 (Sch cl 13) 
+3.2.1997 
+ 
+amended by 21/1998 Sch cl 3 as substituted by 
+22/1998 s 3 
+28.5.1998 
+Sch 1 before deletion by 
+51/2017 
+ 
+ 
+cl (5) 
+amended by 21/1998 s 15 
+28.5.1998 
+Sch 1 
+deleted by 51/2017 s 52 
+4.10.2018 
+Sch 2 
+ 
+ 
+cl 2 
+ 
+ 
+cl 2(1) 
+ 
+ 
+spouse 
+deleted by 43/2006 s 54(1) 
+1.6.2007 
+cl 2(2) 
+amended by 43/2006 s 54(2) 
+1.6.2007 
+cl 3 
+inserted by 29/2004 s 8 
+1.9.2004 
+Transitional etc provisions associated with Act or amendments 
+Statutes Amendment (Sunday Auctions and Indemnity Fund) Act 1995, Sch 
+(1)—Validation of past payments out of fund 
+Payments out of the indemnity fund maintained under Part 3 Division 3 of the Land 
+Agents Act 1994 before the commencement of this Act are to be regarded as having 
+been lawfully made if made for a purpose of a kind referred to in section 29 of the 
+Land Agents Act 1994 as amended by this Act or section 31 of the Conveyancers 
+Act 1994 as amended by this Act. 
+
+--------------------------------------------------------------------------------
+ 
+4.10.2018—Conveyancers Act 1994 
+Legislative history 
+ 
+Published under the Legislation Revision and Publication Act 2002 
+37 
+Statutes Amendment and Repeal (Common Expiation Scheme) Act 1996 
+5—Transitional provision 
+An Act repealed or amended by this Act will continue to apply (as in force 
+immediately prior to the repeal or amendment coming into operation) to an expiation 
+notice issued under the repealed or amended Act. 
+Conveyancers (Corporate Structures) Amendment Act 2004, Sch 1 
+1—Interpretation 
+In this Schedule— 
+principal Act means the Conveyancers Act 1994. 
+2—Transitional provision 
+A constitution of a company that is a registered conveyancer that conforms to the 
+requirements of subsection (3) of section 7 of the principal Act immediately before the 
+commencement of this Act will be taken to conform to the requirements of that 
+subsection as enacted by this Act. 
+Statutes Amendment (Domestic Partners) Act 2006 
+55—Transitional provision 
+From the commencement of this section, a reference to a prescribed relative, spouse 
+or putative spouse in the constitution of a company that is registered as a conveyancer 
+under the Conveyancers Act 1994 will, where the context so admits or requires, be 
+taken to include a reference to a domestic partner. 
+Statutes Amendment (SACAT No 2) Act 2017, Pt 9 
+53—Transitional provisions 
+ 
+(1) 
+A right of appeal under the principal Act in existence (but not yet exercised) before 
+the relevant day, will be exercised as if this Part had been in operation before the right 
+arose, so that the relevant proceedings may be commenced before the Tribunal rather 
+than the Administrative and Disciplinary Division of the District Court. 
+ 
+(2) 
+A right to lodge a complaint under section 46 of the principal Act in existence (but not 
+yet exercised) before the relevant day, will be exercised as if this Part had been in 
+operation before the right arose, so that the complaint may be lodged with the Tribunal 
+rather than the Administrative and Disciplinary Division of the District Court. 
+ 
+(3) 
+A decision or order of the Administrative and Disciplinary Division of the District 
+Court under Part 5 of the principal Act in force immediately before the relevant day 
+will, on and from the relevant day, be taken to be a decision or order of the Tribunal. 
+ 
+(4) 
+Nothing in this section affects any proceedings before the Administrative and 
+Disciplinary Division of the District Court commenced before the relevant day. 
+ 
+(5) 
+A member of each panel of persons who may sit as assessors established under 
+Schedule 1 of the principal Act (as in existence immediately before the relevant day) 
+ceases to hold office on the commencement of this subsection and any contract of 
+employment, agreement or arrangement relating to the office held by that member is 
+terminated by force of this subsection at the same time. 
+
+--------------------------------------------------------------------------------
+ 
+Conveyancers Act 1994—4.10.2018 
+Legislative history 
+ 
+38 
+Published under the Legislation Revision and Publication Act 2002 
+ 
+(6) 
+In this section— 
+principal Act means the Conveyancers Act 1994; 
+relevant day means the day on which this Part comes into operation; 
+Tribunal means the South Australian Civil and Administrative Tribunal established 
+under the South Australian Civil and Administrative Tribunal Act 2013. 
+Historical versions 
+Reprint No 1—7.12.1995 
+Reprint No 2—3.2.1997 
+Reprint No 3—28.5.1998 
+Reprint No 4—1.7.1999 
+Reprint No 5—1.6.2000 
+Reprint No 6—1.11.2001 
+Reprint No 7—1.7.2003 
+1.9.2004 
+1.12.2004 
+1.6.2007 
+28.7.2008 
+3.9.2009 
+17.6.2013 
+21.11.2013 
+1.11.2014 
+21.11.2015 
+15.3.2017 
+1.7.2017 
+ 
+
+--------------------------------------------------------------------------------

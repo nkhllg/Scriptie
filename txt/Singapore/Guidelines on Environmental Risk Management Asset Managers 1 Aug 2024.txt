@@ -1,0 +1,694 @@
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Monetary Authority of Singapore 
+December 2020
+GUIDELINES ON
+ENVIRONMENTAL RISK MANAGEMENT 
+(ASSET MANAGERS)
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+1 
+INTRODUCTION 
+1 
+2 
+SCOPE 
+2 
+3 
+GOVERNANCE AND STRATEGY 
+4 
+4 
+RESEARCH AND PORTFOLIO CONSTRUCTION 
+6 
+5 
+PORTFOLIO RISK MANAGEMENT 
+8 
+6 
+STEWARDSHIP 
+9 
+7 
+DISCLOSURE 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+1 
+ 
+1 
+INTRODUCTION 
+ 
+1.1 
+These Guidelines apply to all holders of a capital markets services licence for fund 
+management (“LFMC”) and real estate investment trust (“REIT”) management (hereinafter 
+collectively referred to as “asset managers”). The Guidelines aim to enhance the resilience of 
+funds (including REITs) and segregated mandates (hereinafter collectively referred to as 
+“funds/mandates”) that are managed by asset managers, by setting out sound environmental 
+risk management practices that asset managers can adopt. 
+ 
+1.2 
+MAS recognises that the scale, scope and business models of asset managers and the 
+investment strategies that they employ can be different. MAS expects an asset manager’s 
+approach to managing and disclosing environmental risk to mature as the methodologies for 
+assessing, monitoring and reporting such risk evolve. An asset manager should implement 
+these Guidelines in a way that is commensurate with the size and nature of its activities, 
+including the investment focus and strategy of its funds/mandates. For avoidance of doubt, 
+the Guidelines shall not prohibit or restrict an asset manager from complying with applicable 
+laws and discharging their fiduciary duties and other legal obligations to their customers.  
+ 
+1.3 
+Asset managers which are part of global groups1 may take guidance from or leverage 
+their Group’s environmental risk management governance structure, framework and policies, 
+if they have determined that the Group’s governance structure, framework and policies meet 
+the principles set out in these Guidelines.  
+ 
+1.4 
+MAS is cognisant that asset managers may be appointed to different roles (for 
+instance, as an investment manager, sub-manager or advisor) in the management of a 
+fund/mandate. The Guidelines would generally be applicable to asset managers that have 
+discretionary authority over the investments of the funds/mandates that they are managing. 
+Conversely, for asset managers that do not have discretionary authority over the investments 
+of the funds/mandates, the Guidelines would not apply.  
+ 
+1.5 
+Where asset managers delegate the investment management to sub-managers or 
+advisors, asset managers still retain overall responsibility for environmental risk management 
+and should convey their expectations on environmental risk management to the sub-
+managers or advisors. Asset managers should put in place appropriate processes and 
+procedures to assess and monitor the sub-managers’ or advisors’ compliance with the 
+expectations set. 
+ 
+1.6 
+MAS will update these Guidelines as appropriate to reflect the evolving nature and 
+maturity of risk management practices. The examples of environmental risk management 
+practices featured in these Guidelines are meant to be illustrative and are not prescriptive or 
+exhaustive. 
+ 
+ 
+1 Group refers to the ultimate holding company, its subsidiaries and any other company or entity treated as part 
+of the ultimate holding company’s group of companies according to the Accounting Standards. 
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+2 
+ 
+ 
+2 
+SCOPE 
+ 
+2.1 
+Environmental risk arises from the potential adverse impact of changes in the 
+environment on economic activities and human well-being2. Environmental issues that are of 
+concern include climate change, loss of biodiversity, pollution and changes in land use. These 
+environmental challenges call for urgent collective actions to address environmental risk. 
+Climate change stands at the forefront of these concerns, with the Intergovernmental Panel 
+on Climate Change (“IPCC”) estimating that continued carbon emissions in line with historical 
+rates would likely lead to global warming of 1.5 oC between 2030 and 20523. There has also 
+been a significant rate of decline in biodiversity worldwide, alongside a significant alteration 
+of three-quarters of the land and more than 60% of the marine environment, which are 
+caused by human actions4. 
+ 
+2.2 
+Environmental risk has the potential to financially impact funds/mandates managed 
+by asset managers (refer to the diagram below for illustration), through physical and 
+transition risk channels5.  
+ 
+a. Physical risk arises from the impact of weather events and long-term or 
+widespread environmental changes. For instance, rising frequency and severity of 
+extreme weather events can impair the value of assets held by companies, or 
+indirectly impact supply chains, thus affecting companies’ operations and 
+profitability, and potentially, their viability. Water risk (e.g. water scarcity, 
+pollution and droughts) may increase the operating cost of companies in water-
+intensive sectors. Investments into these companies can therefore be impaired. 
+ 
+b. Transition risk arises from the process of adjustment to an environmentally 
+sustainable economy, including changes in public policies, disruptive technological 
+developments, and shifts in consumer and investor preferences. For instance, the 
+transition to a low-carbon economy can impair the profitability of companies in 
+carbon-intensive businesses. Punitive actions taken against companies that 
+pollute the environment (e.g. revocation of operational permits for companies 
+involved in open burning practices) can have a material impact on the valuation of 
+companies in these sectors and result in stranded assets6. Investment portfolios 
+ 
+2 Based on the concept of natural capital, nature comprises of a stock of resources (e.g. water, forest, air), which 
+provides ecosystem services (e.g. food, coastal protection, absorption of pollution) that underpin economic 
+activities and human well-being. Drivers of environmental changes can adversely impact natural capital and 
+disrupt the provision of ecosystem services, leading to reduced flow of benefits to the economy and people. 
+3 IPCC, Global Warming of 1.5 degrees, Summary for Policymakers, 2018. 
+4 Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Global Assessment Report 
+on Biodiversity and Ecosystem Services, 2019. 
+5 These channels are more commonly associated with climate change given the current focus on transition to a 
+low-carbon economy. Where applicable, asset managers should also consider physical and transition risk 
+channels in relation to other aspects of environmental risk beyond climate change, as methodologies for 
+managing and disclosing such risks continue to evolve. 
+6 Defined by the International Energy Agency to refer to “investments which are made but which, at some time 
+prior to the end of their economic life (as assumed at the investment decision point), are no longer able to earn 
+ 
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+3 
+ 
+managed by asset managers may also be exposed to volatility and downside risk 
+where business models are disrupted by changes in market or consumer demands 
+to address environmental impact. 
+ 
+2.3 
+Reputational risk can arise when asset managers invest into companies that carry out 
+business activities which have a negative impact on the environment. Negative perception of 
+asset managers’ business practices can adversely affect their abilities to maintain or grow 
+their assets under management.   
+ 
+Potential financial and reputational impact of environmental risk on funds and asset 
+managers 
+ 
+ 
+ 
+2.4 
+Environmental risk can vary by sector, geography, time horizon and other factors. As 
+such, the extent of its relevance and materiality will vary depending on the investment 
+horizon, focus, and strategy of the funds/mandates. For instance, environmental risk can be 
+more significant in sectors that consume more natural resources and produce more 
+greenhouse gas (“GHG”) emissions. In terms of geography, certain countries can be more 
+exposed to extreme weather events arising from climate change compared to others. 
+Environmental risk, in particular physical risk, is likely to materialise over a longer time horizon. 
+Hence, perceived future risk can be underestimated in the short term, and current asset 
+valuations may hence be exposed to unexpected adjustments in years to come. 
+ 
+2.5 
+It is crucial for asset managers to ensure the resilience of their customers’ assets 
+against the impact of environmental risk. Besides implementing robust environmental risk 
+management policies and processes, asset managers can play a key role in the transition 
+towards an environmentally sustainable economy by channelling capital through their green 
+investment activities. A gradual and smooth transition would alleviate physical and transition 
+risks, by reducing the probability of a “too little, too late” scenario, where physical costs of 
+environmental changes may be exacerbated, and policymakers would need to implement 
+mitigation measures in a belated and disruptive manner. Engaging in green investment 
+activities would also mitigate reputational risk for asset managers. Asset managers can also 
+ 
+an economic return, as a result of changes in the market and regulatory environment brought about by climate 
+policy”. 
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+4 
+ 
+contribute to global collective action by engaging with stakeholders such as regulators, rating 
+agencies, academia and civil society, to promote mutual understanding on environmental 
+issues across sectors and geographies. 
+3 
+GOVERNANCE AND STRATEGY 
+ 
+3.1 
+The Board of Directors (“Board”) and senior management play critical roles in 
+determining the asset manager’s strategies, business plans and product offerings. These 
+include identifying environmental risks and opportunities over the short and long term and 
+evaluating the actual and potential impact of these risks and opportunities on the asset 
+manager’s strategies, business plans and products. These should also take into consideration 
+the asset manager’s responses to the objectives set out under international agreements such 
+as the Paris Agreement, as well as national policies. In this regard, the Board and senior 
+management should set the tone and articulate the asset manager’s approach on 
+environmental risk management for the different asset classes it invests in and investment 
+strategies that it employs. 
+ 
+3.2 
+Regulation 13(B)(1)(a) of the SF(LCB)R require all LFMCs to put in place a risk 
+management framework to identify, address and monitor the risks associated with customers’ 
+assets that they manage, which is appropriate to the nature, scale and complexity of the 
+assets. Regulation 13 of the SF(LCB)R also requires REIT managers to identify, address and 
+monitor the risks associated with its business activities in a manner that is commensurate 
+with their nature, scale and complexity. Such risks include environmental risk, to the extent 
+that it is material to the assets managed. 
+ 
+3.3 
+The Board and senior management should maintain effective oversight of the asset 
+manager’s environmental risk management and disclosure. They should also oversee the 
+integration of environment risk into the asset manager’s investment risk management 
+framework. Where environmental risk is deemed material to the assets managed, asset 
+managers should designate a senior management member or a committee to oversee 
+environmental risk, to ensure that such issues are reviewed at a sufficiently senior level. 
+ 
+3.4 
+The Board, or a committee delegated by it, is responsible for:  
+ 
+a. approving an environmental risk management framework and policies to assess 
+and manage the environmental risk of the assets managed, taking into 
+consideration the asset manager’s fiduciary role and other legal obligations vis-à-
+vis its customers;  
+ 
+b. setting clear roles and responsibilities of the Board and senior management, 
+including personnel and functions responsible for oversight of environmental risk 
+of the assets managed; and 
+ 
+c. ensuring that directors have adequate understanding of environmental risk, and 
+senior management is equipped with appropriate expertise for managing 
+environmental risk. 
+ 
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+3.5 
+Senior management is responsible for:  
+ 
+a. ensuring the development and implementation of an environmental risk 
+management framework and policies, as well as tools and metrics to monitor 
+exposures to environmental risk, including resilience of the funds/mandates 
+managed by the company to different environmental scenarios. The framework 
+should include how the asset manager incorporates environmental risk 
+considerations in its investment research, portfolio construction, risk 
+management and stewardship practices across different asset classes and 
+investment strategies;  
+ 
+b. reviewing regularly the effectiveness of the framework, policies, tools and metrics 
+and making appropriate revisions, taking into account changes in the asset 
+manager’s business, size and complexity as well as risk environment;  
+ 
+c. establishing an internal escalation process for managing environmental risk 
+(including material environmental risk exposures and exceptions to the 
+environmental risk management framework or policies), and that appropriate and 
+timely actions are taken to address the risk; and 
+ 
+d. allocating adequate resources with appropriate expertise, including through 
+capacity building and training, to manage the environmental risk of the assets 
+managed.  
+ 
+3.6 
+Senior management should also update the Board on material environmental risk 
+issues in a timely manner. For asset managers where the Board and senior management are 
+one and the same, both the Board and senior management would be jointly responsible for 
+the expectations set out in paragraphs 3.4 and 3.5. 
+ 
+3.7 
+The asset manager should have in place a clear allocation of responsibilities for 
+management of environmental risk in accordance with the three lines of defence model. 
+Business line staff should take into consideration environmental risk when establishing and 
+managing funds/mandates, particularly if they invest in sectors with higher environmental 
+risk. The risk management function should monitor the business line’s implementation of the 
+asset manager’s risk management policies, including challenging practices and decisions, 
+where appropriate, while the compliance function should ensure adherence to applicable 
+rules and regulations. The internal audit function should consider as part of its independent 
+review, the robustness of the asset manager’s risk management framework in managing 
+environmental risks.  
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+6 
+ 
+ 
+ 
+4 
+RESEARCH AND PORTFOLIO CONSTRUCTION 
+ 
+4.1 
+Asset managers should embed relevant environmental risk considerations7 in their 
+research and portfolio construction processes if they have assessed them to be material. In 
+addition to considering the investment horizon, risk and return profile of an investment and 
+fundamental factors, such as economic conditions, central bank policy, sector trends and 
+geopolitical risks, asset managers should also evaluate the potential impact of relevant 
+environmental risk on an investment’s return potential.  
+ 
+4.2 
+In assessing environmental risk, asset managers should consider both transition and 
+physical risks on an individual asset and/or portfolio level and take reference from 
+international standards and frameworks8.  
+ 
+4.3 
+Asset managers should apply risk criteria to identify sectors with higher environmental 
+risk. The risk criteria may include the level of GHG emissions, vulnerability to extreme weather 
+events, and linkages to unsustainable energy practices, deforestation and pollution. For 
+sectors with higher environmental risk, asset managers should develop sector-specific 
+guidance to aid its investment personnel in understanding the environmental issues pertinent 
+to such sectors. Where appropriate, the guidance could take into account internationally 
+recognised sustainability standards and certification scheme 9 , as well as the investee 
+company’s strategy to manage its environmental risk.  
+ 
+4.4 
+In considering the materiality of environmental risk with respect to the different asset 
+classes (such as public equity, fixed income, and real estate/infrastructure), asset managers 
+can take reference from the following examples:  
+ 
+a. For equity investments, asset managers could consider the primary environmental 
+risk factors that would affect the long-term success of the issuer. Given that 
+equities are effectively perpetual instruments, equity investors could consider 
+long-term risks in addition to short and mid-term risks. Some of these risk factors 
+may be country, industry and/or location specific. These risk factors may affect the 
+issuer’s ability to grow sustainably, if they are not managed appropriately. For 
+example, investing in the equity of a semiconductor manufacturer may require an 
+understanding of the plant’s water use intensity, including water availability and 
+stress. In addition, broader themes and trends could also be considered, including 
+possible impact from climate change and extreme weather events. 
+ 
+ 
+7 It is recognized that environmental risk management practices and methodologies are more established for 
+climate risks at this stage. Asset managers may take a progressive approach towards environmental risk 
+management, starting with more well-established areas, and then progressing to other environmental risk types 
+as generally accepted methodologies and practices emerge. 
+8 These include the Global Reporting Initiative, CDP (formerly the Carbon Disclosure Project), the Sustainable 
+Accounting Standards Board and Task-Force on Climate-related Financial Disclosure. 
+9 For example, the International Finance Corporation Performance Standards and the Roundtable on Sustainable 
+Palm Oil. 
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+7 
+ 
+In analysing these risks, asset managers could seek to understand, analyse, and 
+incorporate key metrics into their investment analysis. Asset managers could also 
+seek to analyse and consider the targets that issuers have set for management of 
+their key risks (for example reduction in GHG emissions or water use intensity).  
+ 
+b. For fixed income investments, asset managers could consider a variety of key 
+environmental indicators from the issuers, as well as external environmental data 
+providers, to achieve an impartial and holistic view of the environmental risk 
+associated with a specific credit investment.  Where the credit investment is used 
+to finance a specific project, asset managers could consider the environmental risk 
+profile of the project as well. 
+ 
+Asset managers could also consider the seniority (senior/subordinated/junior 
+subordinated) as well as the maturity of the credit investment when assessing the 
+relevance and materiality of environmental risk. The level of seniority and maturity 
+of the credit will expose investors to varying degrees of financial impact from the 
+issuer’s exposure to environmental risk. Asset managers could therefore carefully 
+assess the pricing (yield/coupon level) of such credits against the risks involved.  
+ 
+c. For direct real estate investments, asset managers could consider a variety of 
+operational indicators (in areas such as GHG emissions, energy management, 
+waste and water management), as well as the possible impact from climate change 
+and extreme weather events. Asset managers could also consider the extent to 
+which the operational indicators and environmental events may affect potential 
+tenant demand. Asset managers could also assess the potential impact of any new 
+regulations on properties which do not meet minimum environmental standards. 
+ 
+d. For investments in REITs, given there is no direct control of the real estate 
+investments, additional assessment could be given to the governance and strategy 
+of the REIT manager in monitoring and evaluating the environmental risks of the 
+assets within the trust.  
+ 
+In considering the environmental impact of investments across different asset classes, asset 
+managers may consider procuring asset class-specific research from external third parties, 
+where appropriate, to supplement its own internal assessment. 
+ 
+4.5 
+Asset managers should also be mindful of internal aggregate limits that their 
+customers have set for specific sectors or types of activities, such as sector limits on 
+companies in the fossil fuel sector, or caps on carbon emissions in the portfolio. 
+ 
+4.6  
+Asset managers’ approach to managing environmental risk could be influenced by the 
+investment objective and strategy (active versus passive) of the fund/mandate that they 
+manage. Given that passive managers have limited leeway in their research and portfolio 
+construction processes beyond benchmark selection and engagement of index providers on 
+universe of sustainable indexes, stewardship is a key lever to manage environmental risk. 
+Similarly, active managers may be constrained in the extent to which they can deviate from a 
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+8 
+ 
+reference benchmark or index. Where such constraints exist, asset managers can still manage 
+and mitigate environmental risk in their portfolios by influencing their investee companies to 
+have sound environmental risk mitigation measures. Asset managers should therefore 
+incorporate environmental risk considerations into their stewardship frameworks (please 
+refer to section 6). 
+ 
+4.7 
+For portfolio construction, asset managers should include measurement and 
+management of the various environmental risk factors that are present in a portfolio on an 
+aggregate basis, where material. For example, an asset manager can monitor the total GHG 
+emissions of a portfolio, with reference to a benchmark of a comparator group10.  
+ 
+5 
+PORTFOLIO RISK MANAGEMENT 
+ 
+ 
+Ongoing Monitoring 
+ 
+5.1 
+Asset managers should put in place appropriate processes and systems to monitor, 
+assess and manage the potential and actual impact of environmental risk on individual 
+investments and portfolios on an ongoing basis, where material. Should there be 
+developments (such as occurrences of natural disasters and changes in regulations) that could 
+materially affect the operations and financials of an investee company, an asset manager 
+should re-assess the risk and return profile of the investment or portfolio. This would allow 
+the asset manager to make an informed decision on whether to continue with the investment, 
+make adjustments to the composition of the portfolio, or put in place other mitigating 
+measures to better manage the environmental risk in the investment or portfolio. The asset 
+manager should also escalate these material environmental risk exposures and exceptions in 
+accordance with its internal escalation process to ensure appropriate and timely actions are 
+taken to address the risk.  
+ 
+Scenario Analysis  
+ 
+5.2 
+Where environmental risk is material in the investment portfolios, asset managers 
+should develop capabilities in scenario analysis 11 to assess its impact on the portfolios, 
+including the portfolios’ resilience to financial losses under a range of outcomes.  
+ 
+5.3 
+Asset managers should include, where relevant, short and long-term environmental 
+scenarios (using conservative and regularly reviewed assumptions) into its scenario analysis 
+of portfolios for risk management purposes. The analysis may incorporate an assessment of 
+physical and transition risks across a range of climate-related scenarios, including increases in 
+global temperature, and whether the transition to a low-carbon economy occurs in an orderly 
+ 
+10 Asset managers can draw on the work by UN Global Compact, the Principles for Responsible Investment and 
+the CDP to aid them in developing guidance in this area.  
+11 Asset managers should keep abreast of good practices in this evolving area, e.g. the Task Force on Climate-
+related Financial Disclosures’ Technical Supplement: The Use of Scenario Analysis in Disclosure of Climate-related 
+Risks and Opportunities, 2017, and NGFS’ Climate Scenarios for Central Banks and Supervisors, 2020. Asset 
+managers may also consider referring to scenarios aligned with scientific climate change pathways, including 
+from the IPCC or International Energy Agency. 
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+9 
+ 
+or disorderly fashion. For example, on physical risk, an asset manager could assess the impact 
+on revenue and profitability of investee companies that are more exposed to sea level rise 
+(such as companies owning seafront properties) or extreme weather events (such as 
+agricultural companies). On transition risk, asset managers could assess the level of sensitivity 
+of an investee company’s cost of doing business to higher carbon price; whether higher costs 
+could be partially offset by increasing prices and its impact on consumer demand. These 
+scenarios should also incorporate forward-looking information, as analysis that relies solely 
+on historical data might systemically underestimate potential risks, in view of the 
+uncertainties and long-term horizon associated with changes in the environment12.  
+ 
+5.4 
+Where data may be limited, asset managers should consider qualitative assessments 
+and engage investee companies to adopt practices and framework of disclosure that best 
+identify the risks and opportunities most relevant to their businesses. 
+ 
+5.5 
+Asset managers should use the results of their scenario analysis when reviewing the 
+environmental risk profile of their managed portfolios, as well as their environmental risk 
+management policies and practices.  
+ 
+5.6 
+Asset managers should also maintain proper documentation of the key features of the 
+scenario analysis, including the choice of scenarios, reasonableness of assumptions, 
+assessment of results, considerations on the need to take actions, and actions taken to 
+address the risk.  
+ 
+Capacity Building 
+ 
+5.7 
+Asset managers should equip its staff, including through capacity building and training, 
+with adequate expertise to assess, manage and monitor environmental risk in a rigorous, 
+timely and efficient manner. The asset manager should regularly review such capacity building 
+programmes to incorporate emerging issues relating to environmental risk management.   
+ 
+6 
+STEWARDSHIP 
+ 
+6.1. 
+Asset managers are expected to exercise sound stewardship to help shape the 
+corporate behaviour of investee companies positively through engagement, proxy voting and 
+sector collaboration13. This includes supporting investee companies’ efforts in the transition 
+towards more sustainable business practices over time, while maintaining the asset managers’ 
+risk management standards. Asset managers should establish a process to prioritise issues 
+and companies for engagement that is consistent with the interests of its customers and 
+aligned with the asset manager’s investment objective and strategy. Asset managers may 
+consider the materiality of the environmental risk in the portfolios, the relationship with the 
+investee company and the investee company’s willingness and ability to improve its 
+ 
+12 Central Banks and Supervisors Network for Greening the Financial System, Technical Supplement: 
+Macroeconomic and financial stability: Implications of climate change, 2019. 
+13 Asset managers should consider aligning their stewardship initiatives to the Singapore Stewardship Principles 
+and draw on international resources, such as the International Corporate Governance Network Stewardship 
+Principles and Principles for Responsible Investment for guidelines on active ownership. 
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+10 
+ 
+environmental risk profile, as well as the availability of alternative options to effectively 
+mitigate the investment’s exposure to environmental risk. Asset managers should also 
+maintain proper documentation to support its engagement efforts, and report on their 
+stewardship initiatives. Engagement outcomes should feed into the research and portfolio 
+construction, and risk management processes outlined in Sections 4 and 5.  
+ 
+6.2. 
+Topics for engagement with investee companies may include but are not limited to:  
+ 
+a. raising of environmental issues with investee companies to increase their 
+awareness of environmental risks and opportunities; 
+ 
+b. influencing the behaviour of investee companies to better manage and mitigate 
+environmental risk; 
+ 
+c. gathering information to supplement existing environmental risk disclosures from 
+investee companies; and 
+ 
+d. encouraging investee companies to provide relevant and timely environmental 
+risk data and/or clearer disclosures to improve data availability and consistency14. 
+ 
+6.3 
+Asset managers should consider collaborative engagements with other asset 
+managers/investors for efficiency, enhanced influence and legitimacy when engaging 
+investee companies, and to build knowledge and skills15. 
+ 
+6.4 
+For asset managers that manage real estate investments, they should consider 
+implementing asset enhancement initiatives, such as putting in place measures to improve 
+energy and water efficiency or waste management, or attaining green building certification 
+for these investments. 
+ 
+7 
+DISCLOSURE 
+ 
+7.1. 
+Asset managers should disclose their approach to managing environmental risk in a 
+manner that is clear and meaningful to their stakeholders, including existing and potential 
+customers. Asset managers are encouraged to disclose the potential impact of material 
+environmental risk to customers, including quantitative metrics such as exposures to sectors 
+with higher environmental risk. An asset manager’s disclosure may be consolidated at the 
+group or head office level. 
+ 
+7.2. 
+Asset managers’ disclosure should be in accordance with well-regarded international 
+reporting frameworks16, such as recommendations by the Financial Stability Board’s Task-
+ 
+14 Asset managers may wish to take reference from international reporting frameworks, such as the standards 
+set by Global Reporting Initiative in their engagement with investee companies. 
+15 Asset managers can draw on resources made available as part of the Principles for Responsible Investment 
+(PRI), including the Introductory Guide to Collaborative Engagement and the PRI Collaboration Platform. 
+16 For example, standards and frameworks set by the CDP, Climate Disclosure Standards Board, Global Reporting 
+Initiative, International Integrated Reporting Council, and Sustainability Accounting Standards Board. 
+
+--------------------------------------------------------------------------------
+GUIDELINES ON ENVIRONMENTAL RISK MANAGEMENT  
+(ASSET MANAGERS) 
+ 
+DECEMBER 2020 
+ 
+ 
+11 
+ 
+Force on Climate-related Financial Disclosures (“TCFD”). The TCFD recommendations provide 
+a useful framework for the disclosure of climate-related risks as follows17: 
+ 
+a. Governance, including the Board’s oversight and management’s role in assessing 
+and managing climate-related risks and opportunities;  
+ 
+b. Strategy, in relation to the actual and potential impact of climate-related risks and 
+opportunities on the asset managers’ businesses, relevant products and 
+investment strategies, where such information is material;  
+ 
+c. Risk management, with regard to how the asset manager identifies, assesses, and 
+manages climate-related risks; and 
+ 
+d. Metrics and targets, to assess and manage relevant climate-related risks and 
+opportunities where such information is material18. 
+ 
+7.3 
+Asset managers should review their disclosures regularly to improve their 
+comprehensiveness, clarity and relevance, taking into account generally accepted 
+measurement practices and methodologies.  
+ 
+17 TCFD, Recommendations of the Task Force on Climate-related Financial Disclosures, 2017. 
+18 For example, TCFD recommends the disclosure of Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions, 
+and the related risks. Scope 1 emissions are direct emissions from owned or controlled sources. Scope 2 
+emissions are indirect emissions from the generation of purchased energy. Scope 3 emissions are all indirect 
+emissions (not included in Scope 2) that occur in the value chain of the reporting company, including both 
+upstream and downstream emissions. 
+
+--------------------------------------------------------------------------------

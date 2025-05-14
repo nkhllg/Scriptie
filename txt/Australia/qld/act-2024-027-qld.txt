@@ -1,0 +1,7185 @@
+Residential Tenancies and Rooming 
+Accommodation and Other 
+Legislation Amendment Act 2024
+Act No. 27 of 2024
+Queensland
+An Act to amend the Body Corporate and Community Management Act 
+1997, the Building Industry Fairness (Security of Payment) Act 2017, the Fair 
+Trading Inspectors Act 2014, the Local Government Act 2009, the Property 
+Occupations Act 2014, the Residential Tenancies and Rooming 
+Accommodation Act 2008 and the legislation mentioned in schedule 1 for 
+particular purposes
+[Assented to 6 June 2024]
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ 
+Queensland
+Residential Tenancies and Rooming 
+Accommodation and Other Legislation 
+Amendment Act 2024
+Contents
+Page
+Part 1
+Preliminary
+1
+Short title . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11
+2
+Commencement  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11
+Part 2
+Amendment of Residential Tenancies and Rooming 
+Accommodation Act 2008
+Division 1
+Preliminary
+3
+Act amended . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11
+Division 2
+Amendments commencing on assent
+4
+Amendment of s 29 (Act applies to certain residential tenancy 
+agreements etc.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+5
+Amendment of s 44 (Rooming accommodation agreements to which Act 
+does not apply)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+6
+Insertion of new s 44A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+44A
+Boarders and lodgers  . . . . . . . . . . . . . . . . . . . . . . . .
+12
+7
+Amendment of s 57 (Offer of residential tenancy must be for rent at a 
+fixed amount) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+7A
+Insertion of new s 57AA  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+57AA
+Offer of residential tenancy—limitation on rent in advance 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+8
+Amendment of s 61 (Written agreements required)  . . . . . . . . . .
+14
+9
+Amendment of s 73 (Standard terms) . . . . . . . . . . . . . . . . . . . . .
+14
+10
+Insertion of new ss 76AA and 76AB  . . . . . . . . . . . . . . . . . . . . . .
+15
+76AA
+Offer of rooming accommodation must be for rent at a fixed 
+amount  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+76AB
+Offer of rooming accommodation—limitation on rent in 
+
+--------------------------------------------------------------------------------
+Contents
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Page 2
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+advance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+11
+Amendment of s 77 (Written agreement required)  . . . . . . . . . . .
+16
+12
+Insertion of new s 82A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16
+82A
+Meaning of exempt lessor . . . . . . . . . . . . . . . . . . . . .
+16
+14
+Amendment of s 91 (Rent increases)  . . . . . . . . . . . . . . . . . . . . .
+17
+15
+Amendment of s 93 (Minimum period before rent can be increased) 18
+16
+Insertion of new ss 93A and 93B . . . . . . . . . . . . . . . . . . . . . . . . .
+20
+93A
+Evidence of last rent increase . . . . . . . . . . . . . . . . . .
+20
+93B
+Tribunal order about rent increase  . . . . . . . . . . . . . .
+20
+17
+Amendment of s 94 (Rent decreases) . . . . . . . . . . . . . . . . . . . . .
+21
+17A
+Insertion of new s 97A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+21
+97A
+Meaning of exempt provider  . . . . . . . . . . . . . . . . . . .
+21
+18A
+Amendment of s 105 (Rent increases)  . . . . . . . . . . . . . . . . . . . .
+22
+19
+Amendment of s 105B (Minimum period before rent can be increased)
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+20
+Insertion of new ss 105C–105E  . . . . . . . . . . . . . . . . . . . . . . . . .
+24
+105C
+Evidence of last rent increase . . . . . . . . . . . . . . . . . .
+24
+105D
+Rent increase in relation to service provided under 
+agreement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+105E
+Tribunal order about rent increase  . . . . . . . . . . . . . .
+25
+21
+Insertion of new s 107A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26
+107A
+Rent decreases . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26
+22
+Amendment of s 136E (Payment of rental bond after dispute resolution 
+process) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26
+23
+Replacement of s 138 (Payment to rental bond supplier) . . . . . .
+27
+138
+Payment to rental bond supplier  . . . . . . . . . . . . . . . .
+27
+24
+Amendment of s 148 (Order for return of bond if bond wrongfully taken)
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+25
+Insertion of new s 155A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+155A
+Transfer of rental bond  . . . . . . . . . . . . . . . . . . . . . . .
+28
+26
+Insertion of new ch 3, pt 5, div 1, sdiv 1  . . . . . . . . . . . . . . . . . . .
+28
+Subdivision 1
+Fixtures and structural changes generally
+206A
+Application of subdivision  . . . . . . . . . . . . . . . . . . . . .
+29
+27
+Insertion of new ch 3, pt 5, div 1, sdiv 2  . . . . . . . . . . . . . . . . . . .
+29
+Subdivision 2
+Fixtures and structural changes for safety, security or 
+accessibility
+209B
+Attaching fixtures or making structural changes for safety, 
+
+--------------------------------------------------------------------------------
+Contents
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+2024 Act No. 27
+Page 3
+Authorised by the Parliamentary Counsel
+ 
+security or accessibility  . . . . . . . . . . . . . . . . . . . . . . .
+29
+28
+Amendment of s 245 (Injury to domestic associate) . . . . . . . . . .
+29
+29
+Insertion of new ch 4, pt 1, div 1, hdg  . . . . . . . . . . . . . . . . . . . . .
+30
+30
+Insertion of new ch 4, pt 1, div 2, hdg  . . . . . . . . . . . . . . . . . . . . .
+30
+31
+Insertion of new ch 4, pt 1, div 3, hdg  . . . . . . . . . . . . . . . . . . . . .
+30
+32
+Insertion of new ch 4, pt 1, div 4, hdg and sdiv 1  . . . . . . . . . . . .
+30
+Division 4
+Fixtures and structural changes
+Subdivision 1
+Fixtures and structural changes generally
+253A
+Application of subdivision  . . . . . . . . . . . . . . . . . . . . .
+31
+33
+Insertion of new ch 4, pt 1, div 4, sdiv 2  . . . . . . . . . . . . . . . . . . .
+31
+Subdivision 2
+Fixtures and structural changes for safety, security or 
+accessibility
+256AA
+Attaching fixtures or making structural changes for safety, 
+security or accessibility  . . . . . . . . . . . . . . . . . . . . . . .
+31
+34
+Amendment of s 259 (Entry after giving notice)  . . . . . . . . . . . . .
+31
+35
+Amendment of s 277 (Ending of residential tenancy agreements) 
+32
+36
+Insertion of new s 292 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+32
+292
+Notice to leave for end of agreed short tenancy period 
+32
+37
+Insertion of new s 307E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+33
+307E
+Notice of intention to leave for end of agreed short tenancy 
+period  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+33
+38
+Amendment of s 308I (Confidentiality)  . . . . . . . . . . . . . . . . . . . .
+33
+39
+Amendment of s 326 (Notice to leave)  . . . . . . . . . . . . . . . . . . . .
+34
+40
+Amendment of s 327 (Notice of intention to leave) . . . . . . . . . . .
+34
+41
+Amendment of s 366 (Ending of rooming accommodation agreements)
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+35
+42
+Amendment of s 380C (Notice to leave if entitlement to student 
+accommodation ends) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+35
+43
+Amendment of s 381I (Confidentiality)  . . . . . . . . . . . . . . . . . . . .
+35
+44
+Amendment of s 393 (Item other than personal document or money) 36
+45
+Insertion of new s 519A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+37
+519A
+Code of conduct  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+37
+46
+Amendment of s 527A (Definitions for ch 13A) . . . . . . . . . . . . . .
+37
+47
+Insertion of new ch 14, pt 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+37
+Part 8
+Transitional provisions for Residential Tenancies and 
+Rooming Accommodation and Other Legislation 
+Amendment Act 2024
+Division 1
+Preliminary
+
+--------------------------------------------------------------------------------
+Contents
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Page 4
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+577
+Definitions for part . . . . . . . . . . . . . . . . . . . . . . . . . . .
+38
+Division 2
+Provisions commencing on assent
+578
+Existing agreements not required to include date of last rent 
+increase . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+38
+579
+Rent increases before the commencement relevant to 
+working out 12-month period—s 93  . . . . . . . . . . . . .
+39
+579A
+Requirement for lessor to give evidence of rent increase if 
+premises purchased within 12 months of commencement 39
+579B
+Requirement for provider to give evidence of rent increase if 
+rental premises purchased within 12 months of 
+commencement . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+40
+580
+Rent increases before the commencement relevant to 
+working out 12-month period—s 105B  . . . . . . . . . . .
+40
+581
+Payment of rental bond after dispute resolution process and 
+application dismissed by tribunal . . . . . . . . . . . . . . . .
+40
+48
+Amendment of sch 1 (Notice periods) . . . . . . . . . . . . . . . . . . . . .
+41
+49
+Amendment of sch 2 (Dictionary)  . . . . . . . . . . . . . . . . . . . . . . . .
+42
+Division 3
+Amendments commencing by proclamation
+50
+Insertion of new ss 57B–57D  . . . . . . . . . . . . . . . . . . . . . . . . . . .
+42
+57B
+Application for residential tenancy . . . . . . . . . . . . . . .
+43
+57C
+Request for information for application  . . . . . . . . . . .
+45
+57D
+Verification of identity for application . . . . . . . . . . . . .
+46
+51
+Insertion of new ss 76C–76E  . . . . . . . . . . . . . . . . . . . . . . . . . . .
+46
+76C
+Application for rooming accommodation . . . . . . . . . .
+46
+76D
+Request for information for application  . . . . . . . . . . .
+48
+76E
+Verification of identity for application . . . . . . . . . . . . .
+49
+52
+Replacement of ss 83 and 84  . . . . . . . . . . . . . . . . . . . . . . . . . . .
+49
+83
+How rent is to be paid  . . . . . . . . . . . . . . . . . . . . . . . .
+49
+84
+Changes to way rent to be paid by agreement  . . . . .
+50
+84A
+Changes to way rent to be paid—no agreement . . . .
+50
+84B
+Tenant must be advised about associated costs and benefits
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+51
+53
+Replacement of ss 98 and 99  . . . . . . . . . . . . . . . . . . . . . . . . . . .
+51
+98
+How rent is to be paid  . . . . . . . . . . . . . . . . . . . . . . . .
+52
+99
+Changes to way rent to be paid by agreement  . . . . .
+52
+99A
+Changes to way rent to be paid—no agreement . . . .
+52
+99B
+Resident must be advised about associated costs and 
+benefits  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+53
+
+--------------------------------------------------------------------------------
+Contents
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+2024 Act No. 27
+Page 5
+Authorised by the Parliamentary Counsel
+ 
+54
+Insertion of new s 136AA  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+54
+136AA
+Evidence of claim on rental bond to be given to tenant or 
+resident  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+54
+55
+Amendment of s 146 (Payments above maximum amount) . . . .
+55
+56
+Amendment of s 165 (General service charges for premises other than 
+moveable dwelling premises)  . . . . . . . . . . . . . . . . . . . . . . . . . . .
+55
+57
+Amendment of s 166 (Water service charges for premises other than 
+moveable dwelling premises)  . . . . . . . . . . . . . . . . . . . . . . . . . . .
+56
+57A
+Insertion of new s 166A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+57
+166A
+Water service charges for premises other than moveable 
+dwelling premises—charge for partial billing period  .
+57
+58
+Amendment of s 167 (Service charges for moveable dwelling premises 
+individually metered) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+58
+59
+Amendment of s 170 (Charge for utility service) . . . . . . . . . . . . .
+59
+60
+Amendment of s 173 (Certain terms about penalties and other payments 
+void) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+60
+61
+Amendment of s 178 (Certain terms about penalties and other payments 
+void) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+60
+62
+Amendment of s 193 (Notice of entry) . . . . . . . . . . . . . . . . . . . . .
+60
+63
+Insertion of new s 195A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+60
+195A
+When lessor or lessor’s agent may enter—notice to leave or 
+notice of intention to leave given . . . . . . . . . . . . . . . .
+60
+64
+Replacement of ss 207–209  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61
+207
+Process for approval to attach fixtures or make structural 
+changes—body corporate approval  . . . . . . . . . . . . .
+61
+208
+Process for approval to attach fixtures and make structural 
+changes—lessor approval . . . . . . . . . . . . . . . . . . . . .
+62
+209
+Agreement about fixtures and structural changes . . .
+63
+209A
+Attaching fixture or making structural change without lessor’s 
+agreement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+64
+65
+Insertion of new ch 3, pt 5, div 1, sdiv 3  . . . . . . . . . . . . . . . . . . .
+64
+Subdivision 3
+Tribunal orders about fixtures and structural changes
+209C
+Tribunal order about attaching fixtures or making structural 
+changes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+65
+66
+Amendment of s 211 (Changing locks) . . . . . . . . . . . . . . . . . . . .
+66
+67
+Replacement of ss 254–256  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+66
+254
+Process for approval to attach fixtures or make structural 
+changes—body corporate approval  . . . . . . . . . . . . .
+66
+255
+Process for approval to attach fixtures and make structural 
+changes—provider approval . . . . . . . . . . . . . . . . . . .
+67
+
+--------------------------------------------------------------------------------
+Contents
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Page 6
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+255A
+Agreement about fixtures and structural changes . . .
+68
+256
+Attaching fixture or making structural change without 
+provider’s agreement . . . . . . . . . . . . . . . . . . . . . . . . .
+69
+68
+Insertion of new ch 4, pt 1, div 4, sdiv 3  . . . . . . . . . . . . . . . . . . .
+70
+Subdivision 3
+Tribunal orders about fixtures and structural changes
+256AB
+Tribunal order about attaching fixtures or making structural 
+changes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+70
+69
+Amendment of s 259 (Entry after giving notice)  . . . . . . . . . . . . .
+72
+70
+Insertion of new s 259A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+72
+259A
+When provider or provider’s agent may enter—notice to leave 
+or notice of intention to leave given . . . . . . . . . . . . . .
+73
+71
+Amendment of s 262 (Entry by provider’s agent or other person) 
+73
+72
+Amendment of s 357A (Reletting costs)  . . . . . . . . . . . . . . . . . . .
+73
+73
+Amendment of s 396A (Reletting costs)  . . . . . . . . . . . . . . . . . . .
+75
+74
+Amendment of s 415 (Meaning of urgent application) . . . . . . . . .
+77
+75
+Amendment of s 420 (Orders about breach of agreements) . . . .
+77
+76
+Replacement of s 421 (Matters to which tribunal must have regard for 
+orders for compensation)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+77
+421
+Matters to which tribunal must have regard for orders for 
+compensation  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+78
+77
+Amendment of s 447 (False or misleading documents)  . . . . . . .
+78
+78
+Replacement of ch 9, hdg (Tenancy databases) . . . . . . . . . . . . .
+78
+79
+Amendment of s 457 (Definitions for ch 9)  . . . . . . . . . . . . . . . . .
+78
+80
+Insertion of new ch 9, pt 2 and ch 9, pt 3, hdg  . . . . . . . . . . . . . .
+79
+Part 2
+Protection of personal information
+457C
+Definition for part . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+79
+457D
+Requirements about collecting personal information 
+80
+457E
+Requirements about collected information  . . . . . . . .
+80
+81
+Amendment of s 458 (Non-application to internal databases)  . .
+81
+82
+Amendment of s 458B (Notice of listing if database used)  . . . . .
+82
+83
+Amendment of s 463 (Offence of contravening tribunal order) . .
+82
+84
+Amendment of s 527 (Confidentiality) . . . . . . . . . . . . . . . . . . . . .
+82
+85
+Insertion of new ch 14, pt 8, div 3  . . . . . . . . . . . . . . . . . . . . . . . .
+83
+Division 3
+Provisions commencing by proclamation
+582
+Existing applications for residential tenancies and rooming 
+accommodation . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+84
+583
+Application of amendments about payment of rent—existing 
+residential tenancy agreements  . . . . . . . . . . . . . . . .
+84
+
+--------------------------------------------------------------------------------
+Contents
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+2024 Act No. 27
+Page 7
+Authorised by the Parliamentary Counsel
+ 
+584
+Application of changes about payment of rent—existing 
+rooming accommodation agreements . . . . . . . . . . . .
+84
+585
+Evidence supporting claim on rental bond not required for 
+certain rental bonds . . . . . . . . . . . . . . . . . . . . . . . . . .
+84
+585A
+Maximum amount of rental bond—provision for existing 
+rental bonds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+85
+586
+Existing residential tenancy agreements including term about 
+paying reletting costs . . . . . . . . . . . . . . . . . . . . . . . . .
+86
+587
+Existing rooming accommodation agreements including term 
+about paying reasonable costs  . . . . . . . . . . . . . . . . .
+87
+588
+Transitional regulation making power  . . . . . . . . . . . .
+87
+86
+Amendment of sch 1 (Notice periods) . . . . . . . . . . . . . . . . . . . . .
+88
+87
+Amendment of sch 2 (Dictionary)  . . . . . . . . . . . . . . . . . . . . . . . .
+88
+Part 3
+Other legislation
+Division 1
+Amendment of Body Corporate and Community Management Act 
+1997
+88
+Act amended . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+89
+89
+Amendment of s 77 (Definitions for part) . . . . . . . . . . . . . . . . . . .
+89
+90
+Amendment of s 81B (What is a termination plan)  . . . . . . . . . . .
+90
+91
+Amendment of s 81N (Applications to court about termination plan) 
+91
+92
+Amendment of s 81R (Court orders) . . . . . . . . . . . . . . . . . . . . . .
+91
+93
+Replacement of s 81V (Particular leases) . . . . . . . . . . . . . . . . . .
+91
+81V
+Termination of particular leases  . . . . . . . . . . . . . . . .
+92
+94
+Insertion of new ch 8, pt 17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+92
+Part 17
+Transitional provisions for Residential Tenancies and 
+Rooming Accommodation and Other Legislation 
+Amendment Act 2024
+457
+Definition for part . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+93
+458
+Facilitator’s functions under existing termination plans 
+93
+459
+Proceedings for particular court orders . . . . . . . . . . .
+94
+95
+Amendment of sch 6 (Dictionary)  . . . . . . . . . . . . . . . . . . . . . . . .
+94
+Division 1A
+Amendment of Building Industry Fairness (Security of Payment) 
+Act 2017
+95A
+Act amended . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+95
+95B
+Amendment of s 79 (Application for adjudication  . . . . . . . . . . . .
+95
+95C
+Amendment of s 83 (Time for making adjudication response)  . .
+96
+95D
+Insertion of new ch 8D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+96
+Chapter 8D
+Validation provisions for Residential Tenancies and 
+Rooming Accommodation and Other Legislation 
+
+--------------------------------------------------------------------------------
+Contents
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Page 8
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+Amendment Act 2024
+215C
+Definitions for chapter . . . . . . . . . . . . . . . . . . . . . . . .
+96
+215D
+Validation of non-compliance with former section 79(3) 
+97
+215E
+Validation of adjudication decision made before 
+commencement—registry summary given to respondent 97
+215F
+Declaration of court made before commencement that 
+adjudication void is of no effect . . . . . . . . . . . . . . . . .
+98
+215G
+Adjudication application must be re-decided if adjudicator 
+decided before commencement that adjudicator did not have 
+jurisdiction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+100
+215H
+Continuation of adjudication if adjudication not completed 
+before commencement  . . . . . . . . . . . . . . . . . . . . . . .
+102
+215I
+No compensation payable by State . . . . . . . . . . . . . .
+103
+Division 2
+Amendment of Fair Trading Inspectors Act 2014
+96
+Act amended . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+104
+97
+Amendment of s 6 (Modifying operation of Act for Property Occupations 
+Act 2014) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+104
+Division 3
+Amendment of Local Government Act 2009
+98
+Act amended . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+105
+99
+Amendment of s 208 (Superannuation board (LGIAsuper Trustee)) 105
+100
+Replacement of s 220A (Amount of yearly contributions—permanent 
+employees)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+105
+220A
+ Amount of yearly contributions—permanent employees 105
+101
+Amendment of s 220B (Reduction in contributions to prevent them 
+exceeding concessional contributions cap) . . . . . . . . . . . . . . . . .
+107
+102
+Omission of s 221 (Exemption from payment of yearly contributions on 
+grounds of financial hardship) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+107
+103
+Insertion of new ch 9, pt 19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+107
+Part 19
+Transitional provisions for Residential Tenancies and 
+Rooming Accommodation and Other Legislation 
+Amendment Act 2024
+355
+Definitions for part . . . . . . . . . . . . . . . . . . . . . . . . . . .
+108
+356
+Change in name of board and scheme . . . . . . . . . . .
+108
+357
+Existing memberships and entitlements  . . . . . . . . . .
+109
+358
+Existing financial hardship exemptions . . . . . . . . . . .
+109
+359
+Particular employees of the Brisbane City Council . .
+110
+Division 4
+Amendment of Property Occupations Act 2014
+104
+Act amended . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+111
+105
+Amendment of s 28 (Limited property agent licence)  . . . . . . . . .
+111
+
+--------------------------------------------------------------------------------
+Contents
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+2024 Act No. 27
+Page 9
+Authorised by the Parliamentary Counsel
+ 
+106
+Amendment of s 45 (Eligibility for property agent licence)  . . . . .
+111
+107
+Amendment of s 46 (Eligibility for resident letting agent licence) 
+112
+108
+Amendment of s 58 (Application for renewal) . . . . . . . . . . . . . . .
+112
+109
+Amendment of s 59 (Chief executive may renew or refuse to renew 
+licence)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+113
+110
+Amendment of s 61 (Application for restoration) . . . . . . . . . . . . .
+113
+111
+Amendment of s 63 (Chief executive may restore or refuse to restore 
+licence)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+114
+112
+Insertion of new pt 3, div 1A  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+114
+Division 1A
+Continuing professional development
+92A
+Definitions for division . . . . . . . . . . . . . . . . . . . . . . . .
+114
+92B
+Licensees to complete CPD requirements  . . . . . . . .
+115
+92C
+Record of completed CPD requirements . . . . . . . . . .
+116
+92D
+Chief executive to approve and publish CPD requirements
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+116
+92E
+Chief executive may approve adjusted CPD year . . .
+116
+113
+Amendment of s 127 (Eligibility for registration as real estate 
+salesperson)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+117
+114
+Amendment of s 130 (Application for renewal) . . . . . . . . . . . . . .
+117
+115
+Amendment of s 131 (Chief executive may renew or refuse to renew 
+registration certificate) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+117
+116
+Amendment of s 133 (Application for restoration) . . . . . . . . . . . .
+118
+117
+Amendment of s 135 (Chief executive may restore or refuse to restore 
+registration certificate) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+118
+118
+Insertion of new pt 5, div 11  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+119
+Division 11
+Continuing professional development
+151A
+Definitions for division . . . . . . . . . . . . . . . . . . . . . . . .
+119
+151B
+Real estate salespersons to complete CPD requirements
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+120
+151C
+Record of completed CPD requirements . . . . . . . . . .
+120
+151D
+Chief executive to approve and publish CPD requirements
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+121
+151E
+ Chief executive may approve adjusted CPD year  . .
+121
+119
+Insertion of new ss 229B and 229C  . . . . . . . . . . . . . . . . . . . . . .
+121
+229B
+Confidentiality  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+121
+229C
+ Exchange of information . . . . . . . . . . . . . . . . . . . . . .
+122
+120
+Amendment of pt 14, hdg (Transitional provisions) . . . . . . . . . . .
+124
+
+--------------------------------------------------------------------------------
+Contents
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Page 10
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+121
+Insertion of new pt 15  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+124
+Part 15
+Transitional provisions for Property Occupations and 
+Other Legislation Amendment Act 2024
+273
+Application of s 92B to licensees holding existing licences
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+124
+274
+Application of s 151B to real estate salespersons holding 
+existing registration certificates . . . . . . . . . . . . . . . . .
+125
+122
+Amendment of sch 2 (Dictionary)  . . . . . . . . . . . . . . . . . . . . . . . .
+125
+Division 5
+Other amendments
+123
+Legislation amended . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+126
+Schedule 1
+Other amendments  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 127
+Part 1
+Amendments commencing on assent
+Residential Tenancies and Rooming Accommodation Regulation 2009
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+127
+State Penalties Enforcement Regulation 2014  . . . . . . . . . . . . . .
+128
+Part 2
+Amendments commencing on 1 July 2024
+Local Government Act 2009  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+129
+Local Government Regulation 2012  . . . . . . . . . . . . . . . . . . . . . .
+130
+Superannuation (Public Employees Portability) Regulation 2019 
+130
+Superannuation (State Public Sector) Act 1990  . . . . . . . . . . . . .
+130
+
+--------------------------------------------------------------------------------
+ 
+[s 1]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 1 Preliminary
+2024 Act No. 27
+Page 11
+Authorised by the Parliamentary Counsel
+The Parliament of Queensland enacts—
+Part 1
+Preliminary
+1
+Short title
+This Act may be cited as the Residential Tenancies and
+Rooming Accommodation and Other Legislation Amendment
+Act 2024.
+2
+Commencement
+(1)
+The following provisions commence on 1 July 2024—
+(a)
+part 3, division 3;
+(b)
+schedule 1, part 2.
+(2)
+Part 3, divisions 2 and 4 commence 1 year after the date of
+assent.
+(3)
+Part 2, division 3 commences on a day to be fixed by
+proclamation.
+Part 2
+Amendment of Residential 
+Tenancies and Rooming 
+Accommodation Act 2008
+Division 1
+Preliminary
+3
+Act amended
+This part amends the Residential Tenancies and Rooming
+Accommodation Act 2008.
+
+--------------------------------------------------------------------------------
+Page 12
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 4]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+Division 2
+Amendments commencing on 
+assent
+4
+Amendment of s 29 (Act applies to certain residential 
+tenancy agreements etc.)
+Section 29(2), example 3—
+omit, insert—
+3
+Under sections 32 and 44A, this Act generally does
+not apply to an agreement if the tenant or resident is
+a boarder or lodger.
+5
+Amendment of s 44 (Rooming accommodation 
+agreements to which Act does not apply)
+Section 44(3)—
+omit, insert—
+(3)
+Despite subsection (1), if a rental bond is paid for
+rooming accommodation mentioned in subsection
+(1)(a) or (f), the provisions of this Act about rental
+bonds apply to the agreement.
+6
+Insertion of new s 44A
+After section 44—
+insert—
+44A Boarders and lodgers
+(1)
+This Act does not apply to a rooming
+accommodation agreement if the resident is a
+boarder or lodger.
+(2)
+However, if a rental bond is paid for a rooming
+accommodation agreement under which the
+resident is a boarder or lodger, the provisions of
+this Act about rental bonds apply to the
+agreement.
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 13
+Authorised by the Parliamentary Counsel
+[s 7]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+Note—
+See section 433 for the matters to which the tribunal
+must have regard in deciding whether a person is a
+boarder or lodger.
+7
+Amendment of s 57 (Offer of residential tenancy must be 
+for rent at a fixed amount)
+(1)
+Section 57(1), ‘lessor or lessor’s agent’—
+omit, insert—
+person
+(2)
+Section 57(1), penalty—
+omit, insert—
+Maximum penalty—50 penalty units.
+(3)
+Section 57(2), ‘lessor or lessor’s agent’—
+omit, insert—
+person
+(4)
+Section 57(2), penalty—
+omit, insert—
+Maximum penalty—50 penalty units.
+(5)
+Section 57—
+insert—
+(2A)
+A person must not solicit or otherwise invite an
+offer, or accept an offer, of an amount for a
+residential tenancy for premises that is more than
+the fixed amount stated in an advertisement or
+offer as the amount of rent for the premises.
+Maximum penalty—50 penalty units.
+(6)
+Section 57(2A) and (3)—
+renumber as section 57(3) and (4). 
+
+--------------------------------------------------------------------------------
+Page 14
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 7A]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+7A
+Insertion of new s 57AA
+After section 57A—
+insert—
+57AA Offer of residential tenancy—limitation on 
+rent in advance
+(1)
+This section applies if a residential tenancy for
+premises is advertised or otherwise offered by a
+lessor or lessor’s agent.
+(2)
+A person must not solicit or otherwise invite an
+offer, or accept an offer, of an amount of rent in
+advance for the premises that is more than the
+amount required under section 87(1). 
+Maximum penalty—50 penalty units.
+8
+Amendment of s 61 (Written agreements required)
+(1)
+Section 61(2)—
+insert—
+(c)
+include the day the rent for the premises was
+last increased, within the meaning of section
+93, at the time the agreement is entered into.
+(2)
+Section 61—
+insert—
+(2A)
+However, subsection (2)(c) does not apply if the
+lessor is an exempt lessor.
+9
+Amendment of s 73 (Standard terms)
+Section 73(2), note, ‘section 77(2)’—
+omit, insert—
+section 77(2)(a)
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 15
+Authorised by the Parliamentary Counsel
+[s 10]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+10
+Insertion of new ss 76AA and 76AB
+After section 76—
+insert—
+76AA Offer of rooming accommodation must be for 
+rent at a fixed amount
+(1)
+A person must not advertise or otherwise offer
+rooming accommodation for rental premises
+unless a fixed amount is stated in the
+advertisement or offer as the amount of rent for
+the rental premises.
+Maximum penalty—50 penalty units.
+(2)
+A person must not accept a rental bond from the
+resident of rental premises if the rooming
+accommodation for the rental premises was
+advertised or offered without stating a fixed
+amount of rent for the rental premises.
+Maximum penalty—50 penalty units.
+(3)
+A person must not solicit or otherwise invite an
+offer, or accept an offer, of an amount for rooming
+accommodation for rental premises that is more
+than the fixed amount stated in an advertisement
+or offer as the amount of rent for the rental
+premises.
+Maximum penalty—50 penalty units.
+(4)
+A person does not contravene this section merely
+by placing a sign on or near rental premises
+advertising or offering rooming accommodation
+for the rental premises without stating the amount
+of rent for the rental premises on the sign.
+76AB Offer of rooming accommodation—limitation 
+on rent in advance
+(1)
+This section applies if rooming accommodation
+for rental premises is advertised or otherwise
+
+--------------------------------------------------------------------------------
+Page 16
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 11]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+offered by a provider or provider’s agent.
+(2)
+A person must not solicit or otherwise invite an
+offer, or accept an offer, of an amount of rent in
+advance for the rental premises that is more than
+the amount required under section 101(1). 
+Maximum penalty—50 penalty units.
+11
+Amendment of s 77 (Written agreement required)
+(1)
+Section 77(1), penalty—
+omit, insert—
+Maximum penalty—40 penalty units.
+(2)
+Section 77(2)—
+omit, insert—
+(2)
+The written agreement must include—
+(a)
+the standard terms for the agreement; and
+(b)
+any special terms of the agreement; and 
+(c)
+the day the rent for the resident’s room was
+last increased, within the meaning of section
+105B, at the time the agreement is entered
+into.
+(2A)
+However, subsection (2)(c) does not apply if the
+provider is an exempt provider.
+12
+Insertion of new s 82A
+Before section 83—
+insert—
+82A Meaning of exempt lessor
+A lessor of premises is an exempt lessor if—
+(a)
+the lessor receives funding for the premises
+under the Housing Act 2003 if the amount of
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 17
+Authorised by the Parliamentary Counsel
+[s 14]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+rent payable for the premises is determined
+by household income; or
+Examples—
+•
+a community housing provider
+•
+a specialist homelessness service
+(b)
+the lessor receives funding for the premises
+that is the subject of a funding declaration
+under the Community Services Act 2007 if
+the amount of rent payable for the premises
+is determined by household income; or
+(c)
+the lessor is the chief executive of the
+housing department, acting on behalf of the
+State; or
+(d)
+the lessor is the State and the tenant is an
+officer or employee of the State; or
+(e)
+the lessor is the replacement lessor under a
+community 
+housing 
+provider 
+tenancy
+agreement; or
+(f)
+the lessor is prescribed by regulation to be
+an exempt lessor.
+14
+Amendment of s 91 (Rent increases)
+(1)
+Section 91(1)—
+insert—
+Note—
+See also section 93 for the minimum period before rent
+can be increased under a residential tenancy agreement.
+(2)
+Section 91(3)—
+insert—
+(c)
+the day the rent was last increased for the
+premises.
+(2A)
+Section 91—
+
+--------------------------------------------------------------------------------
+Page 18
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 15]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+insert—
+(3A)
+However, subsection (3)(c) does not apply if the
+lessor is an exempt lessor. 
+(2B)
+Section 91(4), after ‘day stated in the notice’—
+insert—
+under subsection (3)(b)
+(3)
+Section 91(8), ‘section 93’—
+omit, insert—
+sections 93 and 93A
+15
+Amendment of s 93 (Minimum period before rent can be 
+increased)
+(1)
+Section 93(1) and (2)—
+omit, insert—
+(1)
+A lessor or lessor’s agent must not increase, or
+purport to increase, the rent payable by a tenant
+less than 12 months after the last rent increase for
+the residential premises.
+Maximum penalty—20 penalty units.
+(2)
+For this section, rent is increased for the
+residential premises if—
+(a)
+a rent increase happens during the term of a
+residential tenancy agreement; or
+(b)
+a new residential tenancy agreement (a new
+agreement) is entered into for the residential
+premises and, immediately before rent
+becomes payable under the new agreement,
+either—
+(i)
+rent was not payable for the residential
+premises; or
+(ii) the amount of rent payable for the
+residential premises was less than the
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 19
+Authorised by the Parliamentary Counsel
+[s 15]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+rent that will be payable under the new
+agreement.
+(2A)
+The 12-month period mentioned in subsection (1)
+applies even if the last rent increase for the
+residential premises related to a different
+residential tenancy agreement, including a
+residential tenancy agreement entered into by a
+previous owner of the premises.
+Example—
+Under a residential tenancy agreement with Tenant A,
+rent is increased on 1 November 2024. A new residential
+tenancy agreement for the residential premises is
+entered into with Tenant B, commencing on 1 February
+2025. Under subsection (1), the rent must not be
+increased until 12 months after 1 November 2024.
+(2B)
+Also, if the residential premises are moveable
+dwelling premises in a moveable dwelling park
+for a long tenancy (moveable dwelling), the
+12-month period mentioned in subsection (1)
+applies whether the last rent increase was for the
+dwelling or its site, or both.
+(2)
+Section 93(5)—
+omit, insert—
+(5)
+This section does not apply—
+(a)
+to an exempt lessor or an agent of an exempt
+lessor; or
+(b)
+to the extent the rent payable under a
+residential tenancy agreement is increased
+under an order of the tribunal under section
+93B.
+(3)
+Section 93(6)—
+omit.
+(4)
+Section 93(2A) to (5)—
+renumber as section 93(3) to (7).
+
+--------------------------------------------------------------------------------
+Page 20
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 16]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+16
+Insertion of new ss 93A and 93B
+After section 93—
+insert—
+93A Evidence of last rent increase
+(1)
+A tenant may, by written notice, ask a lessor or
+lessor’s agent to give the tenant evidence of the
+day of the last rent increase for the residential
+premises. 
+Examples of evidence of the day of the last rent increase—
+•
+a copy of a previous residential tenancy agreement
+for the residential premises
+•
+a written rent increase notice for the residential
+premises
+•
+a copy of the rent ledger for the residential premises
+(2)
+The lessor or lessor’s agent must give the tenant
+the evidence within 14 days after receiving the
+request. 
+Maximum penalty—40 penalty units.
+(3)
+Evidence must not be given to the tenant under
+this section unless personal information about any
+other person has been removed or otherwise
+de-identified. 
+(4)
+This section does not apply in relation to an
+exempt lessor or an agent of an exempt lessor.
+93B Tribunal order about rent increase
+(1)
+This section applies if a lessor reasonably believes
+the lessor would be caused undue hardship
+because the lessor is not able to increase the rent
+payable under a residential tenancy agreement
+during the 12-month period mentioned in section
+93(1). 
+(2)
+The lessor may apply to a tribunal for an order
+mentioned in subsection (3). 
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 21
+Authorised by the Parliamentary Counsel
+[s 17]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(3)
+The tribunal may make an order permitting the
+lessor to increase the rent payable under the
+residential tenancy agreement by a stated amount.
+(4)
+In deciding the application, the tribunal must have
+regard to any representation made by a tenant
+under the residential tenancy agreement about the
+proposed rent increase and its likely effect on—
+(a)
+the affordability of the premises; and
+(b)
+the tenant’s ability to continue to pay the
+rent for the premises. 
+(5)
+This section does not apply in relation to an
+exempt lessor or an agent of an exempt lessor.
+17
+Amendment of s 94 (Rent decreases)
+Section 94—
+insert—
+(5)
+Subsection (6) applies if the rent payable under an
+agreement—
+(a)
+is decreased under this section or by order of
+a tribunal; and
+(b)
+later reverts to the rent payable before the
+decrease.
+(6)
+The change in rent payable under the agreement
+mentioned in subsection (5)(b) is taken not to be a
+rent increase for section 91 or 93.
+17A
+Insertion of new s 97A
+Before section 98—
+insert—
+97A Meaning of exempt provider
+A provider of rooming accommodation is an
+exempt provider if—
+
+--------------------------------------------------------------------------------
+Page 22
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 18A]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(a)
+the provider receives funding for the
+rooming accommodation under the Housing
+Act 2003 if the amount of rent payable for
+the rooming accommodation is determined
+by household income; or
+Examples—
+a community housing provider, a specialist
+homelessness service
+(b)
+the provider receives funding for the
+rooming accommodation that is the subject
+of 
+a 
+funding 
+declaration 
+under 
+the
+Community Services Act 2007 if the amount
+of 
+rent 
+payable 
+for 
+the 
+rooming
+accommodation is determined by household
+income; or
+(c)
+the provider is the chief executive of the
+housing department, acting on behalf of the
+State; or
+(d)
+the provider is prescribed by regulation to
+be an exempt provider. 
+18A
+Amendment of s 105 (Rent increases)
+(1)
+Section 105(2)—
+insert—
+(c)
+the day the rent was last increased for the
+resident’s room.
+(2)
+Section 105, after subsection (2)—
+insert—
+(2AA)
+However, subsection (2)(c) does not apply if the
+provider is an exempt provider. 
+(3)
+Section 105(2A), after ‘day stated in the notice’—
+insert—
+under subsection (2)(b)
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 23
+Authorised by the Parliamentary Counsel
+[s 19]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+19
+Amendment of s 105B (Minimum period before rent can 
+be increased)
+(1)
+Section 105B(1) and (2)—
+omit, insert—
+(1)
+A provider or provider’s agent must not increase,
+or purport to increase, the rent payable by a
+resident less than 12 months after the last rent
+increase for the resident’s room.
+Maximum penalty—20 penalty units.
+(2)
+For this section, rent is increased for the
+resident’s room if—
+(a)
+a rent increase happens during the term of a
+rooming accommodation agreement; or
+(b)
+a new rooming accommodation agreement
+(a new agreement) is entered into for the
+resident’s room and, immediately before
+rent becomes payable under the new
+agreement, either—
+(i)
+rent was not payable for the resident’s
+room; or
+(ii) the amount of rent payable for the
+resident’s room was less than the rent
+that will be payable under the new
+agreement.
+(2A)
+The 12-month period mentioned in subsection (1)
+applies even if the last rent increase for the
+resident’s room related to a different rooming
+accommodation agreement, including a rooming
+accommodation agreement entered into by a
+previous provider of the rental premises.
+Example—
+Under a rooming accommodation agreement with
+Resident A, rent is increased on 1 November 2024. A
+new rooming accommodation agreement for the
+resident’s room is entered into with Resident B,
+
+--------------------------------------------------------------------------------
+Page 24
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 20]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+commencing on 1 February 2025. Under subsection (1),
+the rent must not be increased until 12 months after 1
+November 2024.
+(2)
+Section 105B—
+insert—
+(3A)
+If the amount of rent payable under a rooming
+accommodation agreement includes payment for
+both accommodation and a service, the 12-month
+period mentioned in subsection (1) applies only in
+relation to an increase in rent payable for
+accommodation under the agreement. 
+(3)
+Section 105B—
+insert—
+(4A)
+This section does not apply—
+(a)
+to an exempt provider or an agent of an
+exempt provider; or
+(b)
+to the extent the rent payable under a
+rooming accommodation agreement is
+increased under an order of the tribunal
+under section 105E.
+(4)
+Section 105B(5)—
+omit.
+(5)
+Section 105B(2A) to (4A)—
+renumber as section 105B(3) to (7).
+20
+Insertion of new ss 105C–105E
+After section 105B—
+insert—
+105C Evidence of last rent increase
+(1)
+A resident may, by written notice, ask a provider
+or provider’s agent to give the resident evidence
+of the day of the last rent increase for the
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 25
+Authorised by the Parliamentary Counsel
+[s 20]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+resident’s room.
+Examples of evidence of the day of the last rent increase—
+•
+a copy of a previous rooming accommodation
+agreement for the resident’s room
+•
+a written rent increase notice for the resident’s room
+•
+a copy of the rent ledger for the resident’s room
+(2)
+The provider or provider’s agent must give the
+resident the evidence within 14 days after
+receiving the request.
+Maximum penalty—40 penalty units.
+(3)
+Evidence must not be given to the resident under
+this section unless personal information about any
+other person has been removed or otherwise
+de-identified.
+(4)
+This section does not apply in relation to an
+exempt provider or an agent of an exempt
+provider.
+105D Rent increase in relation to service provided 
+under agreement
+An increase in the rent payable under a rooming
+accommodation agreement that relates only to an
+increase in the cost of a personal care service or
+food service provided under the agreement is
+taken not to be a rent increase for section 105 or
+105B. 
+105E Tribunal order about rent increase
+(1)
+This section applies if a provider reasonably
+believes the provider would be caused undue
+hardship because the provider is not able to
+increase the rent payable under a rooming
+accommodation agreement during the 12-month
+period mentioned in section 105B(1). 
+
+--------------------------------------------------------------------------------
+Page 26
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 21]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(2)
+The provider may apply to a tribunal for an order
+mentioned in subsection (3). 
+(3)
+The tribunal may make an order permitting the
+provider to increase the rent payable under the
+rooming accommodation agreement by a stated
+amount.
+(4)
+In deciding the application, the tribunal must have
+regard to any representation made by a resident
+under the rooming accommodation agreement
+about the proposed rent increase and its likely
+effect on—
+(a)
+the affordability of the resident’s room; and
+(b)
+the resident’s ability to continue to pay the
+rent for the room. 
+21
+Insertion of new s 107A
+After section 107—
+insert—
+107A Rent decreases
+(1)
+This section applies if the rent payable under
+a rooming accommodation agreement—
+(a)
+is decreased under section 106 or 107
+or by order of a tribunal; and
+(b)
+later reverts to the rent payable before
+the decrease.
+(2)
+The change in rent payable under the
+agreement mentioned in subsection (1)(b) is
+taken not to be a rent increase for section 105
+or 105B.
+22
+Amendment of s 136E (Payment of rental bond after 
+dispute resolution process)
+Section 136E(2)(d)(iii), after ‘withdrawn’—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 27
+Authorised by the Parliamentary Counsel
+[s 23]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+insert—
+or dismissed
+23
+Replacement of s 138 (Payment to rental bond supplier)
+Section 138—
+omit, insert—
+138 Payment to rental bond supplier
+(1)
+This section applies if—
+(a)
+all or part of a rental bond is payable to a
+contributor for the bond; and
+(b)
+all or part of the contributor’s part of the
+bond was provided by way of loan from the
+housing department; and
+(c)
+an amount of the loan is owing to the
+housing department.
+(2)
+The authority must pay the contributor’s part of
+the rental bond as follows—
+(a)
+to the extent of the amount owing to the
+housing 
+department—to 
+the 
+housing
+department;
+(b)
+the remainder, if any, to the contributor.
+24
+Amendment of s 148 (Order for return of bond if bond 
+wrongfully taken)
+Section 148(1)(b), after ‘section 76A(2)’—
+insert—
+or 76AA(2)
+25
+Insertion of new s 155A
+After section 155—
+
+--------------------------------------------------------------------------------
+Page 28
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 26]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+insert—
+155A Transfer of rental bond
+(1)
+This section applies if a rental bond has been paid
+for a residential tenancy agreement or rooming
+accommodation agreement.
+(2)
+The authority may, in the circumstances
+prescribed by regulation, transfer all or part of the
+rental bond to another agreement (the new
+agreement).
+(3)
+For section 111, an amount of rental bond
+transferred under this section is taken to be an
+amount paid by or for the tenant under the new
+agreement.
+(4)
+Without limiting subsection (2), a regulation may
+provide for the following matters—
+(a)
+any requirements relating to the transfer of
+the rental bond that must be complied with
+for the transfer to take effect, including, for
+example, the payment of fees;
+(b)
+how a provision of this Act relating to
+payment or refund of a rental bond applies
+in relation to a rental bond transferred under
+this section; 
+(c)
+how a provision of this Act relating to the
+making of claims against the rental bond
+applies in relation to a rental bond
+transferred under this section.
+(5)
+This section and any regulation made under this
+section expire 2 years after this section
+commences.
+26
+Insertion of new ch 3, pt 5, div 1, sdiv 1
+Before section 207—
+insert—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 29
+Authorised by the Parliamentary Counsel
+[s 27]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+Subdivision 1
+Fixtures and structural 
+changes generally
+206A Application of subdivision
+(1)
+This subdivision applies in relation to attaching a
+fixture, or making a structural change, to
+premises.
+(2)
+However, this subdivision does not apply if
+subdivision 2 applies in relation to the attachment
+of the fixture or the making of the structural
+change. 
+27
+Insertion of new ch 3, pt 5, div 1, sdiv 2
+After section 209—
+insert—
+Subdivision 2
+Fixtures and structural 
+changes for safety, 
+security or accessibility
+209B Attaching fixtures or making structural 
+changes for safety, security or accessibility
+A fixture may be attached, or a structural change
+may be made, to premises if the fixture or
+structural change—
+(a)
+is necessary for a tenant’s safety, security or
+accessibility; and
+(b)
+is attached or made in the circumstances,
+and in accordance with any requirements,
+prescribed by regulation.
+28
+Amendment of s 245 (Injury to domestic associate)
+Section 245(2) and (7), ‘the tenant’—
+
+--------------------------------------------------------------------------------
+Page 30
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 29]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+omit, insert—
+the sole tenant
+29
+Insertion of new ch 4, pt 1, div 1, hdg
+Before section 247—
+insert—
+Division 1
+Provider’s obligations
+30
+Insertion of new ch 4, pt 1, div 2, hdg
+Before section 250—
+insert—
+Division 2
+Locks and keys
+31
+Insertion of new ch 4, pt 1, div 3, hdg
+Before section 253—
+insert—
+Division 3
+Resident’s obligations
+32
+Insertion of new ch 4, pt 1, div 4, hdg and sdiv 1
+Before section 254—
+insert—
+Division 4
+Fixtures and structural 
+changes
+Subdivision 1
+Fixtures and structural 
+changes generally
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 31
+Authorised by the Parliamentary Counsel
+[s 33]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+253A Application of subdivision
+(1)
+This subdivision applies in relation to attaching a
+fixture, or making a structural change, to rental
+premises.
+(2)
+However, this subdivision does not apply if
+subdivision 2 applies in relation to the attachment
+of the fitting or the making of the structural
+change.
+33
+Insertion of new ch 4, pt 1, div 4, sdiv 2
+After section 256—
+insert—
+Subdivision 2
+Fixtures and structural 
+changes for safety, 
+security or accessibility
+256AA Attaching fixtures or making structural 
+changes for safety, security or accessibility
+A fixture may be attached, or a structural change
+may be made, to rental premises if the fixture or
+structural change—
+(a)
+is necessary for a resident’s safety, security
+or accessibility; and
+(b)
+is attached or made in the circumstances,
+and in accordance with any requirements,
+prescribed by regulation.
+34
+Amendment of s 259 (Entry after giving notice)
+Section 259(1)—
+insert—
+(f)
+to install, maintain or replace a smoke
+alarm.
+
+--------------------------------------------------------------------------------
+Page 32
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 35]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+35
+Amendment of s 277 (Ending of residential tenancy 
+agreements)
+Section 277—
+insert—
+Note—
+See also the Body Corporate and Community
+Management Act 1997 for the termination of a
+residential tenancy agreement if a community titles
+scheme is terminated.
+36
+Insertion of new s 292
+After section 291—
+insert—
+292 Notice to leave for end of agreed short tenancy 
+period
+(1)
+This section applies in relation to a residential
+tenancy that is a short tenancy (moveable
+dwelling) for moveable dwelling premises in a
+moveable dwelling park.
+(2)
+The lessor may give a notice to leave the premises
+to the tenant relating to the ending of the tenant’s
+occupation of the premises at the end of— 
+(a)
+the base period; or
+(b)
+if a short tenancy (extension) statement has
+been made—the extended period.
+(3)
+A notice to leave under this section must be given
+at least 2 days before the period mentioned in
+subsection (2) ends.
+(4)
+A notice to leave under this section is called a
+notice to leave for end of short tenancy
+(moveable dwelling).
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 33
+Authorised by the Parliamentary Counsel
+[s 37]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+37
+Insertion of new s 307E
+After section 307D—
+insert—
+307E Notice of intention to leave for end of agreed 
+short tenancy period
+(1)
+This section applies in relation to a residential
+tenancy that is a short tenancy (moveable
+dwelling) for moveable dwelling premises in a
+moveable dwelling park.
+(2)
+The tenant may give a notice of intention to leave
+the premises to the lessor or lessor’s agent relating
+to the ending of the tenant’s occupation of the
+premises at the end of—
+(a)
+the base period; or
+(b)
+if a short tenancy (extension) statement has
+been made—the extended period.
+(3)
+A notice of intention to leave under this section
+must be given at least 1 day before the period
+mentioned in subsection (2) ends.
+(4)
+A notice of intention to leave under this section is
+called a notice of intention to leave for end of
+short tenancy (moveable dwelling).
+38
+Amendment of s 308I (Confidentiality)
+(1)
+Section 308I(1), ‘evidence supporting’—
+omit, insert—
+relevant information in relation to
+(2)
+Section 308I(1)(c) and (2), ‘evidence’—
+omit, insert—
+relevant information
+(3)
+Section 308I—
+
+--------------------------------------------------------------------------------
+Page 34
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 39]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+insert—
+(3)
+In this section—
+relevant information, for a notice ending tenancy
+interest, means—
+(a)
+evidence supporting the notice; or
+(b)
+personal information about the tenant who
+gives the notice, including information
+about the tenant’s intention to vacate the
+premises.
+39
+Amendment of s 326 (Notice to leave)
+(1)
+Section 326—
+insert—
+(6A)
+Also, for a notice to leave for end of short tenancy
+(moveable dwelling), the handover day must be
+the last day of—
+(a)
+the base period; or
+(b)
+if a short tenancy (extension) statement has
+been made—the extended period.
+(2)
+Section 326(6A) and (7)—
+renumber as section 326(7) and (8).
+40
+Amendment of s 327 (Notice of intention to leave)
+(1)
+Section 327—
+insert—
+(2A)
+Also, for a notice of intention to leave for end of
+short tenancy (moveable dwelling), the handover
+day must be the last day of—
+(a)
+the base period; or
+(b)
+if a short tenancy (extension) statement has
+been made—the extended period.
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 35
+Authorised by the Parliamentary Counsel
+[s 41]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(2)
+Section 327(5), ‘Subsection (4)’—
+omit, insert—
+Subsection (5)
+(3)
+Section 327(2A) to (6)—
+renumber as section 327(3) to (7).
+41
+Amendment of s 366 (Ending of rooming accommodation 
+agreements)
+Section 366—
+insert—
+Note—
+See also the Body Corporate and Community
+Management Act 1997 for the termination of a rooming
+accommodation agreement if a community titles scheme
+is terminated.
+42
+Amendment of s 380C (Notice to leave if entitlement to 
+student accommodation ends)
+Section 380C, heading, ‘to leave’—
+omit, insert—
+terminating agreement
+43
+Amendment of s 381I (Confidentiality)
+(1)
+Section 381I(1), ‘evidence supporting’—
+omit, insert—
+relevant information in relation to
+(2)
+Section 381I(1)(c) and (2), ‘evidence’—
+omit, insert—
+relevant information
+(3)
+Section 381I—
+
+--------------------------------------------------------------------------------
+Page 36
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 44]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+insert—
+(3)
+In this section—
+relevant information, for a notice ending
+residency interest, means—
+(a)
+evidence supporting the notice; or
+(b)
+personal information about the resident who
+gives the notice, including information
+about the resident’s intention to leave the
+rental premises.
+44
+Amendment of s 393 (Item other than personal document 
+or money)
+(1)
+Section 393—
+insert—
+(3A)
+Without limiting subsection (3)(a), reasonable
+efforts to contact the former resident include the
+following—
+(a)
+attempting to contact the former resident by
+telephone, including text message, email or
+private message on a social media platform;
+(b)
+attempting to contact an emergency contact
+listed in the rooming accommodation
+agreement;
+(c)
+publishing a notice in an online newspaper
+for the city or State in which the former
+resident is or was residing.
+(2)
+Section 393(4)(b)—
+omit, insert—
+(b)
+sell or dispose of the property.
+(3)
+Section 393(5), ‘subsection (4)(b)’—
+omit, insert—
+subsection (5)(b)
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 37
+Authorised by the Parliamentary Counsel
+[s 45]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(4)
+Section 393(3A) to (7)—
+renumber as section 393(4) to (8).
+45
+Insertion of new s 519A
+After section 519—
+insert—
+519A Code of conduct
+(1)
+A regulation may prescribe a code of conduct. 
+(2)
+A provision of a code of conduct is a conduct
+provision.
+(3)
+A conduct provision may apply to the conduct of
+agents, lessors, providers, tenants or residents.
+(4)
+A conduct provision must not be inconsistent with
+a provision of—
+(a)
+the Agents Financial Administration Act
+2014; or
+(b)
+the Property Occupations Act 2014.
+(5)
+Despite section 520(2)(b), a regulation may
+impose a penalty of not more than 50 penalty units
+for contravention of a conduct provision.
+46
+Amendment of s 527A (Definitions for ch 13A)
+Section 527A, definition replacement lessor, second
+occurrence—
+omit.
+47
+Insertion of new ch 14, pt 8
+Chapter 14—
+insert—
+
+--------------------------------------------------------------------------------
+Page 38
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 47]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+Part 8
+Transitional provisions 
+for Residential 
+Tenancies and 
+Rooming 
+Accommodation and 
+Other Legislation 
+Amendment Act 2024
+Division 1
+Preliminary
+577 Definitions for part
+In this part—
+amending Act means the Residential Tenancies
+and 
+Rooming 
+Accommodation 
+and 
+Other
+Legislation Amendment Act 2024.
+former, for a provision of this Act, means the
+provision as in force immediately before the
+commencement of the provision in which the term
+is used.
+new, for a provision of this Act, means the
+provision as in force from the commencement of
+the provision in which the term is used.
+Division 2
+Provisions commencing 
+on assent
+578 Existing agreements not required to include 
+date of last rent increase
+(1)
+Despite new section 61(2)(c), a written agreement
+for a residential tenancy agreement entered into
+before the commencement is not required to
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 39
+Authorised by the Parliamentary Counsel
+[s 47]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+include the day the rent was last increased for the
+residential premises.
+(2)
+Despite new section 77(2)(c), a written agreement
+for a rooming accommodation agreement entered
+into before the commencement is not required to
+include the day the rent was last increased for the
+rental premises.
+579 Rent increases before the commencement 
+relevant to working out 12-month period—s 93
+For working out the 12-month period under new
+section 93(1), a reference in new section 93 to a
+rent increase for the residential premises includes
+a reference to an increase that happened before
+the commencement.
+579A Requirement for lessor to give evidence of 
+rent increase if premises purchased within 12 
+months of commencement
+(1)
+This section applies if—
+(a)
+premises the subject of a residential tenancy
+agreement are purchased by the lessor
+within 12 months after the commencement;
+and 
+(b)
+the lessor does not hold information about
+the day of the last rent increase for the
+premises. 
+(2)
+New section 93A(2) does not apply to the lessor
+or lessor’s agent in relation to the premises.
+(3)
+For 
+subsection 
+(1)(b), 
+the 
+lessor 
+holds
+information if the lessor, or an agent of the lessor,
+is in possession or control of the information. 
+
+--------------------------------------------------------------------------------
+Page 40
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 47]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+579B Requirement for provider to give evidence of 
+rent increase if rental premises purchased 
+within 12 months of commencement
+(1)
+This section applies if—
+(a)
+rental premises the subject of a rooming
+accommodation agreement are purchased by
+the provider within 12 months after the
+commencement; and 
+(b)
+the provider does not hold information
+about the day of the last rent increase for the
+resident’s room. 
+(2)
+New section 105C(2) does not apply to the
+provider or provider’s agent in relation to the
+resident’s room.
+(3)
+For subsection (1)(b), the provider holds
+information if the provider, or an agent of the
+provider, is in possession or control of the
+information.
+580 Rent increases before the commencement 
+relevant to working out 12-month period—s 
+105B
+For working out the 12-month period under new
+section 105B(1), a reference in new section 105B
+to a rent increase for the resident’s room includes
+a reference to an increase that happened before
+the commencement.
+581 Payment of rental bond after dispute 
+resolution process and application dismissed 
+by tribunal
+(1)
+This 
+section 
+applies 
+if, 
+before 
+the
+commencement—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 41
+Authorised by the Parliamentary Counsel
+[s 48]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(a)
+the authority received an application for
+payment of a rental bond under section 125;
+and
+(b)
+under chapter 2, part 3, division 3,
+subdivision 2, 3 or 3A, there were 1 or more
+interested persons for the payment directed
+to be made under the application; and
+(c)
+1 or more dispute resolution requests were
+made about the payment under section
+136A; and
+(d)
+the conciliation process for each dispute
+resolution 
+request 
+ended 
+without 
+a
+conciliated resolution; and
+(e)
+1 or more of the interested persons, given
+notice about the ending of the conciliation
+process, applied to the tribunal for an order
+about the payment under section 136B but
+all of the applications were dismissed; and
+(f)
+the rental bond had not been paid.
+(2)
+New section 136E applies in relation to the
+payment of the rental bond.
+48
+Amendment of sch 1 (Notice periods)
+(1)
+Schedule 1, part 1, division 3, table—
+insert—
+(2)
+Schedule 1, part 2, division 3, table—
+insert—
+notice to leave for end of short
+tenancy (moveable dwelling) (s
+292)
+2 days after the notice is given to the
+tenant
+
+--------------------------------------------------------------------------------
+Page 42
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 49]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+49
+Amendment of sch 2 (Dictionary)
+(1)
+Schedule 2, definitions rental bond supplier and replacement
+lessor both occurrences—
+omit.
+(2)
+Schedule 2—
+insert—
+end of short tenancy (moveable dwelling)—
+(a)
+for a notice to leave, see section 292(4); or
+(b)
+for a notice of intention to leave, see section
+307E(4).
+exempt lessor see section 82A.
+exempt provider see section 97A.
+extended period see section 48(1). 
+replacement lessor see section 527A.
+(3)
+Schedule 2, definition personal information, ‘, for chapter
+9,’—
+omit.
+Division 3
+Amendments commencing by 
+proclamation
+50
+Insertion of new ss 57B–57D
+After section 57A—
+insert—
+notice of intention to leave for end
+of 
+short 
+tenancy 
+(moveable
+dwelling) (s 307E)
+1 day after the notice is given to the
+lessor
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 43
+Authorised by the Parliamentary Counsel
+[s 50]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+57B Application for residential tenancy
+(1)
+This section applies if a lessor or lessor’s agent
+requires a prospective tenant to apply for a
+residential tenancy.
+(2)
+However, this section does not apply to a relevant
+lessor or an agent of a relevant lessor.
+(3)
+The lessor or lessor’s agent must require the
+prospective tenant to apply for the residential
+tenancy using the required application form.
+Maximum penalty—20 penalty units.
+(4)
+For subsection (3), the required application form
+is an approved form that requires only the
+following information—
+(a)
+the name and contact details of the
+prospective tenant;
+(b)
+details of any previous residential tenancy
+agreements or rooming accommodation
+agreements the prospective tenant has been
+a party to;
+(c)
+the 
+prospective 
+tenant’s 
+current
+employment;
+(d)
+details about the prospective tenant’s
+income;
+(e)
+referees for the prospective tenant;
+(f)
+the intended term of the tenancy;
+(g)
+any 
+other 
+information 
+prescribed 
+by
+regulation.
+(5)
+The lessor or lessor’s agent must nominate at least
+2 ways for the prospective tenant to submit the
+application.
+Maximum penalty—20 penalty units.
+(6)
+For subsection (5), at least 1 of the nominated
+ways must be a way that is not a restricted way.
+
+--------------------------------------------------------------------------------
+Page 44
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 50]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(7)
+In this section—
+relevant lessor means—
+(a)
+a lessor who receives funding for the
+premises under the Housing Act 2003,
+including, for example, funding for the
+provision of social housing services; or
+(b)
+a lessor who receives funding for the
+premises that is the subject of a funding
+declaration under the Community Services
+Act 2007; or
+(c)
+a lessor who is the chief executive of the
+housing department, acting on behalf of the
+State; or
+(d)
+a lessor who is the State, if the tenant is an
+officer or employee of the State; or
+(e)
+a lessor who is the replacement lessor under
+a community housing provider tenancy
+agreement; or
+(f)
+a lessor prescribed by regulation to be a
+relevant lessor.
+restricted way, for submitting an application,
+means—
+(a)
+a way that involves a prospective tenant
+using an online platform to give personal
+information to a person, other than the
+lessor, who—
+(i)
+collects the information on behalf of
+the lessor; and
+(ii) is not a real estate agent; or
+(b)
+a way prescribed by regulation to be a
+restricted way.
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 45
+Authorised by the Parliamentary Counsel
+[s 50]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+57C Request for information for application
+(1)
+A lessor or lessor’s agent may request information
+about a prospective tenant only if—
+(a)
+the information is of a type mentioned in
+section 57B(4); or
+(b)
+the information comprises no more than 2
+documents in each of the following
+categories—
+(i)
+documents verifying the identity of the
+prospective tenant;
+(ii) documents 
+about 
+the 
+prospective
+tenant’s financial ability to pay rent;
+(iii) documents about the suitability of the
+prospective tenant for the residential
+tenancy.
+Maximum penalty—20 penalty units.
+(2)
+However, a lessor or lessor’s agent must not
+request information about a prospective tenant in
+relation to the following—
+(a)
+legal action taken by the prospective tenant,
+including dispute resolution or matters
+considered by the tribunal;
+(b)
+a notice to remedy breach given to the
+prospective tenant by a lessor or provider;
+(c)
+a notice to remedy breach given by the
+prospective tenant to a lessor or provider;
+(d)
+the prospective tenant’s history in relation to
+rental bonds, including any claim on a rental
+bond;
+(e)
+statements of credit accounts or bank
+accounts belonging to the prospective tenant
+detailing transactions.
+Maximum penalty—20 penalty units.
+
+--------------------------------------------------------------------------------
+Page 46
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 51]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+57D Verification of identity for application
+(1)
+A prospective tenant may give identity documents
+to a lessor or lessor’s agent to verify the
+prospective tenant’s identity by—
+(a)
+giving a copy of the original identity
+document; or
+(b)
+allowing the lessor or lessor’s agent to
+access or sight the original identity
+document.
+(2)
+If a document is accessed or sighted by the lessor
+or lessor’s agent under subsection (1)(b), the
+lessor or lessor’s agent must not keep a copy of
+the original identity document without the
+prospective tenant’s consent.
+Maximum penalty—20 penalty units. 
+51
+Insertion of new ss 76C–76E
+After section 76B—
+insert—
+76C Application for rooming accommodation
+(1)
+This section applies if a provider or provider’s
+agent requires a prospective resident to apply for
+rooming accommodation.
+(2)
+The provider or provider’s agent must require the
+prospective resident to apply for the rooming
+accommodation using the required application
+form.
+Maximum penalty—20 penalty units.
+(3)
+For subsection (2), the required application form
+is an approved form that requires only the
+following information—
+(a)
+the name and contact details of the
+prospective resident;
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 47
+Authorised by the Parliamentary Counsel
+[s 51]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(b)
+details of any previous residential tenancy
+agreements or rooming accommodation
+agreements the prospective resident has
+been a party to;
+(c)
+the 
+prospective 
+resident’s 
+current
+employment; 
+(d)
+details about the prospective resident’s
+income;
+(e)
+referees for the prospective resident;
+(f)
+the intended term of the residency interest;
+(g)
+any 
+other 
+information 
+prescribed 
+by
+regulation.
+(4)
+The provider or provider’s agent must nominate at
+least 2 ways for the prospective resident to submit
+the application.
+Maximum penalty—20 penalty units.
+(5)
+For subsection (4), at least 1 of the nominated
+ways must be a way that is not a restricted way.
+(6)
+In this section—
+restricted way, for submitting an application,
+means—
+(a)
+a way that involves a prospective resident
+using an online platform to give personal
+information to a person, other than the
+provider, who—
+(i)
+collects the information on behalf of
+the provider; and
+(ii) is not a real estate agent; or
+(b)
+a way prescribed by regulation to be a
+restricted way.
+
+--------------------------------------------------------------------------------
+Page 48
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 51]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+76D Request for information for application
+(1)
+A provider or provider’s agent may request
+information about a prospective resident only if—
+(a)
+the information is of a type mentioned in
+section 76C(3); or
+(b)
+the information comprises no more than 2
+documents in each of the following
+categories—
+(i)
+documents verifying the identity of the
+prospective resident;
+(ii) documents 
+about 
+the 
+prospective
+resident’s financial ability to pay rent;
+(iii) documents about the suitability of the
+prospective resident for the rooming
+accommodation.
+Maximum penalty—20 penalty units.
+(2)
+However, a provider or provider’s agent must not
+request information about a prospective resident
+in relation to the following—
+(a)
+legal action taken by the prospective
+resident, including dispute resolution or
+matters considered by the tribunal;
+(b)
+a notice to remedy breach given to the
+prospective resident by a lessor or provider;
+(c)
+a notice to remedy breach given by the
+prospective resident to a lessor or provider;
+(d)
+the prospective resident’s history in relation
+to rental bonds, including any claim on a
+rental bond;
+(e)
+statements of credit accounts or bank
+accounts belonging to the prospective
+resident detailing transactions.
+Maximum penalty—20 penalty units.
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 49
+Authorised by the Parliamentary Counsel
+[s 52]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+76E Verification of identity for application
+(1)
+A prospective resident may give identity
+documents to a provider or provider’s agent to
+verify the prospective resident’s identity by—
+(a)
+giving a copy of the original identity
+document; or
+(b)
+allowing the provider or provider’s agent to
+access or sight the original identity
+document.
+(2)
+If a document is accessed or sighted by the
+provider or provider’s agent under subsection
+(1)(b), the provider or provider’s agent must not
+keep a copy of the original identity document
+without the prospective resident’s consent.
+Maximum penalty—20 penalty units. 
+52
+Replacement of ss 83 and 84
+Sections 83 and 84—
+omit, insert—
+83
+How rent is to be paid
+(1)
+A tenant must pay the rent in a way stated in the
+residential tenancy agreement.
+(2)
+The lessor or lessor’s agent must ensure—
+(a)
+the residential tenancy agreement states at
+least 2 ways for the tenant to pay the rent;
+and
+(b)
+at least 1 of the ways for the tenant to pay
+rent stated in the agreement—
+(i)
+does not incur any cost to the tenant in
+addition to bank fees or other account
+fees usually payable for the tenant’s
+transactions; and
+(ii) is reasonably available to the tenant.
+
+--------------------------------------------------------------------------------
+Page 50
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 52]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(3)
+This section applies subject to sections 84 and
+84A.
+84
+Changes to way rent to be paid by agreement
+(1)
+This section applies if, after signing a residential
+tenancy agreement—
+(a)
+the lessor or tenant gives the other party a
+written notice changing 1 or more of the
+ways in which rent is to be paid under the
+agreement; and
+(b)
+the other party agrees in writing (the rent
+agreement) to payments of rent being made
+in the stated way.
+(2)
+While the rent agreement remains in effect, the
+stated way under the rent agreement applies
+despite the residential tenancy agreement.
+84A Changes to way rent to be paid—no agreement
+(1)
+This section applies if, after signing a residential
+tenancy agreement, the lessor or lessor’s agent
+intends to change the way the tenant is required to
+pay the rent under the agreement, other than by
+agreement under section 84.
+(2)
+The lessor or lessor’s agent must give the tenant a
+written notice stating a choice of at least 2 other
+ways for the payment of rent, including a way
+that—
+(a)
+does not incur any cost to the tenant in
+addition to bank fees or other account fees
+usually payable for the tenant’s transactions;
+and
+(b)
+is reasonably available to the tenant.
+(3)
+From the day that is 14 days after the tenant is
+given the notice, the tenant must pay the rent in a
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 51
+Authorised by the Parliamentary Counsel
+[s 53]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+way stated in the notice.
+84B Tenant must be advised about associated 
+costs and benefits
+(1)
+A lessor or lessor’s agent must comply with
+subsection (2) and (3) before—
+(a)
+a tenant enters into a residential tenancy
+agreement; or
+(b)
+a tenant enters into a rent agreement under
+section 84; or
+(c)
+a notice is given to the tenant under section
+84A.
+(2)
+The lessor or lessor’s agent must give the tenant a
+written notice advising the tenant of the costs that
+are associated with the ways to pay rent offered to
+the tenant if—
+(a)
+the tenant would not reasonably be aware of
+the costs; and
+(b)
+the lessor or lessor’s agent knows or could
+reasonably be expected to find out about the
+costs.
+Maximum penalty—40 penalty units.
+(3)
+Also, the lessor or lessor’s agent must declare any
+financial benefit the lessor or lessor’s agent may
+receive if the tenant uses a particular way to pay
+rent.
+Maximum penalty—20 penalty units.
+53
+Replacement of ss 98 and 99
+Sections 98 and 99—
+omit, insert—
+
+--------------------------------------------------------------------------------
+Page 52
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 53]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+98
+How rent is to be paid
+(1)
+A resident must pay the rent in a way stated in the
+rooming accommodation agreement.
+(2)
+The provider or provider’s agent must ensure—
+(a)
+the rooming accommodation agreement
+states at least 2 ways for the resident to pay
+the rent; and 
+(b)
+at least 1 of the ways for the resident to pay
+rent stated in the agreement—
+(i)
+does not incur any cost to the resident
+in addition to bank fees or other
+account fees usually payable for the
+resident’s transactions; and
+(ii) is reasonably available to the resident.
+(3)
+This section applies subject to sections 99 and
+99A.
+99
+Changes to way rent to be paid by agreement
+(1)
+This section applies if, after signing a rooming
+accommodation agreement—
+(a)
+the provider or resident gives the other party
+a written notice changing 1 or more of the
+ways in which rent is to be paid under the
+agreement; and
+(b)
+the other party agrees in writing (the rent
+agreement) to payments of rent being made
+in the stated way.
+(2)
+While the rent agreement remains in effect, the
+stated way under the rent agreement applies
+despite the rooming accommodation agreement.
+99A Changes to way rent to be paid—no agreement
+(1)
+This section applies if, after signing a rooming
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 53
+Authorised by the Parliamentary Counsel
+[s 53]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+accommodation agreement, the provider or
+provider’s agent intends to change the way the
+resident is required to pay the rent under the
+agreement, other than by agreement under section
+99.
+(2)
+The provider or provider’s agent must give the
+resident a written notice stating a choice of at least
+2 other ways for the payment of rent, including a
+way that—
+(a)
+does not incur any cost to the resident in
+addition to bank fees or other account fees
+usually 
+payable 
+for 
+the 
+resident’s
+transactions; and
+(b)
+is reasonably available to the resident.
+(3)
+From the day that is 14 days after the resident is
+given the notice, the resident must pay the rent in
+a way stated in the notice.
+99B Resident must be advised about associated 
+costs and benefits
+(1)
+A provider or provider’s agent must comply with
+subsections (2) and (3) before—
+(a)
+a 
+resident 
+enters 
+into 
+a 
+rooming
+accommodation agreement; or
+(b)
+a resident enters into a rent agreement under
+section 99; or
+(c)
+a notice is given to the resident under
+section 99A.
+(2)
+The provider or provider’s agent must give the
+resident a written notice advising the resident of
+the costs that are associated with the ways to pay
+rent offered to the resident if—
+(a)
+the resident would not reasonably be aware
+of the costs; and
+
+--------------------------------------------------------------------------------
+Page 54
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 54]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(b)
+the provider or provider’s agent knows or
+could reasonably be expected to find out
+about the costs.
+Maximum penalty—40 penalty units.
+(3)
+Also, the provider or provider’s agent must
+declare any financial benefit the provider or
+provider’s agent may receive if the resident uses a
+particular way to pay rent.
+Maximum penalty—20 penalty units.
+54
+Insertion of new s 136AA
+After section 136A—
+insert—
+136AA Evidence of claim on rental bond to be 
+given to tenant or resident
+(1)
+This section applies if—
+(a)
+the authority receives an application for
+payment of a rental bond under section 125
+and the application directs that a payment be
+made to the lessor or provider; or
+(b)
+an interested person who is a lessor or
+provider makes a dispute resolution request
+to the authority about the payment of a
+rental bond.
+(2)
+The lessor or provider must, within the period
+mentioned in subsection (3), give the tenant or
+resident evidence supporting—
+(a)
+the claim on all or part of the rental bond; or 
+(b)
+the dispute resolution request about the
+payment of all or part of the rental bond.
+Maximum penalty—20 penalty units.
+Examples of evidence—
+receipts, quotes to repair damage, records of unpaid rent
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 55
+Authorised by the Parliamentary Counsel
+[s 55]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(3)
+For subsection (2), the period is 14 days after the
+day the application or dispute resolution request is
+made.
+(4)
+Subsection (2) does not apply if the lessor,
+lessor’s agent, provider or provider’s agent has
+been unable to contact the tenant or resident after
+making reasonable efforts.
+(5)
+Without limiting subsection (4), reasonable
+efforts to contact the tenant or resident include the
+following—
+(a)
+attempting to contact the tenant or resident
+by telephone, including text message, email
+or private message on a social media
+platform;
+(b)
+attempting to contact an emergency contact
+listed in the agreement.
+(6)
+Section 525(2) and (3) applies as if—
+(a)
+this section were a provision of this Act that
+requires the provider to give a notice to the
+resident; and
+(b)
+a reference in section 525(2) or (3) to a
+notice were a reference to the evidence
+mentioned in subsection (2).
+55
+Amendment of s 146 (Payments above maximum amount)
+Section 146(3) and (4)—
+omit.
+56
+Amendment of s 165 (General service charges for 
+premises other than moveable dwelling premises)
+Section 165—
+insert—
+(4)
+If the tenant is required to pay an amount for
+
+--------------------------------------------------------------------------------
+Page 56
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 57]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+outgoings to which subsection (3)(b)(ii) applies,
+the lessor must give the tenant a copy of a
+document issued by the relevant supply authority
+showing the amount charged by the authority for
+the thing, service or facility.
+(5)
+The lessor must comply with subsection (4)
+within 4 weeks after the lessor receives the
+document.
+(6)
+Despite subsection (3), the tenant is not required
+to pay an amount for outgoings to which
+subsection (3)(b)(ii) applies if the tenant has not
+received the document mentioned in subsection
+(4).
+57
+Amendment of s 166 (Water service charges for premises 
+other than moveable dwelling premises)
+(1)
+Section 166—
+insert—
+(6A)
+If the tenant is required to pay an amount for water
+consumption charges, the lessor must give the
+tenant a copy of a document issued by the relevant
+water supplier showing the amount of the water
+consumption charges payable to the supplier.
+(6B)
+The lessor must comply with subsection (7)
+within 4 weeks after the lessor receives the
+document.
+(6C)
+Despite subsections (2) to (5), the tenant is not
+required to pay an amount for water consumption
+charges if the tenant has not received the
+document mentioned in subsection (7).
+(1A)
+Section 166—
+insert—
+(8A)
+This section applies subject to section 166A.
+(2)
+Section 166(6A) to (9)—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 57
+Authorised by the Parliamentary Counsel
+[s 57A]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+renumber as section 166(7) to (13).
+57A
+Insertion of new s 166A
+After section 166—
+insert—
+166A Water service charges for premises other 
+than moveable dwelling premises—charge for 
+partial billing period
+(1)
+This section applies if—
+(a)
+under section 166, a tenant would otherwise
+be required to pay an amount for water
+consumption charges for the premises for a
+period; and
+(b)
+the premises are individually metered for
+the supply of water; and
+(c)
+the premises are water efficient for the
+purposes of section 166 during the period;
+and
+(d)
+the period includes part, but not all, of a
+period (the partial billing period) specified,
+or to be specified, in a water consumption
+charges document. 
+Examples—
+•
+The agreement takes effect on 1 February,
+part-way through the period of 1 January to
+31 March specified in a water consumption
+charges document. The partial billing period
+is 1 February to 31 March.
+•
+The agreement terminates on 1 November,
+part-way through the period of 1 October to
+31 
+December 
+specified 
+in 
+a 
+water
+consumption charges document. The partial
+billing period is 1 October to 1 November.
+(2)
+The tenant may not be required to pay an amount
+for water consumption charges for the premises
+for the partial billing period unless—
+
+--------------------------------------------------------------------------------
+Page 58
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 58]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(a)
+a meter reading for the premises is taken at
+the following time and recorded in a
+condition report under section 65 or 66—
+(i)
+if the partial billing period starts when
+the agreement takes effect—when the
+agreement takes effect;
+(ii) if the partial billing period ends when
+the agreement is terminated—when the
+tenant hands over vacant possession of
+the premises; and
+(b)
+the amount is calculated based on—
+(i)
+a reasonable estimate of the volume of
+water supplied to the premises during
+the partial billing period having regard
+to the meter reading mentioned in
+paragraph (a); and
+(ii) the rate used to calculate the water
+consumption charge stated in the most
+recent water consumption charges
+document.
+(3)
+Section 166(6) to (9) does not apply in relation to
+the water consumption charges document that
+includes the partial billing period.
+(4)
+In this section—
+water consumption charge see section 166(13).
+water consumption charges document means a
+document, issued to the lessor by the relevant
+water supplier, stating the amount of water
+consumption charges for the premises that are
+payable to the supplier.
+58
+Amendment of s 167 (Service charges for moveable 
+dwelling premises individually metered)
+Section 167—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 59
+Authorised by the Parliamentary Counsel
+[s 59]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+insert—
+(4)
+If the tenant is required to pay an amount for
+outgoings to which subsection (3)(b) applies, the
+lessor must give the tenant a copy of a document
+issued by the relevant supply authority showing
+the amount charged by the authority for the thing,
+service or facility.
+(5)
+The lessor must comply with subsection (4)
+within 4 weeks after the lessor receives the
+document.
+(6)
+Despite subsection (2), the tenant is not required
+to pay an amount for the outgoings to which
+subsection (3)(b) applies if the tenant has not
+received the document mentioned in subsection
+(4).
+59
+Amendment of s 170 (Charge for utility service)
+(1)
+Section 170—
+insert—
+(2A)
+If the rooming accommodation agreement
+requires the resident to pay an amount for a utility
+service, the provider must give the resident a copy
+of a document issued by the supplying entity
+showing the amount charged by the entity for the
+utility service.
+(2B)
+The provider must comply with subsection (3)
+within 4 weeks after the provider receives the
+document.
+(2C)
+Despite subsection (2), the resident is not required
+to pay an amount for the utility service if the
+resident has not received the document mentioned
+in subsection (3).
+(2)
+Section 170(2A) to (3)—
+renumber as section 170(3) to (6).
+
+--------------------------------------------------------------------------------
+Page 60
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 60]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+60
+Amendment of s 173 (Certain terms about penalties and 
+other payments void)
+Section 173(2), ‘reasonable’—
+omit.
+61
+Amendment of s 178 (Certain terms about penalties and 
+other payments void)
+Section 178(2), ‘reasonable’—
+omit.
+62
+Amendment of s 193 (Notice of entry)
+(1)
+Section 193(1)(c)(ii), ‘24 hours’—
+omit, insert—
+48 hours
+(2)
+Section 193(1)(c)(ii), example, ‘Wednesday’—
+omit, insert—
+Thursday
+63
+Insertion of new s 195A
+After section 195—
+insert—
+195A When lessor or lessor’s agent may 
+enter—notice to leave or notice of intention to 
+leave given
+(1)
+This section applies if—
+(a)
+a notice to leave the premises has been given
+by the lessor to the tenant; or
+(b)
+a notice of intention to leave the premises
+has been given by the tenant to the lessor.
+(2)
+The lessor or lessor’s agent must not enter the
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 61
+Authorised by the Parliamentary Counsel
+[s 64]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+premises more than twice in a 7-day period.
+(3)
+However, subsection (2) does not prevent the
+lessor or lessor’s agent from entering the premises
+under section 192(1)(d), (e) or (j) to (l).
+64
+Replacement of ss 207–209
+Sections 207 to 209—
+omit, insert—
+207 Process for approval to attach fixtures or make 
+structural changes—body corporate approval
+(1)
+This section applies to premises that are part of a
+body corporate scheme if a body corporate law or
+a body corporate by-law requires approval of the
+body corporate for the attachment of a fixture, or
+the making of a structural change, to the premises.
+(2)
+A tenant may give the lessor a request, in the
+approved form, for approval to attach a fixture, or
+make a structural change, to the premises.
+(3)
+The lessor must—
+(a)
+decide the tenant’s request within 28 days
+after receiving the request; and
+(b)
+advise the tenant of the lessor’s decision;
+and
+(c)
+if the lessor approves the request—state that
+the lessor’s approval is subject to agreement
+by the body corporate.
+(4)
+If the lessor approves the request, the lessor must
+give the request to the body corporate within 28
+days after receiving the request.
+(5)
+The lessor must advise the tenant as soon as
+reasonably practicable of the body corporate’s
+decision about the request.
+(6)
+If the lessor and body corporate agree to the
+
+--------------------------------------------------------------------------------
+Page 62
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 64]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+request, the tenant may attach the fixture, or make
+the structural change, to the premises—
+(a)
+in accordance with the lessor’s agreement;
+and
+(b)
+subject to any conditions of the agreement
+given by the lessor or body corporate.
+Note—
+For the lessor’s approval and conditions, see also section
+209.
+208 Process for approval to attach fixtures and 
+make structural changes—lessor approval
+(1)
+This section applies if section 207 does not apply
+in relation to the attaching of a fixture, or the
+making of a structural change, to premises.
+(2)
+The tenant may give the lessor a request, in the
+approved form, for approval to attach a fixture, or
+make a structural change, to the premises.
+(3)
+The lessor—
+(a)
+must decide the tenant’s request within—
+(i)
+28 days after receiving the request; or
+(ii) if agreed to by the tenant and lessor—a
+longer period; and
+(b)
+may either agree, or refuse to agree, to the
+request; and
+(c)
+if the request is agreed to—may give the
+agreement subject to conditions.
+Note—
+See also section 209 in relation to the lessor’s
+agreement.
+(4)
+The lessor must not act unreasonably in refusing
+the request.
+(5)
+The tenant may attach the fixture, or make the
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 63
+Authorised by the Parliamentary Counsel
+[s 64]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+structural change, to the premises in accordance
+with the lessor’s agreement. 
+Note—
+See also section 209A.
+(6)
+Also, the tenant may attach the fixture or make the
+structural change in accordance with an order of a
+tribunal.
+Note—
+See subdivision 3 for an order by a tribunal about
+attaching fixtures, or making structural changes, to
+premises.
+209 Agreement about fixtures and structural 
+changes
+(1)
+For sections 207 and 208, a lessor’s agreement in
+relation to attaching a fixture, or making a
+structural change, to premises must—
+(a)
+be in writing; and
+(b)
+describe the nature of the fixture or
+structural change; and
+(c)
+state any conditions of the agreement.
+(2)
+For an agreement about attaching a fixture to
+premises, the conditions may include terms
+about—
+(a)
+maintenance obligations if the fixture is
+attached by the tenant; and
+(b)
+whether the tenant may remove the fixture;
+and
+(c)
+if removal of the fixture by the tenant is
+allowed—
+(i)
+when and how the removal may be
+performed; and
+
+--------------------------------------------------------------------------------
+Page 64
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 65]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(ii) that the tenant is obliged to repair any
+damage caused to the premises in
+removing the fixture or to compensate
+the lessor for the lessor’s reasonable
+costs of repairing the damage; and
+(d)
+if removal of the fixture by the tenant is not
+allowed—that the lessor is obliged to
+compensate the tenant for any improvement
+the fixture makes to the premises.
+209A Attaching fixture or making structural 
+change without lessor’s agreement
+(1)
+This section applies if—
+(a)
+a tenant attaches a fixture, or makes a
+structural change, to premises; and
+(b)
+under section 208, the lessor’s agreement to
+the attachment of the fixture, or the making
+of the structural change, is required; and
+(c)
+the tenant does not attach the fixture, or
+make the structural change, in accordance
+with the lessor’s agreement.
+(2)
+The lessor may—
+(a)
+waive the breach; and
+(b)
+treat the fixture or structural change as an
+improvement to the premises for the lessor’s
+benefit.
+(3)
+The lessor may take the action under subsection
+(2) instead of taking action for a breach of a term
+of the residential tenancy agreement by the tenant.
+65
+Insertion of new ch 3, pt 5, div 1, sdiv 3
+Chapter 3, part 5, division 1—
+insert—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 65
+Authorised by the Parliamentary Counsel
+[s 65]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+Subdivision 3
+Tribunal orders about 
+fixtures and structural 
+changes
+209C Tribunal order about attaching fixtures or 
+making structural changes
+(1)
+This section applies if—
+(a)
+a tenant makes a request to attach a fixture,
+or make a structural change, to premises
+under subdivision 1 or 2; and
+(b)
+the request is refused.
+(2)
+The tenant may apply to the tribunal for an order
+about the attachment of the fixture, or the making
+of the structural change, to the premises.
+(3)
+The tribunal may make any order about the
+attachment of the fixture or making of the
+structural change that the tribunal considers
+appropriate.
+(4)
+In deciding the application, the tribunal may have
+regard to the following—
+(a)
+the potential for the proposed fixture or
+structural change to improve the safety,
+security and accessibility of the premises for
+the tenant;
+(b)
+the likelihood that the proposed fixture or
+structural change can be removed at the end
+of the tenancy or that the premises can be
+restored to the condition the premises were
+in at the beginning of the tenancy;
+(c)
+whether the proposed fixture or structural
+change would add value to the premises and
+whether the lessor may treat the fixture or
+structural change as an improvement to the
+premises;
+
+--------------------------------------------------------------------------------
+Page 66
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 66]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(d)
+whether building approvals are required for
+the proposed fixture or structural change;
+(e)
+whether the proposed fixture or structural
+change would need to be installed by a
+qualified tradesperson;
+(f)
+if the premises are part of a body corporate
+scheme—whether body corporate approval
+is required for the fixture to be attached or
+for the structural change to be made;
+(g)
+for a proposed structural change—the extent
+to which the proposed structural change will
+modify the premises;
+(h)
+any other matter the tribunal considers
+relevant.
+66
+Amendment of s 211 (Changing locks)
+Section 211(6)—
+omit.
+67
+Replacement of ss 254–256
+Sections 254 to 256—
+omit, insert—
+254 Process for approval to attach fixtures or make 
+structural changes—body corporate approval
+(1)
+This section applies to rental premises that are
+part of a body corporate scheme if a body
+corporate law or a body corporate by-law requires
+approval of the body corporate for the attachment
+of a fixture, or the making of a structural change,
+to the premises.
+(2)
+The resident may give the provider a request, in
+the approved form, for approval to attach a fixture,
+or make a structural change, to the rental
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 67
+Authorised by the Parliamentary Counsel
+[s 67]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+premises.
+(3)
+The provider must—
+(a)
+decide the resident’s request within 28 days
+after receiving the request; and
+(b)
+advise the resident of the provider’s
+decision; and
+(c)
+if the provider approves the request—state
+that the provider’s approval is subject to
+agreement by the body corporate.
+(4)
+If the provider approves the request, the provider
+must give the request to the body corporate within
+28 days after receiving the request.
+(5)
+The provider must advise the resident as soon as
+reasonably practicable of the body corporate’s
+decision about the request.
+(6)
+If the provider and the body corporate agree to the
+request, the resident may attach the fixture, or
+make the structural change, to the premises—
+(a)
+in 
+accordance 
+with 
+the 
+provider’s
+agreement; and
+(b)
+subject to any conditions of the agreement
+given by the provider or body corporate.
+Note—
+For the provider’s approval and conditions, see also
+section 255A. 
+255 Process for approval to attach fixtures and 
+make structural changes—provider approval
+(1)
+This section applies if section 254 does not apply
+in relation to the attaching of a fixture, or the
+making of a structural change, to premises.
+(2)
+The resident may give the provider a request, in
+the approved form, for approval to attach a fixture,
+or make a structural change, to the rental
+
+--------------------------------------------------------------------------------
+Page 68
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 67]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+premises.
+(3)
+The provider—
+(a)
+must decide the resident’s request within—
+(i)
+28 days after receiving the request; or
+(ii) if agreed to by the resident and
+provider—a longer period; and
+(b)
+may either agree, or refuse to agree, to the
+request; and
+(c)
+if the request is agreed to—may give the
+agreement subject to conditions.
+Note—
+See also section 255A in relation to the provider’s
+agreement.
+(4)
+The provider must not act unreasonably in
+refusing the request.
+(5)
+The resident may attach the fixture, or make the
+structural change, to the rental premises in
+accordance with the provider’s agreement.
+Note—
+See also section 256.
+(6)
+Also, the resident may attach the fixture or make
+the structural change in accordance with an order
+of a tribunal.
+Note—
+See subdivision 3 for an order by a tribunal about
+attaching fixtures, or making structural changes, to
+rental premises.
+255A Agreement about fixtures and structural 
+changes
+(1)
+For sections 254 and 255, a provider’s agreement
+in relation to attaching a fixture, or making a
+structural change, to rental premises must—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 69
+Authorised by the Parliamentary Counsel
+[s 67]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(a)
+be in writing; and
+(b)
+describe the nature of the fixture or
+structural change; and
+(c)
+state any conditions of the agreement.
+(2)
+For an agreement about attaching a fixture to
+premises, the conditions may include terms
+about—
+(a)
+maintenance obligations if the fixture is
+attached by the resident; and
+(b)
+whether the resident may remove the
+fixture; and
+(c)
+if removal of the fixture by the resident is
+allowed—
+(i)
+when and how the removal may be
+performed; and
+(ii) that the resident is obliged to repair any
+damage caused to the rental premises
+in 
+removing 
+the 
+fixture 
+or 
+to
+compensate the provider for the
+provider’s reasonable costs of repairing
+the damage; and
+(d)
+if removal of the fixture by the resident is
+not allowed—that the provider is obliged to
+compensate 
+the 
+resident 
+for 
+any
+improvement the fixture makes to the rental
+premises.
+256 Attaching fixture or making structural change 
+without provider’s agreement
+(1)
+This section applies if—
+(a)
+a resident attaches a fixture, or makes a
+structural change, to rental premises; and
+(b)
+under section 255, the provider’s agreement
+to the attachment of the fixture, or the
+
+--------------------------------------------------------------------------------
+Page 70
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 68]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+making of the structural change, is required;
+and
+(c)
+the resident does not attach the fixture, or
+make the structural change, in accordance
+with the provider’s agreement.
+(2)
+The provider may—
+(a)
+waive the breach; and
+(b)
+treat the fixture or structural change as an
+improvement to the rental premises for the
+provider’s benefit.
+(3)
+The provider may take the action under
+subsection (2) instead of taking action for a
+breach of a term of the rooming accommodation
+agreement by the resident.
+68
+Insertion of new ch 4, pt 1, div 4, sdiv 3
+Chapter 4, part 1, division 4, as inserted by this Act—
+insert—
+Subdivision 3
+Tribunal orders about 
+fixtures and structural 
+changes
+256AB Tribunal order about attaching fixtures or 
+making structural changes
+(1)
+This section applies if—
+(a)
+a resident makes a request to attach a
+fixture, or make a structural change, to
+rental premises under subdivision 1 or 2;
+and
+(b)
+the request is refused.
+(2)
+The resident may apply to the tribunal for an order
+about the attachment of the fixture, or the making
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 71
+Authorised by the Parliamentary Counsel
+[s 68]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+of the structural change, to the rental premises.
+(3)
+The tribunal may make any order about the
+attachment of the fixture or the making of the
+structural change that the tribunal considers
+appropriate.
+(4)
+In deciding the application, the tribunal may have
+regard to the following—
+(a)
+the potential for the proposed fixture or
+structural change to improve the safety,
+security and accessibility of the rental
+premises for the resident;
+(b)
+the likelihood that the proposed fixture or
+structural change can be removed at the end
+of the agreement or that the rental premises
+can be restored to the condition the rental
+premises were in at the beginning of the
+agreement;
+(c)
+whether the proposed fixture or structural
+change would add value to the rental
+premises and whether the provider may treat
+the fixture or structural change as an
+improvement to the rental premises;
+(d)
+whether building approvals are required for
+the proposed fixture or structural change;
+(e)
+whether the proposed fixture or structural
+change would need to be installed by a
+qualified tradesperson;
+(f)
+if the rental premises are part of a body
+corporate scheme—whether body corporate
+approval is required for the fixture to be
+attached or for the structural change to be
+made;
+(g)
+for a proposed structural change—the extent
+to which the proposed structural change will
+modify the rental premises;
+
+--------------------------------------------------------------------------------
+Page 72
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 69]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(h)
+any other matter the tribunal considers
+relevant.
+69
+Amendment of s 259 (Entry after giving notice)
+(1)
+Section 259(2)—
+omit, insert—
+(2)
+The provider must give a written notice of the
+proposed entry to the resident—
+(a)
+for an entry under subsection (1)(a)—at
+least 24 hours before the entry; or
+(b)
+otherwise—at least 48 hours before the
+entry.
+(2)
+Section 259(4)—
+omit, insert—
+(4)
+The provider or selling agent must also give a
+written notice of the proposed entry to the agent to
+whom the resident normally pays the rent—
+(a)
+for an entry under subsection (1)(a)—at
+least 24 hours before the entry; or
+(b)
+otherwise—at least 48 hours before the
+entry.
+(3)
+Section 259(5)(c), ‘24 hours’—
+omit, insert—
+48 hours
+70
+Insertion of new s 259A
+After section 259—
+insert—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 73
+Authorised by the Parliamentary Counsel
+[s 71]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+259A When provider or provider’s agent may 
+enter—notice to leave or notice of intention to 
+leave given
+(1)
+This section applies if—
+(a)
+a provider gives a resident a notice under
+chapter 5, part 2 requiring the resident to
+leave the rental premises; or
+(b)
+a provider or a resident gives a notice under
+chapter 5, part 2 terminating a rooming
+accommodation agreement on a stated day.
+(2)
+The provider or provider’s agent must not enter
+the resident’s room more than twice in a 7-day
+period, unless the resident agrees.
+(3)
+However, subsection (2) does not prevent the
+provider or provider’s agent from entering the
+resident’s room under section 257 or 260.
+71
+Amendment of s 262 (Entry by provider’s agent or other 
+person)
+Section 262(1), after ‘259(1) and (2),’—
+insert—
+259A,
+72
+Amendment of s 357A (Reletting costs)
+(1)
+Section 357A(1), ‘pay the reasonable’—
+omit, insert—
+pay the
+(3)
+Section 357A(1)(c), ‘reasonable costs incurred by the lessor
+in reletting the premises’—
+omit, insert—
+reletting costs under this section
+(4)
+Section 357A(2), ‘reletting costs’—
+
+--------------------------------------------------------------------------------
+Page 74
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 72]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+omit, insert—
+the costs incurred by the lessor in reletting the
+premises
+(5)
+Section 357A(2)(b), ‘chapter 5,’—
+omit.
+(6)
+Section 357A—
+insert—
+(3)
+The reletting costs payable by the tenant under
+this section in relation to a fixed term agreement
+are—
+(a)
+for a fixed term of not more than 3 years, the
+lesser of—
+(i)
+the amount of the reletting costs
+mentioned in subsection (4); or
+(ii) an amount equal to the rent payable for
+the period between the tenant handing
+over vacant possession of the premises
+and 
+the 
+day 
+a 
+new 
+agreement
+commences after the premises are relet;
+or
+(b)
+for a fixed term of more than 3 years, the
+lesser of—
+(i)
+an amount equal to 1 month’s rent for
+each 12-month period remaining of the
+term of the agreement, up to a
+maximum amount equal to 6 months
+rent; or
+(ii) an amount equal to the rent that would
+be payable for the period between the
+tenant handing over vacant possession
+of the premises and the day a new
+agreement 
+commences 
+after 
+the
+premises are relet.
+(4)
+For subsection (3)(a)(i), the amount of the
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 75
+Authorised by the Parliamentary Counsel
+[s 73]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+reletting costs is—
+(a)
+if less than 25% of the fixed term had
+expired when the tenant handed over vacant
+possession of the premises—the amount
+equal to 4 weeks rent; or
+(b)
+if 25% or more but less than 50% of the
+fixed term had expired when the tenant
+handed over vacant possession of the
+premises—the amount equal to 3 weeks
+rent; or
+(c)
+if 50% or more but less than 75% of the
+fixed term had expired when the tenant
+handed over vacant possession of the
+premises—the amount equal to 2 weeks
+rent; or
+(d)
+if 75% or more of the fixed term had expired
+when the tenant handed over vacant
+possession of the premises—the amount
+equal to 1 week’s rent.
+73
+Amendment of s 396A (Reletting costs)
+(1)
+Section 396A(1), ‘reasonable costs incurred by the provider in
+reletting the resident’s room (reletting costs)’—
+omit, insert—
+costs incurred by the provider in reletting the
+resident’s room
+(3)
+Section 396A(1)(c), ‘reasonable costs incurred by the
+provider in reletting the resident’s room’—
+omit, insert—
+the reletting costs under this section
+(4)
+Section 396A(2), ‘reletting costs’—
+omit, insert—
+the costs incurred by the provider in reletting the
+
+--------------------------------------------------------------------------------
+Page 76
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 73]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+premises
+(5)
+Section 396A(2)(b), ‘chapter 5,’—
+omit.
+(6)
+Section 396A—
+insert—
+(3)
+The reletting costs payable by the resident under
+this section in relation to a fixed term agreement
+are—
+(a)
+for a fixed term of not more than 3 years, the
+lesser of—
+(i)
+the amount of the reletting costs
+mentioned in subsection (4); or
+(ii) an amount equal to the rent payable for
+the period between the resident leaving
+the rental premises and the day a new
+agreement commences after the rental
+premises are relet; or
+(b)
+for a fixed term of more than 3 years, the
+lesser of—
+(i)
+an amount equal to 1 month’s rent for
+each 12-month period remaining of the
+term of the agreement, up to a
+maximum amount equal to 6 months
+rent; or
+(ii) an amount equal to the rent payable for
+the period between the resident leaving
+the rental premises and the day a new
+agreement commences after the rental
+premises are relet.
+(4)
+For subsection (3)(a)(i), the amount of the
+reletting costs is—
+(a)
+if less than 25% of the fixed term had
+expired when the resident left the rental
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 77
+Authorised by the Parliamentary Counsel
+[s 74]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+premises—the amount equal to 4 weeks
+rent; or
+(b)
+if 25% or more but less than 50% of the
+fixed term had expired when the resident left
+the rental premises—the amount equal to 3
+weeks rent; or
+(c)
+if 50% or more but less than 75% of the
+fixed term had expired when the resident left
+the rental premises—the amount equal to 2
+weeks rent; or
+(d)
+if 75% or more of the fixed term had expired
+when 
+the 
+resident 
+left 
+the 
+rental
+premises—the amount equal to 1 week’s
+rent.
+74
+Amendment of s 415 (Meaning of urgent application)
+Section 415(6), after ‘chapter 9’—
+insert—
+, part 3
+75
+Amendment of s 420 (Orders about breach of 
+agreements)
+Section 420—
+insert—
+(3)
+An order under subsection (1)(e) in favour of a
+lessor in relation to the reletting of premises must
+not be made for an amount that is more than the
+reletting costs.
+76
+Replacement of s 421 (Matters to which tribunal must 
+have regard for orders for compensation)
+Section 421—
+omit, insert—
+
+--------------------------------------------------------------------------------
+Page 78
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 77]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+421 Matters to which tribunal must have regard for 
+orders for compensation
+Without limiting section 420(1)—
+(a)
+in making an order for compensation in
+favour of a lessor, a tribunal must have
+regard to whether the lessor has complied
+with the lessor’s duty under section 362 to
+mitigate loss or expense; and
+(b)
+in making an order for compensation in
+favour of a provider, a tribunal must have
+regard to whether the provider has taken all
+reasonable steps to mitigate the loss or
+expense.
+77
+Amendment of s 447 (False or misleading documents)
+Section 447(1) and (2), after ‘authorised person’—
+insert—
+or the authority
+78
+Replacement of ch 9, hdg (Tenancy databases)
+Chapter 9, heading—
+omit, insert—
+Chapter 9
+Information about 
+tenants
+Part 1
+Preliminary
+79
+Amendment of s 457 (Definitions for ch 9)
+(1)
+Section 457, heading—
+omit, insert—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 79
+Authorised by the Parliamentary Counsel
+[s 80]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+457 Definition for chapter
+(2)
+Section 457, definitions database operator, inaccurate, list,
+out of date, social housing database and tenancy database—
+relocate to section 457F, as inserted by this Act.
+(3)
+Section 457, definition personal information—
+omit, insert—
+personal information—
+(a)
+means information or an opinion about an
+identified individual, or an individual who is
+reasonably identifiable—
+(i)
+whether the information or opinion is
+true or not; and
+(ii) whether the information or opinion is
+recorded in a material form or not; and
+(b)
+includes 
+photographs 
+or 
+images 
+of
+individuals’ 
+personal 
+possessions 
+or
+standard of living.
+80
+Insertion of new ch 9, pt 2 and ch 9, pt 3, hdg
+After section 457B—
+insert—
+Part 2
+Protection of personal 
+information
+457C Definition for part
+In this part—
+applicant means—
+(a)
+a person who applies to a lessor or a lessor’s
+agent to enter into a residential tenancy
+agreement; or
+
+--------------------------------------------------------------------------------
+Page 80
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 80]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(b)
+a person who applies to a provider or a
+provider’s agent to enter into a rooming
+accommodation agreement.
+457D Requirements about collecting personal 
+information
+(1)
+This section applies to a person collecting
+personal information about an applicant, tenant or
+resident in relation to a residential tenancy
+agreement 
+or 
+rooming 
+accommodation
+agreement.
+(2)
+The 
+person 
+may 
+collect 
+the 
+personal
+information—
+(a)
+in relation to an applicant—only for the
+purposes of assessing the suitability of the
+applicant as a tenant or resident for the
+premises; or
+(b)
+in relation to a tenant or resident—only if
+the information relates to the management
+of the agreement.
+Maximum penalty—20 penalty units.
+(3)
+For subsection (2)(b), photographs taken of the
+rental property during inspections are information
+relating to the management of the agreement. 
+457E Requirements about collected information
+(1)
+A lessor, lessor’s agent, provider or provider’s
+agent (the relevant person) must ensure that
+personal information about an applicant is—
+(a)
+stored in a secure way; and
+(b)
+accessed only by the relevant person for the
+purposes of assessing the suitability of the
+applicant as a tenant or resident for the
+premises; and
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 81
+Authorised by the Parliamentary Counsel
+[s 81]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(c)
+if the applicant does not become a tenant or
+resident—destroyed 
+in 
+a 
+secure 
+way
+within—
+(i)
+3 months after a residential tenancy
+agreement 
+or 
+a 
+rooming
+accommodation agreement for the
+tenancy or accommodation for which
+the applicant applied commences; or
+(ii) a longer period agreed to by the
+applicant.
+Maximum penalty—20 penalty units.
+(2)
+The relevant person must ensure that personal
+information about a tenant or resident is—
+(a)
+stored in a secure way; and
+(b)
+accessed only for the purposes of managing
+the premises or rental premises; and
+(c)
+destroyed in a secure way within 7 years
+after the end of the residential tenancy
+agreement or rooming accommodation
+agreement to which the information relates.
+Maximum penalty—20 penalty units.
+Part 3
+Tenancy databases
+457F Definitions for part
+In this part—
+81
+Amendment of s 458 (Non-application to internal 
+databases)
+Section 458(1), ‘chapter’—
+omit, insert—
+part
+
+--------------------------------------------------------------------------------
+Page 82
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 82]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+82
+Amendment of s 458B (Notice of listing if database used)
+Section 458B(2)(d)(i), ‘chapter’—
+omit, insert—
+part
+83
+Amendment of s 463 (Offence of contravening tribunal 
+order)
+Section 463(1), ‘chapter’—
+omit, insert—
+part
+84
+Amendment of s 527 (Confidentiality)
+Section 527(2) and (3)—
+omit, insert—
+(2)
+The person must not make a record of the
+information, disclose the information to anyone
+else or give access to the document containing the
+information to anyone else, other than—
+(a)
+for a purpose of this Act; or
+(b)
+for the administration or enforcement of this
+Act; or
+(c)
+with the consent of the person to whom the
+information relates; or
+(d)
+as required by a court, tribunal, authority or
+person with lawful authority to require the
+production of documents or the answering
+of questions; or
+(e)
+if the information is required to support the
+administration of—
+(i)
+the Agents Financial Administration
+Act 2014; or
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 83
+Authorised by the Parliamentary Counsel
+[s 85]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(ii) the Property Occupations Act 2014; or
+(f)
+if 
+the 
+information 
+is 
+required 
+for
+administering, receiving, holding or paying
+rental bonds; or
+(g)
+as required or authorised under a law; or
+(h)
+if the person reasonably considers it is
+necessary to prevent a serious risk to public
+safety.
+Maximum penalty—50 penalty units.
+(3)
+In this section—
+confidential information—
+(a)
+means any information that—
+(i)
+could identify an individual; or
+(ii) is about a person’s criminal history; but
+(b)
+does not include—
+(i)
+information that is publicly available;
+or
+(ii) statistical or other information that
+could not reasonably be expected to
+result in the identification of the person
+to whom it relates.
+85
+Insertion of new ch 14, pt 8, div 3
+Chapter 14, part 8, as inserted by this Act—
+insert—
+Division 3
+Provisions commencing 
+by proclamation
+
+--------------------------------------------------------------------------------
+Page 84
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 85]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+582 Existing applications for residential tenancies 
+and rooming accommodation
+(1)
+New sections 57B to 57D do not apply to an
+application for a residential tenancy made but not
+decided before the commencement.
+(2)
+New sections 76C to 76E do not apply to an
+application for rooming accommodation made
+but not decided before the commencement.
+583 Application of amendments about payment of 
+rent—existing residential tenancy agreements
+(1)
+New sections 83 and 84B do not apply in relation
+to a residential tenancy agreement entered into
+before the commencement.
+(2)
+However, new section 84B applies in relation to
+an 
+agreement 
+entered 
+into 
+before 
+the
+commencement if the lessor, lessor’s agent or
+tenant proposes to change the way the tenant is
+paying rent under the agreement.
+584 Application of changes about payment of 
+rent—existing rooming accommodation 
+agreements
+(1)
+New sections 98 and 99B do not apply in relation
+to a rooming accommodation agreement entered
+into before the commencement.
+(2)
+However, new section 99B applies in relation to
+an 
+agreement 
+entered 
+into 
+before 
+the
+commencement if the provider, provider’s agent
+or resident proposes to change the way the
+resident is paying rent under the agreement.
+585 Evidence supporting claim on rental bond not 
+required for certain rental bonds
+(1)
+New section 136AA does not apply in relation
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 85
+Authorised by the Parliamentary Counsel
+[s 85]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+to—
+(a)
+an application for payment of a rental bond
+under section 125 made during the transition
+period if the rental bond was paid to the
+authority before the commencement; or
+(b)
+a dispute resolution request about the
+payment of a rental bond made during the
+transition period if the rental bond was paid
+to the authority before the commencement.
+(2)
+In this section—
+transition period means the period starting on the
+commencement and ending 12 months after the
+commencement. 
+585A Maximum amount of rental bond—provision 
+for existing rental bonds
+(1)
+This section applies if—
+(a)
+before the commencement, a rental bond
+was paid for a residential tenancy agreement
+or rooming accommodation agreement; and 
+(b)
+under section 122 of the Act, the rental bond
+is taken to be a rental bond for a renewal
+agreement; and
+(c)
+after the commencement, the amount of the
+rental bond is more than the amount that
+may be required or accepted under new
+section 146 for the renewal agreement.
+(2)
+The tenant or resident may make an application to
+the authority for payment of the part of the rental
+bond that is equivalent to the difference between
+the amount held by the authority and the amount
+that may be required or accepted under new
+section 146 (the excess amount).
+(3)
+The application—
+
+--------------------------------------------------------------------------------
+Page 86
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 85]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(a)
+must be made in the approved form; and 
+(b)
+may only direct a payment of the excess
+amount to be made to the contributor for the
+bond.
+(4)
+Despite section 124, the authority may pay the
+excess amount—
+(a)
+if there is only 1 contributor—to the
+contributor; or 
+(b)
+if there is more than 1 contributor and all
+contributors have made the application—to
+each contributor in the way directed in the
+application. 
+(5)
+The authority must give the lessor, provider or
+agent notice of the amount of the rental bond held
+by the authority for the renewal agreement after
+the excess amount has been refunded to the tenant
+or resident. 
+(6)
+Chapter 2, part 3, division 3 does not apply to an
+application made under this section.
+(7)
+For this section, section 150(4) is taken to include
+a reference to amounts payable under this section.
+(8)
+To remove any doubt, it is declared that a person
+does not commit an offence under new section
+146(1) in relation to a rental bond to which this
+section applies. 
+(9)
+In this section—
+renewal agreement see section 122.
+586 Existing residential tenancy agreements 
+including term about paying reletting costs
+(1)
+This section applies if—
+(a)
+a residential tenancy agreement entered into
+before the commencement includes a term
+requiring a tenant to pay the reasonable
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 87
+Authorised by the Parliamentary Counsel
+[s 85]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+costs incurred by the lessor in reletting the
+premises; and
+(b)
+the requirements under former section
+357A(1) were otherwise met in relation to
+the term.
+(2)
+The term is taken to comply with new section
+357A(1).
+587 Existing rooming accommodation agreements 
+including term about paying reasonable costs
+(1)
+This section applies if—
+(a)
+a 
+rooming 
+accommodation 
+agreement
+entered into before the commencement
+includes a term requiring a resident to pay
+the reasonable costs incurred by the
+provider in reletting the resident’s room; and
+(b)
+the requirements under former section
+396A(1) were otherwise met in relation to
+the term.
+(2)
+The term is taken to comply with new section
+396A(1).
+588 Transitional regulation making power
+(1)
+A regulation (a transitional regulation) may
+make provision of a saving or transitional nature
+about any matter for which—
+(a)
+it is necessary to make provision to allow or
+facilitate the doing of anything to achieve
+the transition from the operation of this Act
+as in force before its amendment by the
+amending Act to the operation of this Act as
+in force from the commencement; and
+(b)
+this Act does not make provision or
+sufficient provision.
+
+--------------------------------------------------------------------------------
+Page 88
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 86]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 2 Amendment of Residential Tenancies and Rooming Accommodation Act 2008
+(2)
+A transitional regulation may have retrospective
+operation to a day that is not earlier than the day
+this section commences.
+(3)
+A transitional regulation must declare it is a
+transitional regulation.
+(4)
+This section and any transitional regulation expire
+2 years after this section commences.
+86
+Amendment of sch 1 (Notice periods)
+Schedule 1, part 1, division 3, entry for notice to leave for an
+unremedied breach (s 281)—
+omit.
+87
+Amendment of sch 2 (Dictionary)
+(1)
+Schedule 2, definition approved way—
+omit.
+(2)
+Schedule 2—
+insert—
+applicant, for chapter 9, part 2, see section 457C.
+body corporate law means—
+(a)
+the 
+Body Corporate and Community
+Management Act 1997; or
+(b)
+the Building Units and Group Titles Act
+1980.
+body corporate scheme means—
+(a)
+a community titles scheme; or
+(b)
+a plan under the Building Units and Group
+Titles Act 1980.
+community titles scheme see the Body Corporate
+and Community Management Act 1997, section
+10.
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 89
+Authorised by the Parliamentary Counsel
+[s 88]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+real estate agent see the Property Occupations
+Act 2014, section 16.
+reletting costs—
+(a)
+for a residential tenancy agreement—see
+section 357A(3); or
+(b)
+for 
+a 
+rooming 
+accommodation
+agreement—see section 396A(3).
+(3)
+Schedule 2, definitions database operator, inaccurate, list,
+out of date, social housing database and tenancy database,
+‘see section 457’—
+omit, insert—
+part 3, see section 457F
+Part 3
+Other legislation
+Division 1
+Amendment of Body Corporate and 
+Community Management Act 1997
+88
+Act amended
+This division amends the Body Corporate and Community
+Management Act 1997.
+89
+Amendment of s 77 (Definitions for part)
+Section 77—
+insert—
+lease includes— 
+(a)
+a residential tenancy agreement or rooming
+accommodation 
+agreement 
+under 
+the
+Residential 
+Tenancies 
+and 
+Rooming
+Accommodation Act 2008; or
+
+--------------------------------------------------------------------------------
+Page 90
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 90]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+(b)
+a lease under the Retail Shop Leases Act
+1994.
+leasehold interest includes a resident’s interest in
+a rooming accommodation agreement under the
+Residential 
+Tenancies 
+and 
+Rooming
+Accommodation Act 2008.
+lessee 
+includes 
+a 
+resident 
+in 
+rooming
+accommodation under the Residential Tenancies
+and Rooming Accommodation Act 2008.
+90
+Amendment of s 81B (What is a termination plan)
+(1)
+Section 81B(1)—
+insert—
+(fa) the arrangements requiring the facilitator to,
+at least 2 months before the day of
+settlement for the contract, give written
+notice to each lessee of a lot included in the
+scheme or other scheme land stating—
+(i)
+the day of settlement; and
+(ii) if section 81V applies in relation to the
+lease—that the lessee’s lease will
+terminate on the settlement day under
+that section; and
+(iii) the day on which the owner of the lot is
+to provide vacant possession of the lot;
+(2)
+Section 81B(1)(fa) to (h)—
+renumber as section 81B(1)(g) to (i).
+(3)
+Section 81B(2), ‘subsection (1)(a) to (h)’—
+omit, insert—
+subsection (1)(a) to (i)
+(4)
+Section 81B(3), ‘subsection (1)(g)’—
+omit, insert—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 91
+Authorised by the Parliamentary Counsel
+[s 91]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+subsection (1)(h)
+(5)
+Section 81B(5)—
+insert—
+lessor includes a provider under the Residential
+Tenancies and Rooming Accommodation Act
+2008.
+91
+Amendment of s 81N (Applications to court about 
+termination plan)
+Section 81N(6)—
+omit, insert—
+(6)
+A facilitator may apply to the court for an order —
+(a)
+to terminate a lease of a lot or other scheme
+land, on a day not earlier than the day of
+settlement for the contract for the sale of the
+community titles scheme; or
+(b)
+to require an occupier or a lessee of a lot or
+other scheme land to vacate the lot or
+scheme land on the day stated in the
+application; or
+(c)
+to require that each lot in the scheme be sold
+under the termination plan.
+92
+Amendment of s 81R (Court orders)
+Section 81R(3)(e)(i), from ‘lot’ to ‘more’—
+omit, insert—
+lot or other scheme land
+93
+Replacement of s 81V (Particular leases)
+Section 81V—
+omit, insert—
+
+--------------------------------------------------------------------------------
+Page 92
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 94]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+81V Termination of particular leases
+(1)
+This section applies if—
+(a)
+under a termination plan for a community
+titles scheme, a facilitator gives a lessee of a
+lot or other scheme land a notice as required
+under the arrangements mentioned in
+section 81B(1)(g); and
+(b)
+the lease is any of the following that is in
+effect immediately before the day of
+settlement of the contract for the sale of the
+scheme—
+(i)
+a residential tenancy agreement or
+rooming accommodation agreement
+under the Residential Tenancies and
+Rooming Accommodation Act 2008;
+(ii) a lease under the Retail Shop Leases
+Act 1994.
+(2)
+The lease terminates on the day of settlement for
+the contract for the sale of the community titles
+scheme.
+94
+Insertion of new ch 8, pt 17
+Chapter 8—
+insert—
+Part 17
+Transitional provisions 
+for Residential 
+Tenancies and 
+Rooming 
+Accommodation and 
+Other Legislation 
+Amendment Act 2024
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 93
+Authorised by the Parliamentary Counsel
+[s 94]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+457 Definition for part
+In this part—
+new, for a provision of this Act, means the
+provision as in force from the commencement.
+458 Facilitator’s functions under existing 
+termination plans
+(1)
+This section applies if—
+(a)
+before the commencement—
+(i)
+the body corporate for a community
+titles scheme has passed a termination
+plan resolution; and
+(ii) the body corporate has, under section
+81J, given each lot owner a copy of the
+termination plan in relation to the
+scheme; and
+(b)
+immediately before the commencement, the
+body corporate has not passed a termination
+resolution.
+(2)
+A facilitator appointed to implement the
+termination plan must, at least 2 months before
+the day of settlement for the contract of the sale of
+the scheme, give written notice to each lessee of a
+lot included in the scheme or other scheme land
+stating—
+(a)
+the day of settlement; and
+(b)
+if the lease is a lease mentioned in new
+section 81V(1)(b)—that the lessee’s lease
+will terminate on the settlement day under
+that section as it applies under subsection
+(4); and
+(c)
+the day on which the owner of the lot is to
+provide vacant possession of the lot.
+(3)
+Subsection (4) applies in relation to a lease of a lot
+
+--------------------------------------------------------------------------------
+Page 94
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 95]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+or other scheme land if—
+(a)
+the lease is in effect immediately before the
+day of settlement of the contract for the sale
+of the scheme; and
+(b)
+the lease is any of the following—
+(i)
+a residential tenancy agreement or
+rooming accommodation agreement
+under the Residential Tenancies and
+Rooming Accommodation Act 2008;
+(ii) a lease under the Retail Shop Leases
+Act 1994.
+(4)
+New section 81V(2) applies in relation to the
+lease as if the notice given to the lessee under
+subsection (2) were a notice mentioned in new
+section 81V(1)(a).
+459 Proceedings for particular court orders
+(1)
+This section applies if—
+(a)
+before the commencement, a person applied
+under section 81N for a court order in
+relation to a termination plan; and
+(b)
+immediately before the commencement, the
+court had not decided the application.
+(2)
+New section 81R applies in relation to the matters
+the court must consider in deciding whether to
+make the order.
+95
+Amendment of sch 6 (Dictionary)
+Schedule 6—
+insert—
+lease, for chapter 2, part 9, see section 77.
+leasehold interest, for chapter 2, part 9, see
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 95
+Authorised by the Parliamentary Counsel
+[s 95A]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+section 77.
+lessee, for chapter 2, part 9, see section 77.
+Division 1A
+Amendment of Building Industry 
+Fairness (Security of Payment) Act 
+2017
+95A
+Act amended
+This division amends the Building Industry Fairness (Security
+of Payment) Act 2017.
+95B
+Amendment of s 79 (Application for adjudication
+(1)
+Section 79(2)(e)—
+omit.
+(2)
+Section 79(3)—
+omit, insert—
+(3)
+The 
+adjudication 
+application 
+may 
+be
+accompanied by submissions relevant to the
+application.
+(3A)
+The claimant must give the following documents
+to the respondent within 4 business days after
+making the adjudication application—
+(a)
+a copy of the adjudication application; 
+(b)
+a copy of the submissions, if any,
+accompanying 
+the 
+application 
+under
+subsection (3).
+(3)
+Section 79—
+insert—
+(5)
+In this section—
+copy, of an adjudication application, includes a
+
+--------------------------------------------------------------------------------
+Page 96
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 95C]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+document containing details of the application
+given to the claimant by the registrar for the
+purpose of the claimant complying with the
+claimant’s obligation under subsection (4)(a).
+(4)
+Section 79(3A) to (5)—
+renumber as section 79(4) to (6).
+95C
+Amendment of s 83 (Time for making adjudication 
+response)
+Section 83(1)(a), (2)(a) and (4)(b)(i), ‘a copy of the
+adjudication application’—
+omit, insert—
+the documents mentioned in section 79(4)
+95D
+Insertion of new ch 8D
+Before chapter 9—
+insert—
+Chapter 8D Validation provisions 
+for Residential 
+Tenancies and 
+Rooming 
+Accommodation and 
+Other Legislation 
+Amendment Act 
+2024
+215C Definitions for chapter
+In this chapter—
+former, for a provision of this Act, means the
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 97
+Authorised by the Parliamentary Counsel
+[s 95D]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+provision as in force from time to time before the
+commencement.
+registry summary, of an adjudication application,
+means a document given to the claimant by the
+registrar that includes at least the following details
+of the application—
+(a)
+the name of the claimant;
+(b)
+the name of the respondent;
+(c)
+the date the application was made.
+215D Validation of non-compliance with former 
+section 79(3)
+(1)
+This 
+section 
+applies 
+if, 
+before 
+the
+commencement—
+(a)
+a 
+claimant 
+made 
+an 
+adjudication
+application; and
+(b)
+the claimant did not give a copy of the
+adjudication application to the respondent as
+required under former section 79(3); and
+(c)
+the claimant gave the respondent a registry
+summary of the adjudication application.
+(2)
+The claimant is taken to have complied with
+former section 79(3).
+215E Validation of adjudication decision made 
+before commencement—registry summary 
+given to respondent
+(1)
+This 
+section 
+applies 
+if, 
+before 
+the
+commencement—
+(a)
+an adjudicator purportedly made a decision
+under section 88 (the relevant decision) on
+an adjudication application; and
+
+--------------------------------------------------------------------------------
+Page 98
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 95D]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+(b)
+the adjudicator did not have jurisdiction to
+make the relevant decision only because the
+claimant did not give a copy of the
+adjudication application to the respondent as
+required under former section 79(3); and
+(c)
+the claimant gave a registry summary of the
+adjudication application to the respondent.
+(2)
+Despite the absence of jurisdiction mentioned in
+subsection (1)(b)—
+(a)
+the relevant decision is as valid as it would
+have been if the claimant had complied with
+former section 79(3) and the adjudicator had
+jurisdiction to make the decision; and
+(b)
+anything done or purportedly done as a
+result of, or in reliance on, the relevant
+decision is taken to be, and always to have
+been, as valid and lawful as it would have
+been if, at the time the thing was done, the
+adjudicator had jurisdiction to make the
+relevant decision as mentioned in paragraph
+(a).
+(3)
+This section applies even if a proceeding relating
+to the adjudication application has been
+commenced in a court.
+215F Declaration of court made before 
+commencement that adjudication void is of no 
+effect 
+(1)
+This 
+section 
+applies 
+if, 
+before 
+the
+commencement, a court in a proceeding—
+(a)
+declared that a decision made under section
+88 on an adjudication application was void
+only because the adjudicator did not have
+jurisdiction to make the decision because
+the claimant did not give a copy of the
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 99
+Authorised by the Parliamentary Counsel
+[s 95D]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+adjudication application to the respondent as
+required under former section 79(3); and
+(b)
+found that the claimant gave a registry
+summary of the adjudication application to
+the respondent.
+(2)
+The declaration of the court is of no effect.
+(3)
+Despite the declaration of the court—
+(a)
+the decision made under section 88 is as
+valid as it would have been if the claimant
+had complied with former section 79(3) and
+the adjudicator had jurisdiction to make the
+decision; and
+(b)
+anything done or purportedly done as a
+result of, or in reliance on, the decision
+made under section 88 is taken to be, and
+always to have been, as valid and lawful as it
+would have been if, at the time the thing was
+done, the adjudicator had jurisdiction to
+make the decision as mentioned in
+paragraph (a).
+(4)
+If the adjudicator decided in the adjudication that
+the respondent was required to pay an adjudicated
+amount, for the purposes of section 90, the
+respondent is taken to have received a copy of the
+adjudicator’s decision on the day that is 30
+business days after the commencement.
+(5)
+If the court made any other order in the
+proceeding, including, for example, an order as to
+costs, a party to the proceeding may apply to the
+court to vary the order.
+(6)
+The court may hear and decide an application
+under subsection (5) and make the orders it
+considers appropriate having regard to the
+operation of this chapter.
+
+--------------------------------------------------------------------------------
+Page 100
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 95D]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+215G Adjudication application must be re-decided 
+if adjudicator decided before commencement 
+that adjudicator did not have jurisdiction
+(1)
+This 
+section 
+applies 
+if, 
+before 
+the
+commencement—
+(a)
+a 
+claimant 
+made 
+an 
+adjudication
+application; and
+(b)
+the claimant did not give a copy of the
+adjudication application to the respondent as
+required under former section 79(3); and
+(c)
+the claimant gave the respondent a registry
+summary of the adjudication application;
+and
+(d)
+an adjudicator (the original adjudicator)
+was appointed under section 81; and
+(e)
+the original adjudicator decided under
+section 
+84(2)(a)(i) 
+that 
+the 
+original
+adjudicator did not have jurisdiction to
+adjudicate the application only because the
+claimant did not give a copy of the
+adjudication application to the respondent as
+required under former section 79(3).
+(2)
+The decision of the original adjudicator is void
+and of no effect.
+(3)
+On the commencement, the registrar is taken to
+refer the adjudication application to the original
+adjudicator for a decision. 
+(4)
+The original adjudicator must accept or reject the
+referral, unless the original adjudicator has a
+reasonable excuse, within 14 business days after
+the commencement by notifying the registrar of
+the acceptance or rejection.
+(5)
+If the original adjudicator rejects the referral or
+does not accept it within the period required under
+subsection (4)—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 101
+Authorised by the Parliamentary Counsel
+[s 95D]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+(a)
+the registrar must refer the adjudication
+application to another adjudicator (the new
+adjudicator) within 4 business days after
+becoming aware of the rejection or failure;
+and
+(b)
+no fee is payable for referring the
+adjudication 
+application 
+to 
+the 
+new
+adjudicator.
+(6) 
+The new adjudicator must accept or reject the
+referral, unless the new adjudicator has a
+reasonable excuse, within 4 business days after
+the referral under subsection (5)(a).
+(7)
+If the original adjudicator or the new adjudicator
+accepts the referral—
+(a)
+the adjudicator is taken to be appointed to
+decide the adjudication application; and
+(b)
+the failure of the claimant to comply with
+former section 79(3) is taken not to deprive
+the adjudicator of jurisdiction to decide the
+adjudication application; and
+(c)
+within 
+4 
+business 
+days 
+after 
+the
+appointment, the adjudicator must give the
+claimant and the respondent a notice stating
+that—
+(i)
+the decision of the original adjudicator
+mentioned in subsection (1)(e) is void
+under subsection (2); and
+(ii) the 
+respondent 
+may 
+give 
+the
+adjudicator 
+a 
+response 
+to 
+the
+adjudication application within 15
+business days after receiving the
+notice; and
+(iii) the 
+adjudicator 
+will 
+decide 
+the
+adjudication application within 15
+business days after the end of the
+period within which the respondent
+
+--------------------------------------------------------------------------------
+Page 102
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 95D]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+may 
+give 
+a 
+response 
+under
+subparagraph (ii); and 
+(d)
+the adjudicator must decide the adjudication
+application under section 88 within 15
+business days after the end of the period
+within which the respondent may give a
+response under subparagraph (ii).
+(8)
+For the making of a decision on the adjudication
+application by the original adjudicator or the new
+adjudicator under this section—
+(a)
+the adjudicator may ask for further written
+submissions from either party and must give
+the other party an opportunity to comment
+on the submissions; and
+(b)
+the time for deciding the adjudication
+application may be extended under section
+86; and
+(c)
+sections 89 to 97 apply in relation to the
+adjudication.
+(9)
+For subsection (8)(b), section 86 applies as if a
+reference to section 85(1) were a reference to
+subsection (7)(d).
+(10)
+To remove any doubt, it is declared that
+subsection (8) does not limit the application of
+this Act to the decision on the adjudication
+application by the original adjudicator or the new
+adjudicator under this section.
+215H Continuation of adjudication if adjudication 
+not completed before commencement
+(1)
+This 
+section 
+applies 
+if, 
+before 
+the
+commencement—
+(a)
+a 
+claimant 
+made 
+an 
+adjudication
+application; and
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 103
+Authorised by the Parliamentary Counsel
+[s 95D]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+(b)
+the claimant did not give a copy of the
+adjudication application to the respondent as
+required under former section 79(3); and
+(c)
+the claimant gave the respondent a registry
+summary of the adjudication application;
+and
+(d)
+an adjudicator was appointed under section
+81; and
+(e)
+the adjudicator has not decided the
+adjudication application under section 88.
+(2)
+The failure of the claimant to comply with former
+section 79(3) is taken not to deprive the
+adjudicator 
+of 
+jurisdiction 
+to 
+decide 
+the
+adjudication application.
+Note—
+See also section 215D in relation to the failure to
+comply with former section 79(3).
+(3)
+The adjudication application must be decided
+under part 4. 
+215I No compensation payable by State
+(1)
+This 
+section 
+applies 
+if, 
+before 
+the
+commencement—
+(a)
+the registrar gave a registry summary of an
+adjudication application to the claimant in
+the application; and
+(b)
+the claimant gave the registry summary to
+the respondent in the application.
+(2)
+No liability attaches to the commission, the
+registrar, a public service employee, or the State,
+and no compensation is payable by the
+commission, the registrar, a public service
+employee, or the State, in relation to—
+
+--------------------------------------------------------------------------------
+Page 104
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 96]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+(a)
+the giving of the registry summary by the
+registrar to the claimant; or
+(b)
+anything done or purportedly done as a
+result of, or in reliance on, the registry
+summary being given by the registrar to the
+claimant.
+Division 2
+Amendment of Fair Trading 
+Inspectors Act 2014
+96
+Act amended
+This division amends the Fair Trading Inspectors Act 2014.
+97
+Amendment of s 6 (Modifying operation of Act for 
+Property Occupations Act 2014)
+(1)
+Section 6(1), from ‘subsection (3)’—
+omit, insert—
+subsections (3) and (4) (each a modifying
+provision).
+(2)
+Section 6(2), ‘used in the’—
+omit, insert—
+used in a
+(3)
+Section 6—
+insert—
+(4)
+In section 60 a reference to an offence against a
+primary Act is taken to include a reference to a
+contravention of the Property Occupations Act
+2014, section 92B(1) or 151B(1).
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 105
+Authorised by the Parliamentary Counsel
+[s 98]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+Division 3
+Amendment of Local Government 
+Act 2009
+98
+Act amended
+This division amends the Local Government Act 2009.
+99
+Amendment of s 208 (Superannuation board (LGIAsuper 
+Trustee))
+(1)
+Section 208, heading, ‘LGIAsuper’—
+omit, insert—
+Brighter Super
+(2)
+Section 208(1) and (2), ‘LGIAsuper’—
+omit, insert—
+Brighter Super
+100
+Replacement of s 220A (Amount of yearly 
+contributions—permanent employees)
+Section 220A—
+omit, insert—
+220A Amount of yearly contributions—permanent 
+employees
+(1)
+A permanent employee of a local government or
+local government entity (each an employer) must
+make a yearly contribution to the relevant fund for
+the employee.
+(2)
+The amount of the yearly contribution is the
+amount prescribed by regulation.
+(3)
+However, if the permanent employee is not a
+defined benefit member, the employee may
+change the amount of the yearly contribution to a
+particular rate of the employee’s salary.
+
+--------------------------------------------------------------------------------
+Page 106
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 100]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+(4)
+For subsection (3)—
+(a)
+the rate may be 0%; and
+(b)
+the employee must give the employer notice
+of the change.
+(5)
+Despite subsection (1), the permanent employee
+need not make the yearly contribution if the
+employer makes the contribution, in accordance
+with the employee’s remuneration agreement, as
+well as the yearly contribution the employer is
+required to make under section 220.
+(6)
+If subsection (5) applies, despite any other Act the
+employer may deduct all or part of the yearly
+contribution from—
+(a)
+the permanent employee’s salary; or
+(b)
+any money the permanent employee owes to
+the employer.
+(7)
+If subsection (5) applies and the permanent
+employee changes the amount of the yearly
+contribution under subsection (3), the change
+takes effect at the start of the employee’s first pay
+period, after notice of the change is given under
+subsection (4)(b), by which the employer can
+practicably implement the change.
+(8)
+If the permanent employee is required under an
+industrial instrument to make superannuation
+contributions, the superannuation contribution
+required under the industrial instrument is not in
+addition to the yearly contribution the employee is
+required to make under this section.
+(9)
+Subsections (1) and (5) are subject to section
+220B.
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 107
+Authorised by the Parliamentary Counsel
+[s 101]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+101
+Amendment of s 220B (Reduction in contributions to 
+prevent them exceeding concessional contributions cap)
+(1)
+Section 220B(1)(b), ‘section 220A(2)’—
+omit, insert—
+section 220A
+(2)
+Section 220B(2)(b), ‘section 220A(3)’—
+omit, insert—
+section 220A(5)
+(3)
+Section 220B(3)(c), ‘section 220A(2)’—
+omit, insert—
+section 220A
+(4)
+Section 220B(3)(c), ‘section 220A(3)’—
+omit, insert—
+section 220A(5)
+102
+Omission of s 221 (Exemption from payment of yearly 
+contributions on grounds of financial hardship)
+Section 221—
+omit.
+103
+Insertion of new ch 9, pt 19
+Chapter 9—
+insert—
+
+--------------------------------------------------------------------------------
+Page 108
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 103]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+Part 19
+Transitional provisions 
+for Residential 
+Tenancies and 
+Rooming 
+Accommodation and 
+Other Legislation 
+Amendment Act 2024
+355 Definitions for part
+In this part—
+amending Act means the Residential Tenancies
+and 
+Rooming 
+Accommodation 
+and 
+Other
+Legislation Amendment Act 2024.
+defined benefit member see section 216A.
+new, for a section of this Act, means the section as
+in force from the commencement.
+356 Change in name of board and scheme
+(1)
+To remove any doubt, it is declared that—
+(a)
+the amendment of section 208 by the
+amending Act has effect only to change the
+name of the board mentioned in the section
+and does not establish a new board; and
+(b)
+the amendment of section 217 by the
+amending Act has effect only to change the
+name 
+of 
+the 
+superannuation 
+scheme
+mentioned in the section and does not
+establish a new superannuation scheme.
+(2)
+From the commencement, if the context
+permits—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 109
+Authorised by the Parliamentary Counsel
+[s 103]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+(a)
+a reference in a document to either of the
+following is taken to be a reference to
+Brighter Super Trustee—
+(i)
+the Queensland Local Government
+Superannuation Board under the 1993
+Act or this Act;
+(ii) LGIAsuper Trustee; and
+(b)
+a reference in an industrial instrument or
+other document to any of the following is
+taken to be a reference to Brighter Super—
+(i)
+the Local Government Superannuation
+Scheme under the 1993 Act or this Act;
+(ii) the LG super scheme;
+(iii) LGIAsuper;
+(iv) City Super;
+(v)
+the 
+Brisbane 
+City 
+Council
+Superannuation Plan.
+357 Existing memberships and entitlements
+(1)
+The amendment of this Act by the amending Act
+does not affect—
+(a)
+the membership of an existing member; or
+(b)
+any entitlement the existing member
+accrued 
+under 
+this 
+Act 
+before 
+the
+commencement.
+(2)
+In this section—
+existing 
+member 
+means 
+a 
+person 
+who,
+immediately before the commencement, was a
+member of LGIAsuper.
+358 Existing financial hardship exemptions
+(1)
+This section applies to a permanent employee of a
+
+--------------------------------------------------------------------------------
+Page 110
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 103]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+local government or local government entity if—
+(a)
+the employee is not a defined benefit
+member; and
+(b)
+immediately before the commencement, an
+exemption was in effect for the employee
+under former section 221.
+(2)
+On the commencement, the permanent employee
+is taken to have given the local government or
+local government entity a notice under new
+section 220A(4)(b) stating the following rate—
+(a)
+if the exemption applied to all of the
+employee’s contributions payable under
+former section 220A(2)—0%;
+(b)
+if the exemption applied to part of the
+employee’s contributions payable under
+former section 220A(2)—
+(i)
+the rate at which the employee was
+required to pay the remaining part of
+the 
+employee’s 
+contributions 
+in
+accordance with the exemption; or
+(ii) the rate that is equivalent to the amount
+of the remaining part of the employee’s
+contributions payable in accordance
+with the exemption.
+(3)
+In this section—
+former, for a section of this Act, means the
+section as in force immediately before the
+commencement.
+359 Particular employees of the Brisbane City 
+Council
+(1)
+This section applies to a permanent employee of
+the Brisbane City Council if—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 111
+Authorised by the Parliamentary Counsel
+[s 104]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+(a)
+the employee is not a defined benefit
+member; and
+(b)
+immediately before the commencement, the
+employee was—
+(i)
+an employee of the Brisbane City
+Council mentioned in section 216C(a);
+and
+(ii) 70 years or older.
+(2)
+On the commencement, the permanent employee
+is taken to have given the Brisbane City Council a
+notice under new section 220A(4)(b) stating the
+rate of 0%.
+Division 4
+Amendment of Property 
+Occupations Act 2014
+104
+Act amended
+This division amends the Property Occupations Act 2014.
+105
+Amendment of s 28 (Limited property agent licence)
+(1)
+Section 28, note—
+omit.
+(2)
+Section 28—
+insert—
+(3)
+The chief executive must publish the approved
+qualifications on the department’s website.
+106
+Amendment of s 45 (Eligibility for property agent licence)
+(1)
+Section 45(1)(b), ‘generally’—
+omit.
+
+--------------------------------------------------------------------------------
+Page 112
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 107]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+(2)
+Section 45(1), note—
+omit.
+(3)
+Section 45—
+insert—
+(1A)
+The chief executive must publish the approved
+qualifications on the department’s website.
+(4)
+Section 45(1A) to (4)—
+renumber as section 45(2) to (5).
+107
+Amendment of s 46 (Eligibility for resident letting agent 
+licence)
+(1)
+Section 46(1)(b), ‘generally’—
+omit.
+(2)
+Section 46(1), note—
+omit.
+(3)
+Section 46—
+insert—
+(1A)
+The chief executive must publish the approved
+qualifications on the department’s website.
+(4)
+Section 46(1A) to (3)—
+renumber as section 46(2) to (4).
+108
+Amendment of s 58 (Application for renewal)
+Section 58(2)(d)—
+insert—
+(v)
+if section 92B(1) applies to the
+licensee—a statement that the licensee
+has, for each CPD year ending within
+the term of the licensee’s current
+licence, complied with section 92B(1)
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 113
+Authorised by the Parliamentary Counsel
+[s 109]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+or 
+evidence 
+that 
+exceptional
+circumstances apply.
+109
+Amendment of s 59 (Chief executive may renew or refuse 
+to renew licence)
+(1)
+Section 59—
+insert—
+(2A)
+If section 92B(1) applies to the licensee, the chief
+executive must, in deciding whether to renew or
+refuse to renew the licence, have regard to
+whether—
+(a)
+the licensee has complied with section
+92B(1) for each CPD year ending within the
+term of the licensee’s current licence; or
+(b)
+the licensee has not complied with section
+92B(1) for each CPD year ending within the
+term of the licensee’s current licence but
+exceptional circumstances apply.
+(2)
+Section 59(2A) and (3)—
+renumber as section 59(3) and (4).
+110
+Amendment of s 61 (Application for restoration)
+Section 61(2)(e)—
+insert—
+(vi) if section 92B(1) applied to the
+licensee in relation to the expired
+licence—a statement that the licensee
+complied with section 92B(1) for each
+CPD year ending within the term of the
+licensee’s expired licence, or evidence
+that exceptional circumstances applied.
+
+--------------------------------------------------------------------------------
+Page 114
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 111]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+111
+Amendment of s 63 (Chief executive may restore or 
+refuse to restore licence)
+(1)
+Section 63—
+insert—
+(2A)
+If section 92B(1) applied to the licensee in
+relation to the expired licence, the chief executive
+must, in deciding whether to restore or refuse to
+restore the licence, have regard to whether—
+(a)
+the licensee complied with section 92B(1)
+for each CPD year ending within the term of
+the licensee’s expired licence; or
+(b)
+the licensee did not comply with section
+92B(1) for each CPD year ending within the
+term of the licensee’s expired licence but
+exceptional circumstances applied.
+(2)
+Section 63(2A) to (4)—
+renumber as section 63(3) to (5).
+112
+Insertion of new pt 3, div 1A
+Part 3—
+insert—
+Division 1A
+Continuing professional 
+development
+92A Definitions for division
+In this division—
+CPD requirements, for a licensee, means the
+continuing 
+professional 
+development
+requirements for the licensee approved by the
+chief executive under section 92D.
+CPD year, for a licence, means—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 115
+Authorised by the Parliamentary Counsel
+[s 112]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+(a)
+a period of 12 months ending on the day
+before an anniversary of the date the licence
+was first issued; or
+(b)
+a period approved by the chief executive
+under section 92E.
+92B Licensees to complete CPD requirements
+(1)
+A licensee who is an individual must complete the
+CPD requirements for each CPD year for the
+licensee’s licence.
+Example—
+An auctioneer’s 3-year licence is issued on 1 September
+2025. Under subsection (2)(a), the auctioneer is not
+required to complete the CPD requirements for the CPD
+year between 1 September 2025 and 31 August 2026.
+Under this subsection, the auctioneer is required to
+complete the CPD requirements for the CPD year
+between 1 September 2026 and 31 August 2027 and for
+the CPD year between 1 September 2027 and 31 August
+2028 (and for later CPD years if the licence is renewed).
+(2)
+Subsection (1) does not apply to—
+(a)
+a licensee for the first CPD year that the
+licensee holds their licence; or
+(b)
+a licensee for a CPD year in which the
+licensee’s licence is deactivated for the
+majority of the year; or
+(c)
+a licensee in relation to a limited property
+agent licence issued to the licensee under
+section 28; or
+(d)
+a licensee who is an entity mentioned in part
+2, division 9, subdivision 3.
+(3)
+If a licensee holds more than 1 authority,
+subsection (1) applies to the licensee only—
+(a)
+if the authority with the earliest date of
+original issue is a licence; and
+
+--------------------------------------------------------------------------------
+Page 116
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 112]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+(b)
+if the licensee holds more than 1 licence—in
+relation to the licence that has the earliest
+date of issue.
+(4)
+In this section—
+authority means a licence or a registration
+certificate.
+date of original issue, of an authority, means the
+date on which the authority was first issued
+(before any subsequent renewal or restoration of
+the authority).
+92C Record of completed CPD requirements
+(1)
+A licensee to whom section 92B(1) applies must
+keep a record of the CPD requirements completed
+by the licensee.
+Maximum penalty—10 penalty units.
+(2)
+The licensee must keep the record for 5 years after
+the end of the CPD year to which the record
+relates.
+Maximum penalty—10 penalty units.
+92D Chief executive to approve and publish CPD 
+requirements
+(1)
+The chief executive must approve continuing
+professional 
+development 
+requirements 
+for
+licensees.
+(2)
+The chief executive must publish the CPD
+requirements on the department’s website.
+92E Chief executive may approve adjusted CPD 
+year 
+(1)
+The chief executive may, on their own initiative
+or on application by a licensee, approve a period
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 117
+Authorised by the Parliamentary Counsel
+[s 113]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+as a CPD year for the licensee’s licence.
+(2)
+The chief executive must give the licensee notice
+of the approved period and the day on which the
+period starts.
+113
+Amendment of s 127 (Eligibility for registration as real 
+estate salesperson)
+(1)
+Section 127(1), note—
+omit.
+(2)
+Section 127—
+insert—
+(1A)
+The chief executive must publish the approved
+qualifications on the department’s website.
+(3)
+Section 127(1A) and (2)—
+renumber as section 127(2) and (3).
+114
+Amendment of s 130 (Application for renewal)
+Section 130(2)(c)—
+insert—
+(iv) if section 151B(1) applies to the real
+estate salesperson—a statement that
+the person has, for each CPD year
+ending within the term of the person’s
+current 
+registration 
+certificate,
+complied with section 151B(1) or
+evidence 
+that 
+exceptional
+circumstances apply.
+115
+Amendment of s 131 (Chief executive may renew or 
+refuse to renew registration certificate)
+(1)
+Section 131—
+insert—
+
+--------------------------------------------------------------------------------
+Page 118
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 116]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+(2A)
+If section 151B(1) applies to the real estate
+salesperson, the chief executive must, in deciding
+whether to renew or refuse to renew the
+registration certificate, have regard to whether—
+(a)
+the real estate salesperson has complied
+with section 151B(1) for each CPD year
+ending within the term of the salesperson’s
+current registration certificate; or
+(b)
+the real estate salesperson has not complied
+with section 151B(1) for each CPD year
+ending within the term of the salesperson’s
+current 
+registration 
+certificate 
+but
+exceptional circumstances apply.
+(2)
+Section 131(2A) and (3)—
+renumber as section 131(3) and (4).
+116
+Amendment of s 133 (Application for restoration)
+Section 133(2)(d)—
+insert—
+(vi) if section 151B(1) applied to the person
+in relation to the expired registration
+certificate—a statement that the person
+complied with section 151B(1) for
+each CPD year ending within the term
+of the person’s expired registration
+certificate, or evidence that exceptional
+circumstances applied.
+117
+Amendment of s 135 (Chief executive may restore or 
+refuse to restore registration certificate)
+(1)
+Section 135—
+insert—
+(2A)
+If section 151B(1) applied to the real estate
+salesperson in relation to the expired registration
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 119
+Authorised by the Parliamentary Counsel
+[s 118]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+certificate, the chief executive must, in deciding
+whether to restore or refuse to restore the
+registration certificate, have regard to whether—
+(a)
+the real estate salesperson complied with
+section 151B(1) for each CPD year ending
+within the term of the salesperson’s expired
+registration certificate; or
+(b)
+the real estate salesperson did not comply
+with section 151B(1) for each CPD year
+ending within the term of the salesperson’s
+expired 
+registration 
+certificate 
+but
+exceptional circumstances applied.
+(2)
+Section 135(2A) to (4)—
+renumber as section 135(3) to (5).
+118
+Insertion of new pt 5, div 11
+Part 5—
+insert—
+Division 11
+Continuing professional 
+development
+151A Definitions for division
+In this division—
+CPD requirements, for a real estate salesperson,
+means the continuing professional development
+requirements for the real estate salesperson
+approved by the chief executive under section
+151D.
+CPD year, for a registration certificate, means—
+(a)
+a period of 12 months ending on the day
+before an anniversary of the date the
+registration certificate was first issued; or
+
+--------------------------------------------------------------------------------
+Page 120
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 118]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+(b)
+a period approved by the chief executive
+under section 151E.
+151B Real estate salespersons to complete CPD 
+requirements
+(1)
+A real estate salesperson must complete the CPD
+requirements for each CPD year for the
+salesperson’s registration certificate.
+Example—
+A real estate salesperson’s 3-year registration certificate
+is issued on 1 September 2025. Under subsection (2),
+the person is not required to complete the CPD
+requirements for the CPD year between 1 September
+2025 and 31 August 2026. Under this subsection, the
+person is required to complete the CPD requirements for
+the CPD year between 1 September 2026 and 31 August
+2027 and for the CPD year between 1 September 2027
+and 31 August 2028 (and for later CPD years if the
+registration certificate is renewed).
+(2)
+Subsection (1) does not apply to a real estate
+salesperson for the first CPD year that the person
+holds their registration certificate.
+(3)
+If a real estate salesperson holds more than 1
+authority, 
+subsection 
+(1) 
+applies 
+to 
+the
+salesperson only if the authority with the earliest
+date of original issue is a registration certificate.
+(4)
+In this section—
+authority means a licence or a registration
+certificate.
+date of original issue, of an authority, means the
+date on which the authority was first issued
+(before any subsequent renewal or restoration of
+the authority).
+151C Record of completed CPD requirements
+(1)
+A real estate salesperson to whom section
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 121
+Authorised by the Parliamentary Counsel
+[s 119]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+151B(1) applies must keep a record of the CPD
+requirements completed by the person.
+Maximum penalty—10 penalty units.
+(2)
+The real estate salesperson must keep the record
+for 5 years after the end of the CPD year to which
+the record relates.
+Maximum penalty—10 penalty units.
+151D Chief executive to approve and publish CPD 
+requirements
+(1)
+The chief executive must approve continuing
+professional development requirements for real
+estate salespersons.
+(2)
+The chief executive must publish the CPD
+requirements on the department’s website.
+151E Chief executive may approve adjusted CPD 
+year
+(1)
+The chief executive may, on their own initiative
+or on application by a real estate salesperson,
+approve a period as a CPD year for the
+salesperson’s registration certificate.
+(2)
+The chief executive must give the salesperson
+notice of the approved period and the day on
+which the period starts.
+119
+Insertion of new ss 229B and 229C
+After section 229A—
+insert—
+229B Confidentiality
+(1)
+This section applies to a person who—
+
+--------------------------------------------------------------------------------
+Page 122
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 119]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+(a)
+is, or has been, a public service employee
+performing functions under or relating to the
+administration of this Act; and
+(b)
+in that capacity, has acquired or has access
+to personal information about another
+person.
+(2)
+The person must not disclose the information to
+anyone else, or use the information, other than
+under this section.
+Maximum penalty—35 penalty units.
+(3)
+The person may disclose or use the information—
+(a)
+to the extent the disclosure or use is—
+(i)
+necessary to perform a function under
+or relating to the administration of this
+Act; or
+(ii) otherwise required or permitted under
+this Act or another law; or
+(b)
+with the consent of the person to whom the
+information relates; or
+(c)
+in compliance with a lawful process
+requiring production of documents to, or
+giving evidence before, a court or tribunal.
+(4)
+In this section—
+disclose includes give access to.
+information includes a document.
+personal information means information about a
+person’s affairs.
+229C Exchange of information
+(1)
+The chief executive may enter into an
+arrangement 
+(an 
+information-sharing
+arrangement) with a relevant agency for the
+purposes of sharing or exchanging information—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 123
+Authorised by the Parliamentary Counsel
+[s 119]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+(a)
+held by the chief executive or the relevant
+agency; or
+(b)
+to which the chief executive or the relevant
+agency has access.
+(2)
+An information-sharing arrangement may relate
+only to information that assists—
+(a)
+the chief executive to perform the chief
+executive’s functions under this Act; or
+(b)
+the relevant agency to perform its functions.
+(3)
+Under an information-sharing arrangement, the
+chief executive and the relevant agency are,
+despite another Act or law, authorised to—
+(a)
+ask for and receive information from the
+other party to the arrangement; and
+(b)
+disclose information to the other party.
+(4)
+The 
+chief 
+executive 
+may 
+use 
+criminal
+intelligence, given to the chief executive by the
+police 
+commissioner 
+under 
+an
+information-sharing 
+arrangement, 
+only 
+for
+monitoring compliance with this Act.
+(5)
+In this section—
+information does not include information given
+to the chief executive or a relevant agency, or to
+which the chief executive or a relevant agency has
+access, under the Crime and Corruption Act 2001.
+relevant agency means the following—
+(a)
+the police commissioner;
+(b)
+the chief executive of a department;
+(c)
+the 
+Residential 
+Tenancies 
+Authority
+established under the Residential Tenancies
+and Rooming Accommodation Act 2008;
+(d)
+a local government;
+
+--------------------------------------------------------------------------------
+Page 124
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 120]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+(e)
+a person prescribed by regulation.
+120
+Amendment of pt 14, hdg (Transitional provisions)
+Part 14, heading, after ‘provisions’—
+insert—
+for Act No. 22 of 2014
+121
+Insertion of new pt 15
+After part 14—
+insert—
+Part 15
+Transitional provisions 
+for Property 
+Occupations and Other 
+Legislation 
+Amendment Act 2024
+273 Application of s 92B to licensees holding 
+existing licences
+(1)
+Subsection (2) applies to a licensee who holds a
+licence that is—
+(a)
+for a term of 1 year or more; and
+(b)
+in force on the commencement.
+(2)
+Section 92B does not apply to the licensee until
+the start of the first CPD year for the licence after
+the commencement.
+(3)
+Subsection (4) applies to a licensee who holds a
+licence that is—
+(a)
+for a term of less than 1 year; and
+(b)
+in force on the commencement.
+(4)
+Section 92B applies to the licensee only—
+
+--------------------------------------------------------------------------------
+ 
+2024 Act No. 27
+Page 125
+Authorised by the Parliamentary Counsel
+[s 122]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+Part 3 Other legislation
+(a)
+if the licence is renewed; and
+(b)
+from the start of the next CPD year for the
+licence.
+274 Application of s 151B to real estate 
+salespersons holding existing registration 
+certificates
+(1)
+Subsection (2) applies to a real estate salesperson
+who holds a registration certificate that is—
+(a)
+for a term of 1 year or more; and
+(b)
+in force on the commencement.
+(2)
+Section 151B does not apply to the salesperson
+until the start of the first CPD year for the
+registration certificate after the commencement.
+(3)
+Subsection (4) applies to a real estate salesperson
+who holds a registration certificate that is—
+(a)
+for a term of less than 1 year; and
+(b)
+in force on the commencement.
+(4)
+Section 151B applies to the salesperson only—
+(a)
+if the registration certificate is renewed; and
+(b)
+from the start of the next CPD year for the
+registration certificate.
+122
+Amendment of sch 2 (Dictionary)
+Schedule 2—
+insert—
+CPD requirements—
+(a)
+for a licensee—see section 92A; or
+(b)
+for a real estate salesperson—see section
+151A.
+CPD year— 
+
+--------------------------------------------------------------------------------
+Page 126
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+ 
+[s 123]
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+Part 3 Other legislation
+(a)
+for a licence—see section 92A; or
+(b)
+for a registration certificate—see section
+151A.
+Division 5
+Other amendments
+123
+Legislation amended
+Schedule 1 amends the legislation it mentions.
+
+--------------------------------------------------------------------------------
+Schedule 1
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+ 
+2024 Act No. 27
+Page 127
+Authorised by the Parliamentary Counsel
+Schedule 1
+Other amendments
+section 123
+Part 1
+Amendments commencing on 
+assent
+Residential Tenancies and Rooming Accommodation 
+Regulation 2009
+1
+Section 29—
+omit, insert—
+29
+Procedures for selling goods by auction—Act, 
+s 363
+(1)
+This section prescribes procedures under section
+363(5) of the Act for a person selling goods by
+auction under section 363(4)(a) of the Act.
+(2)
+The person must make reasonable efforts to
+contact the person entitled to the goods (the
+owner) to give the owner notice of the auction. 
+(3)
+For subsection (2), reasonable efforts include the
+following—
+(a)
+attempting to contact the owner by
+telephone, including text message, email or
+private message on a social media platform;
+(b)
+attempting to contact an emergency contact
+listed on the owner’s residential tenancy
+agreement;
+(c)
+publishing a notice in an online newspaper
+for the city or State in which the owner is or
+was residing.
+
+--------------------------------------------------------------------------------
+Schedule 1
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+ 
+Page 128
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+(4)
+If, after making reasonable efforts to contact the
+owner under this section, the person is unable to
+contact the owner or the owner does not make a
+claim to possession of the goods, the person may
+sell the goods by auction.
+State Penalties Enforcement Regulation 2014
+1
+Schedule 1, entry for Residential Tenancies and Rooming 
+Accommodation Act 2008, entries for sections 57(1), 
+57(2), 77(1), 93(2), 173(4) and 178(4)—
+omit.
+2
+Schedule 1, entry for Residential Tenancies and Rooming 
+Accommodation Act 2008—
+insert—
+s 57(1)
+5
+25
+s 57(2)
+5
+25
+s 57(3)
+5
+25
+s 76AA(1)
+5
+25
+s 76AA(2)
+5
+25
+s 76AA(3)
+5
+25
+s 93(1)
+2
+10
+s 93A(2)
+4
+20
+s 105B(1)
+2
+10
+s 105C(2)
+4
+20
+s 173(3)
+2
+10
+s 178(3)
+2
+10
+
+--------------------------------------------------------------------------------
+Schedule 1
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+ 
+2024 Act No. 27
+Page 129
+Authorised by the Parliamentary Counsel
+Part 2
+Amendments commencing on 
+1 July 2024
+Local Government Act 2009
+1
+Amendment of references to LGIAsuper
+Each of the following provisions is amended by omitting
+‘LGIAsuper’ and inserting ‘Brighter Super’— 
+•
+section 209, heading and subsections (1) and (2)
+•
+section 210
+•
+section 211, heading and subsection (1)
+•
+section 216(2)
+•
+section 216A, definition chosen fund, paragraph (b)
+•
+section 216A, definition defined benefit member
+•
+section 216A, definition relevant fund, paragraph (a)(i)
+•
+chapter 7, part 2, division 2, heading
+•
+section 217, heading and subsections (1), (2) and (3)(b)
+•
+section 218
+•
+section 219
+•
+section 219A, heading and subsections (1) and (2)
+•
+section 220(2)
+•
+schedule 4, definition trust deed.
+2
+Section 217(4)—
+omit, insert—
+(4)
+Brighter Super Trustee may include particular
+other matters in the trust deed under section 220B.
+
+--------------------------------------------------------------------------------
+Schedule 1
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act 
+2024
+ 
+Page 130
+2024 Act No. 27
+Authorised by the Parliamentary Counsel
+3
+Schedule 4, definitions LGIAsuper and LGIAsuper 
+Trustee, ‘LGIAsuper’—
+omit, insert—
+Brighter Super
+Local Government Regulation 2012
+1
+Section 303(1), from ‘yearly’ to ‘is the amount’—
+omit, insert—
+amount prescribed is
+2
+Section 303(2)—
+omit.
+Superannuation (Public Employees Portability) 
+Regulation 2019
+1
+Section 3(a), ‘LGIAsuper’—
+omit, insert—
+Brighter Super
+Superannuation (State Public Sector) Act 1990
+1
+Section 34(2)(a), ‘LGIAsuper’—
+omit, insert—
+
+--------------------------------------------------------------------------------
+Schedule 1
+Residential Tenancies and Rooming Accommodation and Other Legislation Amendment Act
+2024
+ 
+2024 Act No. 27
+Page 131
+Authorised by the Parliamentary Counsel
+Brighter Super
+2
+Section 34(3), definition LGIAsuper default fund 
+arrangements, ‘LGIAsuper’—
+omit, insert—
+Brighter Super
+© State of Queensland 2024
+
+--------------------------------------------------------------------------------

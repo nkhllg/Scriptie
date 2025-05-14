@@ -1,0 +1,656 @@
+Metadata for pdf/todo/Chapter 128 Land Registration Ordinance.pdf: {'format': 'PDF 1.7', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Mozilla Firefox 137.0.2', 'producer': 'cairo 1.18.0 (https://cairographics.org)', 'creationDate': "D:20250514231824+02'00", 'modDate': '', 'trapped': '', 'encryption': None, 'country': 'Hong Kong'}
+
+Country found in pdf/todo/Chapter 128 Land Registration Ordinance.pdf: Hong Kong
+
+Chapter 128
+Land Registration Ordinance
+22/01/2022
+To provide for the registration of deeds, conveyances, judgments and other
+instruments affecting real or immovable property, the keeping of
+Land  Registry  records,  and  for  other  matters  relating  to  land
+registration.
+(Replaced 56 of 1980 s. 2. Amended 56 of 1992 s. 2; 8 of 1993 s. 2)
+[28 February 1844]
+(Format changes—E.R. 2 of 2020)
+Preamble
+Whereas it is expedient to prevent secret and fraudulent conveyances, and to
+provide means whereby the title to real and immovable property may
+be easily traced and ascertained:
+(Amended 50 of 1911 s. 4)
+1.
+Short title
+This Ordinance may be cited as the Land Registration Ordinance.
+(Amended 5 of 1924 s. 6)
+1A.
+Interpretation
+In this Ordinance, unless the context otherwise requires—
+document (件) includes, in addition to a document in writing—
+(a)
+any map, plan or drawing;
+(b)
+any disc, tape or other device in which data other than
+visual images are embodied so as to be capable, with or
+without  the  aid  of  some  other  equipment,  of  being
+reproduced therefrom; and
+(c)
+any film, tape or other device in which visual images are
+embodied so as to be capable, with or without the aid of
+some other equipment, of being reproduced therefrom;
+image () or image record () means a record produced
+using the imaging method and, where the context permits,
+includes a record in a legible form; (Added 104 of 1995 s. 2)
+imaging (理) or imaging method (理	
+) means a
+method by which documents in a legible form or in the form
+of microfilm are scanned by a scanner and the information
+recorded therein is converted into electronic images, which are
+then  stored  on  electronic  storage  media  capable  of  being
+retrieved and reproduced in a legible form; (Added 104 of 
+1995 s. 2)
+lis pendens (待件) means—
+(a)
+any action or proceeding pending in a court or tribunal
+that relates to land or any interest in or charge on land;
+and
+(b)
+a bankruptcy petition; (Added 56 of 1992 s. 3)
+record () includes not only a written record but any record
+conveying information or instructions by any other means
+whatsoever;
+register card (冊料卡) has the meaning assigned to it by
+regulation 2 of the Land Registration Regulations (Cap. 128
+sub. leg. A). (Added 104 of 1995 s. 2. Amended E.R. 2 of
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+1 of 10
+5/14/25, 23:18
+
+--------------------------------------------------------------------------------
+2020)
+(Added 49 of 1986 s. 2)
+Registration of Instruments Affecting Land
+2.
+Establishment of Land Registry for registration of instruments
+affecting land
+(1)
+The Land Registry shall be a public office for the registration
+of deeds, conveyances, and other instruments in writing, and
+judgments; and all deeds, conveyances, and other instruments
+in writing, and all judgments, by which deeds, conveyances,
+and other instruments in writing, and judgments, any parcels
+of ground, tenements, or premises in Hong Kong may be
+affected, may be entered and registered in the said office in the
+prescribed manner. (Amended 50 of 1911 s. 4 & Schedule; 10 
+of 1953 s. 2; 56 of 1980 ss. 3 & 12; 56 of 1992 s. 15; 8 of 1993 
+s. 2)
+(2)
+For the purpose of this Ordinance, judgments () includes
+judgments  and  orders  of  the  Court  of  First  Instance,  the
+District Court and the Lands Tribunal. (Added 10 of 1953 s. 2.
+Amended 29 of 1983 s. 48; 25 of 1998 s. 2)
+2A.
+Floating charge
+(1)
+A document effecting a floating charge, whether or not it
+specifically  identifies  any  land  charged,  is  not,  for  the
+purposes of section 2, a deed, conveyance or other instrument
+in  writing  by  which  any  parcel  of  ground,  tenement  or
+premises in Hong Kong may be affected. (Amended 56 of 1992 
+s. 4)
+(2)
+A document effecting a floating charge created before, on or
+after 1 November 1984—  (Amended 31 of 1988 s. 31)
+(a)
+becomes  a  fixed  charge  on  the  land  intended  to  be
+affected; and
+(b)
+for the purposes of section 2, is a deed, conveyance or
+other  instrument  in  writing  by  which  any  parcel  of
+ground, tenement or premises in Hong Kong may be
+affected,
+upon crystallization of that charge after 1 November 1984 as
+evidenced  by  a  certificate  signed  by  or  on  behalf  of  the
+chargee.
+(3)
+For the purposes of section 5, the time of execution of a charge
+mentioned in subsection (2) is the time of signature of the
+certificate mentioned in that subsection.
+(Added 62 of 1984 s. 57)
+3.
+Priority of registered instruments; effect of non-registration
+(1)
+Subject to this Ordinance, all such deeds, conveyances, and
+other instruments in writing, and judgments, made, executed,
+or obtained, and registered in pursuance hereof, shall have
+priority one over the other according to the priority of their
+respective  dates  of  registration,  which  dates  shall  be
+determined in accordance with regulations made under this
+Ordinance. (Amended 50 of 1911 Schedule; 34 of 1978 s. 2; 56 
+of 1980 s. 4)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+2 of 10
+5/14/25, 23:18
+
+--------------------------------------------------------------------------------
+(2)
+All such deeds, conveyances, and other instruments in writing,
+and judgments, as last aforesaid, which are not registered
+shall,  as  against  any  subsequent  bona  fide  purchaser  or
+mortgagee for valuable consideration of the same parcels of
+ground, tenements, or premises, be absolutely null and void to
+all intents and purposes:
+Provided that nothing herein contained shall extend to bona
+fide leases at rack rent for any term not exceeding 3 years, or
+to a regulated tenancy (as defined by section 120AA(1) of the
+Landlord  and  Tenant  (Consolidation)  Ordinance  (Cap.  7).
+(Amended 50 of 1911 Schedule; 36 of 2021 s. 15)
+(Amended 56 of 1992 s. 15)
+4.
+Notice  of  unregistered  instrument  not  to  affect  registered
+instrument
+No notice whatsoever, either actual or constructive, of any prior
+unregistered deed, conveyance, or other instrument in writing, or
+judgment,  shall  affect  the  priority  of  any  such  instrument  as
+aforesaid as is duly registered.
+(Amended 50 of 1911 Schedule; 56 of 1992 s. 15)
+5.
+Period within which instruments to be registered after execution
+All  deeds,  conveyances,  and  other  instruments  in  writing,  and
+judgments, which are duly registered within the respective times
+next mentioned, that is to say, all deeds, conveyances, and other
+instruments in writing which are registered within one month after
+the time of execution thereof respectively, and all judgments which
+are registered within one month after the entering up or recording
+thereof, shall severally be in like manner entitled to priority, and
+shall take effect respectively by relation to the date thereof only in
+the same manner as if this Ordinance had not been passed.
+(Amended 50 of 1911 Schedule; 34 of 1978 s. 3; 56 of 1992 s. 15)
+5A.
+Priority of registered charging orders and lites pendentes
+Notwithstanding section 3 or section 5  a  charging  order  or  lis
+pendens  which  is  duly  registered  shall  have  priority  from  the
+commencement of the day following the date of its registration.
+(Added 34 of 1978 s. 4)
+6.
+(Repealed 56 of 1980 s. 5)
+7.
+(Repealed 56 of 1980 s. 5)
+8.
+(Repealed 56 of 1980 s. 5)
+9.
+(Repealed 56 of 1980 s. 5)
+10.
+(Repealed 56 of 1980 s. 5)
+11.
+(Repealed 56 of 1980 s. 5)
+12.
+(Repealed 56 of 1980 s. 5)
+13.
+(Repealed 56 of 1980 s. 5)
+Registration of Lis Pendens
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+3 of 10
+5/14/25, 23:18
+
+--------------------------------------------------------------------------------
+14.
+Application to lis pendens
+The provisions of this Ordinance relating to judgments (subject to
+the provisions hereinafter contained) shall extend to lites pendentes.
+(10 of 1856 s. 1 incorporated. Amended 50 of 1911 Schedule; 20 of 
+1948 s. 4; 56 of 1992 s. 5)
+15.
+(Repealed 56 of 1992 s. 6)
+16.
+Case of lis pendens not registered
+No lis pendens shall be registered in the Registry of the High Court,
+or elsewhere than in the Land Registry; and a lis pendens not
+registered  in  the  said  office  shall  not  bind  any  purchaser  or
+mortgagee of the estate intended to be thereby affected.
+(10 of 1856 s. 3 incorporated. Amended 50 of 1911 Schedule; 56 of 
+1992 s. 7; 8 of 1993 s. 2; 25 of 1998 s. 2)
+17.
+Expiry and re-registration
+The registration of a judgment, order or lis pendens shall cease to
+have effect at the end of 5 years from the date of registration, but
+the judgment, order or lis pendens may be re-registered from time to
+time and, if so re-registered, shall have effect for 5 years from the
+date of re-registration.
+(Replaced 56 of 1992 s. 8)
+18.
+Effect of registry and re-registry and extension of 1855 c. 15 s.
+11
+Every  lis  pendens  registered  or  re-registered,  and  also  every
+judgment or order re-registered under this Ordinance, shall have the
+same force and effect as a judgment registered and not further or
+otherwise.
+(10 of 1856 s. 5 incorporated. Amended 50 of 1911 Schedule; 20 of 
+1948 s. 4; 56 of 1980 s. 12; 56 of 1992 s. 9)
+Vacation of Registration of Lis Pendens
+19.
+[cf. 1867 c. 47 s. 2 U.K.]
+Power to the court to order vacation of lis pendens
+The court or judge before whom any property sought to be bound is
+in litigation, may on the determination of the lis pendens, or during
+the pendency thereof, where the said court or judge is satisfied that
+the litigation is not prosecuted bona fide, or for other good cause
+shown, make an order for the vacating of the registration in the
+Land Registry of such lis pendens without the consent of the party
+who registered it, and may direct the party on whose behalf the
+registration was made to pay all the costs and expenses occasioned
+by the registration or the vacating thereof, including the costs of the
+application to vacate, or may make such other order as to such costs
+or any of them as to the said court or judge may seem just.
+(2 of 1896 s. 1 incorporated. Amended 50 of 1911 Schedule; 8 of 
+1993 s. 2)
+20.
+Mode of making application to the court
+The application to vacate a lis pendens under section 19 may be in a
+summary way by petition or motion in court or by summons in
+chambers,  and  may  be  made  by  any  person  interested  in  the
+property against which the lis pendens has been registered, whether
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+4 of 10
+5/14/25, 23:18
+
+--------------------------------------------------------------------------------
+[cf. 1867 c. 47 s. 2 U.K.]
+such person is a party to the lis pendens or not.
+(2 of 1896 s. 2 incorporated. Amended 5 of 1924 s. 8)
+21.
+[cf. 1867 c. 47 s. 2 U.K.]
+Entry of discharge by Land Registrar
+If an order is made for vacating any such registration, the Land
+Registrar shall, on the filing with him of a memorial and an office
+copy of such order, enter a discharge of such lis pendens on the
+register, and may issue certificates of such entry.
+(2 of 1896 s. 3 incorporated. Amended 50 of 1911 Schedule; 8 of 
+1993 s. 3)
+Miscellaneous
+22.
+(Repealed 104 of 1995 s. 3)
+23.
+Obligation of Land Registrar to register
+(1)
+Subject to subsection (2), the Land Registrar shall register, in
+the manner prescribed by or under this Ordinance, any deed,
+conveyance or other instrument in writing, or judgment if, but
+only if, he is satisfied that—  (Amended 56 of 1992 ss. 10 &
+15; 8 of 1993 s. 3; 28 of 1995 s. 40)
+(a)
+the deed, conveyance or other instrument in writing, or
+judgment,  may  be,  or  is  under  any  other  Ordinance
+required
+ 
+to
+ 
+be,
+ 
+registered
+ 
+under
+ 
+this
+Ordinance; (Amended 56 of 1992 s. 15)
+(b)
+the provisions of this Ordinance and of any regulations
+made thereunder, and of any other Ordinance relating to
+the registration of an instrument under this Ordinance
+have been complied with; and
+(c)
+the prescribed fees have been paid.
+(2)
+Subject to subsection (3), the Land Registrar shall not register
+a deed, conveyance or other instrument in writing, executed
+after the commencement* of section 30 of the Land Survey
+Ordinance (Cap. 473) and effecting a division of land if the
+deed, conveyance or instrument is not accompanied by a land
+boundary plan—
+(a)
+showing and delineating the parcels of land resulting
+from the division; and
+(b)
+subject  to  subsection  (4),  signed  and  certified  by  an
+authorized land surveyor in accordance with the Land
+Survey Ordinance (Cap. 473). (Added 28 of 1995 s. 40)
+(3)
+Where a division of land is effected by a will or judgment and
+the grant of probate in respect of the will or the judgment, as
+the  case  may  be,  is  delivered  into  the  Land  Registry  for
+registration, it shall not be necessary for the grant or judgment
+to be accompanied by a land boundary plan referred to in
+subsection (2), but the deed, conveyance or other instrument in
+writing transferring the title of any parcel of land resulting
+from  the  division  delivered  into  the  Land  Registry  for
+registration shall be accompanied by such a land boundary
+plan. (Added 28 of 1995 s. 40)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+5 of 10
+5/14/25, 23:18
+
+--------------------------------------------------------------------------------
+(4)
+It  shall  not  be  necessary  for  a  land  boundary  plan
+accompanying any deed, conveyance or other instrument in
+writing to which subsection (2) or (3) applies and which plan
+is prepared by the Government to be signed and certified by an
+authorized land surveyor. (Added 28 of 1995 s. 40)
+(5)
+In this section, authorized land surveyor (可⼟測量師),
+land (⼟) and land boundary plan (⼟界圖) have the
+meanings  respectively  assigned  to  them  under  the  Land
+Survey Ordinance (Cap. 473). (Added 28 of 1995 s. 40)
+(Replaced 56 of 1980 s. 6)
+____________________
+Editorial Note:
+* Commencement date: 15 January 1996.
+23A.
+Liability of Land Registrar and others
+If the Land Registrar or any other person employed in the Land
+Registry wilfully or negligently fails to comply with section 23, he
+shall be liable for any loss or damage thereby caused, but he shall
+not be liable in damages—  (Amended 8 of 1993 ss. 2 & 3)
+(a)
+for registering, in good faith, any deed, conveyance or
+other instrument in writing, or judgment, notwithstanding
+any error, omission or defect therein;
+(b)
+for registering, in good faith, any deed, conveyance, or
+other instrument in writing, or judgment, which does not
+affect any parcels of ground, tenements or premises in
+Hong Kong; or
+(c)
+for any damage to or loss or destruction of any memorial
+or any deed, conveyance or other instrument in writing,
+or judgment, registered or delivered for registration or
+any document in his custody unless such damage, loss or
+destruction was due to his act and such act—
+(i)
+was not authorized by or under this Ordinance; and
+(ii)
+was done negligently or with intent to cause such
+damage, loss or destruction.
+(Added 56 of 1980 s. 6. Amended 56 of 1992 s. 15)
+24.
+Dishonest destruction etc., of memorials and other documents
+(1)
+Any person who dishonestly, with a view to gain for himself
+or another, or with intent to cause loss to another, destroys,
+removes, alters, defaces or conceals—
+(a)
+any  memorial,  or  any  deed,  conveyance  or  other
+instrument in writing, or judgment, belonging to, or filed
+or deposited in, the Land Registry, or any part thereof or
+endorsement thereon or any microfilm, image or other
+record thereof; or (Amended 104 of 1995 s. 4)
+(b)
+any  register,  book,  index,  receipt,  docket  or  other
+document belonging to, or filed or deposited in, the Land
+Registry, or any part thereof or any microfilm, image or
+other record thereof, (Amended 104 of 1995 s. 4)
+commits  an  offence  and  is  liable  on  conviction  upon
+indictment to imprisonment. (Amended 56 of 1992 ss. 11 &
+15; 8 of 1993 s. 2)
+(2)
+Any person who wilfully or maliciously destroys, removes,
+alters,  defaces  or  conceals  any  thing  referred  to  under
+subsection (1)(a) or (b) commits an offence and is liable to
+imprisonment and a fine. (Added 56 of 1992 s. 11)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+6 of 10
+5/14/25, 23:18
+
+--------------------------------------------------------------------------------
+(Replaced 56 of 1980 s. 7)
+25.
+(Repealed 56 of 1980 s. 8)
+26.
+Duties and powers of assistant land registrar
+Any assistant land registrar acting in the place or on behalf of the
+Land Registrar shall have the same duties and powers as are given
+by this or any other Ordinance to the Land Registrar.
+(Added 23 of 1938 s. 2. Amended 8 of 1993 s. 3)
+26A.
+Copies of documents etc. admissible in evidence
+(1)
+A document purporting to be a copy, print or extract—
+(a)
+of or from—
+(i)
+any memorial or any deed, conveyance or other
+instrument in writing, or judgment, belonging to, or
+filed or deposited in, the Land Registry, or any part
+thereof or endorsement thereon or any microfilm,
+image or other record thereof; or (Amended 56 of 
+1992 s. 15; 104 of 1995 s. 5)
+(ii)
+any register, book, index, receipt, docket or other
+document belonging to, or filed or deposited in, the
+Land Registry, or any part thereof or any microfilm,
+image or other record thereof; and (Amended 104 of 
+1995 s. 5)
+(b)
+bearing a certificate, with the signature or the printed
+signature  of  the  Land  Registrar,  or  of  any  person
+authorized  by  him  in  that  behalf,  certifying  that  the
+document is a true copy, print or extract, (Replaced 104 
+of 1995 s. 5)
+shall, subject to the Stamp Duty Ordinance (Cap. 117),  be
+admissible in evidence in criminal or civil proceedings before
+any court on its production without further proof and, until the
+contrary is proved, the court shall presume that—
+(A)
+the signature or the printed signature and certification to
+the document is that of the Land Registrar or a person
+authorized by him in that behalf; and (Amended 104 of 
+1995 s. 5)
+(B)
+the document is a true and correct copy, print or extract.
+(2)
+Nothing in this section shall prejudice the admissibility of any
+evidence which would be admissible apart from the provisions
+of this section.
+(3)
+For the avoidance of doubt, it is hereby declared that nothing
+in this section or any other provision of this Ordinance shall
+require the Land Registrar or a person mentioned in subsection
+(1) to provide a certificate mentioned in that subsection in
+relation to any copy, print or extract of or from any instrument,
+including  any  copies,  prints  or  extracts  of  or  from  the
+memorial and plans (if any) relating thereto, withheld from
+registration  pursuant  to  the  Land  Registration  Regulations
+(Cap. 128 sub. leg. A). (Added 20 of 2002 s. 2)
+(Added 56 of 1980 s. 9. Amended 8 of 1993 ss. 2 & 3)
+27.
+Fees
+(1)
+The Chief Executive in Council may by regulation prescribe
+the fees to be taken in the Land Registry. (Amended 20 of 1948 
+s. 4; 9 of 1950 Schedule; 37 of 1950 Schedule; 61 of 1999 s. 3)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+7 of 10
+5/14/25, 23:18
+
+--------------------------------------------------------------------------------
+(2)
+Subject  to  the  provisions  of  subsection  (3),  the  true
+consideration shall be stated in all documents registered in the
+Land Registry. (Replaced 28 of 1931 s. 2)
+(3)
+Where the amount or value of the consideration money is not
+stated in any deed, assignment, mortgage or other instrument
+proposed to be registered in the Land Registry, or where no
+consideration money or merely nominal consideration money
+passes thereunder, the value of the property, to which such
+deed, assignment, mortgage or other instrument relates, shall
+be determined by the Land Registrar and the like fees shall be
+paid as if the value so determined were the amount or value of
+the consideration money. (Replaced 28 of 1931 s. 2. Amended
+20 of 1948 s. 4; 56 of 1992 s. 12)
+(Amended 8 of 1993 ss. 2 & 3)
+28.
+Regulations
+(1)
+The Land Registrar may make regulations for all or any of the
+following matters—  (Amended 56 of 1992 s. 13)
+(a)
+the manner in which entry and registration of memorials,
+deeds, conveyances, and other instruments in writing,
+and  judgments,  and  other  documents  in  the  Land
+Registry shall be effected, and the withdrawal of any
+memorial,  deed,  conveyance,  or  other  instrument  in
+writing,  or  judgment,  or  other  document  from
+registration; (Amended 56 of 1992 s. 15)
+(b)
+determining  the  date  of  registration  of  registered
+instruments and the proof thereof;
+(c)
+particulars  and  documents  to  be  furnished  for  the
+purposes of registration;
+(d)
+the method by which and the form in which memorials,
+deeds, conveyances, and other instruments in writing,
+and judgments, and other documents are to be recorded
+and  the  manner  in  which  they  are  to  be
+maintained; (Amended 56 of 1992 s. 15)
+(e)
+the correction and amendment of any memorial or other
+document;
+(f)
+the keeping of indexes, registers and other records of the
+Land Registry;
+(g)
+the use of microfilm, imaging or any other material or
+method  for  the  recording  of  memorials,  deeds,
+conveyances,  and  other  instruments  in  writing,  and
+judgments, and other documents, including records of the
+Land Registry; (Amended 56 of 1992 s. 15; 104 of 1995 
+s. 6)
+(ga)
+the  use  of  the  imaging  method  for  the  recording  of
+microfilm records; (Added 104 of 1995 s. 6)
+(h)
+the  destruction  or  disposal  of  memorials  and  other
+documents,  including  records  of  the  Land  Registry,
+recorded on microfilm or on other material or by the
+imaging method; (Amended 104 of 1995 s. 6)
+(i)
+fixing the hours during which the Land Registry or any
+part thereof shall be open to the public and empowering
+the Land Registrar to vary such hours;
+(j)
+regulating admission to the Land Registry or any part
+thereof  and  the  use  of  any  equipment,  facilities  or
+material therein by members of the public;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+8 of 10
+5/14/25, 23:18
+
+--------------------------------------------------------------------------------
+(k)
+regulating the conduct of persons in the Land Registry;
+(l)
+enabling any person to be refused entry to the Land
+Registrar and the removal from the Land Registry of any
+person;
+(m)
+prescribing anything that is required or permitted to be
+prescribed under this Ordinance.
+(2)
+Regulations  made  under  this  section  may  provide  that  a
+contravention  of  any  specified  provision  of  any  such
+regulation  shall  be  an  offence  and  may  provide  penalties
+therefor not exceeding a fine at level 3 and imprisonment for 2
+years. (Amended E.R. 2 of 2020)
+(Added 56 of 1980 s. 10. Amended 8 of 1993 ss. 2 & 3)
+29.
+Effect of memorials recorded on microfilm
+Where pursuant to regulations made under section 28 the memorial
+of  any  deed,  conveyance  or  other  instrument  in  writing,  or
+judgment, is recorded on microfilm—
+(a)
+the microfilm record of the memorial shall be treated for
+all purposes as the original memorial; and
+(b)
+the registration of any such deed, conveyance or other
+instrument in writing, or judgment, registered prior to the
+date  of  commencement*  of  the  Land  Registration
+(Amendment) Ordinance 1980 (56 of 1980), shall not be
+affected.
+(Added 56 of 1980 s. 10. Amended 56 of 1992 s. 15)
+____________________
+Editorial Note:
+* Commencement date: 8 June 1981.
+29A.
+Effect of register cards recorded on microfilm or memorials
+recorded by the imaging method, etc.
+Where pursuant to regulations made under section 28—
+(a)
+any register card is recorded on microfilm, the microfilm
+record  of  the  register  card  shall  be  treated  for  all
+purposes as the original register card;
+(b)
+the  memorial  of  any  deed,  conveyance  or  other
+instrument in writing, or judgment, is recorded by the
+imaging method, the image record of the memorial shall
+without  prejudice  to  section  29(a)  be  treated  for  all
+purposes as the original memorial; and
+(c)
+the  microfilm  record  of  the  memorial  of  any  deed,
+conveyance or other instrument in writing, or judgment,
+is recorded by the imaging method, the image record of
+the  microfilm  record  of  the  memorial  shall  without
+prejudice to section 29(a) be treated for all purposes as
+the original memorial.
+(Added 104 of 1995 s. 7)
+30.
+(Repealed 20 of 2002 s. 3)
+31.
+Saving in respect of deposit of deeds, etc., in Land Registry for
+safe custody
+Notwithstanding the repeal of section 22 by section 3 of the Land
+Registration (Amendment) Ordinance 1995 (104 of 1995), where
+immediately before the commencement*  of  that  Ordinance,  any
+person has, pursuant to that repealed section, deposited in the Land
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+9 of 10
+5/14/25, 23:18
+
+--------------------------------------------------------------------------------
+Registry for safe custody any deed, conveyance, power of attorney,
+or other instrument in writing whatsoever, the Land Registrar shall
+continue to—
+(a)
+keep and maintain the book which contains an accurate
+alphabetical index having reference as well to the name
+of the parties to each such deed or instrument as to the
+person depositing the same; and
+(b)
+carefully and securely keep all such deeds, conveyances,
+powers of attorney, or other instruments in his office
+until required by the party depositing the same to deliver
+them back again.
+(Added 104 of 1995 s. 8)
+____________________
+Editorial Note:
+* Commencement date: 15 December 1995.
+___________
+First Schedule
+(Repealed 20 of 2002 s. 4)
+___________
+Second Schedule
+(Repealed 20 of 2002 s. 4)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+10 of 10
+5/14/25, 23:18
+
+--------------------------------------------------------------------------------

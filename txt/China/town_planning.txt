@@ -1,0 +1,4172 @@
+Metadata for pdf/HongKong/town_planning.pdf: {'format': 'PDF 1.7', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Mozilla Firefox 137.0.2', 'producer': 'cairo 1.18.0 (https://cairographics.org)', 'creationDate': "D:20250428222107+02'00", 'modDate': '', 'trapped': '', 'encryption': None, 'country': 'Hong Kong'}
+
+Country found in pdf/HongKong/town_planning.pdf: Hong Kong
+
+Chapter 131
+Town Planning Ordinance
+02/11/2023
+To promote the health, safety, convenience and general welfare of the
+community by making provision for the systematic preparation and
+approval of plans for the lay-out of areas of Hong Kong (as well as
+for the types of building suitable for erection in those areas) and for
+the  preparation  and  approval  of  plans  for  areas  within  which
+permission is required for development, including making provision
+for the enforcement of this Ordinance and for related matters.
+(Amended 4 of 1991 s. 2; 25 of 2023 s. 67)
+[23 June 1939]
+(Format changes—E.R. 1 of 2021)
+1.
+Short title
+This Ordinance may be cited as the Town Planning Ordinance.
+1A.
+Interpretation
+(1)
+In this Ordinance, unless the context otherwise requires—
+(Amended 25 of 2023 s. 41)
+Appeal Board (上員) means an Appeal Board constituted
+under section 17A; (Added 101 of 1991 s. 2)
+approved part (已	
+)—
+(a)
+means—
+(i)
+any part of a plan mentioned in subsection (2)(b)(i);
+or
+(ii)
+any part of a plan that is approved under section
+9(2); and
+(b)
+includes  any  part  of  a  plan  that  is  taken  to  be  an
+approved part of the plan because of section 12(3B) or
+(3E); (Added 25 of 2023 s. 41)
+approved plan (圖)—see subsection (2)(b); (Added 25 of 2023 
+s. 41)
+Authority (督) means the Director of Planning;
+Board (規劃員) means the Town Planning Board appointed
+under section 2; (Added 25 of 2023 s. 41)
+building (物) includes a structure or part of a structure;
+container (貨) includes a container converted for use as an
+accommodation or as storage or for any other use; (Added 22 
+of 1994 s. 2)
+development ()  means  carrying  out  building,  engineering,
+mining or other operations in, on, over or under land, or
+making a material change in the use of land or buildings;
+development permission area () means an area so
+designated in a plan prepared under sections 3(1)(b) and 20
+but does not include land included in a plan of an interim
+development permission area;
+existing use (現有⽤), in relation to a development permission
+area, means a use of a building or land that was in existence
+immediately before the publication in the Gazette of notice of
+the draft plan of the development permission area; (Amended
+E.R. 1 of 2021)
+interim development permission area (中期) means
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+1 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+an area so designated in a plan prepared under section 26;
+land owner (⼟"有人) has the same meaning as owner in
+section 2(1) of the Buildings Ordinance (Cap. 123);
+material change in the use of land or buildings (⼟或物⽤
+ 的& 質( ) )  includes  depositing  matter  on  land,
+notwithstanding that all or part of the land is already used for
+depositing matter, if the area, height or amount of the deposit
+is increased;
+material date (*+⽇期) means 9 December 2022; (Added 25 of 
+2023 s. 68)
+occupier (佔⽤人) includes a tenant of a land owner whether or not
+he pays rent, a person who resides in a building and a person
+who carries on a full-time occupation in a building;
+outstanding part (待	
+)—see subsections (3), (4) and (5);
+(Added 25 of 2023 s. 41)
+partly approved plan (局	圖)—see subsection (2)(a); (Added
+25 of 2023 s. 41)
+pre-material-date use (*+⽇期前⽤), in relation to a regulated
+area, means a use of a building or land that was in existence
+immediately before the material date; (Added 25 of 2023 s. 68)
+prescribed fee (1明3⽤), in relation to any matter, means the fee
+prescribed in relation to that matter by a regulation made
+under section 14(2); (Added 25 of 2004 s. 2)
+property (財5) includes anything contained in a vehicle or a
+container, but does not include immovable property; (Added
+22 of 1994 s. 2)
+regulated area (受規7) means—
+(a)
+an area designated under section 21A(3); or
+(b)
+an area modified under section 21A(5)(a); (Added 25 of 
+2023 s. 68)
+regulated area designation (受規789) means—
+(a)
+a designation under section 21A(3); or
+(b)
+a designation mentioned in paragraph (a) as modified
+from time to time by section 21A(5)(a); (Added 25 of 
+2023 s. 68)
+regulated area plan (受規7圖則) means a plan prepared and
+signed under section 21B; (Added 25 of 2023 s. 68)
+unauthorized development (;例)— (Amended 25 of 2023 s. 
+68)
+(a)
+in relation to land included in a plan of a development
+permission area, land to which section 20(7) applies, or a
+regulated area, means development in contravention of
+this Ordinance; and
+(b)
+in sections 22 and 23, in relation to land referred to in
+section  23(4),  means  development  other  than
+development  permitted  under  a  plan  of  an  interim
+development permission area, undertaken on or after the
+date on which notice of that plan is gazetted. (Amended
+25 of 2023 s. 68)
+(2)
+For the purposes of this Ordinance—
+(a)
+a plan is a partly approved plan if—
+(i)
+there is any approved part in respect of the plan; but
+(ii)
+the plan is not an approved plan; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+2 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+a plan is an approved plan if—
+(i)
+the whole plan is approved under section 9; or
+(ii)
+all parts of the plan are approved parts. (Added 25 
+of 2023 s. 41)
+(3)
+For the purposes of this Ordinance, subject to subsection (4), if
+a part of a partly approved plan is not an approved part
+(subject part), the subject part is the outstanding part of the
+plan. (Added 25 of 2023 s. 41)
+(4)
+If there is more than one subject part in respect of a partly
+approved  plan,  the  subject  parts  together  constitute  the
+outstanding part of the plan. (Added 25 of 2023 s. 41)
+(5)
+If the outstanding part (or any part of the outstanding part) of a
+plan is amended by the Board under this Ordinance, except
+otherwise  provided  in  this  Ordinance,  a  reference  to  the
+outstanding part of the plan is a reference to that part as
+amended. (Added 25 of 2023 s. 41)
+(6)
+For the purposes of this Ordinance—
+(a)
+if the Chief Executive in Council refuses to approve a
+plan under section 9, the plan is taken as not having been
+prepared from the date of the refusal; and
+(b)
+if the Chief Executive in Council refuses to approve any
+part of a plan under section 9, the part so refused is not to
+be treated as part of the plan from the date of the refusal.
+(Added 25 of 2023 s. 41)
+(Added 4 of 1991 s. 3)
+2.
+Appointment of Town Planning Board
+(1)
+The Chief Executive may appoint a Town Planning Board
+consisting of such official and unofficial members as he may
+nominate, and may appoint any member of the Board, either
+ex officio or personally, as chairman or vice-chairman and any
+public officer as secretary thereof. (Amended 62 of 2000 s. 3)
+(2)
+5 members of the Board, one of whom must be the chairman
+or vice-chairman, shall form a quorum at any meeting of the
+Board.
+(3)
+For the better discharge of the functions of the Board under
+this Ordinance the Chief Executive may, by notice in the
+Gazette,  from  among  the  members  of  the  Board,  appoint
+committees of the Board and a chairman and vice-chairman of
+each committee. (Added 4 of 1991 s. 4. Amended 62 of 2000 s. 
+3)
+(4)
+5 members of a committee appointed under subsection (3), one
+of whom must be the chairman or a vice-chairman and 3 of
+whom must be persons who are not official members, shall
+form a quorum at any meeting of the committee. (Added 4 of 
+1991 s. 4)
+(5)
+The Board may delegate any of its powers and functions—
+(a)
+under sections 3, 4(1), 4A, 5, 7(1) to (3), 8, 12A, 16, 16A
+and 20(1) to a committee appointed under subsection (3);
+(b)
+to a public officer or class of public officer in respect of
+—  (Amended 25 of 2004 s. 3)
+(i)
+an  application  made  under  section  16A(2);  and
+(Replaced 25 of 2004 s. 3)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+3 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(ii)
+an  application  for  permission  for  development
+within a development permission area on condition
+that the development is discontinued and the land
+reinstated, as directed by the public officer, within 6
+months after the permission is granted; and
+(c)
+under sections 6B(4A)(b), 12A(13) and (15), 16(2J) and
+(2L) and 17(2H) and (2J) to the secretary of the Board,
+(Added 25 of 2004 s. 3. Amended 25 of 2023 s. 42)
+and,  for  the  avoidance  of  doubt,  the  provisions  of  this
+Ordinance are, with necessary modifications, to be construed
+and have application accordingly. (Added 4 of 1991 s. 4.
+Amended 25 of 2004 s. 3; 25 of 2023 s. 42)
+2A.
+Appointment of committees by the Board
+(1)
+Notwithstanding  section  2(3),  the  Board  may  appoint
+committees from among its members to exercise any of the
+Board’s powers and functions under sections 6B, 6C, 6D, 6E,
+6F, 6G and 6H, and, for the avoidance of doubt, the provisions
+of  this  Ordinance  shall,  with  necessary  modifications,  be
+construed and have application accordingly. (Amended 25 of 
+2004 s. 4)
+(2)
+A committee appointed under this section shall consist of not
+less  than  5  members,  at  least  3  of  whom  are  not  public
+officers. (Amended E.R. 1 of 2021)
+(3)
+The Board shall, from the members of a committee appointed
+under this section, appoint one member to be Chairman of the
+committee and one member to be Deputy Chairman of the
+committee.
+(4)
+The  quorum  for  a  committee  is  the  Chairman  or  Deputy
+Chairman and 2 members.
+(5)
+Notwithstanding subsection (4), a committee shall not meet or
+continue to meet unless a majority of those present are not
+public officers.
+(Added 16 of 1998 s. 2)
+2B.
+Transaction of business by circulation of papers
+(1)
+The Board or any committee appointed under section 2(3) or
+2A may transact any of its business by the circulation of
+papers among its members, whether any such member is in or
+outside Hong Kong, unless the holding of a meeting for the
+purpose is required either by any express provision of this
+Ordinance or by necessary implication from any provision of
+this Ordinance.
+(2)
+Subject to subsections (3) and (4), upon the circulation of
+papers under subsection (1), a resolution in writing which is
+approved in writing by a majority of the members of the Board
+or of a committee appointed under section 2(3) or 2A shall be
+as valid and effectual as if it had been a resolution passed at a
+meeting of the Board or the committee, as the case may be, by
+the  votes  of  the  members  by  whom  the  resolution  is  so
+approved.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+4 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(3)
+Any member of the Board or of a committee appointed under
+section 2(3) or 2A may require any business which is being
+transacted by the circulation of papers under subsection (1) to
+be transacted at a meeting of the Board or of the committee, as
+the case may be, by giving a notice in writing to the chairman
+of the Board or of the committee, as the case may be, within
+the period specified in the papers.
+(4)
+Where, in respect of any business being transacted by the
+circulation of papers, a notice is given under subsection (3) to
+the chairman of the Board or of a committee appointed under
+section 2(3) or 2A, any resolution approved in writing under
+subsection (2) in respect of the business shall be void.
+(5)
+For the avoidance of doubt, a reference to circulation of papers
+in this section includes circulation of information by electronic
+means, and the reference to the papers in this section shall be
+construed accordingly.
+(Added 25 of 2004 s. 5)
+2C.
+Meetings of Board and of committees
+(1)
+Subject to subsection (2), all meetings of the Board or of any
+committee appointed under section 2(3) or 2A shall be open to
+the public.
+(2)
+Subsection (1) does not apply to—
+(a)
+in the case of any meeting held under or for the purposes
+of section 6B, 6F, 12A, 16, 16A or 17, such part or parts
+of the meeting that are held for deliberation by the Board
+or the committee, as the case may be, for making any
+decision  under  section  6B(8),  6F(8)  or  (9),  12A(23),
+16(3), 16A(5) or 17(6), after hearing any person who, not
+being a member of the Board or the committee, as the
+case  may  be,  is  entitled  or  allowed  to  be  heard  or
+otherwise has an opportunity of making representations
+or providing information at the meeting; and (Amended
+25 of 2023 s. 43)
+(b)
+in the case of any other meeting, the meeting or any part
+or parts of the meeting if in the opinion of the Board or
+the committee, as the case may be, it is likely that—
+(i)
+the application of subsection (1) to such meeting or
+such part or parts of the meeting, as the case may
+be, would not be in the public interest;
+(ii)
+the application of subsection (1) to such meeting or
+such part or parts of the meeting, as the case may
+be, would result in premature release of information
+that would prejudice the position of the Board, the
+Government,  the  Chief  Executive  or  the  Chief
+Executive in Council or, in the case of a meeting of
+the committee, the committee in carrying out its or
+his functions under this Ordinance;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+5 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(iii)
+the application of subsection (1) to such meeting or
+such part or parts of the meeting, as the case may
+be, would result in a disclosure of information in
+breach of any duty of confidentiality owed to any
+person by the Board or the Government or, in the
+case of a meeting of the committee, the committee,
+or owed to the Government by the Board or, in the
+case of a meeting of the committee, the committee,
+by virtue of any law or any requirement under any
+law, or in contravention of any prohibition by any
+order of a magistrate or a court or by any law or
+any requirement under any law;
+(iv)
+the application of subsection (1) to such meeting or
+such part or parts of the meeting, as the case may
+be, would result in a disclosure of information in
+respect  of  which  a  claim  to  legal  professional
+privilege could be maintained in law; or
+(v)
+any matter transacted at such meeting or such part
+or parts of the meeting, as the case may be, would
+be relevant to the institution or conduct of any legal
+proceedings.
+(3)
+Subject to the provisions of this Ordinance, the Board or any
+committee appointed under section 2(3) or 2A may determine
+its practice and procedure at its meeting.
+(4)
+Without affecting subsection (3), the Board may determine—
+(a)
+the  length  of  time  for  a  person  who  makes  a
+representation under section 6(1) (specified person) to
+present the person’s case at a meeting held under section
+6B; and
+(b)
+the length of time for a person who is authorized by one
+or  more  specified  persons  to  present  the  specified
+persons’ cases at such a meeting. (Added 25 of 2023 s. 
+43)
+(Added 25 of 2004 s. 5)
+3.
+Functions of the Board
+(1)
+With  a  view  to  the  promotion  of  the  health,  safety,
+convenience and general welfare of the community, the Board
+shall undertake the systematic preparation of—
+(a)
+draft plans for the lay-out of such areas of Hong Kong as
+the Chief Executive may direct, as well as for the types
+of building suitable for erection therein; and
+(b)
+draft development permission area plans of such areas of
+Hong Kong as the Chief Executive may direct. (Amended
+62 of 2000 s. 3)
+(2)
+In  the  course  of  preparation  of  the  plans  referred  to  in
+subsection  (1),  the  Board  shall  make  such  inquiries  and
+arrangements (including, if it thinks fit, the taking of any
+census of the occupants of any buildings or of the users of any
+thoroughfares or spaces) as it may consider necessary for the
+preparation of such drafts.
+(Replaced 4 of 1991 s. 5)
+4.
+Contents of lay-out plans and powers of the Board
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+6 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(1)
+The Board’s draft plans prepared under section 3(1)(a) for the
+lay-out of any such area may show or make provision for
+—  (Amended 4 of 1991 s. 6)
+(a)
+streets, railways and other main communications;
+(b)
+zones  or  districts  set  apart  for  use  for  residential,
+commercial, industrial or other specified uses;
+(c)
+reserves  for  Government,  institution  or  community
+purposes;
+(d)
+parks, recreation grounds and similar open spaces;
+(e)
+zones or districts set apart for undetermined uses;
+(f)
+comprehensive development areas; (Added 2 of 1988 s. 
+2)
+*(g)
+country parks, coastal protection areas, sites of special
+scientific interest, green belts or other specified uses that
+promote  nature  conservation  or  protection  of  the
+environment; (Added 4 of 1991 s. 6. Amended 25 of 2023 
+s. 44)
+*(h)
+zones  or  districts  set  apart  for  use  for  village  type
+development, agriculture or other specified rural uses;
+(Added 4 of 1991 s. 6)
+*(i)
+zones or districts set apart for use for open storage,
+(Added 4 of 1991 s. 6)
+and any matter whatsoever may be shown or provided for or
+specified in or in respect of the plans by means of such
+diagrams,  illustrations,  notes  or  descriptive  matter  as  the
+Board thinks appropriate; and any such diagrams, illustrations,
+notes  and  descriptive  matter  shall  be  part  of  the  plans.
+(Replaced 59 of 1974 s. 2)
+(2)
+The Board may recommend to the Chief Executive in Council
+the resumption of any land that interferes with the lay-out of
+an  area  shown  on  a  draft  plan,  approved  plan  or  partly
+approved plan, or on a master lay-out plan approved under
+section 4A; and resumption to avoid such interference is taken
+to be resumption for a public purpose within the meaning of
+the Lands Resumption Ordinance (Cap. 124). (Amended 2 of 
+1988 s. 2; 29 of 1998 s. 44; 62 of 2000 s. 3; 25 of 2023 s. 44)
+(3)
+Except in the case of resumption under the said Ordinance no
+compensation shall be paid to the proprietor or any person
+interested in any holding by reason of the fact that it lies
+within or is affected by any zone or district set apart under
+subsection (1)(b).
+____________________
+Editorial Note:
+* Deemed to have come into operation on 27 July 1990—see section 1(2)
+of 4 of 1991.
+4A.
+Comprehensive development areas
+(1)
+Without restricting what the Board may, under sections 3 and
+4, show or make provision for in a plan, the Board may, by a
+note on the plan, in respect of a comprehensive development
+area,  prohibit  the  undertaking  of  any  building  works,  as
+defined in the Buildings Ordinance (Cap. 123), except—
+(a)
+as specified in the note; or
+(b)
+with the permission of the Board, which permission may
+be granted by reference to a plan approved by the Board
+under subsection (2).
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+7 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(2)
+An applicant for the Board’s permission under subsection (1)
+(b) may be required by the Board—
+(a)
+to prepare a master lay-out plan and submit it to the
+Board for approval; and
+(b)
+to  include  information  in  the  master  lay-out  plan
+respecting building dimensions, floor area for each use,
+building development programmes and any other matter
+the Board considers appropriate.
+(3)
+A copy of the approved master lay-out plan, certified by the
+Chairman  of  the  Board,  shall  be  deposited  in  the  Land
+Registry and shall be available for inspection without payment
+of a fee. (Amended 8 of 1993 s. 2)
+(Added 2 of 1988 s. 3)
+5.
+Exhibition of draft plans
+Any draft plan, prepared under sections 3 and 4 under the direction
+of the Board, which the Board deems suitable for publication, must
+be exhibited by the Board for public inspection at reasonable hours
+for a period of 2 months. During such period the Board must
+advertise once a week in 2 daily Chinese language local newspapers
+and 1 daily English language local newspaper and must notify in
+each issue of the Gazette the place and hours at which such plan
+may be inspected (inspection information). The Board must also
+publish,  during  such  period,  the  inspection  information  on  the
+Board’s website. The Board must supply a copy of such plan to any
+person on payment of such fee as the Board may determine.
+(Amended 26 of 1956 s. 2; 59 of 1969 s. 3; 2 of 1988 s. 4; 25 of 
+2004 s. 6; 25 of 2023 s. 45)
+6.
+Representations relating to draft plans
+(1)
+Within the period of 2 months during which a draft plan is
+exhibited  under  section  5,  any  person  may  make
+representation to the Board in respect of the draft plan.
+(2)
+A  representation  referred  to  in  subsection  (1)  must—
+(Amended 25 of 2023 s. 46)
+(a)
+indicate—
+(i)
+the  particular  matter  in  the  plan  to  which  the
+representation relates;
+(ii)
+the nature of and reasons for the representation; and
+(iii)
+the amendments (if any) proposed by the person to
+the plan; and (Amended 25 of 2023 s. 46)
+(b)
+be made in such manner as the Board requires.
+(3)
+Where a representation referred to in subsection (1)—
+(a)
+is made to the Board after the expiration of the period of
+2 months referred to in subsection (1), it shall be treated
+as not having been made; or
+(b)
+does not comply with any of the requirements specified
+in or made under subsection (2), it may be treated as not
+having been made.
+(3A)
+If,  in  the  opinion  of  the  Board,  any  reason  for  the
+representation  is  a  reason  concerning  compensation  or
+assistance relating to, or arising from, any of the following
+matters—
+(a)
+the  resumption,  or  acquisition,  of  any  land  by  the
+Government under an enactment;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+8 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+the clearance, or obtaining vacant possession, of any land
+by the Government,
+the representation, to the extent that it is made for that reason,
+may be treated by the Board as not having been made. (Added
+25 of 2023 s. 46)
+(3B)
+For the purposes of subsection (3A), a reason concerning
+compensation or assistance relating to, or arising from, any of
+the matters mentioned in subsection (3A)(a) and (b) includes
+—
+(a)
+a  reason  relating  to  whether  any  compensation  or
+assistance is to be provided, whether or not under an
+enactment, to a person affected by any of those matters;
+and
+(b)
+a reason relating to the amount, extent or form of the
+compensation or assistance mentioned in paragraph (a)
+or the time for its provision. (Added 25 of 2023 s. 46)
+(4)
+The Board must, as soon as reasonably practicable after a
+representation  is  made  under  subsection  (1),  make  the
+representation available for public inspection at reasonable
+hours, and must continue to do so until the Chief Executive in
+Council has made a decision under section 9 in respect of the
+plan or the subject part of the plan. (Amended 25 of 2023 s. 
+46)
+(5)-(6)
+(Repealed 25 of 2023 s. 46)
+(7)
+In this section—
+compensation  or  assistance  ( = 償或援助)  means  any
+compensation (whether  monetary or non-monetary) or any
+financial or other assistance;
+subject part (標的	
+), in relation to a representation made under
+this section, means the part or parts of the plan to which the
+representation relates. (Added 25 of 2023 s. 46)
+(Replaced 25 of 2004 s. 7)
+6A.
+(Repealed 25 of 2023 s. 47)
+6B.
+Consideration of representations made under section 6, etc.
+(Amended 25 of 2023 s. 48)
+(1)
+If a person makes a representation under section 6(1),  the
+Board must, as soon as reasonably practicable after the period
+of 2 months mentioned in that section expires, hold a meeting
+to consider the representation. (Replaced 25 of 2023 s. 48)
+(2)
+For  the  purposes  of  subsection  (1),  the  Board  must  give
+reasonable notice of the particulars of the meeting (including
+the date, time and place of the meeting) to the person who
+makes the representation (Person A). (Replaced 25 of 2023 s. 
+48)
+(3)
+Person A is entitled to attend and to be heard at the meeting.
+(Replaced 25 of 2023 s. 48)
+(4)
+If Person A is not a natural person, Person A may authorize a
+natural person to attend the meeting on Person A’s behalf.
+(Replaced 25 of 2023 s. 48)
+(4A)
+If—
+(a)
+Person A is a natural person; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+9 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+the Board is satisfied that Person A is unable to attend
+the meeting because of exceptional circumstances,
+Person A may authorize another natural person to attend the
+meeting on Person A’s behalf. (Added 25 of 2023 s. 48)
+(4B)
+If neither Person A nor the person authorized under subsection
+(4) or (4A) by Person A attends the meeting, the Board may—
+(a)
+proceed with the meeting in their absence; or
+(b)
+adjourn the meeting to a further date the Board considers
+appropriate. (Added 25 of 2023 s. 48)
+(5)
+Without prejudice  to  subsection (4B),  where  the  Board  is
+satisfied that there are reasonable grounds to do so, it may
+adjourn any meeting held or to be held under subsection (1) to
+such date as it considers appropriate. (Amended 25 of 2023 s. 
+48)
+(6)
+If there is more than one representation under section 6(1) in
+respect of the plan in question—
+(a)
+the  Board  may  direct  that  all  or  some  of  the
+representations be considered at the same meeting; and
+(b)
+if the Board makes a direction under paragraph (a), the
+Board may consider any of the representations to which
+the  direction  relates  individually  or  collectively.
+(Replaced 25 of 2023 s. 48)
+(7)
+Where—
+(a)
+any meeting is adjourned under subsection (4B) or (5); or
+(Amended 25 of 2023 s. 48)
+(b)
+the Board makes a direction under subsection (6),
+the  provisions  of  this  section  also  apply,  with  necessary
+modifications, to the meeting so adjourned or the meeting held
+in accordance with the direction, as the case may be, save to
+the extent that the Board otherwise directs.
+(8)
+After considering any representation under this section, the
+Board must decide whether or not—
+(a)
+to  propose  amendment  to  the  plan  in  the  manner
+proposed in the representation; or
+(b)
+to propose amendment to the plan in any other manner
+that,  in  the  opinion  of  the  Board,  will  meet  the
+representation. (Replaced 25 of 2023 s. 48)
+(Added 25 of 2004 s. 8)
+6C.
+Proposed amendments under section 6B(8) to be made available
+for public inspection
+(1)
+If the Board proposes any amendment under section 6B(8), the
+Board  must,  as  soon  as  reasonably  practicable  after  the
+amendment  is  proposed,  make  the  proposed  amendment
+available for public inspection at reasonable hours, and must
+continue to do so until the Chief Executive in Council has
+made a decision under section 9 in respect of the plan or the
+subject part of the plan. (Replaced 25 of 2023 s. 49)
+(2)
+For any proposed amendment that is made available for public
+inspection under subsection (1), the Board must—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+10 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(a)
+cause a notice that complies with subsection (3) to be
+published in 2 daily Chinese language local newspapers
+and 1 daily English language local newspaper once a
+week during the first 3 weeks of the period during which
+the  proposed  amendment  is  so  available  for  public
+inspection (first 3 weeks); and
+(b)
+cause a notice that complies with subsection (3) to be
+published  on  the  Board’s  website  during  the  first  3
+weeks. (Replaced 25 of 2023 s. 49)
+(3)
+A  notice  referred  to  in  subsection  (2)(a)  or  (b)  must—
+(Amended 25 of 2023 s. 49)
+(a)
+specify  the  place  and  hours  at  which  the  proposed
+amendment to which the notice relates is available for
+public inspection under subsection (1); and
+(b)
+indicate that any further representation may be made to
+the Board in respect of the proposed amendment under
+section 6D(1) and specify the place and hours at which
+any further representation so made will be available for
+public inspection under section 6D(4). (Amended 25 of 
+2023 s. 49)
+(4)
+In this section—
+subject part (標的	
+), in relation to an amendment proposed
+under section 6B(8), means the part or parts of the plan to
+which the proposed amendment relates. (Added 25 of 2023 s. 
+49)
+(Added 25 of 2004 s. 8)
+6D.
+Further representations in respect of proposed amendments
+(1)
+If the Board proposes any amendment under section 6B(8),
+within  the  first  3  weeks  of  the  period  during  which  the
+proposed amendment is made available for public inspection
+under section 6C(1) (first 3 weeks), any person may make a
+further representation to the Board in respect of the proposed
+amendment. (Replaced 25 of 2023 s. 50)
+(2)
+A further representation referred to in subsection (1) must—
+(Amended 25 of 2023 s. 50)
+(a)
+indicate—
+(i)
+the  proposed  amendment  to  which  the  further
+representation relates;
+(ii)
+whether  the  further  representation  is  made  in
+support  of,  or  in  opposition  to,  the  proposed
+amendment; and
+(iii)
+the  reasons  for  the  further  representation;  and
+(Amended 25 of 2023 s. 50)
+(b)
+be made in such manner as the Board requires.
+(3)
+If the further representation is made to the Board after the first
+3 weeks expires, the further representation is to be treated as
+not having been made. (Replaced 25 of 2023 s. 50)
+(3A)
+If the further representation does not comply with any of the
+requirements specified in or made under subsection (2), the
+further representation may be treated as not having been made.
+(Added 25 of 2023 s. 50)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+11 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(3B)
+If, in the opinion of the Board, any reason for the further
+representation  is  a  reason  concerning  compensation  or
+assistance relating to, or arising from, any of the following
+matters—
+(a)
+the  resumption,  or  acquisition,  of  any  land  by  the
+Government under an enactment;
+(b)
+the clearance, or obtaining vacant possession, of any land
+by the Government,
+the further representation, to the extent that it is made for that
+reason, may be treated by the Board as not having been made.
+(Added 25 of 2023 s. 50)
+(3C)
+For the  purposes  of  subsection  (3B),  a  reason  concerning
+compensation or assistance relating to, or arising from, any of
+the matters mentioned in subsection (3B)(a) and (b) includes
+—
+(a)
+a  reason  relating  to  whether  any  compensation  or
+assistance is to be provided, whether or not under an
+enactment, to a person affected by any of those matters;
+and
+(b)
+a reason relating to the amount, extent or form of the
+compensation or assistance mentioned in paragraph (a)
+or the time for its provision. (Added 25 of 2023 s. 50)
+(4)
+The Board must, as soon as reasonably practicable after a
+further representation is made under subsection (1), make the
+further  representation  available  for  public  inspection  at
+reasonable hours, and must continue to do so until the Chief
+Executive in Council has made a decision under section 9 in
+respect of the plan or the subject part of the plan. (Amended 25 
+of 2023 s. 50)
+(5)
+In this section—
+compensation  or  assistance  ( = 償或援助)  means  any
+compensation (whether  monetary or non-monetary) or any
+financial or other assistance;
+subject part (標的	
+), in relation to a further representation made
+under this section, means the part or parts of the plan to which
+the further representation relates. (Added 25 of 2023 s. 50)
+(Added 25 of 2004 s. 8)
+6E.
+Withdrawal of representations made under section 6
+(1)
+This section applies if—
+(a)
+a person makes—
+(i)
+a representation under section 6(1); or
+(ii)
+a further representation under section 6D(1); and
+(b)
+the representation or further representation (as the case
+requires) has not yet been considered at a meeting under
+section 6B(1) or 6F(1) (as the case requires).
+(2)
+The person may, by written notice to the Board, withdraw the
+representation or further representation (as the case requires).
+(3)
+After a representation or further representation is withdrawn
+under  subsection  (2),  the  representation  or  further
+representation (as the case requires) is to be treated as not
+having been made.
+(Replaced 25 of 2023 s. 51)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+12 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+6F.
+Consideration of further representations in respect of proposed
+amendments
+(1)
+If a person makes a further representation under section 6D(1),
+the Board must, as soon as reasonably practicable after the
+period of 3 weeks referred to in that section expires, hold a
+meeting to consider the further representation. (Replaced 25 of 
+2023 s. 52)
+(2)-(4)
+(Repealed 25 of 2023 s. 52)
+(5)
+Where the Board is satisfied that there are reasonable grounds
+to do so, it may adjourn any meeting held or to be held under
+subsection  (1)  to  such  date  as  it  considers  appropriate.
+(Amended 25 of 2023 s. 52)
+(6)
+If there is more than one further representation under section
+6D(1) in respect of the proposed amendment in question—
+(a)
+the Board may direct that all or some of the further
+representations be considered at the same meeting; and
+(b)
+if the Board makes a direction under paragraph (a), the
+Board may consider any of the further representations to
+which the direction relates individually or collectively.
+(Replaced 25 of 2023 s. 52)
+(7)
+Where—
+(a)
+any meeting is adjourned under subsection (5); or
+(b)
+the Board makes a direction under subsection (6)(a),
+the  provisions  of  this  section  also  apply,  with  necessary
+modifications, to the meeting so adjourned or the meeting held
+in accordance with the direction, as the case may be, save to
+the extent that the Board otherwise directs. (Amended 25 of 
+2023 s. 52)
+(8)
+Subject  to  subsection  (9),  after  considering  any  further
+representation under this section, the Board must decide—
+(a)
+whether or not to amend the plan in question; and
+(b)
+if the  Board  decides  to amend  the  plan  in question,
+whether  to  amend  it  by  the  proposed  amendment  in
+question or by the proposed amendment as varied in the
+manner the Board considers appropriate. (Replaced 25 of 
+2023 s. 52)
+(9)
+If, in respect of any proposed amendment proposed under
+section 6B(8)—
+(a)
+one  or  more  further  representations  are  made  under
+section 6D(1); and
+(b)
+none  of  the  further  representations  indicates  under
+section 6D(2)(a)(ii) that it is made in opposition to the
+proposed amendment,
+the Board must decide to amend the plan in question by the
+proposed amendment. (Replaced 25 of 2023 s. 52)
+(Added 25 of 2004 s. 8)
+6G.
+Where there is no further representation in respect of proposed
+amendment
+If, within the period of 3 weeks referred to in section 6D(1), no
+further  representation  is  made  in  respect  of  the  proposed
+amendment proposed under section 6B(8), the Board must, as soon
+as reasonably practicable after the period expires, amend the plan in
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+13 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+question by the proposed amendment.
+(Replaced 25 of 2023 s. 53)
+6H.
+Effect of amendments made under section 6F or 6G
+(1)
+If the Board amends a plan under section 6F or 6G—
+(a)
+the plan is to be read as including the amendment; and
+(b)
+a  reference  to  the  plan  (however  described)  in  this
+Ordinance or any other enactment is, unless the context
+otherwise requires, to be construed accordingly.
+(2)
+If, because of subsection (1), a plan is read as including an
+amendment, the Board—
+(a)
+must,  as  soon  as  reasonably  practicable  after  the
+amendment is made, make the amendment available for
+public inspection at reasonable hours; and
+(b)
+must continue to do so until the Chief Executive  in
+Council has made a decision under section 9 in respect of
+the plan or the part of the plan to which the amendment
+relates.
+(Replaced 25 of 2023 s. 54)
+7.
+Amendment of draft plans by the Board
+(1)
+Without affecting sections 6, 6B, 6C, 6D, 6E, 6F, 6G and 6H,
+the Board may, at any time—
+(a)
+after the exhibition of a plan under section 5; and
+(b)
+before  approval  is  given  by  the  Chief  Executive  in
+Council under section 9 in respect of the plan or a part of
+the plan,
+make any amendment to the plan or the part (as the case
+requires). (Replaced 25 of 2023 s. 55)
+(2)
+Every  amendment  made  under  subsection  (1)  must  be
+exhibited by the Board for public inspection at reasonable
+hours for a period of 2 months and during such period the
+Board must advertise once a week in 2 daily Chinese language
+local  newspapers  and  1  daily  English  language  local
+newspaper and must notify in each issue of the Gazette the
+information specified in subsection (2A). (Amended 25 of 
+2004 s. 9; 25 of 2023 s. 55)
+(2A)
+The information is—
+(a)
+the amendment; and
+(b)
+the place and hours at which such amendment may be
+inspected. (Added 25 of 2023 s. 55)
+(2B)
+The  Board must also publish the  information specified in
+subsection (2A) on the Board’s website during the 2-month
+period referred to in subsection (2). (Added 25 of 2023 s. 55)
+(3)
+The Board must supply a copy of an amendment made under
+subsection (1) to any person on payment of such fee as the
+Board may determine. (Amended 25 of 2023 s. 55)
+(4)
+If  the  Board  makes  an  amendment  under  subsection  (1),
+sections  6,  6B,  6C,  6D,  6E,  6F,  6G  and  6H  apply,  with
+necessary modifications, to and in relation to the amendment.
+(Replaced 25 of 2023 s. 55)
+(4A)
+Without  affecting  subsection  (4),  if  the  Board  makes  an
+amendment under subsection (1), sections 6, 6B, 6C, 6D, 6E,
+6F, 6G and 6H are to so apply as if—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+14 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(a)
+the reference to “the period of 2 months during which a
+draft plan is exhibited under section 5” in section 6(1)
+were a reference to the period of 2 months during which
+the amendment is exhibited under subsection (2);
+(b)
+the reference to “the draft plan” in section 6(1) were a
+reference to the amendment;
+(c)
+each of the references to “the plan” in section 6(2)(a)
+were a reference to the amendment;
+(d)
+the reference to “the part or parts of the plan to which the
+representation relates” in the definition of subject part in
+section 6(7) were a reference to the part or parts of the
+plan concerning any area covered by the amendment to
+which the representation relates;
+(e)
+the reference to “the plan in question” in section 6B(6)
+were a reference to the amendment;
+(f)
+each of the references to “the plan” in section 6B(8) were
+a reference to the part or parts of the plan concerning any
+area  covered  by  the  amendment  to  which  the
+representation relates;
+(g)
+the references to “the plan in question” in sections 6F(8)
+and (9) and 6G were references to the part or parts of the
+plan  to  which  section  6B(8)  (as  modified  by  this
+subsection) applies;
+(h)
+the reference to “a plan under section 6F or 6G” in
+section 6H(1) were a reference to the part or parts of the
+plan  to  which  section  6B(8)  (as  modified  by  this
+subsection) applies;
+(i)
+the reference to “the plan” in section 6H(1)(a) were a
+reference to the part or parts of the plan to which section
+6B(8) (as modified by this subsection) applies; and
+(j)
+the  reference  to  “a  plan”  in  section  6H(2)  were  a
+reference to the part or parts of the plan to which section
+6B(8) (as modified by this subsection) applies. (Added
+25 of 2023 s. 55)
+(5)
+For the avoidance of doubt, where sections 6, 6B, 6C, 6D, 6E,
+6F, 6G and 6H have application in the manner described in
+subsections  (4)  and  (4A),  any  reference  to  any  of  those
+provisions in this or any other Ordinance is, with necessary
+modifications, to be construed accordingly. (Added 25 of 2004 
+s. 9. Amended 25 of 2023 s. 55)
+(6)
+Subject as otherwise provided in this Ordinance, if the Board
+makes any amendment to a plan under subsection (1)—
+(a)
+the plan is to be read as including the amendment; and
+(b)
+a  reference  to  the  plan  (however  described)  in  this
+Ordinance or any other enactment is, unless the context
+otherwise  requires,  to  be  construed  accordingly.
+(Replaced 25 of 2023 s. 55)
+(Added 59 of 1969 s. 5)
+8.
+Submission  of  considered  draft  plan  to  Chief  Executive  in
+Council
+(1)
+Before the specified period in relation to a draft plan expires,
+the Board must submit the plan to the Chief Executive in
+Council—
+(a)
+for approval in whole; or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+15 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+for approval of the part or parts of the plan specified by
+the Board.
+(2)
+Subsection (1)(b) however does not apply to a plan to which
+this Ordinance applies because of section 25(7) of the Urban
+Renewal Authority Ordinance (Cap. 563).
+(3)
+The Board must submit the plan to the Chief Executive in
+Council under subsection (1) together with—
+(a)
+if the submission is made under subsection (1)(a)—
+(i)
+a schedule containing every representation made
+under section 6(1) in respect of the plan, including
+every  representation  made  under  that  section  in
+respect of any amendment made under section 7 to
+the plan;
+(ii)
+a schedule containing every further representation
+made  under  section  6D(1)  in  respect  of  any
+proposed amendment to the plan; and
+(iii)
+a schedule containing every amendment made by
+the Board under this Ordinance to the plan; and
+(b)
+if the submission is made under subsection (1)(b)—
+(i)
+a schedule containing every representation made
+under section 6(1) in respect of the submitted part,
+including  every  representation  made  under  that
+section in respect of any amendment made under
+section 7 to the submitted part;
+(ii)
+a schedule containing every further representation
+made  under  section  6D(1)  in  respect  of  any
+proposed amendment to the submitted part; and
+(iii)
+a schedule containing every amendment made by
+the Board under this Ordinance to the submitted
+part.
+(4)
+For submission of a plan to the Chief Executive in Council
+under subsection (1)(a), the specified period is, subject to
+subsection (6)—
+(a)
+if there is no amendment under section 7 to the plan—the
+period  of  5  months  after  the  period  of  2  months
+mentioned in section 5 expires; and
+(b)
+if there is any amendment under section 7 to the plan—
+(i)
+where there is only one amendment under section 7
+—the period of 5 months after the period of 2
+months mentioned in section 7(2) expires; and
+(ii)
+where there is more than one amendment under
+section 7—the period of 5 months after the period
+of 2 months mentioned in section 7(2) in relation to
+the last of those amendments expires.
+(5)
+For submission of a plan to the Chief Executive in Council
+under subsection (1)(b), the specified period is, subject to
+subsection (6)—
+(a)
+if there is no amendment under section 7 to the submitted
+part—the period of 5 months after the period of 2 months
+mentioned in section 5 expires; and
+(b)
+if  there  is  any  amendment  under  section  7  to  the
+submitted part—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+16 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(i)
+where there is only one amendment under section 7
+—the period of 5 months after the period of 2
+months mentioned in section 7(2) expires; and
+(ii)
+where there is more than one amendment under
+section 7—the period of 5 months after the period
+of 2 months mentioned in section 7(2) in relation to
+the last of those amendments expires.
+(6)
+If the period of 5 months mentioned in subsection (4)(a) or (b)
+(i) or (ii) or (5)(a) or (b)(i) or (ii) (5-month period) is extended
+under subsection (7) or (8)(a) or (b), the specified period is to
+be the period extended under subsection (7) or (8)(a) or (b) (as
+the case requires) for the submission.
+(7)
+If the Secretary for Development considers it appropriate to do
+so in a particular case, the Secretary may extend the 5-month
+period for 2 months (2-month period).
+(8)
+If, in respect of a particular case, the Secretary is satisfied that
+exceptional circumstances exist, the Secretary may—
+(a)
+extend the 2-month period for 2 months; and
+(b)
+further extend the period extended under paragraph (a)
+for another 2 months.
+(9)
+In this section—
+specified period (8明期間)—see subsections (4), (5) and (6);
+submitted part (CD	
+), in relation to a plan submitted under
+subsection (1)(b)—
+(a)
+if the Board specifies only one part of the plan for the
+Chief  Executive  in  Council’s  approval—means  the
+specified part; and
+(b)
+if the Board specifies more than one part of the plan for
+the Chief Executive in Council’s approval—means all
+those parts of the plan that are specified by the Board.
+(Replaced 25 of 2023 s. 56)
+9.
+Powers of Chief Executive in Council on submission of draft
+plans
+(1)
+On submission of a plan under section 8(1)(a) for approval,
+the Chief Executive in Council may—
+(a)
+approve the plan;
+(b)
+refuse to approve the plan; or
+(c)
+refer  the  plan  to  the  Board  for  consideration  and
+amendment.
+(2)
+On submission of a plan under section 8(1)(b) for approval of
+the submitted part, the Chief Executive in Council may—
+(a)
+approve the submitted part;
+(b)
+refuse to approve the submitted part; or
+(c)
+refer  the  plan  to  the  Board  for  consideration  and
+amendment of the submitted part.
+(3)
+The Chief Executive in Council may approve a plan under
+subsection  (1)(a),  or  the  submitted  part  of  a  plan  under
+subsection (2)(a), even though a requirement of this Ordinance
+that is applicable to the plan, or to the submitted part, has not
+been complied with.
+(4)
+In this section—
+submitted part (CD	
+) has the meaning given by section 8(9).
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+17 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(Replaced 25 of 2023 s. 56)
+9A.
+Amendment of draft plan or submitted part because of section
+9(1)(c) or (2)(c)
+(1)
+This section applies if a plan is referred to the Board under
+section 9(1)(c) or (2)(c).
+(2)
+For a referral under section 9(1)(c), the Board may make
+amendment under section 7 to any part of the plan.
+(3)
+For a referral under section 9(2)(c), the Board may make
+amendment under section 7 to the specified part of the plan.
+(4)
+Subject to subsection (5), section 7 applies, with necessary
+modifications, for the purposes of this section.
+(5)
+Section 7(1) is to  be  construed  as  if the  words  “Without
+affecting sections 6, 6B, 6C, 6D, 6E, 6F, 6G and 6H,” were
+omitted.
+(6)
+If any amendment is made by the Board under section 7 (as
+applied by this section), subject to subsection (7), sections 8
+and 9 apply, with necessary modifications, to the plan or the
+part or parts of the plan for which approval of the Chief
+Executive in Council is sought.
+(7)
+In applying section 8(3), the Board must submit the plan
+together with—
+(a)
+for a submission made under section 8(1)(a)—
+(i)
+a  schedule  containing  every  amendment  made
+under section 7 (as applied by this section) (Section
+7) to the plan;
+(ii)
+a schedule containing every representation made
+under section 6(1) (as applied by Section 7)  in
+respect of the amendment;
+(iii)
+a schedule containing every further representation
+made under section 6D(1) (as applied by Section 7)
+in respect of any proposed amendment to the plan;
+and
+(iv)
+a schedule containing every other amendment made
+by the Board under this Ordinance to the plan; and
+(b)
+for a submission made under section 8(1)(b)—
+(i)
+a  schedule  containing  every  amendment  made
+under Section 7 to the submitted part;
+(ii)
+a schedule containing every representation made
+under section 6(1) (as applied by Section 7)  in
+respect of the amendment;
+(iii)
+a schedule containing every further representation
+made under section 6D(1) (as applied by Section 7)
+in  respect  of  any  proposed  amendment  to  the
+submitted part; and
+(iv)
+a schedule containing every other amendment made
+by the Board under this Ordinance to the submitted
+part.
+(8)
+In this section—
+specified part (8明	
+)—
+(a)
+in relation to a plan referred to the Board under section
+9(2)(c) for consideration and amendment to a particular
+part of the plan—means the particular part; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+18 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+in relation to a plan referred to the Board under section
+9(2)(c) for consideration and amendment to more than
+one part of the plan—means all those parts;
+submitted part (CD	
+) has the meaning given by section 8(9).
+(Added 25 of 2023 s. 57)
+9B.
+Submission for approval of outstanding part of plan etc.
+(1)
+Subsections (2) and (3) apply if a draft plan (subject plan)
+becomes a partly approved plan.
+(2)
+Sections 7, 8, 9 and 9A apply, with necessary modifications, to
+the outstanding part of the subject plan as if the outstanding
+part itself were a draft plan.
+(3)
+Without affecting subsection (2), section 7(1) is to apply as if
+—
+(a)
+the words “Without affecting sections 6, 6B, 6C, 6D, 6E,
+6F, 6G and 6H,” in section 7(1) were omitted;
+(b)
+the reference to “exhibition of a plan” in section 7(1)(a)
+were a reference to the exhibition of the subject plan;
+(c)
+the reference to “the plan or a part of the plan” in section
+7(1)(b) were a reference to the outstanding part, or a part
+of the outstanding part (specified part), of the subject
+plan; and
+(d)
+the reference to “the plan or the part” in section 7(1)
+were a reference to the outstanding part, or the specified
+part, of the subject plan.
+(4)
+If, but for this section, section 9A would have applied in
+relation to an amendment to a plan, section 9A continues to
+apply  to  the  amendment  as  if  this  section  had  not  been
+enacted.
+(Added 25 of 2023 s. 57)
+9C.
+Correction of errors in approved plans and approved parts of
+partly approved plans
+The Chief Executive in Council may, by notification in the Gazette,
+correct any omission for or error in—
+(a)
+an approved plan; or
+(b)
+an approved part of a partly approved plan.
+(Added 25 of 2023 s. 57)
+9D.
+Exhibition of approved plans and partly approved plans and
+provision of copies of plans
+(1)
+This section applies if a plan or a part of a plan is approved
+under section 9.
+(2)
+As soon as reasonably practicable after approval is given to a
+plan or a part of a plan under section 9, the Board—
+(a)
+must cause the plan so approved or the plan with the part
+so  approved  to  be  printed  and  exhibited  for  public
+inspection at a place the Board considers appropriate;
+and
+(b)
+must notify in the Gazette the fact that the approval is
+given and that the plan is so exhibited.
+(3)
+On payment by a person of the fee the Board determines, the
+Board must provide a copy of the approved plan or partly
+approved plan to the person.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+19 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(Added 25 of 2023 s. 57)
+10.
+Refusal to approve plans or part of plans under section 9
+(1)
+This section applies if the Chief Executive in Council refuses
+to approve a plan or a part of a plan under section 9.
+(2)
+The Board must notify the refusal in the Gazette.
+(3)
+The refusal does not prevent the preparation of a new draft
+plan and its submission under this Ordinance.
+(Replaced 25 of 2023 s. 58)
+11.
+Copies  of  approved  plans  and  partly  approved  plans  to  be
+deposited in Land Registry etc.
+(1)
+After a plan or a part of a plan is approved under section 9, the
+Chairman of the Board is to cause a copy of the approved plan
+or partly approved plan, that is certified by the Chairman, to
+be deposited in the Land Registry.
+(2)
+Every copy deposited under subsection (1) is to be made
+available by the Land Registrar for public inspection free of
+charge.
+(3)
+After a copy of the plan is deposited in the Land Registry
+(fact), the Land Registrar must cause a notice, in both the
+English language and the Chinese language, to be displayed in
+a prominent place in the Land Registry informing members of
+the public of the fact.
+(Replaced 25 of 2023 s. 58)
+12.
+Revocation, replacement and amendment of approved plans
+(1)
+The Chief Executive in Council may revoke in whole or in
+part—
+(a)
+an approved plan; or
+(b)
+an approval given under section 9 to a part of a partly
+approved plan. (Replaced 25 of 2023 s. 59)
+(1A)
+The Secretary for Development may—
+(a)
+refer an approved plan to the Board for—
+(i)
+replacement by a new plan; or
+(ii)
+amendment; or
+(b)
+refer a partly approved plan to the Board for amendment
+of an approved part (referred part). (Added 25 of 2023 s. 
+59)
+(2)
+Notification of any revocation or reference under subsection
+(1) or (1A) must be published in the Gazette and noted by the
+Land Registrar on the copy of the plan deposited under section
+11.
+(3)
+Upon any reference under subsection (1A), a new plan in
+replacement  of  the  plan  referred  or  a  plan  showing  any
+amendment to the plan referred or to the referred part, as the
+case  requires,  must  be  prepared,  exhibited,  considered,
+submitted, approved and deposited in accordance with the
+foregoing provisions of this Ordinance in like manner as the
+plan the new plan replaces or the amendment amends, as the
+case requires, and to this intent where the reference is under
+subsection (1A)(a)(ii) or (b)—  (Amended 25 of 2004 s. 11; 25 
+of 2023 s. 59)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+20 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(a)
+subject to paragraph (b), sections 3, 4, 4A, 5, 6, 6B, 6C,
+6D, 6E, 6F, 6G, 6H, 7, 8, 9, 9A, 9B, 9C, 9D, 10 and 11
+(specified  provisions)  are  to  apply,  with  necessary
+modifications, to and in relation to the plan showing the
+amendment as they apply to and in relation to a plan
+otherwise required to be prepared under section 3(1); and
+(b)
+the specified provisions are to so apply as if—
+(i)
+the reference to “the draft plan” in section 6(1)
+were a reference to the amendment;
+(ii)
+each of the references to “the plan” in section 6(2)
+(a) were a reference to the amendment;
+(iii)
+the reference to “the part or parts of the plan to
+which the representation relates” in the definition of
+subject part in section 6(7) were a reference to the
+part  or  parts  of  the  plan  concerning  any  area
+covered  by  the  amendment  to  which  the
+representation relates;
+(iv)
+the reference to “the plan in question” in section
+6B(6) were a reference to the amendment;
+(v)
+each of the references to “the plan” in section 6B(8)
+were a reference to the part or parts of the plan
+concerning any area covered by the amendment to
+which the representation relates;
+(vi)
+the references to “the plan in question” in sections
+6F(8) and (9) and 6G were references to the part or
+parts  of  the  plan  to  which  section  6B(8)  (as
+modified by this subsection) applies;
+(vii)
+the reference to “a plan under section 6F or 6G” in
+section 6H(1) were a reference to the part or parts
+of the plan to which section 6B(8) (as modified by
+this subsection) applies;
+(viii)
+the reference to “the plan” in section 6H(1)(a) were
+a reference to the part or parts of the plan to which
+section  6B(8)  (as  modified  by  this  subsection)
+applies; and
+(ix)
+the reference to “a plan” in section 6H(2) were a
+reference to the part or parts of the plan to which
+section  6B(8)  (as  modified  by  this  subsection)
+applies. (Replaced 25 of 2023 s. 59)
+(3A)
+For the avoidance of doubt, where the specified provisions
+have application in the manner described in subsection (3),
+any reference to any of those provisions in this or any other
+Ordinance is, with necessary modifications, to be construed
+accordingly. (Added 25 of 2004 s. 11)
+(3B)
+If a plan has been referred to the Board under subsection (1A)
+(referred  plan)  for  amendment,  and  consequent  on  the
+referral, a part of the plan prepared under subsection (3) (first
+subsection (3) plan) because of the referral is refused under
+section 9 (as applied by this section), the part of the referred
+plan that is covered by the part so refused forms part of the
+first subsection (3) plan and is taken to be an approved part of
+the first subsection (3) plan (specified approved part). (Added
+25 of 2023 s. 59)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+21 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(3C)
+A  plan  showing  amendment  to  a  specified  approved  part
+(subsequent plan) must be prepared under subsection (3) (as
+modified  by  subsection  (3D)).  (Added  25  of  2023  s.  59.
+Amended E.R. 4 of 2023)
+(3D)
+For the purposes of subsection (3C)—
+(a)
+a reference to “a plan showing any amendment to the
+plan referred or to the referred part, as the case requires,”
+in subsection (3) includes a subsequent plan; and
+(b)
+the provisions of subsections (3) and (3A) are to be
+construed accordingly. (Added 25 of 2023 s. 59)
+(3E)
+For the purposes of subsection (3C), if a part of a subsequent
+plan is refused under section 9 (as applied by this section), the
+part of the first subsection (3) plan that is covered by the part
+so refused forms part of the subsequent plan and is taken to be
+an approved part of the subsequent plan. (Added 25 of 2023 s. 
+59)
+(3F)
+To avoid doubt, a plan any part of which is taken to be an
+approved part under subsection (3B) or (3E) is not required to
+be referred to the Board under subsection (1A) for amendment
+of that part. (Added 25 of 2023 s. 59)
+(3G)
+If—
+(a)
+an approved plan (original plan) or an approved part of a
+partly approved plan (original part of the original plan)
+is  referred  to  the  Board  under  this  section  for
+amendment; and
+(b)
+a part of the plan prepared under subsection (3) because
+of the referral is approved under section 9 (as applied by
+this section) (latest approved part),
+the original plan or the original part of the original plan, as the
+case requires, is to be read with the latest approved part.
+(Added 25 of 2023 s. 59)
+(3H)
+If, in relation to a first subsection (3) plan, a subsequent plan is
+prepared under subsection (3) and a part of the subsequent
+plan is approved under section 9 (as applied by this section)
+(subsequent approved part), the original plan or the original
+part of the original plan (as the case requires) is to be read
+with the subsequent approved part. (Added 25 of 2023 s. 59)
+(4)
+A plan referred to the Board is to be replaced by the new plan
+or the plan showing the amendment as approved under section
+9, as the case requires. The Land Registrar must endorse
+accordingly the copy of the plan deposited under section 11
+which has been replaced or amended.
+(5)
+Any draft plan showing the amendment as prepared under
+sections 3 and 4 is taken to be a draft plan for the purposes of
+section 16(1)(d) of the Buildings Ordinance (Cap. 123).
+(Replaced 3 of 1958 s. 2. Amended 8 of 1993 s. 3; 25 of 2004 s. 11;
+25 of 2023 s. 59)
+12A.
+Amendment of plans on application to the Board
+(1)
+Subject to subsection (2), an eligible person may apply to the
+Board for consideration of any proposal in relation to—
+(a)
+any part of an approved plan that is an original approved
+plan; or
+(b)
+any approved part of a partly approved plan that is an
+original approved plan. (Replaced 25 of 2023 s. 60)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+22 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(2)
+Where  at  the  time  when  an  application  is  made  under
+subsection (1)—
+(a)
+the  original  approved  plan  to  which  the  application
+relates is a referred approved plan; and
+(b)
+there is a relevant draft plan in relation to the original
+approved plan,
+no proposal under the application shall relate to any matter
+relevant to any area covered by any amendment introduced to
+the original approved plan by the relevant draft plan.
+(3)
+An application made under subsection (1) shall—
+(a)
+set out—
+(i)
+whether the applicant considers he has within a
+reasonable period before the application is made—
+(A)
+obtained the consent in writing of each person
+(other than  himself) who  is a current  land
+owner in respect of the application, or notified
+such person in writing of the application; or
+(B)
+taken  such  reasonable  steps  as  the  Board
+requires in order to obtain the consent of such
+person in respect of the application, or to give
+notification to such person in respect of the
+application; and
+(ii)
+particulars of such consent or notification or such
+steps, as the case may be;
+(b)
+subject to paragraph (a), be in such form and include
+such particulars as the Board requires; and
+(c)
+be accompanied by the prescribed fee (if any).
+(4)
+Where an application is made under subsection (1), the Board
+may require the applicant to verify any matter or particulars
+set out or included in the application, whether by statutory
+declaration or otherwise.
+(5)
+Notwithstanding subsection (16), the Board may refuse to
+consider an application made under subsection (1) where—
+(a)
+the  application  does  not  comply  with  any  of  the
+requirements specified in or made under subsection (3);
+or
+(b)
+the Board is not satisfied that the applicant has within a
+reasonable period before the application is made—
+(i)
+obtained  the  consent  in  writing  of  each  person
+(other than the applicant) who is a current land
+owner in respect of the application, or notified such
+person in writing of the application; or
+(ii)
+taken such reasonable steps as the Board requires in
+order to obtain the consent of such person in respect
+of the application, or to give notification to such
+person in respect of the application.
+(6)-(12)
+(Repealed 25 of 2023 s. 60)
+(13)
+Where—
+(a)
+at  any  time  during  the  specified  period,  any  further
+information is given to the Board by the applicant to
+supplement the information included in the application;
+and (Amended 25 of 2023 s. 60)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+23 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+inclusion of the further information in the application
+does not, in the opinion of the Board, result in a material
+change of the nature of the application,
+the Board may accept the further information for the purposes
+of the application.
+(13A)
+The Board must not accept any further information given by
+the applicant to the Board for the purposes of the application if
+the further information is given at a time not falling within a
+specified period. (Added 25 of 2023 s. 60)
+(14)
+Where  the  Board  accepts  any  further  information  for  the
+purposes of an application under subsection (13)—
+(a)
+subject to paragraph (c), the further information is to be
+regarded as having been included in the application; and
+(Amended 25 of 2023 s. 60)
+(b)
+(Repealed 25 of 2023 s. 60)
+(c)
+subject to any exemption under subsection (15)—
+(i)
+(Repealed 25 of 2023 s. 60)
+(ii)
+for the purposes of subsection (16), the application
+is  to  be  regarded  as  received  when  the  further
+information is received. (Amended 25 of 2023 s. 60)
+(15)
+Where the Board is satisfied that there are reasonable grounds
+to do so, it may exempt any further information accepted by it
+for the purposes of an application under subsection (13) from
+subsection (14)(c).
+(16)
+The  Board  must  within  2  months  after  the  receipt  of  an
+application  made  under  subsection  (1)  hold  a  meeting  to
+consider the application. (Amended 25 of 2023 s. 60)
+(17)
+The Board shall, in respect of any meeting to be held to
+consider an application under subsection (16), give reasonable
+notice of particulars of the meeting (including the date, time
+and place of the meeting) to the applicant.
+(18)
+At a meeting held to consider an application under subsection
+(16), the applicant is entitled to attend and to be heard, either
+in person or by an authorized representative.
+(19)
+If,  at  a  meeting  held  to  consider  an  application  under
+subsection (16), the applicant fails to attend, either in person
+or by an authorized representative, the Board may—
+(a)
+proceed with the meeting in his absence; or
+(b)
+adjourn  the  meeting  to  such  date  as  it  considers
+appropriate.
+(20)
+Without  prejudice  to  subsection  (19),  where  the  Board  is
+satisfied that there are reasonable grounds to do so, it may
+adjourn any meeting held or to be held under subsection (16)
+to such date as it considers appropriate.
+(21)
+Where any meeting is adjourned under subsection (19) or (20),
+the  provisions  of  this  section  also  apply,  with  necessary
+modifications, to the meeting so adjourned, save to the extent
+that the Board otherwise directs.
+(22)
+(Repealed 25 of 2023 s. 60)
+(23)
+Upon  consideration  of  an  application  at  a  meeting  under
+subsection (16), the Board may—
+(a)
+accept, in whole or in part, the application; or
+(b)
+refuse the application.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+24 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(24)
+Where the Board accepts, in whole or in part, an application
+under subsection (23)(a), the Board must— (Amended 25 of 
+2023 s. 60)
+(a)
+subject to paragraphs (b) and (c), request the Secretary
+for Development to refer the original approved plan to
+the Board for amendment under section 12(1A)(a)(ii) or
+(b);
+(b)
+where,  at  the  time  when  the  Board  so  accepts  the
+application, the original approved plan has been referred
+to the Board for amendment under the old section 12(1)
+(b)(ii) or section 12(1A)(a)(ii) or (b) but there is no
+relevant draft plan in relation to the original approved
+plan— (Amended 25 of 2023 s. 60)
+(i)
+prepare the draft plan showing the amendment to
+the original approved plan under sections 3 and 4
+with reference to the application as so accepted;
+(ii)
+make the amendment to the relevant draft plan,
+when it is available, under section 7 with reference
+to the application as so accepted; or
+(iii)
+request the Secretary to refer the relevant approved
+plan,  when  it  is  available,  to  the  Board  for
+amendment under section 12(1A)(a)(ii) or (b); or
+(c)
+where,  at  the  time  when  the  Board  so  accepts  the
+application, the original approved plan has been referred
+to the Board for amendment under the old section 12(1)
+(b)(ii)  or  section  12(1A)(a)(ii)  or  (b)  and  there  is  a
+relevant draft plan in relation to the original approved
+plan— (Amended 25 of 2023 s. 60)
+(i)
+make  the  amendment  to  the  relevant  draft  plan
+under section 7 with reference to the application as
+so accepted; or
+(ii)
+request the Secretary to refer the relevant approved
+plan,  when  it  is  available,  to  the  Board  for
+amendment  under  section  12(1A)(a)(ii)  or  (b).
+(Amended 25 of 2023 s. 60)
+(24A)
+The Board may, by notice published in the Gazette, specify
+one or more than one period during which an applicant may
+give  further  information  to  the  Board  to  supplement  the
+information included in the application. (Added 25 of 2023 s. 
+60)
+(24B)
+A notice published under subsection (24A) is not subsidiary
+legislation. (Added 25 of 2023 s. 60)
+(25)
+In this section—
+current land owner (現⾏⼟"有人), in relation to an application
+made under subsection (1), means any person whose name is
+registered in the Land Registry as that of an owner of the land
+to which the application relates, as at the commencement of
+such period before the application is made as is specified by
+the Board by notice published in the Gazette;
+eligible person (合G格人⼠), in relation to an application made
+under subsection (1) for consideration of any proposal relating
+to any part of an original approved plan (specified part),
+means—
+(a)
+a person whose name is registered in the Land Registry
+as that of an owner of any non-Government land covered
+by the specified part;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+25 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+a person who has obtained written consent from a person
+mentioned in paragraph (a);
+(c)
+a  person  who  has  obtained  written  consent  of  the
+Director of Lands in relation to any Government land
+covered by the specified part;
+(d)
+a public officer; or
+(e)
+a public body as defined by section 2 of the Prevention
+of Bribery Ordinance (Cap. 201); (Added 25 of 2023 s. 
+60)
+Government land (政K⼟) means—
+(a)
+any unleased land as defined by section 2 of the Land
+(Miscellaneous Provisions) Ordinance (Cap. 28); or
+(b)
+any land that is the subject of a short term tenancy (as
+defined by section 3(1) of the New Territories Leases
+(Extension) Ordinance  (Cap.  150))  granted  by  or  on
+behalf of the Government; (Added 25 of 2023 s. 60)
+non-Government land (L政K⼟) means any land other than
+Government land; (Added 25 of 2023 s. 60)
+old section 12(1)(b)(ii) (M有N12(1)(b)(ii)O) means section 12(1)
+(b)(ii) as in force before 1 September 2023; (Added 25 of 2023 
+s. 60)
+original approved plan (M圖) means a plan which at the time
+when the application in question is made is—
+(a)
+an approved plan or partly approved plan; or (Replaced
+25 of 2023 s. 60)
+(b)
+a referred approved plan;
+referred approved plan (PQ圖) means any plan referred to
+the Board for amendment under the old section 12(1)(b)(ii) or
+section 12(1A)(a)(ii) or (b), except where a draft plan has
+further to the reference been approved (whether in whole or in
+part) under section 9; (Amended 25 of 2023 s. 60)
+relevant approved plan (有*圖), in relation to an original
+approved plan within the description of subsection (24)(b) or
+(c), means the plan which has further to the reference of the
+original approved plan to the Board for amendment under the
+old section 12(1)(b)(ii) or section 12(1A)(a)(ii) or (b) been
+approved (whether in whole or in part) by the Chief Executive
+in Council under section 9; (Amended 25 of 2023 s. 60)
+relevant draft plan (有*R圖), in relation to an original approved
+plan within the description of subsection (2)(a) or (24)(b) or
+(c), means the draft plan which has further to the reference of
+the original approved plan to the Board for amendment under
+the old section 12(1)(b)(ii) or section 12(1A)(a)(ii) or (b) been
+exhibited under section 5; (Amended 25 of 2023 s. 60)
+specified period (8明期間), in relation to an application made
+under subsection (1), means a period specified by the Board
+under subsection (24A) in respect of the application. (Added
+25 of 2023 s. 60)
+(Added 25 of 2004 s. 12)
+13.
+Approved plans and approved parts of partly approved plans to
+serve as standards
+(Amended 25 of 2023 s. 61)
+Approved plans and approved parts of partly approved plans must
+be used by all public officers and bodies as standards for guidance
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+26 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+in the exercise of any powers vested in them.
+(Amended 3 of 1958 s. 3; 25 of 2023 s. 61)
+13A.
+Works  etc.  authorized  under  Roads  (Works,  Use  and
+Compensation)  Ordinance  and  scheme  authorized  under
+Railways Ordinance
+Any works or use authorized under the Roads (Works, Use and
+Compensation) Ordinance (Cap. 370) or any scheme authorized
+under the Railways Ordinance (Cap. 519) shall be deemed to be
+approved under this Ordinance, whether or not those works or that
+use or that scheme form part of a plan approved by the Chief
+Executive in Council under section 9.
+(Added 37 of 1982 s. 39. Amended 59 of 1997 s. 47; 62 of 2000 s. 3)
+14.
+Power to make regulations
+(1)
+The  Chief  Executive  in  Council  may  make  regulations
+—  (Amended 62 of 2000 s. 3; 25 of 2004 s. 13)
+(a)
+providing for the procedures and matters relating to the
+taking possession of, removal, detention and disposal of
+property by the Authority under section 23(7A),  and
+matters relating to the issue and registration of notices
+associated with the taking possession, removal, detention
+or disposal of such property; (Amended 25 of 2004 s. 13)
+(b)
+to facilitate the work of the Board; and
+(c)
+for the better carrying into effect of the provisions and
+purposes of this Ordinance.
+(2)
+The Secretary for Development may by regulation prescribe
+fees  for  the  purposes  of  sections  12A(3)(c),  16(2)(c)  and
+16A(3)(b). (Added 25 of 2004 s. 13. Amended L.N. 130 of
+2007)
+(3)
+Any fees prescribed under subsection (2) for the purposes of
+section 12A(3)(c), 16(2)(c) or 16A(3)(b)—
+(a)
+may be fixed at levels sufficient to effect the recovery of
+expenditure incurred, or likely to be incurred, whether by
+the Board or by the Government, in relation generally to
+the  processing  of  applications  made  under  section
+12A(1), 16(1) or 16A(2), as the case may be; and
+(b)
+shall  not  be  limited  by  reference  to  the  amount  of
+administrative or other costs incurred, or likely to be
+incurred, in relation to the processing of any particular
+application to which such fees relate. (Added 25 of 2004 
+s. 13)
+(4)
+Any regulation made under subsection (2) may—
+(a)
+provide that the amount of any fees may be fixed by
+reference to a scale prescribed in the regulation; and
+(b)
+provide for the payment of different fees by or in relation
+to  persons  or  cases  of  different  classes  or
+descriptions. (Added 25 of 2004 s. 13)
+(5)
+The Secretary for Financial Services and the Treasury, and any
+public officer authorized by the Secretary in that behalf, may
+in any particular case waive or reduce any fees prescribed
+under subsection (2) as the Secretary or the public officer, as
+the case may be, thinks fit. (Added 25 of 2004 s. 13)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+27 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(6)
+No fees prescribed under subsection (2) shall be payable by
+any Government department which does not operate under a
+trading  fund  within  the  meaning  of  the  Trading  Funds
+Ordinance (Cap. 430), and for the purposes of subsection (3)
+(a), any expenditure incurred, or likely to be incurred, whether
+by  the  Board  or  by  the  Government,  in  relation  to  the
+processing of any application made by any such Government
+department under section 12A(1), 16(1) or 16A(2), as the case
+may be, shall be disregarded. (Added 25 of 2004 s. 13)
+(Replaced 22 of 1994 s. 3)
+15.
+Expenses of the Board
+Any expense incurred with the sanction of the Chief Executive by
+the Board in connection with the exercise of its powers or the
+performance of its duties under this Ordinance shall be met from
+moneys voted by the Legislative Council.
+(Amended 62 of 2000 s. 3; 25 of 2004 s. 14)
+16.
+Applications for permission in respect of plans
+(1)
+Where a draft plan, partly approved plan or approved plan,
+whether  prepared  or  approved  before  or  after  the
+commencement*  of  the  Town  Planning  (Amendment  and
+Validation) Ordinance 1974 (59 of 1974), provides for the
+grant of permission for any purpose, an application for the
+grant  of  such  permission  must  be  made  to  the  Board.
+(Amended 25 of 2023 s. 62)
+(2)
+Any such application shall be addressed in writing to the
+secretary to the Board and shall—  (Amended 25 of 2004 s. 15)
+(a)
+set out—
+(i)
+whether the applicant considers he has within a
+reasonable period before the application is made—
+(A)
+obtained the consent in writing of each person
+(other than  himself) who  is a current  land
+owner in respect of the application, or notified
+such person in writing of the application; or
+(B)
+taken  such  reasonable  steps  as  the  Board
+requires in order to obtain the consent of such
+person in respect of the application, or to give
+notification to such person in respect of the
+application; and
+(ii)
+particulars of such consent or notification or such
+steps, as the case may be;
+(b)
+subject to paragraph (a), be in such form and include
+such particulars as the Board requires; and
+(c)
+be accompanied by the prescribed fee (if any). (Amended
+25 of 2004 s. 15)
+(2A)
+Where an application is made under subsection (1), the Board
+may require the applicant to verify any matter or particulars
+set out or included in the application, whether by statutory
+declaration or otherwise. (Added 25 of 2004 s. 15)
+(2B)
+Notwithstanding  subsection  (3),  the  Board  may  refuse  to
+consider an application made under subsection (1) where—
+(a)
+the  application  does  not  comply  with  any  of  the
+requirements specified in or made under subsection (2);
+or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+28 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+the Board is not satisfied that the applicant has within a
+reasonable period before the application is made—
+(i)
+obtained  the  consent  in  writing  of  each  person
+(other than the applicant) who is a current land
+owner in respect of the application, or notified such
+person in writing of the application; or
+(ii)
+taken such reasonable steps as the Board requires in
+order to obtain the consent of such person in respect
+of the application, or to give notification to such
+person in respect of the application. (Added 25 of 
+2004 s. 15)
+(2C)
+The Board shall, as soon as reasonably practicable after any
+application  is  made  to  it  under  subsection  (1),  make  the
+application available for public inspection at reasonable hours,
+and shall continue to do so until the application has been
+considered at a meeting under subsection (3). (Added 25 of 
+2004 s. 15)
+(2D)
+In respect of any application referred to in subsection (2C), the
+Board—
+(a)
+must cause a notice that complies with subsection (2E) to
+be posted in a prominent position on or near the land to
+which the  application relates,  or  on any  premises or
+structure on the land, at the beginning of the period
+during  which  the  application  is  available  for  public
+inspection under subsection (2C); or (Added 25 of 2004 
+s. 15. Amended 25 of 2023 s. 62)
+(b)
+must—
+(i)
+cause a notice that complies with subsection (2E) to
+be  published  in  2  daily  Chinese  language  local
+newspapers  and  1  daily  English  language  local
+newspaper once a week during the first 3 weeks of
+the  period  referred  to  in  paragraph  (a)  (first  3
+weeks); and
+(ii)
+cause a notice that complies with subsection (2E) to
+be published on the Board’s website during the first
+3 weeks. (Replaced 25 of 2023 s. 62)
+(2E)
+A notice referred to in subsection (2D)(a) or (b)(i) or (ii) must
+— (Amended 25 of 2023 s. 62)
+(a)
+specify the place and hours at which the application to
+which the notice relates is available for public inspection
+under subsection (2C); and
+(b)
+indicate that comments may be made to the Board in
+respect  of  the  application  under  subsection  (2F)  and
+specify the place and hours at which any comments so
+made  will  be  available  for  public  inspection  under
+subsection (2I). (Added 25 of 2004 s. 15)
+(2F)
+Within the  first  3  weeks  of  the  period  during  which  any
+application is available for public inspection under subsection
+(2C), any person may make comment to the Board in respect
+of the application. (Added 25 of 2004 s. 15)
+(2G)
+Any comment referred to in subsection (2F) shall be made in
+such manner as the Board requires. (Added 25 of 2004 s. 15)
+(2H)
+Where any comment referred to in subsection (2F)—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+29 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(a)
+is made to the Board after the expiration of the period of
+3 weeks referred to in subsection (2F), it shall be treated
+as not having been made; or
+(b)
+does not comply with any of the requirements made
+under subsection (2G), it may be treated as not having
+been made. (Added 25 of 2004 s. 15)
+(2I)
+The Board shall, as soon as reasonably practicable after the
+expiration of the period of 3 weeks referred to in subsection
+(2F), make all comments made to it under that subsection
+available for public inspection at reasonable hours, and shall
+continue to do so until the application in question has been
+considered at a meeting under subsection (3). (Added 25 of 
+2004 s. 15)
+(2J)
+Where—
+(a)
+at  any  time  during  the  specified  period,  any  further
+information is given to the Board by the applicant to
+supplement the information included in the application;
+and (Amended 25 of 2023 s. 62)
+(b)
+inclusion of the further information in the application
+does not, in the opinion of the Board, result in a material
+change of the nature of the application,
+the Board may accept the further information for the purposes
+of the application. (Added 25 of 2004 s. 15)
+(2JA)
+The Board must not accept any further information given by
+the applicant to the Board for the purposes of the application if
+the further information is given at a time not falling within a
+specified period. (Added 25 of 2023 s. 62)
+(2K)
+Where  the  Board  accepts  any  further  information  for  the
+purposes of an application under subsection (2J)—
+(a)
+subject to paragraphs (b) and (c), the further information
+shall  be  regarded  as  having  been  included  in  the
+application;
+(b)
+subsection  (2C)  shall  further  apply,  with  necessary
+modifications,  to  and  in  relation  to  the  further
+information  as  it  applies  to  and  in  relation  to  the
+application; and
+(c)
+subject to any exemption under subsection (2L)—
+(i)
+subsections (2D), (2E), (2F), (2G), (2H) and (2I)
+shall further apply, with necessary modifications, to
+and in relation to the further information as they
+apply to and in relation to the application; and
+(ii)
+for the purposes of subsection (3), the application
+shall  be  regarded  as  received  when  the  further
+information is received. (Added 25 of 2004 s. 15)
+(2L)
+Where the Board is satisfied that there are reasonable grounds
+to do so, it may exempt any further information accepted by it
+for the purposes of an application under subsection (2J) from
+subsection (2K)(c). (Added 25 of 2004 s. 15)
+(3)
+The  Board  shall  within  2  months  of  the  receipt  of  the
+application, consider the same at a meeting and, subject to
+subsection (4), may grant or refuse to grant the permission
+applied for. (Amended 25 of 2004 s. 15)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+30 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(3A)
+In considering an application at a meeting under subsection
+(3), the Board shall also take into account any comment made
+in respect of the application under subsection (2F). (Added 25 
+of 2004 s. 15)
+(4)
+The Board may grant permission under subsection (3) only to
+the extent shown or provided for or specified in the plan.
+(5)
+Any permission granted under subsection (3) may be subject
+to such conditions as the Board thinks fit.
+(6)
+The secretary to the Board shall notify the applicant in writing
+of the Board’s decision on an application under this section,
+and where the Board refused to grant permission shall also
+notify the applicant of his right to a review under section 17.
+(7)
+For the purposes of section 16(1)(d) and (da) of the Buildings
+Ordinance (Cap. 123), anything permitted under a permission
+granted by the Board under this section is not a contravention
+of— (Amended 2 of 1988 s. 6; 25 of 2004 s. 15; 25 of 2023 s. 
+62)
+(a)
+any approved plan or partly approved plan under this
+Ordinance; or
+(b)
+any draft plan prepared under this Ordinance. (Amended
+25 of 2023 s. 62)
+(7A)
+The Board may, by notice published in the Gazette, specify
+one or more than one period during which an applicant may
+give  further  information  to  the  Board  to  supplement  the
+information included in the application. (Added 25 of 2023 s. 
+62)
+(7B)
+A notice published under subsection (7A) is not subsidiary
+legislation. (Added 25 of 2023 s. 62)
+(8)
+In this section, current land owner (現⾏⼟"有人), in
+relation to an application made under subsection (1), means
+any person whose name is registered in the Land Registry as
+that of an owner of the land to which the application relates, as
+at the commencement of such period before the application is
+made as is specified by the Board by notice published in the
+Gazette. (Added 25 of 2004 s. 15)
+(9)
+In this section—
+specified period (8明期間), in relation to an application made
+under subsection (1), means a period specified by the Board
+under subsection (7A) in respect of the application. (Added 25 
+of 2023 s. 62)
+(Added 59 of 1974 s. 3)
+____________________
+Editorial Note:
+* Commencement date: 15 August 1974.
+16A.
+Amendments to permissions in respect of plans
+(1)
+Where  any  permission  is  granted  under  section  16,  the
+permission may, apart from being read as it is, be read as
+having effect subject to any amendments which are Class A
+amendments.
+(2)
+Where any permission is granted under section 16, the person
+to whom the permission is granted may apply to the Board for
+acceptance  of  any  amendments  which  are  Class  B
+amendments in relation to the permission for the purposes of
+this section.
+(3)
+An application made under subsection (2) shall—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+31 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(a)
+be in such form and include such particulars as the Board
+requires; and
+(b)
+be accompanied by the prescribed fee (if any).
+(4)
+Notwithstanding  subsection  (5),  the  Board  may  refuse  to
+consider an application made under subsection (2) where the
+application does not comply with any of the requirements
+specified in or made under subsection (3).
+(5)
+The  Board  shall  within  2  months  after  the  receipt  of  an
+application made under subsection (2) consider the application
+and may accept or refuse the application.
+(6)
+An application may be accepted under subsection (5) subject
+to such conditions as the Board requires.
+(7)
+Where  the  Board  has  under  subsection  (5)  accepted  any
+application  or  applications  in  respect  of  any  permission
+granted under section 16,  the  permission  may,  apart  from
+being read as it is, be read as having effect subject to the
+amendments which are the subject of—
+(a)
+where only one such application has been accepted, the
+application; or
+(b)
+where two or more such applications have been accepted,
+any one of the applications.
+(8)
+The Board shall notify the applicant in writing of its decision
+under subsection (5), and where it refused the application shall
+also notify the applicant of his right to a review under section
+17.
+(9)
+Notwithstanding anything in this section, in construing any
+reference in this section to a permission granted under section
+16  (however  described),  any  amendments  taking  effect  in
+relation  to  the  permission  under  this  section  shall  be
+disregarded.
+(10)
+The Board may by notice published in the Gazette—
+(a)
+specify any class or description of relevant amendments
+for  the  purposes  of  the  definition  of  Class  A
+amendments in subsection (12); and
+(b)
+specify any class or description of relevant amendments
+for  the  purposes  of  the  definition  of  Class  B
+amendments in subsection (12).
+(11)
+A notice published under subsection (10) is not subsidiary
+legislation.
+(12)
+In this section—
+Class A amendments (A類修1) means relevant amendments of a
+class or description specified by the Board under subsection
+(10)(a);
+Class B amendments (B類修1) means relevant amendments of a
+class or description specified by the Board under subsection
+(10)(b);
+relevant  amendments  ( 有* 修1 )  means  amendments  to  any
+permission granted under section 16.
+(Added 25 of 2004 s. 16)
+17.
+Right of review
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+32 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(1)
+Subject to subsection (1A), if an applicant is aggrieved by a
+decision of the Board under section 16 or 16A, the applicant
+may, within 21 days of being notified of the decision of the
+Board, apply to the secretary to the Board for a review of the
+Board’s decision. (Amended 101 of 1991 s. 3; 25 of 2004 s. 
+17; 25 of 2023 s. 63)
+(1A)
+The application—
+(a)
+must be in writing; and
+(b)
+must set out the grounds for the review. (Added 25 of 
+2023 s. 63)
+(1B)
+The Board must refuse an application if the application does
+not set out any grounds for the review. (Added 25 of 2023 s. 
+63)
+(2)
+On receipt of an application under subsection (1), the secretary
+to the Board shall fix a time and place for the review, which
+shall be a day not more than 3 months of the receipt of the
+application,  and  shall  give  14  days’  notice  thereof  to  the
+applicant.
+(2A)
+The Board shall, as soon as reasonably practicable after any
+application is made to it under subsection (1) for a review of
+its decision under section 16, make the application available
+for public inspection at reasonable hours, and shall continue to
+do so until the decision in question has been reviewed under
+this section. (Added 25 of 2004 s. 17)
+(2B)
+In respect of any application referred to in subsection (2A), the
+Board—
+(a)
+must cause a notice that complies with subsection (2C) to
+be posted in a prominent position on or near the land to
+which the  application relates,  or  on any  premises or
+structure on the land, at the beginning of the period
+during  which  the  application  is  available  for  public
+inspection under subsection (2A); or (Added 25 of 2004 
+s. 17. Amended 25 of 2023 s. 63)
+(b)
+must—
+(i)
+cause a notice that complies with subsection (2C) to
+be  published  in  2  daily  Chinese  language  local
+newspapers  and  1  daily  English  language  local
+newspaper once a week during the first 3 weeks of
+the  period  referred  to  in  paragraph  (a)  (first  3
+weeks); and
+(ii)
+cause a notice that complies with subsection (2C) to
+be published on the Board’s website during the first
+3 weeks. (Replaced 25 of 2023 s. 63)
+(2C)
+A notice referred to in subsection (2B)(a) or (b)(i) or (ii) must
+— (Amended 25 of 2023 s. 63)
+(a)
+specify the place and hours at which the application to
+which the notice relates is available for public inspection
+under subsection (2A); and
+(b)
+indicate that comments may be made to the Board in
+respect  of  the  application  under  subsection  (2D)  and
+specify the place and hours at which any comments so
+made  will  be  available  for  public  inspection  under
+subsection (2G). (Added 25 of 2004 s. 17)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+33 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(2D)
+Within  the  first  3  weeks  of  the  period  during  which  any
+application is available for public inspection under subsection
+(2A), any person may make comment to the Board in respect
+of the application. (Added 25 of 2004 s. 17)
+(2E)
+Any comment referred to in subsection (2D) shall be made in
+such manner as the Board requires. (Added 25 of 2004 s. 17)
+(2F)
+Where any comment referred to in subsection (2D)—
+(a)
+is made to the Board after the expiration of the period of
+3 weeks referred to in subsection (2D), it shall be treated
+as not having been made; or
+(b)
+does not comply with any of the requirements made
+under subsection (2E), it may be treated as not having
+been made. (Added 25 of 2004 s. 17)
+(2G)
+The Board shall, as soon as reasonably practicable after the
+expiration of the period of 3 weeks referred to in subsection
+(2D), make all comments made to it under that subsection
+available for public inspection at reasonable hours, and shall
+continue to do so until the decision in question has been
+reviewed under this section. (Added 25 of 2004 s. 17)
+(2H)
+Where—
+(a)
+at  any  time  during  the  specified  period,  any  further
+information is given to the Board by the applicant to
+supplement the information included in the application;
+and (Amended 25 of 2023 s. 63)
+(b)
+inclusion of the further information in the application
+does not, in the opinion of the Board, result in a material
+change of the nature of the application,
+the Board may accept the further information for the purposes
+of the application. (Added 25 of 2004 s. 17)
+(2HA)
+The Board must not accept any further information given by
+the applicant to the Board for the purposes of the application if
+the further information is given at a time not falling within a
+specified period. (Added 25 of 2023 s. 63)
+(2I)
+Where  the  Board  accepts  any  further  information  for  the
+purposes of an application under subsection (2H)—
+(a)
+subject to paragraphs (b) and (c), the further information
+shall  be  regarded  as  having  been  included  in  the
+application;
+(b)
+where the application is an application for a review of
+the Board’s decision under section 16, subsection (2A)
+shall further apply, with necessary modifications, to and
+in relation to the further information as it applies to and
+in relation to the application; and
+(c)
+subject to any exemption under subsection (2J)—
+(i)
+where the application is an application for a review
+of  the  Board’s  decision  under  section  16,
+subsections (2B), (2C), (2D), (2E), (2F) and (2G)
+shall further apply, with necessary modifications, to
+and in relation to the further information as they
+apply to and in relation to the application; and
+(ii)
+for the purposes of subsection (2)—
+(A)
+the application shall be regarded as received
+when the further information is received; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+34 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(B)
+anything  done  under  subsection  (2)  before
+receipt of the further information shall have
+effect  subject  to  anything  done  under  that
+subsection upon application of this subsection.
+(Added 25 of 2004 s. 17)
+(2J)
+Where the Board is satisfied that there are reasonable grounds
+to do so, it may exempt any further information accepted by it
+for the purposes of an application under subsection (2H) from
+subsection (2I)(c). (Added 25 of 2004 s. 17)
+(3)
+On a review under this section the applicant or his authorized
+representative may attend before the Board and shall be given
+an opportunity to make representations.
+(4)
+If the applicant or an authorized representative does not attend
+at the time and place fixed for the review, the Board may
+proceed with the review or adjourn it.
+(4A)
+Without  prejudice  to  subsection  (4),  where  the  Board  is
+satisfied that there are reasonable grounds to do so, it may
+adjourn the review to such date as it considers appropriate.
+(Added 25 of 2004 s. 17)
+(4B)
+Where any review is adjourned under subsection (4) or (4A),
+the  provisions  of  this  section  also  apply,  with  necessary
+modifications, to the review so adjourned, save to the extent
+that the Board otherwise directs. (Added 25 of 2004 s. 17)
+(5)
+On a  review  under  this section  the  Board  shall take  into
+account any written representation submitted by the applicant
+and, in the case of an application for a review of its decision
+under  section  16,  any  comment  made  in  respect  of  the
+application under subsection (2D). (Amended 25 of 2004 s. 17)
+(6)
+On a review under this section, the Board may confirm or
+reverse the decision in question, or substitute for the decision
+in question any decision it could have made under section 16
+or 16A, as the case may be. (Amended 25 of 2004 s. 17)
+(7)
+(Repealed 101 of 1991 s. 3)
+(8)
+The Board may, by notice published in the Gazette, specify
+one or more than one period during which an applicant may
+give  further  information  to  the  Board  to  supplement  the
+information included in the application. (Added 25 of 2023 s. 
+63)
+(9)
+A  notice  published  under  subsection  (8)  is  not  subsidiary
+legislation. (Added 25 of 2023 s. 63)
+(10)
+In this section—
+specified period (8明期間), in relation to an application made
+under subsection (1), means a period specified by the Board
+under subsection (8) in respect of the application. (Added 25 of 
+2023 s. 63)
+(Added 59 of 1974 s. 3)
+17A.
+Constitution of Appeal Board
+(1)
+The Chief Executive may appoint a panel of persons (the
+Appeal Board panel) whom he considers suitable to sit as
+members of an Appeal Board to hear an appeal under section
+17B. (Amended 62 of 2000 s. 3)
+(2)
+The Chief Executive shall not appoint—  (Amended 62 of 
+2000 s. 3)
+(a)
+a member of the Board;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+35 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+a public officer;
+(c)
+a Justice of Appeal,
+to the Appeal Board panel. (Replaced 14 of 1996 s. 2)
+(2A)
+For the avoidance of doubt, in subsection (2), public officer
+(UV人員) does not include a judge of the Court of First
+Instance, a recorder of the Court of First Instance, a deputy
+judge of the Court of First Instance or a District Judge. (Added
+14 of 1996 s. 2. Amended 25 of 1998 s. 2)
+(3)
+The Chief Executive may appoint a member of the Appeal
+Board panel as Chairman of the panel and may appoint one or
+more members as Deputy Chairmen of the panel as he thinks
+fit. (Amended 14 of 1996 s. 2; 62 of 2000 s. 3)
+(4)
+The Chief Executive may appoint a public officer to be the
+secretary to the Appeal Board panel. (Amended 62 of 2000 s. 
+3)
+(5)
+On receipt of a notice of appeal, the secretary to the Appeal
+Board  panel  shall  notify the  Chairman  of  the  panel  who,
+subject to subsections (6), (7), (11) and (16), shall nominate an
+Appeal Board.
+(6)
+The Chairman of the Appeal Board panel shall not nominate
+an Appeal Board to hear an appeal or act as its Chairman if he
+has a direct or indirect interest in the appeal.
+(7)
+A Deputy Chairman of the Appeal Board panel designated for
+the purpose by the Chairman of the panel shall, in the absence
+of the Chairman of the panel, or if the Chairman of the panel
+has a direct or indirect interest in an appeal, nominate an
+Appeal Board to hear the appeal. (Amended 14 of 1996 s. 2)
+(8)
+Subsection (6) shall apply to a Deputy Chairman of the Appeal
+Board  panel  as  it  applies  to  the  Chairman  of  the
+panel. (Amended 14 of 1996 s. 2)
+(9)
+Subject to subsections (6), (8), (11) and (16), the Chairman or
+a Deputy Chairman and 4 other members of the Appeal Board
+panel  shall  constitute  an  Appeal  Board  to  hear  an
+appeal. (Amended 14 of 1996 s. 2)
+(10)
+Subject to subsections (6), (8), (11) and (16), the Chairman or
+a Deputy Chairman of the Appeal Board panel shall act as
+Chairman of an Appeal Board. (Amended 14 of 1996 s. 2)
+(11)
+If the Chairman of the Appeal Board panel and the Deputy
+Chairman designated under subsection (7) have a direct or
+indirect interest in an appeal, the Chief Executive may appoint
+another Deputy Chairman or another member of the panel,
+who does not have a direct or indirect interest in the appeal, to
+nominate an Appeal Board to hear the appeal and to act as
+Chairman of the Appeal Board. (Amended 14 of 1996 s. 2; 62 
+of 2000 s. 3)
+(12)
+At least 3 members, one of whom must be the Chairman of the
+Appeal  Board,  shall  be  present  to  hear  and  determine  an
+appeal.
+(13)
+The Appeal Board shall hear the appeal and a majority of the
+members hearing the appeal shall determine questions before
+it.
+(14)
+Where there is an equality of votes in respect of any question
+to be determined in an appeal the Chairman of the Appeal
+Board shall have a casting vote in addition to his original vote.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+36 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(15)
+A member shall not take part in determining the questions
+before the Appeal Board unless he has been present at all the
+Appeal  Board  meetings  held  in  respect  of  the  appeal
+concerned.
+(16)
+If the Chairman of the Appeal Board panel is precluded by
+illness  or  absence  from  Hong  Kong  from  exercising  his
+functions—
+(a)
+the Deputy Chairman designated under subsection (7)
+shall act as Chairman; or
+(b)
+if the Deputy Chairman designated under subsection (7)
+is unable to act as Chairman, the Chief Executive may
+appoint another Deputy Chairman or another member to
+act as Chairman. (Replaced 14 of 1996 s. 2. Amended 62 
+of 2000 s. 3)
+(Added 101 of 1991 s. 4)
+17B.
+Appeals
+(1)
+An applicant who is aggrieved by a decision of the Board on a
+review under section 17 may appeal by lodging, within 60
+days after notification of the Board’s decision under section
+17(6), a notice of appeal setting out the grounds for the appeal
+and such other particulars as may be prescribed.
+(2)
+The appellant and the Board may appear before an Appeal
+Board  in  person,  where  applicable,  or  by  an  authorized
+representative.
+(3)
+No decision of an Appeal Board shall be questioned by virtue
+of the absence of a member of the Appeal Board during the
+hearing  of  an  appeal  provided  that  member  does  not
+participate in the final decision of the Appeal Board.
+(4)
+The  Chief  Executive  in  Council  may  make  regulations
+prescribing the procedures to be followed in making an appeal,
+including matters to be set out in or to accompany the notice
+of appeal, the hearing of an appeal and the determination of an
+appeal. (Amended 62 of 2000 s. 3)
+(5)
+If a person mentioned in subsection (2) fails to appear on a
+date set for the hearing of an appeal, an Appeal Board may
+proceed to hear any other party entitled to appear and may
+make its decision without hearing the absent party.
+(6)
+Prior to or at the hearing of an appeal, an Appeal Board may—
+(a)
+consider  and  determine  whether  a  party  should  have
+access to documents which the party claims are relevant
+to the appeal and which are in the possession or control
+of another person and order that other person to give the
+party access to such documents;
+(b)
+hear evidence on oath and administer any oath necessary
+to swear in a witness;
+(c)
+admit  or  take  into  account  any  statement,  document,
+information  or  matter  whether  or  not  it  would  be
+admissible as evidence in a court of law;
+(d)
+by notice in writing summon any person to appear before
+it to give evidence and to produce any document or other
+thing specified in the notice.
+(7)
+Any notice or order of an Appeal Board shall be issued under
+the hand of the Chairman or a Deputy Chairman. (Amended 14 
+of 1996 s. 3)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+37 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(8)
+At the completion of the hearing of parties appearing at an
+appeal or at any adjourned hearing, an Appeal Board may—
+(a)
+adjourn for such period as it considers necessary to reach
+its decision;
+(b)
+confirm, reverse or vary the decision appealed against;
+(c)
+award to a party such costs legal or otherwise as it
+considers reasonably incidental to the preparation and
+presentation of an appeal.
+(9)
+The decision of an Appeal Board on any appeal shall be final.
+(Added 101 of 1991 s. 4)
+17C.
+Offences
+Any person who—
+(a)
+is served with a summons under section 17B(6)(d) and
+who—
+(i)
+refuses  or  neglects  without  sufficient  cause  to
+appear or to produce any document, record or other
+thing required to be produced; or
+(ii)
+refuses to be sworn or give evidence; or
+(b)
+refuses to comply with an order of the Appeal Board
+under section 17B(6),
+commits an offence and is liable to a fine at level 5.
+(Added 101 of 1991 s. 4. Amended E.R. 1 of 2021)
+18.
+Amendment of diagrams, etc.
+(1)
+Where a draft plan prepared before the commencement* of the
+Town Planning (Amendment and Validation) Ordinance 1974
+(59 of 1974), whether it has been approved under section 9 or
+not, contains, or is accompanied by, diagrams, illustrations,
+notes or descriptive matter, the Board may, for the purpose of
+removing any uncertainty— (Amended E.R. 1 of 2021)
+(a)
+amend such diagrams, illustrations, notes or descriptive
+matter; or
+(b)
+replace such diagrams, illustrations, notes or descriptive
+matter with such other diagrams, illustrations, notes or
+descriptive matter as it thinks fit,
+and  the  amended  or  new  diagrams,  illustrations,  notes  or
+descriptive matter shall be, and shall be deemed always validly
+to have been, part of the plan.
+(2)
+Where,  pursuant  to  subsection  (1),  the  Board  amends  or
+replaces  any  diagrams,  illustrations,  notes  or  descriptive
+matter contained in, or accompanying, a draft plan which has
+been approved under section 9, the Board shall notify the Land
+Registrar of the amendment or replacement  and the Land
+Registrar shall make such amendment of the copy of the plan
+deposited  with  him  under  section  11  as  may  be
+necessary. (Amended 8 of 1993 s. 3)
+(3)
+Where the Board has amended or replaced any diagrams,
+illustrations, notes or descriptive matter under subsection (1),
+the  Board  shall  make  such  amended  or  new  diagrams,
+illustrations, notes or descriptive matter available for public
+inspection and shall publish in the Gazette a notice of the
+place and time at which the same may be inspected.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+38 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(4)
+Notwithstanding any provision of this Ordinance, no objection
+shall be allowed to any amendment or replacement made by
+the Board under subsection (1).
+(Added 59 of 1974 s. 3)
+____________________
+Editorial Note:
+* Commencement date: 15 August 1974.
+19.
+Comprehensive development area validation
+The inclusion in a plan of an area described as “(Other Specified
+Uses)  Comprehensive  Development  Area”  or  “(Other  Specified
+Uses) Comprehensive Redevelopment Area”, and all decisions of
+the  Board  and  of  the  Building  Authority  under  the  Buildings
+Ordinance (Cap. 123) in relation to the area, that could have validly
+been  included  or  made  under  this  Ordinance  or  the  Buildings
+Ordinance (Cap. 123) had the amendments made by the Town
+Planning  (Amendment)  Ordinance  1988  (2  of  1988)  been  in
+operation at the time of the inclusion or decisions, shall not be held
+to be invalid by reason only that those amendments were not then in
+operation.
+(Added 2 of 1988 s. 7)
+(Cross-heading repealed 25 of 2023 s. 69)
+20.
+Development permission area plans
+(1)
+In any draft plan prepared under section 3(1)(b), the Board
+shall designate any area of Hong Kong, as directed by the
+Chief Executive, as a development permission area. (Amended
+62 of 2000 s. 3)
+(2)
+The Board shall not designate as a development permission
+area any area that is or was previously included in a plan under
+this Ordinance, other than a plan prepared under section 26.
+(3)
+A draft plan referred to in subsection (1) may as in section
+4(1)  show  or  make  provision  within  the  development
+permission area for any of the matters specified in section 4(1)
+in relation to a plan prepared under section 3(1)(a).
+(4)
+Sections 4(3), 4A to 13A, 16 and 17 apply to a plan referred to
+in  subsection  (1)  as  they  apply  to  a  plan  prepared  under
+section 3(1)(a).
+(5)
+A plan referred to in subsection (1), whether or not it becomes
+an approved plan, is effective for a period of 3 years after
+notice  of  the  draft  plan  is  first  published  in  the  Gazette
+pursuant to section 5, but on the application of the Board the
+Chief Executive in Council may, by a notice published in the
+Gazette before the end of the 3-year period, extend the period
+for up to one additional year. (Amended 62 of 2000 s. 3)
+(6)
+Except as provided in subsection (7)(a) and in the definition of
+unauthorized development in section 1A, where land that is
+within a plan referred to in subsection (1) is included in a plan
+prepared  under  section  3(1)(a),  the  plan  referred  to  in
+subsection (1) ceases to be effective in relation to that land.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+39 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(6A)
+Notwithstanding that the plan referred to in subsection (1)
+ceases to be effective under subsection (6), sections 16, 17 and
+17B shall continue to apply to applications for permission
+submitted under section 16 during the effective period of 3
+years or the period of up to one additional year as extended by
+the Chief Executive in Council, as referred to in subsection (5)
+until the right to be considered under section 16,  right  of
+review under section 17 and right of appeal under section 17B
+have been exhausted, abandoned or have expired; and the
+Board or the Appeal Board, as the case may be, shall consider
+under section 16, review under section 17 or hear an appeal
+under section 17B in respect of the applications to the extent
+as shown or provided for or specified in the plan referred to in
+subsection (1). (Added 22 of 1994 s. 4. Amended 62 of 2000 s. 
+3)
+(7)
+Where land that is within a plan referred to in subsection (1) is
+included in a plan prepared under section 3(1)(a), a person
+must not undertake  or continue development on that land
+unless— (Amended 25 of 2023 s. 70)
+(a)
+the development was an existing use in relation to the
+plan prepared under this section;
+(b)
+the development on that land is permitted under a plan—
+(i)
+that is prepared under section 3(1)(a) (whether or
+not the plan is approved in whole or in part under
+section 9); and
+(ii)
+that is the latest plan in relation to the land; or
+(Replaced 25 of 2023 s. 70)
+(c)
+permission to do so has been granted under section 16
+either before or after the land was included in the plan
+prepared under section 3(1)(a).
+(8)
+A person who contravenes subsection (7) commits an offence
+and is liable, in the case of a first conviction, to a fine of
+$500,000  and,  in  the  case  of  a  second  or  subsequent
+conviction, to a fine of $1,000,000. (Replaced L.N. 300 of
+1995)
+(9)
+Subsection (8) has effect subject to section 111 of the Private
+Columbaria Ordinance (Cap. 630). (Added 8 of 2017 s. 120
+and E.R. 4 of 2017)
+(Added 4 of 1991 s. 8)
+21.
+Offence
+ 
+of
+ 
+unauthorized
+ 
+development—development
+permission area
+(Amended 25 of 2023 s. 71)
+(1)
+While a plan of a development permission area is effective, a
+person must not undertake or continue development in the
+development permission area unless—
+(a)
+the development in the area is an existing use;
+(b)
+the development in the area is permitted under a plan—
+(i)
+that is prepared under section 3(1)(b) (whether or
+not the plan is approved in whole or in part under
+section 9); and
+(ii)
+that is the latest plan in relation to the area; or
+(c)
+permission to do so has been granted under section 16.
+(Replaced 25 of 2023 s. 71)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+40 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(2)
+A person who contravenes subsection (1) commits an offence
+and is liable, in the case of a first conviction, to a fine of
+$500,000  and,  in  the  case  of  a  second  or  subsequent
+conviction, to a fine of $1,000,000. (Replaced L.N. 300 of
+1995)
+(3)
+Subsection (2) has effect subject to section 111 of the Private
+Columbaria Ordinance (Cap. 630). (Added 8 of 2017 s. 121
+and E.R. 4 of 2017)
+(Added 4 of 1991 s. 8)
+21A.
+Regulated area
+(1)
+This section applies to an area that is included in a plan under
+this Ordinance.
+(2)
+However, this section does not apply to an area—
+(a)
+that is within the Hong Kong Island, Kowloon, or the
+New Kowloon; or
+(b)
+that is any land included in a plan of a development
+permission area or is any land to which section 20(7)
+applies.
+(3)
+The Secretary for Development may, by notice published in
+the Gazette, designate an area to be a regulated area—
+(a)
+for the purpose of protecting the area from environmental
+degradation;
+(b)
+for the purpose of nature conservation; or
+(c)
+for both of the purposes mentioned in paragraphs (a) and
+(b).
+(4)
+A notice under subsection (3) must describe and delineate the
+area concerned by reference to a plan prepared and signed
+under section 21B.
+(5)
+The Secretary may, by notice published in the Gazette—
+(a)
+modify a regulated area designation, including—
+(i)
+expanding the area covered by the designation for
+either  or  both  of  the  purposes  mentioned  in
+subsection (3)(a) and (b) (designated area); and
+(ii)
+reducing the designated area; or
+(b)
+revoke a regulated area designation.
+(6)
+A notice under subsection (5)(a)(i) or (ii) must describe and
+delineate  the  expanded  area  or  reduced  area  (as  the  case
+requires) by reference to a plan prepared and signed under
+section 21B.
+(7)
+A notice made under subsection (3) or (5) is not subsidiary
+legislation.
+(Added 25 of 2023 s. 72)
+21B.
+Plan to be prepared and signed by Secretary for Development
+for purposes of section 21A(4) or (6)
+(1)
+The Secretary for Development may prepare a plan for the
+purposes of section 21A(4) or (6).
+(2)
+The Secretary must sign the plan prepared under subsection
+(1).
+(Added 25 of 2023 s. 72)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+41 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+21C.
+Copies of regulated area plan to be deposited in Land Registry
+etc.
+(1)
+After a designation or modification is made under section
+21A(3) or (5)(a), the Secretary for Development is to cause a
+copy of the regulated area plan to which the designation or
+modification relates to be deposited in the Land Registry.
+(2)
+Every copy deposited under subsection (1) is to be made
+available by the Land Registrar for public inspection free of
+charge.
+(3)
+The Secretary may, on payment of the fee determined under
+subsection (4), provide a copy of the regulated area plan to a
+person.
+(4)
+The Secretary may determine the fee to be paid by a person for
+the provision of a copy under subsection (3).
+(Added 25 of 2023 s. 72)
+21D.
+When regulated area designation takes effect or ceases to be
+effective
+(1)
+A designation of regulated area under section 21A(3) takes
+effect on the date of publication of the notice by which the
+designation is made.
+(2)
+A modification of a regulated area designation under section
+21A(5)(a) takes effect on the date of publication of the notice
+by which the modification is made.
+(3)
+A regulated area designation is effective until it is modified or
+revoked under section 21A(5).
+(Added 25 of 2023 s. 72)
+21E.
+When revocation of designation takes effect
+A  revocation  made  under  section  21A(5)(b)  in  relation  to  a
+regulated area designation takes effect on the date of publication of
+the notice by which the revocation is made.
+(Added 25 of 2023 s. 72)
+21F.
+Offence of unauthorized development—regulated area
+(1)
+While a regulated area designation is effective, a person must
+not undertake or continue development in the regulated area
+unless—
+(a)
+the development in the area is a pre-material-date use;
+(b)
+the development in the area is permitted under a plan—
+(i)
+that is prepared under section 3(1)(a) (whether or
+not the plan is approved in whole or in part under
+section 9); and
+(ii)
+that is the latest plan in relation to the area; or
+(c)
+permission to do so has been granted under section 16.
+(2)
+A person who contravenes subsection (1) commits an offence
+and is liable—
+(a)
+on a first conviction—to a fine of $500,000; and
+(b)
+on  a  second  or  subsequent  conviction—to  a  fine  of
+$1,000,000.
+(3)
+Subsection (2) has effect subject to section 111 of the Private
+Columbaria Ordinance (Cap. 630).
+(Added 25 of 2023 s. 72)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+42 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+22.
+Power to inspect and require provision of information
+(1)
+The  Authority  may,  without  warrant  or  notice  but  at  a
+reasonable time, enter land and any premises on it for the
+purposes of, and enter land and any premises on it through
+which access is needed for the purposes of—  (Amended 25 of 
+2004 s. 18)
+(aa)
+ascertaining  whether  there  is  or  was  unauthorized
+development or any matters that in the opinion of the
+Authority  constitute  or  constituted  an  unauthorized
+development; (Added 25 of 2004 s. 18)
+(a)
+posting a notice under section 23;
+(b)
+verifying  that  an  unauthorized  development  or  any
+matters that in the opinion of the Authority constitute or
+constituted  an  unauthorized  development  have  been
+discontinued  or  any  steps  taken  or  land  has  been
+reinstated as required under section 23. (Amended 25 of 
+2004 s. 18)
+(2)
+Notwithstanding subsection (1)—  (Amended 25 of 2004 s. 18)
+(a)
+the  Authority  shall  not  exercise  any  power  under
+subsection (1) for the purposes of ascertaining any matter
+under  subsection  (1)(aa)  unless  the  Authority  has
+reasonable  grounds  to  suspect  that  there  is  or  was
+unauthorized development and it is necessary to enter the
+land or premises in question, or to have access through
+the land or premises in question, as the case may be, in
+order to enable the Authority to ascertain the matter; and
+(b)
+the Authority shall not, save with the consent of the
+occupier  or  person  in  charge  of  the  premises,  enter
+domestic  premises  without  a  warrant  issued  by  a
+magistrate under subsection (3). (Amended 25 of 2004 s. 
+18)
+(3)
+If a magistrate is satisfied from information on oath that there
+are  reasonable  grounds  to  believe  that  there  is  or  was
+unauthorized development and it is necessary to enter any land
+or premises, or to have access through any land or premises, in
+order to enable the Authority to ascertain whether there is or
+was  unauthorized  development  or  any  matters  that  in  the
+opinion  of  the  Authority  constitute  or  constituted  an
+unauthorized development, the magistrate may issue a warrant
+authorizing the Authority or any person authorized in writing
+by the Authority to enter the land or premises. (Amended 25 of 
+2004 s. 18)
+(4)
+Where  the  Authority  or  any  person  authorized  by  the
+Authority  enters  any  place  under  a  warrant  issued  under
+subsection (3) he shall produce his warrant.
+(5)
+Where  the  Authority  or  any  person  authorized  by  the
+Authority enters any place under this section, the Authority or
+the  authorized  person  may  exercise  any  of  the  following
+powers— (Amended 25 of 2023 s. 73)
+(a)
+require any person present at that place to give details of
+the person’s identity, name and address, and produce the
+person’s identity card issued under the Registration of
+Persons  Ordinance  (Cap.  177)  for  inspection  by  the
+Authority or the authorized person; (Replaced 25 of 2023 
+s. 73)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+43 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+require any person present at that place who appears at
+the time to be reasonably responsible for or in charge of
+that  place  to  give  such  information  or  render  such
+assistance as may be necessary to enable the Authority or
+the authorized person to carry out their functions under
+this section. (Amended 25 of 2023 s. 73)
+(6)
+A warrant issued under subsection (3) shall continue in force
+until the purpose for which the entry is necessary has been
+satisfied.
+(7)
+For the purposes of exercising any power or performing any
+duty under or for the purposes of section 20, 21, 21F or 23, or
+determining whether there is or was any contravention of any
+of the provisions of section 20, 21, 21F or 23,  where  the
+Authority has reasonable grounds to believe that any person
+has any relevant information, the Authority may by notice in
+writing served on the person require the person to provide the
+relevant  information  to  the  Authority,  within  the  period
+specified in the notice. (Added 25 of 2004 s. 18. Amended 25 
+of 2023 s. 73)
+(8)
+A person who—
+(a)
+fails  without  reasonable  excuse  to  comply  with  the
+requirements of a notice served on him under subsection
+(7); or
+(b)
+in  compliance  or  purported  compliance  with  such  a
+notice—
+(i)
+provides to the Authority any information which he
+knows to be false in a material particular;
+(ii)
+recklessly  provides  to  the  Authority  any
+information which is false in a material particular;
+or
+(iii)
+knowingly omits any material particular,
+commits an offence and is liable to a fine at level 6. (Added 25 
+of 2004 s. 18)
+(9)
+In subsection (7), relevant information (有*G料) means
+information  reasonably  required  by  the  Authority  for  the
+purposes of—
+(a)
+ascertaining  whether  there  is  or  was  unauthorized
+development or any matters that in the opinion of the
+Authority  constitute  or  constituted  an  unauthorized
+development;
+(b)
+identifying any person—
+(i)
+who  undertakes  or  continues,  or  undertook  or
+continued, any development; or
+(ii)
+on whom a notice may be served under section
+23(1). (Added 25 of 2004 s. 18)
+(Added 4 of 1991 s. 8)
+23.
+Enforcement on land within a development permission area or
+regulated area
+(Amended 25 of 2023 s. 74)
+(1)
+Where,  in  the  opinion  of  the  Authority,  there  is  or  was
+unauthorized  development,  the  Authority  may,  in  a  notice
+served on one or more of a land owner, an occupier or a
+person  who  is  responsible  for  the  relevant  matters
+—  (Amended 101 of 1991 s. 5; 25 of 2004 s. 19)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+44 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(a)
+specify the relevant matters; and (Replaced 25 of 2004 s. 
+19)
+(b)
+specify  a  date  by  which  the  Authority  requires  the
+relevant matters to be discontinued, if they have not by
+then been discontinued. (Replaced 25 of 2004 s. 19)
+(2)
+Where, apart from being of the opinion that there is or was
+unauthorized  development,  the  Authority  considers  that
+continuance of the relevant matters could—  (Amended 25 of 
+2004 s. 19)
+(a)
+constitute a health or safety hazard;
+(b)
+adversely affect the environment; or
+(c)
+make it impracticable or uneconomic to reinstate the land
+within a reasonable period,
+then—  (Amended 25 of 2004 s. 19)
+(d)
+where a notice has not been served under subsection (1)
+in relation to the relevant matters, the Authority may in a
+notice served under that subsection—
+(i)
+specify the date for discontinuance of the relevant
+matters under subsection (1)(b), after taking into
+account the effects referred to in paragraph (a), (b)
+or (c); and
+(ii)
+further specify any steps required to be taken, by a
+date specified in that regard, to prevent anything
+related to the relevant matters from causing such
+effects; or
+(e)
+where a notice has been served under subsection (1) in
+relation to the relevant matters, the Authority may in a
+further notice served on the same person on whom the
+notice has been served—
+(i)
+substitute the date specified for discontinuance of
+the relevant matters under subsection (1)(b) in the
+notice that has been served by an earlier date, after
+taking into account such effects; and
+(ii)
+further specify any steps required to be taken, by a
+date specified in that regard, to prevent anything
+related to the relevant matters from causing such
+effects.
+(2A)
+A notice served on a person under subsection (1) in relation to
+the relevant matters shall be read as having effect subject to
+any further notice served on the same person under subsection
+(2)(e) in relation to the relevant matters. (Added 25 of 2004 s. 
+19)
+(3)
+Where  a  notice  under  subsection  (1)  has  been  served  in
+relation to any relevant matters, the Authority may, subject to
+subsection (4), in a notice served on any person on whom a
+notice may be served under subsection (1), require such person
+to reinstate the land, by a date not earlier than 30 days after
+service of the notice— (Amended 25 of 2023 s. 74)
+(a)
+if  the  land  is  included  in  a  plan  of  a  development
+permission  area  or  is  a  land  to  which  section  20(7)
+applies—
+(i)
+to the condition it was in immediately before the
+development permission area became effective; or
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+45 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(ii)
+to  any  other  condition,  more  favourable  to  the
+person, that the Authority considers satisfactory;
+and
+(b)
+if the land is in a regulated area—
+(i)
+to the condition it was in immediately before the
+material date; or
+(ii)
+to  any  other  condition,  more  favourable  to  the
+person,  that  the  Authority  considers  satisfactory.
+(Amended 25 of 2023 s. 74)
+(4)
+Where the relevant matters referred to in subsection (3) were
+on land included—  (Amended 25 of 2004 s. 19)
+(a)
+in a plan of an interim development permission area; and
+(b)
+within 6 months of the commencement* of the Town
+Planning (Amendment) Ordinance 1991 (4 of 1991) in a
+plan of a development permission area,
+the Authority may, in the notice under subsection (3), require
+the person served to reinstate the land to the condition it was
+in  immediately  before  notice  of  the  plan  of  the  interim
+development permission area was published in the Gazette or
+to such other condition, more favourable to the person served,
+as the Authority considers satisfactory.
+(4A)
+Where the Authority is satisfied—
+(a)
+in the case of a notice served under subsection (1) (read
+as  having  effect  subject  to  any  further  notice  under
+subsection (2A))—
+(i)
+that the relevant matters required by the notice to be
+discontinued have been discontinued as so required;
+and
+(ii)
+that the steps (if any) required by the notice to be
+taken have been taken as so required; or
+(b)
+in the case of a notice served under subsection (3), that
+the land required by the notice to be reinstated has been
+reinstated as so required,
+he shall serve on the person on whom the notice has been
+served a further notice specifying the matters in respect of
+which he is so satisfied. (Replaced 25 of 2004 s. 19)
+(4B)
+The Authority shall, as soon as reasonably practicable after
+service of a notice under subsection (1), (2), (3) or (4A),
+register the notice in the Land Registry. (Replaced 25 of 2004 
+s. 19)
+(5)
+Where permission to undertake or continue development on
+land referred to in subsection (4)(a) was granted under section
+26  before  the  land  was  included  within  the  plan  of  the
+development permission area, the permission shall, for the
+purposes of sections 20(7)(c) and 21(1)(c), be deemed to be
+permission granted by the Board under section 16.
+(6)
+Where, by the date specified in that regard in a notice under
+this section—
+(a)
+the  relevant  matters  have  not  been  discontinued  as
+required by the notice; (Replaced 25 of 2004 s. 19)
+(b)
+steps have not been taken as required by the notice; or
+(c)
+land has not been reinstated as required by the notice,
+a person who is served with the notice commits an offence and
+is liable—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+46 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(i)
+in the case of a first conviction, to a fine of $500,000;
+and in addition, to a fine of $50,000 for each day, after
+the date in the notice, during which the person continues
+to fail to so comply; and
+(ii)
+in the case of a second or subsequent conviction, to a
+fine of $1,000,000; and in addition, to a fine of $100,000
+for each day, after the date in the notice, during which
+the person continues to fail to so comply. (Amended L.N.
+300 of 1995; 14 of 1996 s. 4)
+(7)
+Where, by the date specified in that regard in a notice under
+this section—
+(a)
+the  relevant  matters  have  not  been  discontinued  as
+required by the notice; (Replaced 25 of 2004 s. 19)
+(b)
+steps have not been taken as required by the notice; or
+(c)
+land has not been reinstated as required by the notice,
+the Authority may enter the land and take whatever steps he
+considers  necessary  to  ensure  the  discontinuance  of  the
+relevant  matters,  to  prevent  the  effects  referred  to  in
+subsection (2)(a), (b) or (c) or to reinstate the land.
+(7A)
+The Authority may under subsection (7) take possession of,
+remove, detain and dispose of property that is on the land to
+which a notice served under this section relates. (Added 22 of 
+1994 s. 5)
+(7B)
+Subject to any regulation that may be made under section
+14(1), the Government is not liable for the loss of or for
+damage to any property in the course of taking possession of,
+removal, detention or disposal of property by the Authority
+under subsection (7A), nor is any public officer or person so
+authorized by the Authority to take possession of, remove,
+detain or dispose of the property under subsection (7A) liable
+for  the  loss  or  damage,  unless  he  has  caused  it  wilfully,
+fraudulently or by gross negligence. (Added 22 of 1994 s. 5)
+(8)
+Expenses incurred by the Authority under subsection (7) are
+recoverable as a civil debt from any person served with a
+notice under this section.
+(8A)
+Where the Authority is satisfied—
+(a)
+that—
+(i)
+the relevant matters that have not been discontinued
+by the date specified in that regard in a notice under
+this section have been discontinued at any time
+after that date;
+(ii)
+steps that have not been taken by the date specified
+in that regard in a notice under this section have
+been taken at any time after that date; or
+(iii)
+land  that  has  not  been  reinstated  by  the  date
+specified  in  that  regard  in  a  notice  under  this
+section has been reinstated at any time after that
+date; and
+(b)
+if  the  Authority  has  incurred  any  expenses  for  such
+purpose under subsection (7), that the expenses have
+been paid to or recovered by the Authority,
+he shall serve on the person on whom the notice has been
+served a further notice specifying the matters in respect of
+which he  is so satisfied,  and shall as soon as reasonably
+practicable after service of the further notice register such
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+47 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+further notice in the Land Registry. (Added 25 of 2004 s. 19)
+(8B)
+A notice served under this section shall be deemed to be an
+instrument affecting land or premises and shall be registrable
+in the Land Registry, but a failure to register such a notice in
+the  Land  Registry  shall  not  affect  its  validity  against  the
+person on whom the notice has been served. (Added 25 of 
+2004 s. 19)
+(9)
+It is a defence to a prosecution under subsection (6) and in a
+proceeding to recover expenses under subsection (8) if the
+defendant proves that—
+(a)
+the  defendant  took  all  reasonable  steps  in  the
+circumstances to comply with the notice; (Amended 25 of 
+2023 s. 74)
+(aa)
+the unauthorized development which existed according
+to  the  opinion  of  the  Authority  in  fact  was  not  a
+development; (Added 25 of 2004 s. 19)
+(b)
+the unauthorized development on land included in a plan
+of a development permission area or on land to which
+section 20(7) applies, which existed according to the
+opinion of the Authority, in fact was an existing use or, in
+the  case  of  land  within  an  interim  development
+permission area, that the use of a building or land was in
+existence immediately before publication in the Gazette
+of  the  notice  of  the  relevant  plan  of  the  interim
+development permission area; (Amended 25 of 2023 s. 
+74)
+(ba)
+the  unauthorized  development  in  the  regulated  area
+which existed according to the opinion of the Authority
+in fact was a pre-material-date use; (Added 25 of 2023 s. 
+74)
+(c)
+the unauthorized development which existed according
+to the opinion of the Authority in fact is permitted under
+the latest plan of the development permission area or
+under  a  relevant  plan  of  an  interim  development
+permission area; (Amended 25 of 2023 s. 74)
+(ca)
+the unauthorized development which existed according
+to the opinion of the Authority in fact is permitted under
+a plan—
+(i)
+that is prepared under section 3(1)(a) (whether or
+not the plan is approved in whole or in part under
+section 9); and
+(ii)
+that is the latest plan in relation to the land; or
+(Added 25 of 2023 s. 74)
+(d)
+the unauthorized development which existed according
+to the opinion of the Authority in fact was a development
+for which permission had been granted under section 16.
+(9A)
+In  the  prosecution  of  an  offence  alleged  to  have  been
+committed under subsection (6), it shall not be necessary for
+the prosecution to prove that—
+(a)
+the unauthorized development which existed according
+to the opinion of the Authority in fact was a development
+or was an unauthorized development; or
+(b)
+the relevant matters which constituted such unauthorized
+development according to the opinion of the Authority in
+fact constituted such unauthorized development. (Added
+25 of 2004 s. 19)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+48 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(10)
+A notice under this section may be served on a person in
+person or by sending it by post to his address or depositing it
+in his post box or posting it in a prominent position—
+(a)
+on or near the land; or
+(b)
+on any premises or structure on the land,
+affected by the notice. (Amended 101 of 1991 s. 5)
+(11)
+In forming any opinion as to whether there is or was any
+unauthorized development, or whether any matters constitute
+or constituted an unauthorized development, for the purpose of
+exercising  any  power  or  performing  any  duty  under  this
+section, the Authority may have regard to—
+(a)
+any document, or any copy of a document, to which
+section 24A applies;
+(b)
+any draft plan, partly approved plan or approved plan
+exhibited under this Ordinance; and (Amended 25 of 
+2023 s. 64)
+(c)
+any  other  information or  thing  which  appears  to  the
+Authority to be relevant to the exercise of the power or
+the performance of the duty, as the case may be. (Added
+25 of 2004 s. 19)
+(12)
+In this section, relevant matters (有*事項), in relation to any
+unauthorized  development  which  in  the  opinion  of  the
+Authority exists or existed, means any matters which in the
+opinion  of  the  Authority  constitute  or  constituted  such
+unauthorized development. (Added 25 of 2004 s. 19)
+(13)
+Subsections (1) and (2) have effect subject to section 111 of
+the Private Columbaria Ordinance (Cap. 630). (Added 8 of 
+2017 s. 122 and E.R. 4 of 2017)
+(Added 4 of 1991 s. 8. Amended 25 of 2004 s. 19)
+____________________
+Editorial Note:
+* Commencement date: 25 January 1991.
+24.
+Review of Authority’s decision
+(1)
+Any person aggrieved by a decision of the Authority under
+section 23(3) or (4) may, within 30 days after service of the
+notice under section 23(3), apply in writing to the Secretary
+for  Development  for  a  review  of  the  Authority’s
+decision. (Amended L.N. 330 of 1999; L.N. 106 of 2002; L.N.
+130 of 2007)
+(2)
+The Authority and the applicant are not entitled to be present
+during the review but the applicant shall be given copies of
+any material provided to the Secretary by the Authority and
+the applicant  shall be  given  a  reasonable  time to provide
+further particulars in response to the material provided.
+(3)
+After considering the application and all submitted materials
+the Secretary may confirm or reverse the Authority’s decision
+or make any decision the Authority could have made under
+section 23(3) or (4).
+(4)
+Where an application for review is received pursuant to this
+section the decision under section 23(3) or (4) that is under
+review  is  suspended  in  its  operation  until  the  review  is
+disposed of.
+(Added 4 of 1991 s. 8)
+24A.
+Evidence
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+49 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+In  any  proceedings  under  this  Ordinance,  any  document
+incorporating an image of an aerial photograph of land, or any copy
+of such document, purporting to be issued by the Lands Department
+and purporting to be signed or initialled by any public officer
+authorized by the Director of Lands in that behalf shall on its
+production be admissible, without further proof, as prima facie
+evidence of the matters shown therein.
+(Added 25 of 2004 s. 20)
+25.
+Delegation by Authority
+The  Authority  may  authorize  in  writing  any  public  officer  to
+exercise  any  powers  and  to  perform  any  duties  conferred  or
+imposed on the Authority by this Ordinance.
+(Added 4 of 1991 s. 8)
+26.
+Interim development permission areas#
+(1)
+Notwithstanding any other provision in this Ordinance, the
+Director of Planning—
+(a)
+may prepare plans designating any area of Hong Kong as
+the  Chief  Executive  may  direct  as  an  interim
+development  permission  area  and  providing  that
+development shall not be undertaken or continued in
+such area otherwise than in conformity with such plans
+or  with  the  permission  of  the  Director  of
+Planning; (Amended 62 of 2000 s. 3)
+(b)
+may, for the purposes of paragraph (a), on an application
+being made for permission, grant permission in writing
+with or without conditions or refuse permission; and
+(c)
+shall cause notice to be published in the Gazette of any
+such plan.
+(2)
+Sections 4(1) and 4A shall apply to a plan prepared under
+subsection (1) as if the references in those sections to a draft
+plan of the Board were references to a plan prepared under
+subsection  (1)  and  the  references  to  the  Board  and  the
+Chairman of the Board were references to the Director of
+Planning.
+(3)
+Where land to which a plan prepared under subsection (1)
+relates  is  subsequently  included  in  a  plan  prepared  under
+section 3, subsection (1) in so far as it requires conformity
+with such a plan or obtaining permission from the Director of
+Planning shall not apply as regards that land.
+(4)
+The  Director  of  Planning  shall  not  prepare  a  plan  under
+subsection (1)(a) or cause a notice to be published under
+subsection  (1)(c)  after  the  commencement*  of  the  Town
+Planning (Amendment) Ordinance 1991 (4 of 1991).
+(Added 4 of 1991 s. 8)
+____________________
+Editorial Note:
+# Deemed to have come into operation on 27 July 1990—see section 1(2)
+of 4 of 1991.
+* Commencement date: 25 January 1991.
+27.
+Board to supply copies of documents or materials
+Where any document or material is available for public inspection
+under section 6(4), 6C(1), 6D(4), 6H(2), 16(2C) or (2I) or 17(2A) or
+(2G), the Board must supply a copy of the document or material to
+any person on payment of such fee as the Board may determine.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+50 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(Added 25 of 2004 s. 21. Amended 25 of 2023 s. 65)
+28.
+Transitional and saving provisions relating to Town Planning
+(Amendment) Ordinance 2004
+(1)
+The amendments effected by sections 6, 7, 8, 9(a), (b) and (c)
+and 10 of the amending Ordinance do not apply in respect of
+any case in which the draft plan in question has been exhibited
+under  section  5  of  the  pre-amended  Ordinance  or  its
+corresponding provision before the commencement* of the
+amending  Ordinance  (whether  or  not  there  have  been
+amendments  to  it  under  section  7  of  the  pre-amended
+Ordinance  or  its  corresponding  provision),  and,  for  the
+avoidance of doubt, the provisions of this Ordinance shall,
+with  necessary  modifications,  be  construed  and  have
+application accordingly.
+(2)
+The amendments effected by section 11(a), (b), (c) and (d) of
+the amending Ordinance do not apply in respect of any case in
+which the approved plan in question has been referred by the
+Chief Executive in Council to the Board under section 12(1)
+(b)  of  the  pre-amended  Ordinance  or  its  corresponding
+provision  before  the  commencement  of  the  amending
+Ordinance, and, for the avoidance of doubt, the provisions of
+this  Ordinance  shall,  with  necessary  modifications,  be
+construed and have application accordingly.
+(3)
+The  amendments  effected  by  section  15  of  the  amending
+Ordinance do not apply in respect of any case in which the
+application for the grant of permission in question has been
+made to the Board under section 16(1) of the pre-amended
+Ordinance  or  its  corresponding  provision  before  the
+commencement  of  the  amending  Ordinance,  and,  for  the
+avoidance of doubt, the provisions of this Ordinance shall,
+with  necessary  modifications,  be  construed  and  have
+application accordingly.
+(4)
+The  amendments  effected  by  section  17  of  the  amending
+Ordinance, in relation to a decision made under section 16, do
+not apply in respect of any case in which the application for
+the grant of permission in question has been made to the
+Board under section 16(1) of the pre-amended Ordinance or its
+corresponding  provision  before  the  commencement  of  the
+amending Ordinance, and, for the avoidance of doubt, the
+provisions  of  this  Ordinance  shall,  with  necessary
+modifications, be construed and have application accordingly.
+(5)
+The  amendments  effected  by  section  19  of  the  amending
+Ordinance do not apply in respect of any case in relation to
+which a notice has been served under section 23(1) of the pre-
+amended Ordinance or its corresponding provision before the
+commencement  of  the  amending  Ordinance,  and,  for  the
+avoidance of doubt, the provisions of this Ordinance shall,
+with  necessary  modifications,  be  construed  and  have
+application accordingly.
+(6)
+Notwithstanding  anything  in  the  amending  Ordinance  but
+subject to subsections (1), (2), (3), (4) and (5)—
+(a)
+any plan a notice of which has been published under
+section  5  of  the  pre-amended  Ordinance  or  its
+corresponding provision shall be regarded as a plan a
+notice of which has been published under section 5;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+51 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+any amendments made to a draft plan under section 7 of
+the  pre-amended  Ordinance  or  its  corresponding
+provision shall be regarded as amendments made to the
+draft plan under section 7; and
+(c)
+any  permission granted  under  section  16  of  the  pre-
+amended Ordinance or its corresponding provision shall
+be regarded as having been granted under section 16,
+and,  for  the  avoidance  of  doubt,  the  provisions  of  this
+Ordinance shall, with necessary modifications, be construed
+and have application accordingly.
+(7)
+This section is in addition to and not in derogation of section
+23 of the Interpretation and General Clauses Ordinance (Cap.
+1).
+(8)
+In this section—
+amending  Ordinance  ( 修1 O 例)  means  the  Town  Planning
+(Amendment) Ordinance 2004 (25 of 2004);
+corresponding provision (相[O\), in relation to a provision of
+the  pre-amended  Ordinance,  means  any  provision  of  this
+Ordinance as in force at any time before the commencement of
+the  amending  Ordinance,  other  than  the  pre-amended
+Ordinance, that substantially corresponds to that provision of
+the pre-amended Ordinance;
+pre-amended Ordinance (未修1O例) means this Ordinance as in
+force immediately before the commencement of the amending
+Ordinance.
+(Added 25 of 2004 s. 21)
+____________________
+Editorial Note:
+* Commencement date : 10 June 2005.
+29.
+Transitional  and  saving  provisions  relating  to  Development
+(Town  Planning,  Lands  and  Works)  (Miscellaneous
+Amendments) Ordinance 2023
+(1)
+Subsections (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12),
+(13) and (14) apply to a plan if the first day on which the plan
+is exhibited under section 5 falls on a day before 1 September
+2023 (exhibited plan).
+(2)
+If the last day of the period for which the plan is required to be
+exhibited under section 5 falls on or after 1 September 2023,
+section 5 of the pre-amended Ordinance applies to the plan.
+(3)
+Subject to subsection (4), sections 6, 6A, 6B, 6C, 6D, 6E, 6F,
+6G  and  6H  of  the  pre-amended  Ordinance  apply,  with
+necessary modifications, to an exhibited plan.
+(4)
+For the purposes of subsection (3), for a plan to which section
+9 of the Amended Ordinance applies because of subsection (8)
+—
+(a)
+the references in sections 6(4) and 6A(4) of the pre-
+amended Ordinance to “a decision in respect of the draft
+plan  in  question”  made  by  the  Chief  Executive  in
+Council under section 9  are  references  to  a  decision
+made by the Chief Executive in Council under section 9
+of the Amended Ordinance in respect of the plan or the
+part or parts of the plan to which the representation
+relates;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+52 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(b)
+the  reference  in  section  6C(1)  of  the  pre-amended
+Ordinance to “a decision in respect of the draft plan in
+question” made by the Chief Executive in Council under
+section 9 is a reference to a decision made by the Chief
+Executive in Council under section 9 of the Amended
+Ordinance in respect of the plan or the part or parts of the
+plan to which the amendment proposed under section
+6B(8) of the pre-amended Ordinance relates;
+(c)
+the  reference  in  section  6D(4)  of  the  pre-amended
+Ordinance to “a decision in respect of the draft plan in
+question” made by the Chief Executive in Council under
+section 9 is a reference to a decision made by the Chief
+Executive in Council under section 9 of the Amended
+Ordinance in respect of the plan or the part or parts of the
+plan to which the further representation relates; and
+(d)
+the  reference  in  section  6H(2)  of  the  pre-amended
+Ordinance to “a decision in respect of the draft plan”
+made by the Chief Executive in Council under section 9
+is a reference to a decision made by the Chief Executive
+in Council under section 9 of the Amended Ordinance in
+respect of the plan or the part or parts of the plan to
+which the amendments relate.
+(5)
+Section  7  of  the  pre-amended  Ordinance  applies  to  an
+amendment made under that section to an exhibited plan if the
+first day on which the amendment is exhibited under that
+section falls on a day before 1 September 2023.
+(6)
+Section  9  of  the  pre-amended  Ordinance  (pre-amended
+section 9) applies to an exhibited plan if the submission of the
+plan was made under section 8 before 1 September 2023 but a
+decision under section 9 is pending immediately before that
+date.
+(7)
+If, because of subsection (6), an exhibited plan is referred to
+the  Board  under  the  pre-amended  section  9  for  further
+consideration  and  amendment,  the  Board  may  make  any
+amendment under section 7 (as applied by section 9A of the
+Amended Ordinance) to the referred plan.
+(8)
+For an exhibited plan in respect of which submission has not
+been made under section 8 before 1 September 2023, subject
+to subsections (9), (10), (11), (12) and (13), sections 8 and 9 of
+the Amended Ordinance apply to the plan.
+(9)
+If,  because  of  subsection  (8),  section  8  of  the  Amended
+Ordinance applies to a plan, the period before the expiry of
+which the plan must be submitted under that section (specified
+period) is—
+(a)
+for a submission under section 8(1)(a) of the Amended
+Ordinance, subject to subsection (10)—
+(i)
+where there is no amendment under section 7 of
+Cap. 131 to the plan—the period of 9 months after
+the period of 2 months mentioned in section 5
+expires;
+(ii)
+where there is only one amendment under section 7
+of Cap. 131 to the plan—the period of 9 months
+after the period of 2 months mentioned in section
+7(2) expires; and
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+53 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(iii)
+where there is more than one amendment under
+section 7 of Cap. 131 to the plan—the period of 9
+months after the period of 2 months mentioned in
+section  7(2)  in  relation  to  the  last  of  those
+amendments expires; and
+(b)
+for a submission under section 8(1)(b) of the Amended
+Ordinance, subject to subsection (10)—
+(i)
+where there is no amendment under section 7 of
+Cap. 131 to the submitted part—the period of 9
+months after the period of 2 months mentioned in
+section 5 expires;
+(ii)
+where there is only one amendment under section 7
+of Cap. 131 to the submitted part—the period of 9
+months after the period of 2 months mentioned in
+section 7(2) expires; and
+(iii)
+where there is more than one amendment under
+section 7 of Cap. 131 to the submitted part—the
+period of 9 months after the period of 2 months
+mentioned in section 7(2) in relation to the last of
+those amendments expires.
+(10)
+If the period of 9 months mentioned in subsection (9)(a)(i), (ii)
+or (iii) or (b)(i), (ii) or (iii) (9-month period) is extended under
+subsection (11) or (12)(a) or (b), the specified period is to be
+the period extended under subsection (11) or (12)(a) or (b) (as
+the case requires) for the submission.
+(11)
+If the Secretary for Development considers it appropriate to do
+so in a particular case, the Secretary may extend the 9-month
+period for 2 months (2-month period).
+(12)
+If, in respect of a particular case, the Secretary is satisfied that
+exceptional circumstances exist, the Secretary may—
+(a)
+extend the 2-month period for 2 months; and
+(b)
+further extend the period extended under paragraph (a)
+for another 2 months.
+(13)
+Where a submission is made under section 8 (as applied by
+subsection (8)) (new section 8), without affecting subsection
+(3) of the new section 8—
+(a)
+for  a  submission  under  subsection  (1)(a)  of  the  new
+section 8, if—
+(i)
+any
+ 
+representations,
+ 
+comments,
+ 
+further
+representations  or  amendments  have  been  made
+under section 6, 6A, 6D, 6F, 6G or 7  before  1
+September 2023 in relation to the exhibited plan; or
+(ii)
+any
+ 
+representations,
+ 
+comments,
+ 
+further
+representations  or  amendments  have  been  made
+under section 6, 6A, 6D, 6F, 6G or 7 (which applies
+because of subsection (3) or (5)) in relation to the
+plan,
+the Board must comply with section 8(1A) of the pre-
+amended Ordinance (pre-amended section 8(1A)); and
+(b)
+for a submission under subsection (1)(b) of the new
+section 8, if—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+54 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(i)
+any
+ 
+representations,
+ 
+comments,
+ 
+further
+representations  or  amendments  have  been  made
+under section 6, 6A, 6D, 6F, 6G or 7  before  1
+September 2023 in relation to the submitted part of
+the exhibited plan; or
+(ii)
+any
+ 
+representations,
+ 
+comments,
+ 
+further
+representations  or  amendments  have  been  made
+under section 6, 6A, 6D, 6F, 6G or 7 (which applies
+because of subsection (3) or (5)) in relation to the
+submitted part of the plan,
+the Board must comply with the pre-amended section
+8(1A) in so far as the submitted part is concerned.
+(14)
+Section 12 of the pre-amended Ordinance applies to a plan
+referred to the Board under section 12 before 1 September
+2023 if a new plan prepared for replacement of the plan
+referred,  or  a  plan  showing  any  amendment  to  the  plan
+referred, is an exhibited plan.
+(15)
+Subject to subsection (16), section 12A of the pre-amended
+Ordinance applies to an application made under section 12A
+before 1 September 2023.
+(16)
+For the purposes of subsection (15)—
+(a)
+the references in section 12A(24)(a), (b)(iii) and (c)(ii) of
+the pre-amended Ordinance to “the Chief Executive in
+Council”  are  to  be  construed  as  references  to  the
+Secretary for Development;
+(b)
+the reference in section 12A(24)(a) of the pre-amended
+Ordinance to “section 12(1)(b)(ii)” is to be construed as a
+reference to section 12(1A)(a)(ii) or (b) of the Amended
+Ordinance;
+(c)
+the  first  reference  in  section  12A(24)(b)  of  the  pre-
+amended Ordinance to “section 12(1)(b)(ii)”  is  to  be
+construed as a reference to section 12(1)(b)(ii) as in force
+before 1 September 2023 or section 12(1A)(a)(ii) or (b)
+of the Amended Ordinance (as the case requires);
+(d)
+the  reference  in  section  12A(24)(b)(iii)  of  the  pre-
+amended Ordinance to “section 12(1)(b)(ii)”  is  to  be
+construed as a reference to section 12(1A)(a)(ii) or (b) of
+the Amended Ordinance;
+(e)
+the  first  reference  in  section  12A(24)(c)  of  the  pre-
+amended Ordinance to “section 12(1)(b)(ii)”  is  to  be
+construed as a reference to section 12(1)(b)(ii) as in force
+before 1 September 2023 or section 12(1A)(a)(ii) or (b)
+of the Amended Ordinance (as the case requires);
+(f)
+the  reference  in  section  12A(24)(c)(ii)  of  the  pre-
+amended Ordinance to “section 12(1)(b)(ii)”  is  to  be
+construed as a reference to section 12(1A)(a)(ii) or (b) of
+the Amended Ordinance; and
+(g)
+the  definitions  of  original  approved  plan,  referred
+approved  plan, relevant approved  plan and  relevant
+draft  plan  in  section  12A(25)  of  the  pre-amended
+Ordinance  are  to  be  respectively  replaced  by  the
+definitions of original approved plan, referred approved
+plan, relevant approved plan and relevant draft plan in
+section 12A(25) of the Amended Ordinance.
+(17)
+Section  16  of  the  pre-amended  Ordinance  applies  to  an
+application made under section 16 before 1 September 2023.
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+55 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------
+(18)
+A reference in section 16A to section 16 includes section 16 as
+applied by subsection (17).
+(19)
+Section 17 of the pre-amended Ordinance applies to—
+(a)
+an application for a review of a decision of the Board
+made under section 16 in respect of an application made
+under section 16(1) before 1 September 2023; and
+(b)
+an application for a review of a decision of the Board
+made under section 16A in respect of an application
+made under section 16A(2) before 1 September 2023.
+(20)
+A  reference  in  section  17  of  the  Amended  Ordinance  to
+section 16 includes section 16 as applied by subsection (17).
+(21)
+A  reference  in  section  17  of  the  Amended  Ordinance  to
+section 16A is to be read with subsection (18).
+(22)
+References in section 17B to section 17 and section 17(6)
+include  section  17  and  section  17(6)  of  the  pre-amended
+Ordinance as applied by subsection (19).
+(23)
+For the purposes of this section—
+(a)
+references to sections 5, 7(1) to (3), 8, 12A, 16 and 16A
+in section 2(5)(a) of the Amended Ordinance include
+references  to  those  sections  in  the  pre-amended
+Ordinance as applied by this section;
+(b)
+references to sections 12A(13) and (15), 16(2J) and (2L)
+and 17(2H) and (2J) in section 2(5)(c) of the Amended
+Ordinance include references to those sections in the pre-
+amended Ordinance as applied by this section;
+(c)
+the power of the Board under section 2A of the Amended
+Ordinance  to  appoint  committees  from  among  its
+members to exercise any of the Board’s powers and
+functions under sections 6B, 6C, 6D, 6E, 6F, 6G and 6H
+includes a power of the Board to appoint committees
+from among its members to exercise any of the Board’s
+powers and functions under sections 6B, 6C, 6D, 6E, 6F,
+6G and 6H of the pre-amended Ordinance as applied by
+this section;
+(d)
+section 2C(2)(a) of the pre-amended Ordinance applies
+in relation to a meeting held under or for the purposes of
+section 6B, 6F, 12A, 16, 16A or 17 of the pre-amended
+Ordinance as applied by this section; and
+(e)
+section 27 of the pre-amended Ordinance applies to any
+document  or  material  that  is  available  for  public
+inspection  under  section  6(4),  6A(4),  6C(1),  6D(4),
+6H(2), 12A(6) or (12), 16(2C) or (2I) or 17(2A) or (2G)
+of the pre-amended Ordinance as applied by this section.
+(24)
+In this section—
+Amended  Ordinance  ( 《_ 修1 O 例》)  means  Cap.  131  as
+amended by the Amendment Ordinance;
+Amendment Ordinance (《修1O例》) means the Development
+(Town  Planning,  Lands  and  Works)  (Miscellaneous
+Amendments) Ordinance 2023 (25 of 2023);
+Cap. 131 (《N131a》) means the Town Planning Ordinance
+(Cap. 131);
+pre-amended Ordinance (《M有O例》) means Cap. 131 as in
+force immediately before 1 September 2023.
+(Added 25 of 2023 s. 66)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+56 of 56
+4/28/25, 22:21
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,1996 @@
+Metadata for pdf/todo/Legislation Act 2021 WA.pdf: {'format': 'PDF 1.7', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Microsoft® Word 2019', 'producer': 'Microsoft® Word 2019', 'creationDate': "D:20240102111513+08'00'", 'modDate': "D:20240102111513+08'00'", 'trapped': '', 'encryption': None, 'country': 'Australia'}
+
+Country found in pdf/todo/Legislation Act 2021 WA.pdf: Australia
+
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+Western Australia 
+Legislation Act 2021 
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page i 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+Western Australia 
+Legislation Act 2021 
+Contents 
+Part 1 — Preliminary 
+1. 
+Short title 
+2 
+2. 
+Commencement 
+2 
+3. 
+Object of this Act 
+2 
+4. 
+Terms used 
+2 
+5. 
+Act binds Crown 
+4 
+6. 
+Application of this Act 
+4 
+7. 
+Relationship with other Acts 
+5 
+Part 2 — Publication of legislation 
+Division 1 — Publication responsibilities 
+8. 
+WA legislation website 
+6 
+9. 
+Purpose of WA legislation website 
+6 
+10. 
+What is published on WA legislation website 
+6 
+11. 
+Versions showing effect of uncommenced 
+amendment or modification or law as modified 
+7 
+12. 
+When law published on WA legislation website 
+7 
+13. 
+WA legislation website unavailable 
+8 
+14. 
+Technical or other requirements for publication on 
+WA legislation website 
+8 
+Division 2 — Official versions 
+15. 
+Official electronic versions 
+9 
+16. 
+Official hard copy versions 
+9 
+Division 3 — Evidentiary matters 
+17. 
+Legal status of official versions 
+10 
+18. 
+Evidence of official versions 
+10 
+19. 
+Evidence of day of publication of laws 
+10 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+ 
+ 
+ 
+ 
+Contents 
+ 
+ 
+page ii 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+20. 
+Evidence of day of Royal Assent 
+10 
+21. 
+Judicial notice 
+10 
+Division 4 — Publication or notification on WA 
+legislation website instead of Gazette 
+22. 
+Requirement or authority to publish or notify in 
+Gazette 
+11 
+Part 3 — Editorial changes to 
+legislation 
+Division 1 — Power to make editorial changes 
+23. 
+Parliamentary Counsel authorised to make editorial 
+changes 
+12 
+24. 
+Delegation 
+12 
+Division 2 — Editorial changes 
+25. 
+Updating references to law of WA or other 
+jurisdictions 
+13 
+26. 
+Things that have been changed or replaced 
+13 
+27. 
+Deemed amendments 
+14 
+28. 
+References to provision of law 
+14 
+29. 
+Clerk’s amendment to Act 
+14 
+30. 
+Gender 
+15 
+31. 
+Numbers, dates, times, quantities, measurements 
+and similar matters 
+15 
+32. 
+Conjunctives and disjunctives 
+16 
+33. 
+Definitions and items 
+16 
+34. 
+Minor errors and inconsistencies 
+16 
+35. 
+Obsolete or redundant provisions 
+17 
+36. 
+Incorporation of certain provisions contained in 
+amending law 
+18 
+37. 
+Numbering and renumbering 
+18 
+38. 
+Format and printing style changes 
+18 
+39. 
+Consequential changes 
+18 
+Division 3 — Other matters 
+40. 
+Effect of editorial changes 
+19 
+41. 
+Recording of editorial changes 
+19 
+42. 
+Annual report to include summary of editorial 
+changes 
+19 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+ 
+ 
+ 
+ 
+Contents 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page iii 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+Part 4 — Miscellaneous 
+43. 
+Regulations 
+20 
+44. 
+Review of Act 
+20 
+Part 5 — Repeal of Reprints Act 1984 
+45. 
+Reprints Act 1984 repealed 
+21 
+46. 
+Status of reprints under repealed Act 
+21 
+Part 6 — Other Acts amended 
+Division 1 — Interpretation Act 1984 amended 
+47. 
+Act amended 
+22 
+48. 
+Section 5 amended 
+22 
+49. 
+Section 10 amended 
+23 
+50. 
+Section 19 amended 
+23 
+51. 
+Section 23 amended 
+23 
+52. 
+Section 24 deleted 
+24 
+53. 
+Section 26 amended 
+24 
+54. 
+Section 41 amended 
+24 
+55. 
+Section 42 amended 
+24 
+Division 2 — Evidence Act 1906 amended 
+56. 
+Act amended 
+24 
+57. 
+Section 3 amended 
+25 
+58. 
+Section 53 amended 
+25 
+59. 
+Section 57 amended 
+25 
+60. 
+Section 58 amended 
+26 
+61. 
+Section 69A amended 
+26 
+62. 
+Section 74 amended 
+26 
+63. 
+Section 75 amended 
+26 
+64. 
+Section 78 amended 
+27 
+Notes 
+Compilation table 
+28 
+Defined terms 
+          
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 1 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+Western Australia 
+Legislation Act 2021 
+An Act —  
+• 
+to provide for public access to Western Australian legislation; 
+and 
+• 
+to provide for the official status of published versions of Western 
+Australian legislation; and 
+• 
+to provide for Western Australian legislation to be kept in an 
+up-to-date form and consistent with current drafting practice; 
+and 
+• 
+to repeal the Reprints Act 1984; and 
+• 
+for related purposes. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 1 
+Preliminary 
+ 
+ 
+s. 1 
+ 
+ 
+page 2 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+Part 1 — Preliminary 
+1. 
+Short title 
+ 
+ 
+This is the Legislation Act 2021. 
+2. 
+Commencement 
+ 
+ 
+This Act comes into operation as follows — 
+ 
+(a) 
+Part 1 — on the day on which this Act receives the 
+Royal Assent; 
+ 
+(b) 
+the rest of the Act — on a day fixed by proclamation. 
+3. 
+Object of this Act 
+ 
+(1) 
+The object of this Act is for Western Australian legislation to be 
+easy to find, use and understand. 
+ 
+(2) 
+This object is to be achieved by —  
+ 
+(a) 
+providing for Western Australian legislation to be made 
+publicly available; and 
+ 
+(b) 
+giving official status to Western Australian legislation in 
+both hard copy and electronic form; and 
+ 
+(c) 
+conferring power on the Parliamentary Counsel to make 
+editorial changes so that, in appropriate cases, Western 
+Australian legislation can be kept up-to-date, 
+modernised and simplified, and errors can be corrected, 
+without the need for the changes to be enacted by 
+Parliament. 
+4. 
+Terms used 
+ 
+ 
+In this Act —  
+ 
+amend —  
+ 
+(a) 
+has the meaning given in the Interpretation Act 1984 
+section 5; and 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Preliminary 
+Part 1 
+ 
+ 
+s. 4 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 3 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+includes —  
+ 
+(i) 
+repeal as defined in that section; and 
+ 
+(ii) 
+relocate; 
+ 
+current drafting practice means the legislative drafting practice 
+for the time being adopted by PCO; 
+ 
+editorial change means a change authorised by Part 3 
+Division 2; 
+ 
+Imperial enactment means —  
+ 
+(a) 
+an Act of the Parliament of England, or of the 
+Parliament of Great Britain or of the Parliament of the 
+United Kingdom; or 
+ 
+(b) 
+an Order in Council, regulation, rule or other legislative 
+instrument made under an Act referred to in 
+paragraph (a); 
+ 
+law means the whole or a part of —  
+ 
+(a) 
+a written law; or 
+ 
+(b) 
+an Imperial enactment that is part of the law of Western 
+Australia because —  
+ 
+(i) 
+an Act of Western Australia adopts the Imperial 
+enactment or the Act under which the Imperial 
+enactment is made; or 
+ 
+(ii) 
+the Imperial enactment applies by paramount 
+force (that is, it expressly or impliedly applies in 
+Western Australia); or 
+ 
+(iii) 
+the Imperial enactment became part of the law of 
+Western Australia on 1 June 1829; 
+ 
+ 
+or 
+ 
+(c) 
+a proclamation that brings 1 or more provisions of an 
+Act into operation; or 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 1 
+Preliminary 
+ 
+ 
+s. 5 
+ 
+ 
+page 4 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+ 
+(d) 
+an instrument made under the Royal prerogative that 
+applies in Western Australia and has legislative effect; 
+ 
+Note for this definition: 
+ 
+ 
+The term written law is defined in the Interpretation Act 1984 
+section 5. 
+ 
+official version, of a law, means —  
+ 
+(a) 
+an electronic version of the law that is an official version 
+under section 15; or 
+ 
+(b) 
+a hard copy version of the law that is an official version 
+under section 16; 
+ 
+PCO means the Parliamentary Counsel’s Office of Western 
+Australia; 
+ 
+prescribed means prescribed by the regulations; 
+ 
+WA legislation website has the meaning given in section 8(1). 
+5. 
+Act binds Crown 
+ 
+ 
+This Act binds the Crown in right of Western Australia and, so 
+far as the legislative power of the Parliament permits, the Crown 
+in all its other capacities. 
+6. 
+Application of this Act 
+ 
+ 
+This Act applies to laws (including this Act) whether passed or 
+made before or after this section comes into operation. 
+ 
+Note for this section: 
+ 
+ 
+Section 10(3) extends the application of this Act to other material if it is 
+published on the WA legislation website. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Preliminary 
+Part 1 
+ 
+ 
+s. 7 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 5 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+7. 
+Relationship with other Acts 
+ 
+ 
+This Act is in addition to, and does not limit the operation of, 
+other Acts that contain provisions about the publication or effect 
+of Western Australian legislation. 
+ 
+Note for this section: 
+ 
+ 
+Those other Acts include the Interpretation Act 1984, the Evidence 
+Act 1906 and the Local Government Act 1995 (which contains 
+provisions about local laws). 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 2 
+Publication of legislation 
+Division 1 
+Publication responsibilities 
+s. 8 
+ 
+ 
+page 6 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+Part 2 — Publication of legislation 
+Division 1 — Publication responsibilities 
+8. 
+WA legislation website 
+ 
+(1) 
+The Parliamentary Counsel must ensure that a website (the 
+WA legislation website) is maintained by, or on behalf of, PCO 
+for the publication of laws. 
+ 
+(2) 
+The uniform resource locator (URL) of the WA legislation 
+website is —  
+ 
+(a) 
+<www.legislation.wa.gov.au>; or 
+ 
+(b) 
+any alternative URL prescribed under subsection (3). 
+ 
+(3) 
+If the URL referred to in subsection (2)(a) cannot be used for 
+technical or other reasons, the regulations may prescribe an 
+alternative URL for the WA legislation website. 
+9. 
+Purpose of WA legislation website 
+ 
+(1) 
+The purpose of the WA legislation website is to provide, in a 
+timely and efficient manner, free public access to accurate, 
+up-to-date and reliable official versions of laws. 
+ 
+(2) 
+The WA legislation website is intended to be a permanent 
+repository of —  
+ 
+(a) 
+laws as originally passed or made; and 
+ 
+(b) 
+updated versions of laws incorporating their 
+amendments and any editorial changes. 
+10. 
+What is published on WA legislation website 
+ 
+(1) 
+The Parliamentary Counsel must publish on the WA legislation 
+website —  
+ 
+(a) 
+Acts as originally passed; and 
+ 
+(b) 
+Acts in operation with their amendments incorporated; 
+and 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Publication of legislation 
+Part 2 
+Publication responsibilities 
+Division 1 
+s. 11 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 7 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+ 
+(c) 
+the prescribed subsidiary legislation as originally made; 
+and 
+ 
+(d) 
+the prescribed subsidiary legislation with its 
+amendments incorporated; and 
+ 
+(e) 
+any other prescribed laws. 
+ 
+(2) 
+The Parliamentary Counsel may publish on the WA legislation 
+website any other material —  
+ 
+(a) 
+that is prescribed; or 
+ 
+(b) 
+that the Parliamentary Counsel considers appropriate for 
+publication on the website. 
+ 
+(3) 
+If material is published on the WA legislation website under 
+subsection (2), this Act applies in relation to the material as if 
+references to a law were references to the material. 
+11. 
+Versions showing effect of uncommenced amendment or 
+modification or law as modified 
+ 
+(1) 
+A version of a law published on the WA legislation website may 
+show 1 or more of the following —  
+ 
+(a) 
+the law as it would be amended by an amendment that 
+has not come into operation; 
+ 
+(b) 
+the law as it would be modified by a modification that 
+has not come into operation; 
+ 
+(c) 
+the law as it is modified by the law or another law. 
+ 
+(2) 
+A version of a law published under subsection (1) must indicate 
+that it is such a version and whether or not the amendments or 
+modifications shown in it are in operation. 
+12. 
+When law published on WA legislation website 
+ 
+(1) 
+A law is published on the WA legislation website —  
+ 
+(a) 
+if it is made accessible in full on the website; or 
+ 
+(b) 
+if notice of its enactment, making or other production is 
+made accessible on the website and it is made accessible 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 2 
+Publication of legislation 
+Division 1 
+Publication responsibilities 
+s. 13 
+ 
+ 
+page 8 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+separately in full on the website or in any other 
+identified location. 
+ 
+(2) 
+The day on which a law is published on the WA legislation 
+website is the day notified in either or both of the following 
+ways —  
+ 
+(a) 
+by showing it on the website; 
+ 
+(b) 
+by showing it in a version of the law published on the 
+website. 
+ 
+(3) 
+The day notified under subsection (2) must be the day on which 
+the law is first published on the WA legislation website under 
+subsection (1), unless section 13(2)(b) applies. 
+13. 
+WA legislation website unavailable 
+ 
+(1) 
+If a law cannot for technical or other reasons be published on 
+the WA legislation website at a particular time, the 
+Parliamentary Counsel may publish it in any alternative manner 
+the Parliamentary Counsel considers appropriate. 
+ 
+(2) 
+If a law is published in an alternative manner under 
+subsection (1) —  
+ 
+(a) 
+it must be published on the WA legislation website as 
+soon as practicable; and 
+ 
+(b) 
+the day notified under section 12(2) must be the day on 
+which it is first published in the alternative manner. 
+ 
+(3) 
+A law published in an alternative manner under subsection (1) 
+has, in the period before its publication on the WA legislation 
+website, the same status as a law published on the website. 
+14. 
+Technical or other requirements for publication on 
+WA legislation website 
+ 
+(1) 
+So that a law (other than an Act) can be published easily and 
+efficiently on the WA legislation website, the Parliamentary 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Publication of legislation 
+Part 2 
+Official versions 
+Division 2 
+s. 15 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 9 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+Counsel may determine requirements that must be met for the 
+law to be accepted for publication. 
+ 
+(2) 
+Without limiting subsection (1), the requirements may relate to 
+the following —  
+ 
+(a) 
+how a law must be provided to PCO for publication; 
+ 
+(b) 
+the form in which a law must be provided. 
+ 
+(3) 
+The Parliamentary Counsel must make the requirements 
+publicly available in the manner the Parliamentary Counsel 
+considers appropriate. 
+Division 2 — Official versions 
+15. 
+Official electronic versions 
+ 
+ 
+An electronic version of a law is an official version if —  
+ 
+(a) 
+it is accessed at, or downloaded from, the WA 
+legislation website in a prescribed format; and 
+ 
+(b) 
+either —  
+ 
+(i) 
+it indicates, in a prescribed way, that it is an 
+official version; or 
+ 
+(ii) 
+the website indicates, in a prescribed way, that 
+such a version is an official version. 
+16. 
+Official hard copy versions 
+ 
+ 
+A hard copy version of a law is an official version if —  
+ 
+(a) 
+it indicates, in a prescribed way, that it is an official 
+version; or 
+ 
+(b) 
+it is produced directly from an official version of the 
+law. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 2 
+Publication of legislation 
+Division 3 
+Evidentiary matters 
+s. 17 
+ 
+ 
+page 10 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+Division 3 — Evidentiary matters 
+17. 
+Legal status of official versions 
+ 
+(1) 
+An official version of a law as originally passed or made is 
+taken to correctly set out the text of the law, unless the contrary 
+is proved. 
+ 
+(2) 
+An official version of a law with amendments incorporated as at 
+a stated date is taken to correctly set out the text of the law as at 
+that date, unless the contrary is proved. 
+ 
+(3) 
+An official version of a law is evidence that any changes made 
+in the version under Part 3 are authorised by that Part. 
+18. 
+Evidence of official versions 
+ 
+ 
+An electronic or hard copy version of a law that purports to be 
+an official version is taken to be an official version, unless the 
+contrary is proved. 
+19. 
+Evidence of day of publication of laws 
+ 
+(1) 
+An official version of a law that shows the day of publication of 
+the law is evidence that the law was published on the day 
+shown. 
+ 
+(2) 
+A notification on the WA legislation website of the day of 
+publication of a law is evidence that the law was published on 
+the day notified. 
+20. 
+Evidence of day of Royal Assent 
+ 
+ 
+An official version of an Act that shows the day on which the 
+Act received the Royal Assent is evidence that the Act received 
+the Royal Assent on the day shown. 
+21. 
+Judicial notice 
+ 
+ 
+All courts and persons acting judicially must take judicial notice 
+of all laws. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Publication of legislation 
+Part 2 
+Publication or notification on WA legislation website instead of 
+Gazette 
+Division 4 
+s. 22 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 11 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+Division 4 — Publication or notification on WA legislation 
+website instead of Gazette 
+22. 
+Requirement or authority to publish or notify in Gazette 
+ 
+(1) 
+If a written law requires or authorises an instrument to be 
+published in the Gazette, it is sufficient if the instrument is 
+published on the WA legislation website instead of in the 
+Gazette. 
+ 
+(2) 
+If a written law requires or authorises an instrument to be 
+notified in the Gazette, it is sufficient if the instrument is 
+notified on the WA legislation website instead of in the Gazette. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 3 
+Editorial changes to legislation 
+Division 1 
+Power to make editorial changes 
+s. 23 
+ 
+ 
+page 12 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+Part 3 — Editorial changes to legislation 
+Division 1 — Power to make editorial changes 
+23. 
+Parliamentary Counsel authorised to make editorial 
+changes 
+ 
+(1) 
+The Parliamentary Counsel may make an editorial change to a 
+law in producing a version of a law. 
+ 
+(2) 
+A version of a law in which the power conferred by 
+subsection (1) is exercised can be produced, even though the 
+law has not been amended since it was passed or made, or since 
+the previous version of the law was produced. 
+ 
+(3) 
+Subsection (1) does not permit a change to the text of a law if 
+the change would change the effect of the law. 
+ 
+(4) 
+Subsection (3) is subject to section 29(2). 
+24. 
+Delegation 
+ 
+(1) 
+The Parliamentary Counsel may delegate the power in 
+section 23(1) to another officer of PCO. 
+ 
+(2) 
+A delegation must be in writing signed by the Parliamentary 
+Counsel. 
+ 
+(3) 
+The exercise by an officer of PCO of a power that has been 
+delegated to the officer under this section is taken to be in 
+accordance with the terms of the delegation unless the contrary 
+is shown. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Editorial changes to legislation 
+Part 3 
+Editorial changes 
+Division 2 
+s. 25 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 13 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+Division 2 — Editorial changes 
+25. 
+Updating references to law of WA or other jurisdictions 
+ 
+(1) 
+In this section —  
+ 
+law includes —  
+ 
+(a) 
+a law of the Commonwealth, another State or a 
+Territory; and 
+ 
+(b) 
+a law of New Zealand. 
+ 
+(2) 
+A reference to a law’s short title or other mode of citation that 
+has been changed can be replaced with the title or mode of 
+citation as changed. 
+ 
+(3) 
+A reference to a law, or to a provision of a law, that is to be 
+read, or to be taken to be amended to read, as a reference to 
+another law or provision can be changed to a reference to the 
+other law or provision. 
+ 
+(4) 
+A reference to a law, or to a provision of a law, that has been 
+replaced can be changed to a reference to the replacement law 
+or provision. 
+26. 
+Things that have been changed or replaced 
+ 
+(1) 
+A reference to a name or title of a body, office, person, place, 
+locality or other thing that has been changed can be replaced 
+with the name or title as changed. 
+ 
+(2) 
+A reference to a body, office, person, place, locality or other 
+thing that has been replaced by another body, office, person, 
+place, locality or thing can be changed to a reference to the 
+replacement body, office, person, place, locality or thing. 
+ 
+(3) 
+A reference to contact details (for example, an address, 
+telephone number, email address or website address) can be 
+changed to reflect changes to those details. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 3 
+Editorial changes to legislation 
+Division 2 
+Editorial changes 
+s. 27 
+ 
+ 
+page 14 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+27. 
+Deemed amendments 
+ 
+ 
+A law can be changed to give effect to a provision of another 
+law that provides that other laws are to be taken to be amended, 
+or to have effect or be construed as if they had been amended, in 
+a specified way. 
+28. 
+References to provision of law 
+ 
+(1) 
+The way in which a provision of a law is referred to can be 
+changed so that it is consistent with current drafting practice. 
+ 
+Examples for this subsection: 
+ 
+1. 
+A reference to “Division 5 of Part 2” can be changed to “Part 2 
+Division 5”. 
+ 
+2. 
+A reference to “subparagraph (a), (b) or (c) of subsection (1) of 
+section 4” can be changed to “section 4(1)(a), (b) or (c)”. 
+ 
+(2) 
+Without limiting subsection (1), referential words can be 
+omitted. 
+ 
+(3) 
+In subsection (2) —  
+ 
+referential words means words that identify the whole or part of 
+a provision (including a schedule) as a provision, or as part of a 
+provision, of the law in which they appear. 
+ 
+Examples for this definition: 
+ 
+ 
+“of this Act”, “by this Act”, “of this regulation”, “the said”, “hereof” 
+“before-mentioned”. 
+29. 
+Clerk’s amendment to Act 
+ 
+(1) 
+This section applies if the Clerk of the Parliaments issues a 
+certificate to the Parliamentary Counsel identifying an 
+amendment of a reference in a provision of an Act to another 
+provision of the Act that —  
+ 
+(a) 
+is an amendment that should have been made as a 
+clerical amendment before the Act received the Royal 
+Assent in consequence of other amendments made to the 
+Act during its passage through Parliament as a Bill; and 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Editorial changes to legislation 
+Part 3 
+Editorial changes 
+Division 2 
+s. 30 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 15 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+is necessary in order to enable the Act to have the 
+operation and meaning that Parliament intended it to 
+have. 
+ 
+(2) 
+A provision of an Act can be amended as identified in a 
+certificate issued under subsection (1) even if the amendment 
+changes the effect of the Act. 
+30. 
+Gender 
+ 
+ 
+Language that indicates or could be taken to indicate a 
+particular gender can be expressed in a different way (whether 
+gender-neutral or gender-free) so that it is consistent with 
+current drafting practice. 
+ 
+Examples for this section: 
+ 
+1. 
+The words “he” or “she” or “he or she” can be replaced with the 
+relevant noun. 
+ 
+2. 
+The words “his” or “her” or “his or her” can be changed to “their”. 
+ 
+3. 
+The word “fireman” can be changed to “firefighter”. 
+ 
+4. 
+The words “Her Majesty the Queen” can be changed to “the 
+Sovereign” or “the Crown”. 
+31. 
+Numbers, dates, times, quantities, measurements and 
+similar matters 
+ 
+(1) 
+Changes can be made to the way numbers, dates, times, 
+quantities, measurements and similar matters, ideas or concepts 
+are referred to or expressed in a law so as to be consistent with 
+current drafting practice. 
+ 
+Examples for this subsection: 
+ 
+1. 
+For words that designate a sum of money, figures and the appropriate 
+symbol can be substituted. 
+ 
+2. 
+A reference in a form to “this [blank] day of [blank] 19..” can be 
+changed to [date]. 
+ 
+3. 
+“Per centum” can be changed to “%”. 
+ 
+(2) 
+Figures that designate a year of the 20th century for the purposes 
+of a formality (for example, as part of the date of completing a 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 3 
+Editorial changes to legislation 
+Division 2 
+Editorial changes 
+s. 32 
+ 
+ 
+page 16 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+form) can be replaced with figures that designate a year of the 
+21st century for those purposes. 
+32. 
+Conjunctives and disjunctives 
+ 
+ 
+Conjunctives and disjunctives can be inserted, omitted or 
+changed so as to be consistent with current drafting practice. 
+ 
+Example for this section: 
+ 
+ 
+If “and” appears at the end only of the second to last paragraph in a 
+series of 4 paragraphs and the context indicates that “and” can be 
+implied at the end of each of the earlier paragraphs in the series, then 
+“and” can be inserted at the end of those paragraphs. 
+33. 
+Definitions and items 
+ 
+(1) 
+A law can be changed so as to be consistent with current 
+drafting practice by changing —  
+ 
+(a) 
+the order of definitions; or 
+ 
+(b) 
+the order of items in a list, schedule, table or similar 
+arrangement. 
+ 
+(2) 
+If a term defined in a law appears in bold italic text and begins 
+with a definite or indefinite article, the law can be changed to —  
+ 
+(a) 
+delete the article; or 
+ 
+(b) 
+change the appearance of the text so that the article is 
+not in bold or italics. 
+34. 
+Minor errors and inconsistencies 
+ 
+(1) 
+In this section —  
+ 
+minor error means any of the following —  
+ 
+(a) 
+a typographical or clerical error; 
+ 
+(b) 
+a grammatical error; 
+ 
+(c) 
+a spelling error; 
+ 
+(d) 
+a punctuation error; 
+ 
+(e) 
+an error in the use of conjunctives or disjunctives; 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Editorial changes to legislation 
+Part 3 
+Editorial changes 
+Division 2 
+s. 35 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 17 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+ 
+(f) 
+a cross-referencing or numbering error; 
+ 
+(g) 
+an error in alphabetical, numerical or alphanumerical 
+ordering; 
+ 
+(h) 
+an error in a reference to a law or a provision of a law; 
+ 
+(i) 
+an error in or arising out of an amendment to a law, 
+including an error relating to the number of times an 
+amendment is expressed to be made; 
+ 
+(j) 
+an error of a similar nature to those mentioned in 
+paragraphs (a) to (i). 
+ 
+(2) 
+A law can be changed so as to correct a minor error in the law. 
+ 
+(3) 
+Grammar or spelling can be changed so as to be consistent with 
+current drafting practice. 
+ 
+(4) 
+Punctuation can be changed or omitted so as to be consistent 
+with current drafting practice. 
+35. 
+Obsolete or redundant provisions 
+ 
+ 
+The following can be omitted from a law —  
+ 
+(a) 
+a provision that has expired or is spent or has had its 
+effect; 
+ 
+(b) 
+a repealing provision, including any list of repealed 
+laws; 
+ 
+(c) 
+words of enactment; 
+ 
+(d) 
+words of attestation or authentication of its making; 
+ 
+(e) 
+any signature of the maker of the law; 
+ 
+(f) 
+a provision as to the commencement of the law; 
+ 
+(g) 
+a provision that consists only of a statement showing the 
+manner in which a law is arranged into Parts or other 
+divisions; 
+ 
+(h) 
+a transitional, savings, validation or other similar 
+provision that applies only to a time or event that has 
+passed; 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 3 
+Editorial changes to legislation 
+Division 2 
+Editorial changes 
+s. 36 
+ 
+ 
+page 18 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+ 
+(i) 
+a provision that is obsolete or redundant because of the 
+making, operation or effect of a law. 
+36. 
+Incorporation of certain provisions contained in amending 
+law 
+ 
+ 
+A transitional, savings, validation or other similar provision that 
+is contained in an amending law can be incorporated as a 
+provision of the law to which it relates. 
+37. 
+Numbering and renumbering 
+ 
+(1) 
+A provision of a law can be numbered or renumbered in a way 
+that is consistent with current drafting practice. 
+ 
+(2) 
+If a provision of a law is numbered or renumbered (including 
+under section 39), a reference in the law or another law to the 
+provision is a reference to the provision as numbered or 
+renumbered. 
+38. 
+Format and printing style changes 
+ 
+ 
+The format and printing style of a law can be changed so as to 
+be consistent with current drafting practice. 
+ 
+Examples for this section: 
+ 
+ 
+Changes can be made to the setting out of provisions, the placement 
+of conjunctives and disjunctives and the use of capital letters, 
+punctuation, hyphens, italics, bolding and quotation marks. 
+39. 
+Consequential changes 
+ 
+ 
+A change can be made to a law that is consequential on any 
+other editorial change made to the law or to another law. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Editorial changes to legislation 
+Part 3 
+Other matters 
+Division 3 
+s. 40 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 19 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+Division 3 — Other matters 
+40. 
+Effect of editorial changes 
+ 
+ 
+If an editorial change is made to a law, the law has effect as if 
+the change had been made by another law that amended the law 
+and commenced on the day on which the change is made. 
+41. 
+Recording of editorial changes 
+ 
+(1) 
+If an editorial change is made to a law, the Parliamentary 
+Counsel must ensure that the change is indicated in a suitable 
+way. 
+ 
+(2) 
+Without limiting subsection (1), an editorial change can be 
+indicated as follows —  
+ 
+(a) 
+by providing a comparison, or the facility to create a 
+comparison, between versions of a law; 
+ 
+(b) 
+by including, in the law in which the change is made, an 
+indication of the change. 
+42. 
+Annual report to include summary of editorial changes 
+ 
+(1) 
+In this section —  
+ 
+Department means the department of the Public Service 
+principally assisting in the administration of this Act. 
+ 
+(2) 
+The annual report submitted by the accountable authority of the 
+Department under the Financial Management Act 2006 Part 5 
+must include a summary of editorial changes made to laws in 
+the financial year to which the report relates. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 4 
+Miscellaneous 
+ 
+ 
+s. 43 
+ 
+ 
+page 20 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+Part 4 — Miscellaneous 
+43. 
+Regulations 
+ 
+ 
+The Governor may make regulations prescribing all matters that 
+are required or permitted by this Act to be prescribed, or are 
+necessary or convenient to be prescribed for giving effect to the 
+purposes of this Act. 
+44. 
+Review of Act 
+ 
+(1) 
+The Minister must review the operation and effectiveness of this 
+Act, and prepare a report based on the review, as soon as 
+practicable after the 5th anniversary of the day on which this 
+section comes into operation. 
+ 
+(2) 
+The Minister must cause the report to be laid before each House 
+of Parliament as soon as practicable after it is prepared, but not 
+later than 12 months after the 5th anniversary. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Repeal of Reprints Act 1984 
+Part 5 
+ 
+ 
+s. 45 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 21 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+Part 5 — Repeal of Reprints Act 1984 
+45. 
+Reprints Act 1984 repealed 
+ 
+ 
+The Reprints Act 1984 is repealed. 
+46. 
+Status of reprints under repealed Act 
+ 
+ 
+A reprint of a written law under the Act repealed by section 45 
+is taken to be an official version of the written law for the 
+purposes of Part 2 Division 3. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 6 
+Other Acts amended 
+Division 1 
+Interpretation Act 1984 amended 
+s. 47 
+ 
+ 
+page 22 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+Part 6 — Other Acts amended 
+Division 1 — Interpretation Act 1984 amended 
+47. 
+Act amended 
+ 
+ 
+This Division amends the Interpretation Act 1984. 
+48. 
+Section 5 amended 
+ 
+(1) 
+In section 5 delete the definitions of: 
+ 
+Gazette or Government Gazette 
+ 
+Government Printer 
+ 
+(2) 
+In section 5 insert in alphabetical order: 
+ 
+ 
+Gazette or Government Gazette means the government 
+gazette of Western Australia (or a supplement to that 
+gazette) —  
+ 
+(a) 
+published, or purporting to be published, under 
+the authority of the Government —  
+ 
+(i) 
+in hard copy form; or 
+ 
+(ii) 
+in electronic form (whether or not 
+originally published in hard copy form); 
+ 
+ 
+and 
+ 
+(b) 
+whether published, or purporting to be 
+published, before or after the commencement of 
+the Legislation Act 2021 section 48(2); 
+ 
+Government Printer means a person authorised by or 
+on behalf of the Government to publish, in hard copy 
+or electronic form, any written law or any other 
+instrument of the Government; 
+ 
+WA legislation website has the meaning given in the 
+Legislation Act 2021 section 8(1); 
+ 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Other Acts amended 
+Part 6 
+Interpretation Act 1984 amended 
+Division 1 
+s. 49 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 23 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+ 
+(3) 
+In section 5 in the definition of proclamation delete “Gazette;” 
+and insert: 
+ 
+ 
+ 
+Gazette or on the WA legislation website; 
+ 
+49. 
+Section 10 amended 
+ 
+ 
+Delete section 10(a) and insert: 
+ 
+ 
+(a) 
+words that indicate or could be taken to indicate 
+a person of a particular gender or sex (for 
+example, he, she, chairman, workman) 
+include —  
+ 
+(i) 
+any individual, regardless of gender or 
+sex; and 
+ 
+(ii) 
+any person that is not an individual; 
+ 
+50. 
+Section 19 amended 
+ 
+ 
+Delete section 19(2)(a) and insert: 
+ 
+ 
+(a) 
+all matters not forming part of the written law 
+that are set out in an official version of the law 
+under the Legislation Act 2021; and 
+ 
+51. 
+Section 23 amended 
+ 
+ 
+In section 23(a) delete “Gazette; or” and insert: 
+ 
+ 
+ 
+Gazette or on the WA legislation website; or 
+ 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 6 
+Other Acts amended 
+Division 2 
+Evidence Act 1906 amended 
+s. 52 
+ 
+ 
+page 24 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+52. 
+Section 24 deleted 
+ 
+ 
+Delete section 24. 
+53. 
+Section 26 amended 
+ 
+ 
+Delete section 26(3) and (4) and insert: 
+ 
+ 
+(3) 
+The citation of or reference to a written law is in all 
+cases to be made in accordance with an official version 
+of the law under the Legislation Act 2021. 
+ 
+54. 
+Section 41 amended 
+ 
+ 
+Delete section 41(1)(a) and insert: 
+ 
+ 
+(a) 
+be published in the Gazette or on the 
+WA legislation website; and 
+ 
+55. 
+Section 42 amended 
+ 
+(1) 
+In section 42(1) delete “Gazette.” and insert: 
+ 
+ 
+ 
+Gazette or on the WA legislation website. 
+ 
+ 
+(2) 
+In section 42(4)(a) and (b) and (5) after “Gazette” insert: 
+ 
+ 
+ 
+or on the WA legislation website 
+ 
+Division 2 — Evidence Act 1906 amended 
+56. 
+Act amended 
+ 
+ 
+This Division amends the Evidence Act 1906. 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Other Acts amended 
+Part 6 
+Evidence Act 1906 amended 
+Division 2 
+s. 57 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 25 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+57. 
+Section 3 amended 
+ 
+ 
+In section 3 in the definition of Government Printer: 
+ 
+(a) 
+after “printing” insert: 
+ 
+ 
+ 
+or publishing 
+ 
+ 
+(b) 
+delete “printer purporting to be the printer authorised to 
+print” and insert: 
+ 
+ 
+ 
+person purporting to be authorised to print or publish 
+ 
+58. 
+Section 53 amended 
+ 
+ 
+In section 53(2): 
+ 
+(a) 
+delete “paper” and insert: 
+ 
+ 
+ 
+document (whether in printed or electronic form) 
+ 
+ 
+(b) 
+after “printed” insert: 
+ 
+ 
+ 
+or published 
+ 
+59. 
+Section 57 amended 
+ 
+ 
+In section 57(1)(b) after “printed” insert: 
+ 
+ 
+ 
+or published 
+ 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Part 6 
+Other Acts amended 
+Division 2 
+Evidence Act 1906 amended 
+s. 60 
+ 
+ 
+page 26 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+60. 
+Section 58 amended 
+ 
+ 
+In section 58(1)(b) after “printed” insert: 
+ 
+ 
+ 
+or published 
+ 
+61. 
+Section 69A amended 
+ 
+ 
+In section 69A: 
+ 
+(a) 
+in paragraph (c) after “printed” insert: 
+ 
+ 
+ 
+or published 
+ 
+ 
+(b) 
+delete “or printed,” and insert: 
+ 
+ 
+ 
+printed, published 
+ 
+62. 
+Section 74 amended 
+ 
+ 
+In section 74 delete “paper” (each occurrence) and insert: 
+ 
+ 
+ 
+document 
+ 
+63. 
+Section 75 amended 
+ 
+ 
+In section 75: 
+ 
+(a) 
+delete “paper purporting to be printed” and insert: 
+ 
+ 
+ 
+document purporting to be printed or published 
+ 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Other Acts amended 
+Part 6 
+Evidence Act 1906 amended 
+Division 2 
+s. 64 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 27 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+delete “paper was printed” and insert: 
+ 
+ 
+ 
+document was printed or published 
+ 
+64. 
+Section 78 amended 
+ 
+ 
+In section 78: 
+ 
+(a) 
+delete “printed paper” and insert: 
+ 
+ 
+ 
+document 
+ 
+ 
+(b) 
+after “printed” (2nd occurrence) insert: 
+ 
+ 
+ 
+or published 
+ 
+ 
+(c) 
+in paragraph (a) delete “printed in such paper” and 
+insert: 
+ 
+ 
+ 
+set out in the document 
+ 
+ 
+(d) 
+in paragraph (b) delete “by such paper” and insert: 
+ 
+ 
+ 
+from the document 
+ 
+ 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+Notes 
+Compilation table 
+ 
+ 
+ 
+ 
+ 
+page 28 
+Official Version 
+As at 01 Jul 2023 
+ 
+Published on www.legislation.wa.gov.au 
+[PCO 00-b0-01] 
+Notes 
+This is a compilation of the Legislation Act 2021. For provisions that have come into 
+operation see the compilation table.  
+Compilation table 
+Short title 
+Number 
+and year 
+Assent 
+Commencement 
+Legislation Act 2021  
+13 of 2021 
+24 Aug 2021 Pt. 1: 24 Aug 2021 (see s. 2(a)); 
+Act other than Pt. 1: 1 Jul 2023 
+(see s. 2(b) and SL 2023/58 
+cl. 2) 
+
+--------------------------------------------------------------------------------
+Legislation Act 2021 
+ 
+ 
+ 
+ 
+Defined terms 
+ 
+ 
+As at 01 Jul 2023 
+Official Version 
+page 29 
+[PCO 00-b0-01] 
+Published on www.legislation.wa.gov.au 
+Defined terms 
+ 
+[This is a list of terms defined and the provisions where they are defined.  
+The list is not part of the law.] 
+Defined term 
+Provision(s) 
+amend .................................................................................................................... 4 
+current drafting practice ........................................................................................ 4 
+Department..................................................................................................... 42(1) 
+editorial change ..................................................................................................... 4 
+Imperial enactment ............................................................................................... 4 
+law.............................................................................................................. 4, 25(1) 
+minor error ..................................................................................................... 34(1) 
+official version ...................................................................................................... 4 
+PCO....................................................................................................................... 4 
+prescribed .............................................................................................................. 4 
+referential words ............................................................................................ 28(3) 
+URL ................................................................................................................. 8(2) 
+WA legislation website ................................................................................ 4, 8(1) 
+ 
+ 
+© State of Western Australia 2023. 
+This work is licensed under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). 
+To view relevant information and for a link to a copy of the licence, visit www.legislation.wa.gov.au. 
+Attribute work as: © State of Western Australia 2023. 
+By Authority: GEOFF O. LAWN, Government Printer 
+
+--------------------------------------------------------------------------------

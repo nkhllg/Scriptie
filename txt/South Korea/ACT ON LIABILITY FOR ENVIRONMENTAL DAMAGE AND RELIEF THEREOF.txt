@@ -1,0 +1,952 @@
+ 
+법령, 판례 등 모든 법령정보를 한 번에 검색 OK !
+ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF
+THEREOF
+[Enforcement Date 19. Apr, 2024.] [Act No.19362, 18. Apr, 2023., Partial
+Amendment]
+환경부 (환경피해구제과-책임보험)044-201-6816
+법제처 국가법령정보센터
+www.law.go.kr
+2025.04.05
+
+--------------------------------------------------------------------------------
+법제처                                                            1                                                       국가법령정보센터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF
+[Enforcement Date 19. Apr, 2024.] [Act No.19362, 18. Apr, 2023., Partial Amendment]
+환경부 (환경피해구제과-책임보험) 044-201-6816
+환경부 (환경피해구제과-피해구제) 044-201-6819
+ 
+            CHAPTER I GENERAL PROVISIONS
+ 
+Article 1 (Purpose) The purpose of this Act is to contribute to providing the victims of
+environmental damage with prompt and unbiased relief by establishing an effective system
+of relief from damage, such as clarifying liability for damage caused by environmental
+pollution, easing burden of proof for victims, etc.
+ 
+Article 2 (Definitions) The terms used in this Act are defined as follows: <Amended on Dec.
+12, 2017; Apr. 18, 2023>
+1. The term "environmental damage" means damage (including a series of damage due to
+the same cause) inflicted on the life, body (including mental harm) or property of any
+third person by air pollution, water pollution, soil pollution, marine pollution, noise,
+vibration, and other causes prescribed by Presidential Decree that occur from installing
+and operating a facility: Provided, That the damage inflicted on a business owner and the
+damage suffered by employees of the business owner in the course of duties shall be
+excluded;
+2.  The  term  "facility"  means  a  facility  referred  to  in  Article  3  to  which  liability  for
+compensation, obligation to report, etc. under this Act apply, including equipment fixed
+to a place of business, warehouse, or land closely related to the installation and
+operation of the facility, and including machines, devices, vehicles, technical equipment,
+and accessory equipment that can be moved to new locations;
+3. The term "business owner" means the owner, installer, or operator who has actual
+control over the relevant facility;
+4. The term "environmental liability insurance" means an insurance contract concluded by a
+business owner and an insurer, stipulating the terms and conditions guaranteeing the
+liability for environmental damage, if occurs, under this Act;
+5. The term "insurer" means an insurance company defined in the Insurance Business Act
+that undertakes to indemnify for environmental damage or guarantees to fulfill liability
+
+--------------------------------------------------------------------------------
+법제처                                                            2                                                       국가법령정보센터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+for damage according to the terms and conditions of an environmental liability insurance
+contract;
+6. The term "policyholder" means an environmental liability insurance policyholder;
+7. The term "operating institution" means an institution prescribed by Ordinance of the
+Ministry of Environment for the conclusion of indemnity contracts under Article 17 (2),
+the operation of relief accounts entrusted under Article 44 (2), etc.;
+8.  The  term  "indemnity  contract"  means  an  indemnity  contract  to  compensate  for
+environmental damage entered into between a business owner and an operating
+institution to assume liability to compensate for environmental damage;
+9. The term "indemnity payment" means an amount paid by an operating institution to a
+business owner according to an indemnity contract entered into under Article 17 (2).
+ 
+Article 3 (Facilities Subject to this Act) Facilities subject to this Act are the following facilities:
+<Amended on Jan. 27, 2016; Jan. 17, 2017; Mar. 31, 2020>
+1. Air pollutant-emitting facilities defined in subparagraph 11 of Article 2 of the Clean Air
+Conservation Act;
+2. Wastewater discharge facilities or wastewater non-discharge facilities defined in
+subparagraph 10 or 11 of Article 2 of the Water Environment Conservation Act;
+3. Waste disposal facilities defined in subparagraph 8 of Article 2 of the Wastes Control
+Act, installed by a waste treatment business operator pursuant to Article 25 (3) of that
+Act and subject to approval or reporting pursuant to Article 29 (2) of that Act;
+4. Construction waste disposal facilities defined in subparagraph 16 of Article 2 of the
+Construction Waste Recycling Promotion Act (including temporary storage facilities
+approved under Article 13-2 (2) of the Construction Waste Recycling Promotion Act);
+5. Livestock excreta-generating facilities defined in subparagraph 3 of Article 2 of the Act
+on the Management and Use of Livestock Excreta, subject to permission or reporting
+pursuant to Article 11 of that Act;
+6. Facilities subject to control of soil contamination defined in subparagraph 3 of Article 2
+of the Soil Environment Conservation Act;
+7. Handling facilities defined in subparagraph 11 of Article 2 of the Chemical Substances
+Control Act, major handling facilities under Article 23 (4) of that Act, or handling facilities
+of a person who engages in hazardous chemical business under Article 27 of that Act;
+
+--------------------------------------------------------------------------------
+법제처                                                            3                                                       국가법령정보센터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+8. Noise and vibration emission facilities defined in subparagraph 3 of Article 2 of the
+Noise and Vibration Control Act;
+9. Discharge facilities defined in subparagraph 2 of Article 2 of the Persistent Pollutants
+Control Act;
+10.  Facilities  prescribed  by  Presidential  Decree  among  marine  facilities  defined  in
+subparagraph  17  of  Article  2  of  the  Marine  Environment  Management  Act;
+11. Other facilities prescribed by Presidential Decree.
+ 
+Article 4 (Responsibilities of State) (1) The State shall prepare effective means of relief from
+environmental damage in compliance with the purpose of this Act, and formulate policies
+necessary for mitigating damage.
+(2) Local governments shall endeavor to prevent environmental damage through the safety
+management of environmental pollutants and facilities in compliance with the policies of
+the State formulated under paragraph (1) and in consideration of regional characteristics.
+(3) Business owners shall personally endeavor to prevent environmental damage arising
+from the installation and operation of facilities, take measures necessary for mitigating
+damage if an environmental pollution accident occurs, and cooperate in effectively
+implementing  the  policies  of  the  State  and  local  governments  formulated  under
+paragraphs  (1)  and  (2).
+ 
+Article 5 (Relationship with Other Statutes and Right to Make Claims) (1) Except as otherwise
+expressly prescribed by this Act, the provisions of the Civil Act shall apply to compensation
+for environmental damage arising from the installation and operation of facilities.
+(2) No right to make a claim under this Act affects any right to make a claim under other
+Acts, such as the Civil Act.
+ 
+            CHAPTER II COMPENSATION FOR ENVIRONMENTAL DAMAGE
+ 
+Article 6 (Business Owners’ No-Fault Liability for Environmental Damage) (1) Where
+environmental damage occurs with regard to the installation and operation of a facility, a
+business owner of the facility shall compensate for the damage: Provided, That this shall
+not apply where such damage occurs due to a war, civil war, riot, natural disaster, or force
+majeure.
+
+--------------------------------------------------------------------------------
+법제처                                                            4                                                       국가법령정보센터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+(2) Where environmental damage occurs due to a situation that occurred before the
+operation of a facility was suspended, a business owner who operated the facility shall
+make compensation pursuant to paragraph (1).
+ 
+Article 7 (Liability Cap for Compensation) The liability cap of a business owner for
+compensation for environmental damage shall be prescribed by Presidential Decree within
+a maximum of 200 billion won, based upon the scale of the relevant facility, the result of
+damage to occur, etc.: Provided, That this shall not apply in any of the following
+circumstances: <Amended on May 26, 2020>
+1. Where environmental damage occurs due to intentional or gross negligence of the
+business owner;
+2. Where the business owner fails to observe relevant Acts and subordinate statutes, such
+as that he or she fails to observe safety management standards related to the installation
+and operation of a facility that has caused damage, he or she discharges pollutants in
+excess of permissible discharge limits, etc.;
+3.  Where  the  business  owner  who  has  caused  environmental  damage  fails  to  take
+adequate  measures  to  prevent  and  control  the  environmental  damage,  such  as
+prevention  of  spread  of  damage.
+ 
+Article 8 (Business Owners’ Duty to Report) (1) Where an environmental pollution accident
+occurs in a facility, the business owner of the facility shall immediately report the
+environmental pollution accident to relevant administrative agencies, such as a regional
+environmental office, Special Metropolitan City, Metropolitan City, Special Self-Governing
+City, Do, Special Self-Governing Province, Si, Gun, or autonomous Gu.
+(2) A business owner shall promptly provide (including share) regular employees and
+residents in the affected area with information on environmental pollution, and take
+emergency measures necessary for preventing damage.
+(3) A business owner shall record and preserve the outline, result, etc. of the occurrence of
+environmental  pollution  accidents,  as  prescribed  by  Ordinance  of  the  Ministry  of
+Environment.
+(4) Where the gravity and urgency of an environmental pollution accident is recognized,
+the Minister of Environment or the head of a local government may order the relevant
+business owner to suspend the operation of the relevant facility.
+
+--------------------------------------------------------------------------------
+법제처                                                            5                                                       국가법령정보센터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+Article 9 (Presumption of Causal Relationship) (1) Where it is highly probable to believe that
+a facility has caused environmental damage exists, such environmental damage is
+presumed to have occurred from the facility.
+(2) Whether sufficient probability referred to in paragraph (1) exists shall be determined in
+consideration  of  the  operation  process  of  a  facility,  equipment  in  use,  types  and
+concentration of input or discharged materials, weather conditions, when and where
+damage has occurred, status of damage, circumstances affecting the occurrence of
+damage, etc. <Amended on May 26, 2020>
+(3) Where a business owner proves that environmental damage has occurred due to other
+reasons, or that he or she has fulfilled the responsibilities under Article 4 (3), such as that
+he or she has observed all provisions of Acts and subordinate statutes governing the
+environment and safety, and all terms and conditions of authorization and permission
+related to the cause of occurrence of the environmental damage prescribed by Presidential
+Decree, and he or she has endeavored to prevent environmental damage, etc., he or she
+shall be exempt from presumption under paragraph (1).
+ 
+Article 10 (Joint and Several Liability) Where at least two business owners have caused
+environmental damage and it is impracticable to identify which business owner is liable for
+the environmental damage, such business owners shall jointly and severally compensate for
+such environmental damage.
+ 
+Article 11 (Claims for Reimbursement) (1) A business owner who, pursuant to Article 6, has
+compensated for environmental damage arising from the installation and operation of a
+facility by a third business owner may make a claim for reimbursement to the third
+business owner.
+(2) Where environmental damage has been caused by the supply of materials and services
+used for the installation and operation of a facility, a business owner may make a claim for
+reimbursement only where the person who has supplied such materials and services is
+intentionally or grossly negligent.
+ 
+Article 12 (Allocation of Liability) (1) Where a business owner prescribed by Ordinance of the
+Ministry of Environment contracts out (including subcontracting; hereafter the same shall
+apply in this Article) the installation and operation of a facility, he or she shall specify the
+ground for contracting out, the plan for contracting out, allocation of liability for
+
+--------------------------------------------------------------------------------
+법제처                                                            6                                                       국가법령정보센터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+reimbursement under this Act, etc. on the written contract and report thereon to the
+authorizing or permitting agency of the facility.
+(2)  Where  any  terms  and  conditions  of  contract  under  paragraph  (1)  has  become
+substantially unfair or are contrary to good customs and public order in light of the overall
+business relationship, such terms and conditions shall be made null and void.
+(3) Where a contractor has contracted out the installation and operation of a facility, he or
+she shall be bound to manage and supervise a contractee (including a subcontractor;
+hereafter the same shall apply in this Article), and shall not unreasonably request the
+contractee to install and operate the facility.
+(4) Where a contractor under paragraph (1) violates this Act with regard to contracted
+duties, the violation of this Act shall also affect a contractee.
+ 
+Article 13 (Methods of Compensation) Environmental damage shall be indemnified
+monetarily: Provided, That where re-instatement is possible without incurring excess
+expenses compared with the amount of indemnity payments, a victim of the environmental
+damage may request re-instatement.
+ 
+Article 14 (Requests to Reimburse for Expenses for Reinstatement) Where environmental
+damage arising from a facility simultaneously causes damage to the natural environment
+defined in subparagraph 1 of Article 2 of the Natural Environment Conservation Act or to
+the natural scenery defined in subparagraph 10 of Article 2 of that Act, a victim of the
+environmental damage may request re-instatement to the relevant business owner or
+directly reinstate the damaged part. If the victim of such environmental damage directly
+reinstates the damaged part, he or she may request the relevant business owner to
+reimburse for expenses incurred in such reinstatement.
+ 
+Article 15 (Right to Request Information) (1) Where it becomes necessary to determine the
+establishment and scope of a right to claim compensation for damage under this Act, a
+victim may request a business owner of the relevant facility to provide information on the
+details provided for in Article 9 (2) or to permit perusal thereof.
+(2) A business owner in receipt of a claim for compensation for damage under this Act
+may request a third business owner to provide information on the details provided for in
+Article  9  (2)  or  to  permit  perusal  thereof  in  order  to  determine  the  scope  of  the
+compensation for damage to a victim or the scope of a right to reimbursement from the
+
+--------------------------------------------------------------------------------
+법제처                                                            7                                                       국가법령정보센터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+third business owner.
+(3) A person in receipt of a request for provision or perusal of information under
+paragraphs (1) and (2) shall provide relevant information or permit perusal thereof.
+(4) Where a request for provision or perusal of information is rejected for reasons of
+business confidentiality, etc., a victim or a business owner under paragraph (1) or (2) may
+request the Minister of Environment to issue an order permitting the provision or perusal
+of information.
+(5) Where a request is made under paragraph (4), the Minister of Environment shall
+determine whether to issue an order permitting the provision or perusal of information
+after deliberation thereon by the Committee on Policies for Relief from Environmental
+Damage established under Article 16, and may issue an order to the relevant business
+owner to provide information or to permit perusal.
+(6) No person who has been provided with information or has perused information
+pursuant to paragraphs (1), (2), and (5) shall misappropriate the information, such as using
+the information for other than the purpose, or providing the information to any third
+persons.
+(7)  Procedures  for  making  requests  for  provision  or  perusal  of  information  under
+paragraphs (1) through (5), and other necessary matters shall be prescribed by Ordinance
+of the Ministry of Environment.
+ 
+Article 16 (Committee on Policies for Relief from Environmental Damage) (1) A Committee on
+Policies for Relief from Environmental Damage (hereinafter referred to as the "Committee")
+shall be established under the jurisdiction of the Minister of Environment to deliberate and
+decide on the following matters concerning environmental liability insurance and relief
+from environmental damage under this Act: <Amended on Dec. 12, 2017; Apr. 18, 2023>
+1. Matters concerning the terms and conditions of environmental liability insurance
+contracts;
+2. Matters concerning the selection of insurers;
+3. Matters concerning support to policyholders;
+4. Matters concerning the methods of, and procedures for, the appraisal of environmental
+damage;
+5. Matters concerning whether environment and safety-related statutes or regulations,
+terms and conditions for authorization and permission, etc. are complied with, which are
+
+--------------------------------------------------------------------------------
+법제처                                                            8                                                       국가법령정보센터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+related  to  the  circumstances  affecting  the  occurrence  of  environmental  damage
+prescribed in Article 9 (2) and the causes of environmental damage prescribed in
+paragraph (3) of that Article;
+6. Matters concerning the provision and perusal of information under Article 15 (4) and (5);
+7. Matters concerning relief from environmental damage under Article 23;
+8. Deliberation on requests for re-examination under Article 33;
+9.  Matters  concerning  the  management  and  operation  of  accounts  for  relief  from
+environmental  damage  under  Article  37;
+10. Other matters referred to the meetings of the Committee by its chairperson.
+(2) The Committee shall consist of up to 20 members, including a chairperson and a vice
+chairperson.
+(3)  The  Vice  Minister  of  Environment  shall  become  the  chairperson  and  the  vice
+chairperson  shall  be  elected  among  and  by  members.
+(4) Members shall be appointed or entrusted by the Minister of Environment from among
+the following:
+1. Persons with at least ten years’ work experience related to the environment;
+2. Judges, prosecutors, or attorneys with at least seven years’ experience;
+3. Persons who have held the post of at least an associate professor or a corresponding
+post at an accredited university or research institute;
+4. Members of the Senior Executive Service with at least three years’ experience;
+5. Persons with abundant knowledge and experience in environmental damage and liability
+insurance;
+6. Persons with abundant knowledge and experience in industrial safety, protection of
+industrial information, etc. who are recommended by the Minister of Trade, Industry and
+Energy;
+7. Persons with abundant knowledge and experience in the marine environment who are
+recommended by the Minister of Oceans and Fisheries.
+(5) The term of office of members shall be two years.
+(6) Article 31 shall apply mutatis mutandis to the exclusion of, challenge to, and recusal of,
+re-examination members with regard to the deliberation on a request for re-examination
+under paragraph (1) 8. <Amended on Dec. 12, 2017>
+(7) Other matters necessary for the composition, operation, etc. of the Committee shall be
+prescribed by Presidential Decree.
+
+--------------------------------------------------------------------------------
+법제처                                                            9                                                       국가법령정보센터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+ 
+            CHAPTER III PURCHASE OF INSURANCE TO COMPENSATE FOR ENVIRONMENTAL
+DAMAGE
+ 
+Article 17 (Obligation to Purchase Environmental Liability Insurance) (1) A business owner
+who installs and operates any of the following facilities shall purchase environmental
+liability insurance:
+1. A facility referred to in subparagraph 1 of Article 3 that discharges specified hazardous
+air pollutants;
+2. A facility referred to in subparagraph 2 of Article 3 that discharges specified hazardous
+water pollutants;
+3. A facility referred to in subparagraph 3 of Article 3 that treats designated wastes;
+4. A facility referred to in subparagraph 6 of Article 3 prescribed by Presidential Decree;
+5. A facility referred to in subparagraph 7 of Article 3 prescribed by Presidential Decree;
+6. A facility falling under subparagraph 10 of Article 3;
+7. Other facilities highly likely to cause environmental damage that are prescribed by
+Presidential Decree.
+(2) A business owner referred to in paragraph (1) shall conclude an indemnity contract with
+an operating institution, as prescribed by Ordinance of the Ministry of Environment, in any
+of the following circumstances:
+1. Where his or her application for environmental liability insurance is rejected;
+2. Where no environmental liability insurance is developed and operated;
+3. Where the terms and conditions of relevant environmental liability insurance become
+substantially unfair and in other circumstances prescribed by Ordinance of the Ministry of
+Environment.
+(3) No business owner referred to in paragraph (1) shall operate any facility unless after he
+or she has purchased environmental liability insurance or has entered into an indemnity
+contract: Provided, That a business owner shall purchase environmental liability insurance
+or enter into an indemnity contract before any of the following facilities is installed:
+<Amended on Dec. 12, 2017>
+1. A facility prescribed by Presidential Decree, among the facilities subject to control of soil
+contamination under subparagraph 6 of Article 3;
+
+--------------------------------------------------------------------------------
+법제처                                                            10                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+2. A facility prescribed by Presidential Decree, among the chemical substance-handling
+facilities under subparagraph 7 of Article 3;
+3. A facility falling under subparagraph 10 of Article 3;
+(4) A business owner shall submit the matters prescribed by Presidential Decree, such as
+the type and size of the relevant facilities, the type and quantity of pollutants emitted
+therefrom, to an insurer or the head of the relevant operating institution when purchasing
+environmental liability insurance on facilities referred to in each subparagraph of paragraph
+(1) or concluding an indemnity contract. <Newly Inserted on Apr. 18, 2023>
+(5) Where a business owner who purchases environmental liability insurance under
+paragraph (1) or concludes an indemnity contract under paragraph (2) intends to obtain
+authorization or permission for, or to file a registration or report on, any change to
+relevant facilities, the existing environmental liability insurance or indemnity contract shall
+be changed to in conformity therewith. <Newly Inserted on Apr. 18, 2023>
+(6) The coverage amount of environmental liability insurance and an indemnity contract,
+scope of coverage, and other necessary matters shall be prescribed by Presidential
+Decree.<Amended on Dec. 12, 2017; Apr. 18, 2023>
+ 
+Article 18 (Insurers) (1) Insurers shall enter into an agreement on the management, etc. of
+environmental liability insurance business with the Minister of Environment after
+deliberation by the Committee. <Amended on Apr. 18, 2023>
+(2) Where it is necessary for efficiently operating the environmental liability insurance
+business and diversifying risks, the Minister of Environment may form an environmental
+liability insurance business group (hereinafter referred to as "insurance business group") for
+which multiple insurers are jointly responsible.
+(3) Where a business owner referred to in Article 17 (1) intends to purchase environmental
+liability insurance, no insurer shall refuse to conclude a contract unless the grounds
+prescribed by Presidential Decree exist, such as suspension of operation.
+(4)  Where  a  business  owner  is  highly  likely  to  cause  environmental  damage  or  in
+circumstances prescribed by Presidential Decree, multiple insurers may jointly conclude an
+environmental liability insurance contract under Article 17 (1), notwithstanding paragraph
+(3). In such case, the insurers shall inform the business owner of procedures for concluding
+a joint contract and insurance premiums.
+
+--------------------------------------------------------------------------------
+법제처                                                            11                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+(5)  Where  multiple  insurers  form  an  insurance  business  group,  they  shall  select  a
+representative  insurer.
+(6)  Matters  necessary  for  entering  into  an  agreement  on  the  management,  etc.  of
+environmental liability insurance business under paragraph (1), formation of an insurance
+business group, selection of a representative insurer under paragraph (5), and other
+matters shall be prescribed by Ordinance of the Ministry of Environment.<Amended on
+Apr. 18, 2023>
+ 
+Article 19 (Operation and Management of Environmental Liability Insurance) (1) To increase
+business owners’ endeavor to mitigate environmental damage, the Minister of Environment
+may determine standards for deductibles to be borne by business owners in environmental
+liability insurance after deliberation thereon by the Committee.
+(2)Where an authorizing or permitting (including registration, reporting, and modifications;
+hereinafter the same shall apply) agency of facilities referred to in Article 17 (1) grants
+authorization of, or permission for, the facilities, it shall verify whether the relevant business
+owner has purchased environmental liability insurance or has entered into an indemnity
+contract that meets the standards under this Act. In such cases, the head of an authorizing
+or permitting agency may request the insurers or the head of the operating institution to
+provide necessary data or information. <Amended on Apr. 18, 2023>
+(3) The business owner of any of the facilities referred to in Article 17 (1) shall submit a
+certificate of environmental liability insurance to the authorizing or permitting agency of
+such facilities.
+(4) Every insurer shall give notice to a business owner who has purchased environmental
+liability insurance that the environmental liability insurance is expiring, between 75 days to
+30 days, and 30 days to 10 days respectively, before the expiration of such environmental
+liability insurance: Provided, That this shall not apply in any of the following circumstances:
+1. Where the period of the insurance contract is less than one month;
+2. Where the business owner renews the insurance contract with the former insurer;
+3. Where the insurer becomes aware of that the business owner has concluded a new
+contract with a third insurer.
+(5) Where a business owner bound to purchase environmental liability insurance concludes
+or terminates an environmental liability insurance contract, the relevant insurer shall notify
+an authorizing or permitting agency or relevant specialized institution entrusted by the
+
+--------------------------------------------------------------------------------
+법제처                                                            12                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+Minister of Environment pursuant to Article 44 (3) with management duties, such as
+purchase and termination of environmental liability insurance, of such fact in the manner
+prescribed by Ordinance of the Ministry of Environment. <Amended on Dec. 12, 2017>
+(6) An insurer shall make profits and losses of environmental liability insurance transparent
+by keeping the accounting of the environmental liability insurance separately from other
+accounts.
+ 
+Article 20 (Advance Payment of Some of Insurance Proceeds) (1) A victim may make a direct
+claim for insurance proceeds to an insurer.
+(2) Upon the expiration of the period prescribed by Presidential Decree from the date a
+claim is made under paragraph (1), an insurer shall make an advance payment of some of
+the estimated insurance proceeds to the victim, at the request of the victim, even before
+insurance proceeds payable are determined. <Amended on May 26, 2020>
+(3) Standards for advance payments under paragraph (2) shall be prescribed by Ordinance
+of the Ministry of Environment.
+ 
+Article 20-2 (Investigation of Damage and Assessment of Damages) (1) Where it is deemed
+necessary to compensate through environmental liability insurance because a facility
+insured for environmental liability insurance is found to have caused environmental
+damage of at least the scale prescribed by Presidential Decree from an epidemiological
+investigation under Article 15 (2) of the Environmental Health Act or a health impact
+investigation by a petition under Article 17 of that Act, the Minister of Environment may
+demand an insurer to investigate the damage and to assess the amount of damage
+(hereinafter referred to as "damage investigation, etc.").
+(2) The Minister of Environment may conduct a damage investigation, etc. in cases
+prescribed by Presidential Decree, such as where an insurer fails to commence the damage
+investigation, etc. without good reason, despite a request for the damage investigation,
+etc. under paragraph (1).
+(3) Where the Minister of Environment conducts a damage investigation, etc., pursuant to
+paragraph (2), he or she shall notify an insurer, the insured, and the victim of the fact that
+he or she has commenced the investigation and the results thereof.
+(4) Specific matters relating to the methods and procedures for damage investigations, etc.
+under paragraph (2) and other relevant matters shall be prescribed by Ordinance of the
+
+--------------------------------------------------------------------------------
+법제처                                                            13                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+Minister of Environment.
+[This Article Newly Inserted on Apr. 18, 2023]
+ 
+Article 21 (Preferential Payment Made to Holders of Right to Claim Compensation for
+Damage) (1) A victim has a right to be indemnified in preference to other creditors when
+claiming compensation for damage. <Amended on May 26, 2020>
+(2) No right to claim insurance proceeds under this Act shall be transferred, seized or
+provided as security.
+ 
+Article 22 (Re-insurance Business) (1) The Government may run re-insurance business
+covering environmental liability insurance.
+(2) The Minister of Environment shall enter into an agreement with insurers that intends to
+purchase re-insurance.
+(3) Matters necessary for the operation of re-insurance business, such as re-insurance
+premiums, re-insurance proceeds, and selection of reinsurers, shall be prescribed by
+Presidential Decree.
+(4)  The  Minister  of  Environment  may  entrust  an  operating  institution  with  matters
+concerning the operation of re-insurance business and the conclusion of agreements under
+paragraphs (1) and (2).
+ 
+            CHAPTER IV RELIEF FROM ENVIRONMENTAL DAMAGE
+ 
+Article 23 (Relief from Environmental Damage) (1) Where a victim fails to fully or partially
+receive compensation for environmental damage on any of the following grounds, the
+Minister of Environment may pay money for relief from environmental damage (hereinafter
+referred to as "relief money") to the victim or his or her bereaved family members
+(hereinafter referred to as "victim, etc."): <Amended on May 26, 2020>
+1. Where a person who causes environmental damage is unknown, his or her existence is
+not obvious, or he or she is insolvent;
+2. Where the relief money exceeds the liability cap for compensation under Article 7.
+(2) Notwithstanding paragraph (1), the Minister of Environment may make an advance
+payment of relief money to a victim, etc. at his or her request in any of the following
+circumstances:
+
+--------------------------------------------------------------------------------
+법제처                                                            14                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+1. Where an environmental liability insurance contract under Article 17 (1) or indemnity
+contract covering environmental damage has not been concluded or has lost effect;
+2. Where an insurer fails to make an advance payment of some of insurance proceeds,
+notwithstanding Article 20 (2);
+3. Other cases deemed necessary by the Minister of Environment.
+(3) The kinds and maximum limit of relief money, and other matters necessary for paying
+relief money shall be prescribed by Presidential Decree.
+(4) The Minister of Environment that has paid relief money to a victim on the grounds
+provided for in paragraph (1) 1 or (2) for environmental damage for which a business
+owner is responsible to compensate may claim a reimbursement to the business owner
+within the liability cap for compensation under Article 7 and the relief money paid.
+<Amended on Dec. 12, 2017>
+ 
+Article 24 (Environmental Damage Relief Council) (1) An Environmental Damage Relief
+Council (hereinafter referred to as the "Council") shall be established under the Minister of
+Environment to deliberate and decide on matters concerning the payment of relief money.
+<Amended on Dec. 12, 2017>
+(2) To survey and research into matters necessary for deliberating and deciding on matters
+concerning the payment of relief money under paragraph (1), the Minister of Environment
+may establish and operate an environmental damage inspection team (hereinafter referred
+to as the "inspection team"). <Amended on Dec. 12, 2017>
+(3) Matters necessary for the composition, operation, etc. of the Council and the inspection
+team shall be prescribed by Presidential Decree.
+ 
+Article 25 (Filing Applications for Relief Money and Payment thereof) (1) A victim, etc.
+intending to receive relief money shall file an application for payment of relief money with
+the Minister of Environment. <Amended on Dec. 12, 2017>
+(2) Within 30 days from the receipt of an application filed under paragraph (1), the Minister
+of Environment shall inspect (hereinafter referred to as "preliminary inspection") whether a
+victim, etc. meets the requirements for payment of relief money (hereinafter referred to as
+"requirements for payment") and notify the victim, etc. of the result: Provided, That it may
+extend the period by up to 15 days for justified reasons. <Amended on Dec. 12, 2017>
+
+--------------------------------------------------------------------------------
+법제처                                                            15                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+(3) Where it is found that a victim, etc. meets the requirements for payment by a
+preliminary inspection, and has filed an application for advance payment, the Minister of
+Environment may make a partial advance payment of relief money to the victim, etc.
+following deliberation and decision thereon by the Council. <Amended on Dec. 12, 2017>
+(4) Where it is found that a victim, etc. meets the requirements for payment by a
+preliminary inspection, the Minister of Environment shall conduct a main inspection of
+damage and notify the victim, etc. of the decision on whether relief money is to be paid,
+the degree of damage, etc., following deliberation and decision thereon by the Council,
+within 60 days from the date the result of the preliminary inspection is notified: Provided,
+That it may extend the said period by up to 30 days where it is impracticable to make a
+decision on whether to pay relief money for justified reasons, such as medical reasons.
+<Amended on Dec. 12, 2017>
+(5) The Minister of Environment shall pay relief money within 30 days from the date it has
+decided to pay relief money: Provided, That it may extend the said period by up to 15
+days  if  it  is  impracticable  to  pay  relief  money  due  to  extenuating  circumstances.
+<Amended  on  Dec.  12,  2017>
+(6) Methods of filing applications under paragraph (1), the details and methods of
+conducting preliminary and main inspections, standards for making advance payments, and
+degree of damage under paragraphs (2) through (4), and other necessary matters shall be
+prescribed by Ordinance of the Ministry of Environment.
+ 
+Article 26 (Restrictions on Payment of Relief Money) (1) Where a person entitled to relief
+money is deemed to have aggravated the condition of his or her illness or to have
+hindered the cure of his or her illness by intention or gross negligence, the Minister of
+Environment may suspend the payment of all or part of relief money. <Amended on Dec.
+12, 2017>
+(2) Where a person entitled to relief money is deemed to have recovered from his or her
+illness, the Minister of Environment may suspend the payment of relief money. <Amended
+on Dec. 12, 2017>
+(3) Where the Minister of Environment suspends the payment of relief money pursuant to
+paragraph (1) or (2), he or she shall, without delay, notify the relevant victim of such fact.
+<Amended on Dec. 12, 2017>
+
+--------------------------------------------------------------------------------
+법제처                                                            16                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+(4) Matters necessary for restricting the payment of relief money shall be prescribed by
+Presidential Decree.
+ 
+Article 27 (Scope of Bereaved Family Members and Priority Order) (1) Bereaved family
+members entitled to relief money shall be limited to a victim’s spouse (including a person
+in a de facto marital relationship), children, parents, grandchildren, grandparents, brothers,
+and sisters who live together with the victim as at the time of his or her death. <Amended
+on May 26, 2020>
+(2) The priority order of bereaved family members entitled to relief money shall be as
+enumerated in paragraph (1): Provided, That in the case of parents, foster parents shall be
+prioritized, and biological parents given lower priority.
+(3) In defining the scope of bereaved family members under paragraph (1), a fetus shall be
+deemed already born as at the time of death of a victim.
+(4) Where at least two bereaved family members entitled to relief money under paragraph
+(1) are given the same priority, equally divided relief money shall be paid to such bereaved
+family members.
+(5) No bereaved family member is entitled to relief money in any of the following cases:
+<Amended on May 26, 2020>
+1. Where he or she intentionally causes the death of a victim;
+2. Where he or she intentionally causes the death of a person who is to become a
+bereaved family member entitled to relief money due to the death of a victim and is
+expected to be prioritized or in the same priority order before the death of the victim;
+3. He or she intentionally causes the death of a bereaved family member entitled to relief
+money who is prioritized or is the same priority order after the death of a victim.
+ 
+Article 28 (Making Requests for Examinations) (1) A person dissatisfied with a decision, etc.
+on any of the following (hereinafter referred to as "decision, etc.") may make a request for
+examination to the Minister of Environment: <Amended on Dec. 12, 2017>
+1. Matters concerning the results of preliminary inspections under Article 25 (2);
+2. Matters concerning decisions to pay relief money under Article 25 (4);
+3. Matters concerning the amount recovered under Article 37 (4).
+(2) A request for examination referred to in paragraph (1) shall be made within 90 days
+from the date a person learns that a decision, etc. has been made: Provided, That the
+
+--------------------------------------------------------------------------------
+법제처                                                            17                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+period during which a request for examination cannot be made due to a natural disaster,
+war, incident, or any other force majeure event shall be excluded from the period given for
+making a request for examination. <Amended on May 26, 2020>
+(3) Matters necessary for procedures for, methods of making requests for examinations,
+decision-making, giving notice of decisions, etc. shall be prescribed by Ordinance of the
+Ministry of Environment.
+ 
+Article 29 (Relief Money Review Committee) (1) A relief money review committee (hereinafter
+referred to as the "review committee") comprised of relevant specialists, etc. shall be
+established under the Minister of Environment to deliberate on requests for examinations
+made under Article 28. <Amended on Dec. 12, 2017>
+(2) The review committee shall be comprised of between 9 to 15 members, including a
+chairperson.
+(3) The term of office of members of the review committee shall be two years, which may
+be renewed.
+(4) Other matters necessary for the composition and operation of the review committee
+shall be prescribed by Presidential Decree.
+ 
+Article 30 (Review of, and Decisions on, Requests for Examinations) (1) The Minister of
+Environment shall make a decision on a request for examination after deliberation thereon
+by the review committee within 30 days from the date the request for examination is made
+under Article 28: Provided, That such period may be extended by up to 30 days only once
+if a decision cannot be made within the period due to any unavoidable cause. <Amended
+on Dec. 12, 2017; May 26, 2020>
+(2) Where necessary for reviewing a request for examination, the Minister of Environment,
+at the application of a requester or ex officio, may require: <Amended on Dec. 12, 2017>
+1. A requester or interested person to appear at a designated place to inquire of him or
+her or state his or her opinions;
+2. A requester or interested person to submit documents or other items that can be used
+as evidence;
+3. A third party with expertise or experience to conduct appraisal or diagnosis.
+ 
+Article 31 (Exclusion of, Challenge to, or Recusal of, Members of Review Committee) (1) A
+member of the review committee shall be excluded from the review and decision-making
+
+--------------------------------------------------------------------------------
+법제처                                                            18                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+of a case in any of the following cases: <Amended on May 26, 2020>
+1. Where the member, or his or her current or former spouse becomes a party to the case,
+or is a joint holder of any right or a duty holder in respect of the case;
+2. Where the member is a current or former relative as provided in Article 777 of the Civil
+Act of a party to the case;
+3. Where the member gives testimony or appraisal in respect of the case;
+4. Where the member is or was involved in the case as an agent of a party to the case;
+5. Where the member is involved in the decision, etc. from which the case arose.
+(2) Where a party to a case anticipates impartial review and decision-making from a
+member of the review committee, it may file a motion for challenge to the member.
+(3) In cases falling under paragraph (1) or (2), a member of the review committee may
+recuse himself or herself from the review and decision-making of a case.
+ 
+Article 32 (Making Requests for Re-Examination) (1) A person dissatisfied with a decision
+made under Article 30 (1) may make a request for re-examination to the Minister of
+Environment. <Amended on Dec. 12, 2017>
+(2) A request for re-examination referred to in paragraph (1) shall be made within 90 days
+from the date a person learns that a decision has been made under Article 30 (1):
+Provided, That the period during which a request for re-examination cannot be made due
+to a natural disaster, war, incident, or any other force majeure event shall be excluded from
+the period given for making a request for re-examination. <Amended on May 26, 2020>
+ 
+Article 33 (Review of, and Adjudication on, Requests for Re-examination) (1) Article 30 shall
+apply mutatis mutandis to the review of, and adjudication on requests for re-examination.
+In such case, "date a request for examination is made under Article 28" shall be construed
+as "date a request for re-examination is made under Article 32", "request for examination
+after deliberation thereon by the review committee" as "request for re-examination after
+deliberation thereon by the Committee", and "decision" as "adjudication", respectively.
+<Amended on Dec. 12, 2017>
+(2) An administrative litigation may be filed against the Ministry of Environment as a party
+concerned over an adjudication made under paragraph (1) within 60 days from the receipt
+of a written adjudication.
+
+--------------------------------------------------------------------------------
+법제처                                                            19                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+Article 34 (Compensation for Damage and Relationship with Other Relief) (1) No relief money
+shall be paid to any victim or his or her bereaved family member if the victim or his or her
+bereaved family member is entitled to compensation for damage, relief, etc. under this Act
+or other Acts and subordinate statutes on the ground of the relevant environmental
+damage.
+(2) Where a person entitled to relief money has already received compensation, relief, etc.
+corresponding to such relief money for the same reason pursuant to the Civil Act or other
+Acts and subordinate statutes, he or she shall be paid relief money after deducting
+compensation, relief, etc. already received.
+(3) Where litigation is pending over a case for which a request for relief money is filed,
+deliberation on relief money over the case may be suspended by decision of a deliberation
+committee.
+ 
+Article 35 (Account for Relief from Environmental Damage) (1) The Minister of Environment
+may open and operate an account for relief from environmental damage (hereinafter
+referred to as "relief account") to cover finances necessary for making indemnity payments
+under indemnity contracts, relief money, etc. <Amended on Apr. 18, 2023>
+(2) The relief account shall be operated with the following: <Amended on Dec. 12, 2017>
+1. Re-insurance premiums;
+2. Amounts of an indemnity contract;
+3. Revenues from the operation of the relief account and other revenues;
+4. Loans obtained under paragraph (3);
+5. Indemnity money received by making a claim for reimbursement under Article 23 (4);
+6. Re-insurance proceeds recovered or relief money recovered under Article 37 (4);
+7. Donations from individuals, corporations, or organizations;
+8. Contributions from the Government or entities other than the Government.
+(3) Where necessary for operating the relief account, the Minister of Environment may
+obtain loans from financial institutions at the expense of the relief account. <Amended on
+Apr. 18, 2023>
+(4) Notwithstanding Article 5 (2) of the Act on Collection and Use of Donations, the
+Minister of Environment may receive voluntarily donated money and items insofar as they
+serve the purpose of relief from environmental damage. <Amended on Apr. 18, 2023>
+
+--------------------------------------------------------------------------------
+법제처                                                            20                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+(5) The Minister of Environment shall manage money and items donated under paragraph
+(4) by opening a separate account. <Amended on Apr. 18, 2023>
+ 
+Article 36 (Uses of Relief Account) The relief account shall be used to:
+1. Make indemnity payments under indemnity contracts;
+2. Make payments or advance payments of relief money;
+3. Repay principal and interest of loans under Article 35 (3);
+4. Disburse expenses (including entrustment expenses) incurred in managing and operating
+the relief account;
+5. Pay re-insurance premiums;
+6. Surveys and research to appraise environmental damage, mitigate damage, etc.;
+7. Disburse expenses incurred in maintaining and improving the system for relief from
+environmental damage.
+ 
+Article 37 (Management and Operation of Relief Account) (1) The Minister of Environment
+shall operate assets of the relief account separately from other assets. <Amended on Apr.
+18, 2023>
+(2) The Minister of Environment may accumulate the remaining funds in the relief account
+that are not used for relief money, etc. during the relevant year to use it for relief duties
+for the following year. <Amended on Apr. 18, 2023>
+(3) The Minister of Environment may operate surplus funds in the relief account using the
+methods prescribed by Presidential Decree. <Amended on Apr. 18, 2023>
+(4) Where the Minister of Environment has erroneously paid relief money or a victim, etc.
+have been paid relief money by fraud or improper means, he or she shall recover the full
+amount paid (referring to two times the amount paid if a victim, etc. are paid by fraud or
+improper means) and pay it into the relief account. <Amended on Apr. 18, 2023>
+(5) Where a person liable to pay back the relief money under paragraph (4) fails to pay it
+by the due date, the Minister of Environment shall recover the relief money in the same
+manner as delinquent national taxes are collected, with the approval of the Minister of
+Environment. <Amended on Apr. 18, 2023>
+ 
+
+--------------------------------------------------------------------------------
+법제처                                                            21                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+            CHAPTER V SUPPLEMENTARY PROVISIONS
+ 
+Article 38 (Building and Operation of Computer System) (1) In order to utilize administrative
+information necessary for performing duties, such as granting authorization and
+permission, and statistics on administrative disposition, in formulating policies on, and
+conducting surveys and research on environmental liability insurance, the Minister of
+Environment may build and operate a computer system.
+(2) In order to efficiently manage business owners who have not purchased environmental
+liability insurance, the Minister of Environment may build and operate a computer system
+for environmental liability insurance computer by interconnecting the computer system
+built and operated pursuant to paragraph (1) and computer systems managed and
+operated by insurers, relevant organizations, etc.
+(3) In order to build and operate the computer system under paragraph (1) and the
+computer system for environmental liability insurance under paragraph (2), the Minister of
+Environment may request necessary data and information from authorizing or permitting
+agencies, insurers, relevant organizations, etc. In such cases, an entity in receipt of a
+request for necessary data or information shall comply with such request except in
+exceptional circumstances.
+(4) In order to build and operate the computer system under paragraph (1), the Minister of
+Environment may use:
+1.  Disaster  records  prepared  pursuant  to  Article  70  of  the  Framework  Act  on  the
+Management  of  Disasters  and  Safety;
+2. Data on business registration under Article 8 of the Value-Added Tax Act;
+3. Data prescribed by Presidential Decree among the data on policyholders under Article 5
+of the Act on the Collection of Insurance Premiums for Employment Insurance and
+Industrial Accident Compensation Insurance.
+ 
+Article 38-2 (Fact-Finding Survey on Facilities) (1) In order to prevent environmental damage,
+the Minister of Environment may conduct a fact-finding survey on environmental safety
+control of facilities subject to environmental liability insurance.
+(2) Detailed objects, methods, etc. of fact-finding surveys on environmental safety control
+under paragraph (1) shall be prescribed by Ordinance of the Ministry of Environment.
+
+--------------------------------------------------------------------------------
+법제처                                                            22                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+[This Article Newly Inserted on Apr. 18, 2023]
+ 
+Article 39 (Submission of Data, Inspections, and Reporting) (1) Where deemed necessary to
+soundly operate environmental liability insurance and to protect policyholders and the
+insured, the Minister of Environment may require insurers to report on the status of
+conducting insurance business or to submit relevant documents.
+(2) If deemed necessary, the Minister of Environment may order a business owner or a
+person entrusted with authority pursuant to Article 44 (2) and (3) to report or require
+subordinate public officials to enter the office, factory, etc. of such business owner, etc. to
+inspect relevant books, documents, or other necessary items, or to inquire of interested
+parties. <Amended on Dec. 12, 2017>
+(3) Any public official who conducts an inspection or makes inquires under paragraph (2)
+shall carry an identification indicating his or her authority and present it upon request by
+interested parties.
+(4)  Insurers  shall  submit  financial  statements,  business  reports,  etc.  related  to
+environmental liability insurance to the Minister of Environment and operating institution,
+as prescribed by Ordinance of the Ministry of Environment.
+ 
+Article 40 (Scientific Surveys and Research) (1) The Minister of Environment shall formulate
+policies to promote scientific surveys and research related to the prevention of
+environmental damage, the environmental liability insurance system, etc. and the
+development of relevant technologies.
+(2) The Minister of Environment shall formulate a plan to educate and train experts
+necessary  for  operating  environmental  liability  insurance,  such  as  appraisal  of
+environmental  damage.
+(3) In order to encourage business owners to purchase environmental liability insurance
+and revitalize environmental liability insurance, the Minister of Environment may develop
+and disseminate insurance products for facilities, other than facilities subject to mandatory
+purchase of environmental liability insurance under the subparagraphs of Article 17 (1).
+(4) The Minister of Environment may conduct a pilot project if he or she intends to
+introduce a new insurance product or in other necessary circumstances.
+(5) The Minister of Environment may provide support necessary for conducting scientific
+surveys and research, training experts, and conducting pilot projects under paragraphs (1)
+
+--------------------------------------------------------------------------------
+법제처                                                            23                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+through (4).
+ 
+Article 41 (Subsidization) (1) The State may provide partially subsidize insurance premiums
+borne by an environmental liability insurance policyholder within budgetary limits to a
+business owner who conscientiously performs environmental management duties under
+relevant Acts and subordinate statutes among small enterprises as defined in Article 2 (2)
+of the Framework Act on Small and Medium Enterprises.
+(2) Standards for business owners eligible for subsidization under paragraph (1), and other
+necessary matters shall be prescribed by Presidential Decree.
+ 
+Article 42 (Support for Litigation to Socially Disadvantaged Classes) (1) The Minister of
+Environment may provide support to victims in socially disadvantaged classes prescribed
+by Presidential Decree, such as low-income earners, senior citizens, and the weak, and
+persons with disabilities, in filing a litigation seeking compensation for damage related to
+the liability for compensation under Article 6.
+(2) The Minister of Environment may operate an attorney group supporting environmental
+damage litigation (hereinafter referred to as "litigation support group") to provide support
+under paragraph (1).
+(3)  Matters  necessary  for  the  details  of  support,  methods  of  applying  for  support,
+formation and operation of a litigation support group under paragraphs (1) and (2) shall
+be prescribed by Ordinance of the Ministry of Environment.
+ 
+Article 43 (Administrative Dispositions) (1) The Minister of Environment may order a business
+owner who installs and operates a facility in violation of Article 17 (3) or who fails to
+change environmental liability insurance, etc. in violation of Article 17 (5) to suspend the
+operation of the relevant facility for a specified period not exceeding six months.
+<Amended on Apr. 18, 2023>
+(2) The effect of an administrative disposition under paragraph (1) shall be succeeded by a
+transferee of the relevant facility.
+(3) Standards for administrative dispositions under paragraph (1) shall be prescribed by
+Presidential Decree.
+ 
+Article 44 (Delegation and Entrustment of Authority) (1) Part of the authority of the Minister
+of Environment under this Act may be delegated to Mayors/Do Governors, the heads of
+
+--------------------------------------------------------------------------------
+법제처                                                            24                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+affiliated institutions, or the heads of regional marine environmental agencies, as
+prescribed by Presidential Decree. <Amended on Dec. 12, 2017; Apr. 18, 2023>
+(2) The Minister of Environment may entrust the duties referred to in Articles 23 through
+26, 28 through 30, 35, and 37 to the head of an operating institution. <Newly Inserted on
+Dec. 12, 2017; Apr. 18, 2023>
+(3) Except as provided in paragraphs (1) and (2), part of the duties of the Minister of
+Environment under this Act may be entrusted to the heads of relevant specialized
+institutions, as prescribed by Presidential Decree. <Amended on Dec. 12, 2017>
+ 
+Article 45 (Information Users’ Obligation) No person entrusted with the duties pursuant to
+Article 44 (2) and (3), institution entrusted with the calculation of insurance premium rates
+and the appraisal of damage, and person engaged in the affairs concerning environmental
+liability insurance and relief accounts shall divulge any information he or she has become
+aware of in the course of performing his or her duties or misappropriate it, such as
+providing it to any third person. <Amended on Dec. 12, 2017>
+ 
+Article 46 (Legal Fiction as Public Officials in Application of Penalty Provisions) Persons
+performing in the duties entrusted pursuant to Article 44 (2) and (3) and insurers under
+this Act shall be deemed public officials in applying Articles 129 through 132 of the
+Criminal Act. <Amended on Dec. 12, 2017>
+ 
+            CHAPTER VI PENALTY PROVISIONS
+ 
+Article 47 (Penalty Provisions) (1) Any person who receives relief money by fraud or other
+improper means shall be punished by imprisonment with labor for up to two years, or by a
+fine not exceeding 20 million won.
+(2) Any of the following persons shall be punished by imprisonment with labor for up to
+one year, or by a fine not exceeding 10 million won: <Amended on Apr. 18, 2023>
+1. A person who divulges or provides information to any third persons or misappropriates
+it, in violation of Article 15 (6) or Article 45;
+2. A business owner who fails to purchase environmental liability insurance or to conclude
+an indemnity contract, in violation of Article 17 (1) through (3);
+
+--------------------------------------------------------------------------------
+법제처                                                            25                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+3. A business owner who fails to change environmental liability insurance or an indemnity
+contract in compliance with authorization or permission for, or registration or reporting
+of, any change, in violation of Article 17 (5).
+ 
+Article 48 (Joint Penalty Provisions) Where the representative of a corporation, or an agent,
+employee, or other servant of the corporation or an individual commits a violation under
+Article 47 in connection with the business of the corporation or the individual, not only
+shall such violator be punished, but also the corporation or individual shall be punished by
+a fine under relevant provision: Provided, That this shall not apply where such corporation
+or individual has not been negligent in giving due attention and supervision over the
+relevant business to prevent such violation.
+ 
+Article 49 (Administrative Fines) (1) Any of the following persons shall be subject to an
+administrative fine not exceeding 10 million won: <Amended on Apr. 18, 2023>
+1. A business owner who fails to submit the matters prescribed by Presidential Decree
+when purchasing an environmental liability insurance or entering into an indemnity
+contract, or who prepares and submits a false report, in violation of Article 17 (4);
+1. An insurer who refuses to conclude a contract with a business owner intending to
+purchase environmental liability insurance under Article 17 (1), in violation of Article 18
+(3);
+2. An insurer who fails to make an advance payment, in violation of Article 20 (2).
+(2) Any of the following persons shall be punished by an administrative fine not exceeding
+five million won:
+1. A business owner who fails to provide information, refuses to allow perusal, or provides
+false information, in violation of Article 15 (3) or (5);
+2. An insurer who fails to provide information or give notice, in violation of Article 18 (4) or
+19 (4) or (5);
+3. An insurer who fails to report or submit data, in violation of Article 39 (1);
+4. An insurer who refuses, interferes with, or evades an inspection, a request for reporting,
+or an inquiry under Article 39 (2) without justifiable reasons;
+5. An insurer who fails to submit a financial statement, business report, etc., in violation of
+Article 39 (4).
+
+--------------------------------------------------------------------------------
+법제처                                                            26                                                       국가법령정보센
+터
+「ACT ON LIABILITY FOR ENVIRONMENTAL DAMAGE AND RELIEF THEREOF」
+(3) Administrative fines prescribed under paragraphs (1) and (2) shall be imposed and
+collected by the Minister of Environment.
+
+--------------------------------------------------------------------------------

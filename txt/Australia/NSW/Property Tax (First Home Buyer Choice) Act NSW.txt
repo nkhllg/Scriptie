@@ -1,0 +1,1527 @@
+Property Tax (First Home Buyer Choice) Act
+2022 No 60
+[2022-60]
+New South Wales
+New South Wales
+Status Information
+Currency of version
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Legislation on this site is usually updated within 3 working days after a change to the legislation.
+Provisions in force
+The provisions displayed in this version of the legislation have all commenced.
+Authorisation
+This version of the legislation is compiled and maintained in a database of legislation by the Parliamentary
+Counsel's Office and published on the NSW legislation website, and is certified as the form of that legislation that
+is correct under section 45C of the Interpretation Act 1987.
+File last modified 4 September 2023
+Certified by the NSW Parliamentary Counsel as being published on www.legislation.nsw.gov.au
+Page 1 of 43
+
+--------------------------------------------------------------------------------
+Property Tax (First Home Buyer Choice) Act
+2022 No 60
+New South Wales
+New South Wales
+Contents
+Long title.......................................................................................................................................... 5
+Part 1 Preliminary.......................................................................................................................5
+1 Name of Act....................................................................................................................................... 5
+2 Commencement ................................................................................................................................5
+3 Definitions ......................................................................................................................................... 5
+4 Relationship with Taxation Administration Act 1996 ..........................................................................5
+Part 2 Key terms..........................................................................................................................5
+5 Meaning of “first home buyer” ..........................................................................................................5
+6 Meaning of “land”..............................................................................................................................6
+7 Meaning of “exclusive land use entitlement” ....................................................................................7
+8 Meaning of “owner of land” ...............................................................................................................8
+9 Meaning of “residential land” ............................................................................................................9
+10 Meaning of “approved trust” .............................................................................................................9
+11 Meaning of “transferee” ..................................................................................................................10
+Part 3 Eligibility..........................................................................................................................10
+12 Basis for making application............................................................................................................10
+13 Eligible transferees..........................................................................................................................10
+14 Eligible transfers..............................................................................................................................11
+15 Residence requirement....................................................................................................................12
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 2 of 43
+
+--------------------------------------------------------------------------------
+Part 4 Opting in..........................................................................................................................13
+16 Making the application ....................................................................................................................13
+17 Decision on application ...................................................................................................................13
+18 Land subject to property tax if application approved ......................................................................14
+19 Land wrongly opted in .....................................................................................................................15
+Part 5 Liability for property tax........................................................................................15
+20 Liability for property tax ..................................................................................................................15
+21 Amount of property tax depends on class of land use.....................................................................15
+22 Classes of land use..........................................................................................................................15
+23 Mixed use land ................................................................................................................................16
+24 Property tax amount—class of land use ..........................................................................................16
+25 Property tax payable .......................................................................................................................18
+26 Reduction in property tax if only proportion of land subject to property tax ...................................18
+27 Reduction in property tax for land subject to property tax for only part of year .............................18
+Part 6 Assessments and payment of property tax ................................................18
+28 Issue of notice of assessment or reassessment...............................................................................18
+29 Time for payment ............................................................................................................................19
+30 Included owner of land taken to have opted to pay in instalments .................................................19
+31 Unpaid property tax—tax default ....................................................................................................20
+Part 7 Deferral and recovery of unpaid property tax ..........................................20
+32 Definitions ....................................................................................................................................... 20
+33 Grounds for deferral ........................................................................................................................20
+34 Applying for deferral of payment of property tax ............................................................................20
+35 Assessing grounds for deferral ........................................................................................................21
+36 Effect of deferral..............................................................................................................................21
+37 Relevant interest rate......................................................................................................................21
+38 Recovery of unpaid amounts...........................................................................................................22
+39 Transfer authorised with charge attached in certain circumstances................................................22
+40 Person must not be required to sell principal place of residence.....................................................23
+41 Functions of Hardship Review Board................................................................................................23
+Part 8 Transactions involving land subject to property tax .............................23
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 3 of 43
+
+--------------------------------------------------------------------------------
+42 Transfers of land subject to property tax .........................................................................................23
+43 Transfer of land subject to property tax—transferor not included owner.........................................24
+44 Transfer of land subject to property tax—transferor included owner...............................................24
+45 Exception—transfer to related person .............................................................................................25
+46 Exception—transfer to spouse on death or break down of relationship...........................................25
+47 Consolidation of land.......................................................................................................................26
+48 Subdivision of land ..........................................................................................................................27
+Part 9 Miscellaneous ...............................................................................................................27
+49 Identification of land subject to property tax...................................................................................27
+50 Early release of charge on land .......................................................................................................27
+51 Notification of change of land use ...................................................................................................28
+52 Failure to give information...............................................................................................................28
+53 Act to bind Crown ............................................................................................................................28
+54 Regulations...................................................................................................................................... 28
+55 Bills to increase property tax...........................................................................................................29
+Schedule 1 Special treatment of certain land..........................................................29
+Schedule 2 Calculating property tax .............................................................................34
+Schedule 3 Meaning of owner-occupied ......................................................................37
+Schedule 4 Savings, transitional and other provisions ......................................39
+Schedule 5 (Repealed) ...........................................................................................................41
+Schedule 6 Dictionary.............................................................................................................41
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 4 of 43
+
+--------------------------------------------------------------------------------
+Property Tax (First Home Buyer Choice) Act
+2022 No 60
+New South Wales
+New South Wales
+An Act to enable first home buyers to opt to pay an annual property tax rather than duty
+when buying a first home.
+Part 1 Preliminary
+1
+Name of Act
+This Act is the Property Tax (First Home Buyer Choice) Act 2022.
+2
+Commencement
+This Act commences on a day or days to be appointed by proclamation.
+3
+Definitions
+Schedule 6, Dictionary defines certain terms used in this Act.
+Note—
+The Interpretation Act 1987 contains definitions and other provisions that affect the interpretation and
+application of this Act.
+4
+Relationship with Taxation Administration Act 1996
+This Act must be read together with the Taxation Administration Act 1996, which makes
+provision for the administration and enforcement of this Act and other taxation laws.
+Part 2 Key terms
+5
+Meaning of “first home buyer”
+(1) In this Act—
+first home buyer means a person—
+(a) who is an individual, and
+(b) who is 18 years of age or older, and
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 5 of 43
+
+--------------------------------------------------------------------------------
+(c) who has not at any time owned residential land in Australia, either solely or with
+another person, and
+(d) who has not previously been a party to a relevant application approved by the
+Chief Commissioner, and
+(e) if the individual has a spouse—whose spouse—
+(i) has not at any time owned residential land in Australia, either solely or with
+another person, and
+(ii) has not previously been a party to a relevant application approved by the
+Chief Commissioner.
+(2) Land owned by a person on trust or as an executor of a will is taken not to be owned
+by the person for the purposes of subsection (1).
+(3) A person is taken not to be a party to a relevant application if the relevant application
+was made by the person in the person’s capacity as a trustee or an executor of a will.
+(4) A person is taken to have owned land in the Australian Capital Territory if the person
+has held a leasehold interest granted by the Commonwealth in the land.
+(5) The Chief Commissioner may waive the requirement that an individual be 18 years of
+age or over to be a first home buyer in relation to a transfer of land if satisfied that—
+(a) the individual as a first home buyer will occupy the land following the transfer in
+accordance with section 15, and
+(b) the waiver is reasonable in the circumstances.
+(6) In this section—
+relevant application means an application under—
+(a) this Act, or
+(b) provisions of the Duties Act 1997, Chapter 2, Part 8 intended to assist persons to
+buy a first home, or
+(c) provisions of an Act prescribed by the regulations.
+6
+Meaning of “land”
+In this Act—
+land means the following—
+(a) a lot, including a strata-type lot, of land,
+(b) a parcel other than a lot if—
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 6 of 43
+
+--------------------------------------------------------------------------------
+(i) the parcel is owned by the Crown, and
+(ii) the parcel is leased to a person other than the Crown, and
+(iii) a valuation is reasonably available from the Valuer-General for the parcel.
+strata-type lot means—
+(a) a lot within the meaning of the Strata Schemes Development Act 2015, or
+(b) a development lot or a neighbourhood lot within the meaning of the Community Land
+Development Act 2021, or
+(c) an exclusive land use entitlement.
+7
+Meaning of “exclusive land use entitlement”
+(1) This section applies to an interest if the Chief Commissioner is satisfied—
+(a) the interest gives the owner an exclusive right to occupy part of a building on
+land, and
+(b) the interest is—
+(i) shares or units in a relevant entity that owns or leases the land, or
+(ii) a part ownership of the land if—
+(A) ownership of the land is as tenants in common, and
+(B) each part ownership gives an exclusive right to occupy a different part of
+the building on the land, and
+(c) the interest is transferable, and
+(d) the whole of the land is reasonably used in connection with the occupation of the
+building.
+(2) The interest giving the exclusive right to occupy part of a building may be jointly
+owned.
+(3) The owner of the interest is taken to be the owner of the part of the building that the
+owner is entitled to exclusively occupy because of the interest.
+(4) The part of the building is taken to be a separate lot (the exclusive land use
+entitlement).
+(5) An interest that gives an exclusive right to occupy part of a building only at certain
+times is not an interest to which this section applies.
+(6) If there is more than 1 building on the land, this section applies to an exclusive right
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 7 of 43
+
+--------------------------------------------------------------------------------
+to occupy a whole building, but not all buildings, in the same way as it applies to part
+of a building.
+(7) In this section—
+relevant entity means a company or unit trust where all shares in the company or
+units in the trust—
+(a) are distributed to persons, and
+(b) give the persons a right to occupy parts of a building on land owned by the
+company or trust.
+8
+Meaning of “owner of land”
+(1) In this Act, owner of land means—
+(a) for a lot within the meaning of the Strata Schemes Development Act 2015—the
+owner of the lot within the meaning of that Act, or
+(b) for a development lot or neighbourhood lot within the meaning of the Community
+Land Development Act 2021—the owner of the lot within the meaning of that Act,
+or
+(c) for an exclusive land use entitlement—the owner of the interest that gives the
+entitlement, or
+(d) for land leased from the Crown in perpetuity by a person other than the
+Crown—the lessee, or
+(e) for land subject to an eligible life estate—the owner of the life estate, or
+(f) otherwise—the legal owner of the lot.
+(2) If a lessee is taken to be the owner of land for the purposes of this Act, the person
+who owns the fee simple in the land is taken not to be an owner of the land for the
+purposes of this Act.
+(3) If an exclusive land use entitlement arises from ownership of shares or units in a
+relevant entity that owns land, the relevant entity is taken not to be the owner of the
+land for the purposes of this Act.
+(4) In this section—
+eligible life estate means a life estate—
+(a) created directly by the terms of a will and not by the exercise of a discretion under
+a will, and
+(b) conferred for the life of the owner of the life estate.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 8 of 43
+
+--------------------------------------------------------------------------------
+relevant entity has the same meaning as in section 7.
+9
+Meaning of “residential land”
+(1) In this Act, land is residential land if the Chief Commissioner is satisfied—
+(a) the land contains either of the following that is suitable for occupation or use as a
+dwelling—
+(i) a building,
+(ii) a strata-type lot, including associated utility lots, and
+(b) the land is, or is suitable to be, occupied or used predominantly for residential
+purposes.
+(2) If a strata-type lot is residential land, associated utility lots are also taken to be
+residential land.
+(3) In this section—
+associated utility lot means a utility lot if—
+(a) the utility lot is transferred with the strata-type lot, and
+(b) its use is restricted to the owner or occupier of the strata-type lot, and
+(c) it is not suitable to be used—
+(i) for human occupation, or
+(ii) as a residence, office, shop or similar.
+building includes a moveable dwelling within the meaning of the Local Government
+Act 1993 if the Chief Commissioner is satisfied the moveable dwelling is designed,
+constructed or adapted for use as a dwelling on a long-term basis.
+10
+Meaning of “approved trust”
+(1) In this Act, a trust is an approved trust if—
+(a) the trustee is an apparent purchaser of the land, or
+(b) the trustee will hold the land for a person who—
+(i) is under a legal disability, and
+(ii) is under the guardianship of the trustee.
+(2) In this section—
+apparent purchaser means an apparent purchaser referred to in the Duties Act
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 9 of 43
+
+--------------------------------------------------------------------------------
+1997, section 55.
+11
+Meaning of “transferee”
+(1) In this Act—
+transferee means a person who will be the owner of land as a result of a transfer of—
+(a) for an exclusive land use entitlement—the interest that gives the entitlement, or
+(b) for land leased from the Crown in perpetuity by a person other than the
+Crown—the lease, or
+(c) otherwise—the fee simple in the land.
+(2) In this Act, for transferred land that will be subject to an approved trust—
+(a) a reference to the transferee is taken to be a reference to the beneficiary under
+the approved trust, and
+(b) the actual transferee is referred to as the trustee transferee.
+Part 3 Eligibility
+12
+Basis for making application
+(1) A transferee may make an application to subject transferred land to property tax if at
+the time the application is made—
+(a) the transferee is an eligible transferee, and
+(b) the transfer is an eligible transfer.
+(2) However, a transferee may not make an application if—
+(a) there is more than 1 eligible transferee, and
+(b) another eligible transferee does not agree to the application being made.
+(3) A transferee may not make an application if the transferred land will be held on trust
+following the transfer of the land, unless the trust is an approved trust.
+(4) For an approved trust referred to in section 10(1), a trustee transferee is eligible to
+make an application under this section on behalf of a beneficiary who would be
+eligible to make the application.
+13
+Eligible transferees
+(1) A transferee is an eligible transferee if—
+(a) the transferee is an eligible first home buyer, or
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 10 of 43
+
+--------------------------------------------------------------------------------
+(b) the transferee is not an eligible first home buyer but—
+(i) the transferee is a first home buyer, and
+(ii) there is more than 1 transferee under the transfer, and
+(iii) at least 1 other transferee is an eligible first home buyer, or
+(c) for an approved shared equity scheme where all transferees other than approved
+equity partners are eligible transferees—the approved equity partners are also
+eligible transferees.
+(2) In this section—
+approved equity partner has the same meaning as in the Duties Act 1997.
+eligible first home buyer means a person who is—
+(a) a first home buyer, and
+(b) an Australian citizen or a permanent resident.
+permanent resident has the same meaning as in the Duties Act 1997.
+14
+Eligible transfers
+(1) A transfer is an eligible transfer if—
+(a) it is for the acquisition of—
+(i) residential land, or
+(ii) vacant land the Chief Commissioner is satisfied will be residential land, and
+(b) it is for the whole of the land, and
+(c) the dutiable value of the land is not more than—
+(i) for vacant land—$800,000, or
+(ii) otherwise—$1,500,000, and
+(d) it is not for the transfer of—
+(i) business premises, or
+(ii) a business, or
+(iii) land used for primary production within the meaning of the Land Tax
+Management Act 1956, section 10AA, or
+(iv) a holiday home, and
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 11 of 43
+
+--------------------------------------------------------------------------------
+(e) all transferees are eligible transferees, and
+(f) the transfer of land occurs—
+(i) before 1 July 2023, or
+(ii) on or after 1 July 2023 but relates to, or is made in conformity with, an
+agreement for sale or transfer entered into before 1 July 2023.
+(2) Subsection (1)(e) does not apply if—
+(a) more than 1 transferee will own the land other than under an approved shared
+equity scheme, and
+(b) at least 1 transferee is an eligible transferee, and
+(c) eligible transferees will own at least 50% of the land, and
+(d) no transferee is a company, unless the Chief Commissioner is reasonably satisfied
+the transfer should be an eligible transfer despite the transferee being a company.
+15
+Residence requirement
+(1) If an application to subject transferred land to property tax is approved by the Chief
+Commissioner, at least 1 first home buyer who is a transferee must occupy the
+transferred land as a principal place of residence for a continuous period of at least 6
+months.
+(2) The occupation must start within 12 months after the land is transferred.
+(3) The Chief Commissioner may, if satisfied there are good reasons to do so—
+(a) approve a shorter period of occupation by a first home buyer, or
+(b) approve a later day on which occupation by a first home buyer must start, or
+(c) exempt a first home buyer from the occupation requirement.
+(4) The Chief Commissioner may give the approval or exemption even if—
+(a) it is more than 12 months after the land is transferred, or
+(b) the first home buyer no longer occupies the land as a principal place of residence.
+(5) This section does not apply to transferred land that is vacant land if the Chief
+Commissioner is satisfied—
+(a) the land is intended to be used as the site of a home, and
+(b) the home will be occupied by a first home buyer as a principal place of residence.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 12 of 43
+
+--------------------------------------------------------------------------------
+(6) This section does not apply if at the time the application is made—
+(a) at least 1 of the first home buyers is a member of the Permanent Forces of the
+Australian Defence Force, within the meaning of the Defence Act 1903 of the
+Commonwealth, and
+(b) each first home buyer is enrolled to vote in State elections under the Electoral Act
+2017.
+Part 4 Opting in
+16
+Making the application
+(1) A transferee, including a trustee transferee, who is eligible to make an application to
+subject land to property tax may make the application to the Chief Commissioner.
+(2) The application must be made—
+(a) for an agreement for sale or transfer—before the transfer of the land, or
+(b) otherwise—before the earlier of—
+(i) the end of the duty default period, or
+(ii) the time at which the instrument effecting the transfer is endorsed under the
+Duties Act 1997, section 289.
+(3) The application may be revoked by the applicant if the applicant makes an application
+to the Chief Commissioner for revocation before the land is transferred.
+(4) An application under this section must be in a form approved by the Chief
+Commissioner.
+(5) The Chief Commissioner may require an applicant to provide further information if the
+Chief Commissioner considers it necessary for the proper administration of this Act.
+(6) The Chief Commissioner may impose the requirement at any time, including after the
+application has been approved.
+(7) In this section—
+duty default period for a relevant transaction, means the period of 3 months after
+the liability to pay duty arises under the Duties Act 1997 for the transaction.
+17
+Decision on application
+(1) The Chief Commissioner must approve an application to subject transferred land to
+property tax if the Chief Commissioner is satisfied—
+(a) the application is made in accordance with this Act, and
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 13 of 43
+
+--------------------------------------------------------------------------------
+(b) if the application relates to an agreement for sale or transfer—the transfer will
+conform or substantially conform with the agreement, and
+(c) if applicable, the residence requirement in section 15 will be satisfied.
+(2) For this section, a transfer substantially conforms with an agreement for sale or
+transfer if—
+(a) the transfer would be in conformity with the agreement if the transferee, or a
+trustee transferee, was the purchaser under the agreement, and
+(b) the transfer occurs at the same time as, or proximately with, the settlement of the
+agreement, and
+(c) at the time the agreement was entered into, and at the settlement of the
+agreement—
+(i) the purchaser under the agreement, other than a purchaser who purchased as
+a trustee, and the transferee under the transfer were related persons, or
+(ii) if the purchaser purchased as a trustee—the purchaser and the beneficiary
+were related persons.
+(3) In this section—
+related person means an individual who is a related person within the meaning of
+the Duties Act 1997.
+transfer does not include an agreement for sale or transfer.
+transferee does not include a purchaser.
+18
+Land subject to property tax if application approved
+(1) If an application to subject transferred land to property tax is approved by the Chief
+Commissioner—
+(a) on the transfer of the land—each eligible transferee becomes an included
+owner, other than an eligible transferee who is a beneficiary under an approved
+trust, in which case the trustee transferee becomes the included owner, and
+(b) on the transfer of the land—the proportion of the transferred land owned by
+included owners becomes subject to property tax, and
+(c) on the giving of the approval—the duty chargeable on the transfer is reduced by
+the proportion referred to in paragraph (b).
+Note—
+If the proportion of the transferred land owned by included owners is 100%, the transfer is exempt from
+duty under the Duties Act 1997, Chapter 2.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 14 of 43
+
+--------------------------------------------------------------------------------
+(2) Duty chargeable on the transfer is payable only by the transferees who are not
+eligible transferees.
+(3) If only a proportion of land is subject to property tax, the land may be referred to as
+hybrid land.
+19
+Land wrongly opted in
+(1) An approval of the Chief Commissioner is void and is taken never to have been given
+for the purposes of this Act if the Chief Commissioner is satisfied—
+(a) the transfer to which the approval relates is not in conformity or substantial
+conformity with the agreement for sale or transfer as required by section 17, or
+(b) the residence requirement in section 15 has not been satisfied, or
+(c) the approval would not have been given had the Chief Commissioner been aware
+of all relevant information.
+(2) If the approval is void, duty is chargeable as if the application had never been made.
+(3) Duty chargeable is a charge on the land transferred until the duty is paid.
+Part 5 Liability for property tax
+20
+Liability for property tax
+(1) An included owner of land subject to property tax is liable to pay property tax on the
+land each financial year.
+(2) If there is more than 1 included owner of the land, each included owner is jointly and
+severally liable to pay the property tax.
+(3) The liability for a financial year arises at the start of the financial year.
+(4) If land becomes subject to property tax during a financial year, the liability is only for
+the part of the financial year commencing when the land becomes subject to property
+tax.
+(5) If land ceases to be subject to property tax during a financial year, the liability is only
+for the part of the financial year until the land ceases to be subject to property tax.
+21
+Amount of property tax depends on class of land use
+The amount of property tax payable on land depends on the class of land use of the land.
+22
+Classes of land use
+(1) For the purposes of this Act, class of land use means—
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 15 of 43
+
+--------------------------------------------------------------------------------
+(a) land that is owner-occupied, or
+(b) land that is not owner-occupied.
+(2) Schedule 1 sets out circumstances in which certain land—
+(a) is treated as being a particular class of land use for the purposes of this Act, or
+(b) is otherwise treated differently for the purposes of this Act.
+23
+Mixed use land
+(1) The Chief Commissioner may approve parts of land being treated as if they were
+separate lots (deemed lots) for the purposes of this Act.
+(2) An included owner of land may apply to the Chief Commissioner to have parts of the
+land treated as deemed lots if the parts have different classes of land use.
+Example—
+a residential flat building in which 1 flat is owner-occupied and the rest are leased out by the owner
+(3) The Chief Commissioner may approve the application if the Chief Commissioner is
+satisfied each deemed lot is identifiable using—
+(a) an apportionment factor recorded in the Register of Land Values for the land, or
+(b) if no apportionment factor is recorded in the Register of Land Values for the
+land—an apportionment factor approved for the land by the Chief Commissioner
+taking into account—
+(i) the floor space or land area used for each class of land use, and
+(ii) other factors the Chief Commissioner considers relevant.
+(4) If no apportionment factor is recorded in the Register of Land Values for the land—
+(a) the Chief Commissioner may ask the Valuer-General to determine an
+apportionment factor for the land, and
+(b) the Valuer-General must—
+(i) determine the apportionment factor in accordance with the Valuation of Land
+Act 1916, Part 1B, Division 5 or 5A, and
+(ii) record the apportionment factor in the Register of Land Values.
+24
+Property tax amount—class of land use
+(1) The property tax amount must be calculated as if land had a single class of land use
+for a financial year.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 16 of 43
+
+--------------------------------------------------------------------------------
+(2) The property tax amount for a class of land use for land for a financial year is—
+(a) if subsection (5) applies—the property tax indexed amount for the class of land
+use for the land for the financial year, or
+(b) otherwise—the lesser of the following—
+(i) the property tax indexed amount for the class of land use for the land for the
+financial year, or
+(ii) the property tax amount for the class of land use for the land for the previous
+financial year multiplied by 1.04.
+(3) The property tax indexed amount for a class of land use for land for a financial
+year is calculated by adding the land value component for the class of land use for the
+land for the financial year to—
+(a) for land that is owner-occupied—the fixed component for the financial year as set
+out in Schedule 2, section 1(1), or
+(b) for land that is not owner-occupied—the fixed component for the financial year as
+set out in Schedule 2, section 1(2).
+(4) The land value component for a class of land use for land for a financial year is
+calculated by multiplying—
+(a) the land value of the land subject to property tax—
+(i) at the beginning of the previous financial year, and
+(ii) as if the proportion of the land subject to property tax were 100%, and
+(b) the land value rate for the financial year, as set out in Schedule 2, section 2 for
+the class of land use.
+(5) This subsection applies for the purposes of subsection (2)(a) if—
+(a) the land was not subject to property tax in the previous financial year, or
+(b) no included owner of the land was an included owner of the land in the previous
+financial year, or
+(c) the land is a deemed lot under section 23 which has an apportionment factor that
+has been introduced or changed in the financial year or the previous financial
+year, or
+(d) the class of land use of the land in the current financial year was not a class of
+land use of the land at any time in the previous financial year, or
+(e) the land was consolidated with other land in the financial year or the previous
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 17 of 43
+
+--------------------------------------------------------------------------------
+financial year, or
+(f) the land was subdivided in the financial year or the previous financial year.
+25
+Property tax payable
+(1) If a single class of land use applies to land in a financial year—the property tax
+payable is the property tax amount for the class of land use for the land for the
+financial year.
+(2) If more than 1 class of land use applies to land in a financial year—the property tax
+payable for the land for a financial year is calculated by—
+(a) for each class of land use that applies—reducing the property tax amount for the
+class of land use for the land for the financial year proportionally to reflect the
+number of days in the financial year that the class of land use applied to the land,
+and
+(b) adding together each amount calculated under paragraph (a) for each class of
+land use.
+Note—
+The property tax payable may be adjusted in certain circumstances. See, for example, sections 26–27.
+26
+Reduction in property tax if only proportion of land subject to property tax
+If only a proportion of land is subject to property tax, the property tax payable must be
+reduced proportionally.
+27
+Reduction in property tax for land subject to property tax for only part of year
+For land that becomes, or ceases to be, subject to property tax during a financial year, the
+property tax payable for the financial year must be reduced proportionally to reflect the
+number of days in the financial year for which the land is subject to property tax.
+Part 6 Assessments and payment of property tax
+28
+Issue of notice of assessment or reassessment
+(1) The Chief Commissioner must give the included owner of land subject to property tax
+a notice of assessment of the property tax payable on land for a financial year as soon
+as practicable after—
+(a) for land that becomes subject to property tax after the start of the financial
+year—the land becomes subject to property tax, or
+(b) otherwise—the start of the financial year.
+(2) The Chief Commissioner must give the included owner of land subject to property tax
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 18 of 43
+
+--------------------------------------------------------------------------------
+a notice of reassessment during a financial year as soon as practicable after the Chief
+Commissioner is notified of a change affecting the property tax payable, including—
+(a) a change of land use class applying to the land, or
+(b) a change in the value of the land, or
+(c) a change in the proportion of the land subject to property tax.
+(3) A reassessment may be made more than 5 years after the initial assessment.
+Note—
+See the Taxation Administration Act 1996, section 9(3)(c).
+(4) Property tax is payable by the included owner of the land in accordance with the
+notice of assessment or reassessment.
+(5) No payment of property tax is required earlier than 30 days after the notice is given to
+the included owner of the land.
+29
+Time for payment
+(1) As far as practicable, a notice of assessment or reassessment must give an included
+owner of land subject to property tax an option of paying the property tax in a single
+instalment or in multiple approximately equal instalments.
+(2) If a notice relating to a financial year is issued before 1 August in the financial year, it
+must provide as far as practicable for—
+(a) a single annual instalment to be payable by 31 August in the financial year, or
+(b) 4 quarterly instalments to be payable by 31 August, 30 November, 28 February
+and 31 May in the financial year.
+(3) The Chief Commissioner may give reminder notices to included owners who are
+paying in more than 1 instalment about upcoming instalment payments.
+(4) Failure to give a notice of assessment or reassessment or a reminder notice does not
+affect the liability of an included owner to pay property tax at the times set out in this
+section.
+30
+Included owner of land taken to have opted to pay in instalments
+The included owner of land subject to property tax is taken, for the purposes of this
+section, to have opted to pay property tax for a financial year in instalments, if—
+(a) the notice of assessment has been given to the included owner for the land for the
+financial year, and
+(b) the full amount of property tax payable for the financial year is not paid by the time
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 19 of 43
+
+--------------------------------------------------------------------------------
+specified in the notice for payment of the single instalment.
+31
+Unpaid property tax—tax default
+The included owner of land is taken to have committed a tax default for the purposes of
+the Taxation Administration Act 1996, Part 5 if an amount of property tax required to be
+paid under this Act by a particular time is not paid in full within that time.
+Part 7 Deferral and recovery of unpaid property tax
+32
+Definitions
+In this Part—
+basic living expenses means—
+(a) reasonable expenses for food, shelter, clothing and medical treatment of the relevant
+individual and the dependants of the individual, and
+(b) other expenses the Chief Commissioner considers to be basic living expenses.
+grounds for deferral means the grounds for deferral set out in section 33.
+33
+Grounds for deferral
+For land that is owner-occupied, there are grounds for deferral if the payment of the
+property tax would cause an individual to be unable to meet basic living expenses.
+34
+Applying for deferral of payment of property tax
+(1) A person (the applicant) who is liable to pay property tax on land may apply to the
+Chief Commissioner to defer the payment of property tax on the land if there are
+grounds for deferral.
+(2) The application must be in a form approved by the Chief Commissioner.
+(3) The Chief Commissioner may, if satisfied grounds for deferral exist—
+(a) approve the application, and
+(b) defer some or all of the property tax payable for—
+(i) a financial year, or
+(ii) if satisfied the grounds for deferral will continue for more than a financial
+year—a longer period.
+(4) The Chief Commissioner may make a deferral for more than a financial year subject to
+conditions the Chief Commissioner considers to be reasonable and appropriate.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 20 of 43
+
+--------------------------------------------------------------------------------
+35
+Assessing grounds for deferral
+In making a decision about whether an individual can meet basic living expenses, the
+Chief Commissioner must consider the following—
+(a) the income and expenses of the individual,
+(b) whether the individual has disposed of assets since a property tax liability was
+previously deferred or since property tax became payable for the financial year,
+(c) the ability of the individual to rearrange current financial commitments or otherwise
+manage the individual’s financial affairs,
+(d) whether the individual’s ability to manage the individual’s financial affairs is impaired
+because of ill health, including a mental illness, intellectual disability or cognitive
+impairment,
+(e) other matters the Chief Commissioner reasonably considers to be relevant.
+36
+Effect of deferral
+(1) Unpaid property tax continues to be a charge on land even if the Chief Commissioner
+approves deferral of payment.
+(2) Interest is payable on the deferred unpaid property tax.
+(3) The rate of interest is the relevant interest rate set out in section 37.
+(4) Unpaid property tax, the payment of which is deferred, is payable in the next financial
+year or at a later time specified by the Chief Commissioner unless—
+(a) a further application to defer the payment is approved by the Chief Commissioner,
+or
+(b) the Chief Commissioner specifies a later date for payment.
+37
+Relevant interest rate
+(1) The relevant interest rate for a period is—
+(a) the rate for the period specified by the Chief Commissioner by notice in the
+Gazette, or
+(b) if no rate is specified for the period under paragraph (a)—the monthly NSW
+Treasury Corporation 10 year bond yield published by the Reserve Bank of
+Australia in the following months—
+(i) 1 January–31 March in a year—the rate published for November in the
+preceding year,
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 21 of 43
+
+--------------------------------------------------------------------------------
+(ii) 1 April–30 June in a year—the rate published for February in the same year,
+(iii) 1 July–30 September in a year—the rate published for May in the same year,
+(iv) 1 October–31 December in a year—the rate published for August in the same
+year.
+(2) An amount under subsection (1)(b) must be—
+(a) expressed as a percentage, and
+(b) rounded to 2 decimal places with 0.005% being rounded up.
+38
+Recovery of unpaid amounts
+(1) An amount of unpaid property tax is—
+(a) a charge on the land, and
+(b) the first charge on the land.
+(2) The following are taken to be unpaid property tax for the purposes of this Act—
+(a) unpaid interest on unpaid property tax,
+(b) unpaid penalties imposed under the Taxation Administration Act 1996 in relation
+to property tax.
+(3) A charge on land under this Act must be paid before the land is transferred.
+(4) The maximum amount payable under the charge if the land is transferred is 75% of
+the dutiable value of the land.
+(5) The Chief Commissioner must waive payment of that part of the charge that is more
+than 75% of the dutiable value of the land if the charge is only a charge on that land
+and no other land.
+39
+Transfer authorised with charge attached in certain circumstances
+(1) The Chief Commissioner may authorise a transfer of land with the charge still
+attached if the Chief Commissioner is satisfied—
+(a) the transfer is a relevant transfer, and
+(b) the land is the principal place of residence of the transferee before the transfer,
+and
+(c) circumstances of hardship would exist if the payment of property tax were not
+deferred.
+(2) In this section—
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 22 of 43
+
+--------------------------------------------------------------------------------
+relevant transfer means—
+(a) a transfer of land by the legal personal representative of a deceased person to a
+beneficiary if—
+(i) the transfer is made in accordance with the trusts contained in the will of the
+deceased person, or
+(ii) the transfer occurs as a result of intestacy, or
+(b) a transfer of land that is matrimonial property or relationship property within the
+meaning of the Duties Act 1997, section 68 to the following persons if the transfer
+would not be subject to duty under the section—
+(i) a party to the marriage or relationship,
+(ii) a child of the party,
+(iii) a trustee of the child.
+40
+Person must not be required to sell principal place of residence
+The Chief Commissioner must not require a person who is liable to pay property tax to
+sell—
+(a) land that is owner-occupied, or
+(b) land subject to property tax if it is the only land owned by the person.
+41
+Functions of Hardship Review Board
+The Hardship Review Board may—
+(a) conduct a review of a decision by the Chief Commissioner to defer, or refuse to defer,
+payment of property tax, and
+(b) exercise its functions under the State Debt Recovery Act 2018 and the Taxation
+Administration Act 1996 in relation to property tax.
+Part 8 Transactions involving land subject to property tax
+42
+Transfers of land subject to property tax
+Each of the following transactions of land subject to property tax is taken to be a transfer
+of the land to the person specified—
+(a) a transfer of the land—the transferee,
+(b) an agreement for the sale or transfer of land—the purchaser or transferee,
+(c) a declaration of trust over the land—the person declaring the trust,
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 23 of 43
+
+--------------------------------------------------------------------------------
+(d) a surrender of the land—the person to whom the land is surrendered,
+(e) a vesting of the land because of the following—the person in whom the land is
+vested—
+(i) an order of a court of an Australian or other jurisdiction,
+(ii) legislation of an Australian or other jurisdiction.
+43
+Transfer of land subject to property tax—transferor not included owner
+(1) For a transfer of land subject to property tax from a transferor who is not an included
+owner—
+(a) if the transferee is already an included owner of the land—
+(i) duty is not chargeable on the transaction, and
+(ii) the land remains subject to property tax with the proportion subject to
+property tax being increased by the proportion of the land transferred, or
+(b) if the transferee is not already an included owner of the land—
+(i) duty is chargeable on the transaction, and
+(ii) the land remains subject to property tax with the proportion subject to
+property tax being unchanged.
+(2) The regulations may prescribe exceptions to this section.
+44
+Transfer of land subject to property tax—transferor included owner
+(1) For a transfer involving land subject to property tax from a transferor who is an
+included owner—
+(a) if the transferee is already an included owner of the land—
+(i) duty is not chargeable on the transaction, and
+(ii) the land remains subject to property tax with the proportion subject to
+property tax being unchanged, or
+(b) if the transferee is not already an included owner of the land and each current
+included owner will no longer be an included owner of the land after the
+transaction—
+(i) duty is chargeable on the transaction, and
+(ii) the land ceases to be subject to property tax, or
+(c) if the transferee is not already an included owner of the land and a current
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 24 of 43
+
+--------------------------------------------------------------------------------
+included owner will be an included owner of the land after the transaction—
+(i) duty is chargeable on the transaction, and
+(ii) the land remains subject to property tax with the proportion subject to
+property tax being the lesser of—
+(A) the proportion of the land subject to property tax before the transaction,
+or
+(B) the proportion of the land owned by included owners after the transaction.
+(2) Sections 45 and 46 create exceptions to this section.
+(3) The regulations may prescribe other exceptions to this section.
+45
+Exception—transfer to related person
+(1) This section applies to a transfer of land from an included owner of land to a person
+who is not an included owner of the land if—
+(a) the included owner and the person are related persons, and
+(b) the duty that would be chargeable under the transaction is less than the general
+rate of duty chargeable under the Duties Act 1997, section 32.
+(2) No duty is chargeable on the transfer.
+(3) The related person becomes an included owner.
+(4) The land remains subject to property tax with the proportion subject to property tax
+being unchanged.
+(5) This section does not apply to a transfer as a result of—
+(a) the death of the included owner, or
+(b) the break down of the included owner’s marriage or de facto relationship.
+(6) In this section—
+related person has the same meaning as in the Duties Act 1997.
+46
+Exception—transfer to spouse on death or break down of relationship
+(1) This section applies to a transfer of land from an included owner—
+(a) as a result of a relevant event for the included owner, and
+(b) to a person (the former spouse) who was the spouse of the included owner
+immediately before the relevant event.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 25 of 43
+
+--------------------------------------------------------------------------------
+(2) No duty is chargeable on the transfer.
+(3) The former spouse becomes an included owner.
+(4) The land remains subject to property tax with the proportion subject to property tax
+being unchanged.
+(5) In this section—
+eligible life estate has the same meaning as in section 8.
+relevant event, for an included owner, means—
+(a) the death of the included owner, or
+(b) the break down of the included owner’s marriage or de facto relationship.
+transfer of land includes the creation of an eligible life estate in the land.
+47
+Consolidation of land
+(1) This section applies if land subject to property tax (property tax land) is
+consolidated with land not subject to property tax.
+(2) The consolidated land is subject to property tax with the proportion subject to
+property tax being the proportion obtained by multiplying—
+(a) the proportion of the property tax land subject to property tax, and
+(b) the ratio of—
+(i) the land value the property tax land would have had if the consolidation had
+not occurred, and
+(ii) the land value of the consolidated land.
+(3) For the purposes of this section the Chief Commissioner may use—
+(a) the land value recorded in the Register of Land Values for the land, or
+(b) if no land value is recorded in the Register of Land Values for the land—a land
+value for the land determined by the Chief Commissioner using—
+(i) a method prescribed by the regulations, or
+(ii) if no method is prescribed—a method the Chief Commissioner considers
+appropriate.
+(4) If no land value is recorded in the Register of Land Values for the land—
+(a) the Chief Commissioner may ask the Valuer-General to determine the land value
+for the land, and
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 26 of 43
+
+--------------------------------------------------------------------------------
+(b) the Valuer-General must—
+(i) determine the land value in accordance with the Valuation of Land Act 1916,
+and
+(ii) record the land value in the Register of Land Values.
+48
+Subdivision of land
+(1) This section applies if land subject to property tax is subdivided.
+(2) Each lot resulting from the subdivision is subject to property tax in the same
+proportion as the subdivided lot was subject to property tax.
+Part 9 Miscellaneous
+49
+Identification of land subject to property tax
+(1) The Chief Commissioner must issue a certificate (a property tax status certificate)
+to a person, if the person—
+(a) makes an application for the certificate in a form approved by the Chief
+Commissioner, and
+(b) pays the fee, if any, prescribed by the regulations.
+(2) The property tax status certificate must include—
+(a) identification details for the land, and
+(b) whether the land is subject to property tax, and
+(c) if requested to do so in the application—the amount of unpaid property tax
+outstanding as a charge on the land, and
+(d) other information prescribed by the regulations.
+(3) A purchaser of land is entitled to rely on the accuracy of a property tax status
+certificate issued by the Chief Commissioner.
+(4) The property tax status certificate may be included as part of another certificate or
+document issued by the Chief Commissioner.
+50
+Early release of charge on land
+The Chief Commissioner may release a charge imposed under this Act for the payment of
+unpaid property tax before the property tax is paid if the Chief Commissioner is satisfied
+the property tax will be paid.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 27 of 43
+
+--------------------------------------------------------------------------------
+51
+Notification of change of land use
+(1) Each included owner of land must ensure the Chief Commissioner is given notice of a
+change of use of land that will change the property tax payable on the land.
+(2) The notice must be given in a form approved by the Chief Commissioner.
+(3) The notice must be given within 3 months after the change of use.
+52
+Failure to give information
+(1) A person liable for property tax who fails to give information as required by this Act or
+as reasonably required by the Chief Commissioner for the purposes of this Act is taken
+to have committed a tax default for the purposes of the Taxation Administration Act
+1996, Part 5.
+(2) For the tax default—
+(a) the interest payable in accordance with that Part accrues on the amount of unpaid
+property tax for the relevant period, and
+(b) penalty tax is payable in accordance with that Part on the amount of unpaid
+property tax.
+(3) In this section—
+relevant period means the period—
+(a) commencing on the last day permitted for giving the information, and
+(b) ending on the earlier of—
+(i) the day on which the information is given, or
+(ii) the day on which the assessment calculated on the basis of the information is
+made, or
+(iii) the day on which the property tax payable by the person is paid in full.
+53
+Act to bind Crown
+This Act binds the Crown in right of New South Wales and, to the extent the legislative
+power of the Parliament of New South Wales permits, the Crown in all its other capacities.
+54
+Regulations
+The Governor may make regulations, not inconsistent with this Act, about matters that by
+this Act are required or permitted to be prescribed or that is necessary or convenient to be
+prescribed for carrying out or giving effect to this Act.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 28 of 43
+
+--------------------------------------------------------------------------------
+55
+Bills to increase property tax
+(1) This section applies to a Bill that proposes to increase property tax above the indexed
+amounts set out in this Act when it was first made whether by amending this Act or
+otherwise.
+(2) Parliament recognises ownership of land is a key part of many people’s financial
+security and that investment in land is a long-term investment.
+(3) To enable people to properly calculate the costs of investing in land, Parliament
+recommends that property tax not be increased in the future above the indexed
+amounts set out in this Act when it is first made.
+(4) The Bill must not be introduced into a House of Parliament unless notice of the
+proposed Bill is given in the House at least 30 sitting days before the Bill is introduced.
+(5) Before the notice is given, the Minister proposing the Bill, must ensure—
+(a) reasonable steps are taken to adequately notify members of the public and
+relevant organisations about the proposed increase of property tax, and
+(b) members of the public and relevant organisations are given a reasonable
+opportunity to make written submissions to the Minister about the proposal.
+(6) The Minister proposing the Bill must also ensure—
+(a) a summary of the opinions expressed in the submissions is tabled in each House
+of Parliament with the notice referred to in subsection (4), and
+(b) copies of all submissions are made available to members if requested.
+Schedule 1 Special treatment of certain land
+section 22
+Part 1 Land treated as being owner-occupied
+1
+Definition
+In this Part—
+included owner means, in the case of an approved trust, the beneficiary under the trust
+and not the trustee transferee.
+land-related costs for land means the following—
+(a) council rates and charges,
+(b) strata fees,
+(c) water rates,
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 29 of 43
+
+--------------------------------------------------------------------------------
+(d) energy rates and charges,
+(e) maintenance costs,
+(f) property tax,
+(g) insurance,
+(h) other costs approved by the Chief Commissioner.
+2
+Included owner may make application under this Part
+(1) An included owner may make an application to the Chief Commissioner for an
+approval under this Part.
+(2) The application must be made in a form approved by the Chief Commissioner.
+(3) The Chief Commissioner may accept an application made on behalf of an included
+owner if satisfied it is not reasonably practicable for the included owner to make the
+application.
+3
+Person in full-time care
+(1) The Chief Commissioner may approve land being treated as if it were land that is
+owner-occupied if the Chief Commissioner is satisfied the eligibility criteria will be met.
+(2) The eligibility criteria are—
+(a) the included owner of the land is in full-time care, and
+(b) immediately before the included owner entered full-time care, the land—
+(i) was owned by the included owner, and
+(ii) was land that was owner-occupied, and
+(c) since the included owner entered full-time care no income has been derived from
+the land except—
+(i) income from an excluded residence, or
+(ii) income from a person occupying the land if the income derived is no more
+than an amount reasonably necessary to cover the cost of the land-related
+costs for the land.
+(3) In this section—
+aged care establishment means a building or part of a building used or intended to
+be used by an approved provider under the Aged Care Act 1997 of the Commonwealth
+for the provision of respite care or residential care within the meaning of that Act.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 30 of 43
+
+--------------------------------------------------------------------------------
+full-time care for an included owner means the included owner—
+(a) resides at one of the following as a patient—
+(i) a hospital within the meaning of the Health Services Act 1997,
+(ii) a health institution within the meaning of the Health Services Act 1997,
+(iii) a private health facility within the meaning of the Private Health Facilities Act
+2007,
+(iv) a mental health facility within the meaning of the Mental Health Act 2007, or
+(b) resides at an aged care establishment while being provided with residential care,
+or respite care, or
+(c) resides with another person who is eligible for a carer payment under the Social
+Security Act 1991 of the Commonwealth because the other person provides care
+to the included owner.
+4
+Absence from principal place of residence
+(1) The Chief Commissioner may approve land being treated as if it were land that is
+owner-occupied for 1 or more periods (relevant periods) between the relevant day
+and the end day if the Chief Commissioner is satisfied the eligibility criteria will be
+met.
+(2) The eligibility criteria are—
+(a) immediately before the relevant day, the land—
+(i) was owned by an included owner, and
+(ii) was land that was owner-occupied, and
+(b) during a relevant period, no income will be derived from the land except—
+(i) income from an excluded residence within the meaning of Schedule 3, or
+(ii) income from a person occupying the land if the income derived is no more
+than an amount reasonably necessary to cover the cost of the land-related
+costs for the land, and
+(c) during a relevant period no other land will be owned by the included owner if the
+land is—
+(i) owner-occupied, or
+(ii) eligible for a principal place of residence exemption under the Land Tax
+Management Act 1956, Schedule 1A, and
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 31 of 43
+
+--------------------------------------------------------------------------------
+(d) within 1 year after the end day the included owner will have—
+(i) lawfully recommenced occupation of the land as the principal place of
+residence of the included owner, and
+(ii) continuously occupied the land as the principal place of residence of the
+included owner for a period of at least 6 months.
+(3) In this section—
+end day means—
+(a) the day occurring 3 years after the relevant day, or
+(b) a later day approved by the Chief Commissioner if satisfied the later day is
+reasonable in the circumstances.
+relevant day means the day on which the included owner commenced the period of
+absence from the land.
+5
+Before residence requirement is satisfied
+(1) The Chief Commissioner may approve land being treated as if it were land that is
+owner-occupied for 1 or more periods (relevant periods) between the relevant day
+and the end day if the Chief Commissioner is satisfied the eligibility criteria will be
+met.
+(2) The eligibility criteria are—
+(a) the included owner intends to occupy the land as the principal place of residence
+of the included owner, and
+(b) during a relevant period no income is derived from the land, and
+(c) the included owner will have continuously occupied the land as the principal place
+of residence of the included owner for a period of at least 6 months commencing
+no later than the end day.
+(3) In this section—
+end day means—
+(a) the day occurring 1 year after the relevant day, or
+(b) a later day approved by the Chief Commissioner if satisfied the later day is
+reasonable in the circumstances.
+relevant day means the day on which the included owner became the owner of the
+land.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 32 of 43
+
+--------------------------------------------------------------------------------
+6
+Unoccupied land to be used as principal place of residence of owner
+(1) The Chief Commissioner may approve land being treated as if it were land that is
+owner-occupied for a continuous period of up to 5 years (the relevant period) if the
+Chief Commissioner is satisfied the eligibility criteria will be met.
+(2) The eligibility criteria are—
+(a) the land is unoccupied to allow works to be carried out to enable the land to be
+used as the principal place of residence of an included owner of the land, and
+(b) within 2 years after the application is approved—
+(i) the works will physically commence, or
+(ii) significant steps will be taken to allow the works to physically commence, and
+(c) during the relevant period—
+(i) no income will be derived from the land, and
+(ii) no other land owned by the included owner will be used as a principal place of
+residence by the owner or a member of the owner’s family, and
+(d) within 1 year after the end of the relevant period, the included owner will have—
+(i) commenced lawful occupation of the land, and
+(ii) continuously occupied the land as the principal place of residence of the
+included owner for a period of at least 6 months.
+(3) The Chief Commissioner may extend the period of 5 years referred to in subsection
+(1) if the Chief Commissioner is satisfied it is reasonable in the circumstances.
+7
+Failure to meet eligibility criteria
+(1) If the eligibility criteria under this Part are not met after an approval is given—
+(a) the approval is revoked, and
+(b) property tax must be reassessed for the period to which the approval applied.
+(2) The reassessment may be made more than 5 years after the initial assessment.
+Note—
+See the Taxation Administration Act 1996, section 9(3)(c).
+Part 2 Land transferred in certain circumstances
+8
+Child support liability
+(1) This section applies if land subject to property tax is transferred to a trustee as a
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 33 of 43
+
+--------------------------------------------------------------------------------
+consequence of enforcement action taken by the Commonwealth in relation to a
+registered maintenance liability.
+(2) The transfer from the owner to the trustee and the transfer from the trustee back to
+the owner does not affect the property tax status of the land.
+(3) However, while the land is held by the trustee it is taken not to be subject to property
+tax.
+(4) In this section—
+registered maintenance liability has the same meaning as in the Child Support
+(Registration and Collection) Act 1988 of the Commonwealth.
+9
+Transfers back from nominee
+(1) This section applies to land if—
+(a) the land is subject to property tax and is then transferred to a nominee and
+subsequently transferred back, and
+(b) the Duties Act 1997, section 56(2) applies.
+(2) The land is taken to have continued to be subject to property tax as if it had never
+been transferred to the nominee.
+(3) The Chief Commissioner may apply duty that would be refundable under the Duties
+Act 1997, section 56 to the payment of unpaid property tax in relation to the land.
+(4) An assessment or reassessment. of property tax may be made for the purposes of this
+section even if it occurs more than 5 years after the relevant financial year.
+Schedule 2 Calculating property tax
+section 24
+1
+Fixed component
+(1) The fixed component for land that is owner-occupied is—
+(a) for a financial year ending on or before 30 June 2024—$400, and
+(b) for a subsequent financial year the amount calculated using the formula in
+subsection (3).
+(2) The fixed component for land that is not owner-occupied is—
+(a) for a financial year ending on or before 30 June 2024—$1,500, and
+(b) for a subsequent financial year the amount calculated using the formula in
+subsection (3).
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 34 of 43
+
+--------------------------------------------------------------------------------
+(3) For the purposes of this section the formula is as follows—
+where—
+F is the fixed component amount for a financial year.
+P is the fixed component amount for the previous financial year.
+G is the Gross State Product per capita indexation factor for the financial year.
+2
+Land value rate
+(1) The land value rate for land that is owner-occupied is—
+(a) for a financial year ending on or before 30 June 2024—0.003, and
+(b) for a subsequent financial year the rate calculated using the formula in subsection
+(3).
+(2) The land value rate for land that is not owner-occupied is—
+(a) for a financial year ending on or before 30 June 2024—0.011, and
+(b) for a subsequent financial year the rate calculated using the formula in subsection
+(3).
+(3) For the purposes of this section the formula is as follows—
+where—
+R is the land value rate for a financial year.
+P is the land value rate for the previous financial year.
+G is the Gross State Product per capita indexation factor for the financial year.
+L is the land value indexation factor for the financial year.
+(4) The result of the formula must be rounded to 5 decimal places.
+3
+Gross State Product per capita indexation factor
+(1) The Gross State Product per capita indexation factor for a financial year (the current
+financial year) is the amount calculated by dividing the GSP amount for the financial
+year 2 years before the current financial year by the GSP amount for the financial year
+3 years before the current financial year.
+(2) In this section—
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 35 of 43
+
+--------------------------------------------------------------------------------
+GSP amount means—
+(a) the New South Wales gross state product per capita at current prices (series ID
+A2336248J) as first published for a financial year by the Australian Bureau of
+Statistics in the Australian National Accounts: State Accounts (5220.0) Table 1, or
+(b) if that number is not reasonably available, a gross state product per capita
+amount for New South Wales calculated in accordance with the regulations.
+4
+Land value indexation factor
+The land value indexation factor for a financial year (the current financial year) must
+be worked out by—
+(a) identifying all land (the relevant land)—
+(i) subject to property tax on 31 December in the financial year immediately before
+the current financial year (the preceding financial year), and
+(ii) for which a land value is available at 1 July in—
+(A) the preceding financial year, and
+(B) the financial year immediately before the preceding financial year, and
+(b) calculating the aggregate land value of the relevant land as at 1 July in the preceding
+financial year, and
+(c) dividing that aggregate amount by the aggregate land value of the relevant land as at
+1 July in the financial year immediately before the preceding financial year.
+5
+Publication of information by Chief Commissioner
+(1) The Chief Commissioner must publish the following information for a financial year in
+the Gazette before 31 March in the year the financial year starts—
+(a) the fixed component and land value rate for—
+(i) land that is owner-occupied, and
+(ii) land that is not owner-occupied,
+(b) the Gross State Product per capita indexation factor,
+(c) the land value indexation factor.
+(2) The information must also be published on the website of Revenue NSW.
+(3) Calculations must be made under this Schedule regardless of whether the information
+is published in accordance with this section.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 36 of 43
+
+--------------------------------------------------------------------------------
+(4) The failure to publish the information does not affect the validity of any assessment of
+property tax that relies on the calculations.
+Schedule 3 Meaning of owner-occupied
+1
+Definitions
+In this Schedule—
+included owner means, in the case of an approved trust, the beneficiary under the trust
+and not the trustee transferee.
+2
+Land that is owner-occupied
+(1) In this Act, residential land is owner-occupied if the land—
+(a) comprises a single lot or parcel, and
+(b) contains no more than 1 excluded residence, and
+(c) is the principal place of residence of—
+(i) an included owner of the residential land, or
+(ii) a member of an included owner’s family, and
+(d) is not used for business purposes.
+(2) Land is not used for business purposes if—
+(a) no more than 1 room is predominantly used for business purposes, and
+(b) the business for which it is used is predominantly carried out other than on the
+land.
+(3) The members of a family must not own more than 1 lot or parcel that is owner-
+occupied.
+3
+Principal place of residence
+(1) In this Act, land is an individual’s principal place of residence if—
+(a) the land—
+(i) is residential land, and
+(ii) is the 1 place of residence of the individual at which the individual principally
+resides, and
+(iii) for a period of at least 3 months has been continuously used and occupied by
+the individual for residential purposes, or
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 37 of 43
+
+--------------------------------------------------------------------------------
+(b) the Chief Commissioner is satisfied the land is used and occupied by the individual
+as the individual’s principal place of residence.
+(2) In this section—
+land includes land outside New South Wales.
+4
+Two or more lots other than strata-type lots to be treated as a single lot
+(1) For the purposes of deciding if land is owner-occupied, 2 or more lots of land may be
+treated as a single lot if the lots are—
+(a) adjoining, and
+(b) in the same ownership, and
+(c) the site of a single residence, other than an excluded residence.
+(2) For the purposes of this section—
+(a) lots do not adjoin merely because 1 lot has a single corner point on its boundary
+that is common to the boundary of the other lot, and
+(b) separate lots divided by a fence, wall or other structure do not adjoin unless direct
+access is readily available between the lots, and
+Example—
+doors, gates or openings
+(c) separate buildings erected on separate lots are not a single residence if the
+buildings are separately occupied or capable of being separately occupied.
+(3) This section does not apply to strata-type lots.
+5
+Two or more strata-type lots to be treated as a single lot
+For the purposes of deciding if land is owner-occupied, 2 or more strata-type lots may be
+treated as a single lot if the lots—
+(a) have adjoining walls or floors, and
+(b) have direct internal access between all the lots, and
+Example—
+internal doors or stairways
+(c) are in the same ownership, and
+(d) comprise a single residence, other than an excluded residence.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 38 of 43
+
+--------------------------------------------------------------------------------
+6
+Meaning of “same ownership”
+In this Schedule, lots are in the same ownership if—
+(a) all the lots are owned by the same individual, or
+(b) for jointly owned lots—all the lots are jointly owned by the same individuals.
+7
+Meaning of “family”
+In this Act, a family consists of the following—
+(a) a person,
+(b) the spouse of the person,
+(c) a child, including a step-child, of the person or the spouse who
+(i) is under 18 years of age, and
+(ii) is not married, and
+(iii) ordinarily resides with the person or spouse.
+8
+Meaning of “spouse”
+(1) In this Act, a person is the spouse of another person if—
+(a) they are legally married, or
+(b) they are in a de facto relationship.
+(2) The Chief Commissioner may treat a person who is legally married to a first home
+buyer as not being the first home buyer’s spouse for the purposes of this Act if the
+Chief Commissioner is satisfied the first home buyer—
+(a) is not cohabiting with the person, and
+(b) has no intention of resuming cohabitation with the person.
+Schedule 4 Savings, transitional and other provisions
+Part 1 General
+1
+Regulations
+(1) The regulations may contain provisions of a savings or transitional nature consequent
+on the commencement of—
+(a) a provision of this Act, or
+(b) a provision amending this Act.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 39 of 43
+
+--------------------------------------------------------------------------------
+(2) A savings or transitional provision consequent on the commencement of a provision
+must not be made more than 2 years after the commencement.
+(3) A savings or transitional provision made consequent on the commencement of a
+provision is repealed 2 years after the commencement.
+(4) A savings or transitional provision made consequent on the commencement of a
+provision may take effect before the commencement but not before—
+(a) for a provision of this Act—the date of assent to this Act, or
+(b) for a provision amending this Act—the date of assent to the amending Act.
+(5) A savings or transitional provision taking effect before its publication on the NSW
+legislation website does not—
+(a) affect the rights of a person existing before the publication in a way prejudicial to
+the person, or
+(b) impose liabilities on a person for anything done or omitted to be done before the
+publication.
+(6) In this section—
+person does not include the State or an authority of the State.
+Part 2 Provisions consequent on enactment of this Act
+2
+Opting in during transitional period
+(1) Section 16(2) does not prevent an application being made by a transferee if—
+(a) the application is made during the transitional period, and
+(b) the transferee is still an owner of the land to which the application relates, and
+(c) the liability for duty for the transfer arose—
+(i) on or after the date of assent to this Act, and
+(ii) before the commencement of this Act.
+(2) If the application is approved after the land is transferred—
+(a) the land becomes subject to property tax when the land is transferred, and
+(b) the duty chargeable must be adjusted accordingly, and
+(c) if necessary, duty paid must be refunded.
+(3) In this section—
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 40 of 43
+
+--------------------------------------------------------------------------------
+transitional period means the period—
+(a) starting on the commencement of this Act, and
+(b) ending on 30 June 2023.
+3
+No opt-in for transfers occurring before date of assent
+A transfer is not an eligible transfer for the purposes of section 14 if a liability for duty on
+the transfer arose before the date of assent to this Act.
+Schedule 5 (Repealed)
+Schedule 6 Dictionary
+section 3
+approved shared equity scheme has the same meaning as in the Duties Act 1997.
+approved trust—see section 10.
+basic living expenses, for Part 7—see section 32.
+break down of a person’s marriage or de facto relationship means—
+(a) a de facto relationship between the person and the person’s spouse breaking down, or
+(b) a marriage between the person and the person’s spouse—
+(i) being dissolved, or
+(ii) being annulled, or
+(iii) breaking down irretrievably.
+Chief Commissioner means the Chief Commissioner of State Revenue under the Taxation
+Administration Act 1996.
+class of land use—see section 22.
+company has the same meaning as in the Land Tax Management Act 1956.
+duty means duty under the Duties Act 1997, Chapter 2.
+dutiable value has the same meaning as in the Duties Act 1997.
+eligible transfer—see section 14(1).
+eligible transferee—see section 13(1).
+excluded residence means the following residences if located on the same lot as the lot used and
+occupied by the owner of the lot for residential purposes—
+(a) 1 room,
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 41 of 43
+
+--------------------------------------------------------------------------------
+(b) 1 suite of rooms,
+(c) 1 flat,
+(d) 1 suite of rooms and 1 room,
+(e) 1 flat and 1 room,
+(f) 2 rooms that are separately occupied.
+exclusive land use entitlement—see section 7(4).
+family—see Schedule 3, section 7.
+financial year means a year ending on 30 June.
+first home buyer—see section 5.
+grounds for deferral, for Part 7—see section 32.
+hybrid land—see section 18(3).
+included owner—see section 18.
+included owner, for Schedule 1—see Schedule 1, section 1.
+included owner, for Schedule 3—see Schedule 3, section 1.
+land—see section 6.
+land-related costs, for Schedule 1, Part 1—see Schedule 1, section 1.
+land value of land for a financial year means the value entered in the Register as the land value of
+the land as at 1 July in the previous financial year.
+owner of land—see section 8.
+owner-occupied—see Schedule 3, section 2.
+principal place of residence—see Schedule 3, section 3.
+Register of Land Values means the Register of Land Values under the Valuation of Land Act 1916.
+residential land—see section 9.
+spouse—see Schedule 3, section 8.
+strata-type lot—see section 6.
+suite of rooms means a suite of rooms—
+(a) that is not a flat, and
+(b) where all occupants of the suite are entitled to occupy all the rooms.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 42 of 43
+
+--------------------------------------------------------------------------------
+transfer includes an agreement for sale or transfer.
+transferee—see section 11.
+trustee transferee—see section 11.
+unpaid property tax—see section 38(2).
+utility lot means a lot designed to be used primarily for storage or accommodation of boats, motor
+vehicles or goods and not for human occupation as a residence, office, shop or similar.
+vacant land has the same meaning as in the Duties Act 1997, section 25.
+Property Tax (First Home Buyer Choice) Act 2022 No 60 [NSW]
+Current version for 4 September 2023 to date (accessed 8 April 2025 at 19:20)
+Page 43 of 43
+
+--------------------------------------------------------------------------------

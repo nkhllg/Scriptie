@@ -1,0 +1,3700 @@
+Queensland
+Acquisition of Land Act 1967
+Current as at 22 July 2024
+
+--------------------------------------------------------------------------------
+© State of Queensland 2024
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+--------------------------------------------------------------------------------
+Queensland
+Acquisition of Land Act 1967
+Contents
+Page
+Part 1
+Preliminary
+1
+Short title . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+2
+Definitions  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+3
+Meaning of multi-parcel purpose . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+4
+Relationship with other Acts  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6
+4A
+Taking non-native title right or interest  . . . . . . . . . . . . . . . . . . . .
+6
+4B
+Taking non-native title right or interest that is a resource interest 
+8
+Part 2
+Taking of land
+Division 1
+General
+5
+Purposes for which land may be taken . . . . . . . . . . . . . . . . . . . .
+9
+6
+Easements  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10
+Division 2
+Taking other than by agreement
+7
+Notice of intention to take land  . . . . . . . . . . . . . . . . . . . . . . . . . .
+10
+8
+Dealing with objections  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+9
+Ways in which land is to be taken . . . . . . . . . . . . . . . . . . . . . . . .
+16
+11
+Amending of gazette resumption notice  . . . . . . . . . . . . . . . . . . .
+18
+12
+Effect of gazette resumption notice . . . . . . . . . . . . . . . . . . . . . . .
+20
+12A
+Constructing authority must lodge new plan of survey for particular land 
+23
+12B
+Particular land may be dedicated as road . . . . . . . . . . . . . . . . . .
+24
+13
+Provision for taking particular additional land  . . . . . . . . . . . . . . .
+24
+14
+Dealing with title to land affected by resumption . . . . . . . . . . . . .
+25
+Division 3
+Taking by agreement
+Subdivision 1
+Resumption agreements
+15
+Meaning of resumption agreement  . . . . . . . . . . . . . . . . . . . . . . .
+26
+Subdivision 2
+Process for taking
+15A
+Application of sdiv 2  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+
+--------------------------------------------------------------------------------
+Contents
+Acquisition of Land Act 1967
+Page 2
+ 
+ 
+15B
+Limit on taking under sdiv 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+15C
+Taking by Governor in Council  . . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+15D
+Taking by constructing authority  . . . . . . . . . . . . . . . . . . . . . . . . .
+29
+Subdivision 3
+Miscellaneous
+15E
+When taking is effective  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+29
+15F
+Non-application of sections 7 to 9 . . . . . . . . . . . . . . . . . . . . . . . .
+30
+15G
+When constructing authority is taken to have discontinued resumption 
+30
+15H
+No limit on other acquisition of land  . . . . . . . . . . . . . . . . . . . . . .
+30
+Part 3
+Discontinuance of taking of land
+16
+Discontinuance of resumption before publication of gazette resumption 
+notice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+30
+17
+Revocation before determination of compensation . . . . . . . . . . .
+31
+Part 4
+Compensation
+18
+By whom compensation may be claimed  . . . . . . . . . . . . . . . . . .
+33
+19
+Claim for compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+36
+20
+Assessment of compensation . . . . . . . . . . . . . . . . . . . . . . . . . . .
+37
+21
+Grant of easement etc. or transfer of land in satisfaction of compensation 
+40
+22
+Crown grant in satisfaction of compensation . . . . . . . . . . . . . . . .
+40
+23
+Advance against compensation  . . . . . . . . . . . . . . . . . . . . . . . . .
+41
+24
+Reference of claim for compensation to Land Court . . . . . . . . . .
+42
+25
+Reference to Land Court by constructing authority . . . . . . . . . . .
+43
+26
+Jurisdiction relating to compensation  . . . . . . . . . . . . . . . . . . . . .
+44
+26A
+Jurisdiction about recovery of advance against compensation . .
+45
+27
+Costs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+46
+28
+Interest  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+47
+29
+Where right to compensation is questioned  . . . . . . . . . . . . . . . .
+47
+30
+Limited interests  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+48
+31
+Powers of Supreme Court in respect of building units  . . . . . . . .
+50
+31A
+Powers of District Court for community titles scheme . . . . . . . . .
+50
+32
+Mortgages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+50
+33
+Rent-charge or annuity  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+51
+34
+Where part only of land subject to rent is taken  . . . . . . . . . . . . .
+51
+35
+Taxes, rates and charges  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+52
+Part 5
+General
+36
+Powers of entry etc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+52
+
+--------------------------------------------------------------------------------
+Contents
+Acquisition of Land Act 1967
+ 
+Page 3
+ 
+36A
+Minister may act for Crown as constructing authority  . . . . . . . . .
+53
+36B
+Delegation by Minister . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+54
+37
+Temporary occupation of land . . . . . . . . . . . . . . . . . . . . . . . . . . .
+54
+38
+Refusal to give up land  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+56
+39
+Service of documents  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+56
+40
+Offences  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+56
+41
+Disposal of land . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+57
+42
+Regulation-making power  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+57
+43
+Publication of notices  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+58
+Part 6
+Transitional and other provisions
+Division 1
+Provision for Acquisition of Land Amendment Act 1999
+44
+Validating and transitional provisions for the Acquisition of Land 
+Amendment Act 1999  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+58
+Division 2
+Provision for Transport and Other Legislation Amendment Act 2005
+45
+Transitional provision for taking of land by Brisbane City Council and 
+other local governments  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+59
+Division 3
+Provisions for Acquisition of Land and Other Legislation 
+Amendment Act 2009
+46
+Making claims for compensation . . . . . . . . . . . . . . . . . . . . . . . . .
+60
+47
+Recovery of advance against compensation . . . . . . . . . . . . . . . .
+60
+Division 4
+Provisions for Land, Water and Other Legislation Amendment Act 
+2013
+48
+Definitions for div 4  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+60
+49
+Applications under previous section 9(2)  . . . . . . . . . . . . . . . . . .
+61
+50
+Agreements for taking under previous section 15(1) . . . . . . . . . .
+61
+51
+Delegations by Minister . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61
+Division 5
+Validation provisions for Environmental Protection and Other 
+Legislation Amendment Act 2020
+52
+Validation provision relating to purposes for which land may be taken 
+62
+53
+Validation of taking of particular land  . . . . . . . . . . . . . . . . . . . . .
+62
+54
+Validation of particular notices of intention to resume and resumption 
+agreements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+62
+Schedule 1
+Purposes for taking land  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 64
+Schedule 2
+Dictionary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 71
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+[s 1]
+Acquisition of Land Act 1967
+Part 1 Preliminary
+Current as at 22 July 2024
+Page 5
+Authorised by the Parliamentary Counsel
+Acquisition of Land Act 1967
+An Act to consolidate and amend the law relating to the
+acquisition of land for public works and other public purposes,
+and for other purposes
+Part 1
+Preliminary
+1
+Short title
+This Act may be cited as the Acquisition of Land Act 1967.
+2
+Definitions
+The dictionary in schedule 2 defines particular words used in
+this Act.
+3
+Meaning of multi-parcel purpose
+(1)
+Land is taken under this Act for a multi-parcel purpose if, to
+carry out the particular purpose for which the land is taken, it
+is necessary to take, under this Act, more than 1 parcel of
+land.
+Examples of multi-parcel purposes—
+roads and railways for which it is necessary to take, under this Act,
+more than 1 parcel of land
+(2)
+For subsection (1), it does not matter whether—
+(a)
+the parcels of land are owned by the same person or
+different persons; or
+(b)
+the same person or different persons are entitled to claim
+compensation under this Act for the taking of the
+parcels of land.
+
+--------------------------------------------------------------------------------
+[s 4]
+Acquisition of Land Act 1967
+Part 1 Preliminary
+Page 6
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+(3)
+In this section—
+parcel, of land, means—
+(a)
+a separate lot or parcel in a plan of survey registered, or
+deposited for registration, in the land registry or given to
+the chief executive (surveys); or
+(b)
+an easement; or
+(c)
+other land that is described in a way that is sufficient to
+substantially identify the land.
+4
+Relationship with other Acts
+(1)
+This section applies if another Act provides for land to be
+taken under this Act, even though this Act would not
+otherwise apply to the land.
+Example—
+The Native Title (Queensland) Act 1993 provides for native title rights
+and interests relating to land, for example, unallocated State land under
+the Land Act 1994, to be acquired under this Act even though this Act
+would not otherwise apply to unallocated State land.
+(2)
+Despite the other Act, sections 9(7) and 15D do not apply to
+the taking of land if the land includes Aboriginal or Torres
+Strait interests.
+(3)
+For subsection (2), land includes Aboriginal or Torres Strait
+Islander interests if—
+(a)
+native title rights and interests exist for the land; or
+(b)
+the land is Aboriginal land or transferable land under the
+Aboriginal Land Act 1991; or
+(c)
+the land is Torres Strait Islander land or transferable
+land under the Torres Strait Islander Land Act 1991.
+4A
+Taking non-native title right or interest
+(1)
+This section applies to the taking of a non-native title right or
+interest if—
+
+--------------------------------------------------------------------------------
+[s 4A]
+Acquisition of Land Act 1967
+Part 1 Preliminary
+Current as at 22 July 2024
+Page 7
+Authorised by the Parliamentary Counsel
+(a)
+the taking happens under a compulsory acquisition Act;
+and
+(b)
+the taking under the compulsory acquisition Act—
+(i)
+is authorised under the Native Title (Queensland)
+Act 1993, section 144(1)(b); or
+(ii)
+is authorised under the compulsory acquisition Act
+but happens at the same time as the taking under
+that Act of native title rights and interests as
+authorised under the Native Title (Queensland) Act
+1993, section 144(1)(a).
+(2)
+The compulsory acquisition Act, including to the extent
+appropriate this Act, must be applied to the taking of the
+non-native title right or interest to the greatest practicable
+extent as if the right or interest were land to which the
+compulsory acquisition Act otherwise applies.
+(3)
+However, when the taking has effect, despite any compulsory
+acquisition Act, including any other provision of this Act, the
+right or interest is completely extinguished to the extent it
+relates to land stated in the gazette resumption notice for the
+taking.
+(4)
+Without limiting subsection (1), taking that happens under a
+compulsory acquisition Act includes taking under a
+compulsory acquisition Act other than this Act if either of the
+following applies—
+(a)
+the 
+compulsory 
+acquisition 
+Act 
+authorises 
+a
+constructing authority to take land under this Act;
+(b)
+the 
+compulsory 
+acquisition 
+Act 
+authorises 
+a
+constructing authority to take land under that Act but
+requires provisions of this Act to be applied to any
+aspect of the taking.
+(5)
+In this section—
+gazette resumption notice, for the taking of a right or interest,
+includes any instrument giving effect to the taking.
+
+--------------------------------------------------------------------------------
+[s 4B]
+Acquisition of Land Act 1967
+Part 1 Preliminary
+Page 8
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+4B
+Taking non-native title right or interest that is a resource 
+interest
+(1)
+This section applies to the taking of a non-native title right or
+interest if—
+(a)
+it is a taking to which section 4A applies; and
+(b)
+the right or interest is a resource interest.
+(2)
+The entity taking the resource interest must give the relevant
+chief executive for the resource interest a written notice that—
+(a)
+states the details of the extinguishment of the resource
+interest; and
+(b)
+asks for the extinguishment to be recorded in the
+appropriate register kept by the chief executive; and
+(c)
+is accompanied by a certified copy of the gazette
+resumption notice mentioned in section 4A(3).
+(3)
+Compensation to be paid under the compulsory acquisition
+Act in relation to the taking of the resource interest is limited
+in the way provided for in the resource compensation
+provision for the resource interest.
+Example—
+If the resource interest is a mining tenement interest under the Mineral
+Resources Act 1989, on an application of section 10AAD of that Act,
+allowance can not be made for the value of minerals known or supposed
+to be on or below the surface of, or mined from, the land the subject of
+the mining tenement interest.
+(4)
+In this section—
+relevant chief executive, for a resource interest, means the
+chief executive of the department administering the resource
+interest compensation provision for the resource interest.
+
+--------------------------------------------------------------------------------
+[s 5]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Current as at 22 July 2024
+Page 9
+Authorised by the Parliamentary Counsel
+Part 2
+Taking of land
+Division 1
+General
+5
+Purposes for which land may be taken
+(1)
+Land may be taken under and subject to this Act—
+(a)
+where the constructing authority is the Crown, for any
+purpose set out in schedule 1; or
+(b)
+where 
+the 
+constructing 
+authority 
+is 
+a 
+local
+government—
+(i)
+for any purpose set out in schedule 1 which the
+local government may lawfully carry out; or
+(ii)
+for any purpose, including any function of local
+government, which the local government is
+authorised or required by a provision of an Act
+other than this Act to carry out; or
+(c)
+in the case of a constructing authority other than the
+Crown or a local government—
+(i)
+for any purpose set out in schedule 1 which that
+constructing authority may lawfully carry out; or
+(ii)
+for any purpose which that constructing authority
+is authorised or required, by a provision of an Act
+other than this Act, to carry out.
+(2)
+The power to take, under and subject to this Act, land for a
+purpose (the primary purpose) includes power to take from
+time to time as required land either for the primary purpose or
+for any purpose incidental to the carrying out of the primary
+purpose.
+(3)
+A part heading in schedule 1—
+(a)
+is not, for this section, a purpose set out in schedule 1;
+and
+
+--------------------------------------------------------------------------------
+[s 6]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Page 10
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+(b)
+indicates only the type of activity or other thing to which
+a purpose mentioned in the part ordinarily relates; and
+(c)
+does not limit the matters to which a purpose mentioned
+in the part may relate.
+6
+Easements
+(1)
+When for any purpose it is not necessary that the constructing
+authority should take the whole estate in any land, but it is
+sufficient for such purpose to take an easement, the
+constructing authority may take such easement only and for
+that purpose the provisions of this Act shall apply as if the
+easement were land.
+(2)
+Upon application in that behalf, payment of the prescribed
+fees, and the production to the land registry of the gazette
+copy of the gazette resumption notice, whereby an easement is
+taken affecting land under the Land Title Act 1994, the
+registrar of titles shall register such easement as prescribed by
+that Act, notwithstanding that such easement is not being
+annexed to or used and enjoyed together with any other land.
+(3)
+The taking of an easement over land does not extinguish any
+interest in the land existing immediately before the easement
+is taken.
+Division 2
+Taking other than by agreement
+7
+Notice of intention to take land
+(1)
+A constructing authority which proposes to take any land shall
+serve as prescribed by this section the notice (a notice of
+intention to resume) prescribed by this section.
+(2)
+A notice of intention to resume shall be served upon any and
+every person who to the knowledge of the constructing
+authority—
+(a)
+will be entitled to claim compensation under this Act in
+respect of the taking of the land concerned; or
+
+--------------------------------------------------------------------------------
+[s 7]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Current as at 22 July 2024
+Page 11
+Authorised by the Parliamentary Counsel
+(b)
+is a mortgagee of the land.
+(2A)
+Despite subsection (2), if the land the subject of a notice of
+intention to resume is common property within the meaning
+of, and shown on a building units plan under, the Building
+Units and Group Titles Act 1980, the constructing authority
+need only serve the notice on—
+(a)
+the body corporate constituted under that Act by the
+proprietors of the lots in the building units plan; and
+(b)
+each entity, other than the body corporate or a proprietor
+of a lot in the building units plan on which the common
+property is shown, who to the knowledge of the
+constructing authority has an interest in the common
+property.
+(2B)
+Also despite subsection (2), if the land the subject of a notice
+of intention to resume is common property for a community
+titles scheme under the Body Corporate and Community
+Management Act 1997, the constructing authority need only
+serve the notice on—
+(a)
+the body corporate under that Act for the community
+titles scheme; and
+(b)
+each entity, other than the body corporate or an owner of
+a lot in the community titles scheme for the common
+property, who to the knowledge of the constructing
+authority has an interest in the common property.
+(2C)
+Subsection (2D) applies if the constructing authority gives a
+body corporate mentioned in subsection (2A) or (2B) a notice
+of intention to resume or a notice amending a notice of
+intention to resume (each a relevant notice).
+(2D)
+The body corporate must ensure a copy of the relevant notice
+accompanies the first notice of a general meeting of the body
+corporate given to each of its members after receiving the
+relevant notice.
+(3)
+A notice of intention to resume shall be in writing and shall—
+(a)
+state the particular purpose for which the land to be
+taken is required; and
+
+--------------------------------------------------------------------------------
+[s 7]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Page 12
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+(b)
+state the description of the land to be taken which
+description—
+(i)
+if the land is described as a separate lot or parcel in
+a plan of survey registered in the land registry or
+deposited in the office of the chief executive
+(surveys)—shall be that description; or
+(ii)
+if the land is not described as mentioned in
+subparagraph (i)—may be made in any manner
+sufficient to substantially identify the land; and
+(c)
+in the case of an easement—also state the rights and
+obligations to be conferred and imposed by the
+easement; and
+(d)
+state that the person to whom the notice is directed may,
+on or before the date specified in the notice (being a date
+not less than 30 days after the date of the notice), serve
+upon the constructing authority at the address set out in
+the notice an objection in writing to the taking of the
+land; and
+(e)
+in 
+relation 
+to 
+the 
+objection 
+mentioned 
+in
+paragraph (d)—set out—
+(i)
+that the objection must state the grounds of the
+objection and the facts and circumstances relied on
+by the objector in support of those grounds; and
+(ii)
+that any matter pertaining to the amount or
+payment of compensation is not a ground of
+objection; and
+(iii) that an objector who states in the objection that the
+objector desires to be heard in support of the
+grounds of the objection may appear and be heard
+by the constructing authority or its delegate at the
+time and place specified in the notice; and
+(ea) if the land the subject of the notice is common property
+within the meaning of, and shown on a building units
+plan under, the Building Units and Group Titles Act
+1980—
+
+--------------------------------------------------------------------------------
+[s 7]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Current as at 22 July 2024
+Page 13
+Authorised by the Parliamentary Counsel
+(i)
+state the proprietor of a lot in the building units
+plan may be entitled to compensation for damage
+suffered by the proprietor as a result of the taking
+of the common property and the effect of the
+taking on the proprietor’s lot; and
+(ii)
+state the requirement imposed on the body
+corporate for the common property under
+subsection (2D); and
+(eb) if the land the subject of the notice is common property
+for a community titles scheme under the Body
+Corporate and Community Management Act 1997—
+(i)
+state the owner of a lot in the scheme may be
+entitled to compensation for damage suffered by
+the owner as a result of the taking of the common
+property and the effect of the taking on the owner’s
+lot; and
+(ii)
+state the requirement imposed on the body
+corporate for the common property under
+subsection (2D); and
+(f)
+state that the constructing authority is willing to
+negotiate to acquire by agreement or, failing agreement,
+to treat as to the compensation to be paid and all
+consequential matters; and
+(g)
+include details of—
+(i)
+the period within which a claim for compensation
+under this Act must be served on the constructing
+authority; and
+(ii)
+the claimant’s right to apply to the Land Court to
+serve a claim after the end of the period mentioned
+in subparagraph (i); and
+Note—
+For the matters mentioned in paragraph (g), see section 19(3) to
+(6).
+(h)
+include information about how, under section 20(2A), a
+contract, licence, agreement or other arrangement
+
+--------------------------------------------------------------------------------
+[s 7]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Page 14
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+entered into in relation to the land after the notice of
+intention to resume is served may be dealt with in
+assessing compensation to be paid under this Act.
+Note—
+See also—
+(a) the Geothermal Energy Act 2010, section 350A(8) for additional
+requirements if geothermal interests under that Act are to be
+wholly or partially extinguished; and
+(b) the Greenhouse Gas Storage Act 2009, section 369A(8) for
+additional requirements if GHG interests under that Act are to be
+wholly or partially extinguished; and
+(c) the Mineral Resources Act 1989, section 10AAA(8) for additional
+requirements if mining tenement interests under that Act are to be
+wholly or partially extinguished; and
+(d) the Petroleum Act 1923, section 124A(8) for additional
+requirements if 1923 Act petroleum interests under that Act are to
+be wholly or partially extinguished; and
+(e) the Petroleum and Gas (Production and Safety) Act 2004,
+section 30AA(8) for additional requirements if petroleum interests
+under that Act are to be partially or wholly extinguished.
+(4)
+Where a notice of intention to resume relates to land under the
+Land Title Act 1994, the constructing authority shall file a
+copy of the notice with the land registry.
+(4AA)
+The constructing authority may, by written notice given to
+each entity to whom the notice of intention to resume is
+served under subsection (2), (2A) or (2B), amend the notice of
+intention to resume.
+(4AB)
+If the constructing authority amends the notice of intention to
+resume, the period within which an entity may serve on the
+constructing authority an objection to the taking of the land
+starts again from the day the notice of the amendment is given
+to the entity.
+Note—
+For the period within which an entity may serve an objection, see
+subsection (3)(d).
+(4A)
+If the constructing authority amends the notice of intention to
+resume or discontinues the resumption it shall forthwith file
+
+--------------------------------------------------------------------------------
+[s 8]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Current as at 22 July 2024
+Page 15
+Authorised by the Parliamentary Counsel
+with the land registry a notice of the amendment or
+discontinuance.
+(4B)
+For the purpose of subsection (4A), notwithstanding that a
+constructing authority has not served notice under section 16,
+it shall be deemed to discontinue a resumption if an
+application under section 9(1) has not been made within the
+time stated in section 9(2).
+(5)
+The failure by the constructing authority to serve upon the
+owner a notice of intention to resume, where such failure is
+due to circumstances beyond the control of the constructing
+authority, or the failure of the constructing authority to serve
+upon any person other than the owner a notice of intention to
+resume, or the failure of the constructing authority to observe
+subsection (4), shall not prejudice any gazette resumption
+notice made under this Act, with respect to any land, and any
+land included in the notice shall be taken in terms of the notice
+notwithstanding any such failure, and the failure by the
+constructing authority to serve upon any person entitled
+thereto any notice as prescribed by this Act shall not
+invalidate the continuance or discontinuance of any
+resumption.
+(6)
+In subsection (5)—
+owner means, in the case of land under the Land Title Act
+1994, the person registered as the proprietor in fee simple at
+the date of the notice of intention to resume.
+8
+Dealing with objections
+(1)
+A person entitled to be served with a notice of intention to
+resume land who has objected as prescribed to the taking (the
+objector) shall not be entitled to be heard in support of the
+grounds of the objection unless the person stated in the
+objection that the person desired to be so heard and appears,
+in person or by counsel, solicitor or agent, at the time and
+place specified in the notice.
+(2)
+The constructing authority shall consider the grounds of
+objection to the taking of any land and—
+
+--------------------------------------------------------------------------------
+[s 9]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Page 16
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+(a)
+if the objector has been heard by the constructing
+authority—the matters put forward by the objector in
+support of such grounds; or
+(b)
+if the objector has been heard by the delegate of the
+constructing authority—the report thereon of such
+delegate.
+(2A)
+If upon such consideration, the constructing authority is of
+opinion that the resumption should be discontinued or that the
+notice of intention to resume should be amended, the
+constructing authority may discontinue the resumption or
+amend the notice of intention to resume.
+(2B)
+However, a notice of intention to resume shall not be amended
+so as to include therein land additional to the land the subject
+thereof.
+(3)
+If the constructing authority amends the notice of intention to
+resume, the objector can not again object to the taking of the
+land as provided for under the amended notice if the owner of
+the land (whether or not the owner is the objector) agrees to
+the amendment.
+9
+Ways in which land is to be taken
+(1)
+If within the time stated in the notice of intention to resume no
+objection is made or if, after due consideration of all
+objections, the constructing authority is of opinion that the
+land in question is required for the purpose for which it is
+proposed to be taken, the constructing authority may apply to
+the relevant Minister that the land be taken as prescribed by
+this section.
+(2)
+Such application shall be made within 12 months after the
+date of the notice of intention to resume and not thereafter.
+(3)
+Such application shall contain or be accompanied by each of
+the following—
+(a)
+a copy of the relevant notice of intention to resume and
+of any further notice amending the same served under
+section 7;
+
+--------------------------------------------------------------------------------
+[s 9]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Current as at 22 July 2024
+Page 17
+Authorised by the Parliamentary Counsel
+(b)
+where the land is not described in the notice of intention
+to resume as mentioned in section 7(3)(b)(i)—a copy of
+a plan of survey of the land certified as accurate by a
+cadastral surveyor or a plan sufficient to substantially
+identify the land;
+(c)
+a list of the names and addresses last known to the
+constructing authority of all persons who to the
+knowledge of the constructing authority are entitled
+pursuant to section 18 to claim compensation;
+(d)
+a statement as to those of the persons mentioned in
+paragraph (c) who have not been served with the notice
+of intention to resume and, a further statement setting
+out in relation to every such person, the manner in which
+such service was attempted and the reasons for failure to
+effect it;
+(e)
+a statement whether or not any person objected in terms
+of the notice of intention to resume and, in the case of
+such an objection or objections, the name or names of
+the objector or objectors, a copy of every objection, and
+a report by the constructing authority thereon.
+(4)
+The relevant Minister may require any constructing authority
+to furnish, within a time specified by the relevant Minister,
+such further particulars and information as the relevant
+Minister deems fit with respect to an application under this
+section.
+(5)
+The relevant Minister must consider every application made
+under this section, including all statements and documents, or
+copies of documents, accompanying the application to ensure
+that—
+(a)
+the land to be taken may be taken and should be taken
+for the purpose for which it is proposed to be taken; and
+(b)
+the constructing authority has taken reasonable steps to
+comply with sections 7 and 8; and
+(c)
+if the notice of intention to resume has not been served
+on the owner as defined in section 7(6), that the failure
+
+--------------------------------------------------------------------------------
+[s 11]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Page 18
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+to do so was due to circumstances beyond the control of
+the constructing authority.
+(6)
+The Governor in Council may, by gazette notice, declare that
+the land particularised in the notice is taken for the purpose
+mentioned in the notice.
+(7)
+Without limiting subsection (6), the relevant Minister may, by
+gazette notice, declare that the land particularised in the notice
+is taken for the purpose mentioned in the notice if—
+(a)
+the objection period for the notice of intention to resume
+the land has ended and no objections were received in
+response to the notice; and
+(b)
+if the land is being taken for a multi-parcel
+purpose—every other parcel of land required to be taken
+to carry out the multi-parcel purpose—
+(i)
+has been taken under this Act; or
+(ii)
+is the subject of a resumption agreement entered
+into by the constructing authority; or
+(iii) is the subject of a notice of intention to resume for
+which the objection period has ended and no
+objections were received.
+(8)
+The taking is effective on the day of publication of the notice.
+11
+Amending of gazette resumption notice
+(1)
+Section 24AA of the Acts Interpretation Act 1954 applies to
+the amendment of a gazette resumption notice.
+Notes—
+1
+Acts Interpretation Act 1954, section 24AA (Power to make
+instrument or decision includes power to amend or repeal)
+2
+See section 17 for the power to revoke a gazette resumption notice.
+(2)
+However, to the extent the power to amend the gazette
+resumption notice is exercised to correctly describe the land
+taken by the notice or to correct another error, the power is not
+subject to sections 7 to 9 or division 3.
+
+--------------------------------------------------------------------------------
+[s 11]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Current as at 22 July 2024
+Page 19
+Authorised by the Parliamentary Counsel
+(3)
+Also, a gazetting authority may, by gazette notice, amend a
+gazette resumption notice made by the Governor in Council to
+change the description or area of land taken under the gazette
+resumption notice, but only if—
+(a)
+the description or area was described in the gazette
+resumption notice other than in a plan of survey
+registered in the land registry; and
+(b)
+the description or area is described in the amending
+gazette notice in a plan of survey that—
+(i)
+complies 
+with 
+the 
+Survey 
+and 
+Mapping
+Infrastructure Act 2003; and
+(ii)
+is certified as accurate by a cadastral surveyor
+within the meaning of the Surveyors Act 2003; and
+(c)
+the change is made solely to accurately state the
+description or area of land taken.
+(4)
+However—
+(a)
+no person shall be prejudiced in respect of any
+mortgage, charge, claim, estate, or interest existing in
+respect of the land, by reason of the person having, in
+consequence of the gazette resumption notice or
+amendment of the gazette notice, done or omitted to do
+any act or thing, or failed to enforce or act upon any
+right, or to comply with any obligation in respect of
+such mortgage, charge, claim, estate or interest; and
+(b)
+no person shall have any right of action or claim against
+the constructing authority for anything bona fide done
+under the gazette resumption notice or an amended
+gazette notice; and
+(c)
+nothing in this section contained shall limit the power of
+the constructing authority to take at any subsequent time
+the whole or any part of the land mentioned or described
+in any gazette resumption notice so amended; and
+(d)
+any amendment of the gazette resumption notice shall
+not prejudice or affect the power of the constructing
+authority to take any land which has been excluded from
+
+--------------------------------------------------------------------------------
+[s 12]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Page 20
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+the gazette resumption notice by reason of the
+amendment; and
+(e)
+if the constructing authority again takes land which has
+been excluded from the gazette resumption notice by
+reason of the amendment, compensation shall not be
+payable in respect of the value of any works or
+improvements which have been made or effected on the
+land by the constructing authority subsequent to the date
+of publication in the gazette of the gazette resumption
+notice.
+12
+Effect of gazette resumption notice
+(1)
+Subject to subsection (4), land taken by a gazette resumption
+notice—
+(a)
+shall vest, according as the notice prescribes, in the
+Crown or in the constructing authority which requires
+the land on and from the date of the publication in the
+gazette of the notice; or
+(b)
+if it is taken by the Crown on behalf of a corporation
+representing the Crown in right of the State or
+constituted by any Act shall vest in the corporation
+requiring the land if the notice so prescribes and in such
+case, where the corporation is not a constructing
+authority, the provisions of section 41 shall apply as if
+the corporation were a constructing authority.
+(2A)
+Where land taken vests in a constructing authority or, if the
+gazette resumption notice so prescribes, in a corporation it
+shall so vest and be held by the constructing authority or
+corporation for the estate or interest therein of which the land
+taken consists and, where the estate or interest is such that
+provision is made by the Land Title Act 1994 for its
+registration, upon application by the constructing authority or
+corporation and production of a gazette copy of the gazette
+resumption notice and payment of the prescribed fees, the
+registrar of titles shall register the constructing authority or
+corporation accordingly.
+
+--------------------------------------------------------------------------------
+[s 12]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Current as at 22 July 2024
+Page 21
+Authorised by the Parliamentary Counsel
+(3)
+Where the land taken is part of land subject to a building units
+plan registered under the Building Units and Group Titles Act
+1980 the registrar of titles shall, upon payment of the
+prescribed fees, do and execute all such acts, matters and
+things as the registrar of titles considers necessary to amend
+the building units plan, and may make all such recordings as
+the registrar of titles considers necessary in the appropriate
+register.
+(3A)
+If land taken is scheme land for a community titles scheme
+under the Body Corporate and Community Management Act
+1997, the registrar of titles must, on payment of the prescribed
+fee, take the necessary action—
+(a)
+to register a plan of survey identifying the remaining
+scheme land; and
+(b)
+to record the taking of the land in the freehold land
+register; and
+(c)
+to record a new community management statement for
+the scheme.
+(4)
+Land granted by the Crown upon trust for a public purpose, or
+land comprised in a lease held under the Land Act 1994, shall
+upon and by virtue of the taking thereof become unallocated
+State land.
+(4A)
+Land mentioned in subsection (4) may, having regard to the
+purpose for which it was taken—
+(a)
+be dedicated, under the Land Act 1994, as a reserve
+under the trusteeship of the constructing authority; or
+(b)
+be dedicated, under the Land Act 1994 or this Act, as a
+road; or
+(c)
+be granted or leased, under the Land Act 1994, to the
+constructing authority; or
+(d)
+be dealt with under another Act.
+(4B)
+The constructing authority that takes the land mentioned in
+subsection (4) may also deal with the land for the purpose for
+which it is taken on and from the day it is taken, even though
+
+--------------------------------------------------------------------------------
+[s 12]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Page 22
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+the land is yet to be dedicated, granted, leased or otherwise
+dealt with under subsection (4A).
+(5)
+On and from the date of the publication of the gazette
+resumption notice the land thereby taken shall be vested or
+become unallocated State land as provided by the foregoing
+provisions of this section absolutely freed and discharged
+from all trusts, obligations, mortgages, charges, rates,
+contracts, claims, estates, or interest of what kind soever, or if
+an easement only is taken, such easement shall be vested in
+the constructing authority or, where the gazette resumption
+notice prescribes, in the corporation requiring the easement,
+and the estate and interest of every person entitled to the
+whole or any part of the land shall thereby be converted into a
+right to claim compensation under this Act and every person
+whose estate and interest in the land is injuriously affected by
+the easement shall have a right to claim compensation under
+this Act.
+Note—
+See, however—
+(a) the Geothermal Energy Act 2010, sections 350A and 350B in
+relation to geothermal interests under that Act; and
+(b) the Greenhouse Gas Storage Act 2009, sections 369A and 369B in
+relation to GHG interests under that Act; and
+(c) the Mineral Resources Act 1989, sections 10AAA and 10AAB in
+relation to mining tenement interests under that Act; and
+(d) the Petroleum Act 1923, sections 124A and 124B in relation to
+1923 Act petroleum interests under that Act; and
+(e) the Petroleum and Gas (Production and Safety) Act 2004,
+sections 30AA and 30AB in relation to petroleum interests under
+that Act.
+(5A)
+The amount of such compensation may be agreed upon
+between the constructing authority and the claimant subject,
+however, to the consent of any mortgagee of the land taken.
+(5B)
+Failing such agreement every such claim may be enforced
+against the constructing authority concerned under, subject to
+and in accordance with this Act and that constructing
+authority shall be liable accordingly.
+
+--------------------------------------------------------------------------------
+[s 12A]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Current as at 22 July 2024
+Page 23
+Authorised by the Parliamentary Counsel
+(5C)
+Despite subsection (5), a person does not obtain a right to
+claim compensation under this Act in relation to an interest in
+land that is an interest under a services contract for the land.
+(6)
+Subject to section 11, publication of a gazette resumption
+notice is evidence that the following provisions have been
+complied with—
+(a)
+for land taken under division 3 in accordance with a
+resumption agreement—that division;
+(b)
+otherwise—sections 7, 8 and 9.
+(7)
+Forthwith after the publication of the gazette resumption
+notice taking any land or of a gazette notice amending the
+same, the constructing authority shall serve upon every person
+who to its knowledge is entitled pursuant to section 18 to
+claim compensation or is a mortgagee of the land a copy of
+the notice.
+(8)
+The omission to serve upon any person such a copy shall not
+prejudice or affect in any way the operation and effect of the
+notice in question.
+(9)
+In this section—
+services contract, for land, means a contract merely for the
+provision of services on, to, or in relation to, the land, but does
+not include a contract for the provision of services under
+which a person has a right to reside on any part of the land.
+Example of a services contract—
+a contract for the provision of a cleaning or maintenance service on
+premises
+12A
+Constructing authority must lodge new plan of survey for 
+particular land
+(1)
+This section applies if—
+(a)
+land taken under this Act is part of—
+(i)
+land subject to a building units plan registered
+under the Building Units and Group Titles Act
+1980; or
+
+--------------------------------------------------------------------------------
+[s 12B]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Page 24
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+(ii)
+scheme land for a community titles scheme under
+the Body Corporate and Community Management
+Act 1997; and
+(b)
+the taking of the land affects the integrity of a boundary
+of a lot or common property shown on a plan registered
+under the Building Units and Group Titles Act 1980,
+Land Title Act 1994 or another Act for the land.
+(2)
+The constructing authority for the acquisition must lodge with
+the registrar of titles a plan of survey showing a new boundary
+for the lot or common property.
+12B
+Particular land may be dedicated as road
+(1)
+This section applies if land is taken under this Act for the
+purpose of roads.
+(2)
+The land may be dedicated as a road by recording a dedication
+notice for the land in the appropriate register under the Land
+Act 1994 or the Land Title Act 1994.
+(3)
+If the registrar of titles receives a dedication notice for the
+land, the registrar must register the notice.
+(4)
+The registration of the dedication notice, without anything
+further, opens the road for the Land Act 1994.
+(5)
+In this section—
+dedication notice, for land, see the Land Act 1994,
+schedule 6.
+13
+Provision for taking particular additional land
+(1)
+If—
+(a)
+a constructing authority proposes to take, or has taken,
+part of any land; and
+(b)
+the taking of the part (the primary part) will leave, or
+has left, a parcel of land (the additional land) that the
+constructing authority and the owner of the land
+
+--------------------------------------------------------------------------------
+[s 14]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Current as at 22 July 2024
+Page 25
+Authorised by the Parliamentary Counsel
+required to be taken or that was taken agree in writing is
+of no practical use or value to the owner;
+the constructing authority also must take the additional land.
+(1A)
+The taking of the additional land mentioned in subsection (1)
+is taken to be for a purpose incidental to the carrying out of
+the purpose for which the primary part is to be, or was, taken.
+(2)
+If, by reason of the fact that a boundary of land proposed to be
+taken (the primary land) will sever the principal building
+erected on the land from which the primary land will be
+severed and of the circumstances of the case relevant thereto,
+it appears to the Governor in Council that it is desirable that
+the constructing authority should take additional land
+approved by the Governor in Council (also the additional
+land) being the whole or part of the land from which the
+primary land will be severed the additional land may be taken
+as prescribed by this Act and the taking of the additional land
+shall be deemed to be for a purpose incidental to the carrying
+out of the purpose for which the primary land is taken.
+(2A)
+The constructing authority may take the additional land
+mentioned in subsection (2) when the constructing authority
+takes the primary land or after the primary land has been
+taken.
+(3)
+A constructing authority may sell or otherwise deal with
+additional land taken by it under this section in such manner
+as it thinks fit and the power hereby conferred shall not be
+subject to the provisions of any other Act which purport to
+restrict or regulate the exercise by the constructing authority
+of its power to sell or otherwise deal with land or to the
+provisions of section 41.
+14
+Dealing with title to land affected by resumption
+(1)
+The registrar of titles may, by notice in writing, require a
+person who has in his or her possession, custody or control
+any instrument evidencing the title to the land taken by the
+constructing authority named in such notice, to deliver up to
+
+--------------------------------------------------------------------------------
+[s 15]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Page 26
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+the land registry, within the time specified in such notice, the
+instrument in question.
+(2)
+A person thereunto required by a notice under subsection (1),
+who fails to deliver up to the land registry the instrument
+specified in the notice within the time therein specified shall
+be guilty of an offence and liable to a penalty of 2 penalty
+units.
+(2A)
+Notwithstanding that such person has not been proceeded
+against for such offence, unless such failure is due to
+circumstances beyond the person’s control, the person shall
+not be entitled to receive compensation or to be paid any
+advance or, in the case of a mortgagee, to be made any
+payment under this Act until the instrument in question is
+delivered to the land registry.
+(3)
+The costs and expenses in connection with the recording or
+registration of documents rendered necessary by the taking of
+the land shall be borne by the constructing authority.
+(4)
+Such costs and expenses may be taxed by the proper officer of
+the Supreme Court under the rules of that court.
+Division 3
+Taking by agreement
+Subdivision 1
+Resumption agreements
+15
+Meaning of resumption agreement
+(1)
+A resumption agreement is an agreement, complying with
+subsection (3), for a constructing authority to take land under
+this Act entered into by the authority and 1 or more of the
+affected persons for the land.
+(2)
+An affected person, for land the subject of a resumption
+agreement, is each person who, to the constructing authority’s
+knowledge—
+(a)
+will be entitled to claim compensation under this Act in
+respect of the taking of the land; or
+
+--------------------------------------------------------------------------------
+[s 15A]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Current as at 22 July 2024
+Page 27
+Authorised by the Parliamentary Counsel
+(b)
+is a mortgagee of the land.
+(3)
+A resumption agreement must—
+(a)
+be written; and
+(b)
+be signed by each affected person who is a party to the
+agreement; and
+(c)
+state—
+(i)
+the particular purpose for which the land to be
+taken is to be taken; and
+(ii)
+a description of the land in the way mentioned in
+section 7(3)(b); and
+(iii) if the land is an easement—the rights and
+obligations to be conferred and imposed by the
+easement.
+(4)
+A resumption agreement may, in relation to the compensation
+for the taking of the land to be taken, for each affected person
+provide—
+(a)
+for the compensation to the person; or
+(b)
+that the amount of the compensation is to be fixed under
+part 4.
+(5)
+For subsection (4)(a), the compensation may include the
+benefit of an easement or another interest in land granted by
+the constructing authority over any land under the authority’s
+control.
+Subdivision 2
+Process for taking
+15A
+Application of sdiv 2
+This subdivision applies if a constructing authority has
+entered into a resumption agreement for particular land.
+
+--------------------------------------------------------------------------------
+[s 15B]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Page 28
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+15B
+Limit on taking under sdiv 2
+The land may be taken under this subdivision only if, for
+every affected person for the land—
+(a)
+the person—
+(i)
+is a party to the resumption agreement; or
+(ii)
+is a party to another resumption agreement for a
+particular interest in the land; or
+(iii) has given written consent to the land being taken in
+accordance with the resumption agreement; or
+(b)
+the person’s interest in the land—
+(i)
+has been taken under this Act; or
+(ii)
+is taken under section 9 immediately before, or
+when, the land is taken under this subdivision.
+15C
+Taking by Governor in Council
+(1)
+The constructing authority may apply to the relevant Minister
+for the land to be taken under this section.
+(2)
+The application must be—
+(a)
+made within 1 year after the date of the resumption
+agreement; and
+(b)
+accompanied by—
+(i)
+a copy of the resumption agreement; and
+(ii)
+if the land is not identified in the resumption
+agreement 
+in 
+the 
+way 
+mentioned 
+in
+section 7(3)(b)(i)—a copy of a plan of survey of
+the land certified by a cadastral surveyor as being
+accurate or a plan that is sufficient to substantially
+identify the land.
+(3)
+The relevant Minister may, by written notice, require the
+constructing authority to give the relevant Minister stated
+information relating to the application within a stated
+reasonable period.
+
+--------------------------------------------------------------------------------
+[s 15D]
+Acquisition of Land Act 1967
+Part 2 Taking of land
+Current as at 22 July 2024
+Page 29
+Authorised by the Parliamentary Counsel
+(4)
+The relevant Minister must consider the application and any
+information given under subsection (3) to ensure the land—
+(a)
+may be taken; and
+(b)
+should be taken for the purpose for which it is proposed
+to be taken.
+(5)
+The Governor in Council may, by gazette notice, declare that
+the land is taken for the purpose stated in the notice.
+15D
+Taking by constructing authority
+(1)
+The constructing authority may, by gazette notice, declare that
+the land is taken for the purpose stated in the notice, without
+making any application under section 15C.
+(2)
+However, the constructing authority may take the land for a
+multi-parcel purpose only if every other parcel of land
+required to be taken to carry out the multi-parcel purpose—
+(a)
+has been taken under this Act; or
+(b)
+is the subject of a resumption agreement entered into by
+the constructing authority; or
+(c)
+is the subject of a notice of intention to resume for
+which the objection period has ended and no objections
+have been received.
+(3)
+Also, the constructing authority may act under subsection (1)
+to take the land only if the authority is satisfied the land—
+(a)
+may be taken; and
+(b)
+should be taken for the purpose for which it is proposed
+to be taken.
+Subdivision 3
+Miscellaneous
+15E
+When taking is effective
+A taking under this division is effective on the day the gazette
+resumption notice is published.
+
+--------------------------------------------------------------------------------
+[s 15F]
+Acquisition of Land Act 1967
+Part 3 Discontinuance of taking of land
+Page 30
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+15F
+Non-application of sections 7 to 9
+Sections 7 to 9 do not apply to the taking of land under this
+division.
+15G
+When constructing authority is taken to have 
+discontinued resumption
+If a constructing authority has not made an application under
+section 15C or taken land under section 15D within 1 year
+after the date of a resumption agreement to which the
+authority is a party—
+(a)
+the authority is taken to have discontinued the
+resumption of the land the subject of the agreement; and
+(b)
+section 16 applies as if the authority had served each of
+the affected persons for the land with a notice of
+intention to resume.
+15H
+No limit on other acquisition of land
+This division does not limit the power of a constructing
+authority to acquire land in another way, including, for
+example, by purchasing it.
+Part 3
+Discontinuance of taking of 
+land
+16
+Discontinuance of resumption before publication of 
+gazette resumption notice
+(1)
+A constructing authority may at any time before the
+publication of the gazette resumption notice, serve upon every
+person who has been served with a notice of intention to
+resume a further notice stating that the constructing authority
+is discontinuing the resumption of the land concerned.
+(1A)
+Service of the further notice shall discontinue the resumption
+concerned and no person shall have any claim for
+
+--------------------------------------------------------------------------------
+[s 17]
+Acquisition of Land Act 1967
+Part 3 Discontinuance of taking of land
+Current as at 22 July 2024
+Page 31
+Authorised by the Parliamentary Counsel
+compensation or other right or remedy whatsoever against the
+constructing authority for any loss or damage alleged to have
+been occasioned (directly or indirectly) by the service of the
+notice of intention to resume or the discontinuance of the
+resumption except a claim for compensation for costs and
+expenses incurred by the person who was served with the
+notice and any actual damage done to the land concerned by
+the constructing authority.
+(1B)
+The constructing authority and the claimant may agree upon
+the amount of the compensation to be paid under
+subsection (1A) or, upon the reference of either of them, such
+amount may be determined by the Land Court.
+(1C)
+However, the constructing authority may have such costs and
+expenses taxed by the proper officer of the Supreme Court
+under the rules of that court and that no person shall be
+entitled to compensation in excess of the value of his or her
+estate or interest in the land.
+(2)
+For the purposes of this section, notwithstanding that notice
+under this section has not been served, the constructing
+authority shall be deemed to discontinue a resumption if an
+application under section 9(1) has not been made within the
+time stated in section 9(2).
+17
+Revocation before determination of compensation
+(1)
+If, at any time after the publication of the gazette resumption
+notice and before the amount of compensation to be paid in
+respect of the taking thereof is determined by the Land Court
+or the payment of compensation in respect of the taking is
+sooner made, it is found that the land or any part thereof is not
+required for the purpose for which it was taken, the Governor
+in Council or a gazetting authority, by gazette notice (the
+revoking gazette notice), may revoke the gazette resumption
+notice, in whole or in part.
+(1A)
+However, the revoking gazette notice shall not be made or
+published in the gazette unless the person entitled as owner to
+compensation in respect of the taking of the land has
+
+--------------------------------------------------------------------------------
+[s 17]
+Acquisition of Land Act 1967
+Part 3 Discontinuance of taking of land
+Page 32
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+previously agreed in writing to the revesting as provided by
+this section of the land or part to which that notice relates.
+(2)
+Upon the revocation wholly or otherwise by a revoking
+gazette notice of any gazette resumption notice—
+(a)
+the gazette resumption notice shall to the extent to
+which so revoked be deemed to be absolutely void as
+from the making thereof as if it had not been made; and
+(b)
+without prejudice to the provisions of paragraph (a), the
+land or part thereof, as the case may be, to which the
+revoking gazette notice relates shall revest in the person
+in whom the same vested immediately prior to the day
+when it was taken by the constructing authority under
+the gazette resumption notice taking the land and,
+subject as hereinafter in this section provided, shall so
+revest for the person’s then estate or interest therein; and
+(c)
+the constructing authority shall cause a gazette copy of
+the revoking gazette notice to be lodged with the land
+registry, and the registrar of titles must as soon as may
+be thereafter, at the cost and expense of the constructing
+authority, do and execute all such acts, matters, and
+things as the registrar of titles shall consider necessary
+to give effect to this subsection.
+(2A)
+Subject to subsection (2)(a), for subsection (2)(b) the land or
+part shall so revest subject to all trusts, obligations,
+mortgages, encumbrances, charges, rates, contracts, claims,
+estates and interests of what kind soever subsisting therein or
+thereover immediately prior to the taking thereof, but so that
+no person shall be prejudiced by reason of the person having,
+in consequence of the gazette resumption notice taking the
+land in question and in the meantime, done or omitted to do
+any act or thing or failed to exercise any right in respect of any
+such trust, obligation, mortgage, encumbrance, charge, rate,
+contract, claim, estate, or interest and, without limiting the
+generality of the aforegoing, so that the time allowed under
+any such trust, obligation, mortgage, encumbrance, charge,
+rate, contract, claim, estate, or interest for the doing of any act
+or the exercising of any right shall be deemed not to be
+
+--------------------------------------------------------------------------------
+[s 18]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Current as at 22 July 2024
+Page 33
+Authorised by the Parliamentary Counsel
+shortened by the period commencing on and including the
+date on which the land was taken and ending with and
+including the day immediately preceding the date on which
+the land or part was revested.
+(4)
+Any person entitled to claim compensation under this Act in
+respect of the taking of any land may, upon the revesting of
+such land or part thereof pursuant to this section, claim from
+the constructing authority compensation for the loss or
+damage and (if any) costs or expenses incurred by the person
+in consequence of the taking of the land and prior to its
+revesting.
+(5)
+The constructing authority and the claimant may agree upon
+the amount of the compensation to be paid under
+subsection (4), or they may agree that such amount be
+determined by the Land Court, in which case such amount
+shall, upon the reference of either of them, be determined by
+the Land Court as if the land had been taken and not revested
+and the claim were limited to the compensation payable under
+that subsection.
+Part 4
+Compensation
+18
+By whom compensation may be claimed
+(1)
+Subject to subsections (2), (3), (4A) and (5) compensation
+whereto a right is had under section 12 may be claimed from
+the constructing authority under, subject to and in accordance
+with the provisions of this part.
+(2)
+In the case of the inability or incapacity of any person entitled
+to claim, the claim may be made by the person’s guardian,
+trustee or committee or, if there is no guardian, trustee or
+committee, the Public Trustee of Queensland.
+(3)
+Compensation shall not be claimable by or payable to a
+person who is lessee, tenant or licensee of any land taken if
+the constructing authority upon written application allows the
+person’s estate or interest to continue uninterrupted.
+
+--------------------------------------------------------------------------------
+[s 18]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Page 34
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+(3A)
+If a person’s investment property is taken under this Act,
+compensation for costs mentioned in the definition costs
+attributable to disturbance, paragraphs (a) and (b), under
+section 20(5) is claimable by, and payable to, the person for
+the purchase of land by the person to replace the investment
+property.
+(4)
+Subsection (4A) applies to land under the Land Title Act 1994.
+(4A)
+Where, in respect of an estate or interest in the land taken
+which is not duly registered or notified in the land registry, a
+claimant makes a claim for compensation subsequent to the
+payment to another claimant of compensation in respect of a
+greater estate or interest in the land taken which included the
+unregistered or unnotified estate or interest pursuant to a
+claim made by such other claimant in or in connection with
+which the first mentioned claimant did not disclose in writing
+such unregistered or unnotified estate or interest, the claimant
+first mentioned in this subsection shall not be entitled to any
+compensation whatever from the constructing authority.
+(5)
+The claim for compensation of a trustee or trustees of any land
+in respect of the taking thereof shall be limited to the amount
+of actual damage caused to the trust by reason of the taking,
+and no such trustee shall have any other right, remedy, or
+claim whatsoever in respect of such taking against the Crown
+or any other person whomsoever and this Act and every other
+relevant Act or law or rule, practice, or process of law, or
+judgment of any court of competent jurisdiction, shall be read,
+construed and applied subject to this subsection.
+(6)
+For the purposes of a claim for compensation in respect of
+common property under and within the meaning of the
+Building Units and Group Titles Act 1980, the body corporate
+constituted under that Act by the proprietors within the
+meaning thereof of the units comprised in the building units
+plan concerned shall be deemed to be the owner of such
+common property.
+(7)
+Except by unanimous resolution of all proprietors such body
+corporate shall not agree upon the amount of compensation.
+
+--------------------------------------------------------------------------------
+[s 18]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Current as at 22 July 2024
+Page 35
+Authorised by the Parliamentary Counsel
+(8)
+Unless otherwise agreed by unanimous resolution of all
+proprietors, the amount of compensation shall be distributed
+among the proprietors in shares proportional to the unit
+entitlements of their respective units.
+(9)
+For a claim for compensation for common property for a
+community titles scheme, the body corporate for the scheme
+is taken to be the owner of the common property.
+(10)
+However—
+(a)
+the body corporate may agree on the amount of
+compensation only by resolution without dissent; and
+(b)
+unless the body corporate agrees by resolution without
+dissent to a different distribution of the compensation, it
+must be distributed among the owners of lots in shares
+proportionate to the respective interest schedule lot
+entitlements of their lots.
+(11)
+In subsections (9) and (10), the following words have the
+meanings given by the Body Corporate and Community
+Management Act 1997—
+•
+body corporate
+•
+common property
+•
+community titles scheme
+•
+interest schedule lot entitlement
+•
+lot
+•
+owner
+•
+resolution without dissent.
+(12)
+Subsection (13) applies to the proprietor of a lot in a building
+units plan under the Building Units and Group Titles Act
+1980, or the owner of a lot in a community titles scheme under
+the Body Corporate and Community Management Act 1997,
+in relation to which a claim for compensation for common
+property mentioned in subsection (6) or (9) is made.
+(13)
+The making of the claim for compensation for the common
+property does not stop the proprietor or owner making a claim
+
+--------------------------------------------------------------------------------
+[s 19]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Page 36
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+for compensation for damage suffered by the proprietor or
+owner as a result of the taking of the common property and
+the effect of the taking on the proprietor’s or owner’s lot.
+(14)
+In subsection (3A)—
+investment property, of a person, means any land held by the
+person for investment purposes.
+19
+Claim for compensation
+(1)
+A claim for compensation shall be in writing, shall be served
+upon the constructing authority, shall state in full the name
+and address of the claimant, shall be signed by the claimant,
+and shall contain or be accompanied by each of the
+following—
+(a)
+a description of the land taken and a statement of the
+area thereof;
+(b)
+a statement of the nature and particulars of the
+claimant’s estate or interest in the land taken;
+(c)
+a statement (which, in the case of the owner, shall be
+verified by statutory declaration) as to whether or not
+the claimant’s estate or interest in the land taken is
+subject to any trust, obligation, mortgage, lease,
+agreement to lease, charge, rate, contract, claim or other
+estate or interest whatsoever and, if so, the nature and
+particulars of those of the aforesaid to which the estate
+or interest is subject;
+(d)
+an itemised statement of the claim, showing the nature
+and particulars of each item and the amount claimed in
+respect thereof;
+(e)
+the total amount of compensation claimed.
+(2)
+Where the estate or interest of the claimant is not registered or
+notified in the land registry, the claim shall be accompanied
+by proof of title to the estate or interest claimed, which proof
+shall include copies of or abstracts from all documents (if any)
+necessary to establish in law the estate or interest.
+
+--------------------------------------------------------------------------------
+[s 20]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Current as at 22 July 2024
+Page 37
+Authorised by the Parliamentary Counsel
+(3)
+A claim for compensation may be served on the constructing
+authority only within 3 years after the day the land was taken.
+(4)
+Despite subsection (3), the constructing authority may accept,
+and deal with, a claim for compensation served by the
+claimant more than 3 years after the day the land was taken if
+the constructing authority is satisfied it is reasonable in all the
+circumstances to do so.
+(5)
+If the constructing authority does not accept a claim served by
+the claimant more than 3 years after the day the land was
+taken, the claimant may apply to the Land Court to decide
+whether it is reasonable in all the circumstances for the
+constructing authority to accept the claim.
+(6)
+If the Land Court decides it is reasonable in all the
+circumstances for the constructing authority to accept the
+claim, the constructing authority must accept, and deal with,
+the claim under this Act.
+(7)
+If the constructing authority accepts and deals with a claim for
+compensation served by the claimant more than 3 years after
+the day the land was taken, the Land Court must take into
+account the late service of the claim in deciding any amount
+of interest payable under section 28 in relation to the claim.
+20
+Assessment of compensation
+(1)
+In assessing the compensation to be paid, regard shall in every
+case be had not only to the value of land taken but also—
+(a)
+to the damage, if any, caused by any of the following—
+(i)
+the severing of the land taken from other land of
+the claimant;
+(ii)
+the exercise of any statutory powers by the
+constructing 
+authority 
+otherwise 
+injuriously
+affecting the claimant’s other land mentioned in
+subparagraph (i); and
+(b)
+to the claimant’s costs attributable to disturbance.
+
+--------------------------------------------------------------------------------
+[s 20]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Page 38
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+Note—
+See, however—
+(a) the Geothermal Energy Act 2010, section 350D in relation to
+geothermal interests under that Act; and
+(b) the Greenhouse Gas Storage Act 2009, section 369D in relation to
+GHG interests under that Act; and
+(c) the Mineral Resources Act 1989, section 10AAD in relation to
+mining tenement interests under that Act; and
+(d) the Petroleum Act 1923, section 124C in relation to 1923 Act
+petroleum interests under that Act; and
+(e) the Petroleum and Gas (Production and Safety) Act 2004,
+section 30AD in relation to petroleum interests under that Act.
+(2)
+Compensation shall be assessed according to the value of the
+estate or interest of the claimant in the land taken on the date
+when it was taken.
+(2A)
+However, in assessing the compensation, a contract, licence,
+agreement or other arrangement (a relevant instrument)
+entered into in relation to the land after the notice of intention
+to resume was served on the claimant must not be taken into
+consideration if the relevant instrument was entered into for
+the sole or dominant purpose of enabling the claimant or
+another person to obtain compensation for an interest in the
+land created under the instrument.
+(3)
+In assessing the compensation to be paid, there shall be taken
+into consideration, by way of set-off or abatement, any
+enhancement of the value of the interest of the claimant in any
+land adjoining the land taken or severed therefrom by the
+carrying out of the works or purpose for which the land is
+taken.
+(4)
+But in no case shall subsection (3) operate so as to require any
+payment to be made by the claimant in consideration of such
+enhancement of value.
+(5)
+In this section—
+costs attributable to disturbance, in relation to the taking of
+land, means all or any of the following—
+
+--------------------------------------------------------------------------------
+[s 20]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Current as at 22 July 2024
+Page 39
+Authorised by the Parliamentary Counsel
+(a)
+legal costs and valuation or other professional fees
+reasonably incurred by the claimant in relation to the
+preparation and filing of the claimant’s claim for
+compensation;
+(b)
+the following costs relating to the purchase of land by a
+claimant to replace the land taken—
+(i)
+stamp duty reasonably incurred or that might
+reasonably be incurred by the claimant, but not
+more than the amount of stamp duty that would be
+incurred for the purchase of land of equivalent
+value to the land taken;
+(ii)
+financial costs reasonably incurred or that might
+reasonably be incurred by the claimant in relation
+to the discharge of a mortgage and the execution of
+a new mortgage, but not more than the amount that
+would be incurred if the new mortgage secured the
+repayment of the balance owing in relation to the
+discharged mortgage;
+(iii) legal costs reasonably incurred by the claimant;
+(iv) other financial costs, other than any taxation
+liability, reasonably incurred by the claimant;
+(c)
+removal and storage costs reasonably incurred by the
+claimant in relocating from the land taken;
+(d)
+costs reasonably incurred by the claimant to connect to
+any services or utilities on relocating from the land
+taken;
+(e)
+other financial costs that are reasonably incurred or that
+might reasonably be incurred by the claimant, relating to
+the use of the land taken, as a direct and natural
+consequence of the taking of the land;
+(f)
+an amount reasonably attributed to the loss of profits
+resulting from interruption to the claimant’s business
+that is a direct and natural consequence of the taking of
+the land;
+
+--------------------------------------------------------------------------------
+[s 21]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Page 40
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+(g)
+other economic losses and costs reasonably incurred by
+the claimant that are a direct and natural consequence of
+the taking of the land.
+Example of costs for paragraph (g)—
+cost of school uniforms for children enrolled in a new school
+because of relocation from the land taken
+21
+Grant of easement etc. or transfer of land in satisfaction 
+of compensation
+(1)
+The constructing authority and the claimant may agree that
+the constructing authority will grant the claimant, in
+satisfaction wholly or partly of the claimant’s claim for
+compensation, any easement, right of way, lease or other right
+of occupation, or any other right, privilege or concession in,
+upon, over or under the land taken or any other land the
+property of the constructing authority.
+(1A)
+Also, the constructing authority and the claimant may agree
+that the constructing authority will transfer land held in fee
+simple by the constructing authority to the claimant in
+satisfaction wholly or partly of the claimant’s claim for
+compensation.
+(2)
+In such cases the parties may agree that the extent to which
+the grant or transfer shall satisfy the claim for compensation
+shall be determined by the Land Court, and the jurisdiction of
+the Land Court to determine the compensation shall include
+jurisdiction to determine the extent of such satisfaction.
+22
+Crown grant in satisfaction of compensation
+(1)
+Where the Crown is the constructing authority, and the
+claimant agrees, the Governor in Council may grant in fee
+simple or demise for any lesser estate or interest to the
+claimant, in satisfaction wholly or partly of the claim for
+compensation, any unallocated State land.
+(2)
+For the purposes of subsection (1), the relevant Minister, other
+than the State Development Minister, may close a road that
+traverses or adjoins land owned by the claimant, and the
+
+--------------------------------------------------------------------------------
+[s 23]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Current as at 22 July 2024
+Page 41
+Authorised by the Parliamentary Counsel
+Governor in Council may grant the land in the road to the
+claimant.
+23
+Advance against compensation
+(1)
+A claimant for compensation may at any time after the date on
+which the claimant delivered to the constructing authority his
+or her claim for compensation in accordance with the
+requirements of section 19, apply to the constructing authority
+to make to the claimant an advance not exceeding the amount
+prescribed by subsection (3) in respect of the compensation
+claimable by the claimant.
+(2)
+Subject to being satisfied that the applicant is entitled to claim
+compensation and to subsection (3) the constructing authority
+shall make to the applicant the advance applied for by the
+applicant in respect of the compensation claimed by the
+applicant.
+(3)
+The amount of an advance under this section shall not
+exceed—
+(a)
+where the constructing authority has made to the
+claimant an offer in writing of an amount of
+compensation 
+in 
+settlement 
+of 
+the 
+claimant’s
+claim—that amount; or
+(b)
+where the constructing authority has not made the offer
+mentioned in paragraph (a)—an amount equal to its
+estimate of the amount of compensation payable to the
+claimant.
+(4)
+Subject to subsections (5) and (6), any amount payable to a
+claimant under this section which is not paid within 90 days
+after the claimant applied for the payment shall be recoverable
+by the claimant as a debt due and unpaid to the claimant by
+the constructing authority.
+(5)
+Before paying the advance the constructing authority may
+require the claimant to satisfy it regarding taxes, rates and
+other moneys which, if unpaid, would be a charge upon the
+land, and may reduce the advance by any sum which, in
+respect of any thereof, is unpaid or, as respects any period of
+
+--------------------------------------------------------------------------------
+[s 24]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Page 42
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+time prior to the date when the land was taken, will become
+payable.
+(6)
+Where the land concerned is subject to a mortgage at the date
+when it is taken the constructing authority may reduce the
+advance by the sum due to the mortgagee.
+(7)
+The constructing authority may pay to the Crown or to the
+local government concerned or to the mortgagee any sum by
+which the advance has been reduced under subsection (5) or
+(6).
+24
+Reference of claim for compensation to Land Court
+(1)
+Subject to this section either the constructing authority or the
+claimant may refer to the Land Court for hearing and
+determination the matter of the amount of the compensation.
+(2)
+If the amount of the compensation has not been sooner agreed
+upon, the claimant may so refer that matter at any time after
+the date upon which the claimant delivered to the constructing
+authority a claim for compensation in accordance with the
+requirements of section 19.
+(2A)
+The claimant shall make the reference by filing in the office of
+the registrar of the Land Court copies of the claim delivered
+by the claimant to the constructing authority and of the notice
+of intention to resume and a gazette copy of the gazette
+resumption notice taking the land.
+(3)
+The claimant shall not amend the claim filed by the claimant
+in the office of the registrar of the Land Court except upon
+leave granted by that court (which leave the court may grant
+upon such terms as it deems just, including terms with respect
+to the payment of costs).
+(4)
+Upon the application of the constructing authority, the Land
+Court may order the claimant to file in the office of the
+registrar of the Land Court such further or other particulars
+with respect to the claim for compensation as, having regard
+to the provisions of section 19, the court deems fit.
+
+--------------------------------------------------------------------------------
+[s 25]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Current as at 22 July 2024
+Page 43
+Authorised by the Parliamentary Counsel
+(4A)
+A claimant who fails to comply with such an order within the
+time specified therein shall be deemed not to have referred to
+the Land Court the claim in question.
+(5)
+If the amount of the compensation has not been sooner agreed
+upon and—
+(a)
+if the claimant has not sooner delivered to it a claim for
+compensation substantially in accordance with the
+requirements of section 19, the constructing authority
+may so refer the matter at any time after the expiration
+of the period of 3 months next following the date of the
+gazette containing the gazette resumption notice taking
+the land; or
+(b)
+if the claimant has delivered to the constructing
+authority a claim for compensation, the constructing
+authority may so refer that matter at any time after the
+expiration of the period of 3 months next following the
+date of the gazette containing the gazette resumption
+notice taking the land, unless the reference has been
+sooner made by the claimant.
+(6)
+The constructing authority shall make the reference in the
+manner prescribed by subsection (2A) save that if the
+claimant has not delivered to the constructing authority a
+claim for compensation substantially in accordance with
+section 19, then in the stead of a copy of the claim the
+constructing authority shall file a document containing or
+accompanied by all of the particulars required to be contained
+in or to accompany the claim so far as those particulars are
+known to it but, in relation to paragraphs (d) and (e), stating
+amounts which it is willing to pay.
+25
+Reference to Land Court by constructing authority
+(1)
+Where the constructing authority makes a reference
+mentioned in section 24, the Land Court upon application in
+that behalf made by the constructing authority, shall order that
+the claimant may enter an appearance on the reference on or
+before the date fixed by the order.
+
+--------------------------------------------------------------------------------
+[s 26]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Page 44
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+(2)
+A claimant may appear on the reference by filing in the office
+of the registrar of the Land Court, on or before the date fixed
+by the order, a claim for compensation in accordance with the
+requirements of section 19, and thereupon section 24(3) and
+(4) shall apply and the matter of the amount of compensation
+shall be heard and determined as if the reference had been
+made in the first instance by the claimant.
+(2A)
+However, an order as provided for by section 24(4) may be
+made in respect of such appearance and, if the claimant fails
+to comply with such order within the time therein specified,
+the claimant shall be deemed to have failed to enter an
+appearance on the reference.
+(3)
+A claimant who fails to enter an appearance on a reference
+made by the constructing authority shall not be entitled to
+appear or to be heard by the Land Court upon the hearing of
+the reference save by leave of such court (which leave the
+court may grant upon such terms as it deems just, including
+terms with respect to the payment of costs).
+(4)
+In the case of a reference made by the constructing authority,
+the Land Court may hear and determine the matter of the
+amount of compensation in the absence of the claimant where
+the claimant fails to enter an appearance on or before the date
+fixed by order of the court or where, having so entered an
+appearance or having leave to appear, the claimant fails to
+appear at the hearing.
+(5)
+Where the reference has been made by the claimant in the first
+instance, the Land Court may hear and determine the matter
+of compensation in the absence of the claimant if the claimant
+fails to appear at the hearing.
+26
+Jurisdiction relating to compensation
+(1)
+The Land Court has jurisdiction to hear and determine all
+matters relating to compensation under this Act.
+(3)
+The decision (whether of the Land Court constituted by a
+single member or, as the case may be, the Land Appeal Court)
+shall be in writing and the registrar of the Land Court shall
+
+--------------------------------------------------------------------------------
+[s 26A]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Current as at 22 July 2024
+Page 45
+Authorised by the Parliamentary Counsel
+transmit the decision to the registrar of the Supreme Court,
+who shall cause the same to be filed in the registry of the latter
+court.
+(4)
+The decision—
+(a)
+shall be final as regards the amount of compensation
+awarded; and
+(b)
+unless the amount shall have been paid into the Supreme
+Court pursuant to section 29, shall be final for all
+purposes and have the effect of a judgment of the
+Supreme Court and may be enforced accordingly.
+(5)
+Where, pursuant to section 29, the amount of compensation
+awarded is paid into the Supreme Court the decision shall not
+be final as regards the right or title of the claimant or any other
+person whomsoever to be paid that amount or any part
+thereof.
+26A
+Jurisdiction about recovery of advance against 
+compensation
+(1)
+This section applies if, in relation to land taken—
+(a)
+a constructing authority advances an amount to a
+claimant under section 23; and
+(b)
+the Land Court later decides an amount of compensation
+payable to the claimant that is less than the amount
+mentioned in paragraph (a).
+(2)
+The amount (the outstanding amount) that is the difference
+between the following amounts is an amount owing to the
+constructing authority by the claimant—
+(a)
+the amount mentioned in subsection (1)(a);
+(b)
+the total of the amount of compensation decided by the
+Land Court and any interest payable on that amount to
+the claimant.
+(3)
+The Land Court has jurisdiction to make an order that the
+outstanding amount be paid by the claimant to the
+constructing authority.
+
+--------------------------------------------------------------------------------
+[s 27]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Page 46
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+(4)
+The Land Court may make an order under subsection (3) at
+any time after it decides the amount of compensation.
+(5)
+The Land Court may order the claimant to pay interest on the
+outstanding amount for all or any part of the period—
+(a)
+starting on the day the amount mentioned in
+subsection (1)(a) was advanced to the claimant; and
+(b)
+ending at the beginning of the day the claimant pays the
+outstanding amount to the constructing authority.
+(6)
+Interest mentioned in subsection (5) is payable by the
+claimant—
+(a)
+at the rate stated in the order that the Land Court
+considers appropriate; and
+(b)
+when the outstanding amount is payable.
+(7)
+An order under subsection (3) may be enforced as if it were an
+order made by the Supreme Court.
+27
+Costs
+(1)
+Subject to this section, the costs of and incidental to the
+hearing and determination by the Land Court of a claim for
+compensation under this Act shall be in the discretion of that
+court.
+(2)
+If the amount of compensation as determined is the amount
+finally claimed by the claimant in the proceedings or is nearer
+to that amount than to the amount of the valuation finally put
+in evidence by the constructing authority, costs (if any) shall
+be awarded to the claimant, otherwise costs (if any) shall be
+awarded to the constructing authority.
+(3)
+Subsection (2) does not apply to any appeal in respect of the
+decision of the Land Court or to costs awarded pursuant to
+section 24(3) or section 25(3).
+
+--------------------------------------------------------------------------------
+[s 28]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Current as at 22 July 2024
+Page 47
+Authorised by the Parliamentary Counsel
+28
+Interest
+(1)
+Subject to subsection (2), in respect of the period or any part
+of the period commenced on and including the date on and
+from which any land is taken and ending on and including the
+day immediately preceding the date on which payment of
+compensation is made the Land Court or, upon appeal, the
+Land Appeal Court may order that interest be paid upon the
+amount of compensation determined by it.
+(1A)
+Such interest shall be at such rate per centum per annum as the
+Land Court or, upon appeal, the Land Appeal Court, deeming
+reasonable, fixes by the order.
+(1B)
+Interest so ordered to be paid shall be payable as if it were part
+of the compensation in question and shall be added to the
+amount thereof and be payable by the constructing authority
+accordingly.
+(2)
+Interest shall not be payable in respect of any amount of
+compensation advanced under section 23.
+29
+Where right to compensation is questioned
+(1)
+Where the title by reason whereof compensation is claimed
+under this Act comes in question—
+(a)
+in the Land Court or, upon appeal, the Land Appeal
+Court during the hearing and determination of the claim
+for compensation; or
+(b)
+during negotiations between the constructing authority
+and the claimant;
+nevertheless the said court shall have power to determine or,
+as the case may be, the constructing authority and the
+claimant may agree upon the amount of the compensation to
+be paid.
+(1A)
+In such case the constructing authority shall pay the amount of
+compensation determined or agreed upon into the Supreme
+Court.
+
+--------------------------------------------------------------------------------
+[s 30]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Page 48
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+(2)
+Where subsequent to the date when compensation has been
+determined or agreed upon, but before the constructing
+authority has paid the compensation to the claimant, the title
+by reason whereof the compensation was claimed under this
+Act comes in question to the knowledge of the constructing
+authority, it shall pay the amount of the compensation into the
+Supreme Court.
+(3)
+A constructing authority may pay into the Supreme Court the
+amount of any compensation under this Act where—
+(a)
+the person to whom the amount is payable fails or
+refuses to accept payment thereof; or
+(b)
+the constructing authority is unable for any reason
+whatsoever to make to the claimant payment of the
+amount or to obtain from the claimant a good and
+sufficient discharge for such payment.
+(4)
+The payment pursuant to a provision of this section of any
+amount of compensation into the Supreme Court shall
+discharge in full the liability of the constructing authority to
+pay that amount pursuant to the determination or agreement
+by virtue whereof it became payable.
+(5)
+Upon application in that behalf the Supreme Court or a judge
+thereof may order that any money paid into that court
+pursuant to a provision of this section or part thereof shall be
+paid to or applied for the benefit of such person as the said
+court or judge finds to be entitled thereto.
+(6)
+The said court or judge may subject such order to such terms
+and conditions as the court or judge deems just and may, at the
+court’s or judge’s discretion, order any party to the application
+to pay to any other party thereto such costs as the court or
+judge deems just.
+30
+Limited interests
+(1)
+Where compensation is determined or agreed to be paid to any
+claimant in respect of a partial or qualified interest held by the
+claimant in the land taken and such person is not entitled to
+sell or dispose of such interest—
+
+--------------------------------------------------------------------------------
+[s 30]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Current as at 22 July 2024
+Page 49
+Authorised by the Parliamentary Counsel
+(a)
+the constructing authority shall pay the amount of the
+compensation into the Supreme Court; and
+(b)
+the Supreme Court or a judge may upon application in
+that behalf order that the amount on any part thereof
+shall be applied to any 1 or more of the following
+purposes, that is to say—
+(i)
+the discharge of any debt or encumbrance affecting
+the land, or affecting any land settled therewith, or
+to the same or like uses, trusts, or purposes;
+(ii)
+the purchase of other land to be conveyed, limited,
+and settled upon or for the like uses, trusts, or
+purposes;
+(iii) removing or replacing any buildings on the land, or
+substituting others in their stead;
+(iv) the purchase of such securities as the Supreme
+Court or judge may direct, to be settled in the same
+manner as the land;
+(v)
+in payment to any parties becoming absolutely
+entitled thereto, or, in case of their disability or
+incapacity, to their respective guardians, trustees,
+or committees (or if there is no guardian, trustee or
+committee, to the Public Trustee of Queensland),
+as the case may be.
+(2)
+The costs of and incidental to any application under this
+section shall be in the discretion of the Supreme Court or
+judge.
+(3)
+Nothing in this section shall be deemed to prevent any person
+who has a partial or other qualified interest in land to which
+interest the person is solely entitled, and which the person
+may absolutely sell or dispose of, from receiving any
+compensation awarded to the person in respect of such
+interest, or which has been agreed to be paid to the person.
+
+--------------------------------------------------------------------------------
+[s 31]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Page 50
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+31
+Powers of Supreme Court in respect of building units
+Where the whole of the land comprised in a building units
+plan registered under the Building Units and Group Titles Act
+1980, is taken under this Act, the Supreme Court of
+Queensland shall have and may exercise in relation to the
+building shown in such building units plan such jurisdiction
+under that Act as it would have were such building destroyed
+for the purpose of that Act on and by such taking.
+31A
+Powers of District Court for community titles scheme
+(1)
+This section applies if—
+(a)
+the whole of the scheme land for a community titles
+scheme under the Body Corporate and Community
+Management Act 1997 is taken under this Act; and
+(b)
+the scheme land includes at least 1 lot that is, under the
+Land Title Act 1994—
+(i)
+a lot on a building format plan of subdivision; or
+(ii)
+a lot on a volumetric format plan of subdivision,
+and wholly contained within a building.
+(2)
+The District Court may exercise, in relation to any building
+forming part of the scheme land, the jurisdiction it would have
+under the Body Corporate and Community Management Act
+1997 on the destruction of the building.
+32
+Mortgages
+(1)
+Where the land taken is subject to a mortgage at the date when
+it is taken, upon application by the mortgagee—
+(a)
+the Land Court or, upon appeal, the Land Appeal Court
+shall order that payment be made to the mortgagee of; or
+(b)
+if the compensation is agreed upon, the constructing
+authority shall pay to the mortgagee;
+so much of the amount of the compensation as does not
+exceed the sum due to the mortgagee.
+
+--------------------------------------------------------------------------------
+[s 33]
+Acquisition of Land Act 1967
+Part 4 Compensation
+Current as at 22 July 2024
+Page 51
+Authorised by the Parliamentary Counsel
+(2)
+Payment shall not be made to a mortgagee under this
+section—
+(a)
+in priority to any other claimant, save the mortgagor,
+unless the mortgagee would, if the land had been sold on
+the date when it was taken, have been entitled to such
+priority; or
+(b)
+in priority to any taxes, rates or other moneys charged
+upon the land taken in favour of the Crown or any local
+government.
+(3)
+For the purposes of this section the sum due to the mortgagee
+includes interest payable under the mortgage up to the date of
+payment or the last day of any period in respect whereof
+interest upon the amount of compensation has been ordered to
+be paid pursuant to section 28, whichever is the earlier.
+33
+Rent-charge or annuity
+(1)
+If the land in respect of which compensation is determined or
+has been agreed to be paid is subject to a rent-charge or
+annuity, the Land Court or, upon appeal, the Land Appeal
+Court shall, upon application by the person entitled to such
+rent-charge or annuity, determine what part of such
+compensation shall be paid to the person so entitled in
+redemption thereof.
+(2)
+If the land is part of land subject to a rent-charge or annuity,
+the Land Court or, upon appeal, the Land Appeal Court upon
+the like application shall determine what part of such
+rent-charge or annuity shall be redeemed, and what part of
+such compensation shall be paid in the redemption thereof, so
+that the remaining part of the land subject to the rent-charge or
+annuity shall be as good security as theretofore for the part
+thereof remaining unredeemed.
+34
+Where part only of land subject to rent is taken
+If the land in respect of which compensation is determined or
+has been agreed to be paid is part of land in respect of which
+
+--------------------------------------------------------------------------------
+[s 35]
+Acquisition of Land Act 1967
+Part 5 General
+Page 52
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+any rent is payable, the Land Court or, upon appeal, the Land
+Appeal Court shall, upon application by the person liable to
+pay rent, determine what part of such rent shall cease to be
+payable, so that the rent ceasing to be payable shall bear the
+same proportion to the whole rent as the value of the land in
+respect of which compensation is determined or agreed to be
+paid bears to the value of the whole of the land.
+35
+Taxes, rates and charges
+Any amount due and unpaid as at the date of the taking of the
+land of any taxes, rates or other moneys charged upon the land
+taken in favour of the Crown or any local government shall be
+a charge upon the compensation payable under this Act to a
+claimant who is legally liable for payment thereof, and the
+constructing authority may deduct from such compensation
+and pay to the Crown or local government concerned any such
+amount.
+Part 5
+General
+36
+Powers of entry etc.
+(1)
+For the purposes of this Act any member, officer, employee,
+contractor or agent of the constructing authority or any person
+authorised by it in that behalf may exercise any of the
+following powers—
+(a)
+enter upon any land, for the purpose of making any
+inspection, valuation, survey or taking levels;
+(b)
+affix or set up thereon trigonometrical stations, survey
+pegs, marks, or poles, and from time to time alter,
+remove, inspect, reinstate and repair the same;
+(c)
+dig and bore into the land so as to ascertain the nature of
+the soil, and set out the lines of any works thereon;
+(d)
+do all things necessary for the purposes aforesaid.
+(2)
+The power to enter upon any land includes power to—
+
+--------------------------------------------------------------------------------
+[s 36A]
+Acquisition of Land Act 1967
+Part 5 General
+Current as at 22 July 2024
+Page 53
+Authorised by the Parliamentary Counsel
+(a)
+re-enter from time to time; and
+(b)
+remain upon that land for such time as is necessary to
+achieve the purpose of the entry; and
+(c)
+take such assistants, vehicles, materials, equipment or
+things as are necessary to achieve the purpose of the
+entry.
+(3)
+When practicable, not less than 7 days notice in writing shall
+be given to the occupier or, if there is no occupier, the owner
+of the land of the intention to enter thereon, and the authority
+under which the person entering claims to enter or has entered
+shall, if required by such owner or occupier, be produced and
+shown.
+(4)
+Every person who—
+(a)
+without due authority, destroys, mutilates, defaces, takes
+away, or alters the position of any trigonometrical
+station, survey peg, mark, or pole fixed or set up by any
+person under the authority of this section; or
+(b)
+wilfully obstructs or attempts to obstruct any person
+acting under the authority of this section;
+shall be guilty of an offence against this Act and liable to a
+penalty not exceeding 4 penalty units.
+(5)
+The constructing authority shall be liable for compensation
+for the actual damage (if any), done to the land by reason of
+the exercise of any power conferred by this section.
+(6)
+Subsection (5) applies subject to section 37(4).
+(7)
+Compensation pursuant to subsection (5) may be claimed and
+agreed upon or determined as prescribed by section 37(3) and
+(5).
+36A
+Minister may act for Crown as constructing authority
+The Minister is authorised and required to exercise such
+powers, perform such functions and take such steps as are
+permitted or required by this Act for the purpose of taking
+land on behalf of the Crown as a constructing authority.
+
+--------------------------------------------------------------------------------
+[s 36B]
+Acquisition of Land Act 1967
+Part 5 General
+Page 54
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+36B
+Delegation by Minister
+(1)
+The Minister may delegate the Minister’s functions under this
+Act to an appropriately qualified officer or employee of the
+department.
+(2)
+However, the Minister can not delegate the Minister’s
+functions under section 9 in relation to an application for the
+taking of land if an objection was received in response to a
+notice of intention to resume for the land.
+(3)
+A delegation of a function may permit the subdelegation of
+the function to an appropriately qualified officer or employee
+of the department.
+(4)
+In this section—
+appropriately qualified, for a function, means having the
+qualifications, experience or standing to perform the function.
+Example of standing for an officer of a department—
+the officer’s classification or level in the department
+department, for a delegation of the Minister’s functions,
+means the department administered by the Minister.
+functions includes powers.
+Minister includes a relevant Minister, other than the State
+Development Minister.
+37
+Temporary occupation of land
+(1)
+The constructing authority may temporarily occupy and use
+any land for the purpose of constructing, maintaining or
+repairing any works, and may exercise any of the following
+powers—
+(a)
+take therefrom stone, gravel, earth, and other material;
+(b)
+deposit thereon any material;
+(c)
+form and use temporary roads thereon;
+(d)
+manufacture bricks or other materials thereon;
+
+--------------------------------------------------------------------------------
+[s 37]
+Acquisition of Land Act 1967
+Part 5 General
+Current as at 22 July 2024
+Page 55
+Authorised by the Parliamentary Counsel
+(e)
+erect workshops, sheds, and other buildings of a
+temporary nature thereon.
+(2)
+The constructing authority or the person having the charge of
+the works shall, before occupying or using any land as herein
+provided, and except in the case of accident requiring
+immediate repair, give to the occupier or, if there is no
+occupier, the owner thereof not less than 7 days notice in
+writing, and shall state in such notice the use proposed to be
+made of the land and an approximate period during which
+such use is expected to continue.
+(3)
+The owner of the land or any other person having any estate or
+interest in the land may, at any time during such occupation or
+within 3 months thereafter, give notice in writing to the
+constructing authority that the owner claims compensation,
+and, subject to giving such notice, if the land is not taken the
+owner and all such other persons may recover under this Act
+compensation for all damage done, but not in the case of the
+owner or any such other person exceeding the compensation
+which would have been payable to him or her had the land
+been taken.
+(4)
+No compensation shall be payable for any act or thing done
+under this section, the right or authority to exercise which is
+reserved by any Act, or by any regulation, Crown grant, or
+other instrument, except to the extent therein mentioned,
+notwithstanding that the terms and conditions imposed by
+such Act, regulation, grant, or instrument have not been
+performed.
+(5)
+The constructing authority and the claimant may agree upon
+the amount of compensation to be paid under this section or
+they may agree that such amount be determined by the Land
+Court, in which case such amount shall, upon the reference of
+either of them, be determined by the Land Court as if the land
+had been taken and the claim were limited to the
+compensation recoverable under this section.
+
+--------------------------------------------------------------------------------
+[s 38]
+Acquisition of Land Act 1967
+Part 5 General
+Page 56
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+38
+Refusal to give up land
+(1)
+If the owner or occupier of any land taken or occupied under
+this Act, or any other person, refuses to give up possession
+thereof, or obstructs the constructing authority or any person
+appointed in writing by it, the constructing authority may
+issue its warrant to the sheriff to deliver possession of the
+same to the person appointed in the warrant to receive
+possession, and on receipt of the warrant the sheriff shall
+deliver possession of such land accordingly.
+(2)
+The costs of the issue and execution of the warrant, to be
+settled by the sheriff, shall be paid by the person in default,
+and may be deducted from any compensation payable to the
+person, or the same or any balance may be levied by distress
+and sale of the goods and chattels of such person.
+39
+Service of documents
+(1)
+Any notice or other document required by this Act to be
+served on any person may be served on such person
+personally or by post.
+(1A)
+If such person is absent from the State the document may be
+served on the person’s agent in like manner.
+(1B)
+If such person is not known or has no known agent in the
+State, the document shall be served by the publication of the
+same, or a true abstract thereof, in the gazette and in some
+newspaper circulating generally in the locality where the land
+affected is situated.
+(2)
+A document may be served on the constructing authority by
+being sent by post to the constructing authority at its office or
+to the office of such person as the constructing authority
+authorises by public notice to receive documents on its behalf.
+40
+Offences
+All offences against this Act or the regulations may be
+prosecuted in a summary way under the Justices Act 1886.
+
+--------------------------------------------------------------------------------
+[s 41]
+Acquisition of Land Act 1967
+Part 5 General
+Current as at 22 July 2024
+Page 57
+Authorised by the Parliamentary Counsel
+41
+Disposal of land
+(1)
+Notwithstanding any provision of any other Act, where land
+has been taken either pursuant to an agreement under part 2,
+division 3 or by compulsory process under this Act and,
+within 7 years after the date of taking, the constructing
+authority no longer requires the land, then the constructing
+authority shall offer the land for sale to the former owner at a
+price determined by the valuer-general under the Land
+Valuation Act 2010.
+(1A)
+Unless sooner accepted by the former owner the offer shall
+lapse at the expiration of 28 days after it is made.
+(2)
+In this section—
+Minister includes a relevant Minister, other than the State
+Development Minister.
+the former owner in relation to land means—
+(a)
+where only 1 person had an interest in the land at the
+date of acquisition and that person is still alive or, in the
+case of a corporation, in existence—that person; or
+(b)
+in any other case—such person or persons (if any) as the
+Minister, in the Minister’s absolute discretion, having
+regard to the interest that existed in the land at the date
+of acquisition, considers to be fairly entitled to the
+benefit of this section.
+(3)
+A person contracting or otherwise dealing with the
+constructing authority is not concerned to inquire whether the
+requirements of this section have been complied with, and the
+title of such a person to land acquired from the constructing
+authority is not affected by any failure to comply with those
+requirements.
+42
+Regulation-making power
+(1)
+The Governor in Council may from time to time make
+regulations not inconsistent with this Act providing for all or
+any purposes, whether general or to meet particular cases, that
+
+--------------------------------------------------------------------------------
+[s 43]
+Acquisition of Land Act 1967
+Part 6 Transitional and other provisions
+Page 58
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+may be necessary or convenient for the administration of this
+Act or for carrying out the objects and purposes of this Act.
+(2)
+A regulation may be made prescribing a penalty, but not
+exceeding in any case 1 penalty unit, for any contravention of
+or failure to comply with that or any other regulation.
+(3)
+A regulation may be made about fees payable under this Act.
+43
+Publication of notices
+Every notice given under this Act takes effect from the day of
+its publication.
+Part 6
+Transitional and other 
+provisions
+Division 1
+Provision for Acquisition of Land 
+Amendment Act 1999
+44
+Validating and transitional provisions for the Acquisition 
+of Land Amendment Act 1999
+(1)
+This section applies if—
+(a)
+for the taking of land, a constructing authority made an
+application for the taking of the land under section 9(4)
+or section 15(3A) before the commencement of this
+section; and
+(b)
+the application was not accompanied by a copy of a plan
+of survey mentioned in section 9(4)(b) or section 15(3B)
+but was accompanied by a plan sufficient to
+substantially identify the land; and
+(c)
+the land was taken.
+(2)
+The constructing authority is taken to have complied with
+section 9(4)(b) or section 15(3B).
+
+--------------------------------------------------------------------------------
+[s 45]
+Acquisition of Land Act 1967
+Part 6 Transitional and other provisions
+Current as at 22 July 2024
+Page 59
+Authorised by the Parliamentary Counsel
+(3)
+The taking of the land is and always was valid whether or not
+the action required of the Governor in Council to consider the
+application under section 9(6) or section 15 was followed.
+(4)
+In this Act a reference to a gazette resumption notice includes,
+if the context permits, a reference to—
+(a)
+for a constructing authority—a proclamation published
+in the gazette under section 9(6) or 15(6)(a); or
+(b)
+for Brisbane City Council or an approved local
+government—a notification published in the gazette
+under section 10(2) or 15(6)(b).
+(5)
+A reference to a section in subsections (2), (3) and (4) is a
+reference to the section as it was before the commencement of
+the Acquisition of Land Amendment Act 1999.
+Division 2
+Provision for Transport and Other 
+Legislation Amendment Act 2005
+45
+Transitional provision for taking of land by Brisbane City 
+Council and other local governments
+(1)
+This section applies if, before the commencement, Brisbane
+City Council or another local government had—
+(a)
+under section 7, served a notice of intention to resume
+for land on a person; but
+(b)
+a notification of resumption for the land had not been
+published in the gazette.
+(2)
+After the commencement—
+(a)
+Brisbane City Council or the other local government
+may continue to take the land as if the Transport and
+Other Legislation Amendment Act 2005, part 2 had not
+been enacted; and
+(b)
+this Act applies to the taking of the land as if the
+Transport and Other Legislation Amendment Act 2005,
+part 2 had not been enacted.
+
+--------------------------------------------------------------------------------
+[s 46]
+Acquisition of Land Act 1967
+Part 6 Transitional and other provisions
+Page 60
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+(3)
+In this section—
+commencement means the commencement of this section.
+notification of resumption means a notice published in the
+gazette under section 10(2) as in force before the
+commencement.
+Division 3
+Provisions for Acquisition of Land 
+and Other Legislation Amendment 
+Act 2009
+46
+Making claims for compensation
+Section 19(3) to (6) does not apply in relation to a claim for
+compensation for land taken by a constructing authority
+before the commencement of this section.
+47
+Recovery of advance against compensation
+Section 26A does not apply in relation to land taken by a
+constructing authority before the commencement of this
+section if, before the commencement, a proceeding for the
+recovery of an amount of an advance made under section 23
+for the land has started.
+Division 4
+Provisions for Land, Water and 
+Other Legislation Amendment Act 
+2013
+48
+Definitions for div 4
+In this division—
+commencement means the commencement of the provision in
+which the word appears.
+previous, for a provision of this Act, means the provision as in
+force immediately before the commencement.
+
+--------------------------------------------------------------------------------
+[s 49]
+Acquisition of Land Act 1967
+Part 6 Transitional and other provisions
+Current as at 22 July 2024
+Page 61
+Authorised by the Parliamentary Counsel
+49
+Applications under previous section 9(2)
+(1)
+This section applies if—
+(a)
+before the commencement, a constructing authority
+applied to the Minister for land to be taken under
+previous section 9(2); and
+(b)
+on the commencement, the land the subject of the
+application had not been taken under this Act.
+(2)
+Section 9, as in force immediately after the commencement,
+applies to the application.
+(3)
+In this section—
+Minister see previous section 9(1).
+50
+Agreements for taking under previous section 15(1)
+(1)
+This section applies if—
+(a)
+before the commencement, a constructing authority had
+entered an agreement to take land under previous
+section 15(1); and
+(b)
+on the commencement, the land the subject of the
+agreement had not been taken under this Act.
+(2)
+Part 2, division 3 applies to the agreement.
+51
+Delegations by Minister
+(1)
+This section applies to a delegation of a Minister made under
+a previous delegation provision and in effect immediately
+before the commencement.
+(2)
+The delegation has effect from the commencement as it were a
+delegation under section 36B.
+(3)
+In this section—
+previous delegation provision means section 11(5) or 36B as
+in force immediately before the commencement.
+
+--------------------------------------------------------------------------------
+[s 52]
+Acquisition of Land Act 1967
+Part 6 Transitional and other provisions
+Page 62
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+Division 5
+Validation provisions for 
+Environmental Protection and Other 
+Legislation Amendment Act 2020
+52
+Validation provision relating to purposes for which land 
+may be taken
+Schedule 1, part 2, as amended by the Environmental
+Protection and Other Legislation Amendment Act 2020,
+applies, and is taken to have applied, from the commencement
+of the Building and Other Legislation Amendment Act 2009,
+part 12.
+Note—
+The Building and Other Legislation Amendment Act 2009, part 12
+commenced on 19 November 2009.
+53
+Validation of taking of particular land
+(1)
+This section applies if, before the commencement, land was
+taken under this Act for a purpose that included the
+conservation of koalas on land in a ‘Regional Landscape and
+Rural Protection Area’.
+(2)
+The taking of the land is, and is taken to have always been, as
+valid as it would have been if the land had been taken under
+this Act for a purpose that included the conservation of koalas
+on land in a ‘Regional Landscape and Rural Production Area’.
+(3)
+Anything done, or omitted to be done, in relation to the taking
+of the land is, and is taken to have always been, as valid as it
+would have been if the land had been taken under this Act for
+a purpose that included the conservation of koalas on land in a
+‘Regional Landscape and Rural Production Area’.
+54
+Validation of particular notices of intention to resume and 
+resumption agreements
+(1)
+This section applies if, before the commencement—
+(a)
+a constructing authority—
+
+--------------------------------------------------------------------------------
+[s 54]
+Acquisition of Land Act 1967
+Part 6 Transitional and other provisions
+Current as at 22 July 2024
+Page 63
+Authorised by the Parliamentary Counsel
+(i)
+served on a person a notice of intention to resume
+for land that stated a purpose for which the land
+was to be taken included the conservation of koalas
+on land in a ‘Regional Landscape and Rural
+Protection Area’; or
+(ii)
+entered into a resumption agreement for land that
+stated a purpose for which the land was to be taken
+included the conservation of koalas on land in a
+‘Regional Landscape and Rural Protection Area’;
+and
+(b)
+a gazette resumption notice for the land was not
+published.
+(2)
+After the commencement, the constructing authority may
+continue to take the land as if the notice of intention to resume
+or resumption agreement stated, and had always stated, a
+purpose for which the land was to be taken included the
+conservation of koalas on land in a ‘Regional Landscape and
+Rural Production Area’.
+(3)
+Anything done, or omitted to be done, in relation to the notice
+of intention to resume or resumption agreement is, and is
+taken to have always been, as valid as it would have been if
+the notice of intention to resume or resumption agreement had
+stated a purpose for which the land was to be taken included
+the conservation of koalas on land in a ‘Regional Landscape
+and Rural Production Area’.
+
+--------------------------------------------------------------------------------
+Schedule 1
+Acquisition of Land Act 1967
+Page 64
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+Schedule 1
+Purposes for taking land
+section 5
+Part 1
+Purposes relating to 
+transportation
+•
+aviation and related purposes
+•
+beacons
+•
+bridges
+•
+docks
+•
+dockyards
+•
+ferries
+•
+harbours and harbour works
+•
+jetties
+•
+landing places
+•
+lighthouses
+•
+locks
+•
+parking of vehicles
+•
+railways and related purposes
+•
+roads
+•
+tramways
+•
+weighbridges
+•
+wharves
+
+--------------------------------------------------------------------------------
+Schedule 1
+Acquisition of Land Act 1967
+Current as at 22 July 2024
+Page 65
+Authorised by the Parliamentary Counsel
+Part 2
+Purposes relating to the 
+environment
+•
+management, protection or control of the environmental
+values of areas or places
+•
+protected areas within the meaning of the Nature
+Conservation Act 1992, part 4, division 2
+•
+soil conservation
+•
+conservation of koalas on land in a ‘Rural Living Area’ or
+‘Regional Landscape and Rural Production Area’ under the
+regional plan for the SEQ region under the Planning Act 2016,
+if the land is in the local government area of the Brisbane City
+Council, Gold Coast City Council, Ipswich City Council,
+Logan City Council, Moreton Bay City Council, Noosa Shire
+Council, Redland City Council or Sunshine Coast Regional
+Council
+•
+management, protection or control of the seashore, estuaries
+and land adjoining the seashore and estuaries, including for
+providing access to beaches, and works for the management,
+protection or control of the seashore, estuaries and land
+adjoining the seashore and estuaries
+Part 3
+Purposes relating to 
+educational and cultural 
+facilities
+•
+colleges
+•
+kindergartens
+•
+libraries
+•
+museums
+•
+State educational institutions or other schools
+
+--------------------------------------------------------------------------------
+Schedule 1
+Acquisition of Land Act 1967
+Page 66
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+•
+TAFE Queensland established under the TAFE Queensland
+Act 2013
+•
+universities or other higher education institutions
+•
+other educational establishments
+Part 4
+Purposes relating to health 
+services
+•
+ambulance services
+•
+health facilities, including health centres, community health
+centres and health clinics
+•
+hospitals and services related to the operation of hospitals
+•
+community residential facilities, including boarding houses,
+refuges, aged care facilities and facilities for people with a
+disability, social disadvantage or mental illness
+Part 5
+Purposes relating to natural 
+resources
+•
+gravel and sand pits
+•
+quarries
+Part 6
+Purposes relating to recreation
+•
+beaches
+•
+botanical or other gardens
+•
+gymnasiums
+•
+markets
+•
+parks
+
+--------------------------------------------------------------------------------
+Schedule 1
+Acquisition of Land Act 1967
+Current as at 22 July 2024
+Page 67
+Authorised by the Parliamentary Counsel
+•
+public meetings
+•
+public music
+•
+racecourses
+•
+recreation grounds
+•
+showgrounds
+•
+swimming pools
+Part 7
+Purposes relating to water
+•
+aqueducts
+•
+bore drains
+•
+bores
+•
+canals
+•
+dams, weirs or other works for the conservation or reticulation
+of water
+•
+drainage
+•
+flood gates or flood warnings
+•
+flood prevention or flood mitigation
+•
+fords
+•
+pumps
+•
+quays
+•
+reservoirs
+•
+wells
+Part 8
+Purposes relating to primary 
+production
+•
+experimental farms
+
+--------------------------------------------------------------------------------
+Schedule 1
+Acquisition of Land Act 1967
+Page 68
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+•
+forestry (including afforestation, silviculture, protection of
+forests and forest products, harvesting, transporting, milling,
+preparing, treating or marketing forest products, access to or
+for the purposes of forests, acquisition of forests and forest
+products and related purposes)
+Part 9
+Purposes relating to law 
+enforcement
+•
+corrective service facilities under the Corrective Services Act
+2006
+•
+detention centres and other places for the purposes of the
+Youth Justice Act 1992
+•
+police
+•
+watch houses
+Part 10
+Purposes relating to urban 
+planning
+•
+civic centres or squares
+•
+setting 
+apart, 
+subdividing, 
+resubdividing, 
+reclaiming,
+alienating, taking up, occupying or leasing any unallocated
+State land, or dealing with unallocated State land in any way
+in which it may be dealt with under the Land Act 1994
+(whether in carrying out the purposes for which the land is
+taken, the land is dealt with separately or in conjunction with
+any adjacent or other unallocated State land)
+Part 11
+Purposes relating to sanitation
+•
+septic tanks
+•
+sewage farms and disposal works and depots
+
+--------------------------------------------------------------------------------
+Schedule 1
+Acquisition of Land Act 1967
+Current as at 22 July 2024
+Page 69
+Authorised by the Parliamentary Counsel
+•
+sewerage
+•
+sewers
+•
+waste management facilities, including refuse tips and refuse
+transfer stations
+Part 12
+Purposes relating to works, 
+construction and facilities
+•
+buildings
+•
+caravan parks
+•
+cemeteries or crematories
+•
+departmental and official purposes
+•
+electrical works
+•
+fire stations
+•
+pounds
+•
+works for the conservation of hydraulic or other power
+•
+works for any public works, or other work or purpose of a
+similar nature
+•
+works for the construction or erection of any public or other
+works that the constructing authority is authorised under any
+Act or resolution of Parliament to construct or erect, or for the
+purposes of any Act
+Part 13
+Purposes relating to non-profit 
+or not-for-profit organisations
+•
+non-profit or not-for-profit organisations, including a charity,
+charitable institution, public benevolent institution, charitable
+fund and income tax exempt fund
+
+--------------------------------------------------------------------------------
+Schedule 1
+Acquisition of Land Act 1967
+Page 70
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+Part 14
+Other purposes
+•
+any purpose declared under a regulation to be a purpose for
+which land may be taken under this Act
+
+--------------------------------------------------------------------------------
+Schedule 2
+Acquisition of Land Act 1967
+Current as at 22 July 2024
+Page 71
+Authorised by the Parliamentary Counsel
+Schedule 2
+Dictionary
+section 2
+affected person, for land the subject of a resumption
+agreement, see section 15(2).
+cadastral surveyor means a person registered as a cadastral
+surveyor under the Surveyors Act 2003.
+chief executive means the chief executive of the department.
+chief executive (surveys) means the chief executive of the
+department in which the Surveyors Act 2003 is administered.
+compulsory acquisition Act see the Native Title (Queensland)
+Act 1993, section 144(4).
+constructing authority means—
+(a)
+the State; or
+(b)
+a local government; or
+(c)
+a person authorised by an Act to take land for any
+purpose.
+gazette resumption notice means a gazette notice mentioned
+in section 9(6) or (7), 15C(5) or 15D(1).
+gazetting authority, for a gazette resumption notice, means—
+(a)
+if the gazette resumption notice was made by the
+Governor in Council—the relevant Minister to whom
+the application was made under section 9(1) or 15C(1)
+for the land, the subject of the gazette resumption
+notice, to be taken; or
+(b)
+if the gazette resumption notice was made by a relevant
+Minister under section 9(7)—the relevant Minister; or
+(c)
+if the gazette resumption notice was made by a
+constructing 
+authority 
+under 
+section 15D(1)—the
+constructing authority.
+
+--------------------------------------------------------------------------------
+Schedule 2
+Acquisition of Land Act 1967
+Page 72
+ Current as at 22 July 2024
+Authorised by the Parliamentary Counsel
+land means land, or any estate or interest in land, that is held
+in fee simple, including fee simple in trust under the Land Act
+1994, but does not include a freeholding lease under that Act.
+multi-parcel purpose see section 3(1).
+non-native title right or interest means any right or interest
+included in non-native title rights and interests.
+non-native title rights and interests has the same meaning as
+it has in the Native Title (Queensland) Act 1993.
+notice of intention to resume see section 7(1).
+objection period, for a notice of intention to resume, means
+the period—
+(a)
+starting when the notice is served on the person to whom
+it is directed; and
+(b)
+ending on the day specified in the notice as the day by
+which an objection to the taking of the land may be
+made.
+relevant Minister means—
+(a)
+for land to be taken for a purpose of the State
+Development and Public Works Organisation Act 1971,
+the State Development Minister; and
+(b)
+for land to be taken for a purpose of the Transport
+Infrastructure Act 1994, the Minister administering that
+Act; and
+(ba) for land to be taken for a purpose of the Cross River Rail
+Delivery Authority Act 2016, the Minister administering
+that Act; and
+(bb) for land to be taken under the Planning Act 2016,
+section 263A, the Minister administering chapter 7,
+part 2 of that Act; and
+(c)
+if the Governor in Council has, by gazette notice,
+declared land to be taken for a purpose of another
+Act—the Minister administering the other Act; and
+(d)
+otherwise—the Minister administering this Act.
+resource interest means—
+
+--------------------------------------------------------------------------------
+Schedule 2
+Acquisition of Land Act 1967
+Current as at 22 July 2024
+Page 73
+Authorised by the Parliamentary Counsel
+(a)
+a geothermal interest under the Geothermal Energy Act
+2010; or
+(b)
+a GHG interest under the Greenhouse Gas Storage Act
+2009; or
+(c)
+a mining tenement interest under the Mineral Resources
+Act 1989; or
+(d)
+a 1923 Act petroleum interest under the Petroleum Act
+1923; or
+(e)
+a petroleum interest under the Petroleum and Gas
+(Production and Safety) Act 2004.
+resource interest compensation provision, for a resource
+interest, means—
+(a)
+for a geothermal interest under the Geothermal Energy
+Act 2010—section 350D of that Act; or
+(b)
+for a GHG interest under the Greenhouse Gas Storage
+Act 2009—section 369D of that Act; or
+(c)
+for a mining tenement interest under the Mineral
+Resources Act 1989—section 10AAD of that Act; or
+(d)
+for a 1923 Act petroleum interest under the Petroleum
+Act 1923—section 124C of that Act; or
+(e)
+for a petroleum interest under the Petroleum and Gas
+(Production and Safety) Act 2004—section 30AD of
+that Act.
+resumption agreement see section 15(1).
+State 
+Development 
+Minister 
+means 
+the 
+Minister
+administering the State Development and Public Works
+Organisation Act 1971.
+
+--------------------------------------------------------------------------------
