@@ -23,9 +23,9 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 if not openai.api_key:
     raise ValueError("OPENAI_API_KEY not found in environment variables.")
 
-address = "13 Parkgate St, Stoneybatter"
-target_location = get_location_nominatim(address)
-target_location = {'city': 'None', 'province': 'None', 'country': 'Switzerland'}
+# address = "13 Parkgate St, Stoneybatter"
+# target_location = get_location_nominatim(address)
+target_location = {'city': 'None', 'province': 'None', 'country': 'Japan'}
 
 # --- Utility Functions ---
 def get_file_hash(filepath):
@@ -65,17 +65,31 @@ def extract_metadata_from_path(file_path: str, text: str) -> Dict[str, str]:
 def clean_metadata(metadata: Dict[str, Optional[str]]) -> Dict[str, str]:
     return {k: (str(v) if v is not None else "unknown") for k, v in metadata.items()}
 
+# def convert_legal_headers_to_markdown(text: str) -> str:
+#     patterns = [
+#         r"Artikel\s+(\d+[a-zA-Z]?)\.?",
+#         r"Article\s+(\d+[a-zA-Z]?)\.?",
+#         r"Art\.?\s+(\d+[a-zA-Z]?)\.?",
+#         r"Artigo\s+(\d+[a-zA-Z]?)\.?",
+#         r"Artículo\s+(?P<num>\d+[a-zA-Z]?|(?:[a-záéíóúñ]{3,}))\.?",
+#         r"§\s*(\d+[a-zA-Z]?)\.?"
+#     ]
+#     for pattern in patterns:
+#         text = re.sub(rf"(?m)^{pattern}", lambda m: f"# {m.group(0)}", text)
+#     return text
 def convert_legal_headers_to_markdown(text: str) -> str:
+    """Convert legal document headers to markdown format."""
     patterns = [
-        r"Artikel\s+(\d+[a-zA-Z]?)\.?",
-        r"Article\s+(\d+[a-zA-Z]?)\.?",
-        r"Art\.?\s+(\d+[a-zA-Z]?)\.?",
-        r"Artigo\s+(\d+[a-zA-Z]?)\.?",
-        r"Artículo\s+(?P<num>\d+[a-zA-Z]?|(?:[a-záéíóúñ]{3,}))\.?",
-        r"§\s*(\d+[a-zA-Z]?)\.?"
+        r"(?m)^Artikel\s+\d+[a-zA-Z]?\.?",
+        r"(?m)^Article\s+\d+[a-zA-Z]?\.?",
+        r"(?m)^Art\.?\s+\d+[a-zA-Z]?\.?",
+        r"(?m)^Artigo\s+\d+[a-zA-Z]?\.?",
+        r"(?m)^Artículo\s+(?:\d+[a-zA-Z]?|(?:[a-záéíóúñ]{3,}))\.?",
+        r"(?m)^§\s*\d+[a-zA-Z]?\.?"
     ]
+    
     for pattern in patterns:
-        text = re.sub(rf"(?m)^{pattern}", lambda m: f"# {m.group(0)}", text)
+        text = re.sub(pattern, lambda m: f"# {m.group(0).strip()}", text)
     return text
 
 def chunk_section(section_text: str, header: str, chunk_size=500, overlap=100):
@@ -234,28 +248,38 @@ def get_regulatory_assessment(query: str, context: List[Dict]) -> Tuple[Optional
 
     **Instructions:**
     1. Review the legislative context carefully in relation to the user query: "{query}".
-    2. Assess the level of regulatory pressure based strictly on this context. Consider quantifiable indicators such as:
-        - Number and severity of restrictions
-        - Specific obligations imposed on landlords or developers
-        - Tenant protections (e.g., eviction protections, rent caps)
-        - Compliance complexity (e.g., mandatory processes, permits, penalties)
-    3. Provide a **Regulatory Pressure Score** from 1 to 10:
+    2. Assess the level of regulatory pressure strictly based on the content of the context. Do not speculate or use outside knowledge.
+    3. Focus your reasoning on **specific and countable obligations, protections, or restrictions** found in the text. These may include:
+        - Number and severity of constraints on rent increase, development, or eviction
+        - Specific mandatory procedures (e.g., written notice, justification requirements)
+        - Protections for tenants or buyers (e.g., legal challenge rights, rent caps, minimum lease durations)
+        - Compliance burdens (e.g., multiple-step approval processes, penalties, required documentation)
+
+    4. Provide a **Regulatory Pressure Score** from 1 to 10:
         - 1 = Very Low Pressure (few or no restrictions, favorable to landlords/developers)
         - 5 = Moderate Pressure (balanced or standard regulatory obligations)
-        - 10 = Very High Pressure (heavy restrictions, strong tenant protections, complex compliance)
-    4. Provide a **brief explanation** (2-5 sentences), focused on **quantitative reasoning** (e.g., "The law imposes 6 separate conditions on redevelopment...").
-    5. You may only refer to the following articles, which were provided in the context:
+        - 10 = Very High Pressure (numerous restrictions, strong tenant protections, complex compliance)
+
+    5. Provide a **precise and concrete explanation** (3–6 sentences). In your explanation:
+        - **Cite specific provisions** (e.g., "Article 270b allows tenants to challenge rent increases within 30 days.")
+        - **Quantify** wherever possible (e.g., "The law imposes 3 procedural requirements for increasing rent, including...")
+        - **Avoid generalities**. Do not use vague summaries like "the law provides protections"—explain **what kind, how many, and how strict.**
+
+    6. You may only refer to the following articles, which were provided in the context:
     {', '.join(articles_used)}
-    6. In your answer, list exactly which of these articles informed your explanation, including the files.
-    7. **IMPORTANT:** Do NOT use external knowledge. If the provided context does not meaningfully relate to the user query, state that clearly and assign a score of **N/A**.
 
-    ** Example:**
+    7. In your answer, list exactly which of these articles informed your explanation, including the filenames.
 
-    Score: [1-10 or N/A]
-    Explanation: [Quantitative explanation, grounded in the text]  
+    8. **IMPORTANT:** If the provided context does not meaningfully relate to the user query, state this clearly and assign a score of **N/A**.
+
+    **Example Format:**
+
+    Score: [1–10 or N/A]  
+    Explanation: [Clear, grounded explanation with specific citations and numbers]  
     Articles Used:  
-    [Every used article number with filename]
+    [Every article number used with filename]
     """
+
 
     try:
         print("Sending request to OpenAI...")
@@ -304,7 +328,7 @@ def get_regulatory_assessment(query: str, context: List[Dict]) -> Tuple[Optional
         return None, f"An error occurred during AI assessment: {e}"
 
 if __name__ == "__main__":
-    EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
+    EMBEDDING_MODEL = "sentence-transformers/paraphrase-xlm-r-multilingual-v1"
     TEXT_CHUNK_SIZE = 500
     TEXT_CHUNK_OVERLAP = 100
     COUNTRY = re.sub(r'[^a-zA-Z0-9_-]', '_', target_location.get('country', '').strip())
@@ -333,7 +357,7 @@ if __name__ == "__main__":
         # clean_index()
         # index_data_from_folder(DATA_FOLDER, force_reindex=True)
 
-    for query in ["Restrictions on maximum rent increase"]: 
+    for query in ["tenant rights and restrictions"]: 
         relevant_context = retrieve_relevant_context(query)
 
         if relevant_context:
