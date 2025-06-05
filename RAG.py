@@ -4,7 +4,9 @@
 import os
 import re
 import uuid
+import numpy as np
 from datetime import datetime
+from collections import defaultdict
 from typing import List, Dict, Optional, Tuple
 import hashlib
 import openai
@@ -77,6 +79,7 @@ def clean_metadata(metadata: Dict[str, Optional[str]]) -> Dict[str, str]:
 #     for pattern in patterns:
 #         text = re.sub(rf"(?m)^{pattern}", lambda m: f"# {m.group(0)}", text)
 #     return text
+
 def convert_legal_headers_to_markdown(text: str) -> str:
     """Convert legal document headers to markdown format."""
     patterns = [
@@ -85,7 +88,8 @@ def convert_legal_headers_to_markdown(text: str) -> str:
         r"(?m)^Art\.?\s+\d+[a-zA-Z]?\.?",
         r"(?m)^Artigo\s+\d+[a-zA-Z]?\.?",
         r"(?m)^Artículo\s+(?:\d+[a-zA-Z]?|(?:[a-záéíóúñ]{3,}))\.?",
-        r"(?m)^§\s*\d+[a-zA-Z]?\.?"
+        r"(?m)^§\s*\d+[a-zA-Z]?\.?",
+        r"(?m)^section\s*\d+[a-zA-Z]?\.?"
     ]
     
     for pattern in patterns:
@@ -142,29 +146,116 @@ def setup_chroma_collection():
         print(f"No existing collection to delete: {e}")
     return chroma_client.get_or_create_collection(COLLECTION_NAME, metadata={"hnsw:space": "cosine"})
 
-def retrieve_relevant_context(query: str, top_k: int = 5) -> List[Dict]:
+# def retrieve_relevant_context(query: str, top_k: int = 5) -> List[Dict]:
+#     embedding = embedding_model.encode([query])[0].tolist()
+#     results = collection.query(query_embeddings=[embedding], n_results=top_k)
+#     context = []
+#     for i in range(len(results['ids'][0])):
+#         metadata = results['metadatas'][0][i]
+#         similarity = 1 - results['distances'][0][i]
+#         context.append({
+#             "score": similarity,
+#             "text": results['documents'][0][i],
+#             "article": metadata.get("article", "Unknown"),
+#             "original_filename": metadata.get("original_filename", "Unknown"),
+#             "location": metadata.get("location", "Unknown"),
+#             "chunk_index": metadata.get("chunk_index", i)
+#         })
+#     with open("merged_chunk.txt", "w", encoding="utf-8") as f:
+#         f.write(f"Query: {query}\n\n")
+#         for i, chunk in enumerate(context):
+#             f.write(f"--- Chunk {i+1} ---\n")
+#             f.write(f"Score: {chunk['score']:.4f}\n")
+#             f.write(f"Article: {chunk['article']}\n")
+#             f.write(f"File: {chunk['original_filename']}\n\n")
+#             f.write(chunk['text'] + "\n\n")
+#     return context
+
+def retrieve_relevant_context(query: str, top_k: int = 15, percentile: float = 85.0) -> List[Dict]:
+    """
+    Retrieve context chunks that meet a country-specific minimum similarity threshold
+    based on percentile of retrieved similarities.
+
+    Args:
+        query: The search query.
+        top_k: Maximum number of results to return.
+        percentile: Percentile for dynamic thresholding per country (e.g., 80.0 = top 20%).
+
+    Returns:
+        List of relevant chunks with their metadata and similarity scores.
+    """
     embedding = embedding_model.encode([query])[0].tolist()
-    results = collection.query(query_embeddings=[embedding], n_results=top_k)
-    context = []
-    for i in range(len(results['ids'][0])):
-        metadata = results['metadatas'][0][i]
-        similarity = 1 - results['distances'][0][i]
-        context.append({
-            "score": similarity,
-            "text": results['documents'][0][i],
-            "article": metadata.get("article", "Unknown"),
-            "original_filename": metadata.get("original_filename", "Unknown"),
-            "location": metadata.get("location", "Unknown"),
-            "chunk_index": metadata.get("chunk_index", i)
-        })
+
+    # Over-retrieve to allow for filtering
+    preliminary_results = collection.query(
+        query_embeddings=[embedding],
+        n_results=top_k * 3
+    )
+
+    if not preliminary_results['ids'] or not preliminary_results['metadatas']:
+        print("No relevant results found.")
+        return []
+
+    similarities = []
+    similarity_by_country = defaultdict(list)
+
+    # Step 1: Compute all similarities and group them by country
+    for i in range(len(preliminary_results['ids'][0])):
+        similarity = 1 - preliminary_results['distances'][0][i]
+        metadata = preliminary_results['metadatas'][0][i]
+        location = metadata.get("location", "default")
+        similarity_by_country[location].append(similarity)
+        similarities.append((i, similarity, location, metadata))
+
+    # Step 2: Calculate dynamic thresholds for each country
+    country_thresholds = {
+        country: np.percentile(scores, percentile)
+        for country, scores in similarity_by_country.items()
+    }
+
+    # Step 3: Filter chunks based on their country-specific threshold
+    filtered_chunks = []
+    for i, similarity, location, metadata in similarities:
+        threshold = country_thresholds.get(location, 0.65)  # default fallback
+        if similarity >= threshold:
+            filtered_chunks.append({
+                "score": similarity,
+                "text": preliminary_results['documents'][0][i],
+                "article": metadata.get("article", "Unknown"),
+                "original_filename": metadata.get("original_filename", "Unknown"),
+                "location": location,
+                "chunk_index": metadata.get("chunk_index", i)
+            })
+
+    # Step 4: Sort and return top_k chunks
+    filtered_chunks.sort(key=lambda x: x["score"], reverse=True)
+    context = filtered_chunks[:top_k]
+
+    # Log results
+    print(f"\nFound {len(context)} chunks meeting country-specific thresholds (top {100 - percentile:.0f}%)")
+    for i, chunk in enumerate(context):
+        print(f"\n=== Chunk {i+1} ===")
+        print(f"Similarity Score: {chunk['score']:.4f}")
+        print(f"Article: {chunk['article']}")
+        print(f"File: {chunk['original_filename']}")
+        print(f"Location: {chunk['location']}")
+        print("\nContent preview:")
+        print(chunk['text'][:500] + ("..." if len(chunk['text']) > 500 else ""))
+        print("=" * 50)
+
+    # Save to file
     with open("merged_chunk.txt", "w", encoding="utf-8") as f:
-        f.write(f"Query: {query}\n\n")
+        f.write(f"Query: {query}\n")
+        f.write(f"Percentile threshold: {percentile}\n")
+        f.write(f"Found {len(context)} relevant chunks\n\n")
         for i, chunk in enumerate(context):
             f.write(f"--- Chunk {i+1} ---\n")
             f.write(f"Score: {chunk['score']:.4f}\n")
             f.write(f"Article: {chunk['article']}\n")
-            f.write(f"File: {chunk['original_filename']}\n\n")
+            f.write(f"File: {chunk['original_filename']}\n")
+            f.write(f"Location: {chunk['location']}\n\n")
             f.write(chunk['text'] + "\n\n")
+
     return context
 
 def index_data_from_folder(folder_path: str, force_reindex: bool = False):
@@ -280,7 +371,6 @@ def get_regulatory_assessment(query: str, context: List[Dict]) -> Tuple[Optional
     [Every article number used with filename]
     """
 
-
     try:
         print("Sending request to OpenAI...")
         response = openai.chat.completions.create(
@@ -332,7 +422,7 @@ if __name__ == "__main__":
     TEXT_CHUNK_SIZE = 500
     TEXT_CHUNK_OVERLAP = 100
     COUNTRY = re.sub(r'[^a-zA-Z0-9_-]', '_', target_location.get('country', '').strip())
-    DATA_FOLDER = os.path.join("..", "Data_txts", COUNTRY)
+    DATA_FOLDER = os.path.join("txt", COUNTRY)
     FILENAME_PATTERN = re.compile(r"^(?P<location>.+?)_(?P<date>\d{4}-\d{2}-\d{2})_(?P<desc>.*)\.txt$", re.IGNORECASE)
     print(f"Loading embedding model: {EMBEDDING_MODEL}...")
 
@@ -357,7 +447,7 @@ if __name__ == "__main__":
         # clean_index()
         # index_data_from_folder(DATA_FOLDER, force_reindex=True)
 
-    for query in ["tenant rights and restrictions"]: 
+    for query in ["lease rights"]: 
         relevant_context = retrieve_relevant_context(query)
 
         if relevant_context:
