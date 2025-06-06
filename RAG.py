@@ -27,7 +27,21 @@ if not openai.api_key:
 
 # address = "13 Parkgate St, Stoneybatter"
 # target_location = get_location_nominatim(address)
-target_location = {'city': 'None', 'province': 'None', 'country': 'Japan'}
+target_location = {'city': 'None', 'province': 'None', 'country': 'Netherlands'}
+
+def collect_files(*folders):
+    """Collect files from folders, avoiding duplicates (by file name)."""
+    seen = set()
+    all_files = []
+
+    for folder in folders:
+        if os.path.isdir(folder):
+            for fname in sorted(os.listdir(folder)):
+                fpath = os.path.join(folder, fname)
+                if os.path.isfile(fpath) and fname not in seen:
+                    seen.add(fname)
+                    all_files.append(fpath)
+    return all_files
 
 # --- Utility Functions ---
 def get_file_hash(filepath):
@@ -66,19 +80,6 @@ def extract_metadata_from_path(file_path: str, text: str) -> Dict[str, str]:
 
 def clean_metadata(metadata: Dict[str, Optional[str]]) -> Dict[str, str]:
     return {k: (str(v) if v is not None else "unknown") for k, v in metadata.items()}
-
-# def convert_legal_headers_to_markdown(text: str) -> str:
-#     patterns = [
-#         r"Artikel\s+(\d+[a-zA-Z]?)\.?",
-#         r"Article\s+(\d+[a-zA-Z]?)\.?",
-#         r"Art\.?\s+(\d+[a-zA-Z]?)\.?",
-#         r"Artigo\s+(\d+[a-zA-Z]?)\.?",
-#         r"Artículo\s+(?P<num>\d+[a-zA-Z]?|(?:[a-záéíóúñ]{3,}))\.?",
-#         r"§\s*(\d+[a-zA-Z]?)\.?"
-#     ]
-#     for pattern in patterns:
-#         text = re.sub(rf"(?m)^{pattern}", lambda m: f"# {m.group(0)}", text)
-#     return text
 
 def convert_legal_headers_to_markdown(text: str) -> str:
     """Convert legal document headers to markdown format."""
@@ -258,8 +259,13 @@ def retrieve_relevant_context(query: str, top_k: int = 15, percentile: float = 8
 
     return context
 
-def index_data_from_folder(folder_path: str, force_reindex: bool = False):
-    if not os.path.isdir(folder_path): return
+def index_data_from_folder(folder_paths, force_reindex: bool = False):
+    folder_paths = [f for f in folder_paths if os.path.isdir(f)]
+    if not folder_paths:
+        print("No valid folders found.")
+        return
+
+    # Load existing docs and hashes
     existing_docs = collection.get()
     existing_files = {
         meta['original_filename']: {
@@ -269,34 +275,48 @@ def index_data_from_folder(folder_path: str, force_reindex: bool = False):
         for i, meta in enumerate(existing_docs.get('metadatas', []))
         if 'original_filename' in meta
     }
-    for filename in os.listdir(folder_path):
-        if not filename.lower().endswith(".txt"): continue
-        path = os.path.join(folder_path, filename)
-        file_hash = get_file_hash(path)
-        if filename in existing_files and not force_reindex and existing_files[filename]['hash'] == file_hash:
-            print(f"Skipping unchanged file: {filename}")
-            continue
-        if filename in existing_files:
-            collection.delete(ids=existing_files[filename]['ids'])
-        with open(path, 'r', encoding='utf-8') as f:
-            text = f.read()
-        if not text.strip(): continue
-        metadata = parse_filename(filename) or extract_metadata_from_path(path, text)
-        chunks = markdown_with_subchunks(text)
-        docs = [chunk['text'] for chunk in chunks]
-        embs = embedding_model.encode(docs).tolist()
-        ids, metadatas = [], []
-        for i, chunk in enumerate(chunks):
-            ids.append(str(uuid.uuid4()))
-            metadatas.append(clean_metadata({
-                "original_filename": filename,
-                "file_hash": file_hash,
-                "chunk_index": i,
-                **metadata,
-                **chunk["metadata"]
-            }))
-        collection.add(ids=ids, documents=docs, embeddings=embs, metadatas=metadatas)
+
+    seen_filenames = set()
+    for folder_path in folder_paths:
+        for filename in sorted(os.listdir(folder_path)):
+            if not filename.lower().endswith(".txt"): continue
+            if filename in seen_filenames: continue  # Skip if already handled
+            seen_filenames.add(filename)
+
+            path = os.path.join(folder_path, filename)
+            file_hash = get_file_hash(path)
+
+            if filename in existing_files and not force_reindex and existing_files[filename]['hash'] == file_hash:
+                print(f"Skipping unchanged file: {filename}")
+                continue
+
+            if filename in existing_files:
+                collection.delete(ids=existing_files[filename]['ids'])
+
+            with open(path, 'r', encoding='utf-8') as f:
+                text = f.read()
+            if not text.strip():
+                continue
+
+            metadata = parse_filename(filename) or extract_metadata_from_path(path, text)
+            chunks = markdown_with_subchunks(text)
+            docs = [chunk['text'] for chunk in chunks]
+            embs = embedding_model.encode(docs).tolist()
+
+            ids, metadatas = [], []
+            for i, chunk in enumerate(chunks):
+                ids.append(str(uuid.uuid4()))
+                metadatas.append(clean_metadata({
+                    "original_filename": filename,
+                    "file_hash": file_hash,
+                    "chunk_index": i,
+                    **metadata,
+                    **chunk["metadata"]
+                }))
+            collection.add(ids=ids, documents=docs, embeddings=embs, metadatas=metadatas)
+
     print("Indexing complete.")
+
 
 def clean_index():
     """Remove all documents from the collection"""
@@ -365,7 +385,7 @@ def get_regulatory_assessment(query: str, context: List[Dict]) -> Tuple[Optional
 
     **Example Format:**
 
-    Score: [1–10 or N/A]  
+    Score: [1-10 or N/A]  
     Explanation: [Clear, grounded explanation with specific citations and numbers]  
     Articles Used:  
     [Every article number used with filename]
@@ -418,11 +438,17 @@ def get_regulatory_assessment(query: str, context: List[Dict]) -> Tuple[Optional
         return None, f"An error occurred during AI assessment: {e}"
 
 if __name__ == "__main__":
-    EMBEDDING_MODEL = "sentence-transformers/paraphrase-xlm-r-multilingual-v1"
+    EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
     TEXT_CHUNK_SIZE = 500
     TEXT_CHUNK_OVERLAP = 100
+
     COUNTRY = re.sub(r'[^a-zA-Z0-9_-]', '_', target_location.get('country', '').strip())
-    DATA_FOLDER = os.path.join("txt", COUNTRY)
+    REGION = re.sub(r'[^a-zA-Z0-9_-]', '_', target_location.get('province', '').strip())
+    CITY = re.sub(r'[^a-zA-Z0-9_-]', '_', target_location.get('city', '').strip())
+    base_path = os.path.join("..", "Data_txts", COUNTRY)
+    region_path = os.path.join(base_path, REGION)
+    city_path = os.path.join(region_path, CITY)
+    DATA_FOLDER = [city_path, region_path, base_path]
     FILENAME_PATTERN = re.compile(r"^(?P<location>.+?)_(?P<date>\d{4}-\d{2}-\d{2})_(?P<desc>.*)\.txt$", re.IGNORECASE)
     print(f"Loading embedding model: {EMBEDDING_MODEL}...")
 
@@ -443,33 +469,33 @@ if __name__ == "__main__":
     else:
         print(f"\nUsing existing Chroma collection with {existing_count} items")
         # Optional: Uncomment to force reindex if needed
-        # print("Forcing reindex...")
-        # clean_index()
-        # index_data_from_folder(DATA_FOLDER, force_reindex=True)
+        print("Forcing reindex...")
+        clean_index()
+        index_data_from_folder(DATA_FOLDER, force_reindex=True)
 
     for query in ["lease rights"]: 
         relevant_context = retrieve_relevant_context(query)
 
-        if relevant_context:
-            score, explanation = get_regulatory_assessment(query, relevant_context)
+        # if relevant_context:
+        #     score, explanation = get_regulatory_assessment(query, relevant_context)
 
-            print("\n--- Final Assessment ---")
-            print(f"Query: {query}")
-            if target_location:
-                print(f"Focus Location: {target_location}")
-            print(f"Retrieved Context Sources: {len(relevant_context)}")
+        #     print("\n--- Final Assessment ---")
+        #     print(f"Query: {query}")
+        #     if target_location:
+        #         print(f"Focus Location: {target_location}")
+        #     print(f"Retrieved Context Sources: {len(relevant_context)}")
 
-            if score is not None:
-                print(f"Regulatory Pressure Score (1-10): {score}")
-            else:
-                print("Regulatory Pressure Score (1-10): N/A")
+        #     if score is not None:
+        #         print(f"Regulatory Pressure Score (1-10): {score}")
+        #     else:
+        #         print("Regulatory Pressure Score (1-10): N/A")
 
-            print(f"\nExplanation:\n{explanation}")
+        #     print(f"\nExplanation:\n{explanation}")
 
-        else:
-            print("\n--- Final Assessment ---")
-            print(f"Query: {query}")
-            print("Could not retrieve relevant context from the database to perform an assessment.")
+        # else:
+        #     print("\n--- Final Assessment ---")
+        #     print(f"Query: {query}")
+        #     print("Could not retrieve relevant context from the database to perform an assessment.")
 
-        print("\n" + "="*50)
-        print("Script finished. Chroma data persists for future runs.")
+        # print("\n" + "="*50)
+        # print("Script finished. Chroma data persists for future runs.")
