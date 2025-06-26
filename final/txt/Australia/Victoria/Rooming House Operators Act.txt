@@ -1,0 +1,5719 @@
+Metadata for Victoria/Rooming House Operators Act.pdf: {'format': 'PDF 1.7', 'title': 'Rooming House Operators Act 2016', 'author': 'anna', 'subject': "Reprints for Acts/SR's", 'keywords': 'Versions, Reprints', 'creator': 'Microsoft® Word 2019', 'producer': 'Microsoft® Word 2019', 'creationDate': "D:20231127091907+11'00'", 'modDate': "D:20231127092052+11'00'", 'trapped': '', 'encryption': None, 'country': 'Australia'}
+
+Country found in Victoria/Rooming House Operators Act.pdf: Australia
+
+ 
+Authorised by the Chief Parliamentary Counsel 
+i 
+ 
+Authorised Version No. 009 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+Authorised Version incorporating amendments as at 
+1 December 2023 
+ 
+TABLE OF PROVISIONS 
+Section 
+Page 
+Part 1—Preliminary 
+1 
+1 
+Purpose 
+1 
+2 
+Commencement 
+2 
+3 
+Definitions 
+2 
+Part 2—The Authority and the Director 
+10 
+4 
+Functions of the Authority 
+10 
+5 
+Functions of the Director 
+10 
+6 
+Delegation by Director 
+11 
+Part 3—Licences 
+12 
+Division 1—Requirement for licence 
+12 
+7 
+Offence to operate a rooming house without a licence 
+12 
+8 
+Person representing to be a licensee 
+13 
+Division 2—Application for licence or renewal of licence 
+13 
+9 
+Who may apply for a licence or renewal of a licence? 
+13 
+10 
+When to apply for renewal of licence 
+13 
+11 
+How to make application 
+13 
+12 
+Withdrawal of application 
+16 
+13 
+False or misleading information 
+16 
+Division 3—Investigation of applicants 
+17 
+14 
+Authority may conduct inquiries and require further 
+information or a consent to disclosure of information 
+17 
+15 
+Request to Director or others for information 
+17 
+Division 4—Determination of applications 
+18 
+16 
+Granting or refusing to grant licence—renewing or refusing to 
+renew licence 
+18 
+17 
+Application for licence—licence disqualification criteria 
+19 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Section 
+Page 
+ii 
+  
+18 
+Application for renewal of licence—renewal disqualification 
+criteria 
+24 
+19 
+Rooming house operator's licence 
+29 
+20 
+Duration of licence 
+29 
+Division 5—During the course of the licence 
+31 
+21 
+Ceasing to be fit and proper—notification by licensee 
+31 
+22 
+Changes to officers or managers—notification by licensee 
+31 
+23 
+Authority's powers in relation to notification 
+33 
+24 
+Request to Director or others for information following 
+notification 
+34 
+25 
+Failure to provide information or consents 
+35 
+26 
+Determination following notification 
+35 
+27 
+Offence to allow certain persons to continue to be officers or 
+manager 
+36 
+28 
+Offence to operate rooming house after failure to notify 
+37 
+Division 6—Exceptions to offences against sections 7 and 8 
+38 
+29 
+Exception to sections 7 and 8—applicant for licence renewal 
+38 
+30 
+Exception to sections 7 and 8—building owner or lessee 
+40 
+Part 4—Disciplinary hearings, licence cancellations and protective 
+orders 
+43 
+31 
+Hearing to determine whether to take disciplinary action under 
+section 33 
+43 
+32 
+Grounds for taking disciplinary action under section 33 
+43 
+33 
+Disciplinary powers of VCAT—orders 
+45 
+34 
+Protective orders 
+47 
+35 
+Evidence that VCAT may take into account 
+48 
+36 
+Endorsement of licence 
+49 
+37 
+Return of licence 
+49 
+38 
+Residential rental agreements and residency rights—
+cancellation of licence or failure to renew licence 
+50 
+Part 5—Other licensing matters 
+51 
+39 
+Displaying licence at rooming house 
+51 
+40 
+Change in details of application for licence or renewal of 
+licence 
+51 
+41 
+Death, disability, etc. of licensee 
+51 
+42 
+Application for review 
+53 
+43 
+Register of Licensed Rooming House Operators 
+54 
+44 
+Publication of information 
+56 
+Part 6—Enforcement 
+57 
+Division 1—Preliminary 
+57 
+45 
+Production of identity card 
+57 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Section 
+Page 
+iii 
+  
+Division 2—Inspection of documents and records 
+57 
+46 
+Documents to be available for inspection 
+57 
+47 
+Licensee or specified persons to produce documents and 
+answer questions 
+58 
+48 
+Third parties to produce documents and answer questions 
+relating to business of operating a rooming house 
+58 
+49 
+Specified public bodies to produce information 
+59 
+50 
+Certain other specified persons or bodies to produce 
+information 
+60 
+51 
+ADIs to produce documents and information 
+61 
+52 
+Powers on production of documents 
+61 
+53 
+Where must documents be produced? 
+62 
+54 
+Order requiring supply of information and answers to 
+questions 
+62 
+55 
+Service of documents 
+63 
+Division 3—Entry, search and seizure 
+63 
+56 
+Entry or search with consent 
+63 
+57 
+Entry of premises open to the public 
+65 
+58 
+Entry without consent or warrant 
+65 
+59 
+Search warrants 
+66 
+60 
+Form and content of search warrants 
+67 
+61 
+Announcement before entry 
+68 
+62 
+Seizure of things not described in the warrant 
+69 
+63 
+Embargo notice 
+69 
+64 
+Inspector may monitor compliance with embargo notice 
+70 
+65 
+Search warrants in relation to embargo notice 
+70 
+66 
+Retention and return of seized documents or things 
+71 
+67 
+Magistrates' Court may extend 3 month period 
+72 
+68 
+Requirement to assist inspector during entry 
+73 
+Division 4—General enforcement matters 
+73 
+69 
+Offence to give false or misleading information 
+73 
+70 
+Confidentiality 
+74 
+71 
+Infringements 
+74 
+72 
+Protection against self-incrimination 
+75 
+73 
+Complaints 
+75 
+Part 7—General 
+76 
+74 
+Application of Australian Consumer Law and Fair Trading 
+Act 2012 
+76 
+75 
+Evidence 
+77 
+76 
+Who may commence proceedings? 
+77 
+77 
+Extension of time for prosecutions 
+78 
+78 
+Service of documents 
+78 
+79 
+Money required to be paid into the Victorian Property Fund 
+79 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Section 
+Page 
+iv 
+  
+79A Licensing Registrar may waive or reduce fees 
+79 
+80 
+Regulations 
+79 
+Part 8—Transitional provisions and consequential amendments 
+81 
+Division 1—Transitional provisions 
+81 
+81 
+Definitions 
+81 
+82 
+Application of sections 7 and 8 to existing rooming house 
+operators 
+81 
+83 
+VCAT orders—existing rooming house operator refused 
+licence 
+84 
+Division 2—Consequential amendments 
+86 
+84 
+Australian Consumer Law and Fair Trading Act 2012 
+86 
+85 
+Business Licensing Authority Act 1998 
+86 
+86 
+Estate Agents Act 1980 
+86 
+87 
+Residential Tenancies Act 1997—Termination after notice to 
+vacate 
+87 
+88 
+Residential Tenancies Act 1997—new section 228A 
+88 
+89 
+Residential Tenancies Act 1997—Notice of intention to vacate 
+88 
+90 
+Residential Tenancies Act 1997—Notice to have no effect in 
+certain circumstances 
+89 
+91 
+Residential Tenancies Act 1997—new sections 268A 
+and 268B 
+89 
+92 
+Residential Tenancies Act 1997—new section 272A 
+90 
+93 
+Residential Tenancies Act 1997—new sections 290A 
+and 290B 
+91 
+═══════════════ 
+Endnotes 
+93 
+1 
+General information 
+93 
+2 
+Table of Amendments 
+95 
+3 
+Explanatory details 
+97 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+ 
+1 
+  
+Authorised Version No. 009 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+Authorised Version incorporating amendments as at 
+1 December 2023 
+ 
+The Parliament of Victoria enacts: 
+Part 1—Preliminary 
+ 
+1 Purpose 
+The purpose of this Act is— 
+ 
+(a) to foster professionalism and reduce 
+exploitative and undesirable practices within 
+the rooming house sector by— 
+ 
+(i) establishing a licensing scheme for 
+rooming house operators; and 
+ 
+(ii) ensuring that licences are only granted 
+to persons who are fit and proper within 
+the meaning of the Act; and 
+ 
+(iii) holding licensed rooming house 
+operators to account for their conduct 
+and the conduct of persons involved in 
+the management or operation of their 
+rooming houses; and 
+ 
+(iv) protecting the rights of rooming house 
+residents; and 
+ 
+(b) to make consequential amendments to 
+the Australian Consumer Law and 
+Fair Trading Act 2012, the Business 
+Licensing Authority Act 1998, the Estate 
+Agents Act 1980 and the Residential 
+Tenancies Act 1997. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+2 
+  
+ 
+2 Commencement 
+ 
+(1) Subject to subsection (2), this Act comes into 
+operation on a day or days to be proclaimed. 
+ 
+(2) If a provision of this Act does not come into 
+operation before 1 July 2017, it comes into 
+operation on that day. 
+ 
+3 Definitions 
+ 
+(1) In this Act— 
+associate of a relevant person means the 
+following— 
+ 
+(a) a business partner of the relevant 
+person;  
+ 
+(b) an employee, agent or contractor of the 
+relevant person;  
+ 
+(c) a spouse, domestic partner, child, 
+grandchild, sibling, parent or 
+grandparent of the relevant person; 
+ 
+(d) a person with whom the relevant person 
+has entered into a lease;  
+ 
+(e) a prescribed person or a person 
+belonging to a prescribed class of 
+person; 
+Authority means the Business Licensing 
+Authority established under the Business 
+Licensing Authority Act 1998; 
+body corporate means— 
+ 
+(a) a company registered under the 
+Corporations Act; or 
+ 
+(b) an incorporated association within 
+the meaning of section 3 of the 
+Associations Incorporation Reform 
+Act 2012; or 
+S. 3(1) def. of 
+body 
+corporate 
+amended by 
+No. 48/2018 
+s. 66(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+3 
+  
+ 
+(ba) an incorporated association established 
+under an Act of another State or a 
+Territory; or 
+ 
+(c) a co-operative within the meaning of 
+the Co-operatives National Law 
+(Victoria);  
+Building Code of Australia has the same meaning 
+as in section 3(1) of the Building Act 1993; 
+Chief Commissioner of Police means the Chief 
+Commissioner of Police appointed under the 
+Victoria Police Act 2013; 
+Chief Executive Officer has the same meaning as 
+in section 3(1) of the Local Government 
+Act 2020; 
+ 
+Consumer Act has the same meaning as in the 
+Australian Consumer Law and Fair 
+Trading Act 2012; 
+Council has the same meaning as in section 3(1) 
+of the Local Government Act 2020; 
+ 
+Director means the Director within the meaning 
+of the Australian Consumer Law and Fair 
+Trading Act 2012; 
+domestic partner of a person means— 
+ 
+(a) a person who is in a registered 
+relationship with the person; or  
+ 
+(b) a person to whom the person is not 
+married but with whom the person is 
+living as a couple on a genuine 
+domestic basis (irrespective of gender); 
+embargo notice means a notice issued by an 
+inspector under section 63; 
+S. 3(1) def. of 
+Chief 
+Executive 
+Officer 
+amended by 
+No. 9/2020 
+s. 390(Sch. 1 
+item 89). 
+S. 3(1) def. of 
+Council 
+amended by 
+No. 9/2020 
+s. 390(Sch. 1 
+item 89). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+4 
+  
+ 
+externally-administered body corporate means a 
+body corporate— 
+ 
+(a) that is being wound up; or 
+ 
+(b) in respect of property of which a 
+receiver, or a receiver and manager, has 
+been appointed (whether or not by a 
+court) and is acting; or 
+ 
+(c) that is under administration; or 
+ 
+(d) that has executed a deed of company 
+arrangement that has not yet 
+terminated; or 
+ 
+(e) that has entered into a compromise or 
+arrangement with another person the 
+administration of which has not been 
+concluded; 
+fit and proper person means, in relation to— 
+ 
+(a) an applicant for a licence, that none of 
+the relevant persons meets any of the 
+licence disqualification criteria; 
+ 
+(b) a licensee who, when applying for a 
+renewal of the licensee's licence, does 
+not include details of a new manager or 
+officer in the application, that none of 
+the relevant persons meets any of the 
+renewal disqualification criteria; or 
+ 
+(c) a licensee who, when applying for a renewal 
+of the licensee's licence, includes details of a 
+new manager or officer, that the new 
+manager or officer does not meet any of the 
+licence disqualification criteria and that 
+neither the licensee nor any other relevant 
+person meets any of the renewal 
+disqualification criteria; 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+5 
+  
+inspector means an inspector appointed under the 
+Australian Consumer Law and Fair 
+Trading Act 2012; 
+licence means a licence to operate a rooming 
+house granted or renewed under section 16; 
+licence disqualification criteria means the criteria 
+set out in section 17; 
+Licensing Registrar means the Registrar of the 
+Business Licensing Authority appointed under 
+the Business Licensing Authority Act 1998;  
+manager means a natural person who has attained 
+the age of 18 years and who takes part, or 
+proposes to take part, in the management of a 
+rooming house, whether or not the person is 
+employed or engaged by a rooming house 
+operator or by another person acting on 
+behalf of the rooming house operator; 
+notice to vacate means a notice to vacate within 
+the meaning of the Residential Tenancies 
+Act 1997; 
+ 
+officer in relation to a body corporate means any 
+person (by whatever name called) who— 
+ 
+(a) in the case of a company, is a director 
+or secretary of the company; or 
+ 
+(b) in the case of an incorporated 
+association, is a member of the 
+committee of management of the 
+incorporated association or the 
+secretary of the incorporated 
+association; or 
+ 
+(c) in the case of a co-operative, is a 
+member of the board of directors of the 
+co-operative; or 
+S. 3(1) def. of 
+notice to 
+vacate 
+amended by 
+No. 45/2018 
+s. 377(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+6 
+  
+ 
+(d) makes, or participates in making, 
+decisions that affect the whole, or a 
+substantial part, of the business of the 
+company, incorporated association or 
+co-operative (as the case may be), but 
+does not include a manager; or 
+ 
+(e) has the capacity to affect significantly 
+the financial standing of the company, 
+incorporated association or  
+co-operative (as the case may be); or 
+ 
+(f) in accordance with whose instructions 
+the directors of the company, the 
+members of the committee of 
+management of the incorporated 
+association or the members of the board 
+of directors of the co-operative (as the 
+case may be) are accustomed to act; 
+receiver has the same meaning as in section 9 of 
+the Corporations Act; 
+receiver and manager has the same meaning as in 
+section 9 of the Corporations Act; 
+Register means the Register of Licensed Rooming 
+House Operators established under  
+section 43; 
+registered office has the same meaning as in the 
+Corporations Act; 
+relevant person means— 
+ 
+(a) in relation to a licensee or an applicant 
+for a licence who is a natural person— 
+ 
+(i) that natural person; or 
+ 
+(ii) a person who is a manager of a 
+rooming house that is currently 
+(or is proposed to be) operated 
+by the person referred to in 
+subparagraph (i); and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+7 
+  
+ 
+(b) in relation to a licensee or an applicant 
+for a licence that is a body corporate— 
+ 
+(i) that body corporate; or 
+ 
+(ii) a person who is a manager of a 
+rooming house that is currently 
+(or is proposed to be) operated by 
+the body corporate referred to in 
+subparagraph (i); or 
+ 
+(iii) an officer of the body corporate; 
+renewal disqualification criteria means the 
+criteria set out in section 18; 
+resident means a person who, with the agreement 
+of a rooming house operator, occupies as the 
+resident's only or main residence a room in a 
+rooming house operated by the rooming 
+house operator; 
+rooming house has the same meaning as in 
+section 3(1) of the Residential Tenancies 
+Act 1997;  
+rooming house operator means a natural person 
+who, or a body corporate that, conducts the 
+business of operating a rooming house, 
+whether or not the rooming house operator 
+owns the property on which the rooming 
+house is located; 
+rooming house provisions means any provisions 
+of the Residential Tenancies Act 1997 to 
+the extent to which they apply to a room, a 
+rooming house, a resident or tenant of a 
+room in a rooming house, a rooming house 
+owner, or a rooming house mortgagee within 
+the meaning of that Act. 
+ 
+ 
+S. 3(1) def. of 
+rooming 
+house 
+provisions 
+substituted by 
+No. 48/2018 
+s. 66(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+8 
+  
+ 
+(2) For the purposes of the definition of domestic 
+partner— 
+ 
+(a) registered relationship has the same 
+meaning as in the Relationships Act 2008; 
+and 
+ 
+(b) in determining whether persons who are not 
+in a registered relationship are domestic 
+partners of each other, all the circumstances 
+of their relationship are to be taken into 
+account, including any one or more of the 
+matters referred to in section 35(2) of the 
+Relationships Act 2008 as may be relevant 
+in a particular case. 
+ 
+(3) For the purposes of the definition of officer, in 
+paragraph (f) of that definition, instructions 
+excludes advice given by a person in the proper 
+performance of functions attaching to the person's 
+professional capacity or the person's business 
+relationship with— 
+ 
+(a) in the case of a company, the directors of the 
+company; or 
+ 
+(b) in the case of an incorporated association, 
+the members of the committee of 
+management of the incorporated association; 
+or 
+ 
+(c) in the case of a co-operative, the members of 
+the board of directors of the co-operative. 
+ 
+(4) Subject to subsection (5), for the purposes of this 
+Act, a person takes part in the management of a 
+rooming house if the person, on behalf of the 
+rooming house operator— 
+ 
+(a) negotiates residency agreements with 
+residents of the rooming house; or 
+ 
+(b) enters into residency agreements with 
+residents of the rooming house; or 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+9 
+  
+ 
+(c) gives notice to a resident of the rooming 
+house under the Residential Tenancies 
+Act 1997; or 
+ 
+(d) receives a payment of rent from a resident of 
+the rooming house. 
+ 
+(5) A person does not take part in the management of 
+a rooming house merely because the person 
+carries out caretaking duties at the rooming house.  
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—The Authority and the Director 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+10 
+  
+Part 2—The Authority and the Director 
+ 
+4 Functions of the Authority 
+The functions of the Authority under this Act 
+are— 
+ 
+(a) to determine applications for licences and 
+renewals of licences; and 
+ 
+(b) to determine whether a new manager of a 
+rooming house operated by a licensee or a 
+new officer of a body corporate that is a 
+licensee meets any of the licence 
+disqualification criteria; and 
+ 
+(c) to liaise with the Director, the Chief 
+Executive Officers of Councils and the 
+Chief Commissioner of Police so as to assist 
+those persons to carry out their functions in 
+relation to this Act; and 
+ 
+(d) to refer relevant matters for investigation by 
+the Director or any other relevant body; and 
+ 
+(e) any other function conferred on the 
+Authority by or under this Act, any 
+regulations made under this Act or any 
+other Act. 
+ 
+5 Functions of the Director 
+The functions of the Director under this Act are— 
+ 
+(a) to monitor compliance with, and investigate 
+and prosecute alleged contraventions of, this 
+Act; and 
+ 
+(b) to instigate disciplinary action against 
+licensees; and 
+ 
+(c) to liaise with the Authority so as to assist 
+the Authority to carry out its functions in 
+relation to this Act; and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—The Authority and the Director 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+11 
+  
+ 
+(d) to refer to other bodies for investigation, if 
+appropriate, any allegation, complaint or 
+information in relation to rooming house 
+operators; and 
+ 
+(e) any other function conferred on the Director 
+by or under this Act, any regulations made 
+under this Act or any other Act. 
+ 
+6 Delegation by Director 
+The Director, by instrument, may delegate any 
+function or power of the Director under this Act 
+(other than this power of delegation) to any person 
+or class of person employed under Part 3 of the 
+Public Administration Act 2004. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+12 
+  
+Part 3—Licences 
+Division 1—Requirement for licence  
+ 
+7 Offence to operate a rooming house without a 
+licence 
+ 
+ 
+(1) A person other than a registered housing 
+association or registered housing provider 
+must not conduct the business of operating 
+a rooming house without a licence. 
+Penalty: In the case of a natural person, 
+240 penalty units or imprisonment 
+for 2 years. 
+ 
+In the case of a body corporate, 
+1200 penalty units. 
+ 
+(2) If a declaration is made under section 19(2) or (3) 
+of the Residential Tenancies Act 1997 in respect 
+of a building, subsection (1) does not apply to a 
+rooming house operator who operates a rooming 
+house at that building for a period of 60 days from 
+the date that the declaration is made. 
+Note 
+Section 19(2) and (3) of the Residential Tenancies 
+Act 1997 provides that the Minister may declare certain 
+buildings to be rooming houses following a request by the 
+owner of the building or Homes Victoria (within the 
+meaning of section 4(1) of the Housing Act 1983). 
+ 
+(3) In this section— 
+registered housing association has the same 
+meaning as in the Housing Act 1983; 
+registered housing provider has the same 
+meaning as in the Housing Act 1983. 
+ 
+ 
+S. 7 (Heading) 
+substituted by 
+No. 48/2018 
+s. 67(1). 
+S. 7(1) 
+substituted by 
+No. 48/2018 
+s. 67(2). 
+Note to s. 7(2) 
+amended by 
+No. 40/2022 
+s. 57. 
+S. 7(3) 
+inserted by 
+No. 48/2018 
+s. 67(3). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+13 
+  
+ 
+8 Person representing to be a licensee 
+A person who does not hold a licence must not 
+make a representation stating or implying that the 
+person is a licensee or is otherwise authorised to 
+operate a rooming house under this Act. 
+Penalty: In the case of a natural person,  
+120 penalty units. 
+ 
+ In the case of a body corporate,  
+600 penalty units. 
+Division 2—Application for licence or 
+renewal of licence 
+ 
+9 Who may apply for a licence or renewal of a 
+licence? 
+ 
+(1) A person may make an application for a licence if 
+the person— 
+ 
+(a) has attained the age of 18 years, in the case 
+of a natural person; or  
+ 
+(b) is a body corporate.  
+ 
+(2) A person who is a licensee may apply for a 
+renewal of the person's licence. 
+ 
+10 When to apply for renewal of licence 
+An application for a renewal of a licence must be 
+made before the expiry of the licence but not 
+earlier than 60 days before that expiry. 
+ 
+11 How to make application 
+ 
+(1) An application for a licence or for a renewal of a 
+licence must be made in the manner and form 
+approved by the Authority. 
+ 
+(2) An application for a licence or a renewal of a 
+licence by a natural person who is, or intends to 
+be, a rooming house operator must include the 
+following information— 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+14 
+  
+ 
+(a) the applicant's full name; 
+ 
+(b) the applicant's date of birth; 
+ 
+(c) the applicant's residential address; 
+ 
+(d) if a rooming house that the applicant 
+currently operates, or intends to operate, has 
+a manager or a proposed manager, the 
+following details about the manager— 
+ 
+(i) the manager's full name; 
+ 
+(ii) the manager's date of birth; 
+ 
+(iii) the manager's residential address; 
+ 
+(e) any other information in relation to the 
+application required by the Authority. 
+ 
+(3) An application for a licence or a renewal of a 
+licence by a body corporate that is, or intends to 
+be, a rooming house operator must include the 
+following information— 
+ 
+(a) the name of the body corporate, its business 
+name (if any) and its ACN or ABN;  
+ 
+(b) the address of its registered office; 
+ 
+(c) the full name of each officer of the body 
+corporate and each officer's date of birth, 
+position and residential address; 
+ 
+(d) if a rooming house that the applicant 
+currently operates, or intends to operate, has 
+a manager or a proposed manager, the 
+following details about the manager— 
+ 
+(i) the manager's full name; 
+ 
+(ii) the manager's date of birth; 
+ 
+(ii) the manager's residential address; 
+ 
+(e) any other information in relation to the 
+application required by the Authority. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+15 
+  
+ 
+(4) An application made under subsection (1) must be 
+accompanied by— 
+ 
+(a) any document or other information required 
+by the Authority— 
+ 
+(i) to verify the identity of a relevant 
+person; or 
+ 
+(ii) to enable the Authority to ascertain 
+whether a relevant person meets any of 
+the licence disqualification criteria or 
+renewal disqualification criteria, as the 
+case may be; and 
+ 
+(b) the applicant's consent to the Authority 
+checking or verifying any information 
+provided by the applicant under this section; 
+and 
+ 
+(c) the manager's consent to the Authority 
+verifying the manager's identity; and  
+ 
+(d) in the case of a body corporate, each officer's 
+consent to the Authority verifying the 
+officer's identity; and  
+ 
+(e) in the case of a body corporate, a declaration 
+by the natural person making the application 
+that— 
+ 
+(i) the natural person is authorised by all 
+the officers of the body corporate to 
+make the application on behalf of the 
+body corporate; and 
+ 
+(ii) the information provided in the 
+application is true and correct; and 
+ 
+(f) in the case of a natural person, a declaration 
+made by the natural person that the 
+information provided in the application is 
+true and correct. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+16 
+  
+ 
+(5) An application made under subsection (1) must be 
+accompanied by— 
+ 
+(a) the prescribed licence application fee or the 
+prescribed renewal of licence application fee; 
+and 
+ 
+(b) the prescribed licence fee. 
+ 
+12 Withdrawal of application 
+ 
+(1) A person may withdraw, in the manner and form 
+approved by the Authority, the person's 
+application for a licence or a renewal of a licence 
+at any time before the application is determined. 
+ 
+(2) If an application for a licence or a renewal of a 
+licence is withdrawn by an applicant under 
+subsection (1) or is refused by the Authority under 
+section 16, the Authority— 
+ 
+(a) at its discretion, may refund in whole or part 
+the application fee that accompanied the 
+application; and 
+ 
+(b) must refund the licence fee that accompanied 
+the application. 
+ 
+13 False or misleading information 
+A person must not in, or in relation to, an 
+application for a licence or a renewal of a licence 
+give information that is false or misleading in a 
+material particular. 
+Penalty: In the case of a natural person,  
+60 penalty units. 
+ 
+In the case of a body corporate,  
+300 penalty units. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+17 
+  
+Division 3—Investigation of applicants 
+ 
+14 Authority may conduct inquiries and require 
+further information or a consent to disclosure of 
+information 
+In considering an application for a licence or a 
+renewal of a licence, the Authority may— 
+ 
+(a) conduct any inquiries in relation to the 
+application that it thinks fit; and 
+ 
+(b) require a relevant person to provide further 
+information in relation to the application 
+within a specified time; and 
+ 
+(c) require a relevant person to confirm the 
+veracity of any information provided by the 
+relevant person under this Act by means of a 
+statutory declaration within a specified time; 
+and 
+ 
+(d) require a relevant person to provide within a 
+specified time any consent to disclosure of 
+information that the Authority requires for 
+the purpose of performing, or to have 
+performed, a check on the relevant person or 
+on any information included with the 
+application. 
+ 
+15 Request to Director or others for information  
+ 
+(1) Without limiting section 14, in considering an 
+application for a licence or a renewal of a licence, 
+the Authority may request the following persons 
+to provide information in relation to the 
+application— 
+ 
+(a) the Director; 
+ 
+(b) the Chief Executive Officer of a Council; 
+ 
+(c) the Chief Commissioner of Police. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+18 
+  
+ 
+(2) If the Authority makes a request to the Director or 
+the Chief Executive Officer of a Council under 
+subsection (1), the Director or Chief Executive 
+Officer of a Council (as the case may be)— 
+ 
+(a) may make any inquiries in relation to the 
+application that the Director or Chief 
+Executive Officer of a Council considers 
+appropriate to enable the proper 
+consideration of the application; and 
+ 
+(b) must give the Authority a report on the 
+results of those inquiries. 
+ 
+(3) If the Authority makes a request to the Chief 
+Commissioner of Police under subsection (1), the 
+Chief Commissioner of Police— 
+ 
+(a) must make any inquiries in relation to the 
+application that the Chief Commissioner of 
+Police considers appropriate to enable the 
+proper consideration of the application; and 
+ 
+(b) must give the Authority a report on the 
+results of those inquiries. 
+ 
+(4) The Authority may take into account any report 
+received under this section in considering an 
+application for a licence or a renewal of a licence. 
+Division 4—Determination of applications 
+ 
+16 Granting or refusing to grant licence—renewing or 
+refusing to renew licence 
+ 
+(1) If the Authority is satisfied that the applicant is a 
+fit and proper person, the Authority must— 
+ 
+(a) grant a licence to an applicant or renew an 
+applicant's licence, as the case may be; and 
+ 
+(b) notify the applicant in writing of the 
+Authority's determination.  
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+19 
+  
+ 
+(2) The Authority must refuse to grant a licence to an 
+applicant or refuse to renew an applicant's licence, 
+as the case may be, if— 
+ 
+(a) the Authority is satisfied that the applicant is 
+not a fit and proper person; or 
+ 
+(b) the application for the licence or renewal of 
+the licence is incomplete; or 
+ 
+(c) any information required under section 14 
+has not been provided within the time 
+specified by the Authority; or 
+ 
+(d) a consent required under section 14 has not 
+been provided within the time specified by 
+the Authority; or 
+ 
+(e) a statutory declaration required under  
+section 14 has not been provided within the 
+time specified by the Authority. 
+ 
+(3) If the Authority refuses to grant a licence or to 
+renew the applicant's licence, the Authority 
+must— 
+ 
+(a) notify the applicant in writing that the 
+application has been refused and specify the 
+grounds for the refusal; and 
+ 
+(b) refund the prescribed licence fee to the 
+applicant; and 
+ 
+(c) advise the Director of the refusal. 
+ 
+17 Application for licence—licence disqualification 
+criteria 
+ 
+(1) The following are the licence disqualification 
+criteria— 
+ 
+(a) within the preceding 10 years, a relevant 
+person has been convicted or found guilty 
+of— 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+20 
+  
+ 
+(i) an offence involving fraud, dishonesty, 
+drug cultivation or trafficking, sexual 
+slavery or servitude, child pornography 
+or violence that was punishable by a 
+term of imprisonment of 3 months or 
+more at the time of the conviction or 
+finding of guilt or a sexual offence that 
+was punishable by a term of 
+imprisonment of 3 months or more at 
+the time of the conviction or finding of 
+guilt; or 
+ 
+(ia) an offence against section 5(1), 6(1), 
+7(1), 8(1), 9(1), 10(1) or 11(1) of the 
+Sex Work Act 1994 despite its repeal 
+by the Sex Work Decriminalisation 
+Act 2022; or 
+ 
+(ii) an offence that, if committed in 
+Victoria, would constitute an offence 
+referred to in subparagraph (i) or (ia); 
+ 
+(b) a relevant person is an insolvent under 
+administration; 
+ 
+(c) a relevant person is an externally 
+administered corporation under the 
+Corporations Act; 
+ 
+(d) a relevant person is a represented person 
+within the meaning of the Guardianship 
+and Administration Act 2019; 
+ 
+ 
+(e) within the preceding 5 years, a relevant 
+person's licence was cancelled; 
+ 
+(f) within the preceding 5 years, a relevant 
+person has been convicted or found guilty 
+of— 
+ 
+(i) an offence against this Act (other than 
+section 39); or 
+S. 17(1)(a)(i) 
+amended by 
+No. 7/2022 
+s. 76(a). 
+S. 17(1)(a)(ia) 
+inserted by 
+No. 7/2022 
+s. 76(b). 
+S. 17(1)(a)(ii) 
+amended by 
+No. 7/2022 
+s. 76(c). 
+S. 17(1)(d) 
+amended by 
+No. 13/2019 
+s. 221(Sch. 1 
+item 44). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+21 
+  
+ 
+(ii) in relation to a rooming house, an 
+offence against section 67, 75(2), 
+176(2), 183, 194(4), 210(1) or (2) 
+or 211 of the Public Health and 
+Wellbeing Act 2008; or 
+ 
+(iii) in relation to a rooming house, an 
+offence against any regulations made 
+under the Public Health and 
+Wellbeing Act 2008; or 
+ 
+(iv) an offence against the rooming house 
+provisions; or 
+ 
+(v) in relation to a rooming house, an 
+offence against section 118(1), 
+221ZZC(1), 221ZZG(1) or (2), 231F(3) 
+or (4) or 246 of the Building Act 1993; 
+or 
+ 
+(vi) in relation to a rooming house, an 
+offence against any regulation made 
+under the Building Act 1993 in relation 
+to— 
+ 
+(A) a Class 1 building or Class 3 
+building (within the meaning of 
+the Building Code of Australia); 
+or 
+ 
+(B) barriers for swimming pools or 
+spas; or 
+ 
+(C) changes of use of a building; or 
+ 
+(D) the maintenance of essential safety 
+measures; or 
+ 
+(vii) in relation to a rooming house, an 
+offence against section 126 or 137 
+of the Planning and Environment 
+Act 1987; or 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+22 
+  
+ 
+(viii) an offence against section 45 of the 
+Australian Consumer Law and Fair 
+Trading Act 2012; or 
+ 
+(ix) an offence against section 168 of the 
+Australian Consumer Law (Victoria); 
+ 
+(g) within the preceding 5 years, a relevant 
+person was the subject of an order referred 
+to in section 216(2)(h) of the Australian 
+Consumer Law and Fair Trading 
+Act 2012 in relation to a contravention of— 
+ 
+(i) the rooming house provisions; or 
+ 
+(ii) section 45 of the Australian 
+Consumer Law and Fair Trading 
+Act 2012; or 
+ 
+(iii) section 168 of the Australian Consumer 
+Law (Victoria); or 
+ 
+(iv) this Act; 
+ 
+(h) within the preceding 5 years, a relevant 
+person was the subject of an order of the 
+kind referred to in section 216(2)(h) of the 
+Australian Consumer Law and Fair 
+Trading Act 2012 and made under 
+section 216(3) of that Act in relation to a 
+contravention of— 
+ 
+(i) the rooming house provisions; or 
+ 
+(ii) section 45 of the Australian 
+Consumer Law and Fair Trading 
+Act 2012; or 
+ 
+(iii) section 168 of the Australian Consumer 
+Law (Victoria); or 
+ 
+(iv) this Act; 
+ 
+(i) in the case of an applicant that is a 
+body corporate, within the preceding  
+5 years an officer of the body corporate 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+23 
+  
+was an officer of another body corporate 
+(the second-mentioned body corporate) at 
+the time that the second-mentioned body 
+corporate— 
+ 
+(i) committed an offence referred to 
+in paragraph (f) for which the 
+second-mentioned body corporate 
+was later convicted or found guilty; or 
+ 
+(ii) contravened a provision referred to in 
+paragraph (g) or (h) in relation to which 
+the second-mentioned body corporate 
+was later the subject of an order 
+referred to in either of those 
+paragraphs; 
+ 
+(j) in the case of an applicant that is a body 
+corporate, an officer of the body corporate 
+was an officer of another body corporate 
+whose licence was cancelled within the 
+preceding 5 years; 
+ 
+(k) in the case of an applicant who is a natural 
+person, within the preceding 5 years that 
+person was an officer of a body corporate 
+at the time that the body corporate— 
+ 
+(i) committed an offence referred to 
+in paragraph (f) for which the body 
+corporate was later convicted or 
+found guilty; or 
+ 
+(ii) contravened a provision referred to in 
+paragraph (g) or (h) in relation to which 
+the body corporate was later the subject 
+of an order referred to in either of those 
+paragraphs; 
+ 
+(l) in the case of an applicant who is a natural 
+person, that person was an officer of a body 
+corporate whose licence was cancelled 
+within the preceding 5 years. 
+S. 17(1)(j) 
+amended by 
+No. 48/2018 
+s. 68(1). 
+S. 17(1)(k) 
+inserted by 
+No. 48/2018 
+s. 68(2). 
+S. 17(1)(l) 
+inserted by 
+No. 48/2018 
+s. 68(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+24 
+  
+ 
+(2) Despite anything to the contrary in subsection (1), 
+a relevant person is not taken to meet a licence 
+disqualification criterion if— 
+ 
+(a) the relevant person was convicted or found 
+guilty of an offence referred to in 
+subsection (1)(f) against a provision for 
+which the relevant person was issued or 
+served with an infringement notice under the 
+Infringements Act 2006 and— 
+ 
+(i) the relevant person elected under 
+section 16 of that Act to have the 
+matter heard and determined in the 
+Magistrates' Court; or 
+ 
+(ii) the relevant person elected under 
+section 30 of that Act to have the 
+matter heard and determined in the 
+Magistrates' Court; or 
+ 
+(b) the relevant person was the subject of an 
+order referred to in subsection (1)(g) or (h) 
+and the order was agreed to by all parties to 
+the proceeding before the commencement of 
+this section. 
+ 
+18 Application for renewal of licence—renewal 
+disqualification criteria 
+ 
+(1) The following are the renewal disqualification 
+criteria— 
+ 
+(a) during the period to which the licence 
+relates, a relevant person was convicted or 
+found guilty of— 
+ 
+(i) an offence involving fraud, dishonesty, 
+drug cultivation or trafficking, sexual 
+slavery or servitude, child pornography 
+or violence that was punishable by a 
+term of imprisonment of 3 months or 
+more at the time of the conviction or 
+finding of guilt or a sexual offence that 
+S. 18(1)(a)(i) 
+amended by 
+No. 7/2022 
+s. 77(a). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+25 
+  
+was punishable by a term of 
+imprisonment of 3 months or more at 
+the time of the conviction or finding of 
+guilt; or 
+ 
+(ia) an offence against section 5(1), 6(1), 
+7(1), 8(1), 9(1), 10(1) or 11(1) of the 
+Sex Work Act 1994 despite its repeal 
+by the Sex Work Decriminalisation 
+Act 2022; or 
+ 
+(ii) an offence that, if committed in 
+Victoria, would constitute an offence 
+referred to in subparagraph (i) or (ia); 
+ 
+(b) during the period to which the licence 
+relates— 
+ 
+(i) a relevant person became an insolvent 
+under administration; or 
+ 
+(ii) a relevant person became an externally 
+administered corporation under the 
+Corporations Act; or 
+ 
+(iii) a relevant person became a represented 
+person within the meaning of the 
+Guardianship and Administration 
+Act 2019;  
+ 
+(c) during the period to which the licence 
+relates, the licence of a relevant person 
+(other than the applicant) was cancelled; 
+ 
+(d) during the period to which the licence 
+relates, a relevant person was convicted or 
+found guilty of— 
+ 
+(i) an offence against this Act (other than 
+section 39); or 
+ 
+(ii) in relation to a rooming house, an 
+offence against section 67, 75(2), 
+176(2), 183, 194(4), 210(1) or (2) 
+S. 18(1)(a)(ia) 
+inserted by 
+No. 7/2022 
+s. 77(b). 
+S. 18(1)(a)(ii) 
+amended by 
+No. 7/2022 
+s. 77(c). 
+S. 18(1)(b)(iii) 
+amended by 
+No. 13/2019 
+s. 221(Sch. 1 
+item 44). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+26 
+  
+or 211 of the Public Health and 
+Wellbeing Act 2008; or 
+ 
+(iii) in relation to a rooming house, an 
+offence against any regulations made 
+under the Public Health and 
+Wellbeing Act 2008; or 
+ 
+(iv) an offence against the rooming house 
+provisions; or 
+ 
+(v) in relation to a rooming house, an 
+offence against section 118(1), 
+221ZZC(1), 221ZZG(1) or (2), 231F(3) 
+or (4) or 246 of the Building Act 1993; 
+or 
+ 
+(vi) in relation to a rooming house, an 
+offence against any regulation made 
+under the Building Act 1993 in relation 
+to— 
+ 
+(A) a Class 1 building or Class 3 
+building (within the meaning of 
+the Building Code of Australia); 
+or 
+ 
+(B) barriers for swimming pools or 
+spas; or 
+ 
+(C) changes of use of a building; or 
+ 
+(D) the maintenance of essential safety 
+measures; or 
+ 
+(vii) in relation to a rooming house, an 
+offence against section 126 or 137 
+of the Planning and Environment 
+Act 1987; or 
+ 
+(viii) an offence against section 45 of the 
+Australian Consumer Law and Fair 
+Trading Act 2012; or 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+27 
+  
+ 
+(ix) an offence against section 168 of the 
+Australian Consumer Law (Victoria); 
+ 
+(e) during the period to which the licence 
+relates, a relevant person was the subject 
+of— 
+ 
+(i) an order referred to in section 216(2)(h) 
+of the Australian Consumer Law and 
+Fair Trading Act 2012 in relation to a 
+contravention of— 
+ 
+(A) the rooming house provisions; or 
+ 
+(B) section 45 of the Australian 
+Consumer Law and Fair 
+Trading Act 2012; or 
+ 
+(C) section 168 of the Australian 
+Consumer Law (Victoria); or 
+ 
+(D) this Act; 
+ 
+(ii) an order of the kind referred to in 
+section 216(2)(h) of the Australian 
+Consumer Law and Fair Trading Act 
+2012 and made under section 216(3) of 
+that Act in relation to a contravention 
+of— 
+ 
+(A) the rooming house provisions; or 
+ 
+(B) section 45 of the Australian 
+Consumer Law and Fair 
+Trading Act 2012; or 
+ 
+(C) section 168 of the Australian 
+Consumer Law (Victoria); or 
+ 
+(D) this Act; 
+ 
+(f) during the period to which the licence 
+relates, in the case of an applicant that  
+is a body corporate, an officer of the 
+body corporate was an officer of another 
+body corporate (the second-mentioned 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+28 
+  
+body corporate) at the time that the 
+second-mentioned body corporate— 
+ 
+(i) committed an offence referred to 
+in paragraph (d) for which the 
+second-mentioned body corporate was 
+later convicted or found guilty; or 
+ 
+(ii) contravened a provision referred to in 
+paragraph (e) in relation to which the 
+second-mentioned body corporate was 
+later the subject of an order referred to 
+in that paragraph; 
+ 
+(g) during the period to which the licence 
+relates, in the case of an applicant that is 
+a body corporate, an officer of the body 
+corporate was an officer of another body 
+corporate whose licence was cancelled; 
+ 
+(h) in the case of an applicant who is a natural 
+person, during the period to which the 
+licence relates, the person was an officer 
+of a body corporate at the time that the 
+body corporate— 
+ 
+(i) committed an offence referred to 
+in paragraph (d) for which the body 
+corporate was later convicted or 
+found guilty; or 
+ 
+(ii) contravened a provision referred to in 
+paragraph (e) in relation to which the 
+body corporate was later the subject of 
+an order referred to in that paragraph; 
+ 
+(i) in the case of an applicant who is a natural 
+person, during the period to which the 
+licence relates, that person was an officer 
+of a body corporate whose licence was 
+cancelled. 
+ 
+S. 18(1)(g) 
+amended by 
+No. 48/2018 
+s. 69(1). 
+S. 18(1)(h) 
+inserted by 
+No. 48/2018 
+s. 69(2). 
+S. 18(1)(i) 
+inserted by 
+No. 48/2018 
+s. 69(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+29 
+  
+ 
+(2) Despite anything to the contrary in subsection (1), 
+a relevant person is not taken to meet a renewal 
+disqualification criterion if, during the period to 
+which the licence relates, the relevant person was 
+convicted or found guilty of an offence referred to 
+in subsection (1)(d) against a provision for which 
+the relevant person was issued or served with an 
+infringement notice under the Infringements 
+Act 2006 and— 
+ 
+(a) the relevant person elected under section 16 
+of that Act to have the matter heard and 
+determined in the Magistrates' Court; or 
+ 
+(b) the relevant person elected under section 30 
+of that Act to have the matter heard and 
+determined in the Magistrates' Court. 
+ 
+19 Rooming house operator's licence 
+ 
+(1) A licence— 
+ 
+(a) must be in the form approved by the 
+Authority; and 
+ 
+(b) is personal to the licensee; and  
+ 
+(c) is not transferable to any other person; and 
+ 
+(d) does not vest by operation of law in any 
+other person. 
+ 
+(2) A licensee may operate one or more rooming 
+houses in accordance with one licence. 
+ 
+20 Duration of licence 
+ 
+(1) A licence remains in force until whichever of the 
+following first occurs— 
+ 
+(a) the period specified in the licence ends; or 
+ 
+(b) the licensee's application to renew the 
+licence is refused; or 
+ 
+(c) the licence is cancelled. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+30 
+  
+ 
+(1A) If an application for renewal of a licence is made 
+under Division 2 within the period referred to in 
+section 10 and the renewal does not occur before 
+the end of that period, the licence continues in 
+force after the expiry of the licence period until 
+the licence is either renewed or the application is 
+refused. 
+ 
+(2) Despite subsection (1)(b), a licence, in respect of 
+which an application for renewal is made under 
+Division 2, is taken to continue in force, after the 
+expiry of the licence period— 
+ 
+(a) if the licensee does not apply to VCAT for 
+review of the Authority's determination 
+under section 16 to refuse the application for 
+renewal, until the day after the period 
+specified in section 42(3) during which the 
+licensee may apply to VCAT; or  
+ 
+(b) if, within the period specified in 
+section 42(3), the licensee applies to 
+VCAT for review of the Authority's 
+determination under section 16 to refuse 
+the application for renewal, until VCAT 
+determines that application. 
+ 
+(3) For the purposes of subsection (1), the Authority 
+may specify a licence period of— 
+ 
+(a) not more than 3 years, in the case of an 
+initial grant of a licence; and 
+ 
+(b) not less than 3 years and not more than 
+5 years, in the case of the renewal of a 
+licence. 
+ 
+ 
+ 
+ 
+S. 20(1A) 
+inserted by 
+No. 1/2021 
+s. 104. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+31 
+  
+Division 5—During the course of the licence 
+ 
+21 Ceasing to be fit and proper—notification by 
+licensee 
+ 
+(1) A licensee must notify the Authority, in the form 
+and manner approved by the Authority, within 
+14 days after becoming aware of any of the 
+following matters— 
+ 
+(a) the licensee meets one or more renewal 
+disqualification criteria; 
+ 
+(b) in the case of a licensee that is a body 
+corporate, an officer of the body corporate 
+meets one or more renewal disqualification 
+criteria;  
+ 
+(c) a manager of a rooming house operated by 
+the licensee meets one or more renewal 
+disqualification criteria. 
+Penalty: In the case of a natural person,  
+120 penalty units. 
+ 
+In the case of a body corporate,  
+600 penalty units. 
+ 
+(2) The Authority must advise the Director of any 
+notification received under subsection (1). 
+ 
+22 Changes to officers or managers—notification by 
+licensee 
+ 
+(1) A licensee must notify the Authority, in the form 
+and manner approved by the Authority, within 
+14 days after one or more of the following events 
+has occurred— 
+ 
+(a) a person becomes, or ceases to be, a manager 
+of a rooming house operated by the licensee;  
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+32 
+  
+ 
+(b) in the case of a licensee that is a body 
+corporate, a person becomes, or ceases to be, 
+an officer of the body corporate. 
+Penalty: In the case of a natural person,  
+120 penalty units. 
+ 
+In the case of a body corporate,  
+600 penalty units. 
+ 
+(2) A notification made under subsection (1) in 
+relation to a person who becomes a manager or an 
+officer of the body corporate must include— 
+ 
+(a) in the case of a new manager, the following 
+information— 
+ 
+(i) the manager's full name; 
+ 
+(ii) the manager's date of birth; 
+ 
+(iii) the manager's residential address; and 
+ 
+(b) in the case of a new officer, the following 
+information— 
+ 
+(i) the officer's full name; 
+ 
+(ii) the officer's date of birth; 
+ 
+(iii) the officer's residential address; 
+ 
+(iv) the officer's position; and 
+ 
+(c) any other information in relation to the 
+notification required by the Authority. 
+ 
+(3) A notification made under subsection (1) must be 
+accompanied by— 
+ 
+(a) any document or other information required 
+by the Authority— 
+ 
+(i) to verify the identity of the manager or 
+officer, as the case may be; or 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+33 
+  
+ 
+(ii) to enable the Authority to ascertain 
+whether the manager or officer (as the 
+case may be) meets any of the licence 
+disqualification criteria; and 
+ 
+(b) the licensee's consent to the Authority 
+checking or verifying any information 
+provided by the licensee under this section; 
+and 
+ 
+(c) the consent of the manager or officer to the 
+Authority verifying the identity of the 
+manager or officer, as the case may be; and  
+ 
+(d) in the case of a body corporate, a declaration 
+by the natural person making the notification 
+that— 
+ 
+(i) the natural person is authorised by all 
+the officers of the body corporate to 
+make the notification on behalf of the 
+body corporate; and 
+ 
+(ii) the information provided in the 
+notification is true and correct; and 
+ 
+(e) in the case of a natural person, a declaration 
+made by the natural person that the 
+information provided in the notification is 
+true and correct; and 
+ 
+(f) the prescribed determination fee. 
+ 
+23 Authority's powers in relation to notification 
+In considering a notification made under 
+section 22, the Authority may— 
+ 
+(a) conduct any inquiries in relation to the 
+notification that it thinks fit; and 
+ 
+(b) require a relevant person to provide further 
+information in relation to the notification 
+within a specified time; and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+34 
+  
+ 
+(c) require a relevant person to confirm the 
+veracity of any information provided by the 
+relevant person under this Act by means of a 
+statutory declaration within a specified time; 
+and 
+ 
+(d) require a relevant person to provide within a 
+specified time any consent to disclosure of 
+information that the Authority requires for 
+the purpose of performing, or to have 
+performed, a check on the relevant person or 
+on any information included with the 
+notification. 
+ 
+24 Request to Director or others for information 
+following notification 
+ 
+(1) Without limiting section 23, in considering a 
+notification made under section 22, the Authority 
+may request the following persons to provide 
+information in relation to the notification— 
+ 
+(a) the Director; 
+ 
+(b) the Chief Executive Officer of a Council; 
+ 
+(c) the Chief Commissioner of Police. 
+ 
+(2) If the Authority makes a request to the Director or 
+the Chief Executive Officer of a Council under 
+subsection (1), the Director or Chief Executive 
+Officer of a Council (as the case may be)— 
+ 
+(a) may make any inquiries in relation to the 
+notification that the Director or Chief 
+Executive Officer of a Council considers 
+appropriate to enable the proper 
+consideration of the notification; and 
+ 
+(b) must give the Authority a report on the 
+results of those inquiries. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+35 
+  
+ 
+(3) If the Authority makes a request to the Chief 
+Commissioner of Police under subsection (1), the 
+Chief Commissioner of Police— 
+ 
+(a) must make any inquiries in relation to the 
+notification that the Chief Commissioner of 
+Police considers appropriate to enable the 
+proper consideration of the notification; and 
+ 
+(b) must give the Authority a report on the 
+results of those inquiries. 
+ 
+(4) The Authority may take into account any report 
+received under this section in considering a 
+notification. 
+ 
+25 Failure to provide information or consents 
+ 
+(1) The Authority must refuse to consider a 
+notification made under section 22 if a person 
+fails or refuses to comply with a requirement 
+under section 22(2) or (3) or 23 within the time 
+specified by the Authority. 
+ 
+(2) If the Authority refuses under subsection (1) to 
+consider a notification made under section 22, the 
+Authority must advise the Director and the 
+licensee that the Authority has not determined 
+whether the manager or the officer meets any of 
+the licence disqualification criteria because of a 
+person's failure or refusal to comply with a 
+requirement under section 22(2) or (3) or 23. 
+ 
+26 Determination following notification 
+ 
+(1) After being notified under section 22 that a person 
+has become a manager of a rooming house 
+operated by a licensee or has become an officer of 
+a body corporate that is a licensee, the Authority 
+may determine whether the manager or the officer 
+meets any of the licence disqualification criteria. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+36 
+  
+ 
+(2) The Authority must advise the licensee whether 
+the manager or the officer meets any of the licence 
+disqualification criteria after it makes a 
+determination under subsection (1). 
+ 
+(3) In addition to the requirement of subsection (2), if 
+the Authority determines that the manager or 
+officer meets any of the licence disqualification 
+criteria, the Authority must advise the Director of 
+the determination. 
+ 
+27 Offence to allow certain persons to continue to be 
+officers or manager 
+ 
+(1) In the case of a licensee that is a body corporate, 
+if the Authority has determined under section 26 
+that one or more of its officers meets any of the 
+licence disqualification criteria, the licensee must 
+ensure any such officer ceases to be an officer of 
+the body corporate as soon as practicable within 
+the time permitted by law in relation to that body 
+corporate after the Authority has advised the 
+licensee of its determination. 
+Penalty: 1200 penalty units. 
+ 
+(2) If the Authority has determined under section 26 
+that a manager of a rooming house operated by a 
+licensee meets any of the licence disqualification 
+criteria, the licensee must ensure that the manager 
+ceases to take part in the management of the 
+rooming house within 7 days after the Authority 
+has advised the licensee of its determination. 
+Penalty: In the case of a natural person,  
+240 penalty units. 
+ 
+In the case of a body corporate,  
+1200 penalty units. 
+ 
+(3) If the Authority has advised a licensee that is a 
+body corporate that it has not determined under 
+section 26 whether an officer meets any of the 
+licence disqualification criteria because of a 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+37 
+  
+person's refusal to comply with a requirement 
+under section 22(2) or (3) or 23, the licensee must 
+ensure that the officer ceases to be an officer of 
+the body corporate as soon as practicable within 
+the time permitted by law in relation to that body 
+corporate after the Authority has advised the 
+licensee of its determination. 
+Penalty: 1200 penalty units. 
+ 
+(4) If the Authority has advised a licensee that it has 
+not determined under section 26 whether a 
+manager meets any of the licence disqualification 
+criteria because of a person's refusal to comply 
+with a requirement under section 22(2) or (3) 
+or 23, the licensee must ensure that the manager 
+ceases to take part in the management of a 
+rooming house operated by the licensee within 
+7 days after the Authority has advised the licensee 
+of its determination. 
+Penalty: In the case of a natural person,  
+240 penalty units. 
+ 
+In the case of a body corporate,  
+1200 penalty units. 
+ 
+28 Offence to operate rooming house after failure to 
+notify 
+ 
+(1) A licensee must not operate a rooming house if 
+the details of the manager of the rooming house— 
+ 
+(a) were not included in the licensee's 
+application for a licence or renewal of a 
+licence under Division 2; or 
+ 
+(b) were not included in a notification to the 
+Authority under section 22. 
+Penalty: In the case of a natural person,  
+240 penalty units. 
+ 
+In the case of a body corporate,  
+1200 penalty units. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+38 
+  
+ 
+(2) A licensee that is a body corporate must not 
+operate a rooming house if the details of an officer 
+of the body corporate— 
+ 
+(a) were not included in the licensee's 
+application for a licence or renewal of a 
+licence under Division 2; or 
+ 
+(b) were not included in a notification to the 
+Authority under section 22. 
+Penalty: 1200 penalty units. 
+Division 6—Exceptions to offences against 
+sections 7 and 8 
+ 
+29 Exception to sections 7 and 8—applicant for licence 
+renewal 
+ 
+(1) Despite sections 7 and 8, if a person whose 
+application for renewal of a licence is refused by 
+the Authority applies to VCAT under section 42 
+for review of the Authority's determination under 
+section 16 within the period specified in 
+section 42(3) and VCAT upholds the Authority's 
+determination and— 
+ 
+(a) before, or within 7 days after, VCAT's 
+decision, the person gives each resident a 
+notice to vacate under section 91ZZM 
+or section 142ZR of the Residential 
+Tenancies Act 1997 (as the case requires); 
+and 
+ 
+(b) the person does not withdraw the notice to 
+vacate— 
+the person does not commit an offence against 
+section 7 or 8 during the period starting on the 
+date that VCAT upholds the Authority's 
+determination and ending 120 days after the date 
+on which the notice to vacate is given. 
+S. 29(1)(a) 
+amended by 
+No. 45/2018 
+s. 377(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+39 
+  
+ 
+(2) Despite sections 7 and 8, if a person whose 
+application for renewal of a licence is refused by 
+the Authority does not apply to VCAT under 
+section 42 for review of the Authority's 
+determination under section 16 within the period 
+specified in section 42(3) and— 
+ 
+(a) before, or within 7 days after, the period 
+specified in section 42(3), the person gives 
+each resident a notice to vacate under 
+section 91ZZM or section 142ZR of the 
+Residential Tenancies Act 1997 (as the 
+case requires); and 
+ 
+(b) the person does not withdraw the notice to 
+vacate— 
+the person does not commit an offence against 
+section 7 or 8 during the period starting on the 
+day after the end of the period specified in 
+section 42(3) and ending 120 days after the date 
+on which the notice to vacate is given. 
+ 
+(3) A person is not taken to have withdrawn a notice 
+to vacate given to a resident in accordance with 
+subsection (1) or (2) if, after giving that notice to 
+vacate, the person gives the resident another 
+notice to vacate under section 91ZI, 91ZJ, 91ZK, 
+91ZL, 91ZM, 91ZO, 91ZP, 91ZQ, 91ZT, 91ZV, 
+142ZB, 142ZC, 142ZD, 142ZE, 142ZF, 142ZG, 
+142ZH or 142ZI of the Residential Tenancies 
+Act 1997. 
+Note 
+A notice to vacate under section 91ZZM of the Residential 
+Tenancies Act 1997 terminates any fixed term tenancy agreement 
+under that Act between the rooming house owner and the resident 
+of the rooming house: see section 91E(2) of that Act. 
+ 
+ 
+S. 29(2)(a) 
+amended by 
+No. 45/2018 
+s. 377(2). 
+S. 29(3) 
+amended by 
+No. 45/2018 
+s. 377(3). 
+Note to s. 29 
+amended by 
+No. 45/2018 
+s. 377(4). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+40 
+  
+ 
+30 Exception to sections 7 and 8—building owner or 
+lessee 
+ 
+(1) Despite sections 7 and 8, if a person who is a 
+lessee or an owner of a building referred to in 
+section 142ZO(2) of the Residential Tenancies 
+Act 1997, or that person's agent, complies with 
+the requirement to give a notice to vacate to each 
+resident in accordance with section 142ZO(4) of 
+that Act within 28 days after becoming aware of 
+an event referred to in section 142ZO(1) of that 
+Act, that person does not commit an offence 
+against section 7 or 8 during the period— 
+ 
+(a) starting on the date that the lease is 
+terminated or the building is abandoned 
+(as the case may be); and  
+ 
+(b) ending on the date specified in the notice to 
+vacate. 
+ 
+(2) Despite sections 7 and 8, if a person who is a 
+lessee or an owner of a building referred to in 
+section 142ZO(3) of the Residential Tenancies 
+Act 1997 applies for a licence within 28 days 
+after becoming aware of an event referred to in 
+section 142ZO(1) of that Act, that person does not 
+commit an offence against section 7 or 8— 
+ 
+(a) if the licence is granted by the Authority, 
+during the period— 
+ 
+(i) starting on the date that the lease is 
+terminated or the building is abandoned 
+(as the case may be); and  
+ 
+(ii) ending on the day that the Authority 
+grants licence; or 
+ 
+(b) if the Authority refuses to grant the licence 
+and the person does not apply under 
+section 42 for review of the Authority's 
+determination under section 16, during the 
+period— 
+S. 30(1) 
+amended by 
+No. 45/2018 
+s. 377(5). 
+S. 30(2) 
+amended by 
+No. 45/2018 
+s. 377(6). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+41 
+  
+ 
+(i) starting on the date that the lease is 
+terminated or the building is abandoned 
+(as the case may be); and  
+ 
+(ii) ending on the day after the end of the 
+period specified in section 42(3); or 
+ 
+(c) if the Authority refuses to grant the licence 
+and the person applies under section 42 for 
+review of the Authority's determination 
+under section 16 within the period specified 
+in section 42(3), during the period— 
+ 
+(i) starting on the date that the lease is 
+terminated or the building is abandoned 
+(as the case may be); and  
+ 
+(ii) ending on the day after the day on 
+which VCAT upholds the Authority's 
+determination. 
+ 
+(3) Without limiting subsection (2), despite sections 7 
+and 8, if a person who is a lessee or an owner of a 
+building referred to in section 142ZO(3) of the 
+Residential Tenancies Act 1997 is refused a 
+licence, that person does not commit an offence 
+against section 7 or 8 if that person, or that 
+person's agent, complies with the requirement to 
+give a notice to vacate to each resident in 
+accordance with section 142ZO(4) of that Act— 
+ 
+(a) if the person does not apply under section 42 
+for review of the Authority's determination 
+under section 16, during the period— 
+ 
+(i) starting on or before the day after 
+the end of the period specified in 
+section 42(3); and  
+ 
+(ii) ending on the date specified in the 
+notice to vacate; or 
+ 
+S. 30(3) 
+amended by 
+No. 45/2018 
+s. 377(7). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Licences 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+42 
+  
+ 
+(b) if the person applies under section 42 for 
+review of the Authority's determination 
+under section 16 within the period specified 
+in section 42(3) and VCAT upholds the 
+Authority's determination, during the 
+period— 
+ 
+(i) starting on the day after the day on 
+which VCAT upholds the Authority's 
+determination; and  
+ 
+(ii) ending on the date specified in the 
+notice to vacate.  
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Disciplinary hearings, licence cancellations and protective orders 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+43 
+  
+Part 4—Disciplinary hearings, licence 
+cancellations and protective orders 
+ 
+31 Hearing to determine whether to take disciplinary 
+action under section 33 
+ 
+(1) The Director may apply at any time to VCAT to 
+conduct a hearing to determine whether there are 
+grounds for taking disciplinary action under 
+section 33 against a licensee. 
+ 
+(2) Within 28 days after an application is made under 
+subsection (1), VCAT must— 
+ 
+(a) in relation to grounds referred to in 
+section 32(a)(i) or (b)(i), complete and 
+determine a hearing; and 
+ 
+(b) in relation to any other grounds referred to in 
+section 32, commence a hearing. 
+ 
+32 Grounds for taking disciplinary action under 
+section 33 
+There are grounds for taking disciplinary action 
+under section 33 against a licensee if VCAT is 
+satisfied that— 
+ 
+(a) a relevant person— 
+ 
+(i) meets any of the licence 
+disqualification criteria or renewal 
+disqualification criteria; or 
+ 
+(ii) has permitted a person who meets one 
+or more of the licence disqualification 
+criteria (other than being an insolvent 
+under administration) to be involved in 
+the operation of any rooming house 
+operated by the licensee; or 
+ 
+(iii) has contravened this Act or the 
+regulations (whether or not the relevant 
+person has been convicted or found 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Disciplinary hearings, licence cancellations and protective orders 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+44 
+  
+guilty of an offence against this Act or 
+the regulations); or 
+ 
+(iv) has contravened the rooming house 
+provisions (whether or not the relevant 
+person has been convicted or found 
+guilty of an offence against the rooming 
+house provisions); or 
+ 
+(v) in relation to a rooming house operated 
+by the licensee, has engaged in conduct, 
+or has permitted another to engage in 
+conduct, to the detriment of the safety 
+of the residents or the quiet enjoyment 
+of the rooming house by the residents 
+or to the detriment of the safety, 
+operation or amenity of the rooming 
+house; or 
+ 
+(vi) in relation to a rooming house operated 
+by the licensee, has engaged in conduct, 
+or has permitted another to engage in 
+conduct, that discourages a resident 
+from exercising rights under the 
+Residential Tenancies Act 1997; or 
+ 
+(b) the licensee— 
+ 
+(i) has failed to comply with an order of 
+VCAT made under section 33; or 
+ 
+(ii) for any other reason not referred to in 
+this section, is not a suitable person to 
+hold a licence; or 
+ 
+(c) an associate of a relevant person— 
+ 
+(i) in relation to a rooming house operated 
+by the licensee, has engaged in conduct, 
+or has permitted another to engage in 
+conduct, to the detriment of the safety 
+of the residents or the quiet enjoyment 
+of the rooming house by the residents 
+or to the detriment of the safety, 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Disciplinary hearings, licence cancellations and protective orders 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+45 
+  
+operation or amenity of the rooming 
+house; or  
+ 
+(ii) in relation to a rooming house operated 
+by the licensee, has engaged in conduct, 
+or has permitted another to engage in 
+conduct, that discourages a resident 
+from exercising rights under the 
+Residential Tenancies Act 1997; or 
+ 
+(iii) has engaged in other conduct that 
+demonstrates that the licensee is not a 
+suitable person to hold a licence. 
+ 
+33 Disciplinary powers of VCAT—orders 
+ 
+(1) If VCAT is satisfied that there are grounds under 
+section 32 for taking action against a licensee 
+under this section, VCAT may make any order it 
+considers appropriate, including— 
+ 
+(a) an order to do one or more of the 
+following— 
+ 
+(i) require the licensee to comply with a 
+requirement specified by VCAT within, 
+or for, a specified time; 
+ 
+(ii) require the licensee to enter into an 
+undertaking to perform, or not to 
+perform, certain tasks specified in the 
+undertaking; 
+ 
+(iii) require the licensee to pay a penalty not 
+exceeding $10 000 by a specified date; 
+ 
+(iv) impose any condition on the licence 
+held by the licensee; 
+ 
+(v) cancel the licence held by the licensee; 
+ 
+(b) an order under this section to do anything 
+described in an order referred to in 
+section 34(3). 
+ 
+S. 33(1)(b) 
+substituted by 
+No. 48/2018 
+s. 70. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Disciplinary hearings, licence cancellations and protective orders 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+46 
+  
+ 
+(2) Subject to subsection (3), in determining whether 
+to make an order under subsection (1), VCAT 
+must regard the paramount consideration as 
+being— 
+ 
+(a) the need to reduce exploitative and 
+undesirable practices within the rooming 
+house sector; and 
+ 
+(b) the need to hold licensed rooming house 
+operators to account for their conduct and the 
+conduct of persons involved in the 
+management or operation of their rooming 
+houses. 
+ 
+(3) If VCAT is satisfied that a relevant person in 
+relation to a licence meets one or more licence 
+disqualification criteria or renewal disqualification 
+criteria, VCAT must make an order cancelling the 
+licence. 
+ 
+(4) If a licensee fails to pay a penalty imposed under 
+an order referred to in subsection (1)(a)(iii) within 
+the specified time, VCAT, without giving the 
+licensee an opportunity to be heard, may cancel 
+the licence. 
+ 
+(5) If VCAT cancels a licence under this section— 
+ 
+(a) the cancellation takes effect on the date 
+specified by VCAT in the order; and 
+ 
+(b) VCAT must give a written notice to the 
+Secretary to the Department of Health and 
+Human Services stating— 
+ 
+(i) the date that the order to cancel the 
+licence takes effect; and 
+ 
+(ii) the details of any order made by VCAT 
+under section 33(1)(b) in relation to the 
+licensee. 
+ 
+(6) In this section, a reference to a licensee includes a 
+reference to a former licensee. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Disciplinary hearings, licence cancellations and protective orders 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+47 
+  
+ 
+34 Protective orders 
+ 
+(1) The Director may make an application to VCAT 
+for VCAT to make an order under this section if 
+the Authority refuses to renew a licensee's licence 
+under section 16. 
+ 
+(2) VCAT must hear an application made under 
+subsection (1) as soon as practicable after the 
+period specified in section 42(3) during which the 
+licensee may apply to VCAT. 
+ 
+(3) If VCAT considers it appropriate, VCAT may 
+make one or more of the following protective 
+orders— 
+ 
+(a) an order requiring the licensee to comply 
+with a requirement specified by VCAT 
+within, or for, a specified time; 
+ 
+(b) an order requiring the licensee to enter into 
+an undertaking to perform, or not to perform, 
+certain tasks specified in the undertaking;  
+ 
+(c) any other order for the purpose of protecting 
+the residents of a rooming house operated by 
+the licensee, including an order that requires 
+the licensee, within the period specified by 
+VCAT— 
+ 
+(i) to notify each resident of a rooming 
+house operated by the licensee that— 
+ 
+(A) the rooming house is to be closed 
+at a specified date; or 
+ 
+(B) the rooming house is to be 
+operated by a different person 
+from a specified date; or 
+ 
+(ii) to give each resident of a rooming 
+house operated by the licensee a notice 
+to vacate under section 91ZZL 
+or section 142ZQ of the Residential 
+Tenancies Act 1997 (as the case 
+S. 34(3)(c)(ii) 
+amended by 
+No. 45/2018 
+s. 377(8). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Disciplinary hearings, licence cancellations and protective orders 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+48 
+  
+requires) by the date specified in the 
+notice, being not more than 120 days 
+after the end of the period within which 
+the notice is to be given; or 
+ 
+(iii) to refund to a resident of a rooming 
+house any payment of rent made in 
+advance by that resident. 
+ 
+(4) A reference to a licensee in subsection (3) 
+includes a reference to a former licensee. 
+Note 
+A notice to vacate under section 91ZZL of the Residential 
+Tenancies Act 1997 terminates any fixed term tenancy agreement 
+under that Act between the rooming house owner and the resident 
+of the rooming house: see section 91E(2) of that Act. 
+ 
+35 Evidence that VCAT may take into account 
+VCAT may consider the following kinds of 
+evidence during the conduct of a hearing under 
+section 31 or in respect of an application under 
+section 34— 
+ 
+(a) complaints received by the Director in 
+relation to a relevant person, or an associate 
+of a relevant person; 
+ 
+(b) information provided by the Chief 
+Commissioner of Police to the Director in 
+relation to a relevant person, an associate of 
+a relevant person or the operation of a 
+rooming house; 
+ 
+(c) findings of fact made by any court or VCAT 
+relating to a relevant person or an associate 
+of a relevant person; 
+ 
+(d) orders of VCAT relating to tenancy or 
+residency disputes between residents of 
+rooming houses and rooming house 
+operators; 
+Note to s. 34 
+amended by 
+No. 45/2018 
+s. 377(9). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Disciplinary hearings, licence cancellations and protective orders 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+49 
+  
+ 
+(e) findings, comments or recommendations 
+made by a coroner under the Coroners 
+Act 2008; 
+ 
+(f) evidence provided by a housing, tenancy or 
+legal advocacy organisation; 
+ 
+(g) information concerning the factual 
+circumstances which resulted in an 
+infringement notice being issued or served 
+in relation to provisions referred to in 
+section 18(1). 
+Note 
+Nothing in paragraph (g) is taken to limit the 
+operation of section 33 of the Infringements 
+Act 2006. 
+ 
+36 Endorsement of licence 
+ 
+(1) If VCAT imposes a condition on a licence under 
+section 33(1)(a)(iv), the licensee must produce the 
+licence to the Authority for endorsement of the 
+condition within 14 days after the condition is 
+imposed. 
+ 
+(2) The Authority may endorse a condition on a 
+licence produced to the Authority under 
+subsection (1). 
+ 
+37 Return of licence 
+If VCAT cancels a licence under section 33, the 
+person to whom the licence was issued must 
+return the licence to the Authority within the 
+period specified by VCAT in the order, or within 
+the period of 14 days after the cancellation, 
+whichever is shorter. 
+Penalty: In the case of a natural person,  
+60 penalty units. 
+ 
+ In the case of a body corporate,  
+300 penalty units. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Disciplinary hearings, licence cancellations and protective orders 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+50 
+  
+ 
+38 Residential rental agreements and residency 
+rights—cancellation of licence or failure to renew 
+licence 
+ 
+ 
+(1) A residential rental agreement within the meaning 
+of section 3(1) of the Residential Tenancies 
+Act 1997 does not terminate merely because— 
+ 
+(a) the Authority refuses to grant a licence or to 
+renew a licence under section 16; or 
+ 
+(b) a licence expires; or 
+ 
+(c) VCAT cancels a licence under this Part. 
+Note 
+See Subdivision 1 of Division 9 of Part 2 of the Residential 
+Tenancies Act 1997. 
+ 
+ 
+(2) A residency right within the meaning of 
+section 3(1) of the Residential Tenancies 
+Act 1997 does not end merely because— 
+ 
+(a) the Authority refuses to grant a licence or to 
+renew a licence under section 16; or 
+ 
+(b) a licence expires; or 
+ 
+(c) VCAT cancels a licence under this Part. 
+Note 
+See Subdivision 1 of Division 10 of Part 3 of the 
+Residential Tenancies Act 1997. 
+ 
+ 
+S. 38 
+(Heading) 
+amended by 
+No. 45/2018 
+s. 377(10). 
+S. 38(1) 
+amended by 
+No. 45/2018 
+s. 377(11). 
+Note to 
+s. 38(1) 
+amended by 
+No. 45/2018 
+s. 377(12). 
+Note to 
+s. 38(2) 
+amended by 
+No. 45/2018 
+s. 377(13). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Other licensing matters 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+51 
+  
+Part 5—Other licensing matters 
+ 
+39 Displaying licence at rooming house 
+ 
+(1) A licensee must ensure that a copy of the licence 
+is displayed in a conspicuous place inside the 
+front entrance of each rooming house that is 
+operated by the licensee. 
+Penalty: 60 penalty units. 
+ 
+(2) If a licence is endorsed with a condition imposed 
+by VCAT, the licensee must ensure that a copy of 
+the licence as endorsed is displayed in accordance 
+with subsection (1). 
+Penalty: 60 penalty units. 
+ 
+40 Change in details of application for licence or 
+renewal of licence 
+If a material change occurs in any of the details 
+provided in, or in relation to, an application for a 
+licence or a renewal of a licence, the licensee must 
+give to the Authority, in the manner and form 
+approved by the Authority, notice of the change 
+within 14 days after the licensee becomes aware 
+of the change. 
+Penalty: In the case of a natural person,  
+60 penalty units. 
+ 
+In the case of a body corporate,  
+300 penalty units. 
+ 
+41 Death, disability, etc. of licensee 
+ 
+(1) The following persons may operate one or more 
+rooming houses (which were operated by a person 
+who was a licensee) for a period of 150 days 
+immediately after the person ceases to be a 
+licensee— 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Other licensing matters 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+52 
+  
+ 
+(a) if the person who was the licensee dies, the 
+executor named in the deceased person's will 
+or the administrator of the person's estate or 
+any person who intends applying for letters 
+of administration in relation to the deceased 
+person's estate; 
+ 
+(b) if the person who was the licensee becomes 
+an insolvent under administration, the 
+assignee, trustee or receiver of the person; 
+ 
+(c) if the person who was the licensee becomes 
+a represented person within the meaning of 
+the Guardianship and Administration 
+Act 2019, the guardian or administrator of 
+the person or any person nominated by the 
+guardian or administrator; 
+ 
+(d) if the person who was the licensee becomes 
+an externally administered body corporate, 
+the liquidator, official manager, receiver, 
+receiver and manager or other external 
+administrator. 
+ 
+(2) A person who is authorised to operate a rooming 
+house under subsection (1) may apply to the 
+Authority within the 150 day period for 
+permission to operate a rooming house for a 
+longer period and, during this longer period, 
+may apply to the Authority for permission to 
+operate a rooming house for a further period. 
+ 
+(3) If a person makes an application under 
+subsection (2), the person may continue to operate 
+a rooming house until the Authority determines 
+the application. 
+ 
+(4) The Authority may grant an application under 
+subsection (2) if it is satisfied that it is not 
+contrary to the public interest to do so. 
+ 
+ 
+S. 41(1)(c) 
+amended by 
+No. 13/2019 
+s. 221(Sch. 1 
+item 44). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Other licensing matters 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+53 
+  
+ 
+(5) The Authority, at any time— 
+ 
+(a) may withdraw any permission it has granted 
+under subsection (4); or 
+ 
+(b) may limit the permission to operate the 
+rooming house in any way it thinks 
+appropriate; or  
+ 
+(c) may impose, revoke or vary any condition on 
+the permission it thinks appropriate to ensure 
+the ongoing protection of the public interest. 
+ 
+(6) A person who has been granted a permission 
+under subsection (4) must comply with any 
+limitation or condition that applies to the 
+permission. 
+Penalty: 60 penalty units. 
+ 
+(7) Subject to subsection (5), a person who operates a 
+rooming house under this section is taken, for the 
+purposes of this Act, to be a licensed rooming 
+house operator on the same terms and conditions 
+as applied to the former licensee. 
+ 
+42 Application for review 
+ 
+(1) A person whose application for a licence or for 
+renewal of a licence is refused may apply to 
+VCAT for review of a determination under 
+section 16 to refuse the application on the ground 
+that the determination is based on an error of fact 
+in relation to whether a relevant person meets any 
+of the licence disqualification criteria or renewal 
+disqualification criteria, as the case may be. 
+ 
+(2) A licensee may apply to VCAT for review of a 
+determination by the Authority under section 26 
+that a manager of a rooming house operated by 
+the licensee, or that an officer of a body corporate 
+that is the licensee, meets any of the licence 
+disqualification criteria on the ground that the 
+determination is based on an error of fact. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Other licensing matters 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+54 
+  
+ 
+(3) An application for review may only be made 
+within 28 days after the later of— 
+ 
+(a) the date on which the determination is made 
+under section 16 or 26; or 
+ 
+(b) if, under the Victorian Civil and 
+Administrative Tribunal Act 1998, the 
+person requests a statement of reasons for the 
+determination made under section 16 or 26, 
+the day on which the statement of reasons is 
+given to the person or the person is informed 
+under section 46(5) of that Act that a 
+statement of reasons will not be given. 
+ 
+43 Register of Licensed Rooming House Operators 
+ 
+(1) The Licensing Registrar must establish and keep a 
+register to be called the Register of Licensed 
+Rooming House Operators. 
+ 
+(2) The purposes of the Register are— 
+ 
+(a) to record information about licensees and 
+other persons regulated by this Act; and 
+ 
+(b) to record information about applications for 
+licences and for renewal of licences, 
+including applications that were refused; and 
+ 
+(c) to record information about licences that 
+were cancelled by VCAT and any conditions 
+imposed on licences; and  
+ 
+(d) to record decisions and determinations made, 
+and permissions granted, by the Authority 
+under this Act; and 
+ 
+(e) subject to section 17A of the Business 
+Licensing Authority Act 1998, to make the 
+information collected for the purposes of the 
+Register available to the public; and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Other licensing matters 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+55 
+  
+ 
+(f) to enable the Director and the Authority to 
+provide information to licensees and other 
+persons affected by this Act. 
+ 
+(3) The Licensing Registrar must record in the 
+Register the following information in respect of 
+each licensee— 
+ 
+(a) the licensee's full name and licence number; 
+ 
+(b) the residential address of the licensee, in the 
+case of a natural person; 
+ 
+(c) the address of the registered office of the 
+licensee, in the case of a body corporate; 
+ 
+(d) the licensee's ABN or ACN, if applicable; 
+ 
+(e) the date on which the licence was granted or 
+renewal of the licence was granted and the 
+expiry date of the licence; 
+ 
+(f) if applicable, the date on which the licence 
+was cancelled; 
+ 
+(g) details of any condition to which the licence 
+is subject; 
+ 
+(h) details of any court order or VCAT order 
+affecting the licence of which the Authority 
+has notice; 
+ 
+(i) if the licensee is a body corporate, the name 
+of each officer of the body corporate; 
+ 
+(j) if the licensee has one or more rooming 
+houses in relation to which a manager is 
+employed or engaged or proposed to be 
+employed or engaged, the name of each 
+manager; 
+ 
+(k) any other prescribed matter. 
+ 
+(4) A person may search and take a copy of an extract 
+from, or a copy of, the Register on payment of the 
+prescribed fee (if any). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Other licensing matters 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+56 
+  
+ 
+(5) A person may obtain a certified extract from, or a 
+certified copy of, the Register on the payment of 
+the prescribed fee (if any). 
+ 
+(6) Subject to section 17A of the Business Licensing 
+Authority Act 1998, the Licensing Registrar may 
+keep and publish the Register in any form that the 
+Licensing Registrar thinks fit. 
+ 
+44 Publication of information 
+ 
+(1) The Licensing Registrar must publish on the 
+Internet the following information in respect of 
+each licensee— 
+ 
+(a) the name of the licensee; 
+ 
+(b) the ABN or ACN of the licensee, if 
+applicable; 
+ 
+(c) the date on which the licence was granted; 
+ 
+(d) the expiry date of the licence; 
+ 
+(e) any other prescribed information. 
+ 
+(2) The Licensing Registrar must publish on the 
+Internet the following information in respect of 
+each licence that is cancelled or that the Authority 
+refuses to renew— 
+ 
+(a) the name of the former licensee; 
+ 
+(b) the ABN or ACN of the former licensee, if 
+applicable; 
+ 
+(c) the date on which the licence was cancelled 
+or on which the application for renewal was 
+refused; 
+ 
+(d) the grounds on which the licence was 
+cancelled or refused to be renewed. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+57 
+  
+Part 6—Enforcement 
+Division 1—Preliminary 
+ 
+45 Production of identity card 
+An inspector must produce the inspector's identity 
+card for inspection— 
+ 
+(a) before exercising a power under this Part, 
+other than a power exercised by way of post; 
+and 
+ 
+(b) at any time during the exercise of a power 
+under this Part, if asked to do so. 
+Penalty: 10 penalty units. 
+Division 2—Inspection of documents and records 
+ 
+46 Documents to be available for inspection 
+ 
+(1) A licensee must, at all reasonable times at each 
+place at which the licensee conducts the business 
+of operating a rooming house, keep all documents 
+relating to the business available for inspection by 
+an inspector in a form in which they can readily 
+be inspected. 
+Penalty: 60 penalty units. 
+ 
+(2) If the licence of a licensee, in the last 3 years, has 
+expired, has not been renewed or has been 
+cancelled, the former licensee must make all 
+documents relating to the former business of 
+operating a rooming house available for 
+inspection by an inspector in a form and at a place 
+where they can readily be inspected. 
+Penalty: 60 penalty units. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+58 
+  
+ 
+47 Licensee or specified persons to produce documents 
+and answer questions 
+ 
+(1) For the purpose of monitoring compliance with 
+this Act or the regulations, an inspector may, at a 
+time and place specified by the inspector, require 
+a licensee, a specified person or other person with 
+control over relevant documents and 
+information— 
+ 
+(a) to answer, orally or in writing, any questions 
+put by the inspector relating to the licensee's 
+business of operating a rooming house; or 
+ 
+(b) to supply, orally or in writing, information 
+required by the inspector relating to that 
+business; or 
+ 
+(c) to produce to the inspector specified 
+documents or documents of a specified class 
+relating to that business. 
+ 
+(2) In this section— 
+specified person, in relation to a business of 
+operating a rooming house, means— 
+ 
+(a) a former licensee; or 
+ 
+(b) in the case of a body corporate that is or 
+was a licensee, an officer of the body 
+corporate. 
+ 
+48 Third parties to produce documents and answer 
+questions relating to business of operating a 
+rooming house 
+For the purpose of monitoring compliance with 
+this Act or the regulations, an inspector may 
+require any person who has possession, custody 
+or control of documents relating to a licensee's 
+business of operating a rooming house— 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+59 
+  
+ 
+(a) to answer, orally or in writing, any questions 
+put by the inspector relating to the licensee's 
+business of operating a rooming house; or 
+ 
+(b) to supply, orally or in writing, information 
+required by the inspector relating to that 
+business; or 
+ 
+(c) to produce to the inspector specified 
+documents or documents of a specified class 
+relating to that business. 
+ 
+49 Specified public bodies to produce information 
+ 
+(1) For the purpose of monitoring compliance with 
+this Act or the regulations, an inspector may 
+request that, within a time specified by the 
+inspector, a specified public body do either or 
+both of the following— 
+ 
+(a) answer, orally or in writing, any questions 
+put by the inspector relating to a licensee's 
+business of operating a rooming house; 
+ 
+(b) supply, orally or in writing, information 
+required by the inspector relating to the 
+business. 
+ 
+(2) An inspector may only make a request under 
+subsection (1) with the written consent of the 
+Director. 
+ 
+(3) A specified public body (other than the Chief 
+Commissioner of Police) must comply with a 
+request under subsection (1). 
+ 
+(4) The Chief Commissioner of Police may comply 
+with a request under subsection (1), but is not 
+obliged to do so. 
+ 
+(5) The Chief Commissioner of Police must provide a 
+response in relation to a decision to comply or to 
+not comply with a request under subsection (1). 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+60 
+  
+ 
+(6) In this section— 
+public statutory authority means a body 
+established by or under an Act for a public 
+purpose; 
+specified public body means— 
+ 
+(a) a Department Head within the 
+meaning of the Public Administration 
+Act 2004; or 
+ 
+(b) a public statutory authority; or 
+ 
+(c) a Council; or 
+ 
+(d) the Chief Commissioner of Police. 
+ 
+50 Certain other specified persons or bodies to produce 
+information 
+ 
+(1) For the purpose of monitoring compliance with 
+this Act or the regulations, the Director or an 
+inspector may require a specified person or body 
+within a time specified by the Director or 
+inspector— 
+ 
+(a) to answer, orally or in writing, any questions 
+put by the inspector relating to a licensee's 
+business of operating a rooming house; and 
+ 
+(b) to supply, orally or in writing, information 
+required by the inspector relating to that 
+business. 
+ 
+(2) An inspector may only make a requirement under 
+subsection (1) with the written consent of the 
+Director. 
+ 
+(3) A specified person or body must comply with a 
+request under subsection (1). 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+61 
+  
+ 
+(4) In this section— 
+specified person or body means— 
+ 
+(a) a person who is a publisher of a 
+publication; or 
+ 
+(b) a person who is the owner or operator 
+of a broadcasting service; or 
+ 
+(c) a person who is the owner or operator 
+of a telecommunications service; or 
+ 
+(d) a person who is the owner or operator 
+of a postal service. 
+ 
+51 ADIs to produce documents and information 
+ 
+(1) For the purpose of monitoring compliance with 
+this Act or the regulations, an inspector, by 
+written notice served on an ADI, may require the 
+ADI to produce for inspection or copying by the 
+inspector any documents or other information 
+specified in the notice that the inspector 
+reasonably believes to be relevant to the 
+monitoring of compliance. 
+ 
+(2) An ADI must, without charge, comply with a 
+notice under subsection (1) despite any duty of 
+confidentiality or any law relating to 
+confidentiality to the contrary. 
+ 
+52 Powers on production of documents 
+If any documents are produced to an inspector 
+under this Division, the inspector may do any one 
+or more of the following— 
+ 
+(a) inspect the documents or authorise a person 
+to inspect the documents; 
+ 
+(b) make copies of, or take extracts from, the 
+documents; 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+62 
+  
+ 
+(c) seize the documents if the inspector— 
+ 
+(i) considers the documents necessary for 
+the purpose of obtaining evidence for 
+use in any proceedings or proposed 
+proceedings under any Consumer Act; 
+or 
+ 
+(ii) believes on reasonable grounds that it is 
+necessary to seize the documents in 
+order to prevent their concealment, loss 
+or destruction or their use in the 
+contravention of any Consumer Act; 
+ 
+(d) secure any seized documents against 
+interference; 
+ 
+(e) retain possession of the documents. 
+ 
+53 Where must documents be produced? 
+An inspector may require a person to produce a 
+document— 
+ 
+(a) at the person's place of business; or 
+ 
+(b) at the office of the Director; or 
+ 
+(c) with the consent of the person, at any other 
+place. 
+ 
+54 Order requiring supply of information and answers 
+to questions 
+ 
+(1) For the purpose of monitoring compliance with 
+this Act or the regulations, an inspector, with the 
+written approval of the Director, may apply to the 
+Magistrates' Court for an order requiring any 
+person at a time and place specified by the 
+inspector— 
+ 
+(a) to answer, orally or in writing, any questions 
+put by the inspector relating to a licensee's 
+business of operating a rooming house; or 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+63 
+  
+ 
+(b) to supply, orally or in writing, information 
+required by the inspector relating to a 
+licensee's business of operating a rooming 
+house. 
+ 
+(2) If the Magistrates' Court is satisfied on the basis of 
+evidence presented by the inspector that the order 
+is necessary for the purpose of monitoring 
+compliance with this Act or the regulations, the 
+Court may grant the order sought. 
+ 
+(3) An order under this section must state a date, not 
+later than 28 days after the making of the order, on 
+which the order ceases to have effect. 
+ 
+(4) An inspector who executes an order under this 
+section must, as soon as practicable after that 
+execution, notify the Magistrates' Court in writing 
+of the time and place of execution of the order. 
+ 
+55 Service of documents 
+ 
+(1) A written requirement by an inspector under this 
+Division may be given personally or by registered 
+post to a person— 
+ 
+(a) at the last known place of business, 
+employment or residence of the person; or 
+ 
+(b) in the case of a company, at the registered 
+office of the company. 
+ 
+(2) A person who provides a document or 
+information in response to a requirement of an 
+inspector under this Division may send that 
+document or information to the Director by 
+registered post. 
+Division 3—Entry, search and seizure 
+ 
+56 Entry or search with consent 
+ 
+(1) For the purpose of monitoring compliance with 
+this Act or the regulations, an inspector, with the 
+consent of the occupier of the premises, may— 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+64 
+  
+ 
+(a) enter and search the premises; and 
+ 
+(b) examine and seize any thing found on the 
+premises which the inspector believes on 
+reasonable grounds to be connected with a 
+contravention of this Act or the regulations; 
+and 
+ 
+(c) inspect and make copies of, or take extracts 
+from, any document found on the premises; 
+and 
+ 
+(d) make any still or moving image, audio 
+recording or audio-visual recording. 
+ 
+(2) An inspector must not enter and search any 
+premises with the consent of the occupier unless, 
+before the occupier consents to that entry, the 
+inspector— 
+ 
+(a) has produced the inspector's identity card for 
+inspection; and 
+ 
+(b) has informed the occupier of the purpose of 
+the search and that— 
+ 
+(i) the occupier may refuse to give consent 
+to the entry and search or to the seizure 
+of any thing found during the search; 
+and 
+ 
+(ii) the occupier may refuse to consent to 
+the taking of any copy of, or extract 
+from, a document found on the 
+premises during the search; and 
+ 
+(iii) any thing seized or taken during the 
+search with the consent of the occupier 
+may be used in evidence in 
+proceedings. 
+ 
+(3) If an occupier consents to an entry and search, the 
+inspector who requested consent must, before 
+entering the premises, ask the occupier to sign an 
+acknowledgement stating the inspector has 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+65 
+  
+complied with the requirements set out in 
+subsection (2). 
+ 
+(4) If an occupier consents to the seizure or taking of 
+any thing during a search under this section, the 
+inspector must, before seizing or taking the thing, 
+ask the occupier to sign an acknowledgement 
+stating— 
+ 
+(a) that the occupier has consented to the seizure 
+or taking of the thing; and 
+ 
+(b) the date and time that the occupier 
+consented. 
+ 
+(5) An occupier who signs an acknowledgement must 
+be given a copy of the signed acknowledgement 
+before the inspector leaves the premises. 
+ 
+(6) In this section— 
+occupier, in relation to a premises that is a room 
+in a rooming house occupied by one or more 
+residents of the rooming house, means the 
+resident of that room or, if there is more than 
+one resident, all the residents occupying that 
+room. 
+ 
+57 Entry of premises open to the public 
+An inspector may enter and inspect any part of a 
+premises that at the time of entry and inspection is 
+open to the public. 
+ 
+58 Entry without consent or warrant 
+ 
+(1) Subject to subsection (2), for the purpose of 
+monitoring compliance with this Act or the 
+regulations, an inspector may do all or any of the 
+following— 
+ 
+(a) enter and search, at any time between the 
+hours of 9 a.m. and 5 p.m., any premises at 
+which a licensee is conducting a business of 
+operating a rooming house;  
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+66 
+  
+ 
+(b) seize or secure against interference any 
+thing that the inspector believes on 
+reasonable grounds to be connected with a 
+contravention of this Act or the regulations 
+that is found in or on the premises; 
+ 
+(c) inspect and make copies of, or take extracts 
+from, any document kept in or on the 
+premises; 
+ 
+(d) make any still or moving image, audio 
+recording or audio-visual recording. 
+ 
+ 
+(2) For the purposes of subsection (1)— 
+premises excludes any room of a rooming house 
+in which a person resides, other than a room 
+in the rooming house in which the rooming 
+house operator resides and from which the 
+rooming house operator operates the 
+rooming house. 
+ 
+59 Search warrants 
+ 
+(1) An inspector may apply to a magistrate for the 
+issue of a search warrant in relation to particular 
+premises if the inspector believes on reasonable 
+grounds that there is on the premises evidence that 
+a person may have contravened this Act or the 
+regulations. 
+ 
+(2) An application under subsection (1) must not be 
+made without the written approval of the Director. 
+ 
+(3) If a magistrate is satisfied by evidence, on oath 
+or by affirmation or by affidavit, that there are 
+reasonable grounds to believe that there is on the 
+premises a thing, or a thing of a particular kind, 
+connected with a contravention of this Act or the 
+regulations, the magistrate may issue the search 
+warrant in accordance with the Magistrates' 
+Court Act 1989. 
+S. 58(1)(c) 
+amended by 
+No. 48/2018 
+s. 71(1). 
+S. 58(1)(d) 
+inserted by 
+No. 48/2018 
+s. 71(2). 
+S. 59(3) 
+amended by 
+No. 6/2018 
+s. 68(Sch. 2 
+item 110). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+67 
+  
+ 
+60 Form and content of search warrants 
+ 
+(1) A search warrant issued under section 59(3) may 
+authorise the inspector named in the warrant 
+together with a police officer or any other person 
+or persons named or otherwise identified in the 
+warrant and with any necessary equipment to do 
+any of the following— 
+ 
+(a) to enter the premises specified in the 
+warrant, by force if necessary; and 
+ 
+(b) if the inspector believes on reasonable 
+grounds that a thing, or thing of a particular 
+kind, named or described in the warrant is 
+connected with a contravention of this Act or 
+the regulations— 
+ 
+(i) to search for the thing; and 
+ 
+(ii) to seize the thing; and 
+ 
+(iii) to secure the thing against interference; 
+and 
+ 
+(iv) to examine and inspect the thing; and 
+ 
+(v) to make copies of, or take extracts 
+from, the thing. 
+ 
+(2) A search warrant issued under section 59(3) must 
+state— 
+ 
+(a) the purpose for which the search is required; 
+and 
+ 
+(b) any condition to which the warrant is 
+subject; and 
+ 
+(c) whether entry is authorised to be made at any 
+time of the day or night or during specified 
+hours of the day or night; and 
+ 
+(d) a day, not later than 28 days after the issue of 
+the warrant, on which the warrant ceases to 
+have effect. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+68 
+  
+ 
+(3) Except as provided by this Act, the rules to be 
+observed with respect to search warrants under the 
+Magistrates' Court Act 1989 extend and apply to 
+warrants issued under section 59(3). 
+ 
+61 Announcement before entry 
+ 
+(1) On executing a search warrant, the inspector 
+executing the warrant— 
+ 
+(a) must announce that the inspector is 
+authorised by the warrant to enter the 
+premises; and 
+ 
+(b) must give any person at the premises an 
+opportunity to allow entry to the premises. 
+ 
+(2) An inspector need not comply with subsection (1) 
+if the inspector believes on reasonable grounds 
+that immediate entry to the premises is required to 
+ensure— 
+ 
+(a) the safety of any person; or 
+ 
+(b) that the effective execution of the search 
+warrant is not frustrated. 
+ 
+(3) If the occupier is present at premises where a 
+search warrant is being executed, the inspector 
+must— 
+ 
+(a) produce the inspector's identity card to the 
+occupier; and 
+ 
+(b) give to the occupier a copy of the warrant. 
+ 
+(4) If the occupier is not present at premises where a 
+search warrant is being executed, the inspector 
+must— 
+ 
+(a) produce the inspector's identity card to a 
+person (if any) at the premises; and 
+ 
+(b) give to the person a copy of the warrant. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+69 
+  
+ 
+62 Seizure of things not described in the warrant 
+A search warrant under section 59 authorises an 
+inspector executing the search warrant, in addition 
+to the seizure of any thing of the kind described in 
+the warrant, to seize any thing which is not of the 
+kind described in the warrant if— 
+ 
+(a) the inspector believes, on reasonable 
+grounds, that the thing— 
+ 
+(i) is of a kind which could have been 
+included in a search warrant issued 
+under this Division; or 
+ 
+(ii) is evidence of a contravention of any 
+Consumer Act; and 
+ 
+(b) in the case of seizure, the inspector believes, 
+on reasonable grounds, that it is necessary to 
+seize that thing in order to prevent its 
+concealment, loss or destruction or its use in 
+the contravention of this Act or any other 
+Consumer Act. 
+ 
+63 Embargo notice 
+ 
+(1) An inspector executing a search warrant who is 
+authorised by that warrant to seize any thing 
+may, if the thing cannot, or cannot readily, be 
+physically seized and removed, issue a notice in 
+the prescribed form— 
+ 
+(a) by causing a copy of the notice to be served 
+on the occupier; or 
+ 
+(b) if the occupier cannot be located after all 
+reasonable steps have been taken to do so, by 
+attaching a copy of the notice to the thing in 
+a prominent position. 
+ 
+(2) Subject to subsection (3), a person who knows 
+that a notice relates to a thing must not, without 
+the written consent of the inspector who issued the 
+notice, sell, lease, transfer, move, dispose of or 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+70 
+  
+otherwise deal with the thing or any part of the 
+thing. 
+Penalty: 60 penalty units. 
+ 
+(3) Subsection (2) does not apply to a person who 
+moved the thing or the part of the thing for the 
+purpose of protecting and preserving it. 
+ 
+(4) Despite anything in any other Act, a sale, lease, 
+transfer or other dealing with a thing in 
+contravention of this section is void. 
+ 
+64 Inspector may monitor compliance with embargo 
+notice 
+ 
+(1) For the purpose of monitoring compliance with an 
+embargo notice, an inspector, with the written 
+approval of the Director, may apply to the 
+Magistrates' Court for— 
+ 
+(a) an order requiring the owner of the thing to 
+which an embargo notice relates, or the 
+occupier of the premises where the thing is 
+kept or required under the notice to be kept, 
+to answer questions or produce documents at 
+a time and place specified by the inspector; 
+and 
+ 
+(b) any other order incidental to, or necessary 
+for, monitoring compliance with the 
+embargo notice or with section 63(2). 
+ 
+(2) The Magistrates' Court may make the order sought 
+under subsection (1)(a) or (b). 
+ 
+65 Search warrants in relation to embargo notice 
+ 
+(1) If a thing is subject to an embargo notice, an 
+inspector, with the written approval of the 
+Director, may apply to a magistrate for the issue 
+of a search warrant permitting entry to the 
+premises where the thing is kept or required to be 
+kept for the purposes of monitoring compliance 
+with an embargo notice. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+71 
+  
+ 
+(2) The magistrate may issue the search warrant 
+in accordance with the Magistrates' Court 
+Act 1989 if the magistrate is satisfied by evidence, 
+on oath or by affirmation or by affidavit, of the 
+inspector that the warrant is necessary for the 
+effective monitoring of compliance with an 
+embargo notice. 
+ 
+(3) A search warrant issued under subsection (2) may 
+authorise the inspector, together with any other 
+person or persons named or otherwise identified in 
+the warrant and with any necessary equipment— 
+ 
+(a) to enter the premises specified in the 
+warrant, by force if necessary; and 
+ 
+(b) to search for, seize and secure against 
+interference the thing named in the warrant. 
+ 
+(4) Except as provided by this Act, the rules to be 
+observed with respect to search warrants under the 
+Magistrates' Court Act 1989 extend and apply to 
+search warrants issued under subsection (2). 
+ 
+66 Retention and return of seized documents or things 
+ 
+(1) If an inspector retains possession of a document 
+seized from a person under this Division, the 
+inspector must, within 21 days after the seizure, 
+give the person a copy of the document certified 
+as correct by the inspector. 
+ 
+(2) A copy of a document certified under 
+subsection (1) must be received in all courts 
+and VCAT to be evidence of equal validity to 
+the original. 
+ 
+(3) If an inspector seizes a document or other thing 
+under this Division, the inspector must take 
+reasonable steps to return the document or thing to 
+the person from whom it was seized if the reason 
+for its seizure no longer exists. 
+ 
+S. 65(2) 
+amended by 
+No. 6/2018 
+s. 68(Sch. 2 
+item 110). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+72 
+  
+ 
+(4) If a document or thing seized by an inspector 
+under this Division has not been returned within 
+3 months after it was seized, the inspector must 
+take reasonable steps to return it unless— 
+ 
+(a) proceedings for the purpose for which the 
+document or thing was retained have 
+commenced within that 3 month period and 
+those proceedings (including any appeal) 
+have not been completed; or 
+ 
+(b) the Magistrates' Court makes an order under 
+section 67 extending the period during which 
+the document or thing may be retained. 
+ 
+67 Magistrates' Court may extend 3 month period 
+ 
+(1) An inspector may apply to the Magistrates' Court 
+for an extension (not exceeding 3 months) of the 
+period during which a seized document or thing 
+may be retained— 
+ 
+(a) within 3 months after the document or thing 
+is seized under this Division; or 
+ 
+(b) if an extension has been granted under this 
+section, before the end of the period of the 
+extension. 
+ 
+(2) The Magistrates' Court may make an order 
+extending the period if it is satisfied that the total 
+period of retention does not exceed 12 months and 
+retention of the document or other thing is 
+necessary— 
+ 
+(a) for the purposes of an investigation into 
+whether a contravention of this Act or the 
+regulations has occurred; or 
+ 
+(b) to enable evidence of a contravention of this 
+Act or the regulations to be obtained for the 
+purposes of a proceeding under this Act. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+73 
+  
+ 
+(3) The Magistrates' Court may adjourn an 
+application to enable notice of the application 
+to be given to any person. 
+ 
+68 Requirement to assist inspector during entry 
+ 
+(1) An inspector exercising a power of entry under 
+this Division may require the occupier of the 
+premises or an agent or employee of the occupier 
+to do any one or more of the following— 
+ 
+(a) give information to the inspector, orally or in 
+writing; 
+ 
+(b) produce documents to the inspector; 
+ 
+(c) give reasonable assistance to the inspector. 
+ 
+(2) A person must not, without reasonable excuse, 
+fail to comply with a requirement of an inspector 
+under this section. 
+Penalty: 60 penalty units. 
+Division 4—General enforcement matters 
+ 
+69 Offence to give false or misleading information 
+ 
+(1) A person must not give information to an 
+inspector under this Part that the person believes 
+to be false or misleading in a material particular. 
+Penalty: 60 penalty units. 
+ 
+(2) A person must not produce a document to an 
+inspector under this Part that the person knows to 
+be false or misleading in a material particular 
+without indicating the respect in which it is false 
+or misleading and, if practicable, providing 
+correct information. 
+Penalty: 60 penalty units. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+74 
+  
+ 
+70 Confidentiality 
+ 
+(1) An inspector must not give to any other person 
+any information acquired by the inspector in the 
+carrying out of the inspector's functions under this 
+Part unless the giving of information is authorised 
+under this section. 
+Penalty: 60 penalty units. 
+ 
+(2) An inspector may give information acquired by 
+the inspector in carrying out a function under this 
+Part in any of the following circumstances— 
+ 
+(a) if the giving of the information is reasonably 
+necessary for the inspector to perform the 
+inspector's functions under this Part;  
+ 
+(b) if the giving of the information is to a court 
+or VCAT in the course of legal proceedings;  
+ 
+(c) if the giving of the information is under an 
+order of a court or VCAT;  
+ 
+(d) if the giving of the information is to the 
+extent reasonably required to enable the 
+investigation or the enforcement of a law of 
+this State or of any other State or Territory or 
+of the Commonwealth;  
+ 
+(e) if the giving of the information is to the 
+Authority;  
+ 
+(f) if the giving of the information is with the 
+written authority of the Director;  
+ 
+(g) if the giving of the information is with the 
+written authority of the person to whom the 
+information relates. 
+ 
+71 Infringements 
+ 
+(1) An inspector may serve an infringement notice on 
+a person in respect of a prescribed offence if the 
+inspector has reason to believe that the person 
+committed the offence. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Enforcement 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+75 
+  
+ 
+(2) An offence prescribed under subsection (1) is an 
+infringement offence within the meaning of the 
+Infringements Act 2006. 
+ 
+(3) The infringement penalty for an offence referred 
+to in subsection (1) is the prescribed penalty for 
+the offence. 
+ 
+72 Protection against self-incrimination 
+ 
+(1) It is a reasonable excuse for a natural person to 
+refuse or fail to give information, or do any other 
+thing that the person is required to do, under this 
+Part if the giving of the information or the doing 
+of the thing would tend to incriminate the person. 
+ 
+(2) Despite subsection (1), it is not a reasonable 
+excuse for a natural person to refuse or fail to 
+produce a document that the person is required to 
+produce under this Part if the production of the 
+document would tend to incriminate the person. 
+ 
+73 Complaints 
+ 
+(1) A person may complain to the Director about the 
+exercise of a power by an inspector under this 
+Part. 
+ 
+(2) The Director must investigate any complaint 
+received under this section and provide a written 
+report on the results of the investigation to the 
+complainant. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—General 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+76 
+  
+Part 7—General 
+ 
+74 Application of Australian Consumer Law and Fair 
+Trading Act 2012 
+ 
+(1) Sections 125, 126, 152, 172, 173, 176 and 178 of 
+the Australian Consumer Law and Fair 
+Trading Act 2012 apply (with any necessary 
+modifications) in relation to the exercise or 
+attempted exercise of a power of an inspector 
+under Part 6 of this Act as if any reference in 
+those sections to Part 6.4 of that Act were a 
+reference to Part 6 of this Act. 
+ 
+(2) Sections 195 and 196 and Part 8.2 (except 
+section 213) of the Australian Consumer Law 
+and Fair Trading Act 2012 extend and apply 
+(with any necessary modifications) to this Act and 
+any regulations made under this Act as if any 
+reference in those provisions to the Australian 
+Consumer Law and Fair Trading Act 2012 
+were a reference to this Act and any regulations 
+made under this Act. 
+ 
+(3) For the purposes of subsection (2)— 
+ 
+(a) section 210 of the Australian Consumer 
+Law and Fair Trading Act 2012 applies 
+as if a reference in that section to Part 3.1, 
+Part 4.1 or Part 6.3 of the Australian 
+Consumer Law and Fair Trading 
+Act 2012 were a reference to this Act 
+and any regulations made under this Act; 
+ 
+(b) section 212 of the Australian Consumer 
+Law and Fair Trading Act 2012 applies as 
+if a reference to prescribed proceedings were 
+a reference to— 
+ 
+(i) a proceeding for an offence against a 
+provision of this Act or any regulations 
+made under this Act; or 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—General 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+77 
+  
+ 
+(ii) proceedings on an application for an 
+injunction under section 201, 202, 
+203, 205 or 206 of the Australian 
+Consumer Law and Fair Trading  
+Act 2012 (as applied by subsection (2)) 
+against a person alleged to have 
+contravened a provision of this Act or 
+any regulations made under this Act; or 
+ 
+(iii) proceedings on an application for an 
+order under section 216, or for 
+damages under section 217, of the 
+Australian Consumer Law and Fair 
+Trading Act 2012 (as applied by 
+subsection (2)). 
+ 
+75 Evidence 
+In any proceeding for an offence against this Act, 
+evidence that a person or body corporate is a 
+registration holder in respect of a rooming house 
+within the meaning of the Public Health and 
+Wellbeing Act 2008 is evidence that the person or 
+the body corporate is a rooming house operator. 
+ 
+76 Who may commence proceedings? 
+ 
+(1) Proceedings for an offence against this Act or the 
+regulations may only be commenced by— 
+ 
+(a) the Director; or 
+ 
+(b) a person authorised by the Director for the 
+purposes of this section. 
+ 
+(2) In any proceeding commenced for an offence 
+against this Act it must be presumed, in the 
+absence of evidence to the contrary, that the 
+person commencing the proceeding was 
+authorised to do so. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—General 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+78 
+  
+ 
+77 Extension of time for prosecutions 
+Despite anything to the contrary in any Act, a 
+proceeding for an offence against this Act may be 
+commenced within 3 years after the date on which 
+the offence is alleged to have been committed. 
+ 
+78 Service of documents 
+ 
+(1) This section applies subject to section 55. 
+ 
+(2) For the purposes of this Act and the regulations, a 
+document may be served on a licensee who is a 
+natural person by— 
+ 
+(a) giving it to the licensee personally; or 
+ 
+(b) leaving it at the licensee's place of residence 
+with someone who apparently resides there 
+and is over 16 years of age; or 
+ 
+(c) leaving it at the licensee's principal place of 
+business with someone who is apparently 
+employed there and over 16 years of age; or 
+ 
+(d) posting it in a letter addressed to the licensee 
+at the address last known to the Director as 
+the licensee's place of residence or principal 
+place of business. 
+ 
+(3) For the purposes of this Act and the regulations, a 
+document may be served on a licensee that is a 
+company by— 
+ 
+(a) giving it to a director or a secretary of the 
+company, or to any other person concerned 
+in the management of the company 
+personally; or 
+ 
+(b) leaving it at the registered office or principal 
+place of business of the company with 
+someone who is apparently employed there 
+and is over 16 years of age; or 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—General 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+79 
+  
+ 
+(c) posting it in a letter addressed to the 
+company at the address last known to the 
+Director as the company's registered office 
+or principal place of business. 
+ 
+79 Money required to be paid into the Victorian 
+Property Fund 
+The following money must be paid into the 
+Victorian Property Fund established under 
+section 72 of the Estate Agents Act 1980— 
+ 
+(a) any fee payable to the Authority under this 
+Act; 
+ 
+(b) any penalty or infringement penalty payable 
+under this Act; 
+ 
+(c) all other money required to be paid into the 
+Fund under this Act. 
+ 
+79A Licensing Registrar may waive or reduce fees 
+The Licensing Registrar may waive or reduce 
+fees in a particular case or class of cases. 
+ 
+80 Regulations 
+ 
+(1) The Governor in Council may make regulations 
+for or with respect to any matter or thing required 
+or permitted by this Act to be prescribed or 
+necessary to be prescribed to give effect to this 
+Act. 
+ 
+(2) The regulations— 
+ 
+(a) may be of general or limited application; and 
+ 
+(b) may differ according to differences in time, 
+place or circumstances. 
+ 
+(3) Regulations with respect to fees— 
+ 
+(a) may provide for different fees for different 
+classes of— 
+ 
+(i) application for a licence; and 
+S. 79A 
+inserted by 
+No. 48/2018 
+s. 72. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—General 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+80 
+  
+ 
+(ii) application for a renewal of a licence; 
+and 
+ 
+(iii) determination made by the Authority 
+following a notification under 
+section 22; and 
+ 
+(b) may provide for fees that vary according to 
+the period of time for which a licence is 
+granted or renewed; and 
+ 
+(c) may provide for the means of payment of 
+fees. 
+ 
+(4) Without limiting subsection (3), the regulations 
+may provide for the calculation of fees based on 
+the number and category of persons that the 
+Authority is required to consider in relation to 
+the licence disqualification criteria or renewal 
+disqualification criteria for the purpose of 
+determining applications and notifications made 
+under the Act. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+81 
+  
+Part 8—Transitional provisions and 
+consequential amendments 
+Division 1—Transitional provisions 
+ 
+81 Definitions 
+In this Division— 
+application period means the period of 120 days 
+commencing on the day that sections 7 and 8 
+come into operation; 
+existing rooming house operator means a 
+rooming house operator who— 
+ 
+(a) operated a rooming house immediately 
+before the application period; and 
+ 
+(b) operates a rooming house during the 
+application period. 
+ 
+82 Application of sections 7 and 8 to existing rooming 
+house operators 
+ 
+(1) Sections 7 and 8 do not apply to an existing 
+rooming house operator if the existing rooming 
+house operator— 
+ 
+(a) before the start of the application period, 
+gives each resident of a rooming house 
+operated by the existing rooming house 
+operator immediately before the application 
+period, a notice to vacate the room occupied 
+by the resident; and 
+ 
+(b) does not withdraw that notice to vacate. 
+ 
+(2) Sections 7 and 8 do not apply to an existing 
+rooming house operator who makes an application 
+for a licence during the application period— 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+82 
+  
+ 
+(a) if that application is refused by the Authority 
+under section 16 and— 
+ 
+(i) the existing rooming house operator 
+does not apply to VCAT under 
+section 42 for a review of the 
+Authority's determination under 
+section 16; and 
+ 
+(ii) before, or within 7 days after, the 
+period specified in section 42(3), the 
+existing rooming house operator gives 
+each resident a notice to vacate under 
+section 268B or section 290B of the 
+Residential Tenancies Act 1997 
+(as the case requires), until the date that 
+is 120 days after the date on which the 
+notice is given; and 
+ 
+(iii) the existing rooming house operator 
+does not withdraw that notice to vacate; 
+or 
+ 
+(b) if that application is refused by the Authority 
+under section 16 and— 
+ 
+(i) the existing rooming house operator 
+applies under section 42 for review of 
+the Authority's determination under 
+section 16 and VCAT upholds the 
+Authority's determination; and 
+ 
+(ii) before, or within 7 days after, VCAT's 
+decision to uphold the Authority's 
+determination, the existing rooming 
+house operator gives each resident a 
+notice to vacate under section 268B or 
+section 290B of the Residential 
+Tenancies Act 1997 (as the case 
+requires), until the date that is 120 days 
+after the date on which the notice is 
+given; and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+83 
+  
+ 
+(iii) the existing rooming house operator 
+does not withdraw that notice to vacate; 
+or 
+ 
+(c) if the Authority grants the existing rooming 
+house operator a licence under section 16, 
+until the day that the licence is granted. 
+ 
+(3) Subject to subsection (4), sections 7 and 8 do not 
+apply to the following persons in relation to an 
+existing rooming house operator for a period of 
+150 days starting on the day immediately after the 
+existing rooming house operator ceases to operate 
+a rooming house— 
+ 
+(a) if the person who was the existing rooming 
+house operator dies, the executor named in 
+the deceased person's will or the 
+administrator of the person's estate or any 
+person who intends applying for letters of 
+administration in relation to the deceased 
+person's estate; 
+ 
+(b) if the person who was the existing rooming 
+house operator becomes an insolvent under 
+administration, the assignee, trustee or 
+receiver of the person; 
+ 
+(c) if the person who was the existing rooming 
+house operator becomes a represented person 
+within the meaning of the Guardianship 
+and Administration Act 2019, the guardian 
+or administrator of the person or any person 
+nominated by the guardian or administrator; 
+ 
+(d) if the person who was the existing rooming 
+house operator becomes an externally 
+administered body corporate, the liquidator, 
+official manager, receiver, receiver and 
+manager or other external administrator. 
+ 
+ 
+S. 82(3)(c) 
+amended by 
+No. 13/2019 
+s. 221(Sch. 1 
+item 44). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+84 
+  
+ 
+(4) A person who is referred to in subsection (3)— 
+ 
+(a) must give, within 30 days after the existing 
+rooming house operator ceases to operate a 
+rooming house, each resident of a rooming 
+house (operated by the existing rooming 
+house operator immediately before that 
+cessation) a notice to vacate under 
+section 263, 268B, 288 or 290B of the 
+Residential Tenancies Act 1997 (as the case 
+requires); and 
+ 
+(b) must not withdraw that notice to vacate. 
+Note 
+A notice to vacate under section 268B of the Residential 
+Tenancies Act 1997 terminates any fixed term tenancy agreement 
+under that Act between the rooming house owner and the resident 
+of the rooming house: see section 219(2) of that Act. 
+ 
+(5) A person who is referred to in subsection (1), (2) 
+or (3) is not taken to have withdrawn a notice to 
+vacate given to a resident in accordance with 
+subsection (1), (2) or (4) if, after giving that 
+notice, the person referred to in subsection (1), (2) 
+or (3) gives the resident another notice to vacate 
+under section 243, 244, 245, 246, 248, 249, 250, 
+251, 253, 278, 279, 280, 281, 282, 283 or 284 of 
+the Residential Tenancies Act 1997. 
+ 
+83 VCAT orders—existing rooming house operator 
+refused licence 
+ 
+(1) The Director may make an application to VCAT 
+for VCAT to make an order under this section if 
+the Authority refuses to grant a licence to an 
+existing rooming house operator under section 16. 
+ 
+(2) VCAT must hear an application made under 
+subsection (1) as soon as practicable after the 
+period specified in section 42(3) during which the 
+existing rooming house operator may apply to 
+VCAT. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+85 
+  
+ 
+(3) If VCAT considers it appropriate, VCAT may 
+make one or more of the following orders— 
+ 
+(a) an order requiring the existing rooming 
+house operator to comply with a requirement 
+specified by VCAT within, or for, a specified 
+time; 
+ 
+(b) an order requiring the existing rooming 
+house operator to enter into an undertaking 
+to perform, or not to perform, certain tasks 
+specified in the undertaking; 
+ 
+(c) any other order for the purpose of protecting 
+the residents of a rooming house operated by 
+the existing rooming house operator, 
+including an order that requires the existing 
+rooming house operator, within the period 
+specified by VCAT— 
+ 
+(i) to notify each resident of a rooming 
+house operated by the existing rooming 
+house operator that the rooming house 
+is to be closed; or 
+ 
+(ii) to notify each resident of a rooming 
+house operated by the existing rooming 
+house operator that the rooming house 
+is to be operated by a different person 
+from a specified date; or 
+ 
+(iii) to give each resident of a rooming 
+house operated by the existing rooming 
+house operator a notice to vacate under 
+section 268A or 290A of the 
+Residential Tenancies Act 1997 
+(as the case requires) by the date 
+specified in the notice, being not more 
+than 120 days after the end of the 
+period within which the notice is to be 
+given; or 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+86 
+  
+ 
+(iv) to refund to a resident of a rooming 
+house any payment of rent made in 
+advance by that resident. 
+Note 
+A notice to vacate under section 268A of the Residential 
+Tenancies Act 1997 terminates any fixed term tenancy 
+agreement under that Act between the rooming house owner 
+and the resident of the rooming house: see section 219(2) of 
+that Act. 
+Division 2—Consequential amendments 
+ 
+84 Australian Consumer Law and Fair Trading 
+Act 2012 
+In Schedule 1 to the Australian Consumer Law 
+and Fair Trading Act 2012, after the item 
+relating to "Retirement Villages Act 1986" 
+insert— 
+"Rooming House Operators Act 2016". 
+ 
+85 Business Licensing Authority Act 1998 
+In section 3 of the Business Licensing Authority 
+Act 1998, in the definition of business licensing 
+Act, after paragraph (da) insert— 
+ 
+"(db) the Rooming House Operators Act 2016; 
+or". 
+ 
+86 Estate Agents Act 1980 
+ 
+(1) In section 75(1)(ea) of the Estate Agents  
+Act 1980, for "1986" substitute "1986, the 
+Rooming House Operators Act 2016". 
+ 
+(2) In section 75(1)(f) of the Estate Agents Act 1980, 
+for "2013 or the Owners Corporations  
+Act 2006" substitute "2013, the Owners 
+Corporations Act 2006 or the Rooming House 
+Operators Act 2016". 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+87 
+  
+ 
+(3) After section 75(1)(hf) of the Estate Agents 
+Act 1980 insert— 
+ 
+"(hg) money payable out of the Fund in 
+accordance with the Rooming House 
+Operators Act 2016;". 
+ 
+87 Residential Tenancies Act 1997—Termination after 
+notice to vacate 
+At the end of section 219 of the Residential 
+Tenancies Act 1997 insert— 
+ 
+"(2) If a notice to vacate under section 268A 
+or 268B or a notice of intention to vacate 
+under section 235(3) is given in respect of a 
+fixed term tenancy agreement between a 
+rooming house owner and a resident of the 
+rooming house, unless it terminates earlier in 
+accordance with this Part, the fixed term 
+tenancy agreement terminates on whichever 
+is the earlier of— 
+ 
+(a) the termination date specified in the 
+notice to vacate under section 268A 
+or 268B; or 
+ 
+(b) if a notice of intention to vacate has 
+been given under section 235(3), the 
+termination date specified in that notice 
+of intention to vacate. 
+Example 
+Earlier termination may occur by a notice to vacate 
+given under section 243 or 250.". 
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+88 
+  
+ 
+88 Residential Tenancies Act 1997—new section 228A 
+After section 228 of the Residential Tenancies 
+Act 1997 insert— 
+ 
+"228A Tenancy agreement—cancellation of 
+licence or failure to renew licence 
+A tenancy agreement does not terminate 
+merely because— 
+ 
+(a) an application for a licence, or for a 
+renewal of a licence, to operate a 
+rooming house under the Rooming 
+House Operators Act 2016 is refused; 
+or 
+ 
+(b) a licence to operate a rooming house 
+under the Rooming House Operators 
+Act 2016 expires; or 
+ 
+(c) the Tribunal cancels a licence to 
+operate a rooming house under the 
+Rooming House Operators Act 2016. 
+Note 
+See sections 16, 20 and 33(1)(a)(v) of the Rooming House 
+Operators Act 2016.". 
+ 
+89 Residential Tenancies Act 1997—Notice of intention 
+to vacate 
+ 
+(1) In section 235(2) of the Residential Tenancies 
+Act 1997, after "The notice" insert "under 
+subsection (1)". 
+ 
+(2) After section 235(2) of the Residential Tenancies 
+Act 1997 insert— 
+ 
+"(3) A resident of a rooming house who has 
+entered into a tenancy agreement with a 
+rooming house owner which is a fixed term 
+tenancy agreement may give the rooming 
+house owner a notice of intention to vacate 
+the room or rented premises if the resident 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+89 
+  
+has been given a notice to vacate under 
+section 268A or 268B. 
+ 
+(4) The notice of intention to vacate under 
+subsection (3) must specify a termination 
+date that is not less than 28 days after the 
+date on which that notice of intention to 
+vacate is given.". 
+ 
+90 Residential Tenancies Act 1997—Notice to have no 
+effect in certain circumstances 
+At the end of section 236 of the Residential 
+Tenancies Act 1997 insert— 
+ 
+"(2) This section does not apply to a notice 
+of intention to vacate given under 
+section 235(3).". 
+ 
+91 Residential Tenancies Act 1997—new sections 268A 
+and 268B 
+After section 268 of the Residential Tenancies 
+Act 1997 insert— 
+ 
+"268A Notice to vacate given by Tribunal order 
+under Rooming House Operators 
+Act 2016 
+ 
+(1) A landlord who is a rooming house owner 
+must give a resident under a tenancy 
+agreement a notice to vacate the room 
+occupied by the resident if the Tribunal 
+has made an order referred to in 
+section 33(1)(b), 34(3)(c)(ii) or 83(3)(c)(iii) 
+of the Rooming House Operators Act 2016 
+in relation to the rooming house owner. 
+ 
+(2) The notice must specify a termination date 
+that is the date specified by the Tribunal as 
+the termination date. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+90 
+  
+ 
+268B Notice to vacate—refusal of licence under 
+Rooming House Operators Act 2016 
+ 
+(1) A rooming house owner who has entered 
+into a tenancy agreement with a rooming 
+house resident in accordance with section 94 
+may give the resident a notice to vacate the 
+room or rented premises occupied by the 
+resident under that tenancy agreement if— 
+ 
+(a) the rooming house owner's application 
+for renewal of a licence under the 
+Rooming House Operators Act 2016 
+is refused by the Business Licensing 
+Authority and section 29(1) or 29(2) of 
+that Act apply; or 
+ 
+(b) the rooming house owner's application 
+for a licence under the Rooming House 
+Operators Act 2016 is refused by the 
+Business Licensing Authority and 
+section 82(2) of that Act applies. 
+ 
+(2) The notice must specify a termination date 
+that is 120 days after the date on which the 
+notice is given.". 
+ 
+92 Residential Tenancies Act 1997—new section 272A 
+After section 272 of the Residential Tenancies 
+Act 1997 insert— 
+ 
+"272A Residency rights—cancellation of licence 
+or failure to renew licence 
+A residency right does not end merely 
+because— 
+ 
+(a) an application for a licence, or for a 
+renewal of a licence, to operate a 
+rooming house under the Rooming 
+House Operators Act 2016 is refused; 
+or 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+91 
+  
+ 
+(b) a licence to operate a rooming house 
+under the Rooming House Operators 
+Act 2016 expires; or 
+ 
+(c) the Tribunal cancels a licence to 
+operate a rooming house under the 
+Rooming House Operators Act 2016. 
+Note 
+See sections 16, 20 and 33(1)(a)(v) of the Rooming House 
+Operators Act 2016.". 
+ 
+93 Residential Tenancies Act 1997—new sections 290A 
+and 290B 
+After section 290 of the Residential Tenancies 
+Act 1997 insert— 
+ 
+"290A Notice to vacate given by Tribunal order 
+under Rooming House Operators 
+Act 2016 
+ 
+(1) A rooming house owner must give a resident 
+a notice to vacate the room occupied by the 
+resident if the Tribunal has made an order 
+referred to in section 33(1)(b), 34(3)(c)(ii) 
+or 83(3)(c)(iii) of the Rooming House 
+Operators Act 2016 in relation to the 
+rooming house owner. 
+ 
+(2) The notice must specify a termination date 
+that is the date specified by the Tribunal as 
+the termination date. 
+ 
+290B Notice to vacate—refusal of licence under 
+Rooming House Operators Act 2016 
+ 
+(1) A rooming house owner may give a resident 
+a notice to vacate the room occupied by the 
+resident if— 
+ 
+(a) the rooming house owner's application 
+for renewal of a licence under the 
+Rooming House Operators Act 2016 
+is refused by the Business Licensing 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Transitional provisions and consequential amendments 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+92 
+  
+Authority and section 29(1) or 29(2) of 
+that Act apply; or 
+ 
+(b) the rooming house owner's application 
+for a licence under the Rooming House 
+Operators Act 2016 is refused by the 
+Business Licensing Authority and 
+section 82(2) of that Act applies. 
+ 
+(2) The notice must specify a termination date 
+that is 120 days after the date on which the 
+notice is given.". 
+═══════════════ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+93 
+  
+Endnotes 
+1 General information 
+See www.legislation.vic.gov.au for Victorian Bills, Acts and current 
+authorised versions of legislation and up-to-date legislative information. 
+Minister's second reading speech— 
+Legislative Assembly: 10 December 2015 
+Legislative Council: 10 March 2016 
+The long title for the Bill for this Act was "A Bill for an Act to improve the 
+operation of rooming houses by establishing a licensing scheme for rooming 
+house operators and to make consequential amendments to the Australian 
+Consumer Law and Fair Trading Act 2012, the Business Licensing 
+Authority Act 1998, the Estate Agents Act 1980 and the Residential 
+Tenancies Act 1997 and for other purposes." 
+The Rooming House Operators Act 2016 was assented to on 10 May 2016 
+and came into operation on 26 April 2017: Special Gazette (No. 57) 7 March 
+2017 page 1. 
+INTERPRETATION OF LEGISLATION ACT 1984 (ILA) 
+Style changes 
+Section 54A of the ILA authorises the making of the style changes set out in 
+Schedule 1 to that Act. 
+References to ILA s. 39B 
+Sidenotes which cite ILA s. 39B refer to section 39B of the ILA which 
+provides that where an undivided section or clause of a Schedule is amended 
+by the insertion of one or more subsections or subclauses, the original section 
+or clause becomes subsection or subclause (1) and is amended by the 
+insertion of the expression "(1)" at the beginning of the original section or 
+clause. 
+Interpretation 
+As from 1 January 2001, amendments to section 36 of the ILA have the 
+following effects: 
+• 
+Headings 
+All headings included in an Act which is passed on or after 1 January 2001 
+form part of that Act.  Any heading inserted in an Act which was passed 
+before 1 January 2001, by an Act passed on or after 1 January 2001, forms 
+part of that Act.  This includes headings to Parts, Divisions or Subdivisions in 
+a Schedule; sections; clauses; items; tables; columns; examples; diagrams; 
+notes or forms.  See section 36(1A)(2A). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+94 
+  
+• 
+Examples, diagrams or notes 
+All examples, diagrams or notes included in an Act which is passed on or 
+after 1 January 2001 form part of that Act.  Any examples, diagrams or notes 
+inserted in an Act which was passed before 1 January 2001, by an Act passed 
+on or after 1 January 2001, form part of that Act.  See section 36(3A). 
+• 
+Punctuation 
+All punctuation included in an Act which is passed on or after 1 January 2001 
+forms part of that Act.  Any punctuation inserted in an Act which was passed 
+before 1 January 2001, by an Act passed on or after 1 January 2001, forms 
+part of that Act.  See section 36(3B). 
+• 
+Provision numbers 
+All provision numbers included in an Act form part of that Act, whether 
+inserted in the Act before, on or after 1 January 2001.  Provision numbers 
+include section numbers, subsection numbers, paragraphs and subparagraphs.  
+See section 36(3C). 
+• 
+Location of "legislative items" 
+A "legislative item" is a penalty, an example or a note.  As from 13 October 
+2004, a legislative item relating to a provision of an Act is taken to be at the 
+foot of that provision even if it is preceded or followed by another legislative 
+item that relates to that provision.  For example, if a penalty at the foot of a 
+provision is followed by a note, both of these legislative items will be 
+regarded as being at the foot of that provision.  See section 36B. 
+• 
+Other material 
+Any explanatory memorandum, table of provisions, endnotes, index and 
+other material printed after the Endnotes does not form part of an Act.   
+See section 36(3)(3D)(3E). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+95 
+  
+2 Table of Amendments 
+This publication incorporates amendments made to the Rooming House 
+Operators Act 2016 by Acts and subordinate instruments. 
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+Oaths and Affirmations Act 2018, No. 6/2018 
+Assent Date: 
+27.2.18 
+Commencement Date: 
+S. 68(Sch. 2 item 110) on 1.3.19: s. 2(2) 
+Current State: 
+This information relates only to the provision/s 
+amending the Rooming House Operators Act 2016  
+Residential Tenancies Amendment Act 2018, No. 45/2018 (as amended by 
+Nos 11/2020, 25/2020) 
+Assent Date: 
+18.9.18 
+Commencement Date: 
+S. 377 on 29.3.21: Special Gazette (No. 42) 27.1.21 
+p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Rooming House Operators Act 2016 
+Justice Legislation Miscellaneous Amendment Act 2018, No. 48/2018 
+Assent Date: 
+25.9.18 
+Commencement Date: 
+Ss 66–72 on 28.10.18: Special Gazette (No. 480) 
+16.10.18 p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Rooming House Operators Act 2016  
+Guardianship and Administration Act 2019, No. 13/2019 
+Assent Date: 
+4.6.19 
+Commencement Date: 
+S. 221(Sch. 1 item 44) on 1.3.20: s. 2(2) 
+Current State: 
+This information relates only to the provision/s 
+amending the Rooming House Operators Act 2016  
+Local Government Act 2020, No. 9/2020 
+Assent Date: 
+24.3.20 
+Commencement Date: 
+S. 390(Sch. 1 item 89) on 6.4.20: Special Gazette 
+(No. 150) 24.3.20 p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Rooming House Operators Act 2016  
+Consumer and Other Acts Miscellaneous Amendments Act 2021, No. 1/2021 
+Assent Date: 
+9.2.21 
+Commencement Date: 
+S. 104 on 10.3.21: Special Gazette (No. 110) 10.3.21 
+p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Rooming House Operators Act 2016  
+Sex Work Decriminalisation Act 2022, No. 7/2022 
+Assent Date: 
+1.3.22 
+Commencement Date: 
+Ss 76, 77 on 1.12.23: s. 2(3) 
+Current State: 
+This information relates only to the provision/s 
+amending the Rooming House Operators Act 2016  
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+96 
+  
+Residential Tenancies, Housing and Social Services Regulation Amendment 
+(Administration and Other Matters) Act 2022, No. 40/2022 
+Assent Date: 
+6.9.22 
+Commencement Date: 
+S. 57 on 7.9.22: s. 2(2) 
+Current State: 
+This information relates only to the provision/s 
+amending the Rooming House Operators Act 2016  
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Rooming House Operators Act 2016 
+No. 26 of 2016 
+97 
+  
+3 Explanatory details 
+No entries at date of publication. 
+
+--------------------------------------------------------------------------------

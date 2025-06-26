@@ -1,0 +1,2303 @@
+ 
+법령, 판례 등 모든 법령정보를 한 번에 검색 OK !
+ENVIRONMENTAL IMPACT ASSESSMENT ACT
+[Enforcement Date 27. May, 2020.] [Act No.16617, 26. Nov, 2019., Partial
+Amendment]
+환경부 (소규모환경영향평가-국토환경정책과)044-201-7275
+법제처 국가법령정보센터
+www.law.go.kr
+2025.04.05
+
+--------------------------------------------------------------------------------
+법제처                                                            1                                                       국가법령정보센터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+ENVIRONMENTAL IMPACT ASSESSMENT ACT
+[Enforcement Date 27. May, 2020.] [Act No.16617, 26. Nov, 2019., Partial Amendment]
+환경부 (소규모환경영향평가-국토환경정책과) 044-201-7275
+환경부 (전략환경영향평가-국토환경정책과) 044-201-7276
+환경부 (환경영향평가업-국토환경정책과) 044-201-7278
+환경부 (환경영향평가-국토환경정책과) 044-201-7282
+ 
+            CHAPTER I GENERAL PROVISIONS
+ 
+Article 1 (Purpose) The purpose of this Act is to promote environment-friendly, sustainable
+development and healthy and pleasant life of citizens by forecasting and assessing the
+environmental impacts of a plan or project and by formulating measures for environmental
+conservation when a plan or project that has an environmental impact is formulated and
+implemented.
+ 
+Article 2 (Definitions) The terms used in this Act are defined as follows: <Amended on Jan. 17,
+2017; Nov. 28, 2017; Nov. 26, 2019>
+1. The term "strategic environmental impact assessment" means an assessment conducted
+to determine the feasibility of a plan, the appropriateness of a site location, etc. from an
+environmental perspective by verifying whether the plan conforms to the relevant
+environmental conservation plan and by developing and analyzing alternatives to
+promote sustainable development of national land when it is intended to formulate a
+plan that has an environmental impact;
+2. The term "environmental impact assessment" means an assessment conducted to
+formulate measures for preventing, alleviating, or mitigating harmful environmental
+impacts by surveying, forecasting, and assessing the environmental impact of a project,
+when it is intended to permit, authorize, approve, or license (hereinafter referred to as
+"approve, etc.") an implementation plan or execution plan that has an environmental
+impact or to make a determination on such implementation plan or execution plan;
+3. The term "mini environmental impact assessment" means an assessment conducted by
+surveying, forecasting, and assessing the appropriateness of a site location and the
+environmental impact of a development project to provide measures for environmental
+conservation, when it is intended to implement a development project in an area
+
+--------------------------------------------------------------------------------
+법제처                                                            2                                                       국가법령정보센터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+requiring environmental conservation or in an area requiring planned development
+because reckless development is anticipated;
+4. The term "environmental impact assessment, etc." means a strategic environmental
+impact assessment, environmental impact assessment, or mini environmental impact
+assessment;
+5. The term "agreed standards" means standards that a project implementer or the head of
+the approving authority agrees to apply to a specific project with the Minister of
+Environment, since they find it impracticable to maintain the environmental standards
+under  Article  12  of  the  Framework  Act  on  Environmental  Policy  or  to  prevent
+environmental deterioration merely by enforcing any of the following standards in an
+area affected by the implementation of the project:
+(a) Standards for the quality of discharged water under Article 13 of the Act on the
+Management and Use of Livestock Excreta;
+(b) Standards for permitting emissions under Article 16 of the Clean Air Conservation Act;
+(c) Standards for the quality of released water under Article 12 (3) of the Water
+Environment Conservation Act;
+(d) Standards for permitting discharge under Article 32 of the Water Environment
+Conservation Act;
+(e) Standards for the management of waste disposal facilities under Article 31 (1) of the
+Wastes Control Act;
+(f) Standards for the quality of effluent water under Article 7 of the Sewerage Act;
+(g) Permissible noise and vibration emission standards under Article 7 of the Noise and
+Vibration Control Act;
+(h) Control standards for traffic noise and vibration under Article 26 of the Noise and
+Vibration Control Act;
+(i) Standards for other pollutants prescribed by relevant statutes for environmental
+conservation;
+6. The term "environmental impact assessor" means a person qualified under Article 63 (1)
+to provide services for the preparation of environmental impact assessment reports by
+conducting surveys on environmental situation, forecasting and analyzing environmental
+impacts, formulating plans for environmental conservation, and assessing alternatives.
+ 
+
+--------------------------------------------------------------------------------
+법제처                                                            3                                                       국가법령정보센터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+Article 3 (Responsibilities of the State and Other Entities) (1) When the State, a local
+government, or a project implementer formulates and implements a policy or plan or
+implements a project, it shall take measures necessary to minimize environmental pollution
+and environmental degradation.
+(2) The State, local governments, project implementers, and citizens shall recognize the
+importance of environmental impact assessments, etc. and shall endeavor to ensure that
+the process prescribed by this Act is performed properly and smoothly.
+(3) The Minister of Environment shall formulate and disseminate guidelines for the
+evaluation  of  environmental  impact  assessments,  standards  for  preparation  of
+environmental impact assessments, checklists, etc. in order to improve the objectivity,
+scientific validity, and predictability of environmental impact assessments, etc.
+ 
+Article 4 (Fundamental Principles of Environmental Impact Assessments) Environmental
+impact assessments, etc. shall be conducted in accordance with the following fundamental
+principles: <Amended on Jun. 12, 2018>
+1. Environmental impact assessments, etc. shall be conducted to ensure that conservation
+and development are in harmony and balanced to achieve sustainable development;
+2. Measures for environmental conservation and alternatives therefor shall be formulated
+within the extent economically and technically practicable, based on the outcomes of
+scientific surveys and forecasts;
+3.  Residents,  etc.  shall  be  adequately  informed  of  a  plan  or  project  subject  to
+environmental impact assessments, etc. so that residents, etc. can actively participate in
+the process of environmental impact assessments, etc.;
+4. The outcomes of environmental impact assessments, etc. shall be described simply and
+easily to facilitate residents’ and decision-makers’ full understanding;
+5. Where plans or projects are concentrated in a specific area or during a specific period,
+cumulative  impact  of  such  plans  or  projects  shall  be  taken  into  consideration  in
+conducting  environmental  impact  assessments,  etc.;
+6. Environmental impact assessments, etc. shall be conducted in consideration of the social
+and economic impacts of environmental hazards of the plan or project on groups
+sensitive to exposure to environmental harmful factors, including children, senior citizens,
+pregnant women and nursing mothers, and low-income people.
+
+--------------------------------------------------------------------------------
+법제처                                                            4                                                       국가법령정보센터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+Article 5 (Formulation of Targets for Environmental Conservation) A person who intends to
+conduct an environmental impact assessment or such shall formulate targets for
+environmental conservation, based upon the following standards, the nature of the relevant
+plan or project, the present condition of land use and environment, the degree of impact
+of the relevant plan or project on the environment, the scientific and technical levels at the
+time of assessment, economic situation, etc., and shall conduct an environmental impact
+assessment or such, based on the goals: <Amended on Jan. 17, 2017>
+1. Environmental standards under Article 12 of the Framework Act on Environmental Policy;
+2. Ecological and natural maps defined under subparagraph 14 of Article 2 of the Natural
+Environment Conservation Act;
+3. Standards for total pollution load in each region under the Clean Air Conservation Act
+and the Water Environment Conservation Act;
+4. Standards formulated by other related Acts for environmental conservation.
+ 
+Article 6 (Areas Subject to Environmental Impact Assessment) An environmental impact
+assessment, etc. shall be conducted in an area demarcated by boundaries as an area
+anticipated to be affected by the formulation of a plan or by the implementation of a
+project according to data from a scientific forecast and analysis of the environmental
+impact.
+ 
+Article 7 (Sectors Subject to Environmental Impact Assessments and Items Subject to
+Assessment) (1) An environmental impact assessment, etc. shall be conducted with regard
+to natural environment, living environment, social and economic environment, and other
+sectors (hereinafter referred to as "sectors subject to environmental impact assessment")
+that is anticipated to be affected by the formulation of a plan or by the implementation of
+a project.
+(2)  Sub-categories  for  assessment  of  the  sectors  subject  to  environmental  impact
+assessment (hereinafter referred to as "items subject to environmental impact assessment"),
+methods of assessment, etc. shall be prescribed by Presidential Decree.
+ 
+Article 8 (Environmental Impact Assessment Council) (1) The Minister of Environment, the
+heads of planning agencies, the heads of agencies with authority to grant approval, etc. for
+plans or projects (hereinafter referred to as "heads of approving agencies"), or project
+implementers not obliged to obtain approval, etc. shall form and operate an environmental
+
+--------------------------------------------------------------------------------
+법제처                                                            5                                                       국가법령정보센터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+impact assessment council in order to deliberate on the following matters: <Amended on
+Nov. 28, 2017>
+1. Determination of items subject to assessment, scope, etc. of assessment under Articles
+11 and 24;
+2. Coordination in discussions on environmental impact assessment under Article 31 (2);
+3. Whether to conduct a summary environmental impact assessment under Article 51 (2);
+4. Coordination in collection of opinions and discussions thereon under Article 52 (3);
+5.  Other  matters  specified  by  Presidential  Decree  as  those  necessary  to  facilitate
+environmental  impact  assessments.
+(2) The environmental impact assessment council under paragraph (1) (hereinafter referred
+to as the "environmental impact assessment council") shall be comprised of persons with
+abundant  knowledge  and  experience  in  environmental  impact  assessments,  but
+representatives of residents and experts from the private sector, such as non-governmental
+organizations, shall be included in the council: Provided, That where a health impact
+assessment shall be conducted under Article 13 of the Environmental Health Act, experts in
+health impact assessments, in addition to the experts from the private sector referred to in
+the main clause above, shall be included in the council. <Amended on Jan. 20, 2015>
+(3) Matters necessary for the formation, operation, etc. of the environmental impact
+assessment council shall be prescribed by Presidential Decree.
+ 
+            CHAPTER II STRATEGIC ENVIRONMENTAL IMPACT ASSESSMENT
+               SECTION 1 Plans Subject to Strategic Environmental Impact Assessment
+ 
+Article 9 (Plans Subject to Strategic Environmental Impact Assessment) (1) When the head of
+an administrative agency intends to formulate any of the following plans, he or she shall
+conduct a strategic environmental impact assessment with regard thereto:
+1. An urban development project;
+2. A plan for the development of an industrial site or industrial complex;
+3. A plan for the development of energy sources;
+4. A plan for the development of a harbor;
+5. A plan for the construction of a road;
+6. A plan for the development of water resources;
+
+--------------------------------------------------------------------------------
+법제처                                                            6                                                       국가법령정보센터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+7. A plan for the construction of a railroad (including an urban railroad);
+8. A plan for the construction of an airport;
+9. A plan for the use and development of river;
+10. A plan for the development of land and reclamation of public waters;
+11. A plan for the development of a tourism complex;
+12. A plan for the development of a mountainous district;
+13. A plan for the development of a particular area;
+14. A plan for the establishment of a sports facility;
+15. A plan for the establishment of a waste disposal facility;
+16. A plan for the establishment of facilities for national defense and military installations;
+17. A plan for the extraction of earth and stone, sand, gravel, minerals, etc.;
+18. A plan for the establishment of any of the facilities specified by Presidential Decree as
+those that have an environmental impact.
+(2) The plans subject to strategic environmental impact assessment conducted under
+paragraph (1) (hereinafter referred to as "plans subject to strategic environmental impact
+assessment") are classified as follows, taking the nature of each plan into consideration:
+1. Governmental plan: A plan that generally indicates the basic direction-setting for, or
+guidelines for, the development and conservation of all or some national land;
+2. Master development plan: Either of the following plans for a certain part of national
+land:
+(a) A plan for the designation of a particular development zone;
+(b) A plan that is required to be formulated by a specific statute or regulation before
+formulating  an  implementation  plan  to  form  the  basis  for  a  standard  for  an
+implementation  plan.
+(3) The subcategories of the plans subject to strategic environmental impact assessment
+and the governmental plans and master development plans formulated under paragraph
+(2) shall be prescribed by Presidential Decree, following the procedures prescribed in
+Article 10-2. <Amended on May 29, 2016>
+ 
+Article 10 (Exclusion from Strategic Environmental Impact Assessment) Notwithstanding
+Article 9, strategic environmental impact assessment may be skipped for either of the
+following plans:
+
+--------------------------------------------------------------------------------
+법제처                                                            7                                                       국가법령정보센터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+1. A plan determined by the Minister of National Defense, in consultation with the Minister
+of Environment, as a plan involving military secrets requiring stringent protection or a
+plan necessary for an urgent military operation;
+2. A plan determined by the Director of the National Intelligence Service, in consultation
+with the Minister of Environment, as a plan involving military secrets requiring stringent
+protection.
+ 
+Article 10-2 (Procedures for Determining Plans subject to Strategic Environmental Impact
+Assessment) (1) The head of each administrative agency shall determine whether to
+conduct a strategic environmental impact assessment with regard to each of the
+administrative agency's plans subject to strategic environmental impact assessment at the
+interval specified by Presidential Decree, based on the following factors, and shall notify
+the Minister of Environment of the results thereof:
+1. How serious the environmental impact of the plan is;
+2. Whether the environmental impact of the plan is assessable;
+3. Whether the plan affects another plan or any development project;
+4. Whether the existing plans subject to strategic environmental impact assessment are
+appropriate;
+5. Whether the plan for which a strategic environmental impact assessment is required is
+additionally necessary.
+(2) When the head of any administrative agency intends to determine not to conduct a
+strategic environmental impact assessment pursuant to paragraph (1), he or she shall
+gather consensus from relevant experts and others on the ground for such determination
+and shall consult with the Minister of Environment thereon.
+(3) If the Minister of Environment examines the ground on which he or she is requested to
+hold a consultation pursuant to paragraph (2) and concludes that a strategic environmental
+impact assessment is necessary, he or she may request for conducting the strategic
+environmental impact assessment of the relevant plan.
+(4) If the scope of a strategic environmental impact assessment to be conducted for the
+relevant plan overlaps with the scope of a strategic environmental impact assessment
+already conducted for another plan or if it is deemed that an identical assessment has
+been already conducted for the relevant plan, the head of the relevant administrative
+agency may review the plan at the interval specified by Presidential Decree and may
+
+--------------------------------------------------------------------------------
+법제처                                                            8                                                       국가법령정보센터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+determine not to conduct a strategic environmental impact assessment for the plan. In
+such cases, the head of the relevant administrative agency shall gather consensus from
+relevant experts and others and shall consult with the Minister of Environment thereon.
+(5) Procedures necessary for notification made under paragraph (1), consultations held
+under paragraph (2), requesting for an assessment conducted under paragraph (3), and
+consultations held under paragraph (4) shall be prescribed by Ordinance of the Ministry of
+Environment.
+[This Article Newly Inserted on May 29, 2016]
+ 
+Article 11 (Determination of Items Subject to Assessment and Scope of Assessment) (1)
+When the head of an administrative agency intends to formulate a plan subject to strategic
+environmental impact assessment, he or she shall make a preparatory statement for
+assessment before conducting strategic environmental impact assessment and shall present
+the statement to the environmental impact assessment council for deliberation to
+determine the following matters (hereinafter in this Chapter referred to as "items, etc.
+subject to strategic environmental impact assessment"): Provided, That deliberation by the
+environmental impact assessment council need not be conducted, if the area specified for
+the relevant project in the master development plan prescribed in Article 9 (2) 2
+(hereinafter referred to as "master development plan") is smaller than the area specified by
+Presidential Decree: <Amended on May 29, 2016>
+1. The area subject to strategic environmental impact assessment;
+2. A land use plan;
+3. Alternative plans;
+4. Items subject to assessment, the scope, methods, etc. of assessment.
+(2) Where a plan subject to strategic environmental impact assessment is formulated upon
+receipt of a proposal from a person who is not an administrative agency, the person who
+proposes the plan subject to strategic environmental impact assessment shall make a
+preparatory statement for assessment and shall request the head of the administrative
+agency, who shall formulate the plan subject to strategic environmental impact assessment,
+to determine the items, etc. subject to strategic environmental impact assessment.
+(3) Upon receipt of a request made under paragraph (2), the head of an administrative
+agency shall bring the case before the environmental impact assessment council within a
+period specified by Presidential Decree for deliberation and shall notify the person who
+
+--------------------------------------------------------------------------------
+법제처                                                            9                                                       국가법령정보센터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+proposes the plan subject to strategic environmental impact assessment of the outcomes
+thereof.
+(4) Where the head of an administrative agency who intends to formulate a plan subject to
+strategic environmental impact assessment determines the items, etc. subject to strategic
+environmental impact assessment conducted under paragraphs (1) through (3), he or she
+shall consider the following matters:
+1. The nature of the relevant plan;
+2. Consistency with top plans and other related plans;
+3. Locational conditions, status of existing land-use, and environmental features of the
+relevant area and its environs;
+4. Changes in seasonal characteristics (an area with substantial environmental and
+ecological value);
+5. Other matters related to the maintenance of environmental standards.
+(5) The head of an administrative agency who intends to formulate a plan subject to
+strategic environmental impact assessment shall publish the items, etc. subject to strategic
+environmental impact assessment determined pursuant to paragraph (1) or (3) and shall
+gather consensus thereon from residents, etc. as prescribed by Presidential Decree:
+Provided, That the items, etc. subject to strategic environmental impact assessment need
+not be published, if all of such items, etc. include those for environmental impact
+assessment. <Amended on May 29, 2016>
+(6) Matters necessary for determining items, etc. subject to strategic environmental impact
+assessment conducted under paragraphs (1) through (4) shall be prescribed by Presidential
+Decree, and the methods for making a preparatory statement for assessment shall be
+prescribed by Ordinance of the Ministry of Environment.
+ 
+Article 11-2 (Summary Strategic Environmental Impact Assessment) (1) If the head of an
+administrative agency intends to formulate a plan subject to strategic environmental
+impact assessment but if the relevant plan does not specify any site location and other
+details or if a quantitative assessment is impracticable, the head of the administrative
+agency may determine to conduct a summary strategic environmental impact assessment
+of the matters specified in Article 11 (1) 4.
+(2) Further details necessary for conducting a summary strategic environmental impact
+assessment, including cases eligible for such assessment, items subject thereto, and the
+
+--------------------------------------------------------------------------------
+법제처                                                            10                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+procedures therefor shall be prescribed by Presidential Decree.
+[This Article Newly Inserted on May 29, 2016]
+ 
+            SECTION 2 Gathering Consensus on Draft Strategic Environmental Impact Assessment
+Reports
+ 
+Article 12 (Preparation of Draft Strategic Environmental Impact Assessment Reports) (1) The
+head of an administrative agency who intends to formulate a master development plan
+shall formulate a draft strategic environmental impact assessment report with regard to
+items, etc. subject to strategic environmental impact assessment determined under Article
+11 and then gather consensus thereon from residents, etc. under Article 13: Provided, That,
+if it is intended to formulate a master development plan upon a proposal from a person
+who is not an administrative agency, the person who proposes the master development
+plan shall formulate a draft strategic environmental impact assessment report and submit it
+to the head of the relevant administrative agency who formulates the master development
+plan.
+(2) The head of an administrative agency who formulates a master development plan shall
+submit a draft strategic environmental impact assessment report to the following persons
+respectively and shall hear their opinions thereon:
+1. The Minister of Environment;
+2. The head of the approving agency (only where a plan is subject to approval, etc.);
+3. The heads of other relevant administrative agencies specified by Presidential Decree.
+(3) The methods of making a draft strategic environmental impact assessment report under
+paragraph (1), the methods of presenting opinions under paragraph (2), and other
+necessary matters shall be prescribed by Presidential Decree.
+ 
+Article 13 (Gathering Consensus from Residents) (1) The head of an administrative agency
+who intends to formulate a master development plan shall publicly announce the draft
+strategic environmental impact assessment report on the master development plan for
+public inspection and shall hold presentations to gather consensus thereon from the
+residents in the assessed area: Provided, That a public hearing shall be held if residents
+within the scope specified by Presidential Decree request for a public hearing.
+
+--------------------------------------------------------------------------------
+법제처                                                            11                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(2) If a master development plan involves any of the areas specified by Presidential Decree,
+including an area with a great value for the conservation of ecosystem and an area where
+environmental damage or changes in a natural ecosystem are significant or likely to be
+significant, the head of the administrative agency who intends to formulate the master
+development plan shall gather consensus thereon from relevant experts and other persons,
+in addition to consensus from residents in the assessed area. <Amended on Jun. 12, 2018>
+(3)  If  the  head  of  an  administrative  agency  who  intends  to  formulate  a  master
+development plan is unable to hold a presentation or public hearing referred to in
+paragraph (1) under normal conditions other than due to his or her own fault or if any of
+the extenuating circumstances specified by Presidential Decree occurs, he or she may omit
+a presentation or public hearing. In such case, the head of an administrative agency shall
+gather consensus from residents, etc. by a method equivalent to a presentation session or
+public hearing, as prescribed by Presidential Decree.
+(4) The head of an administrative agency who intends to formulate a master development
+plan shall disclose the results of gathering consensus from residents, etc. prescribed in
+paragraphs (1) and (2) and whether such opinions have been reflected in the plan to the
+public by the method specified by Presidential Decree.
+(5) Matters necessary for public announcement, public inspections, holding presentations
+or public hearings, and gather consensus prescribed in paragraphs (1) and (2) shall be
+prescribed by Presidential Decree.
+ 
+Article 14 (Omission of Procedures for Gathering Consensus from Residents) If the head of an
+administrative agency who formulates a master development plan has gathered consensus
+on the draft strategic environmental impact assessment report through the procedures for
+gathering consensus under another statute or regulation, he or she is not obliged to
+comply with the procedure for gathering consensus under Article 13.
+ 
+Article 15 (Further Gathering Consensus from Residents) (1) If the head of an administrative
+agency who intends to formulate a master development plan intends to amend the plan
+with respect to an important matter specified by Presidential Decree, such as the area
+subject to the master development plan, after completing the procedures for gathering
+consensus under Article 13 but before being notified of the details of consultations under
+Article 18, he or she shall make another draft strategic environmental impact assessment
+
+--------------------------------------------------------------------------------
+법제처                                                            12                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+report and shall further gather consensus from residents, etc. in accordance with the
+provisions of Articles 11 through 14.
+(2)  Where  the  head  of  an  administrative  agency  intending  to  formulate  a  master
+development plan applies for further gathering consensus from residents, etc. on any of
+the grounds prescribed by Ordinance of the Ministry of Environment, including a fault in
+the procedures for gathering consensus disclosed under Article 13 (4), he or she shall
+further gather consensus from residents, etc. in accordance with Article 13.<Newly Inserted on
+Nov. 28, 2017>
+(3) The period for applying for further gathering consensus pursuant to paragraph (2), its
+procedures, minimum number of applicants, etc. shall be prescribed by Ordinance of the
+Ministry of Environment.<Newly Inserted on Nov. 28, 2017>
+ 
+Article 15-2 (Gathering of Consensus on Governmental Plans) When the head of an
+administrative agency who intends to formulate a governmental plan requests for
+consultations pursuant to Article 16, he or she shall give preliminary administrative notice
+of the strategic environmental impact assessment report of the relevant plan in accordance
+with the Administrative Procedures Act.
+[This Article Newly Inserted on May 29, 2016]
+ 
+            SECTION 3 Consultations on Strategic Environmental Impact Assessment Reports
+ 
+Article 16 (Requests for Consultations on Strategic Environmental Impact Assessment
+Reports) (1) The head of an administrative agency who intends to formulate a plan subject
+to strategic environmental impact assessment exempt from approval shall formulate a
+strategic environmental impact assessment report before finalizing the plan and shall
+request the Minister of Environment to hold consultations thereon.
+(2) The head of an administrative agency who intends to formulate a plan subject to
+strategic environmental impact assessment which needs to obtain approval, shall formulate
+a strategic environmental impact assessment report and submit the report to the head of
+the approving agency, and the head of the approving agency shall request the Minister of
+Environment to hold consultations thereon before he or she approves such plan.
+(3) If a person who draws up a strategic environmental impact assessment report in
+accordance with paragraph (1) or (2) finds that opinions presented in accordance with
+
+--------------------------------------------------------------------------------
+법제처                                                            13                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+Articles 12 (2) and 13 (1) through (3) are well-founded, he or she shall reflect such opinions
+in the strategic environmental impact assessment report.
+(4) Methods for preparing a strategic environmental impact assessment report prescribed
+in paragraphs (1) through (3), the methods for submitting such report, the timing for
+requesting consultations, and other necessary matters shall be prescribed by Presidential
+Decree.
+(5) The division, positions, and names of the official in charge of preparing a strategic
+environmental impact assessment report in the relevant administrative agency and his or
+her supervisor shall be included in the strategic environmental impact assessment report.
+<Newly Inserted on May 29, 2016>
+ 
+Article 17 (Review of Strategic Environmental Impact Assessment Reports) (1) Upon receipt of
+a request for consultations held under Article 16 (1) or (2), the Minister of Environment
+shall review whether the procedures for gathering consensus from residents have been
+observed, the details of the strategic environmental impact assessment report, etc.
+(2) If the Minister of Environment deems necessary for reviewing a strategic environmental
+impact assessment report, he or she may seek opinions from institutions with expertise
+necessary to conduct strategic environmental impact assessment and which are prescribed
+by Presidential Decree such as the Korea Environment Institute established pursuant to the
+Act on the Establishment, Operation and Fostering of Government-Funded Research
+Institutes (hereinafter referred to as the "Korea Environment Institute") or relevant experts
+or request them to conduct a field survey and may request the heads of relevant
+administrative agencies to furnish him or her with relevant data: Provided, That if a
+strategic environmental impact assessment report concerns a plan formulated by any
+person, other than the Minister of Oceans and Fisheries, and involves coastal land area
+defined in subparagraph 3 of Article 2 of the Coast Management Act, the Minister of
+Environment shall hear the opinion from the Minister of Oceans and Fisheries.<Amended on
+Mar. 23, 2013; Nov. 26, 2019>
+(3)  If  the  Minister  of  Environment  finds,  as  a  result  of  the  review  of  a  strategic
+environmental impact assessment report made under paragraph (1), that it is necessary to
+amend the strategic environmental impact assessment report or if any of the grounds
+specified  by  Presidential  Decree  exists,  he  or  she  may  request  the  head  of  the
+administrative agency who intends to formulate a plan subject to strategic environmental
+
+--------------------------------------------------------------------------------
+법제처                                                            14                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+impact assessment (referring to the head of the approving agency, if the plan is subject to
+approval; hereinafter referred to as "head of the competent administrative agency") to
+amend the strategic environmental impact assessment report or the relevant plan or may
+request the head of the competent administrative agency to require the person proposing
+the plan subject to strategic environmental impact assessment to amend the strategic
+environmental impact assessment report. In such case, amendments may be requested
+only twice. <Amended on May 29, 2016>
+(4) In any of the following cases, the Minister of Environment may reject a strategic
+environmental impact assessment report:<Amended on Nov. 28, 2017>
+1. Where it is deemed impractical to proceed with consultations because the strategic
+environmental impact assessment report has been inappropriately prepared, such as
+omitting any important matter with regard to a request made under paragraph (3) for
+amendment;
+2. Where the strategic environmental impact assessment report is deemed to have been
+falsely prepared.
+(5) In either of the following cases, the Minister of Environment may notify the head of the
+competent administrative agency that he or she shall re-examine, among other things, the
+scale and details of a plan subject to strategic environmental impact assessment and
+timing for implementing said plan:<Amended on Nov. 26, 2019>
+1. If the relevant plan subject to strategic environmental impact assessment proceeds, even
+a scaleback or adjustment of said plan causes or is likely to cause environmental
+degradation or significant changes in natural ecosystems;
+2. Where the relevant plan subject to strategic environmental impact assessment does not
+conform to a national environmental policy or is likely to inflict serious damage on an
+area of great ecological value.
+(6) The standards and methods for reviewing strategic environmental impact assessment
+reports,  etc.  under  paragraph  (1)  and  matters  necessary  for  amending  strategic
+environmental impact assessment reports, etc. under paragraph (3), for rejecting such
+reports under paragraph (4), and for re-examining plans subject to strategic environmental
+impact assessment under paragraph (5) shall be prescribed by Presidential Decree.
+<Amended  on  May  29,  2016;  Nov.  26,  2019>
+
+--------------------------------------------------------------------------------
+법제처                                                            15                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+Article 18 (Period for Notification of Agreed Terms and Conditions) (1) The Minister of
+Environment shall notify the head of the competent administrative agency of agreed terms
+and conditions within a period specified by Presidential Decree, upon a request to hold
+consultations: Provided, That the period may be extended, except in extenuating
+circumstances.
+(2) If the Minister of Environment intends to extend the period for notifying agreed terms
+and conditions prescribed in the proviso of paragraph (1), he or she shall notify the head
+of the competent administrative agency of the grounds for extension and the extended
+period before the period specified for consultations ends.
+(3) In either of the following cases, the Minister of Environment may notify the head of the
+competent administrative agency of agreed terms and conditions on condition that the
+terms and conditions be reflected in the relevant plan: <Amended on May 29, 2016>
+1. Where any matter to be amended is insignificant;
+2.  Where  it  is  possible  to  amend  the  assessment  report  before  formulating  and
+determining  the  relevant  plan.
+ 
+Article 19 (Performance of Agreed Terms and Conditions) (1) The head of the competent
+administrative agency shall take necessary measures to reflect agreed terms and
+conditions, as notified under Article 18, in the relevant plan or shall request the person
+who proposes the plan subject to strategic environmental impact assessment to take
+necessary measures and shall notify the Minister of Environment of the results of measures
+taken or the plan for such measures.
+(2) If the head of the competent administrative agency has a particular reason why it is
+impracticable to reflect agreed terms and conditions in the relevant plan, he or she shall
+consult thereon with the Minister of Environment before approving or confirming the plan,
+as prescribed by Presidential Decree.
+(3) A person who formulates a plan subject to strategic environmental impact assessment
+shall perform agreed terms and conditions and the plan for measures under paragraph (1)
+in good faith.
+(4) Matters necessary for agreed terms and conditions and the plan for measures under
+paragraph (1) shall be prescribed by Presidential Decree.
+ 
+
+--------------------------------------------------------------------------------
+법제처                                                            16                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+Article 20 (Re-Consultation) (1) In either of the following cases where the head of an
+administrative agency who shall formulate a master development plan intends to amend
+the master development plan on which consultations have been held under the provisions
+of Articles 16 through 18, he or she shall request consultations on strategic environmental
+impact assessment again in accordance with the provisions of Articles 11 through 19:
+<Amended on May 29, 2016>
+1. Where it is intended to increase the area subject to the master development plan to a
+scale at least equivalent to the scale specified by Presidential Decree;
+2. Where the area that shall be conserved as its original state or that shall be excluded
+according to agreed terms and conditions, is developed by up to a scale exceeding that
+specified by Presidential Decree or its location is changed.
+(2) In either of the following cases, the head of an administrative agency who intends to
+formulate a master development plan need not request re-consultation on the relevant
+strategic environmental impact assessment: <Newly Inserted on May 29, 2016>
+1. If the plan subject to the strategic environmental impact assessment was finalized after
+consultation with the Minister of Environment but has been revoked or invalidated and if
+the period specified by Presidential Decree from the day details of consultation was
+notified has not expired;
+2. If the finalization of the plan subject to the strategic environmental impact assessment
+has been delayed after consultation with the Minister of Environment but if the period
+specified by Presidential Decree from the day details of consultation was notified has not
+expired.
+ 
+Article 21 (Consultations on Amendment) (1) When the head of the competent administrative
+agency intends to amend a master development plan consulted upon under the provisions
+of Articles 16 through 18 with regard to a matter specified by Presidential Decree for any
+purpose other than those referred to in subparagraphs of Article 20, he or she shall consult
+with the Minister of Environment on the intended amendment.
+(2)  When  the  head  of  the  competent  administrative  agency  intends  to  amend  a
+governmental plan consulted upon under the provisions of Articles 16 through 18 with
+regard to a matter specified by Presidential Decree, he or she shall consult with the
+Minister of Environment on the intended amendment.
+
+--------------------------------------------------------------------------------
+법제처                                                            17                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(3) The provisions of Articles 16 through 19 shall apply mutatis mutandis to consultations
+on amendment under paragraphs (1) and (2).
+ 
+            CHAPTER III ENVIRONMENTAL IMPACT ASSESSMENT
+               SECTION 1 Projects Subject to Environmental Impact Assessment
+ 
+Article 22 (Projects Subject to Environmental Impact Assessment) (1) A person who intends to
+implement (hereinafter referred to as "project implementer") any of the following projects
+(hereinafter referred to as "projects subject to environmental impact assessment") shall
+conduct environmental impact assessment:
+1. An urban development project;
+2. A plan to develop an industrial site or industrial complex;
+3. A plan to develop energy sources;
+4. A plan to develop a harbor;
+5. A plan to construct a road;
+6. A plan to develop water resources;
+7. A plan to construct a railroad (including an urban railroad);
+8. A plan to construct an airport;
+9. A plan to use and develop river;
+10. A plan to develop land and reclaim public waters;
+11. A plan to develop a tourism complex;
+12. A plan to develop a mountainous district;
+13. A plan to develop a particular area;
+14. A plan to establish a sports facility;
+15. A plan to establish a waste disposal facility;
+16. A plan to establish facilities for national defense and military installations;
+17. A plan to extract earth and stone, sand, gravel, minerals, etc.;
+18. A plan to establish any of the facilities specified by Presidential Decree as those that
+have an environmental impact.
+(2) Specific categories, the scope, etc. of projects subject to environmental impact
+assessment shall be prescribed by Presidential Decree.
+
+--------------------------------------------------------------------------------
+법제처                                                            18                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+Article 23 (Exclusion from Subject Matters for Environmental Impact Assessment)
+Notwithstanding Article 22, strategic environmental impact assessment may be skipped for
+any of the following projects:
+1. A project to take an emergency measure under Article 37 of the Framework Act on the
+Management of Disasters and Safety;
+2. A project determined by the Minister of National Defense, in consultation with the
+Minister of Environment, as a project involving secrets requiring stringent protection for
+national security or a project necessary for an urgent military operation;
+3. A project determined by the Director of the National Intelligence Service, in consultation
+with the Minister of Environment, as a project involving secrets requiring stringent
+protection for national security.
+ 
+            SECTION 2 Gathering of Consensus on Draft Environmental Impact Assessment
+Reports
+ 
+Article 24 (Determination of Items Subject to Assessment and Scope of Assessment) (1) A
+project implementer not obliged to obtain approval, etc. shall formulate a preparatory
+statement for assessment before conducting environmental impact assessment and shall
+present the statement to the environmental impact assessment council for deliberation
+within a period specified by Presidential Decree to determine the following matters
+(hereafter in this Chapter referred to as "items, etc. of environmental impact assessment"):
+1. The area subject to environmental impact assessment;
+2. Alternative plans for environmental conservation;
+3. Items subject to assessment, the scope, methods, etc. of assessment.
+(2) A project implementer obliged to obtain approval, etc. shall formulate a preparatory
+statement for assessment before conducting environmental impact assessment and shall
+request the head of the approving agency to determine the items, etc. subject to
+environmental impact assessment.
+(3) Upon receipt of either of the following requests, the Minister of Environment may
+determine the items, etc. subject to environmental impact assessment: <Amended on May
+29, 2016>
+
+--------------------------------------------------------------------------------
+법제처                                                            19                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+1. Where a project implementer not obliged to obtain approval, etc. is unable to undergo
+deliberation  by  the  environmental  impact  assessment  council  due  to  inevitable
+circumstances or finds that expertise is required particularly and requests the Minister of
+Environment to determine the items, etc. subject to environmental impact assessment;
+2. Where a project implementer obliged to obtain approval, etc. is unable to undergo
+deliberation  by  the  environmental  impact  assessment  council  due  to  inevitable
+circumstances or finds that expertise is required particularly and requests the Minister of
+Environment to determine the items, etc. subject to environmental impact assessment via
+the approving agency.
+(4) Upon receipt of a request made under paragraph (2) or (3), the head of the approving
+agency  or  the  Minister  of  Environment  shall  determine  the  items,  etc.  subject  to
+environmental  impact  assessment,  after  deliberation  by  the  environmental  impact
+assessment council, within a period specified by Presidential Decree, and shall notify the
+relevant project implementer of such determination.
+(5) When a project implementer not obliged to obtain approval, etc. or the head of the
+approving agency (hereinafter referred to as "head of the approving agency") or the
+Minister of Environment determines the items, etc. subject to environmental impact
+assessment conducted under paragraphs (1) through (4), he or she shall consider the
+following matters:
+1. The items, etc. subject to environmental impact assessment , determined under Article
+11 (only where the relevant project is subject to environmental impact assessment under
+a master development plan already formulated);
+2. Locational conditions of the area involved and its environs;
+3. Land-use conditions;
+4. The nature of the project;
+5. Environmental features;
+6. Changes in seasonal characteristics (an area with a great value in environmental and
+ecological aspects).
+(6) If the items, etc. subject to strategic environmental impact assessment that include the
+items, etc. subject to environmental impact assessment has been determined under Article
+11, and consultation has been made with the Minister of Environment regarding the
+strategic environmental impact assessment, the project implementer need not follow the
+
+--------------------------------------------------------------------------------
+법제처                                                            20                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+procedures for determining the items, etc. subject to environmental impact assessment
+conducted under paragraph (1) or (2). In such cases, the items, etc. subject to strategic
+environmental impact assessment determined under Article 11 shall be deemed the items,
+etc. subject to environmental impact assessment determined under paragraphs (1) through
+(5).<Amended on May 29, 2016; Nov. 28, 2017>
+(7) The head of the approving agency or the Minister of Environment shall publish the
+items,  etc.  subject  to  environmental  impact  assessment,  determined  pursuant  to
+paragraphs (1) and (4), and shall gather consensus from residents, etc., as prescribed by
+Presidential Decree.
+(8) Matters necessary for determining the items, etc. subject to environmental impact
+assessment conducted under paragraphs (1) through (5) shall be prescribed by Presidential
+Decree, and the methods for preparing preparatory statements for assessment conducted
+under  paragraphs  (1)  and  (2)  shall  be  prescribed  by  Ordinance  of  the  Ministry  of
+Environment.
+ 
+Article 25 (Gathering Consensus from Residents) (1) A project implementer shall formulate a
+draft environmental impact assessment report on items, etc. subject to environmental
+impact assessment, determined in accordance with Article 24, and shall gather consensus
+thereon from residents, etc.
+(2) Articles 12 and 13 shall apply mutatis mutandis to the procedures for formulating a
+draft environmental impact assessment report and gathering consensus thereon from
+residents, etc. pursuant to paragraph (1): Provided, That the public announcement of such
+report for public inspection by residents shall be conducted by the head of a Si/Gun/Gu
+(Gu means an autonomous Gu) having jurisdiction over the area involved in the project
+subject to environmental impact assessment (including the head of an administrative city
+prescribed in Article 11 (2) of the Special Act on the Establishment of Jeju Special Self-
+Governing Province and the Development of Free International City). <Amended on Jul. 24,
+2015; May 29, 2016>
+(3) If a project implementer has posted a draft environmental impact assessment report
+prescribed in paragraph (1) for at least 20 days to gather consensus from residents, etc. in
+accordance with other statutes or regulations or has gathered consensus in accordance
+with the procedures prescribed in paragraph (2), consensus from residents, etc. shall be
+deemed to have been gathered in accordance with paragraph (1). <Newly Inserted on May
+
+--------------------------------------------------------------------------------
+법제처                                                            21                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+29, 2016>
+(4) A project implementer shall disclose to the public the results of gathering opinions
+from residents, etc. prescribed in paragraph (1) or (3) and whether such opinions have
+been reflected in the relevant plan by the method specified by Presidential Decree.
+<Amended on May 29, 2016>
+(5) If a project implementer has formulated a draft strategic environmental impact
+assessment report and gathered consensus in accordance with the procedures provided for
+in Articles 12 through 15 (excluding where the procedures for collecting opinions are
+omitted under Article 14) and meets all the following requirements in formulating the
+master development plan for a project subject to environmental impact assessment, the
+procedures  for  preparing  a  draft  environmental  impact  assessment  report  and  for
+gathering consensus thereon under paragraphs (1) and (2) may be omitted, subject to
+consultations with the head of the agency who shall hold consultations: <Amended on Jan.
+27, 2016; May 29, 2016>
+1. Where three years have not passed since agreed terms and conditions on a strategic
+environmental impact assessment report were notified pursuant to Article 18;
+2. Where the scale of the relevant project is increased by not more than 30 percent,
+compared with agreed terms and conditions prescribed in Article 18;
+3. Where the scale of the relevant project, compared with agreed terms and conditions
+prescribed in Article 18, is increased by not greater than the minimum scale of a project
+subject to environmental impact assessment for the projects specified by Presidential
+Decree pursuant to Article 22 (2);
+4. Where a site for a facility that severely affects the living environment of residents, such
+as a waste incineration plant, waste landfill, sewage treatment plant, or public effluent
+treatment plant, is not added.
+(6)  Matters  necessary  for  the  methods  for  preparing  draft  environmental  impact
+assessment reports made under paragraph (1) and the methods for publicly announcing
+such report for public inspection under the proviso of paragraph (2) shall be prescribed by
+Presidential Decree. <Amended on May 29, 2016>
+ 
+Article 26 (Further Gathering Consensus from Residents) (1) If a project implementer intends
+to amend a plan with respect to any of the important matters specified by Presidential
+Decree, such as a change in the project subject to environmental impact assessment, after
+
+--------------------------------------------------------------------------------
+법제처                                                            22                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+completing the procedures for gathering consensus under Article 25 but before being
+notified of the details of consultations under Article 29, he or she shall formulate another
+draft environmental impact assessment report and shall further gather consensus from
+residents, etc. thereon in accordance with Articles 24 and 25. <Amended on Nov. 28, 2017>
+(2) Where a project implementer applies for further gathering consensus from residents,
+etc. on any of the grounds prescribed by Ordinance of the Ministry of Environment,
+including a fault in the procedures for gathering consensus disclosed under Article 25 (4),
+he or she shall further gather consensus from residents, etc. in accordance with Article 25.
+<Newly Inserted on Nov. 28, 2017>
+(3) The period for applying for further gathering consensus pursuant to paragraph (2), its
+procedures, minimum number of applicants, etc. shall be prescribed by Ordinance of the
+Ministry of Environment.<Newly Inserted on Nov. 28, 2017>
+ 
+            SECTION 3 Consultation and Re-consultation on Environmental Impact Assessment
+Reports and Consultation on Amendments thereto
+ 
+Article 27 (Preparation of Environmental Impact Assessment Reports, Requests for
+Consultation thereon) (1) The head of the approving agency shall request the Minister of
+Environment to hold consultations on a project subject to environmental impact
+assessment before approving or confirming such project. The head of the approving
+agency may attach his or her written opinion to the relevant environmental impact
+assessment report in such cases.
+(2) When a project implementer not obliged to obtain approval, etc. intends to request the
+Minister of Environment to hold consultations in accordance with paragraph (1), the project
+implementer shall formulate an environmental impact assessment report, while a project
+implementer obliged to obtain approval, etc. shall formulate an environmental impact
+assessment report and shall submit it to the head of the approving agency.
+(3) The methods of drawing up an environmental impact assessment report, the timing for
+requesting consultations, the methods of submitting such report, etc. under paragraphs (1)
+and (2) shall be prescribed by Presidential Decree.
+ 
+Article 28 (Review of Environmental Impact Assessment Reports) (1) Upon receipt of a
+request for consultations held under Article 27 (1), the Minister of Environment shall review
+
+--------------------------------------------------------------------------------
+법제처                                                            23                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+whether the procedures for gathering consensus from residents have been completed, the
+details of the environmental impact assessment report, etc.
+(2) If the Minister of Environment deems necessary for reviewing an environmental impact
+assessment report under paragraph (1), may seek opinions thereon from institutions with
+expertise necessary to conduct environmental impact assessment and which are prescribed
+by Presidential Decree or relevant experts or request them to conduct a field survey and
+may request the relevant project implementer or the head of the approving agency to
+furnish him or her with relevant data: Provided, That the Minister of Environment shall
+gather consensus from the following persons:<Amended on Mar. 23, 2013; Nov. 26, 2019>
+1. Korea Environment Institute;
+2. Minister of Oceans and Fisheries (only where the relevant project is one specified by
+Presidential Decree as those that affect marine environment).
+(3)  If  the  Minister  of  Environment  finds,  upon  reviewing  an  environmental  impact
+assessment report made under paragraph (1), that it is necessary to amend or adjust the
+environmental impact assessment report or the relevant project plan on any of the
+grounds specified by Presidential Decree exists, he or she may request the head of the
+approving agency to amend or adjust the environmental impact assessment report or the
+project plan or may request the head of the approving agency to require the project
+implementer to amend or adjust the report or plan. In such cases, amendments and
+adjustments may be requested only twice, and the head of the approving agency so
+requested shall comply with such request, except in extenuating circumstances. <Amended
+on May 29, 2016>
+(4) In any of the following cases, the Minister of Environment may reject an environmental
+impact assessment report:<Amended on Nov. 28, 2017>
+1. Where it is deemed impractical to proceed with consultations because the environmental
+impact assessment report or the relevant project plan has been inappropriately prepared,
+such as omitting any important matter with regard to a request made under paragraph
+(3) for amendment or adjustment;
+2. Where the environmental impact assessment report is deemed to have been falsely
+prepared.
+(5) In either of the following cases, the Minister of Environment may notify the head of the
+approving agency that he or she shall re-examine, among other things, the scale and
+
+--------------------------------------------------------------------------------
+법제처                                                            24                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+details of a relevant project subject to strategic environmental impact assessment and
+timing for implementing said project:<Amended on Nov. 26, 2019>
+1. If a project plan which includes the relevant project subject to environmental impact
+assessment proceeds, even a scaleback or adjustment of said plan causes or is likely to
+cause environmental degradation or significant changes in natural ecosystems;
+2. Where a project plan which includes the relevant project subject to environmental
+impact assessment does not conform to a national environmental policy or is likely to
+inflict serious damage on an area of great ecological value.
+(6) If a project implementer or the head of the approving agency has an objection to the
+details of re-examination notified pursuant to paragraph (5), he or she may request the
+Minister of Environment to adjust the details thereof. In such cases, Article 31 shall apply
+mutatis mutandis to the procedures for requesting adjustment, determination on whether
+to make adjustment, etc.<Newly Inserted on Nov. 26, 2019>
+(7) The standards and methods for reviewing environmental impact assessment reports,
+etc. under paragraph (1) and matters necessary for amending or adjusting environmental
+impact assessment reports, etc. under paragraph (3), for rejecting such reports under
+paragraph (4), and for re-examining projects subject to environmental impact assessment
+under paragraph (5) shall be prescribed by Presidential Decree.<Amended on May 29, 2016;
+Nov. 26, 2019>
+ 
+Article 29 (Period for Notification of Agreed Terms and Conditions) (1) The Minister of
+Environment shall notify the head of the approving agency of agreed terms and conditions
+within a period specified by Presidential Decree upon receipt of a request to hold
+consultation under Article 27 (1): Provided, That the period may be extended, in
+extenuating circumstances.
+(2) If the Minister of Environment intends to extend the period for the notification of
+agreed terms and conditions under paragraph (1), he or she shall notify the head of the
+approving agency of the grounds for extension and the extended period before the period
+specified for consultations ends.
+(3) Upon receipt of notice of agreed terms and conditions given under paragraph (1) or (2),
+the head of the approving agency shall notify the relevant project implementer thereof
+without delay.
+
+--------------------------------------------------------------------------------
+법제처                                                            25                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(4) In either of the following cases, the Minister of Environment may notify the head of the
+approving agency of agreed terms and conditions on condition that the terms and
+conditions be reflected in the relevant project plan, etc.:
+1. Where any matter to be amended or revised is insignificant;
+2. Where it is possible to amend or revise the relevant project plan, etc. before approving
+the project plan, etc. or commencing the relevant project.
+ 
+Article 30 (Reflection of Agreed Terms and Conditions) (1) Upon receipt of notice of agreed
+terms and conditions under Article 29, a project implementer or the head of the approving
+agency shall take measures necessary for reflecting the terms and conditions in the
+relevant project plan, etc.
+(2) The head of the approving agency shall ascertain whether agreed terms and conditions
+have been reflected in the project plan, etc. before approving the project plan, etc. If
+agreed terms and conditions have not been reflected in the project plan, etc. the head of
+the approving agency shall require that agreed terms and conditions be reflected in the
+project plan, etc.
+(3) When the head of the approving agency approves or confirms a project plan, etc., he or
+she shall notify the Minister of Environment of agreed terms and conditions reflected in
+the project plan, etc.
+(4) If the Minister of Environment is informed from the notice received under paragraph (3)
+that agreed terms and conditions have not been reflected in the relevant project plan, etc.,
+he or she may request the head of the approving agency to reflect agreed terms and
+conditions. In such cases, the head of the approving agency shall comply with such
+request, except in extenuating circumstances.
+ 
+Article 31 (Requests for Adjustment) (1) If a project implementer or the head of the
+approving agency has an objection to agreed terms and conditions notified under Article
+29, he or she may request the Minister of Environment to make an adjustment to agreed
+terms and conditions. In such cases, a project implementer obliged to obtain approval, etc.
+shall request adjustment via the head of the approving agency.
+(2) Upon receipt of a request for adjustment under paragraph (1), the Minister of
+Environment shall determine whether to make an adjustment within a period specified by
+Presidential Decree after deliberation by the environmental impact assessment council and
+
+--------------------------------------------------------------------------------
+법제처                                                            26                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+shall notify the relevant project implementer or the head of the approving agency of such
+determination.
+(3) Upon receipt of a request for adjustment of agreed terms and conditions, no head of
+the approving agency shall approve or confirm the relevant project plan, etc. before being
+notified of the determination under paragraph (2): Provided, That the foregoing shall not
+apply where the details related to the request for adjustment are excluded from the
+project plan, etc.
+(4) Matters necessary for requesting adjustment under the provisions of paragraphs (1)
+through (3) shall be prescribed by Presidential Decree.
+ 
+Article 32 (Re-consultation) (1) In any of the following cases, such as where the head of the
+approving agency intends to amend a project plan upon which consultation has been
+completed under Articles 27 through 29, the head of the approving agency shall request
+the Minister of Environment to consult thereon again: <Amended on May 29, 2016>
+1. Where the project has not been commenced within a period specified by Presidential
+Decree after the project plan, etc. is approved or confirmed: Provided, That the foregoing
+shall not apply where any circumstance changes slightly before the commencement of
+the project and the head of the approving agency has consulted thereon with the
+Minister of Environment;
+2. Where the area, length, etc. of the project subject to environmental impact assessment
+is increased to at least the scale specified by Presidential Decree;
+3. Where the area to be developed, out of an area that shall be conserved as its original
+state or that shall be excluded according to agreed terms and conditions, is at least the
+scale specified by Presidential Decree or where it is intended to alter the location of such
+area that shall be conserved as its original state or that shall be excluded under Article
+29 or 31;
+4. Where it is not proper to implement the project plan, etc. according to agreed terms
+and conditions due to occurrence of any of the events specified by Presidential Decree.
+(2) In either of the following cases, the head of the approving agency need not request re-
+consultation: <Newly Inserted on May 29, 2016>
+1. If the project subject to environmental impact assessment was finalized or approved
+after consultation with the Minister of Environment but has been revoked or invalidated
+and if the period specified by Presidential Decree from the day details of consultation
+
+--------------------------------------------------------------------------------
+법제처                                                            27                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+were notified has not expired;
+2. If the implementation of the project subject to environmental impact assessment has
+been delayed after consultation with the Minister of Environment but if the period
+specified by Presidential Decree from the day details of consultation were notified has
+not expired.
+(3) The provisions of Articles 24 through 31 shall apply mutatis mutandis to the re-
+consideration under paragraph (1). <Amended on May 29, 2016>
+ 
+Article 33 (Amendment to Agreed Terms and Conditions) (1) If a project implementer
+amends a project plan, etc. consulted upon in accordance with the provisions of Articles 27
+through 29 in any case other than those referred to in Article 32 (1), the project
+implementer shall formulate a plan for environmental conservation according to the
+amendment to the project plan, etc. and shall reflect the plan in the amended project plan,
+etc.
+(2) A project implementer obliged to obtain approval, etc. shall submit for review by the
+head of the approving agency, the plan for environmental conservation under paragraph
+(1): Provided, That the foregoing shall not apply to any of insignificant matters specified by
+Ordinance of the Ministry of Environment.
+(3) If the head of the approving agency finds any of the cases specified by Presidential
+Decree when he or she formulates or reviews a plan for environmental conservation under
+paragraph (1) or (2), he or she shall hear the opinions of the Minister of Environment on
+the case.
+(4) The provisions of Article 30 (2) through (4) shall apply mutatis mutandis to the
+confirmation and notification of whether a plan for environmental conservation has been
+reflected under paragraph (1). In such cases, "agreed terms and conditions" shall be
+construed as "a plan for environmental conservation."
+ 
+Article 34 (Prohibition against Premature Implementation of Projects) (1) No project
+implementer shall commence any construction work for a project subject to environmental
+impact assessment without undergoing or before completing the procedures for
+consultation, re-consultation, or consultation on amendment under Articles 27 through 29
+and 31 through 33 (where grounds for re-consultation or consultation on amendment arise
+while construction work is partially underway, referring to before the procedures for re-
+
+--------------------------------------------------------------------------------
+법제처                                                            28                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+consultation or for consultation on amendment are completed): Provided, That the
+foregoing shall not apply to any of the following construction works: <Amended on Nov. 28,
+2017; Nov. 26, 2019>
+1. Construction works performed in an area approved through the consultation under
+Articles  27  through  31  and  excluded  from  an  area  subject  to  re-consultation  or
+amendment  to  agreed  terms  and  conditions;
+2. Construction works performed for any of the insignificant matters prescribed by
+Ordinance of the Ministry of Environment, including construction works of a site office
+for preparing the commencement of construction and construction works to fulfill
+obligations under other statutes or regulations.
+(2) No head of the approving agency shall approve a project plan, etc. before the
+procedure for consultation, re-consultation, or amendment of agreed terms and conditions
+under Articles 27 through 33 is completed.
+(3) If a project implementer obliged to obtain approval, etc. performs any construction
+work in violation of paragraph (1), the head of the approving agency shall order the
+project implementer to wholly or partially suspend construction works on the relevant
+project.
+(4) If a project implementer not obliged to obtain approval, etc. performs any construction
+work in violation of paragraph (1), the Minister of Environment may order the project
+implementer to suspend construction works, to reinstate the site, or to take other
+necessary measures, or may request the head of the approving agency to issue an order to
+suspend construction works, reinstate the site, or take other necessary measures. In such
+cases, the head of the approving agency shall comply with such request, except in
+extenuating circumstances.<Amended  on  Nov.  28,  2017>
+ 
+            SECTION 4 Fulfillment of Agreed Terms and Conditions, Management of Performance
+ 
+Article 35 (Fulfillment of Agreed Terms and Conditions) (1) A project implementer shall fulfill
+all agreed terms and conditions, as reflected in a project plan, etc., in implementing the
+project plan, etc.
+(2) In order to fulfill agreed terms and conditions in good faith, a project implementer shall
+record the progress of performance in the management record book, in which agreed
+
+--------------------------------------------------------------------------------
+법제처                                                            29                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+terms and conditions are recorded, and shall keep the management record book at the
+project site, as prescribed by Ordinance of the Ministry of Environment.
+(3) In order to manage the fulfillment of agreed terms and conditions in a proper manner,
+a project implementer shall designate the manager responsible for the management of
+agreed terms and conditions (hereinafter referred to as "manager") and shall notify the
+following persons of such designation, as prescribed by Ordinance of the Ministry of
+Environment:
+1. The Minister of Environment;
+2. The head of the approving agency (only where approval, etc. is required for a project
+subject to environmental impact assessment).
+(4) The criteria for qualifications of managers and other necessary matters shall be
+prescribed by Ordinance of the Ministry of Environment.
+ 
+Article 36 (Follow-up Survey of Environmental Impacts) (1) A project implementer shall
+conduct a survey of the impact of the relevant project on the surrounding environment
+(hereinafter referred to as "follow-up survey of environmental impact") after commencing
+the project and shall notify the following persons of the findings of such survey:
+1. The Minister of Environment;
+2. The head of the approving agency (limited to where approval, etc. is required for a
+project subject to environmental impact assessment).
+(2) If a project implementer finds it necessary, as a result of the follow-up survey of
+environmental impacts, to take measures for preventing damage to the surrounding
+environment, the project implementer shall notify each person referred to in paragraph (1)
+of the findings and shall take necessary measures.
+(3) Upon receipt of the notice of the findings of a follow-up survey of environmental
+impacts under paragraph (1) or the findings of a follow-up survey of environmental
+impacts and measures taken therefor under paragraph (2), the Minister of Environment
+shall review such findings and measures, and disclose details thereof according to the
+methods prescribed by Presidential Decree. <Newly Inserted on Jan. 20, 2015; Jun. 12,
+2018>
+(4) If the Minister of Environment deems it necessary to review the findings of a follow-up
+survey of environmental impacts and measures taken therefor under paragraph (3), the
+Minister may hear opinions from, or request a field survey to, appropriate experts or the
+
+--------------------------------------------------------------------------------
+법제처                                                            30                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+institutions  specified  by  Presidential  Decree,  and  may  request  the  relevant  project
+implementer or the head of the approving agency to submit related data. <Newly Inserted
+on Jan. 20, 2015>
+(5) The projects subject to a follow-up survey of environmental impacts, the items and
+period of a survey, guidelines and methods for the review on the findings of a follow-up
+survey of environmental impacts and measures taken therefor, and other necessary matters
+shall be prescribed by Ordinance of the Ministry of Environment. <Amended on Jan. 20,
+2015>
+ 
+Article 37 (Notification of Commencement of Projects) (1) When a project implementer
+intends to resume after commencing or completing a project or suspending construction
+works for at least three months (hereafter in this Article and Article 48 referred to as
+"commencement, etc. of a project"), he or she shall notify the following persons of the
+details of commencement, completion, or suspension, as prescribed by Ordinance of the
+Ministry of Environment: <Amended on Jun. 12, 2018; Nov. 26, 2019>
+1. The Minister of Environment;
+2. The head of the approving agency (only where approval, etc. is required for a project
+subject to environmental impact assessment).
+(2) The head of the approving agency notified of the commencement, etc. of a project
+pursuant to paragraph (1) shall disclose the relevant details to the residents of an area
+subject to the assessment according to the methods prescribed by Presidential Decree.
+<Newly Inserted on Jun. 12, 2018>
+[Title Amended on Jun. 12, 2018]
+ 
+Article 38 (Succession to Obligations to Fulfill Agreed Terms and Conditions) (1) If a project
+implementer sells his or her business to a third person, dies, or merges with a corporation,
+the transferee, heir, or the corporation surviving such merger or newly incorporated in the
+course of the merger shall succeed to the project implementer's obligations prescribed in
+the provisions of Articles 35 through 37: Provided, That the operator of the facilities
+transferred by sale, inheritance, or merger shall succeed to such obligations, if the facilities
+are operated by an independent operator.
+(2) The project implementer who succeeds to the preceding project implementer's
+obligations (including an operator who succeeds to obligations under the proviso of the
+
+--------------------------------------------------------------------------------
+법제처                                                            31                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+same paragraph) shall notify the head of the approving agency and the Minister of
+Environment of the matters prescribed by Ordinance of the Ministry of Environment, such
+as the progress of fulfillment of agreed terms and conditions and the grounds for
+succession within 30 days from the date of succession pursuant to the main clause of
+paragraph (1).<Amended on Nov. 26, 2019>
+ 
+Article 39 (Management and Supervision of Agreed Terms and Conditions) (1) The head of
+the approving agency shall ascertain whether a project implementer obliged to obtain
+approval, etc. has fulfilled agreed terms and conditions.
+(2) The Minister of Environment or the head of the approving agency may require a project
+implementer to submit data relevant to the fulfillment of agreed terms and conditions or
+may authorize subordinate public officials to enter the project implementer's place of
+business for inspection. Article 60 (2) and (3) shall apply mutatis mutandis to such
+inspections.
+(3) When the head of the approving agency intends to conduct a final inspection of a
+project, he or she shall ascertain whether agreed terms and conditions have been fulfilled
+and shall notify the Minister of Environment of the results thereof. If the head of the
+approving agency deems it necessary in such cases, he or she may request the Minister of
+Environment  to  conduct  a  joint  inspection  to  ascertain  whether  agreed  terms  and
+conditions  have  been  fulfilled.
+ 
+Article 40 (Orders to Take Measures) (1) If a project implementer obliged to obtain approval,
+etc. fails to fulfill agreed terms and conditions, the head of the approving agency shall
+order the project implementer to take measures necessary for fulfillment.
+(2)  If  the  head  of  the  approving  agency  finds  that  a  project  severely  affects  the
+environment as a consequence of the failure of the project implementer obliged to obtain
+approval, etc. to comply with an order issued under paragraph (1) to take measures, he or
+she shall issue an order to suspend all or some construction works on the project.
+(3) The Minister of Environment shall ascertain whether agreed standards have been
+complied with, if agreed terms and conditions include any matter concerning agreed
+standards.<Amended on Nov. 28, 2017>
+(4) In any of the following cases, the Minister of Environment may order a project
+implementer not obliged to obtain approval, etc. to suspend construction works, reinstate
+
+--------------------------------------------------------------------------------
+법제처                                                            32                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+the site, or take other necessary measures, or may request the head of the approving
+agency to issue an order to suspend construction works, reinstate the site, or take other
+necessary measures. In such cases, the head of the approving agency shall comply with
+such request, unless there is a compelling reason not to do so:<Newly Inserted on Nov. 28,
+2017>
+1. Where it is deemed necessary to manage the implementation of the agreed terms and
+conditions;
+2. Where it is deemed necessary to prevent damage to the surrounding environment as a
+result of reviewing the outcomes of the follow-up survey of environmental impact, details
+of the countermeasures, etc.
+(5) When the head of the approving agency issues an order to take other necessary
+measures or suspend construction works under paragraph (1), (2), or (4) or when a project
+implementer takes measures in accordance with paragraph (4), the head of the approving
+agency or project implementer shall notify the Minister of Environment, without delay, of
+the details thereof.<Amended on Nov. 28, 2017>
+ 
+Article 40-2 (Penalty Surcharges) (1) Where the Minister of Environment or the head of the
+approving agency is to issue an order to reinstate any site pursuant to Article 40 (4), but
+the reinstatement is practically impossible given considerable obstacles it will cause to the
+lives of the residents, the national economy, and other public interests, he or she may
+impose a penalty surcharge amounting up to three percent of the total construction cost
+in lieu of the reinstatement order.
+(2) The amount of penalty surcharges to be imposed under paragraph (1), based on the
+type, severity, etc. of violations and other necessary matters shall be prescribed by
+Presidential Decree.
+(3) Where a person obliged to pay a penalty surcharge under paragraph (1) fails to make
+the payment by the payment deadline, the Minister of Environment or the head of the
+approving agency shall collect said penalty surcharge in the same manner as delinquent
+national taxes or as prescribed by the Act on the Collection of Local Non-Tax Revenue.
+<Newly Inserted on Nov. 26, 2019>
+[This Article Newly Inserted on Nov. 28, 2017]
+ 
+
+--------------------------------------------------------------------------------
+법제처                                                            33                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+Article 41 (Re-Assessment) (1) In any of the following cases, subject to consultation with the
+head of the approving agency and others, the Minister of Environment may request the
+head of the Korea Environment Institute or the head of any relevant specialized institution
+(hereinafter referred to as “re-assessment institution”) to conduct re-assessment: <Amended
+on Nov. 28, 2017>
+1. Where a project severely affects the surrounding environment as a consequence of a
+cause or event unforeseen as at the time of a consultation on environmental impact
+assessment, and if it is impracticable to formulate a plan for environmental conservation
+merely by taking measures or by issuing an order to take measures under Article 36 (2)
+or 40;
+2. Where an environmental impact assessment report, etc. and materials used as its basis
+are falsely prepared in violation of Article 53 (5) 2.
+(2) Upon receipt of a request under paragraph (1), the re-assessment institution shall re-
+assess the relevant project plan, etc. and shall notify the Minister of Environment and the
+head  of  the  approving  agency  of  the  results  thereof  within  a  period  specified  by
+Presidential  Decree.<Amended  on  Nov.  28,  2017>
+(3) Upon receipt of notice of results of re-assessment under paragraph (2), the Minister of
+Environment or the head of the approving agency may require the relevant project
+implementer to take measures necessary for environmental conservation or request the
+head of another administrative agency to issue an order to take necessary measures.
+(4) Any project implementer falling under paragraph (1) 2 shall entrust business affairs
+pertaining to concluding an agency contract prescribed by Ordinance of the Ministry of
+Environment, including selecting an environmental impact assessment agent, to the re-
+assessment institution. In such cases, the project implementer shall pay the cost incurred in
+preparing an environmental impact assessment report, etc.<Newly Inserted on Nov. 28, 2017>
+ 
+            SECTION 5 Environmental Impact Assessment under Municipal Ordinance of City/Do
+ 
+Article 42 (Environmental Impact Assessment under Municipal Ordinance of City/Do) (1) If the
+local government of the Special Metropolitan City, a Metropolitan City, or a Si with a
+population of at least 500,000 persons (hereinafter referred to as "City/Do") deems it
+necessary to conduct environmental impact assessment for a project that does not fall
+
+--------------------------------------------------------------------------------
+법제처                                                            34                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+within the categories and scope of the projects subject to environmental impact
+assessment but falls within the scope specified by Presidential Decree, taking local
+conditions, etc. into consideration, it may authorize the person who implements the project
+to conduct environmental impact assessment, as prescribed by Municipal Ordinance of the
+City/Do: Provided, That the foregoing shall not apply to projects subject to mini
+environmental impact assessment under Article 43.
+(2) A Si with a population of at least 500,000 persons may conduct environmental impact
+assessment, as prescribed by Municipal Ordinance of the Si, only if the Do having
+jurisdiction over the area of the Si has not enacted relevant regulations of environmental
+impact assessment by Municipal Ordinance.
+(3)  The  sectors  subject  to  the  environmental  impact  assessment  conducted  under
+paragraph  (1)  or  (2),  the  sub-items  of  such  environmental  impact  assessment,  the
+procedures  for  preparing  environmental  impact  assessment  reports  and  gathering
+consensus thereon, the procedures for consultations on environmental impact assessment
+reports and the management of agreed terms and conditions, and other necessary matters,
+shall be prescribed by Municipal Ordinance of each City/Do.
+ 
+            CHAPTER IV MINI ENVIRONMENTAL IMPACT ASSESSMENT
+ 
+Article 43 (Subject Matters for Mini Environmental Impact Assessment) (1) A person (hereafter
+in this Chapter referred to as "project implementer") who intends to implement a
+development project that meets each of the following criteria (hereinafter referred to as
+"project subject to mini environmental impact assessment") shall conduct mini
+environmental impact assessment:
+1. A development project implemented in any of the areas specified by Presidential Decree
+as areas requiring conservation and the areas requiring planned development for
+environmental conservation because reckless development is anticipated (hereinafter
+referred to as "specific-use zone for conservation");
+2. A development project specified by Presidential Decree as a development project not
+falling within any category, or the scope, of projects subject to environmental impact
+assessment.
+
+--------------------------------------------------------------------------------
+법제처                                                            35                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(2) Notwithstanding paragraph (1), each of the following projects shall be excluded from
+the projects subject to mini environmental impact assessment:
+1. A project for emergency measures under Article 37 of the Framework Act on the
+Management of Disasters and Safety;
+2. A development project on which the Minister of National Defense has held consultations
+with the Minister of Environment since he or she found it necessary for stringent
+protection of military secrets or for an urgent military operation;
+3. A development project on which the Director of the National Intelligence Service has
+held consultations with the Minister of Environment since he or she found it necessary
+for secrets requiring stringent protection for national security.
+ 
+Article 44 (Preparation of Mini Environmental Impact Assessment Reports, Requests for
+Consultations thereon) (1) A project implementer obliged to obtain approval, etc. shall
+formulate a mini environmental impact assessment report and submit it to the head of the
+approving agency before obtaining approval, etc. with regard to a project subject to mini
+environmental impact assessment.
+(2)  The  head  of  the  approving  agency  shall  submit  a  mini  environmental  impact
+assessment report to the Minister of Environment before approving or verifying a project
+subject to mini environmental impact assessment and shall request the Minister of
+Environment to hold consultations on mini environmental impact assessment.
+(3) In either of the following cases, a project implementer obliged to obtain approval, etc.
+and the head of the approving agency need not prepare a mini environmental impact
+assessment report and request consultation under paragraphs (1) and (2): <Newly Inserted
+on May 29, 2016>
+1. If the project subject to the mini environmental impact assessment was finalized or
+approved after consultation with the Minister of Environment but has been revoked or
+invalidated and if the period specified by Presidential Decree from the day details of
+consultation were notified has not expired;
+2.  If  the  implementation  of  the  project  subject  to  the  mini  environmental  impact
+assessment has been delayed after consultation with the Minister of Environment but if
+the period specified by Presidential Decree from the day details of consultation were
+notified has not expired.
+
+--------------------------------------------------------------------------------
+법제처                                                            36                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(4) The details of a mini environmental impact assessment report and the methods of
+drawing up a mini environmental impact assessment report prescribed in paragraph (1),
+the timing and procedures for requesting consultations on mini environmental impact
+assessment  conducted  under  paragraph  (2),  and  other  necessary  matters  shall  be
+prescribed  by  Presidential  Decree.
+ 
+Article 45 (Review of Mini Environmental Impact Assessment Reports) (1) Upon receipt of a
+request for consultation prescribed in Article 44 (2), the Minister of Environment shall
+review the compliance with the procedures for requesting consultation and the details of
+the mini environmental impact assessment report and shall notify the head of the
+approving agency of agreed terms and conditions within a period specified by Presidential
+Decree from the day on which he or she is requested for consultation.
+(2) Article 17 (2) shall apply mutatis mutandis to the review of a mini environmental impact
+assessment  report  made  under  paragraph  (1).  In  such  cases,  the  term  "strategic
+environmental impact assessment report" shall be deemed "mini environmental impact
+assessment report."
+(3) If the Minister of Environment finds, as a result of the review of a mini environmental
+impact assessment report made under paragraph (1), that it is necessary to amend or
+adjust the environmental impact assessment report or the relevant project plan or any of
+the grounds specified by Presidential Decree exists, he or she may request the head of the
+approving agency to amend or adjust the mini environmental impact assessment report or
+the project plan or may request the head of the approving agency to require the project
+implementer to amend or adjust the report or plan. In such cases, amendments or
+adjustments may be requested only twice, and the head of the approving agency shall
+comply with such requests, except in extenuating circumstances. <Amended on May 29,
+2016>
+(4)  If  the  Minister  of  Environment  finds  that  he  or  she  is  unable  to  proceed  with
+consultation because any important matter is omitted from a mini environmental impact
+assessment report without regard to a request made under paragraph (3) for amendment
+or adjustment or because the strategic environmental impact assessment report is
+inappropriate, he or she may reject the mini environmental impact assessment report.
+<Newly Inserted on May 29, 2016>
+
+--------------------------------------------------------------------------------
+법제처                                                            37                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(5) In either of the following cases, the Minister of Environment may notify the head of the
+approving agency that he or she shall re-examine, among other things, the scale and
+details of a relevant project subject to mini environmental impact assessment and timing
+for implementing said project:<Amended on Nov. 26, 2019>
+1. If a project plan which includes the relevant project subject to mini environmental
+impact assessment proceeds, even a scaleback or adjustment of said project plan which
+includes the relevant project causes or is likely to cause environmental degradation or
+significant changes in natural ecosystems;
+2. Where a project plan which includes the relevant project subject to mini environmental
+impact assessment does not conform to a national environmental policy or is likely to
+inflict serious damage on an area of great ecological value.
+(6) The standards and methods for reviewing mini environmental impact assessment
+reports, etc. under paragraph (1) and matters necessary for amending or adjusting mini
+environmental impact assessment reports, etc. under paragraph (3), for rejecting such
+reports  under  paragraph  (4),  and  for  re-examining  project  plans  subject  to  mini
+environmental impact assessment under paragraph (5) shall be prescribed by Presidential
+Decree.<Amended on May 29, 2016; Nov. 26, 2019>
+[Title Amended on May 29, 2016]
+ 
+Article 46 (Reflection of Agreed Terms and Conditions) (1) Upon receipt of notice of agreed
+terms and conditions prescribed in Article 45, a project implementer or the head of the
+approving agency shall take measures necessary for reflecting the terms and conditions in
+the relevant project plan.
+(2) The provisions of Article 30 (2) through (4) shall apply mutatis mutandis to the
+reflection of agreed terms and conditions, notification of results, requesting of reflection of
+agreed terms and conditions, etc. prescribed in paragraph (1).
+ 
+Article 46-2 (Consultations on Amendment) (1) Where a project implementer intends to
+amend a project plan, etc., upon which consultation has been completed under Articles 43
+through 45, he or she shall formulate a plan for environmental conservation in
+consideration of the relevant change to the project plan, etc. and shall reflect such plan in
+the amended project plan, etc. if the relevant change involves any of the grounds
+prescribed by Presidential Decree, such as additionally developing an area previously
+
+--------------------------------------------------------------------------------
+법제처                                                            38                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+determined to be conserved in its original state or an area previously determined to be
+excluded from development.
+(2) A project implementer obliged to obtain approval, etc. who intends to amend a project
+plan, etc. pursuant to paragraph (1) shall submit a plan for environmental conservation for
+review by the head of the approving agency in advance.
+(3) Where a project implementer not obliged to obtain approval, etc. formulates a plan for
+environmental conservation pursuant to paragraph (1) or where the head of the approving
+agency reviews a plan for environmental conservation pursuant to paragraph (2), he or she
+shall hear the opinions of the Minister of Environment.
+(4) Article 30 (2) through (4) shall apply mutatis mutandis to the ascertainment and
+notification of whether a plan for environmental conservation has been reflected under
+paragraph (1). In such cases, "agreed terms and conditions" shall be construed as "a plan
+for environmental conservation."
+[This Article Newly Inserted on Nov. 28, 2017]
+ 
+Article 47 (Prohibition against Premature Implementation of Projects) (1) No project
+implementer shall commence any construction works for a project subject to mini
+environmental impact assessment without undergoing or before completing the
+procedures for consultation under Articles 44 and 45 or the procedures for consultation on
+amendment under 46-2 (where grounds for consultation on amendment arise while
+construction work is partially underway, referring to before the procedures for consultation
+on amendment are completed). <Amended on Nov. 28, 2017; Nov. 26, 2019>
+(2) No head of the approving agency shall approve a project subject to mini environmental
+impact assessment before the procedures for consultations prescribed in Articles 44 and 45
+or  the  procedures  for  consultations  on  amendment  prescribed  in  Article  46-2  are
+completed.<Amended  on  Nov.  28,  2017>
+(3) Article 34 (3) and (4) shall apply mutatis mutandis to an order issued against a person
+who violates paragraph (1) to suspend construction works or to take measures.
+ 
+Article 48 (Notification of Commencement of Projects) @Article 37 shall apply mutatis
+mutandis to the notification of commencement, etc. of a project subject to mini
+environmental impact assessment. <Amended on Jun. 12, 2018>
+
+--------------------------------------------------------------------------------
+법제처                                                            39                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+[Title Amended on Jun. 12, 2018]
+ 
+Article 49 (Management and Supervision of Performance of Agreed Terms and Conditions)
+(1) A project implementer shall perform agreed terms and condition, as reflected in the
+project plan, when he or she implements the relevant development project.
+(2) Articles 39 and 40 shall apply mutatis mutandis to the ascertainment and notification of
+performance of agreed terms and conditions under paragraph (1), submission and
+inspection of relevant data, issuance or an order to take measures, etc.
+ 
+            CHAPTER V SPECIAL PROVISIONS CONCERNING ENVIRONMENTAL IMPACT
+ASSESSMENTS
+ 
+Article 50 (Special Provisions concerning Integrated Formulation of Master Development
+Plans and Project Plans) (1) Notwithstanding subparagraphs 1 and 2 of Article 2, strategic
+environmental impact assessment and environmental impact assessment shall be
+integrated for review, if a master development plan and a plan for a project subject to
+environmental impact assessment are integrated, but only either the strategic
+environmental impact assessment or the environmental impact assessment may be
+conducted.
+(2) If the timing for consultation on a plan subject to the strategic environmental impact
+assessment under Article 16 (1) and (2) coincides with the timing for the relevant plan
+subject  to  the  environmental  impact  assessment  under  Article  27  (1),  only  the
+environmental impact assessment need be conducted. In such cases, an environmental
+impact assessment report shall be prepared to include the items, etc. subject to strategic
+environmental impact assessment prescribed in Article 11.<Amended on Nov. 28, 2017>
+ 
+Article 51 (Special Provisions concerning Procedures for Consultation on Environmental
+Impact Assessment) (1) With respect to a project specified by Presidential Decree as a
+project that has a minor environmental impact, among the projects subject to
+environmental impact assessment, the project implementer may formulate an
+environmental impact assessment report in the form prescribed by Presidential Decree
+(hereinafter referred to as "summary assessment report") and may gather consensus under
+Article 25 and also request consultation under Article 27.
+
+--------------------------------------------------------------------------------
+법제처                                                            40                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(2) When a project implementer not obliged to obtain approval, etc. determines items, etc.
+subject to environmental impact assessment under Article 24 (1), he or she shall determine
+whether he or she is able to conduct environmental impact assessment in accordance with
+the procedure under paragraph (1) (hereinafter referred to as "summary process"), after
+deliberation by the environmental impact assessment council thereon.
+(3) When a project implementer requests the Minister of Environment to determine items,
+etc. subject to environmental impact assessment under Article 24 (2) or (3), he or she may
+request the Minister of Environment to determine whether he or she is permitted to
+conduct environmental impact assessment in accordance with the summary process.
+(4) Upon receipt of a request made under paragraph (3), the head of the approving agency
+or the Minister of Environment shall determine whether to permit environmental impact
+assessment  in  accordance  with  the  summary  process,  after  deliberation  by  the
+environmental impact assessment council thereon, and shall notify the project implementer
+of the results thereof within a period specified by Presidential Decree.
+(5) Article 24 (5) shall apply mutatis mutandis where it is necessary to determine whether a
+person is permitted to conduct environmental impact assessment in accordance with the
+summary process.
+ 
+Article 52 (Preparation of Evaluation Reports upon Completion of Summary Process) (1) Upon
+completion of the procedures for gathering consensus and for consultations under Article
+51 (1), a project implementer not obliged to obtain approval, etc. shall formulate a new
+environmental impact assessment report containing the opinions presented and agreed
+terms and conditions: Provided, That such project implementer shall hear the opinion of
+the Minister of Environment, if the opinions presented are different from agreed terms and
+conditions.
+(2) Upon completion of the procedures for collecting opinions and for consultations under
+Article 51 (1), a project implementer obliged to obtain approval, etc. shall formulate a new
+environmental impact assessment report containing the opinions presented and agreed
+terms and conditions, and shall submit it to the head of the approving agency: Provided,
+That such project implementer shall hear the opinion of the Minister of Environment via
+the head of the approving agency, if the opinions presented are different from agreed
+terms and conditions.
+
+--------------------------------------------------------------------------------
+법제처                                                            41                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(3) When the Minister of Environment intends to notify his or her opinion under the
+proviso of paragraph (1) or the proviso of paragraph (2), he or she shall bring the case to
+the  environmental  impact  assessment  council  for  deliberation  and  shall  notify  the
+environmental impact assessment and the relevant project implementer of his or her
+opinion within a period specified by Presidential Decree.
+(4) When the head of the approving agency notifies the Minister of Environment of
+whether agreed terms and conditions are reflected pursuant to Article 30 (3), he or she
+shall submit the environmental impact assessment report under paragraph (1) or (2), along
+with the notice.
+(5) The methods and procedures for preparing an environmental impact assessment to be
+formulated  again  under  paragraph  (1)  or  (2)  and  other  necessary  matters  shall  be
+prescribed  by  Presidential  Decree.
+ 
+            CHAPTER VI ENGAGEMENT OF AGENT FOR ENVIRONMENTAL IMPACT ASSESSMENT
+ 
+Article 53 (Conducting Environmental Impact Assessment by Proxy) (1) When a person who
+intends to conduct environmental impact assessment, etc. drafts the following documents
+(hereinafter referred to as "environmental impact assessment report, etc."), he or she may
+order a person who operates an environmental impact assessment business registered
+under Article 54 (1) (hereinafter referred to as "environmental impact assessment agent")
+to prepare such documents on his or her behalf: <Amended on May 29, 2016>
+1. A draft report or report on environmental impact assessment;
+2. A report on a follow-up survey of environmental impact;
+3. A summary assessment report;
+4. A plan for environmental conservation prescribed in Article 33.
+(2) When the head of any of the following institutions and organizations (hereinafter
+referred  to  as  "contracting  authority")  intends  to  order  a  person  to  prepare  an
+environmental impact assessment report, etc. prescribed in paragraph (1), he or she shall
+evaluate the agent's capability to perform the project, including technical capacity and
+management capability: <Newly Inserted on Jan. 20, 2015>
+1. A national agency or a local government;
+
+--------------------------------------------------------------------------------
+법제처                                                            42                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+2. A public enterprise or a quasi-governmental institution defined in Article 5 of the Act on
+the Management of Public Institutions;
+3. A local public corporation or a local government-invested public corporation defined in
+the Local Public Enterprises Act;
+4. Other institutions and organizations prescribed by Presidential Decree.
+(3) If the contacting authority deems it necessary, when evaluating a person's capability to
+perform a project prescribed in paragraph (2), the authority may request the Environmental
+Impact Assessment Association established pursuant to Article 71 to cooperate in the
+evaluation. In such cases, the Environmental Impact Assessment Association shall comply
+with such request, except in extenuating circumstances. <Newly Inserted on Jan. 20, 2015>
+(4) Matters necessary for the target, standards, and procedures for the evaluation of the
+capability to perform a project prescribed in paragraphs (2) and (3) and for cooperation
+therein, etc. shall be prescribed by Presidential Decree. <Newly Inserted on Jan. 20, 2015>
+(5) A person who intends to conduct environmental impact assessment shall comply with
+the following rules: <Amended on Jan. 20, 2015; May 29, 2016>
+1. No person shall copy any details of other environmental impact assessment reports to
+make an environmental impact assessment report;
+2.  No  person  shall  make  a  false  or  inadequate  document  or  data  in  preparing  an
+environmental  impact  assessment  report;
+3. Environmental impact assessment reports and basic data for such reports shall be
+retained for a period specified by Ordinance of the Ministry of Environment: Provided,
+That the foregoing shall not apply where environmental impact assessment reports, etc.
+are prepared in electronic documents and entered in the information support system
+prescribed in Article 70 (3), as prescribed by Ordinance of the Ministry of Environment;
+4.  Where  it  is  intended  to  sign  an  agency  contract  with  an  environmental  impact
+assessment agent on the preparation of environmental impact assessment reports, etc.,
+such agency contract shall be signed separately from the contracts on the formulation
+and implementation of a plan or a project subject to the relevant environmental impact
+assessment, etc.;
+5. Where a person intends to conclude an agency contract with an environmental impact
+assessment agent on the preparation of environmental impact assessment reports, etc.,
+no person shall request the environmental impact assessment agent to make an
+
+--------------------------------------------------------------------------------
+법제처                                                            43                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+inaccurate  report  by  fabricating  basic  data  for  preparing  environmental  impact
+assessment reports, etc. or the outcome of prediction and analysis of the environmental
+impact or by omitting important data affecting the assessment.
+(6)  The  criteria  for  judgment  on  false  or  inadequate  documentation  prescribed  in
+paragraph (5) 2 or 5 shall be prescribed by Ordinance of the Ministry of Environment.
+<Amended on Jan. 20, 2015; May 29, 2016>
+ 
+Article 54 (Registration of Environmental Impact Assessment Business) (1) A person who
+intends to engage in business as an agent for environmental impact assessment
+(hereinafter referred to as "environmental impact assessment business") shall be equipped
+with technical personnel, including environmental impact assessors, facilities, and
+equipment and shall be registered with the Minister of Environment.
+(2) If any material fact specified by Presidential Decree changes, such as technical
+personnel, and registered under paragraph (1), such change shall be registered.
+(3)  The  duties  of  an  environmental  impact  assessor  registered  as  one  of  technical
+personnel for an environmental impact assessment business under paragraph (1) or (2)
+shall be as follows:
+1. Surveys on present environmental conditions;
+2. Estimation and analysis of environmental impacts;
+3. Formulation of plans for environmental conservation and evaluation of alternatives;
+4. Preparation and management of environmental impact assessment reports, etc.
+(4) The technical personnel, facilities, and equipment required under paragraph (1), the
+rating of environmental impact assessment businesses, and the scope of business activities
+permissible for each rating shall be prescribed by Presidential Decree.
+ 
+Article 55 (Grounds for Disqualifications) The following persons shall be disqualified from
+being registered for an environmental impact assessment business: <Amended on Jan. 20, 2015;
+Nov. 26, 2019>
+1. A person who is under adult guardianship or limited guardianship;
+2. A person declared bankrupt but not reinstated yet;
+3. A person in whose case two years (or six months, if his or her registration was revoked
+under Article 58 (1) 4) have not passed since his or her registration was revoked under
+Article 58 (excluding cases where his or her registration was revoked as he or she meets
+
+--------------------------------------------------------------------------------
+법제처                                                            44                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+the requirements of subparagraph 1 or 2 of this Article);
+4. A person in whose case two years have not passed after a sentence of imprisonment
+with labor or any heavier punishment issued to him or her for a violation of this Act was
+completely executed (or is deemed to have been completely executed) or finally
+pardoned;
+5.  A  corporation  whose  representative  or  any  of  executive  officers  falls  under
+subparagraphs  1  through  4.
+ 
+Article 56 (Obligations of Environmental Impact Assessment Agents) (1) Every environmental
+impact assessment agent shall observe the following rules: <Amended on Nov. 28, 2017>
+1. No environmental impact assessment agent shall copy details of another environmental
+impact assessment report, etc. to make an environmental impact assessment, etc.;
+2. No environmental impact assessment agent shall formulate a false or deliberately
+deficient document in preparing an environmental impact assessment report, etc. and
+basic data for such report, etc.;
+3. Every environmental impact assessment agent shall retain environmental impact
+assessment reports, etc. and basic data for such reports, etc. for a period specified by
+Ordinance of the Ministry of Environment: Provided, That the foregoing shall not apply
+where environmental impact assessment reports, etc. are retained in the form of an
+electronic document in the information support system under Article 70 (3), as prescribed
+by Ordinance of the Ministry of Environment;
+4. No environmental impact assessment agent shall lend his or her registration certificate
+or title to a third party;
+5. No environmental impact assessment agent shall subcontract the environmental impact
+assessment, etc. that he or she is to conduct by proxy to a third party: Provided, That the
+foregoing shall not apply to the work of surveying and measuring the items subject to
+environmental impact assessment, etc. according to the requirements prescribed, and for
+the sectors specified, by Ordinance of the Ministry of Environment if the relevant work is
+to be subcontracted after obtaining approval from the person who has placed the order;
+6. Every environmental impact assessment agent shall undergo precise inspections under
+Article 11 of the Environmental Testing and Inspection Act for measuring instruments, if
+he or she keeps environmental measuring instruments and uses such instruments for
+measuring  air,  water  quality,  soil,  noise,  vibration,  etc.  to  apply  the  results  of
+
+--------------------------------------------------------------------------------
+법제처                                                            45                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+measurement to environmental impact assessment reports, etc. formulated by him or her.
+(2) The detailed criteria for judgment on false or inadequate documentation under
+paragraph (1) 2 and necessary matters concerning the procedures for approval and the
+subcontract prescribed in the proviso of paragraph (1) 5 shall be prescribed by Ordinance
+of the Ministry of Environment.<Amended on Nov. 28, 2017>
+ 
+Article 56-2 (Succession to Rights and Obligations) (1) Where an environmental impact
+assessment agent dies or transfers his or her business or where an incorporated
+environmental impact assessment agent is merged with another corporation, his or her
+heir, the transferee, or the corporation surviving the merger or established by the merger
+shall succeed to rights and obligations of the former environmental impact assessment
+agent as registered.
+(2) A person who succeeds to rights and obligations of the former environmental impact
+assessment agent prescribed in paragraph (1) shall report the succession to the Minister of
+Environment within one month, as prescribed by Ordinance of the Ministry of Environment.
+(3) A person reporting succession to rights and obligations prescribed in paragraph (2)
+shall succeed to the track record of environmental impact assessment reports previously
+prepared by his or her predecessor as an agent.
+[This Article Newly Inserted on May 29, 2016]
+ 
+Article 57 (Permanent or Temporary Closure of Business) If an environmental impact
+assessment agent intends to permanently or temporarily close his or her environmental
+impact assessment business, he or she shall report the closure to the Minister of
+Environment, as prescribed by Ordinance of the Ministry of Environment. The period for
+temporary closure in such cases shall not exceed two years.
+ 
+Article 58 (Revocation of Registration) (1) In any of the following cases, the Minister of
+Environment may cancel the registration of an environmental impact assessment agent or
+order an environmental impact assessment agent to suspend business operations for a
+specified period not exceeding six months: Provided, That registration shall be cancelled in
+any case falling under subparagraphs 1 through 3 and 7: <Amended on Jan. 20, 2015>
+1. Where an environmental impact assessment agent has been registered by fraud or other
+improper means;
+
+--------------------------------------------------------------------------------
+법제처                                                            46                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+2. Where an environmental impact assessment agent signs a new agency contract for
+environmental impact assessment during suspension of business operations;
+3.  Where  an  environmental  impact  assessment  agent  commits  again  any  offense
+punishable by suspension of business operations after being punished by the suspension
+of business operations twice during the latest one year;
+4. Where an environmental impact assessment agent fails to commence his or her
+environmental  impact  assessment  agency  business  within  two  years  after  being
+registered or has no track record of business performance as an environmental impact
+assessment agent for at least two consecutive years;
+4-2. Where an environmental impact assessment agent has undergone an evaluation of the
+capability to perform a project under Article 53 (2) by fraud or other wrongful means;
+5. Where an environmental impact assessment agent fails to be equipped with the
+technical personnel, facilities, and equipment under Article 54 (1);
+6. Where an environmental impact assessment agent changes any material fact without
+filing for the registration of the change, in violation of Article 54 (2);
+7. Where an environmental impact assessment agent falls under any subparagraph of
+Article 55: Provided, That the foregoing shall not apply where the corporation that falls
+under subparagraph 5 of Article 55 appoints a replacement for such executive officer
+within six months;
+8. Where an environmental impact assessment agent breaches an obligation under any
+subparagraph of Article 56 (1).
+(2)  The  guidelines  for  the  cancellation  of  registration  of  an  environmental  impact
+assessment business or for the issuance of an order to suspend business operations under
+paragraph (1) shall be prescribed by Ordinance of the Ministry of Environment, taking into
+consideration grounds for such dispositions, the degree of each violation, etc.
+ 
+Article 59 (Continuation of Business Operations by Environmental Impact Assessment Agents
+after Cancellation of Registration or Suspension of Business Operations) (1) A person
+whose registration is cancelled or business is suspended under Article 58 may continue his
+or her environmental impact assessment business only regarding the agency contracts
+concluded for environmental impact assessment before such disposition is made.
+(2) A person who continues his or her environmental impact assessment business under
+paragraph (1) shall be deemed an environmental impact assessment agent under this Act
+
+--------------------------------------------------------------------------------
+법제처                                                            47                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+until relevant business affairs are completed.
+(3) No person who continues his or her environmental impact assessment business under
+paragraph (1) shall conclude any new agency contract, other than the agency contracts
+signed for environmental impact assessment before the relevant disposition is made.
+(4) If the Minister of Environment finds that a person whose registration is cancelled on the
+ground specified in Article 58 (1) 1 or 5 is unable to continue environmental impact
+assessment properly, he or she may place restrictions on the performance of all or part of
+the agency contracts concluded for environmental impact assessment before the relevant
+disposition is made.
+ 
+Article 59-2 (Transfer of Effects of Administrative Dispositions) Where an environmental
+impact assessment agent transfers his or her business or where an incorporated
+environmental impact assessment agent is merged with another corporation, effects of an
+administrative disposition made under Article 58 for the preceding environmental impact
+assessment agent shall be transferred to the transferee or the corporation surviving the
+merger or the corporation established by the merger, for the period of one year from the
+end of the period of such disposition; and where the proceeding of an administrative
+disposition is pending, the proceeding may continue against the transferee or the
+corporation surviving the merger or the corporation established by the merger: Provided,
+That the foregoing shall not apply where the transferee or the corporation surviving the
+merger or the corporation established by the merger proves that the transferee or the
+corporation was not aware of such disposition or violation as at the time of transfer or
+merger.
+[This Article Newly Inserted on May 29, 2016]
+ 
+Article 60 (Reporting and Inspection) (1) If the Minister of Environment deems it necessary
+for ascertaining whether an environmental impact assessment business is properly
+operated, he or she may order the environmental impact assessment agent to submit a
+report or data, as necessary, and may authorize relevant public officials to enter the
+environmental impact assessment agent's office or place of business or any other place, as
+necessary, to inspect books of account, documents, and other things or to ask questions to
+people involved.
+
+--------------------------------------------------------------------------------
+법제처                                                            48                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(2) When it is intended to conduct an inspection under paragraph (1), the environmental
+impact assessment agent shall be informed of the inspection plan, including grounds for
+inspection and the scope of inspection, by no later than seven days before the date of
+inspection: Provided, That the foregoing shall not apply where it is necessary to conduct an
+inspection urgently or where it seems unlikely that an inspection will achieve its objectives
+due to risk of destruction of evidence, if the environmental impact assessment agent is
+informed of the inspection in advance.
+(3) A public official who intends to enter a place for inspection under paragraph (1) shall
+carry an identification certificate indicating his or her authority and produce it to people
+involved.
+ 
+Article 61 (Reporting on Performance of Environmental Impact Assessment Agents) (1) Each
+environmental impact assessment agent shall report the track record of his or her
+performance of an environmental impact assessment, including the agency agreement
+concluded for preparing an environmental impact assessment report, in the form
+prescribed by Ordinance of the Ministry of Environment to the Minister of Environment
+within 30 days from the day the agency agreement is signed, as prescribed by Ordinance
+of the Ministry of Environment. <Amended on May 29, 2016>
+(2) In order to systematically foster environmental impact assessment businesses, the
+Minister of Environment shall maintain the status of each environmental impact assessment
+agent and the track record of performance of each environmental impact assessment
+agent reported pursuant to paragraph (1). <Newly Inserted on May 29, 2016>
+(3) The Minister of Environment shall publicly announce the track record of performance of
+each environmental impact assessment agent and the details of administrative dispositions
+at  least  once  a  year,  as  prescribed  by  Ordinance  of  the  Ministry  of  Environment.
+<Amended  on  May  29,  2016>
+ 
+Article 62 (Guidelines for Calculation of Expenses for Engagement of Environmental Impact
+Assessment Agents) The Minister of Environment shall determine and publicly notify the
+guidelines for calculating necessary expenses incurred in engaging an agent for
+environmental impact assessment.
+
+--------------------------------------------------------------------------------
+법제처                                                            49                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+ 
+            CHAPTER VI-II FOSTERING OF ENVIRONMENTAL IMPACT ASSESSMENT ENGINEERS
+ 
+Article 62-2 (Fostering of Environmental Impact Assessment Engineers) (1) If the Minister of
+Environment deems necessary for efficiently utilizing persons recognized by the Minister of
+Environment prescribed in Article 62-3 (2) as those falling under any of the following
+subparagraphs and enhancing their expertise, he or she may formulate and implement
+policies for fostering, educating, and training environmental impact assessment engineers:
+1. A person specified by Presidential Decree, among persons who hold a qualification for
+technology related to environment under the National Technical Qualifications Act or
+other Act;
+2. A person who has the educational background or work experiences specified by
+Presidential Decree for technology related to environment;
+3. An environmental impact assessor.
+(2) Each environmental impact assessment engineer shall undergo the training and
+educational courses provided by the Minister of Environment as necessary for performing
+environmental impact assessments, as prescribed by Presidential Decree.
+(3) An employer who has an employee who shall undergo educational and training courses
+in  accordance  with  paragraph  (2)  shall  bear  expenses  incurred  in  relation  to  the
+educational  and  training  courses  provided  under  paragraph  (2).
+(4) Other matters necessary for fostering, educating, and training environmental impact
+assessment engineers shall be prescribed by Presidential Decree.
+[This Article Newly Inserted on May 29, 2016]
+ 
+Article 62-3 (Recognition of Environmental Impact Assessment Engineers) (1) A person who
+wishes to be recognized as an environmental impact assessment engineer shall file an
+application with the Minister of Environment, accompanied by a statement of facts
+necessary for management, including workplace, work experience, educational background,
+and qualification (hereinafter referred to as "work experience, etc."), as prescribed by
+Ordinance of the Ministry of Environment. The same procedure shall also apply where any
+of the facts specified by Ordinance of the Ministry of Environment in such application is
+changed.
+
+--------------------------------------------------------------------------------
+법제처                                                            50                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(2) If the applicant prescribed in paragraph (1) falls under any subparagraphs of Article 62-
+2 (1), the Minister of Environment shall recognize such applicant as an environmental
+impact assessment engineer.
+(3) If the Minister of Environment recognizes the applicant prescribed in paragraph (1) as
+an environmental impact assessment engineer pursuant to paragraph (2), he or she shall
+maintain and manage records of work experience, etc. of the environmental impact
+assessment engineer and shall issue a certificate of work experience, etc. (hereinafter
+referred to as "certificate of work experience as an environmental impact assessment
+engineer").
+(4) If the Minister of Environment deems necessary for ascertaining facts stated in an
+application filed pursuant to paragraph (1), he or she may request the head of any related
+institution, such as the head of a central administrative agency, a local government, a
+school prescribed in Article 2 of the Elementary and Secondary Education Act or Article 2
+of the Higher Education Act, a government authority implementing a project, or the
+institution or business to which the applying environmental impact assessment engineer
+belongs or belonged, to submit related materials. In such cases, the person shall comply
+with such request, except in extenuating circumstances.
+(5) Matters necessary for filing an application for recognizing as an environmental impact
+assessment engineer prescribed in paragraph (1) and matters necessary for issuance,
+management,  etc.  of  a  certificate  of  work  experience  as  an  environmental  impact
+assessment engineer prescribed in paragraph (3) shall be prescribed by Ordinance of the
+Ministry of Environment.
+[This Article Newly Inserted on May 29, 2016]
+ 
+Article 62-4 (Revocation of Recognition of Environmental Impact Assessment Engineers) (1) In
+any of the following cases, the Minister of Environment may revoke recognition of an
+environmental impact assessment engineer or may suspend the recognition for a period
+not exceeding three years: Provided, That the recognition shall be revoked, in cases falling
+under subparagraphs 1 and 2:
+1. If an environmental impact assessment engineer commits fraud or other misconduct to
+be recognized as an environmental impact assessment engineer;
+2. If a person recognized as an environmental impact assessment engineer has his or her
+national technical qualification or qualification as an environmental impact assessor
+
+--------------------------------------------------------------------------------
+법제처                                                            51                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+revoked under Article 16 of the National Technical Qualifications Act or Article 65 of this
+Act;
+3. If a person recognized as an environmental impact assessment engineer has his or her
+national technical qualification or qualification as an environmental impact assessor
+suspended under Article 16 of the National Technical Qualifications Act or Article 65 of
+this Act;
+4. If an environmental impact assessment engineer fails to undergo the educational and
+training courses specified in Article 62-2 (2), without justifiable grounds;
+5. If an environmental impact assessment engineer lends his or her certificate of work
+experience as an environmental impact assessment engineer to other person or allows
+other person to conduct business activities as an environmental impact assessment
+engineer in his or her name;
+6. If an environmental impact assessment engineer makes an environmental impact
+assessment report by copying the details of another environmental impact assessment
+report;
+7. If an environmental impact assessment engineer, intentionally or by negligence, makes a
+false environmental impact assessment report or document or makes an inaccurate
+report by omitting important data affecting the assessment;
+8. If any administrative agency makes a request to suspend business operations of an
+environmental impact assessment engineer under any statute or regulation.
+(2) If an environmental impact assessment engineer falls under any subparagraph of
+paragraph  (1),  the  person  who  placed  an  order  for  the  service  of  preparing  an
+environmental impact assessment report, etc., the head of the approving agency for the
+relevant project subject to environmental impact assessment, or the head of the consulting
+agency for environmental impact assessment, etc. shall notify the Minister of Environment
+of the fact; and if the Minister of Environment revokes or suspends the recognition of such
+environmental impact assessment engineer prescribed in paragraph (1), he or she may
+disclose relevant facts through the information support system prescribed in Article 70 (3).
+(3) An environmental impact assessment engineer who has the recognition revoked or
+suspended under paragraph (1) shall return his or her certificate of work experience as an
+environmental impact assessment engineer to the Minister of Environment, without delay;
+and the Minister of Environment shall take necessary measures, such as revision or deletion
+
+--------------------------------------------------------------------------------
+법제처                                                            52                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+of records of work experience, etc.
+(4) Matters necessary for the criteria, etc. for suspending recognition prescribed in
+paragraph (1) shall be prescribed by Ordinance of the Ministry of Environment.
+[This Article Newly Inserted on May 29, 2016]
+ 
+            CHAPTER VII ENVIRONMENTAL IMPACT ASSESSORS
+ 
+Article 63 (Environmental Impact Assessors) (1) Any person who intends to work as an
+environmental impact assessor shall pass a qualifying examination administered by the
+Minister of Environment. In such cases, the Minister of Environment shall issue a
+qualification certificate to a person who successfully passes such qualifying examination.
+(2) The following persons shall be disqualified from working as an environmental impact
+assessor:<Amended on Jan. 20, 2015; Nov. 26, 2019>
+1. A minor, a person under adult guardianship, or a person under limited guardianship;
+2. A person declared bankrupt but not yet reinstated;
+3. A person in whose case two years have not passed since imprisonment with labor or
+heavier punishment sentenced to him or her was completely executed (or is deemed to
+have been completely executed) or finally pardoned;
+4. A person who is under the suspension of the execution of imprisonment with labor or
+heavier punishment as declared by a court;
+5. A person in whose case three years have not passed since his or her qualification as an
+environmental  impact  assessor  was  revoked  (excluding  cases  where  his  or  her
+qualification was revoked as he or she meets the requirements of subparagraph 1 or 2 of
+this paragraph).
+(3) Deleted. <May 29, 2016>
+(4)  No  person,  other  than  environmental  impact  assessors,  shall  use  the  title
+"environmental  impact  assessor"  or  any  similar  title.
+(5) Deleted. <May 29, 2016>
+ 
+Article 63-2 (Qualifying Examination for Environmental Impact Assessors) (1) The Minister of
+Environment shall administer qualifying examinations for environmental impact assessors
+prescribed in Article 63 (1) (hereinafter referred to as "qualifying examination for
+environmental impact assessors") at least once a year: Provided, That the Minister of
+
+--------------------------------------------------------------------------------
+법제처                                                            53                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+Environment may determine not to administer examinations in a certain year, based on
+supply of and demand for environmental impact assessors. <Amended on Nov. 26, 2019>
+(2) A qualifying examination for environmental impact assessors prescribed in paragraph
+(1) shall consist of two separate rounds. Matters necessary for qualifications for applying
+for an examination, the testing method, and management of qualifications shall be
+prescribed by Presidential Decree.<Amended  on  Nov.  26,  2019>
+(3) The Minister of Environment may exempt any of the persons specified by Presidential
+Decree from the primary test for some subjects, as prescribed by Presidential Decree.
+(4) The Minister of Environment shall exempt persons who have passed the primary test
+only twice from the primary tests administered after the date of passing the primary test.
+(5) A person who engages in cheating prescribed by Presidential Decree on a qualifying
+examination for environmental impact assessors shall be suspended from taking the
+examination, or his or her passing grade shall be invalidated.<Newly Inserted on Nov. 26, 2019>
+(6) A person for whom a qualifying examination for environmental impact assessors is
+suspended or whose passing score is invalidated under paragraph (5) shall not apply for
+the qualifying examination for environmental impact assessors for three years from the
+date of his or her application.<Newly Inserted on Nov. 26, 2019>
+[This Article Newly Inserted on May 29, 2016]
+[Title Amended on Jul. 26, 2019]
+ 
+Article 64 (Obligations of Environmental Impact Assessors) (1) Every environmental impact
+assessor shall perform business affairs impartially in accordance with fundamental
+principles of environmental impact assessment.
+(2) No environmental impact assessor shall lend his or her qualification certificate as an
+environmental impact assessment agent, issued by the Minister of Environment, to a third
+party or allow a third party to work as an environmental impact assessor under his or her
+name.
+ 
+Article 65 (Revocation of Qualifications of Environmental Impact Assessors) (1) In any of the
+following cases, the Minister of Environment may revoke the qualification of an
+environmental impact assessor or suspend the qualification for a period not exceeding
+three years: Provided, That qualification shall be revoked in cases under subparagraphs 1,
+2, and 4: <Amended on Nov. 26, 2019>
+
+--------------------------------------------------------------------------------
+법제처                                                            54                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+1. If the environmental impact assessor is found to have obtained the qualification by fraud
+or other wrongful means;
+2. If the environmental impact assessor commits an offense punishable by the suspension
+of qualification again even after being punished by the suspension of qualification twice
+during the latest one year;
+3. If the environmental impact assessor, intentionally or by gross negligence, makes a false
+or inadequate environmental impact assessment report or document;
+4. If the environmental impact assessor fails to complete the education and training
+courses provided by the Minister of Environment which are necessary to perform
+environmental impact assessments without compelling reason, in violation of Article 62-2
+(2);
+5. Where the environmental impact assessor falls under any subparagraph of Article 63 (2);
+6. If the environmental impact assessor lends his or her qualification certificate to a third
+party or allows a third party to work as an environmental impact assessor under his or
+her name, in violation of Article 64 (2).
+(2) The guidelines for the revocation or suspension of qualifications of environmental
+impact assessors shall be prescribed by Ordinance of the Ministry of Environment, taking
+into consideration grounds for such dispositions, the gravity of each violation, etc.
+ 
+            CHAPTER VIII SUPPLEMENTARY PROVISIONS
+ 
+Article 66 (Publication of Environmental Impact Assessment Reports) (1) Unless publication is
+restricted by other statutes or regulations, the Minister of Environment may publish
+environmental impact assessment reports, etc. through the information support system,
+etc. under Article 70 (3).
+(2) If a person who submits an environmental impact assessment report requests the
+Minister of Environment not to publish all or part of the environmental impact assessment
+report on any of the following grounds, the Minister of Environment may elect not to
+publish it, place restrictions on the extent of publication, or delay publication:
+1. If it is necessary for national security, such as the protection of military secrets;
+2. If an environmental impact assessment report contains confidential information of the
+relevant project;
+
+--------------------------------------------------------------------------------
+법제처                                                            55                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+3. If a person requests non-publication, specifying the extent of publication, the timing for
+publication, etc., because publication appears to impede implementing the relevant plan
+or project.
+(3) The timing and methods for the publication of environmental impact assessment
+reports, etc. under paragraph (1) and other necessary matters shall be prescribed by
+Presidential Decree.
+(4) Except as otherwise provided for in paragraphs (1) through (3), matters not provided for
+in this Act in connection with the publication of environmental impact assessment reports,
+etc. shall be governed by the provisions of the Official Information Disclosure Act.
+ 
+Article 66-2 (Publication of Violations of Consultations on Environmental Impact Assessment)
+(1) Where an administrative disposition is determined against any project implementer
+falling under any of the following cases, the Minister of Environment may publish the name
+of its place of business, its violation, details of the disposition, etc.: Provided, That the
+foregoing shall not apply when such publication is ineffective due to the closure of its
+business, etc.:
+1. Premature implementation of a project in violation of Articles 34 (1) and 47 (1);
+2. Failure to implement any agreed terms or conditions in violation of Articles 35 (1) and
+Article 49 (1).
+(2) The detailed criteria, contents, methods, etc. of publication prescribed in paragraph (1)
+shall be prescribed by Ordinance of the Ministry of Environment.
+[This Article Newly Inserted on Nov. 28, 2017]
+ 
+Article 67 (Hearings) When the Minister of Environment intends to make any of the following
+dispositions, he or she shall hold a hearing:
+1. Cancellation of registration of an environmental impact assessment agent under Article
+58;
+2. Revocation of qualifications of an environmental impact assessor under Article 65.
+ 
+Article 68 (Tasks to be Performed by Specialized Institutions) In order to efficiently conduct
+environmental impact assessments, etc., the Minister of Environment may authorize the
+National Institute of Environmental Research, the Korea Environment Institute, or other
+specialized institution to perform the following tasks: <Amended on May 29, 2016>
+
+--------------------------------------------------------------------------------
+법제처                                                            56                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+1. Development, formulation, amendment of various indexes necessary for environmental
+impact assessments, etc.;
+2. Evaluation of validity of techniques for environmental impact assessments, etc. and
+techniques for estimation and development of such techniques;
+3.  Operation  of  the  information  support  system  related  to  environmental  impact
+assessment  prescribed  in  Article  70  (3);
+4. Other missions necessary for efficiently conducting environmental impact assessments,
+etc.
+[Title Amended on May 29, 2016]
+ 
+Article 69 (Duty of Confidentiality) No environmental impact assessment agent,
+environmental impact assessor, expert conducting or formerly conducting a review of an
+environmental impact assessment report, or person who works or worked for a specialized
+institution as an officer or employee shall divulge confidential information acquired in the
+course of performing his or her duties in connection with environmental impact
+assessments, etc. to a third party or misappropriate such confidential information.
+ 
+Article 70 (Establishment and Operation of Information Support System for Environmental
+Impact Assessment) (1) In order to improve the expertness, objectivity, predictability, etc. of
+environmental impact assessments, etc., the Minister of Environment shall collect and
+disseminate the information related to environmental impact assessments, etc.
+(2) The Minister of Environment shall formulate plans necessary for improving technology
+for environmental impact assessments, etc. and for training specialized human resources.
+(3) The Minister of Environment shall establish and operate an information support system
+related  to  environmental  impact  assessments,  etc.,  so  as  to  collect  and  distribute
+information prescribed in paragraph (1) and publish environmental impact assessment
+reports, etc. under the proviso of Article 53 (5) 3, the proviso of Article 56 (1) 3, and
+Articles 62-4 (2) and 66 (1). <Amended on Jan. 20, 2015; May 29, 2016>
+(4) The Minister of Environment shall establish and operate an information system for
+managing the status of environmental impact assessment agents and the track records of
+performance of environmental impact assessment agents prescribed in Article 61 (2) and
+for managing records of work experience, etc. of environmental impact assessment
+engineers prescribed in Article 62-3 (3). <Newly Inserted on May 29, 2016>
+
+--------------------------------------------------------------------------------
+법제처                                                            57                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(5) Matters necessary for establishing and operating the information support system
+prescribed in paragraph (3) and the information system prescribed in paragraph (4) shall
+be determined by the Minister of Environment. <Amended on May 29, 2016>
+ 
+Article 71 (Environmental Impact Assessment Association) (1) Environmental impact
+assessment agents and persons who are engaged in business related to environmental
+impact assessments, etc. may establish an environmental impact assessment association
+(hereafter in this Chapter referred to as the "Association") for the surveys, research,
+education, and publicity on environmental impact assessments, etc. and other business
+activities related to environmental impact assessments, etc.
+(2) The Association shall be in the form of a corporation.
+(3) The establishment of the Association is subject to prior permission from the Minister of
+Environment.
+(4) If the Minister of Environment finds that the Association is operated in breach of any
+statute or regulation or any provision of its articles of incorporation, he or she may order
+the Association to amend its articles of incorporation or business plan or replace officers
+with others.
+(5) Except as otherwise expressly provided for in this Act, the Association shall be governed
+by the provisions concerning incorporated associations referred to in the Civil Act.
+ 
+Article 72 (Delegation or Entrustment of Authority) (1) The Minister of Environment may
+delegate part of his or her authority under this Act to the heads of regional environmental
+agencies and offices, as prescribed by Presidential Decree.
+(2) The Minister of Environment may entrust the head of the Association or the head of a
+specialized institution with some business affairs assigned to him or her, as prescribed by
+Presidential Decree.
+(3) Officers and employees of the Association or a specialized institution, who carry out
+business affairs entrusted under paragraph (2), or officers and employees of the Korean
+Environment Institute or a specialized institution, who carry out business affairs under
+Article 41 (1) or (2) or 68, shall be deemed public officials for the purposes of applying the
+provisions of Articles 129 through 132 of the Criminal Act to them.
+
+--------------------------------------------------------------------------------
+법제처                                                            58                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+ 
+            CHAPTER IX PENALTY PROVISIONS
+ 
+Article 73 (Penalty Provisions) Any of the following persons shall be punished by
+imprisonment with labor for not more than five years, or by a fine not exceeding 50 million
+won: <Amended on Nov. 28, 2017>
+1. A person who fails to comply with an order issued to suspend construction works under
+Article 34 (3) or 40 (2);
+2. A project implementer who fails to comply with an order to suspend construction works
+or reinstate the site prescribed in Article 34 (4) or 40 (4);
+3. A person who fails to comply with an order issued to suspend construction works or
+take measures under Article 34 (3) or (4) (limited to where an order is issued to reinstate
+the site), which shall apply mutatis mutandis pursuant to Article 47 (3).
+ 
+Article 74 (Penalty Provisions) (1) Any of the following persons shall be punished by
+imprisonment with labor for not more than two years or by a fine not exceeding 20 million
+won: <Amended on Jul. 20, 2015; Jun. 29, 2016; Dec. 28, 2017>
+1. A project implementer who fails to conduct the follow-up survey of environmental
+impacts prescribed in Article 36 (1);
+1-2. A project implementer who fails to undergo re-assessment prescribed in Article 41;
+2. A project implementer who fails to comply with an order to suspend construction works
+or reinstate the site prescribed in Article 40 (2) or (4), which shall apply mutatis mutandis
+pursuant to Article 49 (2);
+3. A person who copies details of another environmental impact assessment report, etc. to
+make an environmental impact assessment report, etc., in violation of Article 53 (5) 1 or
+56 (1) 1;
+4. A person who prepares a false environmental impact assessment report, etc., in violation
+of Article 53 (5) 2 or 56 (1) 2;
+4-2. A person who fails to retain environmental impact assessment reports, etc. and basic
+data for preparing such reports, etc., in violation of Article 53 (5) 3 or 56 (1) 3;
+4-3. A person who requests a person to prepare an inaccurate report by fabricating
+environmental impact assessment reports, etc., basic data for preparing such reports, etc.,
+or the outcomes of prediction and analysis of the environmental impact or by omitting
+
+--------------------------------------------------------------------------------
+법제처                                                            59                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+important data affecting the assessment, in violation of Article 53 (5) 5;
+5. A person who engages in business as an agent for environmental impact assessment
+without being registered under Article 54 (1);
+6. A person who is registered under Article 54 (1) by fraud or other improper means;
+7. A person who concludes any new agency contract for environmental impact assessment
+after his or her registration is cancelled for violation of Article 59 (3) or during a period
+for suspension of business operations.
+(2) Any of the following persons shall be punished by imprisonment with labor for not
+more than one year or by a fine not exceeding 10 million won:<Amended on May 29, 2016;
+Nov. 28, 2017; Nov. 26, 2019>
+1. A person who commences construction works without completing environmental impact
+assessments, etc., in violation of Article 22 or 43;
+2. A person who commences construction works without undergoing or before completing
+the procedures for consultation or re-consultation (where grounds for re-consultation
+arise while construction work is partially underway, referring to before the procedures for
+re-consultation are completed), in violation of Article 34 (1) or 47 (1);
+3. A person who refuses to submit data, or obstructs or evades, entry for inspection
+without good cause, in violation of Article 39 (2) (including cases to which the aforesaid
+provisions shall apply mutatis mutandis pursuant to Article 49 (2));
+4. A person who lends his or her registration certificate or title to a third party, in violation
+of Article 56 (1) 4;
+5. A person who subcontracts environmental impact assessment, etc. to a third party, in
+violation of Article 56 (1) 5;
+6. A person who refuses to submit data or to report or undergo an inspection without
+good cause, in violation of Article 60 (1);
+6-2. A person who submits a false document regarding matters necessary for managing
+work experience, etc. as a document accompanying an application or an application for a
+revision filed under Article 62-3 (1);
+7. A person who lends his or her qualification certificate to a third party or allows a third
+party to work as an environmental impact assessor under his or her name, in violation of
+Article 64 (2);
+
+--------------------------------------------------------------------------------
+법제처                                                            60                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+8. A person who divulges or misappropriates confidential information, in violation of Article
+69.
+ 
+Article 75 (Joint Penalty Provisions) If the representative of a corporation or an agent or
+employee of, or any other person employed by the corporation or an individual commits
+any violations under Article 73 or 74 in conducting the business affairs of the corporation
+or individual, the corporation or individual shall be subject to a fine prescribed in that
+Article in addition to punishing the violators accordingly: Provided, That the same shall not
+apply to cases where such corporation or individual has not been neglected to pay due
+attention and supervision concerning the business in order to prevent such violation.
+ 
+Article 76 (Administrative Fines) (1) Any of the following persons shall be subject to an
+administrative fine not exceeding 50 million won: <Newly Inserted on Nov. 28, 2017>
+1. A project implementer who fails to comply with an order to take a measure prescribed
+in Article 40 (1).
+2. A project implementer who fails to comply with an order to take other necessary
+measures prescribed in Article 40 (4);
+3. A project implementer who fails to comply with an order to take a measure prescribed
+in Article 41 (3).
+(2)  A  person  who  commences  construction  works  without  undergoing  or  before
+completing the procedures for consultation on amendment, in violation of Article 34 (1)
+(where grounds for consultation on amendment arise while construction work is partially
+underway,  referring  to  before  the  procedures  for  consultation  on  amendment  are
+completed) shall be subject to an administrative fine not exceeding 20 million won.
+<Amended on Nov. 26, 2019>
+(3) Any of the following persons shall be subject to an administrative fine not exceeding 10
+million won:<Amended on Jan. 20, 2015; Nov. 28, 2017>
+1. A person who fails to conduct a part of a follow-up survey of environmental impacts, in
+violation of Article 36 (1);
+2. A person who fails to give notice or to take necessary measures, in violation of Article
+36 (2);
+2-2. A person who fails to comply with an order to take necessary measures (excluding an
+order to suspend construction works or reinstate the site) prescribed in Article 40 (1) or
+
+--------------------------------------------------------------------------------
+법제처                                                            61                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+(4), which shall apply mutatis mutandis under Article 49 (2);
+3. A person who prepares an inadequate environmental impact assessment report, etc., in
+violation of Article 53 (5) 2 or 56 (1) 2;
+4. A project implementer who fails to conclude an agency contract for the formulation of
+environmental  impact  assessment  reports,  etc.  separately  from  contracts  on  the
+formulation  and  implementation  of  a  plan  or  a  project  subject  to  the  relevant
+environmental  impact  assessment,  etc.,  in  violation  of  Article  53  (5)  4;
+5. A person who uses the title "environmental impact assessor" or any similar title, in
+violation of Article 63 (4).
+(4) Any of the following persons shall be subject to an administrative fine not exceeding
+five million won:<Amended on Jan. 20, 2015; May 29, 2016; Nov. 28, 2017; Jun. 12, 2018; Nov. 26, 2019>
+1. A person who fails to record the progress of performance of agreed terms and
+conditions in the management record book or to keep the management record book at
+the project site, in violation of Article 35 (2);
+2. A person who fails to designate a manager or give notice of designation, in violation of
+Article 35 (3);
+3. A person who fails to give notice of the results of a follow-up survey of environmental
+impacts, in violation of Article 36 (1);
+4. A person who fails to give notice of commencement, completion, or suspension of a
+project, in violation of Article 37 (1);
+5. A person who fails to give notice of the matters specified by Ordinance of the Ministry
+of Environment, such as the progress of performance of agreed terms and conditions
+and the grounds for succession, in violation of Article 38 (2);
+6. A person who commences construction works without undergoing or before completing
+the procedures for consultation on amendment, in violation of Article 47 (1) (where
+grounds for consultation on amendment arise while construction work is partially
+underway, referring to before the procedures for consultation on amendment are
+completed) ;
+7. Deleted; <May 29, 2016>
+8. A person who makes a change with respect to any material fact without registering such
+change, in violation of Article 54 (2);
+
+--------------------------------------------------------------------------------
+법제처                                                            62                                                       국가법령정보센
+터
+「ENVIRONMENTAL IMPACT ASSESSMENT ACT」
+8-2. A person who fails to report succession to rights and obligations, in violation of Article
+56-2 (2);
+9. A person who fails to report the track record of performance as an environmental
+impact assessment agent, in violation of Article 61 (1).
+(5) Any of the following persons shall be subject to an administrative fine not exceeding
+three million won:<Newly Inserted on May 29, 2016; Nov. 28, 2017>
+1. An environmental impact assessment engineer who fails to undergo the educational and
+training courses specified in Article 62-2 (2), without good cause;
+2. An employer who refuses to bear expenses in accordance with Article 62-2 (3) or
+imposes a disadvantage on an environmental impact assessment engineer on the ground
+of expenses borne by the employer;
+3. An environmental impact assessment engineer who fails to return his or her certificate of
+work experience as an environmental impact assessment engineer, in violation of Article
+62-4 (3).
+(6) Administrative fines prescribed in paragraphs (1) through (5) shall be imposed and
+collected by the Minister of Environment, as prescribed by Presidential Decree.<Amended on
+May 29, 2016; Nov. 28, 2017; Nov. 26, 2019>
+
+--------------------------------------------------------------------------------

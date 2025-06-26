@@ -1,0 +1,2549 @@
+Metadata for pdf/todo/Housing Developers (Control and Licensing) Act 196.pdf: {'format': 'PDF 1.7', 'title': 'a8ed1925-b134-4420-9da8-15c62acc9839 1..53', 'author': '', 'subject': '', 'keywords': '', 'creator': 'PTC Arbortext Publishing Engine', 'producer': 'PDFlib+PDI 10.0.1p8 (C++/Win64)', 'creationDate': "D:20250211132700+08'00'", 'modDate': '', 'trapped': '', 'encryption': None, 'country': 'Singapore'}
+
+Country found in pdf/todo/Housing Developers (Control and Licensing) Act 196.pdf: Singapore
+
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+HOUSING DEVELOPERS
+(CONTROL AND LICENSING)
+ACT 1965
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT 1983
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+Housing Developers
+(Control and Licensing)
+Act 1965
+ARRANGEMENT OF SECTIONS
+PART 1
+PRELIMINARY
+Section
+1.
+Short title
+2.
+Interpretation
+3.
+Appointment of Controller, inspectors, etc.
+PART 2
+LICENSING OF HOUSING DEVELOPERS
+4.
+Housing development to be carried out only by licensed housing
+developer
+5.
+Licences not to be granted in certain cases
+6.
+Restriction on use of words “housing developer” and on use of
+certain other words
+7.
+Revocation or suspension of licence
+PART 3
+DUTIES OF LICENSED HOUSING DEVELOPERS
+8.
+Controller to be informed of alteration
+9.
+Licensed housing developer to open and maintain Project
+Account
+10.
+Audited accounts
+11.
+Information on housing development and sale of housing
+accommodation
+12.
+Sale, disposal, etc., of business requires consent of Controller
+Informal Consolidation – version in force from 9/3/2025
+1
+2020 Ed.
+
+--------------------------------------------------------------------------------
+PART 3A
+PREVENTION OF MONEY LAUNDERING
+AND FINANCING OF TERRORISM*
+Section
+12A.
+Prohibition against anonymous accounts
+12B.
+Customer due diligence measures, additional measures and
+measures relating to targeted financial sanctions
+12C.
+Record keeping
+12D.
+Suspicious transaction reporting
+12E.
+Programmes and measures to prevent money laundering and
+terrorism financing
+12F.
+Person disqualified to be substantial shareholder
+PART 3B
+MONITORING AND ENFORCEMENT POWERS*
+13.
+Appointment of auditors
+13A.
+Application of Companies Act 1967
+14.
+Controller or inspector may investigate licensed housing
+developers
+15.
+Special investigation of licensed housing developers
+16.
+Examination of affairs of licensed housing developer
+17.
+Production of books, accounts and documents of licensed
+housing developer
+17A.
+Investigation and enforcement powers in relation to show units
+18.
+Action by Minister if licensed housing developer unable to meet
+obligations or is conducting business to the detriment of
+purchasers or the public
+19.
+Control of licensed housing developer by company or statutory
+board
+20.
+Punishment for failure to comply with directions of Minister
+21.
+Licensed housing developer under control of company or
+statutory board to cooperate with company or statutory board
+and Controller
+PART 4
+POWER TO MAKE RULES AND TO ISSUE DIRECTIONS
+22.
+Rules
+23.
+Power to give directions
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+2
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+PART 5
+GENERAL
+Section
+24.
+Immunity of Government, Controller, etc.
+25.
+Individuals not eligible to take part in management of business
+of licensed housing developers
+26.
+Penalty for offences not otherwise provided for
+27.
+Offences by bodies corporate, etc.
+27A.
+Composition of offences
+28.
+Exemption
+29.
+Consent of Public Prosecutor
+An Act for the licensing and control of housing developers.
+[1 October 1965]
+PART 1
+PRELIMINARY
+Short title
+1. This Act is the Housing Developers (Control and Licensing) Act
+1965.
+Interpretation
+2.—(1) In this Act, unless the context otherwise requires —
+“accounts” has the meaning given by section 4(1) of the
+Companies Act 1967;
+“authorised officer” means a public officer or an officer of a
+public
+authority
+authorised
+by
+the
+Controller
+under
+section 3(5);
+“building project” means a building project comprising units of
+housing accommodation;
+“certificate of statutory completion” has the meaning given by
+section 2(1) of the Building Control Act 1989;
+Housing Developers
+(Control and Licensing)
+Act 1965
+3
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+“company” means any company incorporated, formed or
+registered under the provisions of the Companies Act 1967
+or any corresponding previous written law;
+“Controller” means the Controller of Housing appointed under
+section 3(1);
+“Deputy Controller” means the Deputy Controller of Housing
+appointed under section 3(3)(a);
+“develop” means to construct or cause to construct housing
+accommodation, including any building operations in, on,
+over or under the land for the purpose of erecting housing
+accommodation and the sale by a housing developer of land
+which would be appurtenant to the housing accommodation;
+“FATF” means the intergovernmental body known as the
+Financial Action Task Force;
+[Act 54 of 2018 wef 28/06/2023]
+“FATF Recommendations” means the recommendations issued
+by the FATF from time to time relating to the prevention of
+money laundering and the financing of terrorism;
+[Act 54 of 2018 wef 28/06/2023]
+“housing accommodation” includes a building or tenement
+wholly or principally constructed, adapted or intended for
+human habitation or for human habitation and as business
+premises;
+“housing developer” means any —
+(a) person;
+(b) group
+of
+persons,
+whether
+in
+partnership
+or
+otherwise;
+(c) society, whether a cooperative society or otherwise;
+(d) company; or
+(e) limited liability partnership,
+who or which engages in or undertakes housing development,
+but does not include any —
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+4
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(f) bank which is in possession of a valid licence granted
+by the Monetary Authority of Singapore under the
+Banking Act 1970; or
+(g) insurer licensed under section 11 of the Insurance
+Act 1966,
+so long as such bank or insurer only lends or provides money
+for housing development;
+“housing development” means the business of —
+(a) developing;
+(b) providing the money for developing or for the
+purchase of,
+more than 4 units of housing accommodation; or
+(c) developing and providing the money for the purchase
+of more than 4 units of housing accommodation
+resulting from such development;
+“inspector” means an inspector appointed under section 3(3)(b);
+“licence” means a licence granted under section 4(5);
+“licensed housing developer” means a housing developer
+holding a valid licence;
+“limited liability partnership” and “limited liability partnership
+agreement” have the meanings given by section 2(1) of the
+Limited Liability Partnerships Act 2005;
+“manager”, in relation to a limited liability partnership, has the
+meaning given by section 2(1) of the Limited Liability
+Partnerships Act 2005;
+“money laundering or terrorism financing offence” means an
+offence under —
+(a) sections 43 to 48 of the Corruption, Drug Trafficking
+and Other Serious Crimes (Confiscation of Benefits)
+Act (Cap. 65A)1;
+1Sections 43 to 48 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
+(Cap. 65A) are to be construed as sections 50 to 57 respectively of the Corruption, Drug Trafficking and Other
+Housing Developers
+(Control and Licensing)
+Act 1965
+5
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(b) the Terrorism (Suppression of Financing) Act 2002*;
+(c) any regulations made under the United Nations Act
+2001*;
+(d) section 12A(2), 12B(3), 12C(5), 12D(2), 12E(6) or
+12F(2) or any rules made under this Act for the
+prevention of money laundering and terrorism
+financing, or for the reporting of transactions which
+may
+involve
+money
+laundering
+or
+terrorism
+financing, necessary or expedient to give effect to
+any relevant FATF Recommendation; or
+(e) section 5A(5), 5B(5), 5C(6), 5D(2) or 5E(4) of the
+Sale of Commercial Properties Act 1979* or any rules
+made under that Act for the prevention of money
+laundering and terrorism financing, or for the
+reporting of transactions which may involve money
+laundering or terrorism financing, necessary or
+expedient to give effect to any relevant FATF
+Recommendation;
+[Act 54 of 2018 wef 28/06/2023]
+“partner”, in relation to a limited partnership, means a general
+partner as defined in the Limited Partnerships Act 2008;
+“public accountant” means any person registered or deemed to
+be registered under the Accountants Act 2004 as a public
+accountant;
+“public authority” means such board, authority or agency
+established by or under any public Act to perform or
+discharge any public function as the Minister approves for
+the purposes of section 3;
+“purchaser”, in relation to a licensed housing developer, means a
+person —
+(a) to whom the licensed housing developer grants an
+option to purchase from the licensed housing
+developer a unit of any housing accommodation in
+Serious Crimes (Confiscation of Benefits) Act 1992, according to section 20(1) of the Revised Edition of the
+Laws Act 1983.
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+6
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+a building project undertaken by that licensed
+housing developer; or
+(b) who agrees to purchase from the licensed housing
+developer a unit of any housing accommodation in a
+building project undertaken by that licensed housing
+developer,
+and includes a prospective purchaser;
+[Act 54 of 2018 wef 28/06/2023]
+“responsible position”, in relation to a housing developer,
+means —
+(a) in the case of a housing developer that is a
+company — a director, manager or secretary or a
+person in a position analogous to that of a director,
+manager or secretary;
+(b) in the case of a housing developer that is a
+society — a president, secretary or treasurer or a
+person in a position analogous to that of a president,
+secretary or treasurer;
+(c) in the case of a housing developer that is a
+partnership — a partner;
+(d) in the case of a housing developer that is a limited
+liability partnership — a partner or manager or a
+person in a position analogous to that of a manager;
+or
+(e) in the case of a housing developer that is a group of
+persons — any person in that group;
+“show unit” means any representation or reproduction of any
+house, flat or other housing accommodation, or any part
+thereof, that is built, or built and furnished, for viewing by
+prospective purchasers of, or otherwise for the purpose of
+promoting the sale of, the or any similar house, flat or other
+housing accommodation;
+Housing Developers
+(Control and Licensing)
+Act 1965
+7
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+“substantial shareholder”, in relation to a company, has the
+meaning given by section 81 of the Companies Act 1967*;
+[Act 54 of 2018 wef 28/06/2023]
+“unit” means a horizontal stratum of any building or part
+thereof, whether such stratum is on one or more levels, and
+which is intended for use in accordance with the provisions of
+any written law as a complete and separate unit for residential
+or commercial purpose.
+[26/2001; 17/2005; 37/2008; 11/2013; 15/2013]
+[*Updated to be consistent with the 2020 Revised Edition]
+(2) In this Act, unless it is expressly provided to the contrary,
+“group of persons” does not include a partnership.
+[37/2008]
+Appointment of Controller, inspectors, etc.
+3.—(1) The Minister may appoint a public officer or an officer of a
+public authority to be the Controller of Housing for the purposes of
+this Act.
+[15/2013]
+[Act 5 of 2025 wef 09/03/2025]
+(1A) An appointment under subsection (1) must be published in the
+Gazette.
+[Act 5 of 2025 wef 09/03/2025]
+(2) The Controller is, subject to any general or special directions of
+the Minister, responsible for the administration of this Act and must
+perform any duties imposed and may exercise any powers conferred
+upon him or her by this Act and any rules made under this Act.
+[15/2013]
+(3) The Controller may appoint, by name or office, from among
+public officers or officers of a public authority —
+(a) a Deputy Controller of Housing; and
+(b) any number of inspectors that may be required for the
+purposes of this Act.
+[15/2013]
+(4) The Deputy Controller may, subject to any directions that the
+Controller may specify, perform all or any of the functions of the
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+8
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+Controller or exercise all or any of the powers of the Controller
+conferred on the Controller by this Act and any rules made under this
+Act; and any reference in this Act and any rules made under this Act
+to the Controller includes a reference to the Deputy Controller.
+[15/2013]
+(5) The Controller may authorise any public officer or any officer
+of a public authority to perform all or any of the functions of the
+Controller or exercise all or any of the powers of the Controller
+conferred on the Controller by this Act or any rules made under this
+Act (except the power of delegation conferred by this subsection),
+subject to any conditions or limitations that are set out in this Act or
+that the Controller may specify by directions; and any reference in
+this Act and any rules made under this Act to the Controller includes a
+reference to such authorised officer.
+[15/2013]
+(6) In performing any function or exercising any power delegated
+under subsection (5), an authorised officer must comply with the
+Controller’s directions.
+[15/2013]
+(7) A delegation under this section does not prevent the exercise of
+any function or power under this Act or any rules made under this Act
+by the Controller.
+[15/2013]
+(8) The Controller, the Deputy Controller and every authorised
+officer and inspector —
+(a) are deemed to be public servants for the purposes of the
+Penal Code 1871; and
+(b) in relation to their administration, assessment, collection or
+enforcement of payment of composition sums, are deemed
+to be public officers for the purposes of the Financial
+Procedure Act 1966, and section 20 of that Act applies to
+such persons even though they are not or were not in the
+employment of the Government.
+[15/2013]
+Housing Developers
+(Control and Licensing)
+Act 1965
+9
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+PART 2
+LICENSING OF HOUSING DEVELOPERS
+Housing development to be carried out only by licensed
+housing developer
+4.—(1) No housing development may be carried out or undertaken
+in Singapore except by a housing developer who or which is in
+possession of a written licence from the Controller authorising it to do
+so.
+(2) Subject to subsection (4), a housing developer that desires to
+carry out or undertake housing development in Singapore may apply
+to the Controller, in the form and manner that the Controller may
+specify, for a licence and must provide —
+(a) if a company — a copy of the memorandum of association
+and articles of association or other instrument under which
+the company is incorporated;
+(b) if a group of persons or a partnership — a copy of any
+agreement between those persons or the partnership
+agreement, as the case may be;
+(c) if a society — the rules or by-laws of the society;
+(d) if a limited liability partnership — a copy of its limited
+liability partnership agreement or, in the absence of such
+agreement in writing, any other document which sets out
+the mutual rights and duties of the partners of the limited
+liability partnership;
+(e) a copy of the latest audited accounts of the partnership,
+society, company or limited liability partnership or, in the
+case of a person or group of persons, the audited accounts
+(if any) relating to any housing development undertaken by
+the person or group of persons; and
+(f) any other information that the Controller may require.
+[17/2005; 15/2013]
+(3) Any copy of any memorandum, articles of association,
+agreement, partnership agreement, limited liability partnership
+agreement or other document to that effect, rules or by-laws of a
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+10
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+society or audited accounts which is provided to the Controller under
+subsection (2) must be duly verified by a statutory declaration by the
+following person:
+(a) in the case of a company — by a senior officer of the
+company;
+(b) in the case of a partnership — by a partner;
+(c) in the case of a society — by the president or the secretary
+or person holding a position analogous to that of president
+or secretary;
+(d) in the case of a person or group of persons — by that
+person or by any person in the group of persons;
+(e) in the case of a limited liability partnership — by its
+manager.
+[17/2005; 15/2013]
+(4) The Controller may, on the request of a housing developer
+applying for a licence under subsection (2), modify or waive the
+requirement for the provision of any document or information
+mentioned in that subsection subject to any conditions that the
+Controller may impose.
+[15/2013]
+(5) Upon receiving an application under subsection (2), the
+Controller may, subject to section 5 —
+(a) grant a licence, unconditionally or subject to any
+conditions that the Controller considers fit for carrying
+out the purposes of this Act; or
+(b) refuse to grant a licence.
+[15/2013]
+(6) The Controller may at any time vary or revoke any existing
+conditions of a licence or impose conditions or additional conditions:
+Provided that —
+(a) the Controller must, prior to any such action, notify his or
+her intention to take such action against the housing
+developer concerned and must give the housing developer
+Housing Developers
+(Control and Licensing)
+Act 1965
+11
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+an opportunity to submit reasons or an explanation in
+writing why its licence should not be so amended;
+(b) any variation of the conditions, or additional conditions
+imposed, in exercise of the powers under this subsection,
+does not have retrospective effect.
+(7) Where a licence is subject to conditions, the housing developer
+concerned must comply with the conditions of the licence.
+(8) Any housing developer that contravenes subsection (1) shall be
+guilty of an offence and shall be liable on conviction to a fine not
+exceeding $100,000 and shall also be liable to imprisonment for a
+term not exceeding 5 years.
+[15/2013]
+(9) Any housing developer that fails to comply with any condition
+of its licence shall be guilty of an offence and shall be liable on
+conviction to a fine not exceeding $100,000 or to imprisonment for a
+term not exceeding 3 years or to both.
+[15/2013]
+(10) Any housing developer that is aggrieved by a decision of the
+Controller under subsection (5) or (6) may, within 10 days after it is
+notified of the decision, appeal to the Minister whose decision is final.
+[15/2013]
+Licences not to be granted in certain cases
+5.—(1) The Controller must not grant a licence under section 4(5)
+to a housing developer that —
+(a) is a company, unless the housing developer —
+(i) has an issued and paid-up capital of an amount that
+the Minister may prescribe; or
+(ii) has lodged with the Controller, in the form and
+manner and on any terms that the Controller may
+determine, a deposit or security of a sum that the
+Minister may prescribe;
+(b) is an individual, a group of persons, a partnership, a society
+or a limited liability partnership, unless the housing
+developer has lodged with the Controller, in the form
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+12
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+and manner and on any terms that the Controller may
+determine, a deposit or security of a sum that the Minister
+may prescribe;
+(c) has a person holding a responsible position therein who, at
+any time within a period of 5 years immediately before the
+date of the application by the housing developer under
+section 4(2) for a licence —
+(i) has been convicted (whether in Singapore or
+elsewhere)
+of
+an
+offence
+involving
+fraud
+or
+dishonesty; or
+(ii) has served any sentence of imprisonment (whether in
+Singapore or elsewhere) in respect of an offence
+involving fraud or dishonesty;
+[Act 54 of 2018 wef 28/06/2023]
+(d) is an undischarged bankrupt (whether in Singapore or
+elsewhere) or has an undischarged bankrupt (whether in
+Singapore or elsewhere) holding a responsible position
+therein;
+[Act 54 of 2018 wef 28/06/2023]
+(e) is an individual who has been convicted (whether before,
+on or after the date of commencement of section 3 of the
+Developers
+(Anti‑Money
+Laundering
+and
+Terrorism
+Financing) Act 2018) of any money laundering or
+terrorism financing offence;
+[Act 54 of 2018 wef 28/06/2023]
+(f) is a company, partnership, society or limited liability
+partnership which —
+(i) has been convicted (whether before, on or after the
+date
+of
+commencement
+of
+section
+3
+of
+the
+Developers
+(Anti‑Money
+Laundering
+and
+Terrorism Financing) Act 2018) of any money
+laundering or terrorism financing offence; or
+(ii) has an individual mentioned in paragraph (e) who
+holds or is to hold a responsible position in that
+Housing Developers
+(Control and Licensing)
+Act 1965
+13
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+company, partnership, society or limited liability
+partnership, as the case may be; or
+[Act 54 of 2018 wef 28/06/2023]
+(g) is a company which has as a substantial shareholder a
+person mentioned in paragraph (e) or (f).
+[15/2013]
+[Act 54 of 2018 wef 28/06/2023]
+(2) For the purposes of subsection (1)(a) and (b), the Minister may
+prescribe for different housing developers or classes of housing
+developers —
+(a) different amounts of issued and paid-up capital; or
+(b) different sums of deposit or security.
+[15/2013]
+Restriction on use of words “housing developer” and on use of
+certain other words
+6.—(1) Except with the Controller’s written consent, a person or
+body of persons (whether incorporated or unincorporated), not being
+a licensed housing developer, must not assume or use in relation to a
+business or any part of a business carried on by the person or body of
+persons the words “housing developer” or any of its derivatives or
+any word indicating the carrying on of housing development.
+[37/2008]
+(2) Any person or body of persons, not being a licensed housing
+developer, who contravenes subsection (1) shall be guilty of an
+offence and shall be liable on conviction to a fine not exceeding
+$100,000 or to imprisonment for a term not exceeding 3 years or to
+both.
+[15/2013]
+Revocation or suspension of licence
+7.—(1) If any licensed housing developer —
+(a) is carrying on its business, in the Controller’s opinion, in a
+manner detrimental to the interests of its purchasers or to
+the public;
+(b) has insufficient assets to cover its liabilities;
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+14
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(c) is, in the Controller’s opinion, contravening any provisions
+of this Act or of any rules made under this Act;
+(d) has ceased to carry on housing development in Singapore;
+(da) has been convicted (whether before, on or after the date of
+commencement
+of
+section
+4
+of
+the
+Developers
+(Anti‑Money Laundering and Terrorism Financing) Act
+2018) of any money laundering or terrorism financing
+offence;
+[Act 54 of 2018 wef 28/06/2023]
+(db) in the case of a company, has as a substantial shareholder a
+person mentioned in section 5(1)(e) or (f);
+[Act 54 of 2018 wef 28/06/2023]
+(e) has a person holding a responsible position therein in
+contravention of section 25(1) or (2);
+(f) has failed to comply with any condition attached to its
+licence;
+(g) has failed to comply with any direction issued by the
+Controller under this Act;
+(h) without
+reasonable
+excuse,
+fails
+to
+provide
+any
+information or particulars required by the Controller
+under section 11(2); or
+(i) provides or causes to be provided to the Controller any
+information or particulars (including any information or
+particulars in connection with its application for a licence
+under section 4(2)) which is false or misleading in a
+material particular,
+the Controller may revoke, or suspend for a period not exceeding
+12 months, any licence granted to the licensed housing developer.
+(2) However, the Controller must, prior to any such revocation or
+suspension under subsection (1), notify his or her intention to take
+such action against the licensed housing developer concerned and
+must give the licensed housing developer an opportunity to submit
+reasons or an explanation why its licence should not be revoked or
+suspended, as the case may be.
+[15/2013]
+Housing Developers
+(Control and Licensing)
+Act 1965
+15
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(3) Where the licence of a housing developer has been revoked or
+suspended under subsection (1), the licensed housing developer may,
+within 30 days of being notified of the revocation or suspension,
+appeal against the revocation or suspension (as the case may be) to
+the Minister whose decision is final and shall not be questioned in any
+court.
+[15/2013]
+PART 3
+DUTIES OF LICENSED HOUSING DEVELOPERS
+Controller to be informed of alteration
+8. A licensed housing developer must within 4 weeks of making
+any alteration —
+(a) if a company — in the memorandum of association and
+articles of association or other instrument under which it is
+incorporated;
+(b) if a society — in the rules or by‑laws of the society;
+(c) if a group of persons or partnership — in any agreement;
+(d) if a limited liability partnership — in the limited liability
+partnership agreement or other document to that effect,
+provide to the Controller written particulars of the alteration.
+[17/2005]
+Licensed housing developer to open and maintain Project
+Account
+9.—(1) Subject
+to
+subsection
+(10),
+every
+licensed
+housing
+developer must open and keep an account (called in this Act a
+Project Account) with a bank or finance company for each building
+project undertaken by the licensed housing developer.
+(2) The Controller may, on the application of the licensed housing
+developer, allow the licensed housing developer to open and keep
+more than one Project Account for a building project where —
+(a) the building project is to be developed in phases; or
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+16
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(b) the building project comprises units for 2 classes of use,
+namely residential and commercial purpose.
+[15/2013]
+(3) The licensed housing developer must pay into the Project
+Account of a building project the purchase moneys received by the
+licensed housing developer from the sale of the units in the building
+project and which are required by rules made under this Act to be paid
+into the Project Account.
+(4) The licensed housing developer must not withdraw any money
+from the Project Account except as authorised by rules made under
+this Act.
+(5) Subject to subsection (6)(b), all moneys in the Project Account
+are, despite any other written law to the contrary, deemed not to form
+part of the property of the licensed housing developer in the event —
+(a) the licensed housing developer enters into any composition
+or arrangement with the licensed housing developer’s
+creditors or has a receiving order or adjudication order
+made against the licensed housing developer; or
+(b) the licensed housing developer, being a company, goes into
+voluntary or compulsory liquidation.
+(6) Upon
+any
+of
+the
+events
+mentioned
+in
+subsection
+(5)
+occurring —
+(a) the moneys in the Project Account vest in the official
+receiver, trustee in bankruptcy or liquidator (as the case
+may be) to be applied for all or any of the purposes for
+which moneys in the Project Account are authorised by
+rules made under this Act to be withdrawn; and
+(b) any money remaining in the Project Account, after all
+payments have been made pursuant to paragraph (a) and all
+liabilities
+and
+obligations
+of
+the
+licensed
+housing
+developer under the sale and purchase agreements in
+respect of the building project have been fully discharged
+and fulfilled, must be held by the official receiver, trustee
+in bankruptcy or liquidator (as the case may be) as money
+belonging to the licensed housing developer to be applied
+Housing Developers
+(Control and Licensing)
+Act 1965
+17
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+in accordance with the law relating to bankruptcy or the
+winding up of companies.
+(7) The Minister may, if he or she thinks necessary, appoint the
+Auditor‑General or a public accountant to investigate the books,
+accounts and transactions of a Project Account.
+[15/2013]
+(8) The licensed housing developer must pay the Minister all the
+expenses of and incidental to the investigation mentioned in
+subsection (7).
+(9) Any account opened by a licensed housing developer at a bank
+or finance company for the purpose of depositing purchase moneys
+received from purchasers in respect of a building project before
+4 January 1985 is deemed to be a Project Account which has been
+opened pursuant to this section.
+(10) This section does not apply to any building project carried on
+by —
+(a) a licensed housing developer where all the units in the
+building project will not be offered for sale and purchase
+before the completion of the building project; or
+(b) a licensed housing developer that furnishes security to the
+Controller, in the form and manner and on any terms that
+the Controller may determine, for an amount equivalent to
+not less than 140% of the total cost of construction of the
+building project (as at the time of furnishing of the
+security) as certified by the architect in charge of the
+building project.
+[15/2013]
+(11) Any licensed housing developer that contravenes or fails to
+comply with subsection (1), (3) or (4) shall be guilty of an offence and
+shall be liable on conviction to a fine not exceeding $50,000 or to
+imprisonment for a term not exceeding one year or to both.
+[15/2013]
+(12) In this section —
+“building project” means a housing development comprising
+units to be used for residential purposes or both residential
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+18
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+and commercial purposes and includes, for the purposes of
+subsections (3) to (11), any phase of such housing
+development where such housing development has been
+approved by the competent authority under the Planning
+Act 1998 to be developed in phases;
+“unit” means a horizontal stratum of any building or part
+thereof, whether such stratum is on one or more levels, and is
+intended for use in accordance with the provisions of any
+written law as a complete and separate unit for residential or
+commercial purpose.
+Audited accounts
+10.—(1) Every licensed housing developer must within 6 months
+(or any extended period that the Controller may grant under
+subsection (2)) after the close of every financial year —
+(a) forward to the Controller; and
+(b) make available, for a continuous period of at least
+24 months, at its registered office (in the case of a
+company or limited liability partnership) or principal place
+of business (in any other case) during office hours, or on its
+Internet website, for inspection by the public without
+charge,
+a copy of its audited accounts for that financial year and the report
+made by its auditor under section 13 in respect of those audited
+accounts.
+[15/2013]
+(2) The Controller may extend the time for compliance with
+subsection (1) but not more than once and such extension must not in
+any case exceed 6 months.
+[15/2013]
+(3) Any licensed housing developer that fails to comply with any of
+the provisions of subsection (1) shall be guilty of an offence and shall
+be liable on conviction to a fine not exceeding $50,000.
+[15/2013]
+Housing Developers
+(Control and Licensing)
+Act 1965
+19
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+Information on housing development and sale of housing
+accommodation
+11.—(1) For the purpose of advising the Government or providing
+the public with information on the state of the property market for
+housing accommodation, the Controller may —
+(a) collect, compile and analyse information concerning
+housing
+developments,
+sale
+of
+units
+of
+housing
+accommodation and particulars of transactions relating to
+such sales;
+(b) use the information and particulars collected for purposes
+of any research study or survey by the Controller or any
+person with whom the Controller enters into any contract,
+agreement or arrangement pursuant to subsection (3); and
+(c) subject to subsection (4), make available, publish or
+disseminate the information and particulars collected, the
+results of any compilation, analysis, research study or
+survey or any abstract of those results.
+[15/2013]
+(2) Every licensed housing developer must provide to the
+Controller —
+(a) all
+information
+concerning
+every
+building
+project
+undertaken by the licensed housing developer and the
+sale of units in the building project, including the number
+of units that are made available for sale for any period of
+time;
+(b) all particulars of transactions, including the particulars of
+purchasers,
+intending
+purchasers
+and
+assignees
+of
+purchasers, in relation to the sale of units in every
+building project undertaken by the licensed housing
+developer; and
+(c) all information on and particulars of agreements (in
+addition to agreements for sale and purchase) entered or
+to be entered into with purchasers and intending purchasers
+in relation to the sale of units in every building project
+undertaken by the licensed housing developer,
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+20
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+that the Controller may by written notice require and in the form and
+manner and by the means and within the time or at the regular
+intervals that the Controller may specify in the notice.
+[15/2013]
+(3) Subject to subsection (4), the Controller may, with the
+Minister’s
+approval,
+enter
+into
+any
+contract,
+agreement
+or
+arrangement with any person for the purpose of compiling or
+analysing any information or particulars collected or carrying out any
+research study or survey under this section.
+[15/2013]
+(4) A person must not disclose any particulars, received under or
+pursuant to this section, of any purchaser, intending purchaser or
+assignee of any purchaser of any unit in a building project unless —
+(a) the disclosure is made for the purposes of this section and
+with the Minister’s prior approval;
+(b) the disclosure is in the form of statistics which do not
+identify the purchaser, intending purchaser or assignee;
+(c) the disclosure is to the Chief Statistician pursuant to his or
+her direction under section 6 of the Statistics Act 1973
+where the particulars are not exempted from section 6(2) of
+that Act from being provided;
+(d) the particulars are already in the public domain at the time
+of the disclosure; or
+(e) the disclosure is for the purposes of proceedings for an
+offence under this Act or any rules made under this Act or
+any report of those proceedings.
+[15/2013]
+(5) Any person who contravenes subsection (4) shall be guilty of an
+offence and shall be liable on conviction to a fine not exceeding
+$10,000 or to imprisonment for a term not exceeding 12 months or to
+both.
+[15/2013]
+Sale, disposal, etc., of business requires consent of Controller
+12.—(1) Every licensed housing developer must inform the
+Controller of any proposed arrangement or agreement for any sale
+Housing Developers
+(Control and Licensing)
+Act 1965
+21
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+or disposal of its business relating to housing development by
+amalgamation or otherwise or of any proposal for reconstruction.
+(2) The Controller may approve or withhold approval of such
+arrangement or reconstruction.
+(3) Any licensed housing developer that is aggrieved by a decision
+of the Controller under subsection (2) may, within 14 days of being
+notified of the decision, appeal to the Minister whose decision is final
+and shall not be questioned in any court.
+(4) Any licensed housing developer that fails to comply with
+subsection (1) shall be guilty of an offence.
+PART 3A
+PREVENTION OF MONEY LAUNDERING
+AND FINANCING OF TERRORISM*
+[*Updated to be consistent with the 2020 Revised Edition]
+Prohibition against anonymous accounts
+12A.—(1) A licensed housing developer must not, in connection
+with any housing development carried out or undertaken by the
+licensed housing developer, open or maintain any account (whether
+or not in a Project Account) for, or hold and receive moneys from —
+(a) an anonymous source; or
+(b) a purchaser with an obviously fictitious name.
+(2) A licensed housing developer that contravenes subsection (1)
+shall be guilty of an offence and shall be liable on conviction to a fine
+not exceeding $100,000.
+[Act 54 of 2018 wef 28/06/2023]
+Customer due diligence measures, additional measures and
+measures relating to targeted financial sanctions
+12B.—(1) A licensed housing developer must perform such
+customer due diligence measures as may be prescribed at such
+times as may be prescribed.
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+22
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(2) A licensed housing developer must perform —
+(a) the prescribed measures relating to targeted financial
+sanctions against terrorism; and
+(b) any prescribed additional measures which are necessary or
+expedient
+to
+give
+effect
+to
+any
+relevant
+FATF
+Recommendation.
+(3) A licensed housing developer that contravenes subsection (1) or
+(2) shall be guilty of an offence and shall be liable on conviction to a
+fine not exceeding $100,000.
+[Act 54 of 2018 wef 28/06/2023]
+Record keeping
+12C.—(1) A licensed housing developer must keep, for such period
+as may be prescribed, all documents and information (including any
+analysis performed) relating to a person that the licensed housing
+developer obtains as a result of performing the customer due
+diligence measures required by section 12B.
+(2) For the purposes of subsection (1), different periods may be
+prescribed for different documents and information.
+(3) A licensed housing developer must keep the documents and
+information required to be kept under subsection (1) in such form as
+may be prescribed.
+(4) A licensed housing developer must make the documents and
+information required to be kept under subsection (1) available upon
+request to the Controller or an inspector and such other authorities as
+may be prescribed.
+(5) A licensed housing developer that contravenes subsection (1),
+(3) or (4) shall be guilty of an offence and shall be liable on conviction
+to a fine not exceeding $100,000.
+[Act 54 of 2018 wef 28/06/2023]
+Suspicious transaction reporting
+12D.—(1) Where a licensed housing developer knows or has
+reasonable grounds to suspect any matter mentioned in section 39(1)
+of the Corruption, Drug Trafficking and Other Serious Crimes
+Housing Developers
+(Control and Licensing)
+Act 1965
+23
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(Confiscation of Benefits) Act, the licensed housing developer must,
+in accordance with section 39 of that Act2, disclose the matter to a
+Suspicious Transaction Reporting Officer under that Act by way of a
+suspicious transaction report.
+[Act 54 of 2018 wef 28/06/2023]
+(2) A licensed housing developer that contravenes subsection (1)
+shall be guilty of an offence and shall be liable on conviction to a fine
+not exceeding $100,000.
+[Act 54 of 2018 wef 28/06/2023]
+Programmes and measures to prevent money laundering and
+terrorism financing
+12E.—(1) Without limiting sections 12A to 12D, a licensed
+housing developer must, in relation to its business of carrying out
+or undertaking housing development in Singapore, implement
+adequate programmes and measures to prevent money laundering
+and terrorism financing.
+(2) A licensed housing developer must, in particular —
+(a) take appropriate steps to identify, assess and understand the
+money laundering and terrorism financing risks in relation
+to —
+(i) its purchasers;
+(ii) the countries or jurisdictions which its purchasers are
+from or in;
+(iii) the countries or jurisdictions in which the licensed
+housing developer has operations; and
+(iv) its services, transactions and delivery channels;
+(b) for the purpose of paragraph (a) —
+(i) document its risk assessments;
+2Sections 39 and 39(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits)
+Act are to be construed as sections 45 and 45(1) respectively of the Corruption, Drug Trafficking and Other
+Serious Crimes (Confiscation of Benefits) Act 1992, according to section 20(1) of the Revised Edition of the
+Laws Act 1983.
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+24
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(ii) consider all relevant risk factors before determining
+the overall level of risk and the appropriate type and
+extent of mitigation to be applied;
+(iii) keep its risk assessments up to date; and
+(iv) have appropriate mechanisms to provide its risk
+assessments to the Controller;
+(c) develop and implement internal policies, procedures and
+controls,
+which
+must
+be
+approved
+by
+its
+senior
+management, to manage and effectively mitigate the
+money
+laundering
+and
+terrorism
+financing
+risks
+identified by it or notified to it by the Controller,
+including —
+(i) making
+appropriate
+compliance
+management
+arrangements,
+including
+the
+appointment
+of
+a
+compliance officer at the management level; and
+(ii) applying adequate screening procedures when hiring
+employees;
+(d) have an ongoing programme to train employees on the
+internal policies, procedures and controls mentioned in
+paragraph (c);
+(e) have an independent audit function to test the internal
+policies,
+procedures
+and
+controls
+mentioned
+in
+paragraph (c); and
+(f) monitor the implementation of the internal policies,
+procedures and controls mentioned in paragraph (c), and
+enhance them if necessary.
+(3) The type and extent of the measures to be taken under
+subsections (1) and (2) must be appropriate having regard to the
+risk of money laundering and terrorism financing and the size of the
+licensed housing developer’s business.
+(4) Where a licensed housing developer is a company incorporated
+in Singapore and has a branch or subsidiary, whether in Singapore or
+elsewhere, the licensed housing developer must develop and
+Housing Developers
+(Control and Licensing)
+Act 1965
+25
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+implement a group‑level programme to prevent money laundering
+and terrorism financing, which programme —
+(a) must be applicable to the licensed housing developer’s
+branches and subsidiaries, whether in Singapore or
+elsewhere;
+(b) must include the measures specified under subsection (2);
+(c) must be appropriate to the business of the licensed housing
+developer’s branches and subsidiaries;
+(d) must be implemented effectively at the level of the licensed
+housing developer’s branches and subsidiaries;
+(e) must include policies and procedures for providing and
+sharing information required for the purposes of customer
+due diligence measures prescribed for the purposes of
+section 12B and generally for the management of risks
+relating to money laundering and terrorism financing; and
+(f) must include adequate safeguards on the confidentiality
+and use of information exchanged between the licensed
+housing developer and its branches and subsidiaries.
+(5) Where
+a
+licensed
+housing
+developer
+mentioned
+in
+subsection (4) has a branch or subsidiary in a country or territory
+outside Singapore that has laws for the prevention of money
+laundering or the financing of terrorism that differ from those in
+Singapore —
+(a) the
+licensed
+housing
+developer
+must
+require
+the
+management of that branch or subsidiary to apply the
+more stringent set of laws, to the extent that the law of the
+host country or territory permits; and
+(b) where that branch or subsidiary is unable to fully apply the
+more stringent set of laws, the licensed housing developer
+must report this to the Controller and must, in lieu of
+paragraph (a), comply with such directions as may be
+given by the Controller.
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+26
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(6) A licensed housing developer that contravenes subsection (1),
+(2), (4) or (5) shall be guilty of an offence and shall be liable on
+conviction to a fine not exceeding $100,000.
+[Act 54 of 2018 wef 28/06/2023]
+Person disqualified to be substantial shareholder
+12F.—(1) A person —
+(a) who has been convicted (whether before, on or after the
+date of commencement of section 5 of the Developers
+(Anti‑Money
+Laundering
+and
+Terrorism
+Financing)
+Act
+2018)
+of
+any
+money
+laundering
+or
+terrorism
+financing offence; or
+(b) if a company, partnership, society or limited liability
+partnership, which
+has an
+individual mentioned
+in
+paragraph (a) holding a responsible position in that
+company,
+partnership,
+society
+or
+limited
+liability
+partnership, as the case may be,
+must not be or become a substantial shareholder of a licensed housing
+developer, whether by increasing the person’s shareholding in the
+licensed housing developer or otherwise.
+(2) A person who contravenes subsection (1) shall be guilty of an
+offence and shall be liable on conviction to a fine not exceeding
+$100,000.
+[Act 54 of 2018 wef 28/06/2023]
+PART 3B
+MONITORING AND ENFORCEMENT POWERS*
+[Act 54 of 2018 wef 28/06/2023]
+[*Updated to be consistent with the 2020 Revised Edition]
+Appointment of auditors
+13.—(1) Every licensed housing developer must appoint annually
+an auditor whose duties are to make a report upon the annual accounts
+of the housing developer.
+Housing Developers
+(Control and Licensing)
+Act 1965
+27
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(2) The auditor must in every such report state in the auditor’s
+opinion whether —
+(a) the accounts are fully and fairly and properly drawn up;
+(b) the accounts exhibit a true and correct statement of the
+licensed housing developer’s affairs; and
+(c) if the auditor has called for explanation or information
+from the officers or agents of the licensed housing
+developer, the explanation or information has been
+satisfactory.
+[15/2013]
+(3) If a licensed housing developer fails to appoint an auditor under
+subsection (1) or at any time fails to fill a vacancy for an auditor, the
+Minister has power to appoint an auditor and may fix the
+remuneration to be paid by the licensed housing developer to the
+auditor.
+(4) The following persons are not eligible for appointment as an
+auditor for a licensed housing developer:
+(a) a person having an interest in the business of the licensed
+housing developer, as a shareholder or otherwise;
+(b) a director, officer, employee or agent of the licensed
+housing developer.
+(5) Any person appointed as an auditor to a licensed housing
+developer must forthwith cease to be its auditor if, after such
+appointment, the person —
+(a) acquires an interest in the business of the licensed housing
+developer as a shareholder or otherwise; or
+(b) becomes a director, officer, employee or agent of the
+licensed housing developer.
+(6) The duties, powers and liabilities imposed and conferred under
+section 16 in relation to an investigation by the Controller or an
+inspector of the affairs of a licensed housing developer under
+section 14 or 15 are imposed and conferred upon auditors appointed
+under this section.
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+28
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+Application of Companies Act 1967
+13A.—(1) Sections 162 and 163 of the Companies Act 1967 apply
+to a licensed housing developer which is an exempt private company
+subject to the modification that any reference in those sections to an
+exempt private company does not include a reference to the licensed
+housing developer; and every such licensed housing developer must
+comply with the prohibitions in section 162 (relating to loans to its
+directors) and section 163 (relating to loans to persons connected with
+the directors of the lending company) of that Act as if it were not an
+exempt private company.
+[15/2013]
+(2) In this section, “exempt private company” has the meaning
+given by section 4(1) of the Companies Act 1967.
+[15/2013]
+Controller or inspector may investigate licensed housing
+developers
+14.—(1) The Controller or an inspector may investigate, under
+conditions of secrecy, the books, accounts and transactions of each
+licensed housing developer.
+[Act 54 of 2018 wef 28/06/2023]
+(2) In particular, in order to ascertain whether Part 3A*, or any rules
+made under section 22 for the prevention of money laundering and
+terrorism financing, or for the reporting of transactions which may
+involve money laundering or terrorism financing, necessary or
+expedient to give effect to any relevant FATF Recommendation, is
+being complied with, the Controller may, on the Controller’s own
+motion or upon receiving any written complaint, require a licensed
+housing developer, or a partner or director of or other person holding
+a responsible position in a licensed housing developer which is not an
+individual or a sole proprietorship —
+(a) to produce any document; or
+(b) to provide any information,
+to the Controller, an inspector or any person appointed by the
+Controller.
+[Act 54 of 2018 wef 28/06/2023]
+[*Updated to be consistent with the 2020 Revised Edition]
+Housing Developers
+(Control and Licensing)
+Act 1965
+29
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(3) The Controller, an inspector or the person appointed by the
+Controller under subsection (2) may —
+(a) retain the document provided and make and retain copies
+of the document; and
+(b) record the information provided.
+[Act 54 of 2018 wef 28/06/2023]
+(4) The Controller may use the document or information obtained
+as a basis, or disclose the document, information or explanation, for
+all or any of the following purposes:
+(a) an investigation of any criminal offence, and any
+subsequent criminal proceedings, under this Act or any
+other written law;
+(b) any regulatory action under section 7 against a licensed
+housing developer.
+[Act 54 of 2018 wef 28/06/2023]
+(5) A person —
+(a) who intentionally alters, suppresses or destroys any
+document or information which the person has been
+required under this section to produce or provide; or
+(b) who, in producing any document or providing any
+information required under this section, makes any
+statement which the person knows or ought reasonably
+to know that, or is reckless as to whether, it is false or
+misleading in a material particular,
+shall be guilty of an offence and shall be liable on conviction to a fine
+not exceeding $100,000.
+[Act 54 of 2018 wef 28/06/2023]
+(6) Any power under this section to require a person to produce any
+document or to provide information includes the power —
+(a) to take reasonable steps to require the person to produce
+the document or provide the information immediately or at
+a place and time specified in writing;
+(b) to require the person to provide an explanation of the
+document or information;
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+30
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(c) if the document or information is not produced or
+provided, to require the person to state, to the best of the
+person’s knowledge and belief, where the document or
+information is; and
+(d) if the information is recorded in electronic form or
+otherwise than in legible form, to require the information
+to be made available in the form or format specified by the
+Controller, inspector or the person appointed by the
+Controller under subsection (2), or in a legible form.
+[Act 54 of 2018 wef 28/06/2023]
+Special investigation of licensed housing developers
+15. The Minister may at any time direct the Controller or any
+inspector to make an investigation, under conditions of secrecy, of the
+books, accounts and transactions of a licensed housing developer, if
+the Minister has reason to believe that a licensed housing
+developer —
+(a) is carrying on its business in a manner detrimental to the
+purchasers or other persons dealing with the licensed
+housing developer;
+(b) has insufficient assets to cover its liabilities; or
+(c) is contravening any of the provisions of this Act or any
+rules made under this Act.
+[15/2013]
+Examination of affairs of licensed housing developer
+16.—(1) The Minister may cause an investigation, under conditions
+of secrecy, to be made by the Controller or an inspector of the affairs
+of a licensed housing developer on the application of at least
+5 purchasers.
+(2) Such an application must be supported by such evidence as the
+Minister may require to be satisfied that the applicants have good
+reason for requiring an investigation.
+(3) The Minister may also require the applicants to give such
+security as the Minister may consider sufficient to pay the costs of
+any investigation.
+Housing Developers
+(Control and Licensing)
+Act 1965
+31
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+Production of books, accounts and documents of licensed
+housing developer
+17.—(1) For the purposes of an investigation under sections 14, 15
+and 16, a licensed housing developer must give the Controller or an
+inspector access to its books, accounts and documents and must give
+any information and facilities that may be required to conduct the
+investigation.
+(2) Any licensed housing developer that does not, as is required
+under subsection (1), give the Controller or an inspector access to its
+books, accounts and documents or give any information and facilities
+that may be required to conduct an investigation shall be guilty of an
+offence and shall be liable on conviction to a fine not exceeding
+$50,000 and to a further fine not exceeding $5,000 for every day
+during which the offence continues after conviction.
+[15/2013]
+Investigation and enforcement powers in relation to show units
+17A.—(1) For the purpose of ascertaining whether a licensed
+housing developer has complied with any provision of this Act or any
+rules made under this Act, any condition attached to its licence
+granted under section 4(5) or any direction issued by the Controller
+under subsection (3) in relation to any show unit, the Controller
+may —
+(a) enter, inspect and examine, at any reasonable time, any
+premises which are used or proposed to be used as or to
+display the show unit;
+(b) take any measurements, photographs and video recordings
+of the premises (including anything in the premises) that he
+or she thinks fit; and
+(c) take and retain any article, material, model, map, plan or
+document, or any sample or copy thereof, in the premises
+as he or she thinks fit.
+[15/2013]
+(2) The licensed housing developer and the occupier of the
+premises must give the Controller such information, cooperation
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+32
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+and means as the Controller may require for the exercise of any of his
+or her powers under subsection (1).
+[15/2013]
+(3) If the Controller is of the opinion that a licensed housing
+developer has not complied with any provision of this Act or any
+rules made under this Act or any condition attached to its licence
+granted under section 4(5) in relation to any show unit, the Controller
+may direct the licensed housing developer —
+(a) to take any action that the Controller may consider
+necessary to rectify any matter relating to the show unit;
+(b) to publish, display or disseminate any information relating
+to the show unit or the building project connected with the
+show unit, in the form and manner and within the time, that
+the Controller may determine; or
+(c) to refrain from displaying or advertising, or cease any
+display or advertisement of, the show unit until the
+Controller is satisfied that the licensed housing developer
+has taken all such actions directed by the Controller under
+this subsection.
+[15/2013]
+(4) Any person who —
+(a) obstructs or delays the Controller in the exercise of any of
+his or her powers under subsection (1); or
+(b) fails to comply with any requirement of the Controller
+under subsection (2),
+shall be guilty of an offence and shall be liable on conviction to a fine
+not exceeding $10,000 or to imprisonment for a term not exceeding
+6 months or to both.
+[15/2013]
+(5) Any person who fails to comply with any direction of the
+Controller under subsection (3) shall be guilty of an offence and shall
+be liable on conviction to a fine not exceeding $10,000.
+[15/2013]
+(6) In this section, the reference to the Controller includes a
+reference to an inspector.
+[15/2013]
+Housing Developers
+(Control and Licensing)
+Act 1965
+33
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+Action by Minister if licensed housing developer unable to meet
+obligations or is conducting business to the detriment of
+purchasers or the public
+18.—(1) Where —
+(a) a licensed housing developer informs the Controller —
+(i) that it considers that it is likely to become unable to
+meet its obligations; or
+(ii) that it is about to suspend building operations;
+(b) a licensed housing developer becomes unable to meet its
+obligations to the purchasers or the public;
+(c) after investigation is made under section 14, 15 or 16, the
+Controller is of the opinion that a licensed housing
+developer —
+(i) is likely to become unable to meet its obligations to
+the purchasers or the public; or
+(ii) is carrying on its business in a manner detrimental to
+the interests of the purchasers or to the public; or
+(d) the licence of a housing developer has been revoked under
+section 7(1),
+the Minister may take any action that he or she may consider
+necessary in the circumstances.
+(2) Without limiting subsection (1), the Minister may for the
+purposes of taking action under subsection (1) —
+(a) require
+the
+licensed
+housing
+developer
+or
+housing
+developer (as the case may be) to take any steps that he
+or she may consider necessary to rectify any matter;
+(b) appoint a person to advise the licensed housing developer
+or housing developer (as the case may be) in the conduct of
+its business or winding up of its business;
+(c) direct a company or statutory board to assume control and
+carry on the business of the licensed housing developer or
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+34
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+housing developer (as the case may be) on any terms and
+conditions that the Minister may determine; or
+(d) direct the licensed housing developer to apply to the
+General Division of the High Court for the winding up of
+the business of the licensed housing developer or housing
+developer, as the case may be.
+[42/2005; 40/2019]
+Control of licensed housing developer by company or statutory
+board
+19.—(1) Where a company or statutory board has assumed control
+of
+the
+business
+of
+a
+licensed
+housing
+developer
+under
+section 18(2)(c), the company or statutory board is, subject to
+subsection (2), to remain in control of and continue to carry on the
+business of the licensed housing developer for the time that the
+Minister may by written order direct.
+(2) Where a company or statutory board has assumed control of the
+business of a licensed housing developer under section 18(2)(c) or
+ceases to control the business of a licensed housing developer under
+this section, the Controller must notify that fact in the Gazette.
+Punishment for failure to comply with directions of Minister
+20. A licensed housing developer or housing developer (as the case
+may be) that fails to —
+(a) take any steps that the Minister may require under
+section 18(2)(a);
+(b) act in accordance with the advice given by a person
+appointed by the Minister under section 18(2)(b); or
+(c) apply to the General Division of the High Court for the
+winding up of its business in accordance with a direction
+made by the Minister under section 18(2)(d),
+shall be guilty of an offence and shall be liable on conviction to a fine
+not exceeding $100,000 and to a further fine not exceeding $5,000 for
+every day during which the offence continues after conviction.
+[42/2005; 15/2013; 40/2019]
+Housing Developers
+(Control and Licensing)
+Act 1965
+35
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+Licensed housing developer under control of company or
+statutory board to cooperate with company or statutory board
+and Controller
+21.—(1) Where a company or statutory board has assumed control
+of
+the
+business
+of
+a
+licensed
+housing
+developer
+under
+section 18(2)(c), the licensed housing developer must submit its
+business to the control of the company or statutory board and must
+give the company or statutory board any facilities that the Controller
+may require to carry on the business of that licensed housing
+developer.
+(2) Any licensed housing developer that fails to comply with
+subsection (1) or with any requirement of the Controller under that
+subsection shall be guilty of an offence and shall be liable on
+conviction to a fine not exceeding $100,000 and to a further fine not
+exceeding $5,000 for every day during which the offence continues
+after conviction.
+[15/2013]
+PART 4
+POWER TO MAKE RULES AND TO ISSUE DIRECTIONS
+Rules
+22.—(1) The Minister may make rules for or in respect of every
+purpose which he or she considers necessary for carrying out the
+provisions of this Act and for the prescribing of any matter which is
+authorised or required under this Act to be prescribed.
+(2) Without limiting subsection (1), the Minister may by rules
+provide for —
+(a) the regulation of the advertisements of a licensed housing
+developer;
+(b) the
+prevention
+of
+money
+laundering
+and
+terrorism
+financing, or the reporting of transactions which may
+involve
+money
+laundering
+or
+terrorism
+financing,
+necessary or expedient to give effect to any relevant
+FATF Recommendation, including describing —
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+36
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(i) the measures which a licensed housing developer
+must take when preparing for or carrying out any
+transaction concerning a housing development;
+(ii) the customer due diligence measures which must be
+conducted by a licensed housing developer to
+prevent money laundering and the financing of
+terrorism; and
+(iii) the additional measures relating to targeted financial
+sanctions against terrorism which a licensed housing
+developer must take when preparing for or carrying
+out
+any
+transaction
+concerning
+a
+housing
+development;
+[Act 54 of 2018 wef 28/06/2023]
+(c) the payments by the purchaser before and during the
+construction
+of
+the
+house,
+flat
+or
+other
+housing
+accommodation, including —
+(i) the amount of the maximum initial deposit that may
+be accepted from a purchaser before an agreement to
+purchase land or for the construction of a house, flat
+or other housing accommodation is signed, or on
+signing the agreement, and the conditions that must
+be satisfied before a licensed housing developer may
+sign such an agreement with a purchaser;
+(ii) the stage of construction at which each instalment
+becomes payable and the percentage in relation to the
+total cost of the house that is payable in respect of
+each instalment;
+(iii) the requirements to be fulfilled before a licensed
+housing developer can require a purchaser to pay an
+instalment which is due; and
+(iv) the amount of the purchase price, expressed as a
+percentage of the total price which the purchaser is
+not required to pay before the certificate of statutory
+completion is issued;
+Housing Developers
+(Control and Licensing)
+Act 1965
+37
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(ca) the disclosure in any contract that is to be used by a
+licensed
+housing
+developer,
+the
+licensed
+housing
+developer’s agent or nominee and a purchaser of any
+limited common property comprised in the development;
+(d) the form or forms of the contract that must be used by a
+licensed
+housing
+developer,
+the
+licensed
+housing
+developer’s agent or nominee and a purchaser as a
+condition of the grant of a licence under this Act;
+(e) the conditions, which if used in any contract between a
+licensed
+housing
+developer,
+the
+licensed
+housing
+developer’s agent or nominee and a purchaser, are void;
+(f) the fees and charges to be paid for any matter or thing to be
+done for the purposes of this Act;
+(g) the regulation of the Project Account including —
+(i) prescribing moneys which must be paid into a
+Project Account; and
+(ii) prescribing moneys which may be withdrawn from a
+Project
+Account
+and
+the
+conditions
+for
+such
+withdrawal;
+(h) the regulation of show units for the purpose of ensuring
+that any information about or depiction of any house, flat
+or other housing accommodation offered for sale is
+accurate, including but not limited to —
+(i) requiring a licensed housing developer or any class
+of licensed housing developers to erect, set up or
+display a show unit or such type of show units as may
+be prescribed;
+(ii) prescribing matters, for compliance by a licensed
+housing developer or any class of licensed housing
+developers, relating to the erection, furnishing,
+decoration, setting up or display of a show unit and
+its contents, including but not limited to its size,
+dimensions, boundaries, structures, installations,
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+38
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+articles, materials and finishes, features, facilities,
+fittings and appliances; and
+(iii) requiring a licensed housing developer or any class
+of licensed housing developers to give visitors to a
+show unit any information, permissions and facilities
+that may be prescribed;
+(i) the requirements relating to any information, map, plan,
+model or sample of any material that a licensed housing
+developer or any class of licensed housing developers may
+display or provide to any purchaser or prospective
+purchaser in relation to any house, flat or other housing
+accommodation offered for sale;
+(j) the regulation of the manner in which any house, flat or
+other housing accommodation is marketed or promoted, or
+the sale thereof is carried out, by a licensed housing
+developer or any class of licensed housing developers;
+(k) the regulation of the collection or receipt by a licensed
+housing developer of any cheque or other form of payment
+in respect of the sale or prospective sale of any house, flat
+or other housing accommodation;
+(l) the publication (in any form and manner that the Controller
+may specify) by a licensed housing developer of the
+purchase price and any other particulars that may be
+prescribed relating to an option to purchase or the sale of a
+house, flat or other housing accommodation; and
+(m) the regulation of any benefit (in the form of payment,
+rebate, reimbursement, allowance, discount, voucher or
+other benefit (whether monetary or otherwise)) that a
+licensed housing developer (or the licensed housing
+developer’s agent or nominee) may give or agree to give
+to a purchaser or an intending purchaser in relation to or
+conditional upon the sale of any house, flat or other
+housing accommodation including —
+(i) requiring the disclosure of such benefit (including its
+amount or monetary value) in a contract between the
+Housing Developers
+(Control and Licensing)
+Act 1965
+39
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+licensed housing developer (or the licensed housing
+developer’s agent or nominee) and the purchaser or
+intending purchaser;
+(ii) requiring the publication (in any form and manner
+that the Controller may specify) by the licensed
+housing developer of the amount or monetary value
+of such benefit; and
+(iii) prescribing the manner of determining the monetary
+value of such benefit.
+[47/2004; 15/2013; 35/2017]
+(3) Rules made under this section —
+(a) may prescribe that any act or omission in contravention of
+any rules is an offence;
+(aa) may prescribe such saving and transitional provisions as
+may be necessary or expedient;
+[Act 54 of 2018 wef 28/06/2023]
+(b) may provide for the imposition of penalties not exceeding a
+fine of $5,000 or imprisonment for a term of 3 years or
+both; and
+(c) may provide that in addition to such fine or imprisonment
+or fine and imprisonment, the penalty may extend to the
+cancellation or suspension of a licence.
+(4) The Minister may, instead of making any rules prescribing the
+forms which by this Act are required to be or may be prescribed,
+authorise the Controller to prescribe any forms that the Controller
+thinks fit.
+(5) All rules made under this section must be published in the
+Gazette and must be presented to Parliament as soon as possible after
+publication.
+Power to give directions
+23.—(1) The Controller may give written directions to a licensed
+housing developer to ensure compliance with the provisions of this
+Act or any rules made under this Act.
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+40
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(2) Any licensed housing developer that fails to act or omits to act
+in accordance with the Controller’s directions shall be guilty of an
+offence and shall be liable on conviction to a fine not exceeding
+$50,000 and to a further fine not exceeding $5,000 for every day
+during which the offence continues after conviction.
+(3) The licensed housing developer may, in addition to such a
+punishment, be liable to have its licence cancelled or suspended.
+[15/2013]
+PART 5
+GENERAL
+Immunity of Government, Controller, etc.
+24.—(1) The Government, the Controller, the Deputy Controller,
+any authorised officer, any inspector or any other officer of the
+Government shall not be subject to any action, claim or demand by or
+liability to any person in respect of anything done or omitted to be
+done in good faith in pursuance or in execution or intended execution
+or in connection with the execution or intended execution of any
+power conferred upon the Government, the Controller, the Deputy
+Controller or such authorised officer, inspector or other officer by this
+Act.
+[15/2013]
+(2) For the purposes of this section, the Minister and any public
+officer are deemed to be an officer of the Government.
+Individuals not eligible to take part in management of business
+of licensed housing developers
+25.—(1) Without affecting any additional restriction or prohibition
+in any other written law relating to companies, cooperative societies,
+societies, limited liability partnerships or partnerships, any person
+who —
+(a) is convicted of an offence (whether in Singapore or
+elsewhere) involving fraud or dishonesty must not hold or
+continue to hold a responsible position in a licensed
+Housing Developers
+(Control and Licensing)
+Act 1965
+41
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+housing developer until the expiry of 5 years after the later
+of the following dates:
+(i) the date of his or her conviction;
+(ii) where he or she is sentenced to a term of
+imprisonment, the date of his or her release from
+imprisonment;
+(b) is an undischarged bankrupt (whether in Singapore or
+elsewhere) must not hold or continue to hold a responsible
+position in a licensed housing developer;
+[Act 54 of 2018 wef 28/06/2023]
+(ba) any person who has been convicted (whether before, on or
+after the date of commencement of section 8 of the
+Developers
+(Anti‑Money
+Laundering
+and
+Terrorism
+Financing) Act 2018) of any money laundering or
+terrorism financing offence must not hold or continue to
+hold
+a
+responsible
+position
+in
+a
+licensed
+housing
+developer; and
+[Act 54 of 2018 wef 28/06/2023]
+(c) holds a responsible position in a licensed housing
+developer must cease to hold that position if he or she
+suspends payment to or compounds with his or her
+creditors.
+[15/2013]
+(2) Any person holding a responsible position in a licensed housing
+developer that —
+(a) is wound up by a court under the Insolvency, Restructuring
+and Dissolution Act 2018 or the Limited Liability
+Partnerships Act 2005;
+(b) is dissolved under section 33, 34 or 35 of the Partnership
+Act 1890 or section 24 of the Societies Act 1966; or
+(c) is wound up under section 83 of the Co-operative Societies
+Act 1979,
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+42
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+must not, except with the Minister’s written approval, hold or
+continue to hold a responsible position in any other licensed housing
+developer.
+[15/2013; 40/2018]
+(3) Any person who contravenes subsection (1)(a), (b) or (c) or (2)
+shall be guilty of an offence and shall be liable on conviction to a fine
+not exceeding $50,000 or to imprisonment for a term not exceeding
+3 years or to both.
+[15/2013]
+[Act 54 of 2018 wef 28/06/2023]
+(4) Any person who contravenes subsection (1)(ba) shall be guilty
+of an offence and shall be liable on conviction to a fine not exceeding
+$100,000.
+[Act 54 of 2018 wef 28/06/2023]
+Penalty for offences not otherwise provided for
+26. Any licensed housing developer that is guilty of an offence for
+which no penalty is expressly provided shall be liable on conviction
+to a fine not exceeding $50,000.
+[15/2013]
+Offences by bodies corporate, etc.
+27.—(1) Where an offence under this Act or any rules made under
+this Act committed by a body corporate is proved —
+(a) to have been committed with the consent or connivance of
+an officer; or
+(b) to be attributable to any neglect on the officer’s part,
+the officer as well as the body corporate shall be guilty of the offence
+and shall be liable to be proceeded against and punished accordingly.
+[15/2013]
+(2) Where the affairs of a body corporate are managed by its
+members, subsection (1) applies in relation to the acts and defaults of
+a member of the body corporate in connection with the member’s
+functions of management as if the member were a director of the body
+corporate.
+[15/2013]
+Housing Developers
+(Control and Licensing)
+Act 1965
+43
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(3) Where an offence under this Act or any rules made under this
+Act committed by a partnership is proved —
+(a) to have been committed with the consent or connivance of
+a partner of the partnership; or
+(b) to be attributable to any neglect on the partner’s part,
+the partner as well as the partnership shall be guilty of the offence and
+shall be liable to be proceeded against and punished accordingly.
+[15/2013]
+(4) Where an offence under this Act or any rules made under this
+Act committed by a limited liability partnership is proved —
+(a) to have been committed with the consent or connivance of
+a partner or manager of the limited liability partnership; or
+(b) to be attributable to any neglect on the part of such a
+partner or manager,
+the partner or manager (as the case may be) as well as the limited
+liability partnership shall be guilty of the offence and shall be liable to
+be proceeded against and punished accordingly.
+[15/2013]
+(5) Where an offence under this Act or any rules made under this
+Act committed by an unincorporated association (other than a
+partnership) is proved —
+(a) to have been committed with the consent or connivance of
+an officer of the unincorporated association or a member of
+its governing body; or
+(b) to be attributable to any neglect on the part of such an
+officer or member,
+the officer or member (as the case may be) as well as the
+unincorporated association shall be guilty of the offence and shall
+be liable to be proceeded against and punished accordingly.
+[15/2013]
+(6) In this section —
+“body corporate” and “partnership” exclude a limited liability
+partnership;
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+44
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+“officer” —
+(a) in relation to a body corporate, means any director,
+member of the committee of management, chief
+executive, manager, secretary or other similar officer
+of the body corporate and includes any person
+purporting to act in any such capacity; or
+(b) in relation to an unincorporated association (other
+than
+a
+partnership),
+means
+the
+president,
+the
+secretary, or any member of the committee of the
+unincorporated association, or any person holding a
+position analogous to that of president, secretary or
+member of such a committee, and includes any
+person purporting to act in any such capacity;
+“partner” includes a person purporting to act as a partner.
+[15/2013]
+(7) The Minister may make rules to provide for the application of
+any provision of this section, with any modifications that the Minister
+considers appropriate, to any body corporate, limited liability
+partnership or unincorporated association formed or recognised
+under the law of a territory outside Singapore.
+[15/2013]
+Composition of offences
+27A.—(1) The Controller may compound any offence under this
+Act or any rules made under this Act which is prescribed as a
+compoundable offence by collecting from a person reasonably
+suspected of having committed the offence a sum not exceeding
+the lower of the following:
+(a) one half of the amount of the maximum fine that is
+prescribed for the offence;
+(b) $5,000.
+[15/2013]
+(2) On payment of the sum of money, no further proceedings may
+be taken against that person in respect of the offence.
+[15/2013]
+Housing Developers
+(Control and Licensing)
+Act 1965
+45
+2020 Ed.
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+(3) The Minister may make rules to prescribe the offences which
+may be compounded.
+[15/2013]
+(4) All sums collected under this section must be paid to the
+Consolidated Fund.
+[15/2013]
+Exemption
+28. The Minister may by notification in the Gazette exempt any
+person, group of persons, partnership, society or company or
+statutory board from all or any of the provisions of this Act.
+[37/2008]
+Consent of Public Prosecutor
+29. No prosecution in respect of any offence under this Act may be
+instituted except with the consent of the Public Prosecutor.
+[15/2010]
+Housing Developers
+(Control and Licensing)
+Act 1965
+2020 Ed.
+46
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+LEGISLATIVE HISTORY
+HOUSING DEVELOPERS
+(CONTROL AND LICENSING)
+ACT 1965
+This Legislative History is a service provided by the Law Revision Commission
+on a best-efforts basis. It is not part of the Act.
+1. Ordinance 4 of 1965 — Housing Developers (Control and Licensing)
+Ordinance, 1965
+Bill
+:
+35/1964
+First Reading
+:
+12 November 1964
+Second Reading
+:
+19 November 1964
+Select Committee Report
+:
+Sessional Paper No. L.A. 1 of 1965
+Notice of Amendments
+:
+16 June 1965
+Third Reading
+:
+16 June 1965
+Commencement
+:
+1 October 1965
+2. 1970 Revised Edition — Housing Developers (Control and Licensing) Act
+(Chapter 250)
+Operation
+:
+31 July 1971
+3. Act 29 of 1984 — Housing Developers (Control and Licensing)
+(Amendment) Act 1984
+Bill
+:
+24/1984
+First Reading
+:
+24 July 1984
+Second and Third Readings
+:
+24 August 1984
+Commencement
+:
+4 January 1985
+4. 1985 Revised Edition — Housing Developers (Control and Licensing) Act
+(Chapter 130)
+Operation
+:
+30 March 1987
+5. Act 26 of 2001 — Statutes (Miscellaneous Amendments and Repeal)
+Act 2001
+(Amendments made by section 8 of the above Act)
+Bill
+:
+24/2001
+First Reading
+:
+11 July 2001
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+Second and Third Readings
+:
+25 July 2001
+Commencement
+:
+1 September 2001 (section 8)
+6. Act 47 of 2004 — Building Maintenance and Strata Management
+Act 2004
+(Amendments made by section 140 read with item (9) of the Fifth Schedule to
+the above Act)
+Bill
+:
+6/2004
+First Reading
+:
+6 February 2004
+Second Reading
+:
+19 April 2004
+Select Committee Report
+:
+Parl. 5 of 2004
+Third Reading
+:
+19 October 2004
+Commencement
+:
+1 April 2005 (section 140 read with
+item (9)(a) of the Fifth Schedule)
+7. Act 17 of 2005 — Statutes (Miscellaneous Amendments and Repeal)
+Act 2005
+(Amendments made by section 6 of the above Act)
+Bill
+:
+7/2005
+First Reading
+:
+18 April 2005
+Second and Third Readings
+:
+16 May 2005
+Commencement
+:
+15 July 2005 (section 6)
+8. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005
+(Amendments made by section 5 read with item (15) of the First Schedule to
+the above Act)
+Bill
+:
+30/2005
+First Reading
+:
+17 October 2005
+Second and Third Readings
+:
+21 November 2005
+Commencement
+:
+1 April 2006 (section 5 read with
+item (15) of the First Schedule)
+9. Act 37 of 2008 — Limited Partnerships Act 2008
+(Amendments made by section 44 read with item (3) of the Third Schedule to
+the above Act)
+Bill
+:
+35/2008
+First Reading
+:
+21 October 2008
+Second and Third Readings
+:
+18 November 2008
+ii
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+Commencement
+:
+4 May 2009 (section 44 read with
+item (3) of the Third Schedule)
+10. Act 15 of 2010 — Criminal Procedure Code 2010
+(Amendments made by section 430 read with item 46 of the Sixth Schedule to
+the above Act)
+Bill
+:
+11/2010
+First Reading
+:
+26 April 2010
+Second Reading
+:
+18 May 2010
+Third Reading
+:
+19 May 2010
+Commencement
+:
+2 January 2011 (section 430 read with
+item 46 of the Sixth Schedule)
+11. Act 11 of 2013 — Insurance (Amendment) Act 2013
+(Amendments made by section 69 read with item 9 of the Schedule to the
+above Act)
+Bill
+:
+5/2013
+First Reading
+:
+4 February 2013
+Second Reading
+:
+15 March 2013
+Notice of Amendments
+:
+15 March 2013
+Third Reading
+:
+15 March 2013
+Commencement
+:
+18 April 2013 (section 69 read with
+item 9 of the Schedule)
+12. Act 15 of 2013 — Housing Developers (Control and Licensing)
+(Amendment) Act 2013
+Bill
+:
+7/2013
+First Reading
+:
+6 February 2013
+Second and Third Readings
+:
+8 April 2013
+Commencement
+:
+25 May 2015
+13. Act 35 of 2017 — Building Maintenance and Strata Management
+(Amendment) Act 2017
+(Amendments made by section 63(1) of the above Act)
+Bill
+:
+29/2017
+First Reading
+:
+1 August 2017
+Second and Third Readings
+:
+11 September 2017
+iii
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+Commencement
+:
+1 February 2019 (section 63(1))
+14. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018
+(Amendments made by section 482 of the above Act)
+Bill
+:
+32/2018
+First Reading
+:
+10 September 2018
+Second and Third Readings
+:
+1 October 2018
+Commencement
+:
+30 July 2020 (section 482)
+15. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019
+(Amendments made by section 28(1) read with item 69 of the Schedule to the
+above Act)
+Bill
+:
+32/2019
+First Reading
+:
+7 October 2019
+Second Reading
+:
+5 November 2019
+Notice of Amendments
+:
+5 November 2019
+Third Reading
+:
+5 November 2019
+Commencement
+:
+2 January 2021 (section 28(1) read
+with item 69 of the Schedule)
+16. 2020 Revised Edition — Housing Developers (Control and Licensing) Act
+1965
+Operation
+:
+31 December 2021
+17. Act 54 of 2018 — Developers (Anti-Money Laundering and Terrorism
+Financing) Act 2018
+Bill
+:
+45/2018
+First Reading
+:
+1 October 2018
+Second and Third Readings
+:
+20 November 2018
+Commencement
+:
+28 June 2023
+18. Act 5 of 2025 — Electronic Gazette and Legislation Act 2025
+Bill
+:
+47/2024
+First Reading
+:
+11 November 2024
+Second and Third Readings
+:
+7 January 2025
+Commencement
+:
+9 March 2025
+iv
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+Abbreviations
+.
+(updated on 29 August 2022)
+G.N.
+Gazette Notification
+G.N. Sp.
+Gazette Notification (Special Supplement)
+L.A.
+Legislative Assembly
+L.N.
+Legal Notification (Federal/Malaysian)
+M.
+Malaya/Malaysia
+(including
+Federated
+Malay
+States,
+Malayan Union, Federation of Malaya and Federation of
+Malaysia)
+Parl.
+Parliament
+S
+Subsidiary Legislation
+S.I.
+Statutory Instrument (United Kingdom)
+S (N.S.)
+Subsidiary Legislation (New Series)
+S.S.G.G.
+Straits Settlements Government Gazette
+S.S.G.G. (E)
+Straits Settlements Government Gazette (Extraordinary)
+v
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------
+COMPARATIVE TABLE
+HOUSING DEVELOPERS
+(CONTROL AND LICENSING)
+ACT 1965
+This Act has undergone renumbering in the 2020 Revised Edition. This
+Comparative Table is provided to help readers locate the corresponding provisions
+in the last Revised Edition.
+2020 Ed.
+1985 Ed.
+4—(4)
+4—(3A)
+(5)
+(4)
+(6)
+(5)
+(7)
+(6)
+(8)
+(7)
+(9)
+(8)
+(10)
+(9)
+7—(1) and (2)
+7—(1)
+(3)
+(2)
+8
+8—(1)
+—
+(2) [Deleted by Act 15 of 2013]
+10—(2)
+10—(1A)
+(3)
+(2)
+13—(1) and (2)
+13—(1)
+—
+(2) [Deleted by Act 15 of 2013]
+—
+(3) [Deleted by Act 15 of 2013]
+(3)
+(4)
+(4) and (5)
+(5)
+16—(2) and (3)
+16—(2)
+—
+17—(3) [Deleted by Act 15 of 2013]
+23—(2) and (3)
+23—(2)
+Informal Consolidation – version in force from 9/3/2025
+
+--------------------------------------------------------------------------------

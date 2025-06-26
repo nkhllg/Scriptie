@@ -1,0 +1,455 @@
+COMMERCIAL BUILDING LEASE PROTECTION ACT
+ 
+ 
+ 
+ 
+Act No. 6542, Dec. 29, 2001
+Amended by Act No. 6718, Aug. 26, 2002
+Act No. 7358, Jan. 27, 2005
+Act No. 9361, Jan. 30, 2009
+Act No. 9649, May  8, 2009
+Act No. 10303, May 17, 2010
+Act No. 10580, Apr. 12, 2011
+Act No. 11873, Jun.   7, 2013
+Act No. 12042, Aug. 13, 2013
+Act No. 13284, May 13, 2015
+Act No. 14242, May 29, 2016
+ 
+ 
+ 
+Article 1 (Purpose)
+The purpose of this Act is to guarantee the stability of the economic life of people by prescribing
+exceptions to the Civil Act concerning the lease of commercial buildings.
+ 
+Article 2 (Scope of Application)
+(1) This Act shall apply to the lease (including cases where the main part of the leasehold property is used
+for business purposes) of commercial buildings (referring to buildings subject to business registration
+under Article 3 (1)): Provided, That in cases of lease the amount of security deposit for which exceeds that
+prescribed by Presidential Decree, this shall not apply.
+(2) The amount of security deposit under the proviso to paragraph (1) shall be prescribed according to
+area-based classifications in consideration of the economic circumstances in the relevant areas, scale of the
+leasehold property, etc., and the amount obtained by multiplying the rental value by the rate prescribed by
+Presidential Decree in consideration of interest rates charged on loans, etc. of banks under the Banking
+Act shall be included therein where rent in addition to security deposit exists. <Amended by Act No. 10303,
+May 17, 2010>
+(3) Notwithstanding the proviso to paragraph (1), Article 3, Article 10 (1) and (2) and the main sentence of
+paragraph (3), Articles 10-2 through 10-8 and Article 19 shall also apply to the lease exceeding the
+amount of security deposit pursuant to the proviso to paragraph (1). <Added by Act No. 12042, Aug. 13, 2013;
+
+--------------------------------------------------------------------------------
+Act No. 13284, May 13, 2015>
+ 
+Article 3 (Counterforce, etc.)
+(1) A lease shall become effective against third parties on the day following the date on which a tenant
+files an application for the transfer of the relevant building and business registration under Article 8 of the
+Value-Added Tax Act, Article 168 of the Income Tax Act or Article 111 of the Corporate Tax Act even
+when no registration of the lease exists. <Amended by Act No. 11873, Jun. 7, 2013>
+(2) The transferee of a leased building (including the person who has succeeded to the right to lease) shall
+be deemed to have succeeded to the position of landlord.
+(3) Where a building which is a leasehold property under this Act is subject to sale and purchase or
+auction, Article 575 (1) and (3), and Article 578 of the Civil Act shall apply mutatis mutandis.
+(4) Article 536 of the Civil Act shall apply mutatis mutandis to the cases of paragraph (3).
+ 
+Article 4 (Assigning Fixed Date and Providing Lease Information, etc.) 
+(1) A fixed date prescribed in Article 5 (2) shall be assigned by the head of a tax office having jurisdiction
+over the location of a commercial building.
+(2) The head of the competent tax office shall prepare a fixed date register, in which the location of the
+relevant commercial building, the date when a fixed date is assigned, rents and deposits, etc. are written.
+In such cases, he/she may utilize the computerized data processing organization.
+(3) Any one who has an interest in the lease of a commercial building may request the head of the
+competent tax office to provide information, including the date when a fixed date is assigned to the
+relevant commercial building, rents and deposits. In such cases, no head of the competent tax office, in
+receipt of such request, is allowed to refuse such request without justifiable grounds.
+(4) Any one who intends to conclude a lease contract may request the head of the competent tax office to
+provide information pursuant to paragraph (3) after obtaining consent from a lessor.
+(5) Matters to be included in the fixed date register, the scope of persons who have an interest in the lease
+of a commercial building, the scope of information which can be requested to the head of the competent
+tax office and matters necessary for assigning a fixed date and providing information, etc. shall be
+prescribed by Presidential Decree.
+ 
+Article 5 (Recovery of Security Deposit)
+(1) Where a tenant files an application for auction of a leasehold building on the grounds of a final and
+conclusive judgment on a lawsuit claiming the return of security deposit or execution title corresponding
+thereto, the performance of opposite obligation or offer of such performance shall not be prerequisites to
+commence execution, notwithstanding Article 41 of the Civil Execution Act.
+(2) A tenant equipped with prerequisites for counterclaim under Article 3 (1) who has obtained a
+certificate of a fixed date on the lease contract from the competent head of tax office has a right to be
+
+--------------------------------------------------------------------------------
+reimbursed security deposit in preference to posterior creditors or other creditors from the realized amount
+of leasehold building (including the site possessed by landlord) at the time of auction under the Civil
+Execution Act or public auction under the National Tax Collection Act.
+(3) If a tenant fails to transfer a leasehold building to any transferee, he/she may not receive the security
+deposit under paragraph (2).
+(4) Interested parties who are dissatisfied with the order of preferential payment and security deposit under
+paragraphs (2) and (7) may raise an objection to an auction court or an agency issuing disposition on
+default. <Amended by Act No. 12042, Aug. 13, 2013>
+(5) Where an objection is filed to an auction court as prescribed in paragraph (4), the provisions of Articles
+152 through 161 of the Civil Execution Act shall apply mutatis mutandis.
+(6) When interested parties have verified to have instituted a lawsuit against a tenant, a financial institution
+having succeeded the preferential payment right pursuant to paragraph (7), etc. within seven days from the
+date an objection was filed, the agency issuing a default disposition that has received such an objection as
+prescribed in paragraph (4) shall reserve the return of the security deposit to the tenant, a financial
+institution having succeeded the preferential payment right pursuant to paragraph (7), etc. within the
+extent any objections were raised until the lawsuit is concluded, and allocate the remaining amount. In
+such cases, such reserved security deposit shall be allocated according to the result of such lawsuit.
+<Amended by Act No. 12042, Aug. 13, 2013>
+(7) When any of the following institutions has taken over the repayment of deposit of the tenant having
+obtained the preferential payment right pursuant to paragraph (2), Article 6 (5) and Article 7 (1) according
+to the contract, the preferential payment right shall succeed to it within the limit of the amount having
+been taken over: <Added by Act No. 12042, Aug. 13, 2013; Act No. 14242, May 29, 2016>
+1. The bank under the Banking Act;
+2. The Small and Medium Industry Bank under the Industrial Bank of Korea Act;
+3. The Korea Development Bank under the Korea Development Bank Act;
+4. The Nong Hyup Bank under the Agricultural Cooperatives Act;
+5. The National Federation of Fisheries Cooperatives under the Fisheries Cooperatives Act;
+6. The communications agency under the Postal Savings and Insurance Act;
+7. The insurance company having obtained permission as an insurance commodity with the guaranty
+insurance under Article 4 (1) 2 (d) of the Insurance Business Act;
+8. In addition, the agency prescribed by Presidential Decree, which corresponds to an agency prescribed
+in subparagraphs 1 through 7.
+(8) A financial institution, etc. (hereinafter referred to as “financial institution, etc.”) having succeeded the
+preferential payment right pursuant to paragraph (7) shall not exercise the preferential payment right in
+any of the following cases: <Added by Act No. 12042, Aug. 13, 2013>
+1. When a tenant has lost the requisites for counteraction under Article 3 (1);
+
+--------------------------------------------------------------------------------
+2. When the registration of leasehold has been cancelled under Article 6 (5);
+3. When the registration of lease has been cancelled under Article 621 of the Civil Act.
+(9) A financial institution, etc. shall not cancel the lease by performing on behalf of or subrogating the
+tenant to exercise the preferential payment right. <Added by Act No. 12042, Aug. 13, 2013>
+ 
+Article 6 (Order of Registration of Right to Lease)
+(1) In cases where security deposit has not been returned after the lease terminated, a tenant may file an
+application for an order of registration of the right to lease to a district court, branch court of district court,
+Si court or Gun court having jurisdiction over the address of a leasehold building. <Amended by Act No.
+12042, Aug. 13, 2013>
+(2) When a tenant files an application for an order of registration of the right to lease, he/she shall include
+the following matters therein, and substantiate the grounds for filing an application and such fact being the
+cause for registration of the right to lease:
+1. Purport of filing an application and grounds therefor;
+2. Building which is the subject matter of lease (where the subject matter of lease is part of a building,
+drawings of such part shall be attached);
+3. Fact which has become the ground for registration of the right to lease (where a tenant has obtained
+the counterforce under Article 3 (1) or right to preferential reimbursement under Article 5 (2), such
+fact);
+4. Other matters prescribed by Supreme Court Regulations.
+(3) Articles 280 (1). 281, 283, 285, 286 and 288 (1), main sentence of Article 288 (2), Article 289, part
+concerning Article 288 (1) among Article 290 (2), and Articles 291 and 293 of the Civil Execution Act
+shall apply mutatis mutandis to the judgment on an application for order of registration of the right to
+lease, landlord's raising an objection on the determination of order of registration of the right to lease and
+trial thereof, application for cancellation of order of registration of the right to lease and trial thereof, or
+execution, etc. of order of registration of the right to lease. In such cases, "provisional seizure" shall be
+deemed "registration of the right to lease," "creditor" as "tenant," and "debtor" as "landlord."
+(4) A tenant may file a protest against a court ruling dismissing an application for order of registration of
+the right to lease.
+(5) When registration of the right to lease following the execution of order of registration of the right to
+lease is made, a tenant shall obtain the counterforce under Article 3 (1) and right to preferential
+reimbursement under Article 5 (2): Provided, That in cases such tenant has already obtained the
+counterforce or right to preferential reimbursement prior to the registration of the right to lease, no change
+shall be made to the counterforce or right to preferential reimbursement, and such already obtained
+counterforce or right to preferential reimbursement shall not be lost after the registration of the right to
+lease even if prerequisites for counterclaim under Article 3 (1) are lost.
+
+--------------------------------------------------------------------------------
+(6) A tenant who has leased a building (limited to part of a building where the subject matter of lease is
+part of a building) for which registration of the right to lease following the execution of order of
+registration of the right to lease was made shall have no right to preferential reimbursement under Article
+14.
+(7) Matters necessary for the implementation of order of registration of the right to lease, such as
+commissioning of registration of the right to lease, recording of registration of the right to lease by
+registrars, etc. shall be prescribed by Supreme Court Regulations.
+(8) A tenant may request a landlord for costs incurred with regard to filing for an application for order of
+registration of the right to lease under paragraph (1) and registration of the right to lease incidental thereto.
+(9) A financial institution, etc. may file an application for an order of registration of the right to lease
+under paragraph (1) by subrogating the tenant. In such cases, “tenant” under paragraph (3), (4) and (8) is
+deemed to be “financial institution, etc.” <Added by Act No. 12042, Aug. 13, 2013>
+ 
+Article 7 (Validity, etc. of Registration of Right to Lease under Civil Act)
+(1) Article 6 (5) and (6) shall apply mutatis mutandis to the validity of registration of lease of buildings
+under Article 621 of the Civil Act.
+(2) Where a tenant holding a counterforce or right to preferential reimbursement files an application for
+the registration of lease in cooperation with landlord as prescribed in Article 621 (1) of the Civil Act,
+he/she shall state the following matters in addition to the matters prescribed in subparagraphs 1 through 5
+of Article 74 of the Registration of Real Estate Act in the application form, and attach documents (where
+the subject matter of lease is part of a building, drawings of such part shall be included) verifying such
+facts: <Amended by Act No. 10580, Apr. 12, 2011>
+1. Date when an application for business registration was filed;
+2. Date when such leasehold building was occupied;
+3. Date when a certificate of a fixed date was obtained on the lease contract.
+ 
+Article 8 (Termination of Right to Lease by Auction)
+Where an auction under the Civil Execution Act has been implemented on a leasehold building, the right
+to lease shall be terminated when such leasehold building is sold: Provided, That in cases of the right to
+lease with counterforce for which security deposit has not been paid in full, this shall not apply.
+ 
+Article 9 (Period of Lease, etc.)
+(1) A lease, the period of which has not been determined or period of which has been determined for not
+more than one year, such period shall be deemed one year: Provided, That a tenant may assert that such
+period determined for less than one year is valid.
+(2) Even after the lease is terminated, the relationship of lease is deemed to continue to exist until a
+tenant's security deposit is returned.
+
+--------------------------------------------------------------------------------
+ 
+Article 10 (Request, etc. for Contract Renewal)
+(1) Where a tenant requests for renewal of a contract between six months and one month before the
+expiration of period of lease, a landlord shall not refuse it without justifiable grounds: Provided, That in
+cases falling under any of the following subparagraphs, this shall not apply: <Amended by Act No. 12042,
+Aug. 13, 2013>
+1. Where such tenant has been in arrears with an amount equivalent to three period of rent.
+2. Where such tenant has entered lease by deceit or other fraudulent means;
+3. Where such landlord has provided such tenant with substantial compensation by mutual consent;
+4. Where such tenant has subleased all or part of the leased building without the consent of such
+landlord;
+5. Where such tenant has destroyed all or part of the building intentionally or by gross negligence;
+6. Where the purpose of lease is frustrated because all or part of a leasehold building has been severely
+damaged;
+7. Where such landlord needs to recover possession of the building in order to demolish or reconstruct
+all or part of the building for any of the following grounds:
+(a) Where, at the time of entering into the lease contract, such landlord notifies such tenant of a plan
+for demolition or rebuilding specifically stating the time and period of construction, etc., and
+complies with the plan;
+(b) Where there are safety hazards due to decrepitude, damage, partial destruction, etc. of the
+building;
+(c) Where there has been demolition or rebuilding pursuant to other Acts or subordinate statutes;
+8. Where such tenant has substantially violated the responsibilities of tenant or grave reasons for which
+the continuation of lease is difficult exist.
+(2) Tenant's right to request renewal of the contract may be exercised within the extent that the whole
+period of lease including the period of initial lease does not exceed five years.
+(3) A renewed lease shall be deemed to have been renewed under the same conditions as those of the
+former lease: Provided, That rent and security deposit may be increased or decreased within the extent
+under Article 11.
+(4) Where a landlord has failed to notify a tenant of a denial to renew or modify conditions within the
+period under paragraph (1), lease under the same conditions as those of previous lease shall be deemed to
+have been made when such period expires. In such cases, the period during which such lease continues to
+exist shall be deemed one year. <Amended by Act. No. 9649, May 8, 2009>
+(5) A tenant may notify a landlord of the cancellation of contract at any time in cases of paragraph (4), and
+it shall become effective three months after the date such landlord is notified of such fact.
+ 
+
+--------------------------------------------------------------------------------
+Article 10-2 (Exception on Renewal of Contract)
+Where the renewed lease contract exceeds the amount of security deposit under the proviso to Article 2
+(1), the parties to the contract may claim an increase or decrease in the rent and security deposit in
+consideration of taxes and public imposts on commercial buildings, rents and security deposit of the
+surrounding commercial buildings, other burdens, fluctuations in economic conditions, etc.
+ 
+Article 10-3 (Definitions, etc. of Premiums) 
+(1) “Premium” refers to a price, such as money, paid to a lessor or a lessee, other than deposits and rents,
+as a price for transfer or use of tangible or intangible property value, including business facilities,
+equipment, customers, credit, business know-how and business benefits generated from the location of a
+commercial building, which is paid by a person who conducts or who intends to conduct a business in a
+commercial building, the subject-matter of the lease.
+(2) “Premium contract” refers to a contract which requests any person who intends to be a new lessee to
+pay premiums to a lessee.
+ 
+Article 10-4 (Protection of Opportunity of Collecting Premiums, etc.)
+(1) No lessor shall obstruct any lessee in receiving any premium pursuant to a premium contract from a
+person arranged by the lessee to become a new lessee, by committing any of the following acts from three
+months prior to the expiry of the lease period until the end of the lease: Provided, That the same shall not
+apply where any of the grounds set forth in the subparagraphs of Article 10 (1) exists:
+1. Requesting a person arranged by the lessee to become a new lessee to pay premiums; or receiving
+premiums from a person arranged by the lessee to become a new lessee;
+2. Preventing a person arranged by the lessee to become a new lessee, from paying a premium to the
+lessee;
+3. Requesting a person arranged by the lessee to become a new lessee, to pay remarkably large-amount
+of rents and deposits, compared with the tax on a commercial building, public charges, rents and
+deposits of surrounding commercial buildings and other charges;
+4. Refusing to conclude a lease contract with a person arranged by the lessee to become a new lessee,
+without any justifiable grounds.
+(2) In any of the following cases, justifiable grounds prescribed in paragraph (1) 4 shall be deemed to
+exist:
+1. Where a person arranged by the lessee to become a new lessee, cannot afford to pay deposits or rents;
+2. Where a person arranged by the lessee to become a new lessee, is likely to violate the duty of a lessee
+or any reasonable ground exists, which makes it impracticable to maintain lease;
+3. Where the subject-matter of the lease is a commercial building and has not been used for commercial
+purposes for at least 18 months;
+
+--------------------------------------------------------------------------------
+4. Where a new lessee selected by the lessor concludes a premium contract with the lessee and pays
+premiums.
+(3) Where a lessor violates paragraph (1), incurring any loss to a lessee, he/she shall be liable to
+compensate for such loss. In such cases, damages shall not exceed the lesser amount of a premium to be
+paid to a lessee by a new lessee and premium as at the time when the lease expires.
+(4) Claim for damages to a lessor pursuant to paragraph (3) shall expire by completion of prescription if it
+is not exercised within three years from the date when the lease expires.
+(5) A lessee shall provide information to the lessor, to the best of his/her knowledge, on the financial
+capacity of the person arranged by the lessee to become a new lessee, such person’s willingness and
+ability to pay deposits and rents and to perform duties as a lessee.
+ 
+Article 10-5 (Exemption from Application of Premiums)
+@Article 10-4 shall not apply to any of the following commercial building leases:
+1. Where a commercial building, the subject-matter of the lease, is a part of a large store or quasi-large
+store prescribed in Article 2 of the Distribution Industry Development Act;
+2. Where a commercial building, the subject-matter of the lease, is the State property prescribed in the
+State Properties Act or public property pursuant to the Public Property and Commodity Management
+Act.
+ 
+Article 10-6 (Preparation, etc. of Written Standard Premium Contracts)
+The Minister of Land, Infrastructure and Transport may prepare a written standard premium contract to
+conclude a premium contract between a lessee and a person who intends to a be a new lessee and
+encourage the use thereof.
+ 
+Article 10-7 (Public Notification of Standards for Appraising Premiums) 
+The Minister of Land, Infrastructure and Transport may publicly notify standards on procedures and
+methods, etc. for appraising premiums.
+ 
+Article 10-8 (Overdue Rents and Termination)
+Where overdue rents of a lessee amounts to rents of three terms, a lessor may terminate a contract.
+ 
+Article 11 (Right of Claim for Increase or Decrease of Rent, etc.)
+(1) Where rent or security deposit has become insufficient due to taxes, public imposts, other increase or
+decrease in the burden on such leasehold building or fluctuations in economic conditions, interested
+parties may claim an increase or decrease in the future rent or security deposit. However, in cases of an
+increase, it shall not exceed the rate set according to the standards prescribed by Presidential Decree.
+
+--------------------------------------------------------------------------------
+(2) No claim for increase under paragraph (1) shall be made within one year after the lease contract or
+agreed increase in rent, etc. is made.
+ 
+Article 12 (Restriction on Calculation Rate when Converting into Monthly Rent)
+Where all or part of security deposit is converted into monthly rent, such monthly rent shall not exceed the
+extent of monthly rent obtained by multiplying an amount to be converted by a rate which is lower
+between the following subparagraphs: <Amended by Act No. 10303, May 17, 2010; Act No. 12042, Aug. 13,
+2013>
+1. A rate prescribed by Presidential Decree in consideration of the interest rate on loans of banks under
+the Banking Act, the economic conditions of the relevant areas, etc.
+2. A rate obtained by multiplying the basic interest rate officially announced by the Bank of Korea by
+the multiple prescribed by Presidential Decree.
+ 
+Article 13 (Application, etc. to Sublease Relationship)
+(1) Articles 10, 10-2, 10-8, 11 and 12 shall apply to the sublease relationship between a sublessor and a
+sublessee. <Amended by Act No. 13284, May 13, 2015>
+(2) A sublessee who has concluded a sublease contract with the approval of such landlord may exercise a
+right to request renewal of lease to such landlord on behalf of such tenant within a period during which the
+right to request renewal of contract can be exercised by the tenant.
+ 
+Article 14 (Protection of Certain Amount among Security Deposit)
+(1) A tenant shall have a right to be reimbursed a certain amount among security deposit in preference to
+other holders of a real right granted by way of security. In such cases, such tenant shall satisfy the
+conditions under Article 3 (1) before registering an application for the auction of a building.
+(2) The provisions of Article 5 (4) through (6) shall apply mutatis mutandis to cases under paragraph (1).
+(3) A tenant who is to be reimbursed preferentially, and the extent of a certain amount among security
+deposit and standards therefor under paragraph (1) shall be prescribed by Presidential Decree considering
+the economic conditions of relevant areas, security deposit, rent, etc. within the extent of 1/2 of the price
+of leasehold building (including the price of site possessed by landlord). <Amended by Act No. 12042, Aug.
+13, 2013>
+ 
+Article 15 (Mandatory Provisions)
+Any agreement in violation of the provisions of this Act which is unfavorable to a tenant shall be null and
+void.
+ 
+Article 16 (Lease for Temporary Use)
+
+--------------------------------------------------------------------------------
+This Act shall not apply to any lease evidently for temporary use.
+ 
+Article 17 (Application to Unregistered Lease on Deposit Basis Mutatis Mutandis)
+This Act shall apply mutatis mutandis to contracts of lease on a deposit basis of buildings unregistered. In
+such cases, "security deposit for lease on a deposit basis" shall be deemed "security deposit of lease".
+ 
+Article 18 (Application to Trial of Small Claims Act Mutatis Mutandis)
+@Articles 6, 7, 10 and 11-2 of the Trial of Small Claims Act shall apply mutatis mutandis to a lawsuit
+claiming the return of security deposit, instituted by a tenant against a landlord.
+ 
+Article 19 (Preparation, etc. of Written Standard Contracts) 
+The Minister of Justice may prepare a written standard contract on a commercial building lease in which
+deposits, rents, period of a lease and sharing repair costs, etc. are written and encourage the use thereof.
+ 
+ADDENDA
+(1) (Enforcement Date) This Act shall enter into force on November 1, 2002.
+(2) (Applicability) This Act shall apply beginning from the first lease concluded or renewed after this Act
+enters into force: Provided, That the provisions of Articles 3, 5 and 14 shall apply to any lease in existence at
+the time this Act enters into force, however, such provisions shall not be effective in relation to third parties
+who have acquired real rights before this Act enters into force.
+(3) (Transitional Measures concerning Application for Obtaining Fixed Date by Existing Tenant) A tenant at
+the time this Act enters into force who intends to have the protection of preferential reimbursement of
+security deposit under the provisions of Article 5 may request the head of the tax office having jurisdiction
+over the address of buildings to issue a certificate of a fixed date on the lease contract as prescribed by
+Presidential Decree before this Act enters into force.
+ 
+ 
+ADDENDUM <Act No. 6718, Aug. 26, 2002>
+This Act shall enter into force on the date of its promulgation.
+ 
+ 
+ADDENDA <Act No. 7358, Jan. 27, 2005>
+Article 1 (Enforcement Date)
+This Act shall enter into force six months after the date of its promulgation.
+Articles 2 through 4 Omitted.
+ 
+ 
+
+--------------------------------------------------------------------------------
+ADDENDUM <Act No. 9361, Jan. 30, 2009>
+This Act shall enter into force on the date of its promulgation.
+ 
+ 
+ADDENDUM <Act No. 9649, May 8, 2009>
+This Act shall enter into force on the date of its promulgation.
+ 
+ 
+ADDENDA <Act No. 10303, May 17, 2010>
+Article 1 (Enforcement Date) 
+This Act shall enter into force six months after the date of its promulgation. (Proviso Omitted.)
+Articles 2 through 10 Omitted. 
+ 
+ 
+ADDENDA <Act No. 10580, Apr. 12, 2011>
+Article 1 (Enforcement Date) 
+This Act shall enter into force six months after the date of its promulgation. (Proviso Omitted.)
+Articles 2 through 5 Omitted. 
+ 
+ 
+ADDENDA <Act No. 11873, Jun. 7, 2013>
+Article 1 (Enforcement Date) 
+This Act shall enter into force on July 1, 2013.
+Articles 2 through 19 Omitted.  
+ 
+ 
+ADDENDA <Act No. 12042, Aug. 13, 2013>
+Article 1 (Enforcement Date) 
+This Act shall enter into force on the date of its promulgation: Provided, That the amended provisions
+of Article 12 and 14 (3) shall enter into force on January 1, 2014.
+Articles 2 (Cases of Application)
+This Act shall begin to apply with the first lease contract entered into or revised.
+Article 3 (Application concerning Preferential Payment Right of Financial Institutions, etc.) 
+The amended provisions of Article 5 (4) and (6) through (9), and Article 6 (1) and (9) shall apply to the
+lease subsisting at the time of the enforcement of this Act, and apply from the time of taking over the
+repayment of deposit for the first time after this Act enters into force.
+
+--------------------------------------------------------------------------------
+Article 4 (Application concerning Limit of Calculation Rate in Transferring Monthly Rents) 
+The amended provisions of Article 12 shall apply to the lease subsisting at the time of the enforcement
+of the amended provisions, and apply from the time of transferring the whole or a part of security
+deposit into monthly rent for the first time after the amended provisions enters into force.
+Article 5 (Application concerning Protection of Small Amount of Security Deposit) 
+The amended provisions of Article 14 (3) shall apply to the lease subsisting at the time of the
+enforcement of the same amended provisions, but are inapplicable to any third party who has obtained a
+real right before the same amended provisions enter into force.
+ 
+ 
+ADDENDA <Act No. 13284, May 13, 2015>
+Article 1 (Enforcement Date)
+This Act shall enter into force on the date of its promulgation: Provided, That the amended provisions
+of Article 4 shall enter into force six months after the date of its promulgation.
+Article 2 (Applicability concerning Counterforce) 
+The provisons of Article 3 concerning the counterforce from among the amended provisions of Article 2
+(3) shall apply, beginning with the first lease on which a contract is concluded or which is renewed after
+this Act enters into force.
+Article 3 (Applicability concerning Protection of Opportunity of Collecting Premiums, etc.) 
+The amended provisions of Article 10-4 shall apply, beginning with leases existing as at the time this
+Act enters into force.
+ 
+ 
+ADDENDA <Act No. 14242, May 29, 2016>
+Article 1 (Enforcement Date)
+This Act shall enter into force on December 1, 2016. (Proviso Omitted.)
+Articles 2 through 22 Omitted.
+ 
+ 
+ 
+Last updated : 2017-03-20
+
+--------------------------------------------------------------------------------

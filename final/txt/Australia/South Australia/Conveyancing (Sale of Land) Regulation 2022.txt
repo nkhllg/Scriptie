@@ -1,0 +1,1277 @@
+Conveyancing (Sale of Land) Regulation 2022
+[2022-485]
+New South Wales
+New South Wales
+Status Information
+Currency of version
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Legislation on this site is usually updated within 3 working days after a change to the legislation.
+Provisions in force
+The provisions displayed in this version of the legislation have all commenced.
+Notes—
+•
+Does not include amendments by
+Strata Schemes Legislation Amendment Act 2025 No 14 (not commenced)
+•
+Staged repeal status
+This legislation is currently due to be automatically repealed under the Subordinate Legislation Act 1989
+on 1 September 2027
+Authorisation
+This version of the legislation is compiled and maintained in a database of legislation by the Parliamentary
+Counsel's Office and published on the NSW legislation website, and is certified as the form of that legislation that
+is correct under section 45C of the Interpretation Act 1987.
+File last modified 2 March 2025
+Certified by the NSW Parliamentary Counsel as being published on www.legislation.nsw.gov.au
+Page 1 of 33
+
+--------------------------------------------------------------------------------
+Conveyancing (Sale of Land) Regulation 2022
+New South Wales
+New South Wales
+Contents
+Part 1 Preliminary.......................................................................................................................4
+1 Name of Regulation ...........................................................................................................................4
+2 Commencement ................................................................................................................................4
+3 Definitions ......................................................................................................................................... 4
+Part 2 Contracts for sale of land ........................................................................................4
+Division 1 Documents and warranties—the Act, s 52A .........................................4
+4 Documents that must be attached to contract..................................................................................4
+5 Implied warranty ...............................................................................................................................5
+6 Exceptions ......................................................................................................................................... 5
+Division 2 Implied terms—the Act, s 52A ......................................................................5
+7 All contracts for sale of land ..............................................................................................................5
+8 All contracts for sale of land—implied terms relating to land tax ......................................................5
+9 All off the plan contracts....................................................................................................................6
+10 Off the plan contracts—implied term if strata units bought off the plan ...........................................6
+11 All contracts for land and house packages ........................................................................................6
+Division 3 Disclosure statements for off the plan contracts—the Act, s
+66ZM
+............................................................................................................................................................... 7
+12 Information that must be included in a draft plan .............................................................................7
+13 Documents that must be included in a disclosure statement............................................................8
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 2 of 33
+
+--------------------------------------------------------------------------------
+Division 4 Miscellaneous.........................................................................................................8
+14 Prescribed persons and bodies—the Act, s 52A.................................................................................8
+15 Exemptions—the Act, s 52A...............................................................................................................8
+Part 3 Cooling off period for sale of residential property ...................................9
+16 Statement relating to cooling off period—the Act, s 66X...................................................................9
+17 Exemptions—the Act, s 66Y(3) ..........................................................................................................9
+Part 4 Options for purchase of residential property ..............................................9
+18 Implied warranty—the Act, s 66ZA ....................................................................................................9
+19 Exemptions—the Act, s 66ZK(3) ......................................................................................................10
+20 Form of statement relating to cooling off period—the Act, s 66ZH..................................................10
+Part 5 Purchasers’ remedies—the Act, s 52A and s 66ZA .................................10
+21 Purchaser may rescind contract or option .......................................................................................10
+22 Method of rescinding contract or option..........................................................................................11
+23 Effect of notice of rescission of contract or option...........................................................................11
+Part 6 Miscellaneous ...............................................................................................................12
+24 Material particulars for off the plan contracts—the Act, s 66ZL.......................................................12
+25 Application of the Act, Part 4, Division 10 to certain options—the Act, s 66ZU(4) ...........................13
+26 Savings relating to repeal of 2017 Regulation.................................................................................13
+27 Transitional provision—planning certificates ...................................................................................13
+Schedule 1 Prescribed documents..................................................................................14
+Schedule 2 Prescribed warranties ..................................................................................19
+Schedule 3 Prescribed terms .............................................................................................24
+Schedule 4 Exempt contracts, options and land ....................................................28
+Schedule 5 Forms......................................................................................................................30
+Schedule 6 Dictionary.............................................................................................................31
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 3 of 33
+
+--------------------------------------------------------------------------------
+Conveyancing (Sale of Land) Regulation 2022
+New South Wales
+New South Wales
+Part 1 Preliminary
+1
+Name of Regulation
+This Regulation is the Conveyancing (Sale of Land) Regulation 2022.
+2
+Commencement
+This Regulation commences on 1 September 2022.
+Note—
+This Regulation replaces the Conveyancing (Sale of Land) Regulation 2017, which is repealed on 1 September
+2022 by the Subordinate Legislation Act 1989, section 10(2).
+3
+Definitions
+(1) The Dictionary in Schedule 6 defines words used in this Regulation.
+Note—
+The Act and the Interpretation Act 1987 contain definitions and other provisions that affect the
+interpretation and application of this Regulation.
+(2) In this Regulation, a reference to a document includes a reference to a copy of the
+document.
+Part 2 Contracts for sale of land
+Division 1 Documents and warranties—the Act, s 52A
+4
+Documents that must be attached to contract
+(1) For the Act, section 52A(2)(a), the documents listed in Schedule 1, Part 1, or parts of
+the documents, relevant to either of the following are prescribed—
+(a) the land the subject of the contract for sale,
+(b) for land comprising 1 or more lots in a proposed plan of subdivision—the land from
+which the lots will be created.
+(2) For land comprising 1 or more lots in a plan of subdivision that was registered before
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 4 of 33
+
+--------------------------------------------------------------------------------
+the date of the contract, the planning certificate referred to in Schedule 1, Part 1 may
+relate to either of the following, whether or not the planning certificate also relates to
+other land—
+(a) the lots,
+(b) the land from which the lots have been created.
+5
+Implied warranty
+For the Act, section 52A(2)(b), the warranty in Schedule 2, Part 1 is prescribed.
+6
+Exceptions
+(1) This Division does not apply to a contract listed in Schedule 4, item 9.
+(2) Schedule 1, item 16 does not apply if the notice specified in the item is printed in the
+contract.
+Division 2 Implied terms—the Act, s 52A
+7
+All contracts for sale of land
+For the Act, section 52A(2)(b), the term in Schedule 3, section 1 is prescribed.
+8
+All contracts for sale of land—implied terms relating to land tax
+For the Act, section 52A(2)(b), the following terms are prescribed—
+(a) if the contract specifies a date for the completion of the contract—
+(i) if the date is 14 days or less after the day on which the contract is made—the term
+in Schedule 3, section 2, or
+(ii) if the date is more than 14 days after the day on which the contract is made—the
+term in Schedule 3, section 3,
+(b) if the contract does not specify a date for completion of the contract—
+(i) if the parties to the contract agree on a date for completion that is 14 days or less
+after the day on which the contract is made—the term in Schedule 3, section 2, or
+(ii) if the parties to the contract agree on a date for completion that is more than 14
+days after the day on which the contract is made—the term in Schedule 3, section
+3, or
+(iii) if the parties to the contract do not agree on a date for completion—the term in
+Schedule 3, section 3.
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 5 of 33
+
+--------------------------------------------------------------------------------
+9
+All off the plan contracts
+For the Act, section 52A(2)(b), the terms in Schedule 3, sections 4–6 are prescribed for an
+off the plan contract.
+10
+Off the plan contracts—implied term if strata units bought off the plan
+For the Act, section 52A(2)(b), the term in Schedule 3, section 7 is prescribed if—
+(a) the contract is a contract for the sale of a lot in a strata plan or a proposed strata
+plan, and
+(b) the contract is entered into—
+(i) before the date of registration of the strata plan, or
+(ii) within 12 months after the date of registration, and
+(c) an occupation certificate is required under the Environmental Planning and
+Assessment Act 1979, section 6.9(1)(a), and
+(d) the contract does not expressly provide that the vendor and the purchaser agree
+that—
+(i) an occupation certificate will not be issued before completion of the contract in
+relation to the building, or part of the building, of which the lot, and any part of the
+building reasonably necessary to access the lot, form part, and
+(ii) occupation or use of the lot will not commence before the occupation certificate is
+issued.
+11
+All contracts for land and house packages
+(1) For the Act, section 52A(2)(b), the term in Schedule 3, section 8 is prescribed if—
+(a) the contract is a contract for the sale of a lot in a deposited plan, and
+(b) the contract provides for—
+(i) the erection by the vendor of a dwelling house on the lot, or
+(ii) the sale of an existing dwelling house, and
+(c) an occupation certificate is required under the Environmental Planning and
+Assessment Act 1979, section 6.9 to commence occupation or use of the dwelling
+house.
+(2) In this section—
+deposited plan—
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 6 of 33
+
+--------------------------------------------------------------------------------
+(a) has the same meaning as in the Conveyancing (General) Regulation 2018, and
+(b) includes a proposed deposited plan.
+dwelling house has the same meaning as in the Standard Instrument (Local
+Environmental Plans) Order 2006.
+Division 3 Disclosure statements for off the plan contracts—the Act, s
+66ZM
+12
+Information that must be included in a draft plan
+(1) For the Act, section 66ZM(2)(a), the following information is prescribed—
+(a) the proposed lot number of the subject lot,
+(b) sufficient information to identify the location of the subject lot,
+(c) the area of the subject lot,
+(d) if the subject lot will be affected by a proposed easement or profit à prendre—the
+site of the proposed easement or profit à prendre,
+(e) if only part of the subject lot will be affected—
+(i) by a proposed restriction on the use of land—the site of the proposed
+restriction, or
+(ii) by a proposed positive covenant—a description of the proposed covenant,
+(f) if the contract relates to land that includes a lot in a proposed strata scheme—
+(i) the draft floor plan, and
+(ii) the draft of the location plan, within the meaning of the Strata Schemes
+Development Act 2015,
+(g) if the contract relates to land that includes a lot in a proposed community scheme,
+precinct scheme or neighbourhood scheme—
+(i) the draft community property plan, precinct property plan or neighbourhood
+property plan, and
+(ii) the draft detail plan, and
+(iii) the draft of the location plan, within the meaning of the Community Land
+Development Act 2021.
+(2) If the contract relates to land that includes a lot in a proposed strata scheme, the
+draft plan does not need to include the location or area of a parking or storage area.
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 7 of 33
+
+--------------------------------------------------------------------------------
+(3) For the purposes of this section, substantial compliance with applicable lodgment
+rules or regulations under the Real Property Act 1900 or another Act is sufficient for
+the draft plan.
+(4) In this section—
+community property plan, detail plan, precinct property plan and
+neighbourhood property plan have the same meanings as in the Community Land
+Development Act 2021.
+floor plan has the same meaning as in the Strata Schemes Development Act 2015.
+13
+Documents that must be included in a disclosure statement
+(1) For the Act, section 66ZM(2)(b), the documents listed in Schedule 1, Part 2 are
+prescribed.
+(2) A document is taken to be included in a disclosure statement if it is attached to the
+contract.
+(3) For the purposes of this section, a draft strata management statement or draft
+building management statement included in a disclosure statement does not need to
+include a provision for the allocation of the costs of shared expenses as required
+under—
+(a) the Act, Schedule 8A, clause 2(1)(e1), or
+(b) the Strata Schemes Development Act 2015, Schedule 4, clause 2(1)(e).
+(4) For the purposes of this section, substantial compliance with applicable lodgment
+rules or regulations under the Real Property Act 1900 or another Act is sufficient for a
+document included in a disclosure statement.
+Division 4 Miscellaneous
+14
+Prescribed persons and bodies—the Act, s 52A
+For the Act, section 52A(3), the following persons or bodies are prescribed—
+(a) Sydney Water Corporation,
+(b) Hunter Water Corporation,
+(c) East Australian Pipeline Pty Limited (ACN 064 629 009),
+(d) Jemena Gas Networks (NSW) Ltd (ACN 003 004 322).
+15
+Exemptions—the Act, s 52A
+(1) For the Act, section 52A(5)(b) and (c), the Act, section 52A(2) does not apply to the
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 8 of 33
+
+--------------------------------------------------------------------------------
+following—
+(a) a contract listed in Schedule 4, Part 1 or Schedule 4, item 8 or 10,
+(b) land described in Schedule 4, Part 5.
+(2) Subsection (1) does not apply to the following contracts in relation to land comprising
+an estate or interest specified in Schedule 4, item 15—
+(a) a contract for the sale of land by a mortgagee exercising a power of sale,
+(b) a contract for the sale of the equity of redemption in land.
+Part 3 Cooling off period for sale of residential property
+16
+Statement relating to cooling off period—the Act, s 66X
+(1) For the Act, section 66X(1), the statement in Schedule 5, Form 1 is prescribed.
+(2) The statement must be clearly legible and prominently located.
+17
+Exemptions—the Act, s 66Y(3)
+(1) The Act, Part 4, Division 8 does not apply to—
+(a) contracts listed in Schedule 4, Part 1 or 3, or
+(b) land described in Schedule 4, Part 5.
+(2) Subsection (1) does not apply to the following contracts in relation to land comprising
+an estate or interest referred to in Schedule 4, item 15—
+(a) a contract for the sale of residential property by a mortgagee exercising a power
+of sale,
+(b) a contract for the sale of the equity of redemption in residential property.
+(3) The Act, section 66S does not apply to a contract made in consequence of the
+exercise of an option to compel the purchase of land.
+Part 4 Options for purchase of residential property
+18
+Implied warranty—the Act, s 66ZA
+For the Act, section 66ZA(1), the warranty in Schedule 2, Part 2 is prescribed if the
+following are attached to the option—
+(a) a proposed contract for the sale of land,
+(b) the prescribed documents.
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 9 of 33
+
+--------------------------------------------------------------------------------
+19
+Exemptions—the Act, s 66ZK(3)
+(1) The Act, Part 4, Division 9 does not apply to—
+(a) options listed in Schedule 4, Part 4, or
+(b) land described in Schedule 4, Part 5.
+(2) Subsection (1) does not apply to the following options in relation to land comprising
+an estate or interest referred to in Schedule 4, item 15—
+(a) an option to purchase residential property granted by a mortgagee exercising a
+power of sale,
+(b) an option to purchase the equity of redemption in residential property.
+20
+Form of statement relating to cooling off period—the Act, s 66ZH
+(1) For the Act, section 66ZH(1), the statement in Schedule 5, Form 2 is prescribed.
+(2) The statement must be clearly legible and prominently located.
+Part 5 Purchasers’ remedies—the Act, s 52A and s 66ZA
+21
+Purchaser may rescind contract or option
+(1) For the Act, section 52A(6), the purchaser under a contract for the sale of land may
+rescind the contract—
+(a) for the vendor’s failure to attach the prescribed documents to the contract, or
+(b) for the vendor’s failure to attach a disclosure statement to an off the plan contract
+in accordance with the Act, section 66ZM, or
+(c) for breach of a warranty prescribed under the Act, section 52A(2)(b).
+(2) For the Act, section 66ZA(2)(b), the purchaser under an option to purchase residential
+property may rescind the option for breach of a warranty prescribed under the Act,
+section 66ZA(1).
+(3) Subsections (1)(c) and (2) apply if—
+(a) the breach constitutes a failure to disclose to the purchaser the existence of a
+matter affecting the land, and
+(b) the purchaser was unaware of the existence of the matter when the contract or
+option was entered into, and
+(c) the purchaser would not have entered into the contract or option had the
+purchaser been aware of the matter, and
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 10 of 33
+
+--------------------------------------------------------------------------------
+(d) if the rescission is for breach of the part of the warranty in Schedule 2, item 1(d)
+or 5(d)—a building information certificate for the building, or part of the building,
+to which the warranty relates has not been issued since the date of the relevant
+contract or option.
+22
+Method of rescinding contract or option
+(1) For the Act, sections 52A(6) and 66ZA(2), a purchaser may rescind a contract or
+option under section 21 by written notice served on the vendor—
+(a) for a contract—
+(i) if the purchaser’s right to rescind arises from the vendor’s failure to attach the
+prescribed documents or a disclosure statement—within 14 days after the
+contract is made, unless the contract has been completed, or
+(ii) if the purchaser’s right to rescind arises from the vendor’s breach of warranty
+prescribed under the Act, section 52A(2)(b)—before the contract is completed,
+or
+(b) for an option—before the earlier of the following—
+(i) the option is exercised, or
+(ii) the option ceases to be exercisable.
+(2) Service of the written notice may be effected in accordance with—
+(a) the Act, section 170, or
+(b) the service provisions in the contract or option.
+23
+Effect of notice of rescission of contract or option
+(1) For the Act, sections 52A(6) and 66ZA(2), a notice of rescission served in accordance
+with section 22—
+(a) rescinds a contract from the time the contract was made, and
+(b) rescinds an option from the time the option was granted.
+(2) If a contract for the sale of land is rescinded, the vendor must refund to the
+purchaser—
+(a) the deposit, and
+(b) any other money paid by the purchaser to the vendor under the contract.
+(3) If an option to purchase residential property is rescinded, the vendor must refund to
+the purchaser—
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 11 of 33
+
+--------------------------------------------------------------------------------
+(a) any consideration paid in relation to the option, and
+(b) any deposit paid in relation to the purchase of the property.
+(4) The rescission of the contract or option does not render the vendor liable to pay to the
+purchaser, or the purchaser liable to pay to the vendor, damages, costs or expenses.
+(5) However, subsection (4) does not affect a liability under the contract or option in
+relation to—
+(a) the payment of damages, costs or expenses arising from a breach of a term or
+condition of the contract or option, or
+(b) the payment of damages, costs or expenses arising from a breach of a warranty in
+the contract or option, other than a warranty prescribed by section 5 or 18, or
+(c) an adjustment between the vendor and a purchaser who has taken possession of
+the land before completion of the contract or option, or
+(d) the reimbursement of the purchaser for expenses incurred in complying with a
+requirement of an order, direction or notice in connection with the land.
+Part 6 Miscellaneous
+24
+Material particulars for off the plan contracts—the Act, s 66ZL
+(1) For the Act, section 66ZL(1), definition of material particular, paragraph (e), a
+provision of any of the following documents that will, or is likely to, adversely affect
+the use or enjoyment of the subject lot is prescribed—
+(a) a strata management statement,
+(b) a building management statement,
+(c) a management statement,
+(d) a strata development contract,
+(e) a development contract.
+(2) For the Act, section 66ZL(1), definition of material particular, the following matters
+are excluded—
+(a) a change to the proposed lot number of the subject lot,
+(b) a change to the proposed street name in which the subject lot is located,
+(c) a change to, or the inclusion of, a provision for the allocation of the costs of shared
+expenses relating to parts of the subject building in a building management
+statement or a strata management statement, if the allocation of costs complies
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 12 of 33
+
+--------------------------------------------------------------------------------
+with—
+(i) for a building management statement—the Act, Schedule 8A, clause 2(1)(e1),
+or
+(ii) for a strata management statement—the Strata Schemes Development Act
+2015, Schedule 4, clause 2(1)(e),
+(d) if the contract relates to land that includes a lot in a proposed strata scheme—a
+change to, or the inclusion of, the specific location or area of the parking or
+storage area, if the change or inclusion is made in accordance with the contract.
+25
+Application of the Act, Part 4, Division 10 to certain options—the Act, s 66ZU(4)
+The Act, Part 4, Division 10, other than section 66ZS, does not apply to an off the plan
+contract signed after the commencement of the Division if the contract arose from an
+option entered into before that commencement.
+26
+Savings relating to repeal of 2017 Regulation
+(1) An act, matter or thing that, immediately before the repeal of the Conveyancing (Sale
+of Land) Regulation 2017, had effect under the Regulation continues to have effect
+under this Regulation.
+(2) An Act, matter or thing given or done in connection with a contract or option entered
+into during the transitional period is taken to comply with this Regulation if the act,
+matter or thing would have complied with the Conveyancing (Sale of Land) Regulation
+2017.
+(3) In this section—
+transitional period means the period from the commencement of this Regulation
+until the end of 28 February 2023.
+27
+Transitional provision—planning certificates
+For the period from the commencement of this Regulation until 30 September 2022, a
+reference in this Regulation to—
+(a) the Environmental Planning and Assessment Regulation 2021, section 290(2), is taken
+to be a reference to the Environmental Planning and Assessment Regulation 2000,
+clause 279(2), and
+(b) the Environmental Planning and Assessment Regulation 2021, Schedule 2, is taken to
+be a reference to the Environmental Planning and Assessment Regulation 2000,
+Schedule 4.
+Note—
+See the Environmental Planning and Assessment Regulation 2021, Schedule 6, section 8.
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 13 of 33
+
+--------------------------------------------------------------------------------
+Schedule 1 Prescribed documents
+Part 1
+section 4
+1
+A planning certificate for the land, unless the land is not within a local government area.
+Note—
+If the sale relates to more than one lot in a strata plan, a single planning certificate may be attached.
+2
+Diagrams from a recognised sewerage authority, if available in the ordinary course of
+administration, that purport to show the following—
+(a) the location of any sewer lines, including the point of connection, on the land upstream of the
+point of connection to the authority’s sewer main,
+(b) the location of the authority’s sewerage infrastructure for the property downstream of the point
+of connection to the authority’s sewer main, including the point of connection.
+3
+If the contract relates to land under the provisions of the Real Property Act 1900, including land
+that is the subject of a qualified or limited folio, but not including land the subject of a contract
+referred to in items 6–13—
+(a) a property certificate, and
+(b) a plan for the land issued by the Registrar-General, except in the case of land that is the
+subject of a limited folio.
+4
+The following documents—
+(a) all deeds, dealings and other instruments that—
+(i) are lodged with the Registrar-General or registered, and
+(ii) are shown on the property certificate for the lot, and
+(iii) create, or purport to create, one or more of the following interests that burden or benefit,
+or purport to burden or benefit, the land or a part of the land—
+(A) an easement,
+(B) a profit à prendre,
+(C) a restriction on the use of land,
+(D) a positive covenant imposed under the Act, Part 6, Division 4,
+(b) all memoranda referred to in an instrument described in paragraph (a).
+5
+If the contract relates to land that includes a lot in a strata scheme or a lot under a community
+plan, precinct plan or neighbourhood plan, the following documents—
+(a) all deeds, dealings and other instruments that—
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 14 of 33
+
+--------------------------------------------------------------------------------
+(i) are lodged with the Registrar-General or registered, and
+(ii) are shown on the property certificate for the relevant common property or association
+property, and
+(iii) create, or purport to create, one or more of the following interests that burden or benefit,
+or purport to burden or benefit, the common property or association property or a part of
+the common property or association property—
+(A) an easement,
+(B) a profit à prendre,
+(C) a restriction on the use of land,
+(D) a positive covenant imposed under the Act, Part 6, Division 4,
+(b) all memoranda referred to in an instrument described in paragraph (a).
+6
+If the contract relates to land that includes a lot in a freehold strata scheme—
+(a) a property certificate for the lot and the common property, and
+(b) the strata plan that shows the lot, and
+(c) any by-laws in force for the strata scheme.
+7
+If the contract relates to land that includes a lease of a lot in a leasehold strata scheme—
+(a) a property certificate for the lot and the common property, and
+(b) the strata plan that shows the lot, and
+(c) the registered lease of the lot and the registered lease of the common property, and
+(d) any by-laws in force for the strata scheme.
+8
+If the contract relates to land that includes a lot in a development scheme—
+(a) the strata development contract, and
+(b) any amendment of the strata development contract.
+9
+If the contract relates to land that is subject to a strata management statement registered under
+the Strata Schemes Development Act 2015—
+(a) the strata management statement, and
+(b) any amendment of the statement.
+10
+If the contract relates to land that includes a lot, within the meaning of the Strata Schemes
+Development Act 2015, within a community scheme—
+(a) the documents prescribed by item 6, and
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 15 of 33
+
+--------------------------------------------------------------------------------
+(b) a property certificate for the community property and any precinct property, and
+(c) the community plan, including—
+(i) the community management statement, and
+(ii) any development contract registered with the community plan, and
+(d) if applicable, the precinct plan, including—
+(i) the precinct management statement, and
+(ii) any development contract registered with the precinct plan.
+11
+If the contract relates to land that includes a lot, other than a lot within the meaning of the Strata
+Schemes Development Act 2015, that forms part of a community scheme—
+(a) a property certificate for the lot and community property, and
+(b) the community plan incorporating the lot, including—
+(i) the community management statement, and
+(ii) any development contract registered with the community plan.
+12
+If the contract relates to land that includes a lot that forms part of a precinct scheme—
+(a) a property certificate for the lot, precinct property and community property, and
+(b) the precinct plan incorporating the lot, including—
+(i) the precinct management statement, and
+(ii) any development contract registered with the precinct plan, and
+(c) the community plan incorporating the precinct scheme to which the lot relates, including—
+(i) the community management statement, and
+(ii) any development contract registered with the community plan.
+13
+If the contract relates to land that includes a lot that forms part of a neighbourhood scheme—
+(a) a property certificate for the lot and neighbourhood property, and
+(b) the neighbourhood plan incorporating the lot, including—
+(i) the neighbourhood management statement, and
+(ii) the development contract, and
+(c) if the neighbourhood scheme in which the lot is situated is within a community scheme—
+(i) a property certificate for the community property and any precinct property, and
+(ii) the community plan, including—
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 16 of 33
+
+--------------------------------------------------------------------------------
+(A) the community management statement, and
+(B) any development contract registered with the community plan, and
+(iii) if applicable, the precinct plan, including—
+(A) the precinct management statement, and
+(B) any development contract registered with the precinct plan.
+14
+If the contract relates to land that is subject to a registered building management statement—the
+statement.
+15
+(1) If the contract relates to land on which there is a swimming pool to which the
+Swimming Pools Act 1992 applies, 1 of the following for the swimming pool—
+(a) a valid certificate of compliance issued under that Act, section 22D,
+(b) a relevant occupation certificate within the meaning of that Act and evidence that
+the swimming pool is registered under the Act, Part 3A,
+(c) a valid certificate of non-compliance issued under the Swimming Pools Regulation
+2018 following an inspection under the Swimming Pools Act 1992, section 22C.
+(2) This item does not apply if—
+(a) the contract relates to a lot in a strata scheme or in a community scheme and that
+strata or community scheme comprises more than 2 lots, or
+(b) the contract is an off the plan contract.
+16
+Each of the following notices—
+IMPORTANT NOTICE TO VENDORS AND PURCHASERS
+Before signing this contract you should ensure that you understand your rights and
+obligations, some of which are not written in this contract but are implied by law.
+WARNING—SMOKE ALARMS
+The owners of certain types of buildings and strata lots must have smoke alarms, or in
+certain cases heat alarms, installed in the building or lot in accordance with
+regulations under the Environmental Planning and Assessment Act 1979. It is an
+offence not to comply. It is also an offence to remove or interfere with a smoke alarm
+or heat alarm. Penalties apply.
+WARNING—LOOSE-FILL ASBESTOS INSULATION
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 17 of 33
+
+--------------------------------------------------------------------------------
+Before purchasing land that includes residential premises, within the meaning of the
+Home Building Act 1989, Part 8, Division 1A, built before 1985, a purchaser is strongly
+advised to consider the possibility that the premises may contain loose-fill asbestos
+insulation, within the meaning of the Home Building Act 1989, Part 8, Division 1A. In
+particular, a purchaser should—
+(a) search the Register required to be maintained under the Home Building Act 1989,
+Part 8, Division 1A, and
+(b) ask the relevant local council whether it holds records showing that the residential
+premises contain loose-fill asbestos insulation.
+For further information about loose-fill asbestos insulation, including areas in which
+residential premises have been identified as containing loose-fill asbestos insulation,
+contact NSW Fair Trading.
+Part 2
+section 13
+17
+If a schedule of finishes is proposed for the land—the proposed schedule.
+18
+If a section 88B instrument, within the meaning of the Conveyancing (General) Regulation 2018, is
+proposed to be lodged with the Registrar-General under the Act, Part 23, Division 3 with the draft
+plan—the instrument.
+19
+If the contract relates to land that includes a lot in a proposed strata scheme—the draft by-laws.
+20
+If the contract relates to land that includes a lot in a proposed community scheme, precinct
+scheme or neighbourhood scheme—
+(a) the draft management statement, and
+(b) if a development contract is proposed for the scheme—the draft proposed contract.
+21
+If the contract relates to land that includes a lot in a proposed development scheme—the draft
+strata development contract.
+22
+A draft strata management statement, if—
+(a) the contract relates to land that includes a lot in a proposed strata scheme that relates to a
+part strata parcel within the meaning of the Strata Schemes Development Act 2015, and
+(b) a strata management statement is required under the Strata Schemes Development Act 2015,
+section 99 for registration of the strata plan.
+23
+If the contract relates to land that will be subject to a building management statement—the draft
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 18 of 33
+
+--------------------------------------------------------------------------------
+building management statement.
+Schedule 2 Prescribed warranties
+sections 5 and 18
+Part 1 Warranty in contract
+section 5
+1
+The vendor warrants, as at the date of the contract and except as disclosed in the contract, that—
+(a) the land is not subject to an adverse affectation, and
+(b) the land does not contain part of a sewer belonging to a recognised sewerage authority, and
+(c) the planning certificate attached to the contract specifies the status of the land in relation to
+the matters set out in the Environmental Planning and Assessment Regulation 2021, Schedule
+2, and
+(d) either—
+(i) there is no matter in relation to a building or structure on the land included in the sale of
+the land that would justify the making of an upgrading or demolition order, or
+(ii) if there is a matter that would justify the making of an upgrading or demolition order—a
+building information certificate has been issued in relation to the building or structure
+since the matter arose, and
+(e) if the land is burdened or purports to be burdened by a positive covenant imposed under the
+Act, Part 6, Division 4—no charge is payable under the Act, section 88F in relation to the land,
+and
+(f) the land is not subject to an annual charge for the provision of coastal protection services under
+the Local Government Act 1993, section 496B.
+2
+Without limiting the way in which an adverse affectation may be disclosed, an adverse affectation
+is taken to be disclosed in a contract if 1 or more of the following is attached to the contract—
+(a) a document describing the effect of the adverse affectation,
+(b) a document issued by an authority or other entity to the effect that the authority or entity, or
+another authority or entity, has a proposal referred to in this Schedule, Part 3,
+(c) the order, notice, declaration or other instrument giving rise to the adverse affectation,
+(d) the page of the Gazette in which the order, notice, declaration or other instrument was
+published.
+3
+Without limiting the way in which disclosure may occur, the vendor may disclose that land is
+subject to an annual charge for the provision of coastal services under the Local Government Act
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 19 of 33
+
+--------------------------------------------------------------------------------
+1993 by attaching a section 603 certificate to the contract relating to the land.
+4
+In this warranty—
+(a) land is subject to an adverse affectation if an item listed in this Schedule, Part 3 applies in
+relation to the land, and
+(b) an authority or other entity has a proposal in relation to land only if—
+(i) the authority or entity has issued a written statement, and
+(ii) the substance of the statement is inconsistent with the absence of a proposal of the
+authority or entity in relation to the land, and
+(c) upgrading or demolition order means the following—
+(i) a Demolish Works Order specified in the Environmental Planning and Assessment Act 1979,
+Schedule 5, Part 1, item 3, in the circumstances described in the first, second and fifth
+bullet points in Column 2, or
+(ii) a Restore Works Order, Compliance Order or Repair or Remove Works Order specified in the
+Environmental Planning and Assessment Act 1979, Schedule 5, Part 1, items 10–12, or
+(iii) an order to demolish or remove a building or an order to repair or make structural
+alterations to a building specified in the Local Government Act 1993, section 124, Table,
+item 1 or 3.
+Part 2 Warranty in option
+section 18
+5
+The vendor warrants, as at the date of the option and except as disclosed in the option, that—
+(a) the land is not subject to an adverse affectation, and
+(b) the land does not contain part of a sewer belonging to a recognised sewerage authority, and
+(c) the planning certificate attached to the option specifies the status of the land in relation to the
+matters set out in the Environmental Planning and Assessment Regulation 2021, Schedule 2,
+and
+(d) either—
+(i) there is no matter in relation to a building or structure on the land included in the sale of
+the land that would justify the making of an upgrading or demolition order, or
+(ii) if there is a matter that would justify the making of an upgrading or demolition order—a
+building information certificate has been issued in relation to the building or structure
+since the matter arose, and
+(e) if the land is burdened or purports to be burdened by a positive covenant imposed under the
+Act, Part 6, Division 4—no charge is payable under that Act, section 88F in respect of the land,
+and
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 20 of 33
+
+--------------------------------------------------------------------------------
+(f) the land is not subject to an annual charge for the provision of coastal protection services under
+the Local Government Act 1993, section 496B.
+6
+Without limiting the way in which an adverse affectation may be disclosed, an adverse affectation
+is taken to be disclosed in an option if 1 or more of the following is attached to the option—
+(a) a document describing the effect of the adverse affectation,
+(b) a document issued by an authority or other entity to the effect that the authority or entity, or
+another authority or entity, has a proposal referred to in this Schedule, Part 3,
+(c) the order, notice, declaration or other instrument giving rise to the adverse affectation,
+(d) the page of the Gazette in which the order, notice, declaration or other instrument was
+published.
+7
+Without limiting the way in which disclosure may occur, the vendor may disclose that land is
+subject to an annual charge for the provision of coastal services under the Local Government Act
+1993 by attaching a section 603 certificate to the option relating to the land.
+8
+In this warranty—
+(a) land is subject to an adverse affectation if an item listed in this Schedule, Part 3 applies in
+relation to the land, and
+(b) an authority or other entity has a proposal in respect of land only if—
+(i) the authority or entity has issued a written statement, and
+(ii) the substance of the statement is inconsistent with there being no proposal of the
+authority or entity in respect of the land, and
+(c) upgrading or demolition order means the following—
+(i) a Demolish Works Order specified in the Environmental Planning and Assessment Act 1979,
+Schedule 5, Part 1, item 3, in the circumstances described in the first, second and fifth
+bullet points in Column 2, or
+(ii) a Restore Works Order, Compliance Order or Repair or Remove Works Order specified in the
+Environmental Planning and Assessment Act 1979, Schedule 5, Part 1, items 10–12, or
+(iii) an order to demolish or remove a building or an order to repair or make structural
+alterations to a building specified in the Local Government Act 1993, section 124, Table,
+item 1 or 3.
+Part 3 Adverse affectations
+9
+A proposal for either or both of the following by Transport Asset Holding Entity of New South Wales,
+Sydney Metro, Sydney Trains or Transport for NSW—
+(a) re-alignment, widening or siting of a road or railway,
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 21 of 33
+
+--------------------------------------------------------------------------------
+(b) alteration of the level of a road or railway.
+10
+A proposal by or on behalf of the Minister administering the Education Act 1990 to acquire the
+whole or part of the land.
+11
+A proposal for a right or interest in the whole or part of the land to be acquired by—
+(a) an energy distributor, within the meaning of the Energy Services Corporations Act 1995, or
+(b) an authorised network operator within the meaning of the Electricity Network Assets
+(Authorised Transactions) Act 2015, or
+(c) the lessor of a transacted distribution system or transacted transmission system within the
+meaning of the Electricity Network Assets (Authorised Transactions) Act 2015.
+12
+A listing on the State Heritage Register, an interim heritage order or other order or notice under
+the Heritage Act 1977.
+13
+A proposal to acquire a right or interest in the whole or part of the land under the Pipelines Act
+1967.
+14
+A proposal for the New South Wales Land and Housing Corporation, constituted under the Housing
+Act 2001, to acquire the whole or part of the land.
+15
+A written notice to or claim on the vendor in relation to—
+(a) a common boundary or a boundary fence between the land and adjoining land, or
+(b) an encroachment onto adjoining land by a building or structure on the land, or
+(c) an encroachment onto the land by a building or structure on adjoining land, or
+(d) an access order, or an application for an access order, under the Access to Neighbouring Land
+Act 2000.
+16
+A Demolish Works Order or a Repair Order specified in the Environmental Planning and
+Assessment Act 1979, Schedule 5, Part 1 that has not been fully complied with.
+17
+An order to demolish or remove a building or to repair or make structural alterations to a building
+specified in the Local Government Act 1993, section 124, Table, item 1 or 3 that has not been fully
+complied with.
+18
+A building product rectification order, within the meaning of the Building Products (Safety) Act
+2017, that has not been fully complied with.
+19
+An affected building notice, within the meaning of the Building Products (Safety) Act 2017, Part 4,
+that is in force.
+20
+A building work rectification order, within the meaning of the Residential Apartment Buildings
+(Compliance and Enforcement Powers) Act 2020, that is in force.
+21
+A written notice to or claim on the vendor in relation to a failure or alleged failure to comply with a
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 22 of 33
+
+--------------------------------------------------------------------------------
+positive covenant imposed on the land under the Act, Part 6, Division 4.
+22
+If the contract relates to land that includes a lot in a freehold strata scheme—
+(a) the owners corporation has passed a motion for a resolution under the Strata Schemes
+Development Act, Part 10 that a strata renewal proposal warrants further investigation by a
+strata renewal committee, and
+(b) minutes of the meeting recording the resolution that are required to be kept under the Strata
+Schemes Management Act 2015, Schedule 1 have not yet been distributed.
+23
+If the contract relates to land that includes a lot the subject of a leasehold strata scheme, a
+written notice to or claim on the vendor by the lessor of the scheme in relation to a breach or
+alleged breach of a provision of the lease of the lot.
+24
+A right of way under the Mining Act 1992, section 164, 211 or 235C.
+25
+A licence under the Water Act 1912, section 13A.
+26
+One or more of the following instruments in force under the repealed Stock Diseases Act 1923,
+continued in force by the Biosecurity Act 2015, Schedule 7, clause 3—
+(a) an order under section 7(1)(c) or (d), 8(1)(a), (b), (c1), (d) or (f), 13(2) or 17(1),
+(b) a notice under section 8(1)(c),
+(c) a declaration under section 10, 11A or 15(1),
+(d) an undertaking under section 11,
+(e) an appointment under section 12(a),
+(f) an authorisation under section 12(b).
+27
+One or more of the following instruments in force under the repealed Stock (Chemical Residues)
+Act 1975, continued in force by the Biosecurity Act 2015, Schedule 7, clause 3—
+(a) an order under section 5(1)(d) or (e)(ii) or 11(1) or (2),
+(b) a requirement under section 7(1) or 8(1),
+(c) an undertaking under section 7A(1),
+(d) a restriction or prohibition under section 12(1).
+28
+A notice under the Soil Conservation Act 1938, section 15A(1), 17(1) or (7)(c), 18(1), 20(1) or
+22(1).
+29
+A direction under the Native Vegetation Act 2003, section 38(1), as in force on the repeal of the
+Native Vegetation Act 2003 and continued under the Biodiversity Conservation (Savings and
+Transitional) Regulation 2017, clause 54(2).
+30
+One or both of the following under the Trees (Disputes Between Neighbours) Act 2006—
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 23 of 33
+
+--------------------------------------------------------------------------------
+(a) an application for an order requiring work to be carried out in relation to a tree,
+(b) if an order requiring work to be carried out in relation to a tree has been made and the work
+has not been carried out fully in compliance with the order—the order.
+31
+An order under the repealed Coastal Protection Act 1979, Part 4D in relation to temporary coastal
+protection works on the land or public land adjacent to the land, unless the council is satisfied that
+the order has been fully complied with.
+32
+An emergency order or a control order under the Biosecurity Act 2015 that has been served on
+the owner or occupier of the land.
+33
+An individual biosecurity direction under the Biosecurity Act 2015 that—
+(a) prohibits, regulates or controls the doing of anything, or
+(b) requires anything to be done.
+34
+A biosecurity undertaking under the Biosecurity Act 2015.
+35
+A mandatory code compliant certificate issued under the Local Land Services Act 2013, Part 5A
+that requires the establishment of a set aside area.
+36
+A remediation order within the meaning of the Biodiversity Conservation Act 2016, Part 11.
+Schedule 3 Prescribed terms
+sections 7–11
+1
+Objections and requisitions
+(1) Nothing in the contract or another agreement prevents the purchaser, expressly or by
+implication, from making an objection, requisition or claim the purchaser would
+otherwise be entitled to make about—
+(a) an encroachment onto adjoining land by a building or structure on the land, or
+(b) an encroachment by a building or structure on adjoining land onto the land.
+(2) Subsection (1) does not apply if—
+(a) the encroachment is disclosed and clearly described in the contract, and
+(b) the contract contains an express term precluding the purchaser from making an
+objection, requisition or claim.
+(3) In this section—
+encroachment does not include a dividing fence within the meaning of the Dividing
+Fences Act 1991.
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 24 of 33
+
+--------------------------------------------------------------------------------
+2
+Land tax certificate—contracts completing in 14 days or less
+(1) The vendor must serve a current land tax certificate on the purchaser on the day that
+the contract is made.
+(2) The purchaser does not have to complete the contract before the date on which the
+certificate is served.
+3
+Land tax certificate—contracts completing in more than 14 days and contracts where no
+completion date agreed
+(1) The vendor must serve a current land tax certificate on the purchaser at least 14 days
+before completion of the contract.
+(2) The purchaser does not have to complete the contract earlier than 14 days after
+service of the certificate.
+4
+Purchaser may claim compensation instead of rescission
+(1) If the purchaser has a right to rescind the contract under the Act, section 66ZO or
+66ZP, the purchaser may, instead of rescinding the contract, make a claim for
+compensation from the vendor of up to 2% of the purchase price of the property.
+(2) A claim for compensation must be made before completion of the contract and no
+later than—
+(a) for a right to rescind under the Act, section 66ZO—14 days after the purchaser
+receives the notice of changes in accordance with the Act, section 66ZN, or
+(b) for a right to rescind under the Act, section 66ZP—14 days after the purchaser
+receives the registered plan in accordance with the section.
+(3) A claim for compensation may be made by written notice served on the vendor (a
+claim notice).
+(4) The claim notice must specify the following—
+(a) the amount of compensation claimed by the purchaser,
+(b) the change or inaccuracy that gives rise to the right to rescind,
+(c) why the purchaser would not have entered into the contract had the purchaser
+been aware of the change or inaccuracy,
+(d) how the purchaser would be materially prejudiced by the change or inaccuracy.
+(5) A claim notice must be signed by—
+(a) the purchaser or the purchaser’s solicitor, or
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 25 of 33
+
+--------------------------------------------------------------------------------
+(b) if there is more than 1 purchaser, each of the purchasers or their respective
+solicitors.
+(6) A claim notice must be served on—
+(a) the vendor or the vendor’s solicitor, or
+(b) if there is more than 1 vendor—1 of the vendors or the solicitor of 1 of the
+vendors.
+(7) Service of a claim notice may be effected—
+(a) in accordance with the Act, section 170, or
+(b) at the address of the vendor shown in the contract, or
+(c) in accordance with the service provisions in the contract.
+(8) Service of a claim notice does not prevent completion of the contract.
+5
+Determination of compensation claims
+(1) A claim for compensation is finalised if—
+(a) the vendor rectifies, to the satisfaction of the purchaser, the change or inaccuracy
+that gave rise to the right to rescind, or
+(b) the vendor agrees to pay to the purchaser—
+(i) the amount of compensation claimed by the purchaser in the claim notice (the
+claim amount), or
+(ii) a lesser amount agreed by the purchaser, or
+(c) an arbitrator decides the claim under this section.
+(2) If the claim for compensation has not been finalised by agreement between the
+parties within 1 month of service of a claim notice or by completion of the contract,
+whichever occurs first, the parties must appoint an arbitrator to determine the claim.
+(3) If the parties do not appoint an arbitrator in accordance with subsection (2) within the
+earliest of the following, an arbitrator must be appointed in a way approved by the
+Secretary of the Department of Customer Service at the request of a party—
+(a) 2 months of the service of a claim notice,
+(b) 1 month of completion.
+(4) The arbitrator must not determine that the purchaser is entitled to more than the
+claim amount.
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 26 of 33
+
+--------------------------------------------------------------------------------
+(5) If an arbitrator determines the claim, the arbitrator’s decision is final and the
+purchaser is no longer able to rescind the contract under the Act, section 66ZO or
+66ZP.
+(6) An arbitrator may also make an award of costs.
+(7) A claim for compensation is taken to be withdrawn if an arbitrator has not been
+appointed to determine a claim for compensation within the earliest of the following—
+(a) 4 months of the service of the claim notice,
+(b) 3 months of completion.
+6
+Settlement of compensation claims
+(1) If a claim for compensation is finalised before completion, the amount of
+compensation agreed between the vendor and purchaser or determined by an
+arbitrator (the compensation amount) must be paid to the purchaser as an
+adjustment on completion.
+(2) If a claim for compensation is not finalised before completion, the following applies—
+(a) the claim amount must not be paid to the vendor on completion,
+(b) the holder of a deposit payable under the contract must hold the claim amount
+until the claim is finalised or taken to be withdrawn, whichever occurs first,
+(c) if the contract provides for the investment of a deposit payable under the
+contract—
+(i) the holder of the claim amount may invest the amount in accordance with the
+relevant provisions of the contract, and
+(ii) interest earned on the claim amount is to be paid to the purchaser and vendor
+in the way specified in the contract, or as otherwise decided by the arbitrator,
+(d) when the claim for compensation is finalised, the holder of the claim amount must
+pay—
+(i) the compensation amount to the purchaser, and
+(ii) any amount remaining from the claim amount to the vendor,
+(e) if the claim is taken to be withdrawn after completion—the claim amount must be
+paid to the vendor.
+(3) In this section—
+claim amount has the same meaning as in section 5.
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 27 of 33
+
+--------------------------------------------------------------------------------
+7
+Strata units bought off the plan
+(1) The vendor must serve, at least 14 days before completion of the contract, an
+occupation certificate in relation to the building, or part of the building, of which the
+lot, and any part of the building reasonably necessary for access to the lot, form part.
+(2) The purchaser does not have to complete earlier than 14 days after the service.
+(3) In this section—
+occupation certificate includes an interim occupation certificate and a final
+occupation certificate within the meaning of the Environmental Planning and
+Assessment Act 1979, section 109H immediately before the commencement of the
+Environmental Planning and Assessment Amendment Act 2017, Schedule 6.2[9].
+8
+Land and house packages
+(1) The vendor must serve an occupation certificate in relation to the dwelling house at
+least 14 days before completion.
+(2) The purchaser does not have to complete earlier than 14 days after the service.
+Schedule 4 Exempt contracts, options and land
+sections 6, 15, 17 and 19
+Part 1
+sections 15 and 17
+1
+A contract between the owners of adjoining land that only results in an adjustment of a common
+boundary.
+2
+A contract between co-owners, within the meaning of the Act, Part 4, Division 6, providing for the
+acquisition by 1 or more co-owners of the whole or part of another co-owner’s share or interest.
+3
+A contract for the sale of land to Transport for NSW if the contract is for the acquisition of land for
+the purposes of the Roads Act 1993.
+4
+A contract for the sale of the fee simple in the whole or part of land the subject of a lease, holding
+or tenure under the Crown Lands (Continued Tenures) Act 1989 or the Western Lands Act 1901, the
+tenure being continued in force by the Crown Land Management Act 2016, Schedules 1 and 3, to
+the holder of the lease, holding or tenure.
+5
+A contract for the sale of the whole or part of a former public road if—
+(a) Crown land forms part of the former public road, or
+(b) the land that forms part of the former public road is vested in a council.
+Note—
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 28 of 33
+
+--------------------------------------------------------------------------------
+See the Roads Act 1993, sections 42 and 43.
+6
+A contract for the sale of land entered into by the Planning Ministerial Corporation, within the
+meaning of the Environmental Planning and Assessment Act 1979, under that Act, Schedule 2,
+clause 31.
+7
+A contract for the sale of land entered into by the Minister administering the Heritage Act 1977
+under the Heritage Act 1977, section 112.
+Part 2
+sections 6 and 15
+8
+A contract arising from the exercise of an option to purchase land, if the option is contained in a will
+or lease.
+9
+A contract arising from the exercise of an option to purchase land, other than an option specified in
+item 8 or an option that is void under the Act, section 66ZG, if the proposed contract and the
+prescribed documents are attached to the option.
+10
+A contract arising from the exercise of an option to purchase land, other than residential property,
+if the terms of the option prevent exercise of the option earlier than 3 months after the date on
+which it is granted.
+Part 3
+section 17
+11
+A contract arising from the exercise of an option to purchase land, if the option is contained in a
+will or lease.
+12
+A contract arising from the exercise of another option to purchase land, not including an option
+that is void under section 66ZG of the Act, if the proposed contract and the prescribed documents
+are attached to the option.
+Part 4
+section 19
+13
+An option to purchase land, if the exercise of the option would result in a contract listed in this
+Schedule, Part 1.
+14
+An option to purchase land, if the option is contained in a will or a lease.
+Part 5
+sections 15, 17 and 19
+15
+An estate or interest created by or subsisting because of a mortgage, easement, permissive
+occupancy or profit à prendre.
+16
+An interest under a lease other than—
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 29 of 33
+
+--------------------------------------------------------------------------------
+(a) a lease with an unexpired term, including a term for which the lease may be renewed at the
+option of the lessee, of more than 25 years, or
+(b) a lease of Crown land with an unexpired term of more than 5 years, or
+(c) a perpetual lease or other lease from the Crown with an unexpired term of more than 5 years,
+or
+(d) a lease of a lot in a leasehold strata scheme.
+Schedule 5 Forms
+sections 16 and 20
+Form 1 Cooling off period (purchaser’s rights)
+1
+This is the statement required by the Conveyancing Act 1919, section 66X. This statement applies to a contract
+for the sale of residential property.
+2
+EXCEPT in the circumstances listed in paragraph 3, the purchaser may rescind the contract before 5pm on—
+(a) for an off the plan contract—the tenth business day after the day on which the contract was made, or
+(b) in any other case—the fifth business day after the day on which the contract was made.
+3
+There is NO COOLING OFF PERIOD—
+(a) if, at or before the time the contract is made, the purchaser gives to the vendor, or the vendor’s solicitor or agent, a
+certificate that complies with the Act, section 66W, or
+(b) if the property is sold by public auction, or
+(c) if the contract is made on the same day as the property was offered for sale by public auction but passed in, or
+(d) if the contract is made in consequence of the exercise of an option to purchase the property, other than an option that
+is void under the Act, section 66ZG.
+4
+A purchaser exercising the right to cool off by rescinding the contract forfeits 0.25% of the purchase price of
+the property to the vendor.
+5
+The vendor is entitled to recover the forfeited amount from an amount paid by the purchaser as a deposit
+under the contract. The purchaser is entitled to a refund of any balance.
+Form 2 Cooling off period (purchaser’s rights)
+1
+This is the statement required by the Conveyancing Act 1919, section 66ZH. This statement applies to an
+option to purchase residential property.
+2
+The purchaser may rescind the option before 5pm on the fifth business day after the day on which the option
+was granted, EXCEPT in the circumstances listed in paragraph 3.
+3
+There is NO COOLING OFF PERIOD—
+(a) if, at or before the time the option is granted, the purchaser gives to the vendor, or the vendor’s solicitor or agent, a
+certificate that complies with the Act, section 66ZF, or
+(b) if the option is granted on the same day as the property was offered for sale by public auction but passed in.
+4
+A purchaser exercising the right to cool off by rescinding the option forfeits 0.25% of the purchase price of the
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 30 of 33
+
+--------------------------------------------------------------------------------
+property to the vendor.
+5
+The vendor is entitled to recover the forfeited amount from an amount paid by the purchaser in relation to the
+option or from a deposit paid in relation to the purchase of the property. The purchaser is entitled to a refund
+of any balance.
+Schedule 6 Dictionary
+section 3
+association property has the same meaning as in the Community Land Development Act 2021.
+building information certificate means a building information certificate issued in accordance with
+the Environmental Planning and Assessment Act 1979, Division 6.7.
+building management statement means a building management statement registered or proposed
+to be registered under the Act, Part 23, Division 3B.
+common property has the same meaning as in the Strata Schemes Development Act 2015.
+community plan has the same meaning as in the Community Land Development Act 2021.
+community scheme has the same meaning as in the Community Land Development Act 2021.
+computer folio certificate has the same meaning as in the Real Property Act 1900.
+Crown land has the same meaning as in the Crown Land Management Act 2016.
+current land tax certificate, in relation to a contract for the sale of land, means a certificate applied
+for by, or on behalf of, the vendor that—
+(a) is issued under the Land Tax Management Act 1956, section 47—
+(i) in the year in which the contract is to be completed, or
+(ii) no more than 3 months before the date on which service is required by the term, and
+(b) relates to—
+(i) the land the subject of the contract for sale, or
+(ii) for a contract for the sale of land comprising 1 or more lots in a proposed plan of
+subdivision—the land from which those lots are to be created.
+development contract has the same meaning as in the Community Land Development Act 2021.
+development scheme has the same meaning as in the Strata Schemes Development Act 2015.
+disclosure statement has the same meaning as in the Act, Part 4, Division 10.
+folio means a folio of the Register maintained by the Registrar-General under the Real Property Act
+1900.
+freehold strata scheme has the same meaning as in the Strata Schemes Development Act 2015.
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 31 of 33
+
+--------------------------------------------------------------------------------
+leasehold strata scheme has the same meaning as in the Strata Schemes Development Act 2015.
+management statement has the same meaning as in the Community Land Development Act 2021.
+neighbourhood plan has the same meaning as in the Community Land Development Act 2021.
+neighbourhood scheme has the same meaning as in the Community Land Development Act 2021.
+occupation certificate has the same meaning as in the Environmental Planning and Assessment Act
+1979.
+off the plan contract has the same meaning as in the Act, Part 4, Division 10.
+parking or storage area, in relation to a contract that relates to land that includes a lot in a
+proposed strata scheme, means the part of the lot—
+(a) to be used primarily for storage or parking, and
+(b) not to be used for residential purposes, and
+(c) that is not contiguous to the main part of the lot.
+planning certificate—
+(a) means a certificate issued under the Environmental Planning and Assessment Act 1979, section
+10.7(2), and
+(b) does not include a certificate referred to in the Environmental Planning and Assessment Regulation
+2021, section 290(2).
+precinct plan has the same meaning as in the Community Land Development Act 2021.
+precinct scheme has the same meaning as in the Community Land Development Act 2021.
+prescribed documents means the documents prescribed by section 4 for the Act, section 52A(2)(a).
+property certificate, in relation to land—
+(a) means the following—
+(i) a copy of the folio for the land,
+(ii) a computer folio certificate in relation to the land,
+(iii) a document that—
+(A) contains the same information as in the folio for the land, and
+(B) is certified, by or on behalf of the person to whom the information has been provided, as
+having been provided in accordance with the Real Property Act 1900, section 96B(2), and
+(b) for a lease folio—includes the head title and each lease folio relating to the head title.
+purchaser, in relation to an option to purchase residential property, has the same meaning as in the
+Act, Part 4, Division 9.
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 32 of 33
+
+--------------------------------------------------------------------------------
+recognised sewerage authority means a public authority or local authority that provides a sewage
+disposal service and includes—
+(a) Hunter Water Corporation, and
+(b) Sydney Water Corporation, and
+(c) a licensed network operator within the meaning of the Water Industry Competition Act 2006.
+section 603 certificate means a certificate issued under the Local Government Act 1993, section
+603(3).
+sewer main means the part of sewerage infrastructure that comprises the main sewage pipe into
+which sewage is discharged from premises.
+sewerage infrastructure means infrastructure that is, or is to be, used for the treatment, storage,
+conveyance or reticulation of sewage, and—
+(a) includes an outfall pipe or other work that stores or conveys water leaving the infrastructure, but
+(b) does not include a pipe fitting or apparatus situated upstream of a customer’s connection point to
+a sewer main.
+strata development contract has the same meaning as in the Strata Schemes Development Act
+2015.
+strata management statement has the same meaning as in the Strata Schemes Development Act
+2015.
+strata plan has the same meaning as in the Strata Schemes Development Act 2015.
+strata scheme has the same meaning as in the Strata Schemes Management Act 2015.
+the Act means the Conveyancing Act 1919.
+Conveyancing (Sale of Land) Regulation 2022 [NSW]
+Current version for 26 August 2022 to date (accessed 8 April 2025 at 19:29)
+Page 33 of 33
+
+--------------------------------------------------------------------------------

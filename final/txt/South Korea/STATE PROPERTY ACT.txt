@@ -1,0 +1,2073 @@
+ 
+법령, 판례 등 모든 법령정보를 한 번에 검색 OK !
+STATE PROPERTY ACT
+[Enforcement Date 09. Jun, 2020.] [Act No.17339, 09. Jun, 2020., Amendment by
+Other Act]
+기획재정부 (국유재산정책과-국유재산법 총괄)044-215-5152
+법제처 국가법령정보센터
+www.law.go.kr
+2025.04.05
+
+--------------------------------------------------------------------------------
+법제처                                                            1                                                       국가법령정보센터
+「STATE PROPERTY ACT」
+STATE PROPERTY ACT
+[Enforcement Date 09. Jun, 2020.] [Act No.17339, 09. Jun, 2020., Amendment by Other Act]
+기획재정부 (국유재산정책과-국유재산법 총괄) 044-215-5152
+기획재정부 (출자관리과-현물출자, 정부배당) 044-215-5177
+ 
+            CHAPTER I GENERAL PROVISIONS
+ 
+Article 1 (Purpose) The purpose of this Act is to prescribe fundamental matters concerning
+State property, thereby ensuring the appropriate protection and efficient administration
+and disposal of State property.
+ 
+Article 2 (Definitions) The definitions of terms used in this Act are as follows: <Amended on
+Mar. 30, 2011>
+1. The term "State property" means property falling under any of the subparagraphs of
+Article 5 (1), which comes to fall under the ownership of the State at a cost to the State,
+by contributed acceptance, or by operation of statutes or treaties;
+2. The term "contributed acceptance" means the gratuitous transfer of ownership of
+property falling under any of the subparagraphs of Article 5 (1) to the State by a person,
+other than the State, and acceptance thereof by the State;
+3. The term "administration" means any and all activities performed for the purpose of
+acquiring, operating, keeping, or preserving State property;
+4. The term "disposal" means the transfer of ownership of any State property to a person,
+other than the State, by means of sale, exchange, transfer, entrustment, contribution in
+kind, etc.;
+5. The term "administrative conversion" means transferring the right to manage any State
+property between general accounts and special accounts/funds or between different
+special accounts/funds;
+6. The term "government-invested corporation" means any corporation in which the
+government has invested or is to invest, and which is prescribed by Presidential Decree;
+7. The term "permission for use" means permitting any person other than the State to use
+and benefit from any administrative property for a fixed period, whether for a fee or at
+no charge;
+
+--------------------------------------------------------------------------------
+법제처                                                            2                                                       국가법령정보센터
+「STATE PROPERTY ACT」
+8. The term "loan contract" means any contract or agreement concluded for allowing any
+person other than the State to use and benefit from any general property for a fixed
+period, whether for a fee or at no charge;
+9. The term "indemnity" means any amount of money imposed on a person who has used,
+benefited from, or occupied any State property without obtaining permission for use or
+signing a loan contract (including such persons who have continued to use, benefit from,
+or occupy any State property without obtaining permission for use or signing a loan
+contract even though the period for its original permission for use or loan contracts has
+expired; hereinafter referred to as "person occupying any State property without
+permission");
+10. The term "office of general administration" means the Minister of Strategy and Finance;
+11. The term "head of a central government agency, etc." means the head of a central
+government agency under Article 6 of the National Finance Act (hereinafter referred to as
+"head of a central government agency") and the person delegated or entrusted with the
+affairs concerning administration or disposal of general property pursuant to Article 42
+(1).
+ 
+Article 3 (Basic Principles for Administration and Disposal of State Property) When the State
+administers or disposes of any State property, it shall comply with the following principles:
+<Amended on Mar. 30, 2011>
+1. It shall be in conformity with the common interests of the entire country;
+2. Its acquisition and disposal shall be made to strike a balance;
+3. It shall take public values and utility into consideration;
+3-2. It shall take economic costs into consideration;
+4. It shall follow transparent and efficient procedures.
+ 
+Article 4 (Relationship to other Acts) Administration and disposal of any State property shall
+be subject to conditions prescribed by this Act, unless any special provisions exist in other
+Acts: Provided, That where the special provisions in other Acts and the Chapter II conflict
+with each other, those in Chapter II shall prevail.
+ 
+Article 5 (Scope of State Property) (1) The scope of State property is as follows: <Amended
+on Dec. 18, 2012>
+
+--------------------------------------------------------------------------------
+법제처                                                            3                                                       국가법령정보센터
+「STATE PROPERTY ACT」
+1. Real estate and the appurtenances thereof;
+2. Vessels, buoys, floating bridges, floating docks, and aircraft and the appurtenances
+thereof;
+3.  Machinery  and  appliances  prescribed  by  Presidential  Decree  which  are  used  in
+government enterprises defined in Article 2 of the Government Enterprise Budget Act
+(hereinafter referred to as "government enterprises") or in government facilities;
+4. Superficies, easements, leasehold rights, mining rights, and other rights equivalent
+thereto;
+5. Securities defined in Article 4 of the Financial Investment Services and Capital Markets
+Act (hereinafter referred to as "securities");
+6. Any of the following rights (hereinafter referred to as "intellectual property"):
+(a) Patent rights, utility model rights, design rights, and trademark rights registered under
+the Patent Act, the Utility Model Act, the Design Protection Act and the Trademark Act;
+(b) Copyrights, neighboring copyrights, and rights of database producers provided for in
+the Copyright Act, and other rights protected by the same Act and registered with the
+Korea Copyright Commission pursuant to Articles 53 and 112 (1) of the same Act
+(hereinafter referred to as "copyright, etc.");
+(c) Variety protection rights defined in subparagraph 4 of Article 2 of the Act on the
+Protection of New Varieties of Plants;
+(d) Intellectual property rights defined in subparagraph 3 of Article 3 of the Framework
+Act on Intellectual Property, other than the intellectual property rights provided for in
+items (a) through (c): Provided, That any right not registered under the Copyright Act
+shall be excluded herefrom.
+(2) Machinery and appliances referred to in paragraph (1) 3 that have been generally
+disused due to the closure of the relevant enterprises or facilities, shall retain their status
+as State property notwithstanding such closure.
+ 
+Article 6 (Classifications and Types of State Property) (1) State property shall be classified into
+administrative property and general property, according to its purpose of use.
+(2) The types of administrative property are as follows: <Amended on Dec. 18, 2012>
+1. Property for official use: Property the State directly uses or determines to use for
+administrative or business purposes or for the residence of public officials (limited to
+cases prescribed by Presidential Decree as necessary for the performance of their duties)
+
+--------------------------------------------------------------------------------
+법제처                                                            4                                                       국가법령정보센터
+「STATE PROPERTY ACT」
+during the period prescribed by Presidential Decree;
+2. Property for public use: Property the State directly uses or determines to use for public
+purposes during the period prescribed by Presidential Decree;
+3. Property for government enterprises: Property any government enterprise directly uses
+or determines to use for administrative or business purposes or for the residence of its
+personnel (limited to cases prescribed by Presidential Decree as necessary for the
+performance of their duties) during the period prescribed by Presidential Decree;
+4. Property for preservation: Property the State preserves pursuant to statutes, or for other
+necessities.
+(3) The term "general property" means all State property other than administrative
+property.
+ 
+Article 7 (Protection of State Property) (1) No person shall use or benefit from State property
+unless he/she complies with the procedures and methods prescribed by this Act or any
+other Act.
+(2)  No  administrative  property  shall  be  subject  to  acquisition  by  prescription,
+notwithstanding  the  provisions  of  Article  245  of  the  Civil  Act.
+ 
+Article 8 (General Control and Administration of Affairs concerning State Property) (1) The
+office of general administration shall have general control over the affairs concerning State
+property and administer or dispose of the State property (excluding such State property
+administered and disposed of by the head of a central government agency in accordance
+with paragraph (3)). <Amended on Mar. 30, 2011>
+(2) The office of general administration may administer general property by converting it
+into property for preservation.
+(3) The head of a central government agency shall administer or dispose of the State
+property which belongs either to the special accounts established as prescribed in Article 4
+of the National Finance Act or to the funds established as prescribed in Article 5 of the
+same  Act,  and  the  property  falling  under  any  of  subparagraphs  of  Article  40  (2).
+<Amended  on  Mar.  30,  2011>
+(4) Where the head of a central government agency intends to use the State property
+except for the one in paragraph (3) as administrative property, he/she shall obtain approval
+from the office of general administration as prescribed by Presidential Decree. <Newly
+Inserted on Mar. 30, 2011>
+
+--------------------------------------------------------------------------------
+법제처                                                            5                                                       국가법령정보센터
+「STATE PROPERTY ACT」
+(5) Part of the office of general administration's affairs of administering and disposing of
+administrative property under this Act may be delegated to the head of each central
+government agency as prescribed by Presidential Decree. <Newly Inserted on Mar. 30,
+2011>
+ 
+Article 8 (General Control and Administration of Affairs concerning State Property) (1) The
+office of general administration shall have general control over the affairs concerning State
+property and administer or dispose of the State property (excluding such State property
+administered and disposed of by the head of a central government agency in accordance
+with paragraph (3)). <Amended on Mar. 30, 2011>
+(2) The office of general administration may administer general property by converting it
+into property for preservation.
+(3) The head of a central government agency shall administer or dispose of the State
+property which belongs either to the special accounts established as prescribed in Article 4
+of the National Finance Act or to the funds established as prescribed in Article 5 of the
+same  Act,  and  the  property  falling  under  any  of  subparagraphs  of  Article  40  (2).
+<Amended  on  Mar.  30,  2011>
+(4) Where the head of a central government agency intends to use the State property
+except for the one in paragraph (3) as administrative property, he/she shall obtain approval
+from the office of general administration as prescribed by Presidential Decree. <Newly
+Inserted on Mar. 30, 2011>
+(5) The office of general administration shall consider pre-contracts for preferential use
+under Article 40-2 when granting approval of use under paragraph (4). <Newly Inserted on
+Mar. 31, 2020>
+(6) Part of the office of general administration's affairs of administering and disposing of
+administrative property under this Act may be delegated to the head of each central
+government agency as prescribed by Presidential Decree. <Newly Inserted on Mar. 30,
+2011; Mar. 31, 2020>
+[Enforcement Date: Oct. 1, 2020] Article 8
+ 
+Article 8-2 (Withdrawal of Approval of Use, etc.) (1) With respect to the administrative
+property that the office of general administration has approved the use thereof pursuant
+to Article 8 (4), it may withdraw approval of use after deliberation of the Committee for
+Examination on State Property Policies in accordance with Article 26 in cases of falling
+
+--------------------------------------------------------------------------------
+법제처                                                            6                                                       국가법령정보센터
+「STATE PROPERTY ACT」
+under any of the following subparagraphs:
+1. Where it is necessary to achieve administrative objectives of the other State agency;
+2. Where it is acknowledged that property has been administered in an illegal or improper
+manner, according to a report under Article 21(1) or an audit under paragraph (3) of the
+same Article;
+3. Where it is acknowledged that the withdrawal of approval of use is inevitable on the
+grounds of illegal or unfair administration of property, etc. as proven by an audit
+conducted by the Board of Audit and Inspection, except for the cases falling under
+subparagraph 1 or 2.
+(2) In order for the office of general administration to withdraw approval of use in
+accordance with paragraph (1), it shall inform the head of a central government agency
+thereof in advance to give him/her an opportunity to present an opinion thereon.
+(3) Where the approval of use has been withdrawn in accordance with paragraph (1), the
+head  of  a  central  government  agency  shall  without  delay  transfer  the  relevant
+administrative property to the office of general administration. In such cases, it shall be
+deemed that the transferred property has fallen into disuse.
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 9 (Comprehensive Plan for State Property) (1) The office of general administration
+shall notify the head of a central government agency of the guidelines for preparing plans
+to administer and dispose of State property for the following year by April 30 of each year.
+(2) The head of a central government agency shall prepare a plan to manage and dispose
+of State property for the following year in accordance with the guidelines under paragraph
+(1), and shall submit it to the office of general administration by June 30 of every year.
+(3) The office of general administration shall aggregate and coordinate the plans submitted
+pursuant to paragraph (2) to prepare a comprehensive plan for State property, receive
+approval therefor from the President after deliberation of the State Council, and submit the
+plan to the National Assembly no later than 120 days prior to the beginning of each fiscal
+year. <Amended on May 28, 2013>
+(4) The comprehensive plan for State property shall include the following:
+1. Mid- to long-term policy direction for the efficient administration/disposal of State
+property;
+
+--------------------------------------------------------------------------------
+법제처                                                            7                                                       국가법령정보센터
+「STATE PROPERTY ACT」
+2. General plan regarding administration/disposal of State property as prescribed by
+Presidential Decree;
+3. Matters regarding the guidelines for disposal of State property;
+4. Matters regarding the comprehensive plans for special cases involving State property
+under Article 8 of the Act on Regulation of Special Cases of State Property;
+5. Other important matters regarding administration/disposal of State property, except for
+those specified in subparagraphs 1 through 4.
+(5) The provision of paragraph (3) shall apply mutatis mutandis to the modification of a
+comprehensive plan for State property.
+(6) Where the office of general administration has confirmed or changed a comprehensive
+plan for State property in accordance with paragraph (3) and (5), it shall inform the head of
+a central government agency thereof; and in the case of a change made under paragraph
+(5), it shall submit the plan to the National Assembly without delay.
+(7) The head of a central government agency shall prepare a biannual enforcement plan of
+the comprehensive plan for State property that has been confirmed under paragraph (3)
+and submit it to the office of general administration by January 31 of the year concerned.
+(8) Where the office of general administration establishes a comprehensive plan for State
+property in accordance with paragraph (3), it shall respect the opinion of the head of the
+independent government body prescribed under Article 6 (1) of the National Finance Act
+(hereinafter referred to as "head of the independent government body") to the fullest
+extent possible, and in cases where it is inevitable to adjust the comprehensive plan due to
+the  operation  of  policy  for  State  property  or  other  reasons,  the  office  of  general
+administration shall consult with the head of the relevant independent government body in
+advance.
+(9) Notwithstanding the consultation under paragraph (8), when the office of general
+administration intends to adjust the plan of the independent government body under
+paragraph (2), the office of general administration shall hear the opinion of the head of the
+relevant independent government body in the State Council, and when the office of
+general administration has adjusted the plan, it shall submit to the National Assembly the
+scale  and  reason  of  the  adjustment,  the  opinion  of  the  head  of  the  independent
+government body on the adjustment, together with the comprehensive plan for State
+property.
+
+--------------------------------------------------------------------------------
+법제처                                                            8                                                       국가법령정보센터
+「STATE PROPERTY ACT」
+[This Article Wholly Amended on Mar. 30, 2011]
+ 
+Article 10 (Acquisition of State Property) (1) The State shall take into account, among other
+things, the proceeds from the sale of State property and the necessity to reserve them,
+and endeavor to secure financial resources for the acquisition of State property.
+(2) Where the head of a central government agency intends to purchase land or buildings
+for  the  use  of  public  property,  with  financial  resources  from  the  special  accounts
+established under Article 4 of the National Finance Act or from the funds established under
+Article 5 of the same Act, he/she shall consult with the office of general administration.
+[This Article Wholly Amended on Mar. 30, 2011]
+ 
+Article 11 (Restriction on Acquisition of Property for which Private Rights have been Created)
+(1) No property for which private rights have been created shall be acquired by the State
+as State property unless such rights are extinguished: Provided, That the same shall not
+apply where the property is acquired by a court ruling.
+(2) No private right shall be established with respect to State property: Provided, That the
+same shall not apply to cases prescribed by Presidential Decree in regard of general
+property.
+ 
+Article 12 (Disposal of Ownerless Real Estate) (1) The office of general administration or the
+head of a central government agency shall acquire any ownerless real estate as State
+property. <Amended on Mar. 30, 2011>
+(2) In acquiring any ownerless real estate as State property under paragraph (1), the office
+of general administration or the head of a central government agency shall publicly
+announce that a person with a justifiable right or other interested parties may raise an
+objection against such acquisition within a prescribed period of not less than six months,
+as prescribed by Presidential Decree. <Amended on Mar. 30, 2011>
+(3) If the office of general administration or the head of a central government agency
+intends to acquire any ownerless real estate, it may file an application for registration of an
+owner  with  the  competent  cadastral  office  under  the  Act  on  Establishment  and
+Management of Spatial Data by attaching thereto such documents attesting that a public
+announcement has been made in accordance with paragraph (2), only when no objection
+is raised within the period referred to in paragraph (2). <Amended on Jun. 9, 2009; Mar.
+30, 2011; Jun. 3, 2014>
+
+--------------------------------------------------------------------------------
+법제처                                                            9                                                       국가법령정보센터
+「STATE PROPERTY ACT」
+(4) Any State property acquired pursuant to paragraphs (1) through (3) shall be prohibited
+from disposal for ten years from the date of its registration: Provided, That this shall not
+apply where any special ground prescribed by Presidential Decree exists. <Amended on
+Mar. 2, 2016>
+ 
+Article 13 (Contributed Acceptance) (1) If any person intends to donate his/her property
+falling under any of the subparagraphs of Article 5 (1) to the State, the office of general
+administration or the head of a central government agency (applicable only to the cases
+where the head intends to accept contribution in the form of State property falling under
+the special accounts or funds) may accept the donation, as prescribed by Presidential
+Decree. <Amended on Mar. 30, 2011>
+(2) If it is impractical for the State to administer the property which is to be donated to the
+State pursuant to paragraph (1), if the State does not requires it, or if the donation is
+subject to a condition, the office of general administration or the head of a central
+government agency concerned shall not accept the donation: Provided, That if it falls
+under any of the following, the donation is not deemed to be subject to a condition:
+<Amended on Mar. 30, 2011>
+1. Where the property concerned is donated on condition that the donator, his/her heir or
+general successor is permitted to use the property to be donated as administrative
+property free of charge;
+2. Where an administrative property ceases to be used, a person who offers a facility to be
+used as a substitute for the property, his/her heir or general successor donates the
+substitute facility on the condition that the property falling into disuse under Article 55
+(1) 3 is transferred to him/her to the extent of the expenses incurred by him/her.
+ 
+Article 14 (Registration and Records) (1) When the office of general administration or the
+head of a central government agency acquires any State property, it shall promptly
+register, record such property, enter the change of the holder thereof, or take other
+measures necessary for the preservation of relevant rights, as prescribed by Presidential
+Decree. <Amended on Mar. 30, 2011>
+(2) In registering, recording, or entering the change of a holder of any State property, the
+titleholder shall be the State, and the name of the competent central government agency
+shall be entered together therewith: Provided, That in cases of depositing securities with a
+corporation prescribed by Presidential Decree, such corporation is allowed to become the
+
+--------------------------------------------------------------------------------
+법제처                                                            10                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+titleholder.
+(3) Where the State property is inconsistent with the cadastral record, the head of a central
+government agency, etc. shall take necessary measures such as the change of registration,
+division,  merger,  or  change  of  land  category  under  the  Act  on  the  Establishment,
+Management of Spacial Data. In such cases, fees under Article 106 of the Act on the
+Establishment, Management of Spatial Data shall be exempted. <Newly Inserted on Mar. 2,
+2016>
+ 
+Article 15 (Keeping and Handling Securities) (1) The office of general administration or the
+head of a central government agency, etc., shall have the Bank of Korea or such other
+corporation designated by Presidential Decree (hereinafter referred to as the "Bank of
+Korea, etc.") keep and handle securities for and on behalf of the State. <Amended on Mar.
+30, 2011>
+(2) The Bank of Korea, etc., shall keep a book on safekeeping and handling of securities
+and record supply and demand of securities. In such cases, electronic data may be used in
+lieu of the book and the record of supply and demand of securities.
+(3) The Bank of Korea, etc., shall draft reports and statements on the supply and demand
+of securities, and submit them to the office of general administration and the Board of
+Audit and Inspection. However, the statement of supply and demand submitted to the
+Board of Audit and Inspection shall have documentary evidence attached thereto.
+(4) The Bank of Korea, etc., shall undergo an inspection by the Board of Audit and
+Inspection with respect to the supply and demand of securities.
+(5) Where the Bank of Korea, etc., has inflicted damage on the State in connection with
+safekeeping or handling of securities, it shall be liable for such damage under the Civil Act
+and the Commercial Act.
+ 
+Article 16 (Administrative Conversion of State Property) (1) Administrative conversion of State
+property shall be made in any of the following methods: <Amended on Mar. 30, 2011>
+1. In cases of intending to make administrative conversion between general accounts and
+special accounts/funds: Consultation between the office of general administration and
+the head of a central government agency to which the relevant special accounts/funds
+belong;
+
+--------------------------------------------------------------------------------
+법제처                                                            11                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+2. In cases of intending to make administrative conversion between different special
+accounts/funds: Consultation between heads of each central government agency to
+which the relevant special accounts/funds belong.
+(2) If consultation pursuant to paragraph (1) fails, the office of general administration shall
+determine the competent head of a central government agency in view of the following
+matters: <Amended on Mar. 30, 2011>
+1. How the property concerned is being administered at present and how it will be used;
+2. Priority in achieving policy goals of the State.
+[Title Amended on Mar. 30, 2011]
+ 
+Article 17 (Compensatory Administrative Conversion, etc.) Where an administrative conversion
+for any State property is made or its use is permitted between different accounts or funds,
+it shall be made with compensation: Provided, That in cases falling under any of the
+following subparagraphs, it may be made without any compensation: <Amended on Mar.
+30, 2011; Mar. 31, 2020>
+1. Where it is required directly for use as roads, rivers, harbors, airports, or public water
+surfaces, or for any other public purposes;
+2. Where it is agreed upon between the office of general administration and the head of a
+central government agency or between heads of each central government agency that
+administrative conversion is to be made without any compensation due to a cause falling
+under any of the following items:
+(a) Where it is expected that expenses for the appraisal assessment of the State property
+to be subject to an administrative conversion will be excessive in comparison to the
+value of the property concerned;
+(b)  Where  it  is  impractical  to  secure  the  budget  for  making  a  compensatory
+administrative  conversion  in  the  form  of  reciprocal  exchanges;
+(c) Where it is necessary to efficiently use general property that belongs to the special
+accounts or funds under Article 8 (3), subject to deliberation by the Committee for
+Examination on State Property Policies under Article 26.
+[Title Amended on Mar. 30, 2011]
+ 
+Article 18 (Prohibition on Constructing Permanent Facilities) (1) Every person other than the
+State shall be prohibited from constructing any types of structures, such as buildings and
+
+--------------------------------------------------------------------------------
+법제처                                                            12                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+bridges, and other permanent facilities on State property: Provided, That the same shall not
+apply to any of the following cases: <Amended on Mar. 30, 2011; Mar. 2, 2016>
+1. Where they are constructed on the condition that they be donated;
+2. Where they are constructed as public facilities, the ownership of which shall revert to the
+State pursuant to other statutes;
+2-2. Where the relevant property is general property, the purchase price of which is being
+paid in installments pursuant to Article 50 (2), as prescribed by Presidential Decree;
+3. Where they enhance the utility of the State property without disrupting any use of it,
+and they are deemed necessary by the head of a central government agency, etc. to
+achieve the purposes of use for the State property under the loan contracts;
+4. Where they are developed pursuant to Article 59-2.
+(2) Where the construction of permanent facilities is allowed under the proviso to
+paragraph (1), measures for having such person guarantee the payment of an amount
+equivalent to the expenses and costs to be incurred in restoring the State property to its
+original state, including removal of such permanent facilities, shall be taken pursuant to the
+standards and procedures prescribed by Presidential Decree.
+ 
+Article 18 (Prohibition on Constructing Permanent Facilities) (1) Every person other than the
+State shall be prohibited from constructing any types of structures, such as buildings and
+bridges, and other permanent facilities on State property: Provided, That the same shall not
+apply to any of the following cases: <Amended on Mar. 30, 2011; Mar. 2, 2016; Mar. 31,
+2020>
+1. Where they are constructed on the condition that they be donated;
+2. Where they are constructed as public facilities, the ownership of which shall revert to the
+State pursuant to other statutes;
+2-2. Where the relevant property is general property, the purchase price of which is being
+paid in installments pursuant to Article 50 (2), as prescribed by Presidential Decree;
+3. Where a local government or a local public enterprise under the Local Public Enterprises
+Act (hereinafter referred to as "local public enterprise") constructs the infrastructure
+prescribed by Ordinance of the Ministry of Economy and Finance such as cultural
+facilities or public sports facilities for the lives of residents, among the infrastructure
+defined in subparagraph 1 of Article 2 of the Act on Public-Private Partnerships in
+Infrastructure, following consultation with the head of the central government agency
+
+--------------------------------------------------------------------------------
+법제처                                                            13                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+having jurisdiction over the relevant State property, with approval of the office of general
+administration;
+4. Where they are developed pursuant to Article 59-2;
+5. Where the school facilities defined in subparagraph 1 of Article 2 of the School Facilities
+Projects Promotion Act are expanded or rebuilt in elementary schools, middle schools,
+high schools, or special schools established before the Local Education Autonomy Act
+(Act No. 4347) enters into force, following consultation with the office of general
+administration and the head of a relevant central government agency, with approval of
+the Minister of Education;
+6. Where they enhance the utility of the State property without disrupting any use of it,
+and they are deemed necessary by the head of a central government agency, etc. to
+achieve the purposes of use for the State property under the loan contracts.
+(2) Where the construction of permanent facilities is allowed under the proviso to
+paragraph (1), measures for having such person guarantee the payment of an amount
+equivalent to the expenses and costs to be incurred in restoring the State property to its
+original state, including removal of such permanent facilities, shall be taken pursuant to the
+standards and procedures prescribed by Presidential Decree.
+[Enforcement Date: Oct. 1, 2020] Article 18
+ 
+Article 19 (Consultation on Statutes concerning State Property) If the head of a central
+government agency intends to draft, amend, or repeal any statute regulating the
+administration/disposal of any State property, it shall consult with the office of general
+administration and the Board of Audit and Inspection on their details. <Amended on Mar.
+30, 2011>
+ 
+Article 20 (Restrictions on Activities of Personnel) (1) No personnel engaged in duties with
+regard to State property shall acquire the State property which they handle or exchange
+such State property for their private property: Provided, That this shall not apply where
+they obtain permission therefor from the office of general administration or the head of a
+central government agency. <Amended on Mar. 30, 2011>
+(2) Any activities in violation of the provisions of paragraph (1) shall be null and void.
+
+--------------------------------------------------------------------------------
+법제처                                                            14                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+ 
+            CHAPTER II OFFICE OF GENERAL ADMINISTRATION
+ 
+Article 21 (Audit by Office of General Administration) (1) The office of general administration
+may require the head of a central government agency, etc., to report the status of
+administration of State property under its jurisdiction or to submit materials in relation
+thereto. <Amended on Mar. 30, 2011>
+(2)  The  head  of  a  central  government  agency  shall  report  the  status  of  unused
+administrative property prescribed by Presidential Decree under its jurisdiction to the office
+of general administration by January 31 of every year. <Amended on Mar. 30, 2011>
+(3) The office of general administration may audit the current status of State property
+administration by the head of a central government agency, etc., and that of unused
+administrative property under its jurisdiction, or take any other necessary measures.
+<Amended on Mar. 30, 2011>
+ 
+Article 22 (Request for Abolition of Use, etc. by Office of General Administration) (1) The
+office of general administration may request the head of a central government agency to
+abolish or change the use of any State property under its jurisdiction, and have the head
+of a central government agency effect an administrative conversion of, or transfer to the
+office of general administration, the State property concerned. <Amended on Mar. 30,
+2011; Jun. 9, 2020>
+(2) When the office of general administration intends to take measures prescribed by
+paragraph (1), it shall notify the head of a central government agency thereof in advance
+to give him/her an opportunity to present an opinion thereon. <Amended on Mar. 30,
+2011; Jun. 9, 2020>
+(3) When the head of a central government agency fails to implement abolition of use,
+etc., under the provisions of paragraph (1) without justifiable grounds, the office of general
+administration may abolish the use ex officio. <Amended on Mar. 30, 2011>
+(4) When the use of property has been abolished ex officio pursuant to paragraph (3), it
+shall be deemed that the approval of use of the administrative property has been
+withdrawn pursuant to Article 8-2. <Newly Inserted on Mar. 30, 2011>
+ 
+
+--------------------------------------------------------------------------------
+법제처                                                            15                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+Article 23 (Disposal of Disused Property) The office of general administration may, if deemed
+necessary, designate methods of disposal of State property which has become general
+property as a result of the abolition of its use, or take over and directly dispose of such
+State property.
+ 
+Article 24 (Designation of Heads of Central Government Agencies) With respect to State
+property which is not under the jurisdiction of any head of a central government agency or
+of which head of a central government agency having the jurisdiction thereof is not
+obvious, the office of general administration shall designate the head of a central
+government agency having jurisdiction.
+[This Article Wholly Amended on Mar. 30, 2011]
+ 
+Article 25 (Delegation or Consignment of General Administrative Duties) The office of general
+administration may delegate part of its general administrative duties under this Act to the
+Administrator of the Public Procurement Service or to the head of a local government, as
+prescribed by Presidential Decree, or consign such duties to a government-invested
+corporation or a juristic person designated by Presidential Decree out of those established
+under special statutes. <Amended on Mar. 30, 2011>
+ 
+Article 26 (Committee for Examination on State Property Policies) (1) In order to deliberate
+on the matters referred to in each of the following subparagraphs concerning the
+administration/disposal of State property, the Committee for Examination on State Property
+Policies (hereinafter referred to as the "Committee") shall be established under the office of
+general administration: <Amended on Mar. 30, 2011; Mar. 31, 2020; Jun. 9, 2020>
+1. Matters concerning major policy directions for State property;
+2. Important matters concerning amendment or repeal of statutes and systems related to
+State property;
+2-2. Matters concerning the withdrawal of approval of use of administrative property under
+Article 8-2;
+3. Important matters concerning establishment and amendment of the comprehensive plan
+for State property under the provisions of Article 9;
+4. Matters concerning the designation of head of a central government agency having
+jurisdiction pursuant to Article 16(2) and the ex officio abolition of use under Articles
+22(3);
+
+--------------------------------------------------------------------------------
+법제처                                                            16                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+4-2. Matters concerning administrative conversion without any compensation under
+subparagraph 2 (c) of Article 17;
+4-3.  Matters  concerning  the  administration/management  of  the  State  Property
+Administration  Fund  established  under  Article  26-2;
+5. Matters concerning development of general property under the provisions of Article 57;
+6. Important matters concerning contribution in kind under the provisions of Article 60;
+6-2. Matters concerning establishment, etc., of special cases of State property pursuant to
+Article 6 of the Act on Regulation of Special Cases of State Property, and concerning
+examination/estimation of special cases of State property pursuant to Article 7 of the
+same Act;
+7. Other matters deemed important by the office of general administration with regard to
+the administration/disposal of State property.
+(2) The Committee shall be comprised of 20 members or less, including chairpersons.
+<Amended on Mar. 30, 2011>
+(3) The Chairperson of the Committee shall be the Minister of Strategy and Finance, and
+the members of the Committee shall be appointed or commissioned by the Minister of
+Strategy and Finance from among public officials belonging to the central administrative
+agency and those persons who have abundant knowledge and experience in matters
+related to State property. In such cases, members who are not public officials shall
+constitute a majority of the Committee. <Amended on Mar. 30, 2011>
+(4) For the efficient management of the Committee, sectorial subcommittees may be
+established within the Committee. In such cases, deliberation by any subcommittee shall be
+deemed as that of the Committee. <Newly Inserted on Mar. 30, 2011>
+(5) Other matters necessary for organization and management, etc., of the Committee and
+the subcommittee, other than those specified in paragraphs (1) through (4), shall be
+prescribed by Presidential Decree. <Amended on Mar. 30, 2011>
+ 
+            CHAPTER II-2 STATE PROPERTY ADMINISTRATION FUND
+ 
+Article 26-2 (Establishment of State Property Administration Fund) The State Property
+Administration Fund shall be established in order to enhance usefulness of State property
+through smooth supply and demand and development of State property, etc.
+
+--------------------------------------------------------------------------------
+법제처                                                            17                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 26-3 (Raising State Property Administration Fund) The State Property Administration
+Fund shall be raised from any of the following financial resources:
+1. Money or property contributed by the government;
+2. Money transferred from other accounts or funds;
+3. Borrowed money under Article 26-4;
+4. Revenues related to the general property (excluding securities) managed by the office of
+general administration:
+(a) Revenues associated with management of property such as rent and indemnity;
+(b) Revenues associated with disposal of property such as selling off, exchange, etc.;
+5. With respect to the general property under the jurisdiction of the office of general
+administration, revenues associated with the administration or disposal pursuant to the
+development under Article 57;
+6. Other than those financial resources under subparagraphs 1 through 5, revenues
+associated with the administration/management of the State Property Administration
+Fund.
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 26-4 (Borrowing Funds) (1) Where it is necessary to administer and manage the State
+Property Administration Fund, the office of general administration may borrow funds, after
+deliberation of the Committee, from finance companies, etc., or from other accounts or
+funds at the expense of the State Property Administration Fund. <Amended on Dec. 18,
+2012>
+(2) Where it is necessary to manage the State Property Administration Fund, the office of
+general administration may borrow funds temporarily at the expense of the State Property
+Administration Fund. <Newly Inserted on Dec. 18, 2012; Jun. 9, 2020>
+(3) Funds temporarily borrowed under paragraph (2) shall be repaid within the relevant
+fiscal year. <Newly Inserted on Dec. 18, 2012>
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 26-5 (Purposes of State Property Administration Fund) (1) The State Property
+Administration Fund shall be used for the purpose falling under any of the following
+subparagraphs:
+
+--------------------------------------------------------------------------------
+법제처                                                            18                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+1. Payment of the expense necessary for acquisition of State property;
+2. Payment of the expense necessary for administration or disposal of the general property
+under the jurisdiction of the office of general administration;
+3. Repayment of principal and interest of the loan under Article 26-4;
+4. Payment of entrustment fee, etc., that is necessary for the administration/management
+of the State Property Administration Fund pursuant to Article 26-6;
+5. Payment of entrustment fee or amount of attribution, etc., that is necessary for
+delegation/entrustment of affairs for administration/disposal of the real estate from
+among the general property under the jurisdiction of the office of general administration
+under Article 42 (1);
+6. Payment of the expense necessary for the development under Article 57;
+7. Transfers to other accounts or funds pursuant to Article 13 of the National Finance Act;
+8. Payment of the expense necessary for the administration/management of the State
+Property  Administration  Fund,  other  than  for  the  purposes  permitted  under
+subparagraphs  1  through  7.
+(2) The property acquired from the State Property Administration Fund shall be deemed to
+be included in general accounts.
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 26-6 (Administration/Management of State Property Administration Fund) (1) The
+office of general administration shall manage and operate the State Property
+Administration Fund.
+(2) The office of general administration may entrust part of the affairs concerning
+administration and management of the State Property Administration Fund to the Korea
+Asset Management Corporation established under the Act on the Establishment of Korea
+Asset Management Corporation (hereinafter referred to as "Korea Asset Management
+Corporation"), as prescribed by Presidential Decree.<Amended on May 19, 2011; Nov. 26, 2019>
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 26-7 (Accounting Agency of State Property Administration Fund) (1) The office of
+general administration shall appoint, from among its public officials, such officials as funds
+revenue-collection official, funds treasurer, funds disbursement official, and the official in
+charge of accounts of the funds who are to perform the affairs concerning revenue and
+
+--------------------------------------------------------------------------------
+법제처                                                            19                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+expenditure of the State Property Administration Fund.
+(2) Where the office of general administration has entrusted part of the affairs concerning
+administration/management of the State Property Administration Fund to the Korea Asset
+Management Corporation pursuant to Article 26-6 (2), the office shall appoint directors to
+be in charge of the fund revenue and of acts giving rise to expenditure by the fund from
+among the directors of the Korea Asset Management Corporation, and the expenditure
+and accounting staffs for the fund from among the employees of the Korea Asset
+Management  Corporation,  in  order  to  perform  accounting  of  the  State  Property
+Administration Fund. In such cases, the directors to be in charge of the fund revenue shall
+perform the duties of the fund revenue-collection official, the directors to be in charge of
+acts giving rise to expenditure by the fund shall perform those of the fund treasurer, the
+fund expenditure staffs shall those of fund disbursement official, and the fund accounting
+staffs shall those of the public official in charge of accounts of the fund.
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+            CHAPTER III ADMINISTRATIVE PROPERTY
+ 
+Article 27 (Restriction on Disposal) (1) No administrative property shall be disposed of:
+Provided, That in cases falling under any of the following subparagraphs, the administrative
+property may be exchanged or conceded: <Amended on Mar. 30, 2011; Jun. 9, 2020>
+1. Where property acquired in exchange for public-owned property or private property is
+intended to be managed as administrative property;
+2. Where the administrative property prescribed by Presidential Decree is conceded to a
+local government which intends to directly use it for official or public use.
+(2) The provisions of Article 54 (2) through (4) shall apply mutatis mutandis to the property
+exchanged pursuant to paragraph (1) 1, and the provisions of Article 55 (2) and (3) to the
+property conceded pursuant to paragraph (1) 2. In such cases, "general property" shall be
+deemed "administrative property".
+(3) Matters relating to confirmation of the exchange referred to in paragraph (1) 1, such as
+purpose and price of exchange, matters relating to consultation with the office of general
+administration for mutatis mutandis application of Article 55 (3) regarding the concession
+referred to in paragraph (1) 2, and other necessary matters shall be prescribed by
+
+--------------------------------------------------------------------------------
+법제처                                                            20                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+Presidential Decree.
+ 
+Article 27-2 (Appointment of Official in Charge of State Property, etc.) (1) In order to
+efficiently perform the affairs concerning the administration or disposal of State property
+under his/her control, the head of a central government agency shall appoint an official in
+charge of State property, from among the central government agency’s senior civil officials
+in a position exercising a general control over planning affairs.
+(2) Duties of the official in charge of State property are as follows:
+1. Affairs involving planning the administration or disposal of State property under the
+control of the head of a central government agency under Article 9 (2), and those
+involving the enforcement plan under paragraph (7) of the same Article;
+2. Affairs concerning the report on the administration of State property under Article 69;
+3. In addition to those affairs under subparagraphs 1 and 2, affairs as prescribed by
+Presidential Decree in connection with administration/disposal of State property.
+(3) In lieu of the appointment of an official in charge of State property, the head of the
+central government agency may designate a position in an agency under the control of the
+central government agency.
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 28 (Delegation of Administrative Duties) (1) The head of a central government agency
+may delegate administrative duties concerning administrative property under its control to
+its public officials, as prescribed by Presidential Decree. <Amended on Mar. 30, 2011>
+(2) The head of a central government agency may appoint a public official to perform part
+of the duties delegated to the public officials referred to in paragraph (1). <Amended on
+Mar. 30, 2011>
+(3) The head of a central government agency may delegate its administrative duties
+concerning administrative property under its control to public officials of other central
+government agencies, as prescribed by Presidential Decree. <Amended on Mar. 30, 2011>
+(4) The head of a central government agency may delegate part of its administrative duties
+concerning administrative property under its jurisdiction to the head of a local government
+or public officials thereof, as prescribed by Presidential Decree. <Amended on Mar. 30,
+2011>
+
+--------------------------------------------------------------------------------
+법제처                                                            21                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(5) In lieu of the delegation of duties pursuant to paragraphs (1) through (4), the head of a
+central government agency may designate a position established in the related institution.
+<Amended on Mar. 30, 2011>
+ 
+Article 29 (Entrustment of Administration) (1) When it is necessary for the efficient
+administration of administrative property, the head of a central government agency may
+entrust the administration of such property (hereinafter referred to as "entrustment of
+administration") to a person other than a State agency. <Amended on Mar. 30, 2011>
+(2) Any person who is entrusted with administration according to the provisions of
+paragraph (1) may, with the prior approval of the competent head of a central government
+agency, use and benefit from a portion of the entrusted property, or allow another person
+to make use of and benefit from it. <Amended on Mar. 30, 2011>
+(3)  Qualifications  of  persons  to  be  entrusted  with  administration,  period  for  the
+entrustment of administration, usage fees of the property of which administration has been
+entrusted, report on the status of administration, or other necessary matters relating to the
+entrustment of administration shall be prescribed by Presidential Decree.
+ 
+Article 30 (Permission for Use) (1) The head of a central government agency may grant
+permission to use any administrative property only to the following extent: <Amended on
+Mar. 30, 2011>
+1.  Property  for  official  use,  property  for  public  use,  and  property  for  government
+enterprises:  To  an  extent  not  detrimental  to  its  use  or  purpose;
+2. Property for preservation: To the extent necessary for the fulfillment of the preservation
+purpose.
+(2) No person who has been granted permission for use under paragraph (1) shall allow
+another person to use and benefit from the relevant property: Provided, That where a
+person who has been granted permission for use of any donated property is the donator
+of such property, his/her heir, or other general successor, it is allowed for the person who
+has been granted permission to have another person use and benefit from such property
+upon approval from the head of a central government agency. <Amended on Mar. 30,
+2011>
+(3) Where it is deemed that the use of and benefit from the property under the proviso to
+paragraph (2) is detrimental to the relevant use or purpose, or makes it impractical to
+
+--------------------------------------------------------------------------------
+법제처                                                            22                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+reinstate, the head of a central government agency shall not grant approval for it.
+<Amended on Mar. 30, 2011>
+ 
+Article 30 (Permission for Use) (1) The head of a central government agency may grant
+permission to use any administrative property only to the following extent: <Amended on
+Mar. 30, 2011>
+1.  Property  for  official  use,  property  for  public  use,  and  property  for  government
+enterprises:  To  an  extent  not  detrimental  to  its  use  or  purpose;
+2. Property for preservation: To the extent necessary for the fulfillment of the preservation
+purpose.
+(2) No person who has been granted permission for use under paragraph (1) shall allow
+another person to use and benefit from the relevant property: Provided, That such person
+may allow another person to use and benefit from the property in any of the following
+cases with the approval of the head of a central government agency: <Amended on Mar.
+30, 2011; Mar. 31, 2020>
+1. Where a person who has been granted permission for use of any donated property is
+the donator of such property, his/her heir, or other general successor;
+2. Where a local government or a local public enterprise is granted permission for use to
+use and benefit from administrative property as infrastructure under Article 18 (1) 3 and
+allows institutions prescribed by Presidential Decree, such as a local public enterprise, to
+use and benefit from such administrative property.
+(3) Where it is deemed that the use of and benefit from the property under the proviso to
+paragraph (2) is detrimental to the relevant use or purpose, or makes it impractical to
+reinstate, the head of a central government agency shall not grant approval for it.
+<Amended on Mar. 30, 2011>
+[Enforcement Date: Oct. 1, 2020] Article 30
+ 
+Article 31 (Methods of Permission for Use) (1) Permission for use of any administrative
+property shall be granted by open competitive bidding after public notice thereof:
+Provided, That where it is deemed necessary in view of the purpose, nature, size, etc., of
+permission for use, eligibility to participate in the bidding may be limited, or restrictive
+tender or private contract may be used, as prescribed by Presidential Decree.
+
+--------------------------------------------------------------------------------
+법제처                                                            23                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(2) Where open competitive bidding is conducted pursuant to paragraph (1), the invitation
+to bid, bid opening, and a notice of award of contract shall be made public by using an
+information processing device which has been designated and announced as such by the
+office of general administration. In such cases, the head of a central government agency
+may, when it deems necessary, publish such fact in daily newspapers, etc., as well and
+collectively make public announcement concerning multiple bidding rounds for the same
+property. <Amended on Mar. 30, 2011>
+(3) The provisions of the Act on Contracts to which the State is a Party shall apply mutatis
+mutandis to permission for use of administrative property, except as prescribed in this Act.
+ 
+Article 32 (Usage Fees) (1) When permission for use of administrative property is granted, the
+usage fees shall be collected each year in accordance with the rates and calculation
+methods specified by Presidential Decree: Provided, That where the annual fees are less
+than the amount specified by Presidential Decree, the fees for the period of permission for
+use may be entirely collected at the same time. <Amended on Mar. 2, 2016>
+(2)  Usage  fees  under  paragraph  (1)  may  be  paid  in  installments,  as  prescribed  by
+Presidential Decree. In such cases, where the annual usage fees are equal to or above the
+amount prescribed by Presidential Decree, guaranty money shall be deposited or a
+performance guarantee shall be provided by the person who is granted permission for use
+within the limit of the amount prescribed by Presidential Decree when such permission is
+granted (including cases of renewal of permission).
+(3) If the head of a central government agency delegates its duties concerning permission
+for use under Article 30 to the head of a local government, Article 42 (6) shall apply
+mutatis mutandis. <Amended on Mar. 30, 2011>
+(4) Where the fees are entirely collected at the same time pursuant to the proviso to
+paragraph (1), notwithstanding the increase or decrease for the period of permission for
+use, no fees shall be collected additionally or returned. <Newly Inserted on Mar. 2, 2016>
+ 
+Article 33 (Adjustment of Usage Fees) (1) The head of a central government agency may
+adjust usage fees where a person (a heir or other general successor shall be deemed the
+same person as his/her predecessor) continuously uses, or benefits from, the same
+administrative property for over one year within the permitted period of use in cases
+prescribed by Presidential Decree. <Amended on Mar. 30, 2011; Dec. 18, 2012>
+
+--------------------------------------------------------------------------------
+법제처                                                            24                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(2) The method of calculating usage fees for the relevant year, which are adjusted under
+paragraph (1), shall be prescribed by Presidential Decree.
+(3) Paragraphs (1) and (2) shall apply mutatis mutandis to the calculation of relevant usage
+fees where administrative property subject to the payment of usage fees or occupation
+fees pursuant to other Acts becomes subject to the payment of usage fees under this Act.
+ 
+Article 34 (Exemption from or Reduction of Usage Fees) (1) In any of the following cases, the
+head of a central government agency may exempt the relevant usage fees, as prescribed
+by Presidential Decree: <Amended on Mar. 30, 2011>
+1. When permission for use of any donated property is granted to the donator, his/her heir
+or other general successor for the purposes of making it administrative property;
+1-2. When a person who plans to build and donate a new building, etc., intends to use the
+site for the new building, etc., during the period of construction thereof;
+2. When permission for use is granted to a local government which intends to directly use
+the administrative property for official or public use or non-profit public service;
+3. When permission for use is granted to a public organization defined by Presidential
+Decree which intends to directly use the administrative property for non-profit public
+service.
+(2) Where administrative property that has been granted permission for use becomes
+unusable due to natural disasters or disasters referred to in subparagraph 1 of Article 3 of
+the Framework Act on the Management of Disasters and Safety, usage fees for the period
+during which the use of the administrative property was interrupted may be exempted.
+(3)  Where  the  head  of  a  central  government  agency  grants  permission  for  use  of
+administrative property prescribed by Presidential Decree including property which is less
+useful or requires repair in consideration of form, scale, or service life of the administrative
+property, he/she may give exemption from or reduce usage fees as prescribed by
+Presidential Decree. <Newly Inserted on Mar. 13, 2018>
+[Title Amended on Mar. 13, 2018]
+ 
+Article 35 (Period for Permission for Use) (1) The period for permission for use of any
+administrative property shall be five years or less: Provided, That in cases under Article 34
+(1) 1, it shall be within the period wherein the total sum of usage fees reaches the value of
+the property donated.
+
+--------------------------------------------------------------------------------
+법제처                                                            25                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(2) With respect to the property, the period for permission under paragraph (1) for which
+expires, the previous period for permission may be renewable within the extent not
+exceeding five years, except for the cases prescribed by Presidential Decree: Provided, That
+such renewal shall be allowed on only one occasion, except for cases where the permission
+for use of the property may be granted by private contracts.
+(3) Any person who intends to renew the permission pursuant to paragraph (2) shall file an
+application with the head of a central government agency at least one month prior to the
+expiration of the period of permission. <Amended on Mar. 30, 2011; Jun. 9, 2020>
+ 
+Article 36 (Cancellation or Withdrawal of Permission for Use) (1) If any person who has
+obtained permission for use of administrative property falls under any of the following
+subparagraphs, the head of a central government agency may cancel or withdraw such
+permission: <Amended on Mar. 30, 2011>
+1. If he/she obtains the said permission by false statements, presentation of defective
+documentary evidence, or other unlawful means;
+2. If he/she allows another person to make use of or benefit from the property for which
+permission for use has been granted, in violation of Article 30 (2);
+3. If he/she neglects the preservation of the said property or violates the purpose of its
+use;
+4. If he/she fails to pay the usage fees within the payment deadline, or fails to deposit
+guaranty money or provide performance guarantee pursuant to the latter part of Article
+32 (2);
+5. If he/she has altered the original state of the property for which permission for use has
+been  granted,  without  obtaining  approval  from  the  head  of  the  relevant  central
+government  agency.
+(2) If the administrative property for which permission for use has been granted is directly
+required by the State or a local government for official or public use, the head of a central
+government agency may withdraw such permission. <Amended on Mar. 30, 2011>
+(3) If a person who has obtained permission for use suffers a loss due to withdrawal
+referred to in paragraph (2), agencies which intend to use such property shall compensate
+such person for the loss, as prescribed by Presidential Decree.
+(4) The head of a central government agency shall, where it has canceled or withdrawn
+permission for use under paragraph (1) or (2), and where a person uses and benefits from
+
+--------------------------------------------------------------------------------
+법제처                                                            26                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+the property donated under the proviso to Article 30 (2), notify him/her of the facts of
+such cancellation or withdrawal. <Amended on Mar. 30, 2011>
+ 
+Article 37 (Hearings) If the head of a central government agency intends to cancel or
+withdraw permission for use of any administrative property pursuant to the provisions of
+Article 36, it shall hold a hearing thereon. <Amended on Mar. 30, 2011>
+ 
+Article 38 (Restoration to Original State) Where the permission period expires or permission
+for use is revoked or withdrawn pursuant to Article 36, any person who has received
+permission for use of administrative property shall restore the relevant property to its
+original state: Provided, That where the head of a central government agency has, in
+advance, approved alterations thereof, he/she may return it in the altered state. <Amended
+on Mar. 30, 2011>
+ 
+Article 39 (Sanctions against Negligence of Administration) If a person who has received
+permission for use of any administrative property causes damage to such property by
+neglecting his/her administrative duties, additional dues may be collected from him/her,
+pursuant to Presidential Decree, in addition to the usage fees within the limit not
+exceeding the amount of such usage fees.
+ 
+Article 40 (Abolition of Use) (1) Where administrative property falls under any of the
+following cases, the head of a central government agency shall abolish the use of the
+relevant administrative property without delay: <Amended on Aug. 9, 2017>
+1. Where administrative property is not used for administrative purposes;
+2. Where administrative property has not been used for five years from the date of
+determining its use as administrative property;
+3. Where administrative property is necessary for development under Article 57.
+(2) If the head of a central government agency abolishes the use of administrative property
+pursuant to the provisions of paragraph (1), it shall, without delay, transfer the relevant
+property to the office of general administration: Provided, That this shall not apply to the
+property falling under any of the following subparagraphs: <Amended on Mar. 30, 2011>
+1. Property the use of which has been abolished for the purpose of administrative
+conversion, exchange or transfer;
+
+--------------------------------------------------------------------------------
+법제처                                                            27                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+2. Property prescribed under Article 5 (1) 2;
+3. Property located on, and necessary to the operation of, an airport/harbor or industrial
+complex;
+4. Property that the office of general administration has designated as the one to be
+administered or disposed of by the head of a central government agency or to be
+transferred by the head of a central government agency to the head of other central
+government agency.
+ 
+Article 40-2 (Pre-Contracts for Preferential Use) (1) Where the use of administrative property
+is abolished under Article 40 (1), the head of a central government agency may file an
+application with the office of general administration to preferentially approve the use of
+the relevant property under Article 8 (4) (hereinafter referred to as "pre-contract for
+preferential use") in preparation for future administrative demand, within one month from
+the date of abolition of use, as prescribed by Presidential Decree.
+(2) Upon receipt of an application under paragraph (1), the office of general administration
+may approve pre-contracts for preferential use in consideration of the business plan
+submitted by the head of a central government agency, administrative demand of other
+institutions, etc.
+(3) Where the head of a central government agency fails to obtain approval of use under
+Article 8 (4) from the office of general administration within three years from the date
+when approval of pre-contracts for preferential use is obtained under paragraph (2), such
+pre-contracts for preferential use shall be null and void.
+[This Article Newly Inserted on Mar. 31, 2020]
+[Enforcement Date: Oct. 1, 2020] Article 40-2
+ 
+            CHAPTER IV GENERAL PROPERTY
+               SECTION 1 Common Provisions
+ 
+Article 41 (Disposal, etc.) (1) A general property may be leased or disposed of. <Amended on
+Mar. 30, 2011>
+(2) If a building or other facilities not scheduled for any use by the State fall under any of
+the following, the head of a central government agency, etc. may remove such building or
+facilities: <Amended on Mar. 30, 2011>
+
+--------------------------------------------------------------------------------
+법제처                                                            28                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+1. Where their structures pose a substantial risk to the safety of the public;
+2. Where their maintenance and repair costs are excessive in comparison to their property
+value;
+3. Where their removal is deemed unavoidable by the head of a central government
+agency, etc., due to their location, form, use, deterioration, etc.
+ 
+Article 42 (Delegation or Entrustment of Work of Administration or Disposal) (1) The office of
+general administration may partially delegate the work to administer and dispose of
+general property under its jurisdiction, to affiliated public officials, or to the head of the
+relevant central government agency or its public officials, or to the head of the relevant
+local government or its public officials, or may entrust such work to government-invested
+corporations, financial institutions, investment traders, investment brokers, or corporations
+established under special Acts, as prescribed by Presidential Decree. <Amended on Mar.
+30, 2011>
+(2) The office of general administration may be entrusted with part of the work of
+administering or disposing of general property provided for in Article 8 (3). <Amended on
+Mar. 30, 2011>
+(3) Where the head of a central government agency intends to develop any general
+property belonging to the special accounts or funds under his/her jurisdiction pursuant to
+Article 59, he/she may entrust such property by applying mutatis mutandis paragraph (1).
+<Amended on Mar. 30, 2011>
+(4)  Articles  28  and  29  shall  apply  mutatis  mutandis  where  the  head  of  a  central
+government  agency  or  an  agency  to  whom  the  delegation  has  been  made  under
+paragraph (1) administers or disposes of any general property pursuant to paragraph (1).
+<Amended on Mar. 30, 2011>
+(5) The office of general administration or the head of a central government agency which
+has delegated or entrusted his/her or its work of administering or disposing of general
+property pursuant to paragraphs (1) and (4) may withdraw such delegation or entrustment
+where it deems that the delegated or entrusted person does the relevant work improperly
+or where it is necessary to make general property pooled for administration purposes.
+<Amended on Mar. 30, 2011; Dec. 18, 2012>
+(6) Rent fees, proceeds from sale, gains from development, or indemnity of general
+property prescribed by Presidential Decree, the administration or disposal of which have
+
+--------------------------------------------------------------------------------
+법제처                                                            29                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+been delegated or entrusted pursuant to paragraphs (1) and (4) may be vested in the
+delegated or entrusted persons, as prescribed by Presidential Decree, notwithstanding
+Article 17 of the National Finance Act and Article 7 of the Management of the National
+Funds Act.
+ 
+Article 42 (Delegation or Entrustment of Work of Administration or Disposal) (1) The office of
+general administration may partially delegate the work to administer and dispose of
+general property under its jurisdiction, to affiliated public officials, or to the head of the
+relevant central government agency or its public officials, or to the head of the relevant
+local government or its public officials, or may entrust such work to government-invested
+corporations, financial institutions, investment traders, investment brokers, or corporations
+established under special Acts, as prescribed by Presidential Decree. <Amended on Mar.
+30, 2011>
+(2) The office of general administration may be entrusted with part of the work of
+administering or disposing of general property provided for in Article 8 (3) and, if
+necessary, may re-entrust the entrusted work to a person prescribed by Presidential Decree
+who is a corporation established under special Acts, following consultation with the head
+of the central government agency that entrusts the work. <Amended on Mar. 30, 2011;
+Mar. 31, 2020>
+(3) Where the head of a central government agency intends to develop any general
+property belonging to the special accounts or funds under his/her jurisdiction pursuant to
+Article 59, he/she may entrust such property by applying mutatis mutandis paragraph (1).
+<Amended on Mar. 30, 2011>
+(4)  Articles  28  and  29  shall  apply  mutatis  mutandis  where  the  head  of  a  central
+government  agency  or  an  agency  to  whom  the  delegation  has  been  made  under
+paragraph (1) administers or disposes of any general property pursuant to paragraph (1).
+<Amended on Mar. 30, 2011>
+(5) The office of general administration or the head of a central government agency which
+has delegated or entrusted his/her or its work of administering or disposing of general
+property pursuant to paragraphs (1) and (4) may withdraw such delegation or entrustment
+where it deems that the delegated or entrusted person does the relevant work improperly
+or where it is necessary to make general property pooled for administration purposes.
+<Amended on Mar. 30, 2011; Dec. 18, 2012>
+
+--------------------------------------------------------------------------------
+법제처                                                            30                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(6) Rent fees, proceeds from sale, gains from development, or indemnity of general
+property prescribed by Presidential Decree, the administration or disposal of which have
+been delegated or entrusted pursuant to paragraphs (1) and (4) may be vested in the
+delegated or entrusted persons, as prescribed by Presidential Decree, notwithstanding
+Article 17 of the National Finance Act and Article 7 of the Management of the National
+Funds Act.
+[Enforcement Date: Oct. 1, 2020] Article 42
+ 
+Article 43 (Contract Procedures) (1) Contracts concerning disposal of general property shall
+be established by open competitive bidding after public notice thereof: Provided, That
+where it is deemed necessary in view of the purpose, nature, size, etc., of permission for
+use, eligibility to participate in the bidding may be limited, or restrictive tender or private
+contract may be used as prescribed by Presidential Decree and that, in cases of securities,
+they may be done by means prescribed by Presidential Decree.
+(2) In cases of open competitive bidding referred to in paragraph (1), the provisions of
+Article 31 (2) shall apply mutatis mutandis to the relevant public notice and procedures.
+ 
+Article 44 (Pricing of Property to be Disposed of) The price of general property to be
+disposed of shall be determined in consideration of the market price, as prescribed by
+Presidential Decree.
+ 
+Article 44-2 (Restriction on Disposal of Securities Paid in Kind) (1) The securities paid in kind
+under Article 73 of the Inheritance Tax and Gift Tax Act may not be disposed of to a
+person who paid in kind or a person prescribed by Presidential Decree at the amount less
+than the value at the time of collection: Provided, That this shall not apply in cases of
+selling securities trading in the securities markets under Article 8-2 (4) 1 of the Financial
+Investment Services and Capital Markets Act in such markets.
+(2) To verify if a person is subject to restriction on disposal under the main sentence of
+paragraph (1), the office of general administration may request the head of a relevant
+administrative agency or a public institution under the Act on the Management of Public
+Institutions  to  submit  necessary  materials.  In  such  cases,  the  head  of  a  relevant
+administrative agency including others shall comply with such request unless there is a
+compelling reason not to do so.
+
+--------------------------------------------------------------------------------
+법제처                                                            31                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(3) Necessary matters including the scope of or procedure for submitting materials under
+paragraph (2) shall be prescribed by Presidential Decree.
+[This Article Newly Inserted on Mar. 13, 2018]
+ 
+Article 45 (Pre-Contract for Exploitation, Filling, Reclamation, and Afforestation) (1) General
+property may be reserved for loan, sale, or transfer, as prescribed by Presidential Decree,
+to implement the projects of exploitation, filling, reclamation, or afforestation on the
+condition of the completion of such projects.
+(2) In cases under paragraph (1), the contractor may use or benefit from pre-contracted
+property or the completed portion of the project during the period for the relevant project
+at no charge.
+(3) Pre-contracts pursuant to paragraph (1) may be rescinded or terminated if the
+contractor fails to commence the project within the designated period or is deemed
+unable to complete the project. <Amended on Jun. 9, 2020>
+(4) If a portion of a pre-contracted project is completed at the time of a rescission or
+termination pursuant to paragraph (3), all or part of the completed portion may be loaned,
+sold or transferred to the contractor only if such loan, etc., does not conflict with the
+public interest.
+(5) If the head of a central government agency, etc., intends to conclude a pre-contract for
+sale or transfer of any property under its control pursuant to the provisions of paragraph
+(1), it shall consult with the office of general administration. <Amended on Mar. 30, 2011>
+ 
+            SECTION 2 Loans
+ 
+Article 46 (Loan Periods) (1) The loan period for general property shall not exceed any of the
+following: Provided, That in cases of constructing permanent facilities under the proviso to
+Article 18 (1), it shall not exceed ten years: <Amended on Dec. 26, 2017>
+1. Land and its fixtures to be afforested: Twenty years;
+2. A building whose facilities are repaired at the borrower’s expense (limited to cases
+prescribed by Presidential Decree): Ten years;
+3. Land and its fixtures, other than those in subparagraphs 1 and 2: Five years;
+4. Any other property: One year.
+
+--------------------------------------------------------------------------------
+법제처                                                            32                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(2) With respect to the property, the loan period under paragraph (1) of which has expired,
+the previous loan contract may be renewed to the extent not exceeding such loan period
+except for the cases prescribed by Presidential Decree: Provided, That such loan contract
+may be renewable on only one occasion, except for cases where the loan is rendered by
+means of a private contract.
+(3) Any person who intends to renew the loan contract under the provisions of paragraph
+(2) shall file an application with the head of a central government agency, etc., at least one
+month prior to the expiry of the loan period. <Amended on Mar. 30, 2011>
+(4) Notwithstanding paragraph (1), the loan period of general property developed pursuant
+to Articles 58 and 59-2 may be set within 30 years, and may be extended only once for up
+to 20 years. <Newly Inserted on Mar. 2, 2016>
+ 
+Article 47 (Rent and Rescission of Contracts) (1) Articles 30 (2), 31 (1) and (2), 32, 33, 34 (1) 2
+and 3, 34 (2) and (3), 36, and 38 shall apply mutatis mutandis to the restriction on loan,
+rent, exemption from or reduction of rent, rescission or termination of loan contracts, or
+other cases regarding any general property. <Amended on Mar. 13, 2018>
+(2) Despite paragraph (1), with respect to rent, all or part of annual rent may be received
+after converting it into loan deposit, as prescribed by Presidential Decree.
+(3) Where the term of a loan expires or a loan agreement is rescinded or terminated, the
+head of the relevant central government agency, etc., shall return the loan deposit
+prescribed under paragraph (2). In such cases, if there are rents or utility bills, etc., that the
+person who made the loan failed to pay, the head of a central government agency shall
+return the loan deposit after excluding the unpaid amount.
+[This Article Wholly Amended on Mar. 30, 2011]
+ 
+Article 47-2 (Exemption from or Reduction of Rent) Where the State possesses the other
+person’s property and the owner of the relevant property possesses the general property
+at the same time (hereinafter referred to as the "reciprocal possession"), the head of a
+central government agency may reduce or exempt the owner of the relevant property from
+a rent of general property in his/her possession.
+[This Article Newly Inserted on Mar. 2, 2016]
+
+--------------------------------------------------------------------------------
+법제처                                                            33                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+ 
+            SECTION 3 Sale
+ 
+Article 48 (Sale) (1) General property may be sold in cases other than those falling under any
+of the following subparagraphs:
+1. Where the head of a central government agency requests for approval of use or for
+administrative conversion of administrative property under Article 8 (4) in order to use
+the general property for administrative purposes;
+2. Where the disposal of general property is restricted pursuant to the National Land
+Planning and Utilization Act or other Acts;
+3. Where the general property belongs to the property subject to the restriction on
+disposal stipulated in the guidelines for disposal under Article 9 (4) 3, in consideration of
+the necessity of future administrative purposes, etc.;
+4. Where the office of general administration or the head of a central government agency
+designates  it  as  a  property  in  need  of  administration  by  State  as  prescribed  by
+Presidential  Decree,  other  than  the  cases  under  subparagraphs  1  through  3.
+(2) Where the head of a central government agency intends to sell off the general property
+prescribed by Presidential Decree, from among the general property belonging to the
+special accounts or funds under the control of the central government agency.
+[This Article Wholly Amended on Mar. 30, 2011]
+ 
+Article 49 (Sale by Specifying Uses) General property may be sold to a purchaser by
+specifying its use and the period for such use under conditions prescribed by Presidential
+Decree.
+ 
+Article 50 (Payment of Proceeds from Sale) (1) Proceeds from the sale of any general
+property shall be paid, as prescribed by Presidential Decree: Provided, That the period for
+payment may be extended as permitted by Presidential Decree.
+(2) If it is deemed impractical to have the proceeds from the sale of general property paid
+in a lump sum and it is permitted by Presidential Decree, the payment may be made in
+installments over a period not exceeding 20 years, with interest thereon as prescribed by
+Presidential Decree in consideration of the one-year fixed deposit interest rate.
+
+--------------------------------------------------------------------------------
+법제처                                                            34                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+Article 51 (Transfer of Ownership, etc.) (1) In cases of selling any general property, transfer of
+the ownership for the relevant property shall be made only after the full payment of the
+proceeds from the sale of such property.
+(2) Notwithstanding the provisions of paragraph (1), if the proceeds from sale shall be paid
+in installments under the provisions of Article 50 (2), and if it is prescribed by Presidential
+Decree that the transfer of ownership is essential for the smooth execution of public works
+projects, etc., ownership may be transferred even before the proceeds from the sale of the
+relevant property are fully paid. In such cases, necessary measures for securing claims, such
+as creation of mortgage, shall be taken.
+ 
+Article 52 (Rescission of Contracts for Sale) A contract for the sale of general property may
+be rescinded in the following cases:
+1. If the purchaser fails to make timely payment of the proceeds from sale;
+2.  If  the  purchase  is  based  on  false  statements,  presentation  of  false  supporting
+documents,  or  the  use  of  other  unlawful  means  by  the  purchaser;
+3. Where a property is sold by specifying its use under Article 49, if the purchaser does not
+use the property for such designated purpose within the designated period or ceases to
+use the property for the designated purpose before the end of the designated period.
+ 
+Article 53 (Purchase of Buildings, etc.) Where a contract for sale of general property is
+rescinded, and where the head of a central government agency notifies of its intent to
+purchase buildings and other structures installed on the relevant property at a price as
+determined pursuant to the provisions of Article 44, the relevant owner may not refuse it
+without justifiable grounds. <Amended on Mar. 30, 2011>
+ 
+            SECTION 4 Exchange
+ 
+Article 54 (Exchange) (1) In any of the following cases, land, buildings, fixtures on land, or
+movable assets which are general property may be exchanged for land, buildings, fixtures
+on land, or movable assets which are public or private property: <Amended on Dec. 18,
+2012; Mar. 2, 2016>
+1. Where it is necessary for the State to directly use it or them as administrative property;
+
+--------------------------------------------------------------------------------
+법제처                                                            35                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+2. Where it is necessary to increase the usefulness of property by making small scale
+general property pooled for administrative purposes;
+3. Where it is impractical to dispose of the relevant property by other methods, including
+sale, while it is necessary to increase the value and usability of general property;
+4. Where it is requested to exchange with the general property in the possession due to
+any extenuating circumstances prescribed by Presidential Decree, such as being in the
+state of reciprocal possession, and impractical for the owner of the relevant property to
+enter and access by the private land only.
+(2) The types, prices, etc., of property exchanged pursuant to paragraph (1) may be
+prescribed by Presidential Decree.
+(3) If the properties exchanged pursuant to paragraph (1) differ in value, the difference
+shall be paid in cash. <Amended on Jun. 9, 2020>
+(4) When the head of a central government agency, etc., intends to exchange general
+property, it shall report to the Board of Audit and Inspection. <Amended on Mar. 30,
+2011>
+ 
+            SECTION 5 Concession
+ 
+Article 55 (Concession) (1) General property may be conceded in any of the following cases:
+<Amended on Mar. 30, 2011; Dec. 18, 2012>
+1. Where the general property prescribed by Presidential Decree is to be conceded to a
+local government which intends to directly use it for official or public purposes;
+2. Where the property for public purposes converted into general property due to the
+abolition of its use is to be conceded to the local government or public organization that
+has paid the cost of maintenance and preservation thereof as prescribed by Presidential
+Decree, to the extent of such cost;
+3. Where the administrative property prescribed by Presidential Decree, which falls into
+disuse, is to be conceded to a person who provides substitute facilities that has the same
+use as the property falling into disuse, his/her successor or other general successor to
+the extent of the cost of providing such facilities;
+4. Where the property prescribed by Presidential Decree which needs not to be preserved
+or utilized by the State and cannot be leased, sold or exchanged, is to be conceded.
+
+--------------------------------------------------------------------------------
+법제처                                                            36                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(2) If the property transferred pursuant to paragraph (1) 1 is used for a purpose, other than
+the original purpose for which it is conceded, within ten years from the concession, such
+concession may be canceled.
+(3) Where the head of a central government agency, etc., intends to concede general
+property  pursuant  to  paragraph  (1),  it  shall  consult  with  the  office  of  general
+administration: Provided, That this shall not apply where general property whose value
+does not exceed the value prescribed by Presidential Decree is conceded provided for in
+paragraph (1) 3. <Amended on Mar. 30, 2011; Dec. 26, 2017>
+ 
+Article 56 Deleted. <Mar. 30, 2011>
+ 
+            SECTION 6 Development
+ 
+Article 57 (Development) (1) General property may be loaned or sold after being developed
+as a source of revenue for the State Property Administration Fund in accordance with the
+management plan of the State Property Administration Fund, or after being developed in
+accordance with Articles 58, 59, and 59-2. <Amended on Mar. 13, 2018>
+(2) Development under paragraph (1) means an act referred to in each of the following:
+<Newly Inserted on Mar. 13, 2018>
+1. Acts including building, substantial repair, and remodeling under Article 2 of the
+Building Act;
+2. Acts to create land under the Special Act on Public Housing, the National Land Planning
+and Utilization Act, the Urban Development Act, the Act on the Improvement of Urban
+Areas and Residential Environments, the Industrial Sites and Development Act, the
+Housing Act, the Housing Site Development Promotion Act, and other statutes prescribed
+by Presidential Decree.
+(3) Development under paragraph (2) 2 limits to the development entrusted pursuant to
+Article 59. <Newly Inserted on Mar. 13, 2018>
+(4) In cases of developing general property under paragraph (1), any of the following
+matters shall be considered: <Amended on Mar. 13, 2018>
+1. Soundness of financial management, such as increase of fiscal revenue;
+2. Convenience for the public, such as securing public facilities;
+
+--------------------------------------------------------------------------------
+법제처                                                            37                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+3. Contribution to local development, such as improvement of surrounding environments;
+4. Other necessities for achieving administrative objectives of the State, other than the
+matters prescribed in subparagraphs 1 through 3.
+[This Article Wholly Amended on Mar. 30, 2011]
+ 
+Article 58 (Trust Development) (1) General property may be entrusted to a trust operator
+which handles real estate trusts for its development, as prescribed by Presidential Decree.
+(2) If the head of a central government agency intends to develop the general property
+under the agency's special accounts or funds under the provisions of paragraph (1), it shall
+consult with the office of general administration as to the selection of a trust operator,
+trust period, trust fees, limits on the borrowing of funds, use of facilities, etc., under
+conditions prescribed by Presidential Decree. The same shall also apply in cases of
+modifying important matters prescribed by Presidential Decree, from among matters
+consulted upon. <Amended on Mar. 30, 2011>
+(3) If a person delegated or entrusted with duties for administration/disposal under the
+provisions of Article 42 (1) intends to develop a property pursuant to paragraph (1), he/she
+shall obtain approval from the office of general administration for the selection of a trust
+operator, trust period, trust fees, limits on the borrowing of funds, use of facilities, etc.,
+under conditions prescribed by Presidential Decree. The same shall also apply in cases of
+modifying important matters prescribed by Presidential Decree, from among approved
+matters.
+(4) Methods of vesting proceeds from the trust in the State pursuant to the provisions of
+paragraph (1) and other necessary matters shall be prescribed by Presidential Decree.
+ 
+Article 59 (Entrusted Development) (1) Any person delegated or entrusted with the duties for
+administration and disposal under the provisions of Article 42 (1) and (3) (hereafter in this
+Article referred to as "trustee") may develop the general property that he/she is entrusted
+with.
+(2) If a trustee intends to develop a property under the provisions of paragraph (1), he/she
+shall obtain approval therefor from the office of general administration or the head of a
+central government agency for entrustment period, entrustment fees, limits on the
+borrowing of funds, use of facilities, etc., under conditions prescribed by Presidential
+Decree. The same shall also apply in cases of modifying important matters prescribed by
+
+--------------------------------------------------------------------------------
+법제처                                                            38                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+Presidential Decree, from among approved matters. <Amended on Mar. 30, 2011>
+(3) If the head of a central government agency intends to approve development under the
+provisions of paragraph (2), it shall consult with the office of general administration as
+prescribed by Presidential Decree. The same shall also apply in cases of modifying
+important matters prescribed by Presidential Decree, from among matters consulted upon.
+<Amended on Mar. 30, 2011>
+(4) Methods of vesting proceeds from entrusted development in the State pursuant to the
+provisions of paragraph (1) and other necessary matters shall be prescribed by Presidential
+Decree.
+(5) Notwithstanding the provisions of Articles 43, 44, 46, and 47, methods of loan, sale and
+administration of property pursuant to paragraph (1) may be determined after the trustee
+consults with the office of general administration or the head of a central government
+agency. <Amended on Mar. 30, 2011>
+ 
+Article 59-2 (Development through Participation of Private Sector) (1) The office of general
+administration may jointly develop any of the following general property with the private
+business entities prescribed by Presidential Decree: <Amended on Mar. 2, 2016>
+1. Property that has not been in use for at least past five years;
+2. Property deemed necessary to be developed through the deliberation of the Committee.
+(2) The office of general administration may make an investment, in accordance with the
+management plan for the State Property Administration Fund, in the special purpose
+company  for  development  of  State-owned  land  that  is  to  be  incorporated  for  the
+development under paragraph (1) (referring to the investment company pursuant to Article
+51-2 (1) 9 of the Corporate Tax Act that needs to be established jointly with private
+business entities to develop State-owned land; hereinafter the same shall apply), and in the
+asset management company (referring to the asset management company prescribed by
+Presidential Decree that has been entrusted from the special purpose company for
+development  of  State  owned  land  with  performance  of  affairs  on
+administration/management and disposal of assets; hereinafter the same shall apply). In
+such cases, the amount of investment by State in the special purpose company for
+development of State-owned land shall not exceed 30/100 of the capital of the subject
+company.
+
+--------------------------------------------------------------------------------
+법제처                                                            39                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(3) A special purpose company for development of State owned land shall not finance its
+project from the person falling under any of the following subparagraphs (including the
+persons prescribed by Presidential Decree as related with the following persons) in an
+amount exceeding 30/100 of the total project cost:
+1. Public institutions under the Act on the Management of Public Institutions;
+2. Public corporations or similar entities established under special Acts.
+(4) Except as otherwise expressly prescribed by this Act, the special purpose company for
+development of State-owned land and the asset management company shall be governed
+by the provisions of the Commercial Act.
+(5) Where the office of general administration, beyond the scope determined by the
+management plan for the State Property Administration Fund, intends to enter into a
+contract that would encumber the State, it shall be authorized by a prior resolution of the
+National Assembly.
+(6) Where the development under paragraph (1) is completed and the purpose of
+investment is achieved, the office of general administration shall collect the share invested
+pursuant to paragraph (2) as prescribed by the Minister of Strategy and Finance.
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 59-3 (Procedure of Development through Participation of Private Sector) (1) If the
+office of general administration intends to develop general property pursuant to Article 59-
+2, it shall establish a master plan on the development project through participation of
+private sector including the matters under each of the following subparagraphs (hereinafter
+referred to as "master plan on development through participation of private sector"):
+1. Matters on property to be developed and on purpose of facilities to be developed;
+2. Matters on estimated investment amount, construction period, and scale of development
+project;
+3. Matters on the findings of a pre-arranged feasibility study on a project (including a
+preliminary feasibility study pursuant to Article 38 of the National Finance Act);
+4. Matters on recruitment of private business entities;
+5. Matters on procedure and method of selecting negotiation partners;
+6. Other important matters on development.
+(2) The office of general administration shall submit the master plan on development
+through participation of private sector for deliberation by the Committee after the relevant
+
+--------------------------------------------------------------------------------
+법제처                                                            40                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+subcommittee’s deliberation thereon under Article 26 (4).
+(3) For the purpose of a specialized deliberation by the Committee under paragraph (2),
+the office of general administration shall form and operate, as prescribed by the Minister
+of Strategy and Finance, an advisory group for development through participation of
+private sector, consisting of those experts in the areas of profit-analysis and technology. In
+such cases, the advisory group for development through participation of private sector
+shall submit its written opinion on the master plan on development through participation
+of private sector to the Committee.
+(4) Where the office of general administration intends to change important matters
+prescribed  by  Presidential  Decree,  on  the  master  plan  on  development  through
+participation of private sector such as criteria and method of selecting negotiation
+partners, paragraph (2) shall applies mutatis mutandis.
+(5) The office of general administration shall publicly recruit and select such private
+business entities as prescribed in paragraph (1). In such cases, the office shall publicly
+announce (including the method of posting on internet) the matters on criteria and
+method, etc. of selecting negotiation partners.
+(6) Where a private business entity intends to participate in the development project
+through participation of private sector that is publicly announced in accordance with
+paragraph (5), it shall prepare a letter of proposal for the business plan on development
+through participation of private sector including details of feasibility study, criteria of profit
+distribution, and other matters prescribed by Presidential Decree (hereinafter referred to as
+"business proposal") and submit it to the office of general administration.
+(7) With respect to the business proposal submitted in accordance with paragraph (6), the
+office of general administration shall designate negotiation partners after the evaluation by
+the evaluation group for project development through participation of private sector,
+where private professionals form the majority, and the deliberation by the Committee.
+(8) The office of general administration shall enter into a business agreement in order to
+promote the development project pursuant to discussion with the negotiation partners
+designated under paragraph (7). In such cases, matters of restriction on financing business
+expense under Article 59-2 (3) and on liability upon violation of the requirement of
+limitation on funding shall be included in the business agreement.
+
+--------------------------------------------------------------------------------
+법제처                                                            41                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(9) Matters on formation/operation of the evaluation group for development through
+participation of private sector in accordance with paragraph (7) shall be prescribed by
+Presidential Decree.
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 59-4 (Evaluation of Project of Development through Participation of Private Sector) (1)
+The office of general administration shall annually evaluate the progress and performance
+of the development project through participation of private sector, and report its findings
+to the Committee.
+(2)  Where  the  office  of  general  administration  determines  that  objectives  of  the
+development  project  is  unattainable  due  to  violation  of  Article  59-2  (3)  or  poor
+performance of the project, etc., according to the findings of the evaluation under
+paragraph (1), it shall take necessary measures such as collection of invested share or other
+measures, following the deliberation of the Committee.
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 59-5 (Liability of Compensation of Damage) When the person who has been
+designated as a negotiation partner pursuant to Article 59-3 (7) inflicts damage on the
+State with a false business proposal, he/she shall be liable to compensate the State for
+such damage.
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+            SECTION 7 Contributions In Kind
+ 
+Article 60 (Contributions in Kind) The government may contribute general property in kind in
+cases falling under any of the following subparagraphs:
+1. Where the government newly establishes a government invested corporation;
+2. Where it is necessary to secure funds to facilitate the business with a proper purpose of
+a government-invested corporation;
+3. Where it is needed for reorganization of the operating system and the management
+structure of a government-invested corporation.
+ 
+Article 61 (Procedures for Contributions in Kind) (1) When a government-invested
+corporation intends to receive a contribution in kind under Article 60, it shall file an
+
+--------------------------------------------------------------------------------
+법제처                                                            42                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+application with the head of the administrative agency in control of the business of the
+government-invested corporation pursuant to the relevant statutes (hereinafter referred to
+as "head of the competent authority") with the following documents attached thereto:
+<Amended on Jun. 9, 2020>
+1. Necessity for the contribution in kind;
+2. Size and specifications of the property to be invested;
+3. Price assessment for the property to be invested;
+4. Financial statements and current status of management;
+5. Business plans.
+(2) If the head of the competent authority receives an application to provide a contribution
+in kind under paragraph (1), he/she shall review the propriety of such contribution in kind
+and then request the office of general administration to make the contribution in kind
+attaching the documents in each subparagraph of paragraph (1) as well as a written
+opinion on the contribution in kind. <Amended on Jun. 9, 2020>
+(3) When it is requested to make a contribution in kind under paragraph (2), the office of
+general administration shall formulate a plan for contribution in kind and obtain approval
+therefor from the President after deliberation of the State Council.
+ 
+Article 62 (Calculation of Value of Contribution) In cases of contribution in kind under the
+provisions of Article 60, the value of the contribution for the general property shall be
+computed pursuant to Article 44: Provided, That if the calculated value of equity securities
+is less than their par value, the value of contribution shall be the par value of such equity
+securities.
+ 
+Article 63 (Correction of Property Invested, etc.) When any change has occurred to the
+property subject to the contribution in kind due to its destruction or damage during the
+period from the base date for assessment to the contribution date, the office of general
+administration may correct the property invested or the value of contribution. In such
+cases, the head of the competent authority shall notify the office of general administration
+of such change in the property subject to the contribution in kind without delay.
+ 
+Article 64 (Acquisition Value of Equity Securities following Contribution in Kind) The
+acquisition value of the equity securities to be acquired by the government through
+contribution in kind shall not exceed the asset value determined by Ordinance of the
+
+--------------------------------------------------------------------------------
+법제처                                                            43                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+Ministry of Strategy and Finance: Provided, That such asset value may be substituted with
+the par value in any case prescribed by Presidential Decree, in which the asset value of the
+equity securities is less than their par value.
+ 
+Article 65 (Exclusion from Application of Commercial Act) The provisions of Articles 295 (2),
+299 (1), 299-2, and 422 of the Commercial Act shall not apply where a government-
+invested corporation receives contribution in kind pursuant to the provisions of Article 60.
+ 
+            SECTION 8 Dividend Paid to Government
+ 
+Article 65-2 (Scope of Application of Company Paying Dividends to Government and Invested
+Property) This section shall apply to the dividend paid to the Government (hereinafter
+referred to as "dividend paid to the Government" in this section) by the companies
+prescribed by Presidential Decree (excluding the companies that the Government has the
+share paid in kind pursuant to the Inheritance Tax and Gift Tax Act; hereinafter referred to
+as "company paying dividends to the Government" in this section) from among the
+corporations in which the State has share in the form of general accounts, special accounts
+and of funds as the invested property being administered as State-owned property.
+[This Article Newly Inserted on Jul. 14, 2011]
+ 
+Article 65-3 (Principles concerning Determination of Dividend to Government) With respect
+to the companies paying dividends to the Government, which have profits available for
+dividend calculated pursuant to the Commercial Act or relevant statutes, the office of
+general administration and the head of a central government agency Service referred to to
+Article 8 shall ensure appropriateness of dividend paid to the Government, taking into
+account the following: <Amended on Jun. 9, 2020>
+1. The size of profits subject to dividend payment;
+2. Reasonableness of the budget amount for the Government's investment revenue, and
+the financial condition of the Government;
+3. Dividend ratio and dividend payout ratio of each company paying dividends to the
+Government;
+4. Dividend ratio and dividend payout ratio of the private sector's same or similar business
+field;
+
+--------------------------------------------------------------------------------
+법제처                                                            44                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+5. Management conditions of the company paying dividends to the Government, such as
+the size of its capital stock, the size of internal funds, debt ratio, net worth ratio under
+the standards set by the Bank for International Settlements, historical dividend payments,
+appropriateness of financial resources required for the investment, etc.;
+6. Other criteria for determining dividends as prescribed by Presidential Decree.
+[This Article Newly Inserted on Jul. 14, 2011]
+ 
+Article 65-4 (Appropriation, etc., of Budget Bill of Government's Dividend Revenue) (1)
+Companies paying dividends to the Government shall submit data that can estimate the
+Government's dividend revenue to the office of general administration or to the head of a
+central government agency, as prescribed by Presidential Decree.
+(2) The office of general administration or the head of a central government agency shall
+estimate the following year's Government's dividend revenue based on the data submitted
+in accordance with paragraph (1), and shall include the estimate in the budget of revenues
+of the budget bill concerned or in the revenue plan of the management plan for the State
+Property Administration Fund.
+[This Article Newly Inserted on Jul. 14, 2011]
+ 
+Article 65-5 (Determination of dividend paid to the Government) (1) Companies paying
+dividends to the Government shall submit such data relevant to determining dividend paid
+to the Government to the office of general administration and to the head of a central
+government agency, respectively, as prescribed by Presidential Decree.
+(2) When determining the dividend to be paid to the Government, companies paying
+dividends  to  the  Government  shall  consult  in  advance  with  the  office  of  general
+administration  and  the  head  of  a  central  government  agency,  respectively,  before
+undergoing procedures, such as board of directors/shareholders meetings, which are
+relevant to determining the dividend paid to the Government. <Amended on Jun. 9, 2020>
+[This Article Newly Inserted on Jul. 14, 2011]
+ 
+Article 65-6 (Report to National Assembly, etc.) When the dividend payment by companies
+paying dividends to the Government is completed, the office of general administration and
+the head of a central government agency shall report details thereof to the competent
+Standing Committee of the National Assembly and shall publicly announce such details.
+
+--------------------------------------------------------------------------------
+법제처                                                            45                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+[This Article Newly Inserted on Jul. 14, 2011]
+ 
+            CHAPTER IV-2 SPECIAL CASES CONCERNING ADMINISTRATION OR DISPOSAL OF
+INTELLECTUAL PROPERTY
+ 
+Article 65-7 (Permission, etc., for Use of Intellectual Property) (1) A person who has obtained
+permission for use or loan (hereinafter referred to as "permission for use, etc.") of
+intellectual property may allow any third person to use, or benefit from, such intellectual
+property after obtaining approval therefor from the head of the relevant central
+government agency, etc., notwithstanding the main sentence of Article 30 (2) and Article
+47 (1).
+(2) A person who has obtained permission for the use, etc., of copyright, etc., may
+transform, change, or adapt the relevant work upon obtaining approval therefor from the
+head of the central government agency, etc., that administers the relevant intellectual
+property.
+[This Article Newly Inserted on Dec. 18, 2012]
+ 
+Article 65-8 (Method of Granting Permission for Use, etc., of Intellectual Property) (1) Where
+the head of a central government agency, etc., intends to grant permission for the use,
+etc., of intellectual property, he/she shall do so by a private contract, notwithstanding the
+main sentence of Article 31 (1) and Article 47 (1) and may grant permission to several
+persons at a time or on several occasions. <Amended on Jun. 9, 2020>
+(2) No one who obtains permission for use, etc. pursuant to paragraph (1) shall interfere
+with the utilization of the relevant intellectual property by any third person.
+(3) The head of a central government agency, etc., may revoke permission for use, etc.,
+granted to a person who interferes with the utilization of the relevant intellectual property
+by any third person, in violation of paragraph (2).
+(4) Where no person, other than the relevant applicant, intends to obtain permission for
+use, etc., during the permitted period of use, etc., provided for in Article 65-11 (1)
+notwithstanding paragraph (1), or where deemed particularly necessary for the efficient
+administration of intellectual property, the head of a central government agency, etc., may
+grant permission for use, etc., only to a specific person. In such cases, the method of
+granting permission for use, etc., shall be as stipulated in the main sentence of Article 31
+
+--------------------------------------------------------------------------------
+법제처                                                            46                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(1), Article 31 (2) or Article 47 (1).
+[This Article Newly Inserted on Dec. 18, 2012]
+ 
+Article 65-9 (Usage Fees, etc., of Intellectual Property) (1) When permission for the use, etc.,
+of intellectual property is granted, usage fees or rent shall be collected in an amount
+prescribed by Presidential Decree by taking into account, among other things, revenue
+from the relevant intellectual property, notwithstanding Articles 32 (1) and 47 (1).
+(2) Articles 33 and 47 (1) shall not apply where a person (a heir or other general successor
+shall be deemed the same person as his/her predecessor) continuously uses, or benefits
+from, the same intellectual property.
+[This Article Newly Inserted on Dec. 18, 2012]
+ 
+Article 65-10 (Exemption from or Reduction of Usage Fees or Rent of Intellectual Property)
+Except as provided for in Articles 34 (1) and 47 (1), the head of a central government
+agency, etc., may exempt or reduce the relevant usage fees or rent in any of the following
+cases, as prescribed by Presidential Decree: <Amended on Jun. 22, 2015; Dec. 26, 2017>
+1. For the increase of income of farmers defined in subparagraph 2 of Article 3 of the
+Framework Act on Agriculture, Rural Community and Food Industry, and fishermen
+defined in subparagraph 3 of Article 3 of the Framework Act on Fisheries and Fishing
+Villages Development, the expansion of exports by small and medium businesses defined
+in Article 2 of the Framework Act on Small and Medium Enterprises, support for business
+starters and business re-starters defined in subparagraphs 2 and 2-2 of Article 2 of the
+Support for Small and Medium Enterprises Establishment Act, facilitation of establishment
+of venture businesses defined in Article 2 (1) of the Act on Special Measures for the
+Promotion of Venture Businesses, and other cases deemed necessary by the head of a
+central government agency, etc., to promote national policies equivalent thereto:
+Exemption;
+2. Other cases deemed necessary by the head of a central government agency, etc., to
+utilize intellectual property for public purposes: Reduction.
+[This Article Newly Inserted on Dec. 18, 2012]
+ 
+Article 65-11 (Permitted Period of Use, etc., of Intellectual Property) (1) Notwithstanding
+Article 35 or 46, the permitted period of the use or loan of intellectual property shall be
+prescribed by Presidential Decree to the extent of five years.
+
+--------------------------------------------------------------------------------
+법제처                                                            47                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(2) With respect to the intellectual property (excluding intellectual property prescribed by
+Presidential Decree under the main sentence of Article 35 (2) and Article 46 (2)), the period
+for permission of use or loan under paragraph (1) for which expires, the permission for use,
+etc., previously granted may be renewed for a period not exceeding the permitted period
+of use or loan prescribed under paragraph (1): Provided, That permission for use, etc.,
+granted under Article 65-8 (4) may be renewed only on one occasion.
+[This Article Newly Inserted on Dec. 18, 2012]
+ 
+Article 65-12 (Vesting, etc., of Copyright) (1) When the head of a central government agency,
+etc., enters into a contract for production of a work with a person, other than the State,
+he/she shall stipulate the vesting of copyright to the work in the contract.
+(2) Where the head of a central government agency, etc., enters into a contract for
+collaborative creation with a person, other than the State, the copyright to the end product
+shall be jointly owned, notwithstanding the main sentence of Article 11 (1), and the shares
+therein shall be equally divided unless otherwise stipulated: Provided, That the principal
+agent  with  whom  the  copyright  is  vested,  the  share  ratio,  etc.,  may  be  otherwise
+determined taking into consideration the level of contribution to the end product and the
+characteristics of the subject matter of the contract, such as national security, national
+defense and diplomatic relations.
+(3) When the head of a central government agency, etc., enters into a contract under
+paragraphs (1) and (2), he/she shall not enter into a contract to the effect that the
+copyright in the end product is fully vested to a person, other than the State.
+[This Article Newly Inserted on Dec. 18, 2012]
+ 
+            CHAPTER V ADMINISTRATIVE REGISTRY AND REPORTING
+ 
+Article 66 (Administrative Registry and Inspections) (1) The head of a central government
+agency, etc., shall keep an administrative registry, the certificates of registered matters, and
+drawings of State property under its jurisdiction, according to the classifications and types
+provided for in Article 6. In such cases, the administrative registry of State property may be
+prepared in the form of electronic data. <Amended on Mar. 30, 2011; Apr. 12, 2011; Dec.
+18, 2012>
+
+--------------------------------------------------------------------------------
+법제처                                                            48                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+(2) The head of a central government agency, etc., shall annually inspect the actual status
+of State property under its jurisdiction and revise the administrative registry referred to in
+paragraph (1) accordingly. <Amended on Mar. 30, 2011>
+(3) Matters necessary for preparing the administrative registry referred to in paragraph (1)
+and  for  conducting  inspections  pursuant  to  paragraph  (2)  shall  be  prescribed  by
+Presidential  Decree.
+(4) The office of general administration shall keep a general registry of State property
+under the jurisdiction of each central government agency. In such cases, electronic data
+may be used instead of the general registry. <Amended on Mar. 30, 2011>
+(5) The office of general administration, the head of a central government agency, or any
+officials or persons delegated or entrusted with the administrative duties pursuant to
+Articles 28, 29, and 42 (1) and (3) may, free of charge, request inspection or reproduction
+of any necessary documents, or issuance of certified copies or abstracts thereof or
+certificates of registered matters from the heads of the registry offices or other relevant
+administrative agencies, if necessary for the administration or disposal of State property.
+<Amended on Mar. 30, 2011; Apr. 12, 2011>
+ 
+Article 67 (Access to Land, etc., Owned by Third Parties) (1) The head of a central
+government agency, etc., or employees of the person to whom general affairs has been
+delegated/entrusted pursuant to Article 25 may perform the delegated/entrusted affairs, or
+may be permitted to access land, etc., owned by third parties if necessary for the
+inspection under Article 66 (2). <Amended on Mar. 30, 2011>
+(2) Any person who intends to have access to land, etc., owned by a third party under
+paragraph (1) shall make it known to the owner, occupant, or manager of such land, etc.,
+(hereafter in this Article referred to as "interested persons") in advance: Provided, That this
+shall not apply where the interested persons are unknown. <Amended on Jun. 9, 2020>
+(3) Interested persons shall be prohibited from refusing or obstructing access referred to in
+paragraph (1) without justifiable grounds.
+(4) The person who intends to get access to land, etc., owned by a third party under
+paragraph (1) shall carry with him/her a certificate indicating his/her authority and present
+it to the interested persons. <Amended on Jun. 9, 2020>
+ 
+
+--------------------------------------------------------------------------------
+법제처                                                            49                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+Article 68 (Price Assessment, etc.) Any accounting treatment of State property, including
+assessment of the price of State property, shall be in conformity with the national
+accounting standards under Article 11 of the National Accounting Act.
+ 
+Article 69 (Reports on Administration of State Property) (1) The head of a central government
+agency shall prepare a report on the administration of State property under its control and
+submit it to the office of general administration by not later than the end of February of
+the following year. In such cases, matters to be included in the report on the
+administration of State property shall be prescribed by Presidential Decree. <Amended on
+Mar. 30, 2011>
+(2) The office of general administration shall combine the reports on the administration of
+State property mentioned in paragraph (1) and prepare a comprehensive report on the
+administration of State property.
+(3) The office of general administration shall submit the comprehensive report on the
+administration of State property mentioned in paragraph (2) to the Board of Audit and
+Inspection by not later than April 10 of the following year for inspection.
+(4) The office of general administration shall submit the comprehensive report on the
+administration of State property inspected by the Board of Audit and Inspection pursuant
+to the provisions of paragraph (3) and the audit report made by the Board of Audit and
+Inspection to the National Assembly by not later than May 31 of the following year.
+ 
+Article 70 (Reports on Destruction, etc.) If any State property under its control is destructed
+or removed, the head of a central government agency, etc. shall promptly report such fact
+to the office of general administration and the Board of Audit and Inspection. <Amended
+on Mar. 30, 2011>
+ 
+Article 71 (Exclusion from Application) The provisions of Articles 68 through 70 shall not
+apply to the property mentioned in Article 5 (1) 2, which is managed by the Minister of
+Defense, and other property determined by the head of a central government agency
+through consultations with the office of general administration. <Amended on Mar. 30,
+2011>
+ 
+
+--------------------------------------------------------------------------------
+법제처                                                            50                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+            CHAPTER VI SUPPLEMENTARY PROVISIONS
+ 
+Article 72 (Collection of Indemnities) (1) The head of a central government agency, etc., shall
+collect, from a person occupying any State property without permission, an indemnity
+equivalent to 120 percent of the usage fees or rent of such State property, as prescribed
+by Presidential Decree: Provided, That no indemnity shall be collected in any of the
+following cases: <Amended on Mar. 30, 2011; Apr. 12, 2011; Dec. 18, 2012; Jun. 9, 2020>
+1. If property purchased by a person (including his/her successor or other general
+successor), who has paid a reasonable price for the purchase in reliance on the registered
+titleholder named in the certificate of registered matters or in other public record, is later
+proved to be State property and thus vested to the State;
+2. If the State or a local government permits a person to occupy, use, or benefit from State
+property for a given period due to an inevitable reason, such as countermeasures against
+a natural disaster.
+(2) The payment of an indemnity under paragraph (1) may be deferred, or made in
+installments, for up to five years, as prescribed by Presidential Decree, in consideration of
+the circumstances under which the State property is occupied without permission, its use,
+the financial conditions of the occupant, etc. <Amended on May 27, 2009>
+(3) Adjustment of usage fees of and rent of State property under Articles 33 and 47 shall
+not apply to an indemnity collected under paragraph (1).
+ 
+Article 73 (Collection of Overdue Charges, etc.) (1) When a person fails to pay, with regard to
+any State property, the usage fees, additional dues imposed for the negligence of
+administration, rent, proceeds from sale, exchange price, or indemnities (excluding any
+interest accrued thereon where the payment of such indemnities is deferred or made in
+installments) by their respective due dates, the head of a central government agency, etc.,
+may collect overdue charges, as prescribed by Presidential Decree. In such cases, the
+period for which the overdue charges are imposed shall not exceed 60 months from the
+due date. <Amended on May 27, 2009; Mar. 30, 2011>
+(2) When a person fails to pay, with regard to any State property, the usage fees,
+additional dues imposed for the negligence of administration, rent, indemnities, or overdue
+charges under the provisions of paragraph (1) by their respective due dates, the head of a
+central government agency, etc., may collect them by applying mutatis mutandis the
+
+--------------------------------------------------------------------------------
+법제처                                                            51                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+provisions  of  Article  23  of  the  National  Tax  Collection  Act  and  the  provisions  for
+disposition on arrears of the same Act according to the methods falling under any of the
+following subparagraphs: <Amended on Mar. 30, 2011>
+1. The head of a central government agency (in cases of general property, including
+persons delegated with duties on administration/disposal under the provisions of Article
+42 (1); hereinafter in this subparagraph, the same shall apply) may collect them directly,
+or delegate duties for such collection to the head of the competent tax office or the
+head of the competent local government (hereinafter referred to as "head of tax office,
+etc."). In such cases, the head of tax office, etc., which executes the affairs shall be placed
+under the supervision of the head of a central government agency which has delegated
+such affairs;
+2. A person who has been entrusted with duties for the administration/disposal under the
+provisions of Article 42 (1) may have the head of the competent tax office, etc., collect
+them on his/her behalf.
+ 
+Article 73-2 (Consultation of Urban Management Plan, etc.) (1) Where the head of a central
+government agency or the head of local government, with respect to State-owned
+property, determines or alters the urban management plan pursuant to the National Land
+Planning and Utilization Act, or make a restriction on the use and preservation pursuant to
+other Acts, he/she shall consult in advance with the office of general administration or the
+head of the relevant central government agency that has control over the State-owned
+property.
+(2) Where the head of a central government agency, etc. (including persons to whom
+affairs regarding management and disposal of State property are delegated or entrusted
+under other statutes) submits its opinion to a person who intends to authorize or permit
+development activities involving matters concerning reversion of public facilities that are
+State property under Article 65 (3) of the National Land Planning and Utilization Act or
+other Acts, he/she shall consult with the office of general administration in advance, as
+prescribed by Presidential Decree. <Newly Inserted on Dec. 26, 2017>
+(3) Where the office of general administration or the head of a central government agency,
+etc., deems necessary to efficiently administer State-owned property and enhance its utility,
+he/she may request the person authorized to prepare an urban management plan under
+the  National  Land  Planning  and  Utilization  Act  for  change  of  the  relevant  urban
+
+--------------------------------------------------------------------------------
+법제처                                                            52                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+management plan. <Amended on Dec. 26, 2017>
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 73-3 (Extinctive Prescription) (1) The rights of the State for the purpose of a payment
+of money pursuant to this Act shall be extinguished by the completion of prescription,
+unless it is exercised for five years.
+(2) The extinctive prescription of the rights under Article 73 (2) shall be suspended for any
+of the following reasons:
+1. Notice of payment;
+2. Urging;
+3. Request for delivery;
+4. Seizure.
+(3) The extinctive prescription suspended pursuant to paragraph (2) shall be in progress
+newly from the time when any of the following periods passed:
+1. Period of payment pursuant to the notice of payment or the urging;
+2. Period of request for delivery;
+3. Period up to the cancellation of seizure.
+(4) The extinctive prescription under paragraph (1) shall not be in progress in any of the
+following periods:
+1. Period of payment in installments and period of deferment of collection pursuant to this
+Act;
+2. Period of postponement of disposition on default under the National Tax Collection Act;
+3. Period of the ongoing litigation by raising the revocation litigation on a fraudulent act
+under Article 30 of the National Tax Collection Act or the subrogated litigation by a
+creditor under Article 404 of the Civil Act (cases where the litigation has been rejected,
+dismissed, or revoked are null and void).
+(5) Except for no specific legal provisions otherwise exist with respect to the extinctive
+prescription on the rights of the State for the purpose of a payment of money pursuant to
+this Act, the Civil Act and the National Finance Act shall apply.
+[This Article Newly Inserted on Mar. 2, 2016]
+ 
+Article 74 (Removal of Illegal Facilities) When any person occupies State property or
+constructs facilities therein without justifiable grounds, the head of a central government
+
+--------------------------------------------------------------------------------
+법제처                                                            53                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+agency, etc. may remove such facilities or take other necessary measures by applying
+mutatis mutandis the Administrative Vicarious Execution Act. <Amended on Mar. 2, 2016>
+ 
+Article 75 (Additional Dues for Erroneous Payment) When returning usage fees, rent,
+proceeds from sale, or indemnities for State property which have been erroneously paid,
+the State shall repay such fees, etc., and interest accrued thereon as provided by
+Presidential Decree, for the period from the day following the date on which such
+erroneous payment is made until the date such fees, etc., are returned.
+ 
+Article 76 (Disclosure of Information) (1) The office of general administration shall disclose
+information retained and managed by the office through the information disclosure system
+using information and communication networks for the efficient administration and
+disposal of State property.
+(2)  Necessary  matters  concerning  the  scope  of  information  to  be  disclosed  under
+paragraph (1) and procedures for the disclosure shall be prescribed by Presidential Decree.
+ 
+Article 77 (Report on Concealed Property, etc.) (1) A person who detects concealed State
+property or ownerless real estate and reports it to the government may be rewarded, as
+prescribed by Presidential Decree.
+(2) If a local government detects concealed State property or ownerless real estate and
+reports it to the government, such property may be transferred to the reporting local
+government or the local government may be rewarded, as prescribed by Presidential
+Decree, within the half of the value of such property.
+ 
+Article 78 (Special Cases concerning Voluntary Restitution of Concealed Property, etc.) If any
+concealed State property is sold to a person who has acquired it in good faith and
+thereafter returned such property to the State voluntarily due to a cause falling under any
+of the following subparagraphs, such person may, notwithstanding the provisions of Article
+50, be permitted to purchase the property by installment payments over 12 years or less
+without interest thereon, or by paying a discounted purchase price in a lump sum after
+deducting an amount of not more than 80 percent of the purchase price from the original
+purchase price, as specified by Presidential Decree and differentiated by the reason of
+his/her return:
+
+--------------------------------------------------------------------------------
+법제처                                                            54                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+1. Voluntary restitution;
+2. Settlement in the litigation;
+3. Other causes prescribed by Presidential Decree.
+ 
+Article 79 (Liability for Compensation) (1) If any person entrusted with administrative duties
+for State property pursuant to Article 28 breaches his/her duty and causes damage to the
+property on purpose or by gross negligence, he/she shall be liable to compensate such
+damage.
+(2) Articles 4 (3) and (4), 6 through 8 of the Act on Liability of Accounting Personnel shall
+apply mutatis mutandis to the liability to compensate under paragraph (1).
+ 
+Article 79-2 (Legal Fiction as Public Official in Application of Penalty Provisions) The members
+who are not public official, among the members of the Committee, the advisory group for
+development through participation of private sector pursuant to Article 59-3 (3) and of the
+evaluation group for development through participation of private sector pursuant to
+paragraph (7) of the same Article, shall be deemed to be a public official in applying
+Articles 129 through 132 of the Criminal Act.
+[This Article Newly Inserted on Mar. 30, 2011]
+ 
+Article 80 (Special Cases concerning Liquidation Procedures) Notwithstanding the provisions
+of the Commercial Act concerning the power and the convocation or resolution methods,
+etc., of a general meeting of stockholders or employees, liquidation of a corporation, not
+less than a half of the equity shares of which is held by the State and which is prescribed
+by Presidential Decree shall be determined in accordance with the Presidential Decree.
+ 
+Article 81 (Liquidation Procedures for Corporation whose Headquarters or Principal Offices
+are Located in North of Military Demarcation Line) (1) With respect to the liquidation of
+corporations whose headquarters or principal offices are located in north above the
+Military Demarcation Line from among corporations referred to in Article 80, the provisions
+of the Commercial Act and Article 80 of this Act shall apply mutatis mutandis: Provided,
+That the provisions of the Commercial Act concerning the following matters shall not apply
+mutatis mutandis:
+1. Registration of dissolution of a corporation;
+
+--------------------------------------------------------------------------------
+법제처                                                            55                                                       국가법령정보센
+터
+「STATE PROPERTY ACT」
+2. Report and registration of a liquidator;
+3. Presentation of a list of property and a balance sheet pursuant to Article 533 of the
+Commercial Act;
+4. Registration upon completion of liquidation.
+(2) Where the ownership of the real estate owned by a corporation under liquidation
+procedures pursuant to paragraph (1) is likely to be transferred to a person who occupies
+such real estate without permission under Article 245 of the Civil Act, the office of general
+administration may vest such real estate in the State even before the completion of the
+liquidation procedures. In such cases, no right of shareholders and other equity holders of
+the corporation shall be affected in the course of distributing any remaining property after
+the completion of liquidation.
+(3) Where a corporation is liquidated pursuant to paragraph (1), the necessary matters shall
+be publicly notified pursuant to Presidential Decree.
+(4) Where the State entrusts registration for the transfer of ownership on the real estate of
+the relevant corporation, according to the provisions of paragraph (2) or as a result of the
+distribution of the remaining property after the completion of liquidation procedures, the
+registration  procedures  shall  be  in  accordance  with  the  Presidential  Decree,
+notwithstanding  the  provisions  of  the  Registration  of  Real  Estate  Act.
+ 
+            CHAPTER VII PENTALTY PROVISIONS
+ 
+Article 82 (Penalty Provisions) A person who uses or benefits from administrative property, in
+violation of Article 7 (1), shall be punished by imprisonment with labor for not more than
+two years or by a fine not exceeding ten million won.
+ 
+Article 82 (Penalty Provisions) A person who uses or benefits from administrative property, in
+violation of Article 7 (1), shall be punished by imprisonment with labor for not more than
+two years or by a fine not exceeding 20 million won.
+[Enforcement Date: Oct. 1, 2020] Article 82
+
+--------------------------------------------------------------------------------

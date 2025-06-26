@@ -1,0 +1,6377 @@
+Metadata for Victoria/Land Acquisition and Compensation Act.pdf: {'format': 'PDF 1.6', 'title': 'Land Acquisition and Compensation Act 1986', 'author': 'Yedidah Lewis', 'subject': "Reprints for Acts/SR's", 'keywords': 'Versions, Reprints', 'creator': 'Acrobat PDFMaker 11 for Word', 'producer': 'Adobe PDF Library 11.0', 'creationDate': "D:20200115110539+11'00'", 'modDate': "D:20200115110654+11'00'", 'trapped': '', 'encryption': None, 'country': 'Unknown'}
+
+Country found in Victoria/Land Acquisition and Compensation Act.pdf: Unknown
+
+Authorised by the Chief Parliamentary Counsel 
+i 
+ 
+Authorised Version No. 054 
+Land Acquisition and Compensation 
+Act 1986 
+No. 121 of 1986 
+Authorised Version incorporating amendments as at 
+1 January 2020 
+TABLE OF PROVISIONS 
+Section 
+Page 
+Part 1—Preliminary 
+1 
+1 
+Purpose 
+1 
+2 
+Commencement 
+1 
+3 
+Definitions 
+1 
+Part 2—Acquisition of interests in land 
+6 
+Division 1—General 
+6 
+4 
+Authority to acquire or purchase in accordance with Part 
+6 
+Division 2—Reservation of land 
+6 
+5 
+Reservation or certification of land required before 
+acquisition 
+6 
+Division 3—Notice of intention to acquire 
+7 
+6 
+Notice of intention to acquire 
+7 
+7 
+Cases where notice of intention to acquire not required 
+8 
+8 
+Form of notice 
+9 
+9 
+Copy of notice to be served on particular authorities 
+12 
+10 
+Notice to Registrar of Titles 
+12 
+11 
+Effect of notice 
+14 
+12 
+Restrictions on dealings with land 
+14 
+13 
+Sale of interest in land voidable if notice not given 
+15 
+14 
+Amendment of notice 
+15 
+15 
+Cancellation of notice 
+15 
+16 
+Lapse of notice 
+16 
+17 
+Extension of operation of notice by agreement 
+16 
+18 
+Acquisition by agreement 
+17 
+Division 4—Acquisition of interests in land 
+17 
+19 
+Notice of acquisition 
+17 
+20 
+Time limits 
+17 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Section 
+Page 
+ii 
+  
+21 
+Form of notice 
+18 
+22 
+Service of notice on persons interested in land 
+18 
+23 
+Publication of notice in newspaper 
+18 
+24 
+Effect of notice of acquisition 
+19 
+25 
+New interests 
+20 
+Division 5—Entry into possession 
+20 
+26 
+Entry into possession 
+20 
+27 
+Recovery of rent 
+23 
+28 
+Proceedings where refusal to deliver possession 
+23 
+29 
+Residential Tenancies Act 1997 not to apply 
+24 
+Part 3—Compensation for acquisition 
+25 
+30 
+Right to compensation on acquisition 
+25 
+31 
+Initial offer of compensation 
+25 
+32 
+Offer to pay total amount of compensation 
+27 
+33 
+Response by claimant 
+28 
+34 
+Form of notice of acceptance 
+28 
+35 
+Form of notice of claim 
+29 
+36 
+Authority's reply to claim 
+30 
+37 
+Claim for compensation where no offer made 
+31 
+38 
+No compensation for gold, minerals or pastoral licences 
+33 
+39 
+Apportionment of rent when part only of land leased is 
+acquired 
+35 
+Part 4—Measure of compensation 
+36 
+40 
+Definitions 
+36 
+41 
+General principles on which compensation is to be based 
+37 
+42 
+Reinstatement in particular circumstances 
+39 
+43 
+Matters affecting compensation 
+40 
+44 
+Solatium 
+43 
+45 
+Loans to dispossessed home owners 
+44 
+Part 5—Compensation where no interest in land is acquired 
+47 
+46 
+Compensation for abandoned acquisition 
+47 
+47 
+Compensation for entry or temporary occupation 
+48 
+48 
+Form of claim 
+48 
+Part 6—Payment of compensation and interest on compensation 
+51 
+49 
+Compensation to be paid to persons entitled or empowered to 
+sell and convey 
+51 
+50 
+Claimants to produce title 
+51 
+51 
+Advances of compensation 
+51 
+52 
+Determination of rate of interest 
+53 
+53 
+Interest on compensation for acquisition 
+53 
+54 
+Interest on compensation where no land taken 
+54 
+55 
+Penalty interest 
+54 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Section 
+Page 
+iii 
+  
+56 
+Interest in respect of expenses 
+55 
+57 
+Interest where claimant seeks extension of time 
+55 
+58 
+Compensation may in certain cases be paid to the Treasurer 
+56 
+59 
+Payment out of Trust Fund at direction of Authority 
+56 
+60 
+Investment of money deposited in Trust Fund 
+56 
+61 
+Court or judge may dispose of money paid to Trust Fund 
+57 
+62 
+Costs of application 
+58 
+63 
+Expenses of conveyance to be borne by Authority 
+58 
+64 
+Taxation of expenses of conveyance 
+59 
+Part 7—Persons with limited powers to deal with land 
+60 
+65 
+Restrictions in other laws not to apply 
+60 
+66 
+Application of compensation 
+60 
+67 
+Power to agent to negotiate in certain cases 
+61 
+Part 8—Mortgages over acquired land 
+63 
+68 
+Power to redeem mortgages 
+63 
+69 
+Deposit of mortgage money on refusal to accept 
+64 
+70 
+Sum to be paid when mortgage exceeds value of land 
+65 
+71 
+Deposit of money when refused on tender under section 70 
+66 
+72 
+Sum to be paid where part only of mortgaged land taken 
+67 
+73 
+Deposit of money when refused on tender under section 72 
+69 
+Part 9—Powers of entry and temporary occupation 
+71 
+74 
+Powers of entry 
+71 
+75 
+Temporary occupation 
+72 
+76 
+Obligations in relation to the occupation of land 
+73 
+77 
+Liability of Authority for nuisance 
+74 
+78 
+Obstruction an offence 
+74 
+79 
+Authority to fence lands before using them 
+74 
+Part 10—Determination of disputes 
+76 
+Division 1—Application to the Tribunal or the Court 
+76 
+80 
+Application or referral of disputed claim 
+76 
+81 
+Jurisdiction 
+76 
+82 
+Form of notice of referral 
+77 
+83 
+Service of notice of referral on other parties 
+77 
+84 
+Adjournment or withdrawal application 
+77 
+84A 
+Discretionary transfer of proceeding 
+78 
+Division 2—Compulsory conference in the Court 
+80 
+85 
+Compulsory conference 
+80 
+86 
+Objects of compulsory conference 
+80 
+87 
+Parties may vary offer or claim 
+81 
+88 
+Settlement 
+81 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Section 
+Page 
+iv 
+  
+Division 3—Determinations 
+81 
+89 
+Determination of claim 
+81 
+90 
+Principles to be applied in determining compensation 
+82 
+91 
+Costs 
+82 
+94 
+Payment of compensation 
+84 
+Division 4—General 
+84 
+95 
+Power to inspect land 
+84 
+96 
+Tribunal or Court to nominate valuer 
+84 
+97 
+Valuer to make declaration 
+85 
+98 
+Consequence of striking out a claim 
+86 
+Part 11—Miscellaneous 
+87 
+103 
+Power to inspect documents 
+87 
+104 
+Service 
+87 
+105 
+Minor misdescription not to invalidate documents 
+88 
+106 
+Extension or abridgement of time 
+88 
+107 
+Time not to expire until notice given 
+88 
+108 
+Payments to be good discharge 
+89 
+109 
+Authority may dispose of acquired land 
+89 
+109A Supreme Court—Limitation of jurisdiction 
+90 
+110 
+Regulations 
+90 
+111 
+Transitional provisions—Justice Legislation Amendment 
+(Court Security, Juries and Other Matters) Act 2017 
+91 
+═══════════════ 
+Endnotes 
+92 
+1 
+General information 
+92 
+2 
+Table of Amendments 
+94 
+3 
+Amendments Not in Operation 
+99 
+4 
+Explanatory details 
+100 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+ 
+1 
+  
+Authorised Version No. 054 
+Land Acquisition and Compensation 
+Act 1986 
+No. 121 of 1986 
+Authorised Version incorporating amendments as at 
+1 January 2020 
+The Parliament of Victoria enacts as follows: 
+Part 1—Preliminary 
+ 
+1 Purpose 
+The main purposes of this Act are— 
+ 
+(a) to establish a new procedure for the 
+acquisition of land for public purposes; and 
+ 
+(b) to provide for the determination of the 
+compensation payable in respect of land so 
+acquired. 
+ 
+2 Commencement 
+This Act comes into operation on a day to be 
+proclaimed. 
+ 
+3 Definitions 
+ 
+(1) In this Act— 
+acquire, in relation to an interest in land, means to 
+acquire that interest— 
+ 
+(a) by compulsory process; or 
+ 
+(b) by agreement if the person acquiring 
+that interest is empowered to acquire it 
+by compulsory process. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+S. 3(1) def. of 
+Board 
+repealed by 
+No. 91/1994 
+s. 20(a). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+2 
+  
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+building permit has the same meaning as it has in 
+the Building Act 1993; 
+ 
+ 
+claimant means a person who makes or is entitled 
+to make a claim for compensation under this 
+Act; 
+compensation means compensation to which a 
+person is entitled under this Act and includes 
+the payment of money for land acquired by 
+agreement; 
+Court means the Supreme Court; 
+ 
+ 
+date of acquisition, in relation to an interest in 
+land acquired pursuant to the procedures 
+contained in this Act, means the date on 
+which a notice of acquisition in relation to 
+that interest is published in the Government 
+Gazette or, if an interest is acquired by 
+agreement, the date on which the interest 
+vests in the Authority pursuant to the 
+agreement; 
+S. 3(1) def. of 
+building 
+approval 
+repealed by 
+No. 126/1993 
+s. 264(Sch. 5 
+item 12.1). 
+S. 3(1) def. of 
+building 
+permit 
+inserted by 
+No. 126/1993 
+s. 264(Sch. 5 
+item 12.1). 
+S. 3(1) def. of 
+Court 
+amended by 
+No. 57/1989  
+s. 3(Sch. 
+item 110.1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+3 
+  
+domestic partner of a person means— 
+ 
+(a) a person who is in a registered 
+relationship with the person; or 
+ 
+(b) a person to whom the person is not 
+married but with whom the person is 
+living as a couple on a genuine 
+domestic basis (irrespective of gender); 
+interest, in relation to land, means— 
+ 
+(a) a legal or equitable estate or interest in 
+the land; or 
+ 
+(b) an easement, right, charge, power or 
+privilege in, under, over, affecting or in 
+connexion with land; 
+judge means a judge of the Supreme Court; 
+lease includes an agreement for a lease; 
+notice of acquisition means a notice referred to in 
+section 19; 
+notice of intention to acquire means a notice 
+referred to in section 6; 
+planning instrument means a planning scheme 
+under the Planning and Environment Act 
+1987; 
+ 
+ 
+planning permit means a permit granted under a 
+planning instrument; 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+S. 3(1) def. of 
+domestic 
+partner 
+inserted by 
+No. 27/2001 
+s. 3(Sch. 1 
+item 5.1), 
+substituted by 
+No. 12/2008 
+s. 73(1)(Sch. 1 
+item 32.1). 
+S. 3(1) def. of 
+planning 
+instrument 
+substituted by 
+No. 45/1987  
+s. 205(Sch. 
+item 40(a)). 
+S. 3(1) def. of 
+registered 
+valuer 
+repealed by 
+No. 91/1994 
+s. 36(5)(a). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+4 
+  
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+responsible authority has the same meaning as it 
+has in the Planning and Environment Act 
+1987; 
+ 
+ 
+spouse of a person means a person to whom the 
+person is married; 
+ 
+ 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+the Authority means a person or body who or 
+which— 
+ 
+(a) is authorized by or under the special 
+Act to acquire land; and 
+ 
+(b) in the special Act is expressed to be the 
+Authority for the purposes of this Act; 
+the special Act means an Act or a provision of an 
+Act which is expressed to be a special Act 
+for the purposes of this Act; 
+this Act includes the regulations; 
+S. 3(1) def. of 
+Registrar 
+substituted by 
+No. 91/1994 
+s. 20(b), 
+repealed by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.1(a)). 
+S. 3(1) def of 
+responsible 
+authority 
+amended by 
+No. 45/1987  
+s. 205(Sch. 
+item 40(b)). 
+S. 3(1) def. of 
+spouse 
+inserted by 
+No. 27/2001 
+s. 3(Sch. 1 
+item 5.1). 
+S. 3(1) def. of 
+Taxing Master 
+inserted by 
+No. 24/2008 
+s. 83(1), 
+repealed by 
+No. 78/2008 
+s. 27(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 1—Preliminary 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+5 
+  
+Tribunal means Victorian Civil and 
+Administrative Tribunal established by the 
+Victorian Civil and Administrative 
+Tribunal Act 1998; 
+ 
+ 
+Trust Fund means the account kept under the 
+Financial Management Act 1994 and 
+known as "The Trust Fund"; 
+ 
+Valuer-General means the Valuer-General under 
+the Valuation of Land Act 1960. 
+ 
+(1A) For the purposes of the definition of domestic 
+partner in subsection (1)— 
+ 
+(a) registered relationship has the same 
+meaning as in the Relationships Act 2008; 
+and 
+ 
+(b) in determining whether persons who are not 
+in a registered relationship are domestic 
+partners of each other, all the circumstances 
+of their relationship are to be taken into 
+account, including any one or more of the 
+matters referred to in section 35(2) of the 
+Relationships Act 2008 as may be relevant 
+in a particular case. 
+ 
+(2) This Act applies to any Act or provision of an Act 
+to which it is expressed in that Act or provision to 
+apply. 
+ 
+(3) If a provision of the special Act is inconsistent 
+with a provision of this Act, the provision of this 
+Act prevails. 
+ 
+ 
+S. 3(1) def. of 
+Tribunal 
+inserted by 
+No. 91/1994 
+s. 20(c), 
+substituted by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.1(b)). 
+S. 3(1) def. of 
+Trust Fund 
+amended by 
+No. 18/1994 
+s. 66(Sch. 2 
+item 11). 
+S. 3(1A) 
+inserted by 
+No. 27/2001 
+s. 3(Sch. 1 
+item 5.2), 
+substituted by 
+No. 12/2008 
+s. 73(1)(Sch. 1 
+item 32.2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+6 
+  
+Part 2—Acquisition of interests in land 
+Division 1—General 
+ 
+4 Authority to acquire or purchase in accordance with 
+Part 
+An Authority which is empowered under a special 
+Act to acquire an interest in land by compulsory 
+process must not acquire that interest by 
+compulsory process or by agreement except in 
+accordance with this Part. 
+Division 2—Reservation of land 
+ 
+5 Reservation or certification of land required before 
+acquisition 
+ 
+(1) The Authority must not commence to acquire any 
+interest in land under the provisions of the special 
+Act unless the land has been first reserved by or 
+under a planning instrument for a public purpose. 
+ 
+(2) Subsection (1) does not apply in respect of 
+prescribed land or land in a prescribed class of 
+land. 
+ 
+(3) Subsection (1) does not apply in respect of land 
+which has been certified by the Governor in 
+Council on the recommendation of the Minister, 
+as land for which reservation is unnecessary, 
+undesirable or contrary to the public interest. 
+ 
+(4) Subsection (1) does not apply to an interest in land 
+if the Authority is not required to serve a notice of 
+intention to acquire that interest because of section 
+7(1)(a) or (b). 
+ 
+(4A) Subsection (1) does not apply to any land in an 
+area in respect of which a declaration under 
+section 172(2) of the Planning and Environment 
+Act 1987 is in force. 
+ 
+S. 5(4A) 
+inserted by 
+No. 45/1987  
+s. 205(Sch. 
+item 41) (as 
+amended by 
+No. 5/1988 
+s. 9(b)). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+7 
+  
+ 
+(4B) Subsection (1) does not apply to any land which is 
+special project land under section 201I(3) of the 
+Planning and Environment Act 1987. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4D) Subsection (1) does not apply to any land that is to 
+be acquired under a work-in-kind agreement 
+within the meaning of Part 9B of the Planning 
+and Environment Act 1987. 
+ 
+(5) A certification by the Governor in Council under 
+subsection (3) lapses after three months from the 
+date of its making unless within this period the 
+Authority has served a notice of intention to 
+acquire an interest in the land to which the 
+certification applies in accordance with section 6. 
+Division 3—Notice of intention to acquire 
+ 
+6 Notice of intention to acquire 
+Subject to section 7, if the Authority intends to 
+acquire an interest in land for the purposes of the 
+special Act, the Authority must serve upon each 
+person who has an interest in the land, or is 
+empowered by this Act to sell and convey or grant 
+and release or lease such an interest, or such of 
+those persons as, after diligent inquiry, become 
+known to the Authority, a notice of intention to 
+acquire the first-mentioned interest. 
+ 
+S. 5(4B) 
+inserted by 
+No. 103/1997  
+s. 6. 
+S. 5(4AA) 
+inserted by 
+No. 6/2010 
+s. 204(2), 
+renumbered 
+as s. 5(4C) by 
+No. 29/2011 
+s. 3(Sch. 1 
+item 49), 
+repealed by 
+No. 49/2019 
+s. 186(Sch. 4 
+item 23). 
+S. 5(4D) 
+inserted by 
+No. 31/2011 
+s. 28. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+8 
+  
+ 
+7 Cases where notice of intention to acquire not 
+required 
+ 
+(1) The Authority is not required to serve a notice of 
+intention to acquire under section 6 if— 
+ 
+(a) the interest or the land in which the interest 
+subsists has been publicly advertised for sale 
+and the Authority believes in good faith that 
+the interest is still available for sale at the 
+time the Authority proposes to acquire the 
+interest; or 
+ 
+(b) the Authority serves on the person interested 
+in the land— 
+ 
+(i) a statement in writing that it does not 
+intend to acquire the interest by 
+compulsory process; and 
+ 
+(ii) a statement in the prescribed form 
+setting out the principal rights and 
+obligations of that person under this 
+Act; or 
+ 
+(c) the Minister certifies that to require the 
+service of a notice of intention to acquire 
+would be unnecessary, undesirable or 
+contrary to the public interest. 
+ 
+(2) Subject to subsection (3), if the Authority has 
+served a statement under subsection (1)(b)(i) in 
+respect of any land the Authority is prohibited 
+from acquiring an interest in that land by 
+compulsory process until the expiration of twelve 
+months after the day on which the statement was 
+served. 
+ 
+(3) The Minister may, by notice in writing given 
+under the hand of the Minister, revoke any 
+statement made under subsection (1)(b)(i) if— 
+ 
+(a) the Minister has consulted with the Minister 
+administering the special Act; and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+9 
+  
+ 
+(b) in the view of both Ministers it is in the 
+public interest that the statement be revoked. 
+ 
+(4) The Minister must cause a copy of a certificate 
+under subsection (1)(c) to be tabled in the 
+Legislative Assembly and the Legislative Council 
+within three sitting days after the certificate is 
+signed by the Minister. 
+ 
+(5) If the Authority acquires or intends to acquire an 
+interest in land which is the subject of a certificate 
+under subsection (1)(c) the Authority must, no 
+later than the date of service of the notice of 
+acquisition in respect of that interest or the date on 
+which an agreement to acquire the interest is made 
+(as the case may be), serve a copy of the 
+certificate upon each person who has an interest in 
+the land, or such of those persons as, after diligent 
+inquiry, become known to the Authority. 
+ 
+(6) If the Authority has commenced negotiations to 
+acquire an interest in land, the person interested in 
+the land may by notice in the prescribed form 
+require the Authority to determine— 
+ 
+(a) to serve a notice of intention to acquire the 
+interest; or 
+ 
+(b) to serve statements under subsection (1)(b) 
+in relation to the interest. 
+ 
+(7) Subject to section 106(1), the Authority— 
+ 
+(a) must make its determination within 60 days 
+after service of the notice of the interested 
+person under subsection (6); and 
+ 
+(b) is bound by its determination. 
+ 
+8 Form of notice 
+ 
+(1) A notice of intention to acquire an interest in land 
+must— 
+ 
+(a) be in the prescribed form; and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+10 
+  
+ 
+(b) contain title particulars and a description 
+(including, if appropriate, a sketch) sufficient 
+to identify the interest to be acquired and the 
+location of the land; and 
+ 
+(c) give details of the purpose for which the 
+interest is to be acquired; and 
+ 
+(d) specify the reasons why the land is thought 
+to be suitable for that purpose; and 
+ 
+(e) state whether or not— 
+ 
+(i) the land is reserved for a public purpose 
+under a planning instrument; or 
+ 
+(ii) any interest proposed to be acquired is 
+an interest in land which has been 
+prescribed under section 5(2) or which 
+is land in a class of land prescribed 
+under section 5(2); or 
+ 
+(iii) the land has been certified by the 
+Governor in Council under 
+section 5(3); and 
+ 
+(f) if appropriate, state the approximate date 
+upon which the Authority wishes to take 
+possession of the land; and 
+ 
+(g) request the person interested in the land to 
+advise the Authority of— 
+ 
+(i) any other persons who, to the 
+knowledge of that person, may have an 
+interest in the land described in the 
+notice; and 
+ 
+(ii) any unexpired planning permit or 
+building permit existing in respect of 
+the land which has not been acted upon 
+either wholly or in part and of which 
+that person is aware; and 
+S. 8(1)(g)(ii) 
+amended by 
+No. 126/1993 
+s. 264(Sch. 5 
+item 12.2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+11 
+  
+ 
+(iii) any sales, transactions, licences or 
+approvals relating to the land or any 
+interest in the land which that person 
+was proposing to make or obtain 
+immediately prior to the date of service 
+of the notice of intention to acquire or 
+which any other person was so 
+proposing to make or obtain and of 
+which the first-mentioned person is 
+aware; and 
+ 
+(iv) any other information which that 
+person may have which would be 
+relevant to the assessment of 
+compensation in respect of the 
+acquisition of interests in the land. 
+ 
+(2) A notice of intention to acquire must be 
+accompanied by a statement in the prescribed 
+form setting out the principal rights and 
+obligations under this Act of persons interested in 
+the land proposed to be acquired. 
+ 
+(3) If a notice of intention to acquire contains a 
+description of land or an interest in land which 
+makes reference to a document (not being a folio 
+of the Register kept under the Transfer of Land 
+Act 1958 or a memorial registered with the 
+Registrar-General) the Authority must without 
+delay— 
+ 
+(a) make a copy of that document available at its 
+office for inspection by any person during 
+ordinary office hours free of charge; and 
+ 
+(b) lodge a copy of that document with the 
+Registrar of Titles. 
+ 
+ 
+ 
+S. 8(3) 
+amended by 
+No. 18/1989  
+s. 13(Sch. 2 
+item 40(a)). 
+S. 8(3)(b) 
+substituted by 
+No. 85/1998 
+s. 24(Sch. 
+item 36.1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+12 
+  
+ 
+9 Copy of notice to be served on particular authorities 
+ 
+(1) The Authority must without delay after the service 
+of a notice of intention to acquire under section 6 
+and the lodging of a copy of any document under 
+section 8(3) serve a copy of that notice and 
+document upon— 
+ 
+(a) the responsible authority for the area in 
+which the land to which the notice relates is 
+situated; and 
+ 
+(b) the council of the municipality in which the 
+land is situated; and 
+ 
+(c) if the land is situated within the region of a 
+prescribed regional authority, that regional 
+authority. 
+ 
+(2) Upon receipt of a request in writing by the 
+Authority, the responsible authority and municipal 
+council must without delay give the Authority in 
+writing any prescribed information so requested. 
+ 
+(3) Upon receipt of an application for a planning 
+permit or building permit which relates to land in 
+respect of which a notice of intention to acquire 
+has been served, the responsible authority or 
+municipal council (as the case may be) must 
+forward a copy of the application to the Authority 
+without delay. 
+ 
+10 Notice to Registrar of Titles 
+ 
+(1) The Authority must, without delay after the 
+service of a notice of intention to acquire under 
+section 6 or amendment of such a notice under 
+section 14, lodge with the Registrar of Titles 
+notice in the form approved under the Transfer of 
+Land Act 1958 of the notice of intention to 
+acquire or the amended notice (as the case may 
+be) together with the prescribed fee. 
+S. 9(3) 
+amended by 
+No. 126/1993 
+s. 264(Sch. 5 
+item 12.3). 
+S. 10(1) 
+substituted by 
+No. 85/1998 
+s. 24(Sch. 
+item 36.2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+13 
+  
+ 
+(2) Upon receipt of a copy of a notice of intention to 
+acquire, the Registrar of Titles must make a 
+recording of the notice in the Register or (if this is 
+not practicable) must by displaying a map or other 
+appropriate means make the notice of intention to 
+acquire available for inspection. 
+ 
+(3) Upon being notified by the Authority of any 
+amendment agreed upon between the Authority 
+and the person interested in the land under 
+section 14 in respect of the interest proposed to be 
+acquired or the extent of the land affected, the 
+Registrar of Titles must amend any recording 
+made under subsection (2) or give notice of the 
+amendment in any other manner referred to in that 
+subsection. 
+ 
+(4) If a notice lapses or is cancelled, the Authority 
+must give the Registrar of Titles notice in writing 
+of the lapse or cancellation. 
+ 
+ 
+(5) Upon being notified by the Authority of the 
+lapsing or cancellation in whole or in part of any 
+notice of intention to acquire, the Registrar of 
+Titles must delete from the Register any 
+recordings of the notice or make a recording in the 
+Register of the lapsing or cancellation, or remove 
+the map or other relevant document referred to in 
+subsection (2) accordingly. 
+ 
+(6) After deleting a recording under subsection (5), 
+the Registrar of Titles must in writing advise the 
+registered proprietor of the land that the registered 
+proprietor may apply under section 32(2) of the 
+Transfer of Land Act 1958 for a new certificate 
+of title to be produced. 
+ 
+S. 10(2) 
+amended by 
+Nos 18/1989  
+s. 13(Sch. 2 
+item 40(b)), 
+85/1998 
+s. 24(Sch. 
+item 36.3). 
+S. 10(3) 
+amended by 
+No. 18/1989  
+s. 13(Sch. 2 
+item 40(c)). 
+S. 10(4) 
+substituted by 
+No. 85/1998 
+s. 24(Sch. 
+item 36.4). 
+S. 10(5) 
+amended by 
+Nos 18/1989  
+s. 13(Sch. 2 
+item 40(d)), 
+85/1998 
+s. 24(Sch. 
+item 36.5). 
+S. 10(6) 
+amended by 
+No. 18/1989  
+s. 13(Sch. 2 
+item 
+40(e)(i)(ii)). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+14 
+  
+ 
+(7) If the registered proprietor applies under section 
+32(2) for the production of a new certificate, the 
+Authority must pay the fees prescribed for the 
+purpose of that provision. 
+ 
+(8) Any notice of intention to acquire so made 
+available for inspection has effect for the purposes 
+of section 42 of the Transfer of Land Act 1958 
+as if it were recorded in the Register. 
+ 
+ 
+(9) A person is not entitled to receive from the 
+Authority any damages or compensation resulting 
+from compliance by the Authority with this 
+section or anything arising from that compliance. 
+ 
+11 Effect of notice 
+The service of a notice of intention to acquire does 
+not constitute— 
+ 
+(a) an offer; or 
+ 
+(b) a binding agreement— 
+to acquire the interest in land to which the notice 
+applies. 
+ 
+12 Restrictions on dealings with land 
+ 
+(1) If a notice of intention to acquire has been served 
+upon a person under section 6, that person must 
+not, while the notice is in force, without the 
+consent of the Authority— 
+ 
+(a) enter into any sale, transaction or 
+arrangement, or obtain or grant any licence 
+or approval with respect to the land; or 
+ 
+(b) make any improvements of a durable nature 
+to the land. 
+ 
+(2) Upon receipt of any document relating to any 
+dealings with an interest in land in respect of 
+which a notice of intention to acquire has been 
+S. 10(7) 
+amended by 
+No. 18/1989  
+s. 13(Sch. 2 
+item 40(f)). 
+S. 10(8) 
+amended by 
+Nos 18/1989  
+s. 13(Sch. 2 
+item 40(g) 
+(i)(ii)), 85/1998 
+s. 24(Sch. 
+item 36.6). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+15 
+  
+served, the Registrar of Titles must notify the 
+Authority of this fact. 
+ 
+(3) Nothing in this section prevents— 
+ 
+(a) any person from discharging the land from 
+any mortgage affecting the land; or 
+ 
+(b) a mortgagee from exercising a power of 
+foreclosure or sale in respect of the land. 
+ 
+13 Sale of interest in land voidable if notice not given 
+If an Authority enters into an agreement to acquire 
+an interest in land in contravention of section 6, 
+the acquisition is voidable at the option of the 
+person whose interest in land is or is being 
+acquired and the exercise of that option is effected 
+by the service on the Authority of a notice in 
+writing signed by that person. 
+ 
+14 Amendment of notice 
+ 
+(1) The Authority and the person upon whom a notice 
+of intention to acquire is served under section 6 
+may agree to amend the notice to alter the 
+description of the interest to be acquired or the 
+land to which the notice relates or any other 
+matter contained in the notice. 
+ 
+(2) An amendment made under subsection (1) to a 
+notice does not affect the validity or operation of 
+the notice. 
+ 
+15 Cancellation of notice 
+ 
+(1) Subject to section 106(1), the Authority may at 
+any time after the service of a notice of intention 
+to acquire an interest in land and before— 
+ 
+(a) the publication of a notice of acquisition of 
+that interest; or 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+16 
+  
+ 
+(b) the lapsing of the notice under section 16— 
+determine not to proceed with the acquisition of 
+the whole or part of that interest. 
+ 
+(2) If the Authority makes a determination under 
+subsection (1), the Authority must serve a 
+statement cancelling the notice of intention to 
+acquire upon all persons interested in the land to 
+which that notice relates and upon whom that 
+notice was served under section 6. 
+ 
+(3) If the Authority makes a determination under 
+subsection (1) in relation to part only of land to 
+which a notice of intention to acquire relates, that 
+determination does not affect the operation of that 
+notice in so far as it applies to an interest in the 
+remaining part of that land. 
+ 
+(4) A statement under subsection (2) must— 
+ 
+(a) be in the prescribed form; and 
+ 
+(b) be accompanied by a statement in the 
+prescribed form setting out the rights and 
+obligations under this Act of persons upon 
+whom a statement under subsection (2) is 
+served. 
+ 
+16 Lapse of notice 
+If the Authority has not acquired an interest in 
+land to which a notice of intention to acquire 
+applies at the expiration of six months after the 
+service of that notice or at the expiration of the 
+further period or periods agreed upon under 
+section 17, the notice lapses. 
+ 
+17 Extension of operation of notice by agreement 
+The period of operation of a notice of intention to 
+acquire may be extended for a period or periods of 
+up to three months each by agreement in writing 
+between the Authority and the owner of the 
+interest. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+17 
+  
+ 
+18 Acquisition by agreement 
+ 
+(1) The Authority may, at any time after the service 
+of a notice of intention to acquire an interest in 
+land and before the notice has lapsed or been 
+withdrawn and before the publication of a notice 
+of acquisition in respect of that interest, acquire 
+that interest by agreement. 
+ 
+(2) The compensation paid by the Authority pursuant 
+to an agreement referred to in subsection (1) may 
+take into account the compensation which would 
+have been payable in respect of the interest if a 
+notice of acquisition had been published in respect 
+of the interest on the date of the agreement. 
+ 
+(3) An interest in land which has been acquired by an 
+agreement referred to in subsection (1) is to be 
+treated as having been compulsorily acquired for 
+the purpose of any matter arising under any other 
+Act after the acquisition. 
+Division 4—Acquisition of interests in land 
+ 
+19 Notice of acquisition 
+Subject to this Act, the Authority may acquire an 
+interest in land for the purposes of the special Act 
+by causing a notice declaring that interest to be 
+acquired to be published in the Government 
+Gazette. 
+ 
+20 Time limits 
+Subject to section 106(1), the Authority must not 
+acquire any interest in land in respect of which a 
+notice of intention to acquire has been served 
+before the expiration of two months after the 
+service of that notice. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+18 
+  
+ 
+21 Form of notice 
+A notice of acquisition must— 
+ 
+(a) be in the prescribed form; and 
+ 
+(b) contain a description sufficient to identify 
+the interest in land acquired and the land in 
+which that interest subsists. 
+ 
+22 Service of notice on persons interested in land 
+Subject to section 106(1), the Authority within 
+fourteen days after the date of acquisition must 
+cause— 
+ 
+(a) a copy of the notice of acquisition; and 
+ 
+(b) a statement in the prescribed form setting out 
+the rights and obligations under this Act of 
+the person whose interest has been 
+acquired— 
+to be served— 
+ 
+(c) if a notice of intention to acquire has been 
+served under section 6, upon all persons 
+upon whom the notice of intention to acquire 
+was served and upon any other person of 
+whom the Authority is aware who 
+immediately before the date of acquisition 
+had an interest in the land described in the 
+notice of acquisition; and 
+ 
+(d) in any other case, upon each person who 
+immediately before the date of acquisition 
+had an interest in the land described in the 
+notice or such of those persons as, after 
+diligent inquiry, become known to the 
+Authority. 
+ 
+23 Publication of notice in newspaper 
+The Authority must as soon as practicable after 
+publication of the notice of acquisition in the 
+Government Gazette cause a copy of the notice in 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+19 
+  
+the prescribed form to be published in a 
+newspaper circulating generally in the area in 
+which the land is situated. 
+ 
+24 Effect of notice of acquisition 
+ 
+(1) Subject to this section, upon publication in the 
+Government Gazette of a notice of acquisition— 
+ 
+(a) the interest in land described in the notice 
+vests in the Authority without transfer or 
+conveyance freed and discharged from all 
+trusts, restrictions, dedications, reservations, 
+obligations, mortgages, encumbrances, 
+contracts, licences, charges and rates of any 
+kind; and 
+ 
+(b) any interest that a person has in that land is 
+divested or diminished to the extent 
+necessary to give effect to this subsection. 
+ 
+(2) If immediately before the publication of a notice 
+of acquisition a public statutory authority had or 
+possessed (whether by virtue of any easement or 
+grant or by force of any Act) any right, title, 
+power, authority or interest to which this 
+subsection applies, the public statutory authority 
+continues after that publication to have and 
+possess that same right, title, power, authority or 
+interest unless the notice of acquisition provides 
+specifically that the interest in land described in 
+the notice vests in the Authority freed and 
+discharged from that right, title, power, authority 
+or interest. 
+ 
+(3) Subsection (2) applies to any right, title, power, 
+authority or interest in land with respect to or in 
+connexion with any drains, pipes, channels, wires 
+or cables laid or erected in on or over the land or a 
+part of the land for the purpose of drainage, 
+sewerage, salinity mitigation, river improvement, 
+river management, flood mitigation or flood 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+20 
+  
+protection or for the supply of water, gas or 
+electricity or for telegraph or telephone or other 
+like purpose. 
+ 
+25 New interests 
+An interest in land acquired under section 19 may 
+be an interest which did not previously exist as 
+such. 
+Division 5—Entry into possession 
+ 
+26 Entry into possession 
+ 
+(1) If an interest in land is vested in the Authority 
+pursuant to this Act, the Authority must diligently 
+endeavour to obtain agreement with the owner or 
+occupier as to the terms on which it will enter into 
+possession of the land, in this section referred to 
+as the acquired land, in which that interest 
+subsists. 
+ 
+(2) Subject to this Division, if— 
+ 
+(a) an interest in land is vested in the Authority 
+pursuant to this Act; and 
+ 
+(b) at the date of acquisition the acquired land or 
+part of that land is used by a person as the 
+principal place of residence or business of 
+that person— 
+the Authority must not enter into possession of— 
+ 
+(c) the part of the acquired land so used; or 
+ 
+(d) if the whole of the acquired land is so used, 
+that land— 
+before the expiration of three months after the 
+date of acquisition and unless the Authority has 
+given seven days' notice in writing of its intention 
+to enter into possession to the person in 
+occupation of that land. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+21 
+  
+ 
+(3) A person referred to in subsection (2) is not liable 
+for the payment of rent in respect of the 
+occupation by that person of that part of the 
+acquired land which is used as the principal place 
+of residence or business of that person during the 
+period specified in that subsection. 
+ 
+(4) Subsection (2) does not apply if— 
+ 
+(a) the Governor in Council certifies that having 
+regard to— 
+ 
+(i) the urgency of the case or any other 
+exceptional circumstances; and 
+ 
+(ii) the public interest— 
+it is not practicable for the Authority to delay 
+entry into possession of the acquired land 
+until after the expiration of the period 
+referred to in subsection (2); or 
+ 
+(b) the Authority and the person in occupation of 
+the acquired land have, with the consent of 
+the Minister administering the special Act, 
+entered into an agreement in relation to the 
+time of entry into possession of the acquired 
+land by the Authority. 
+ 
+(5) If— 
+ 
+(a) an interest is vested in the Authority pursuant 
+to this Act; and 
+ 
+(b) at the date of acquisition the acquired land is 
+not used by any person as the principal place 
+of residence or business of that person— 
+the Authority may enter into possession of the 
+land at any time after the date of acquisition after 
+giving seven days' notice in writing of its intention 
+to enter into possession to the person in 
+occupation of that land. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+22 
+  
+ 
+(6) The period of occupation of acquired land after 
+the date of acquisition (including the period 
+referred to in subsection (2)) may be extended by 
+agreement in writing between the Authority and 
+the person in occupation of the acquired land. 
+ 
+(7) An agreement under subsection (6) must provide 
+for the payment of rent by the person in 
+occupation of the acquired land to the Authority. 
+ 
+(8) If a person continues to occupy acquired land after 
+the period referred to in subsection (2) or the date 
+of acquisition (as the case may be) and an 
+agreement has not been entered into under 
+subsection (6) in respect of that occupation, that 
+person is to be taken to be in possession of the 
+land in pursuance of a tenancy determinable at 
+will by the Authority and is liable to pay to the 
+Authority a fair market rent in respect of that 
+continued occupation. 
+ 
+(9) If a person referred to in subsection (2) ceases of 
+the person's own accord to occupy the acquired 
+land before the expiration of the period referred to 
+in that subsection, the entitlement of that person 
+under this Act to occupy the land without payment 
+of rent to the Authority also ceases. 
+ 
+(10) A certificate under subsection (4)(a) must specify 
+the date on which the Authority is to take 
+possession. 
+ 
+(11) The Authority must serve a copy of a certificate 
+under subsection (4)(a) upon the person in 
+occupation of the land. 
+ 
+(12) The person whose period of occupation of the 
+acquired land was abridged under subsection 
+(4)(a) is entitled to claim compensation under this 
+Act for any loss or damage which is incurred as a 
+direct, natural and reasonable consequence of that 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+23 
+  
+abridgement and for which the person could not 
+otherwise make a claim under this Act. 
+ 
+(13) Section 49 applies to and in relation to a claim for 
+compensation under subsection (12) as if it were a 
+claim for compensation under Part 5. 
+ 
+27 Recovery of rent 
+Any rent payable to the Authority under 
+section 26 may be recovered as a debt due to the 
+Authority in any court of competent jurisdiction. 
+ 
+28 Proceedings where refusal to deliver possession 
+ 
+(1) If, in any case in which under this Act or the 
+special Act the Authority is authorized to enter 
+into possession of any land, the owner or occupier 
+of the land or any other person— 
+ 
+(a) refuses to give up the possession of the land; 
+or 
+ 
+(b) hinders the Authority from entering upon 
+and taking possession of the land— 
+the Authority may issue its warrant under this 
+section to the sheriff. 
+ 
+(2) A warrant issued under this section authorizes the 
+sheriff to— 
+ 
+(a) enter onto the land specified in the warrant; 
+and 
+ 
+(b) deliver possession of the land to the 
+Authority or the person appointed in the 
+warrant to receive possession of the land; 
+and 
+ 
+(c) use such force as is reasonably necessary to 
+execute the warrant. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Acquisition of interests in land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+24 
+  
+ 
+(3) Upon receipt of a warrant issued under this 
+section, the sheriff must deliver possession of the 
+land to the Authority or the person appointed in 
+the warrant to receive possession of the land. 
+ 
+(4) The costs incurred in the issuing and execution of 
+a warrant must be paid by the person refusing to 
+give up possession. 
+ 
+(5) The amount of the costs and the amount of any 
+rent owed by that person must be deducted and 
+retained by the Authority from the compensation 
+(if any) payable under this Act to that person. 
+ 
+(6) If no compensation is payable to that person or if 
+the compensation payable is less than the amount 
+of the costs and rent (if any) then payment of the 
+amount or the amount in excess of the 
+compensation must if not paid on demand be 
+enforced by a warrant to seize property. 
+ 
+(7) Upon application by the Authority, a magistrate 
+must issue a warrant for the purposes of 
+subsection (6). 
+ 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+29 Residential Tenancies Act 1997 not to apply 
+Nothing in the Residential Tenancies Act 1997 
+applies to or in relation to any matter provided for 
+or any proceedings under this Division. 
+ 
+ 
+S. 28(6) 
+amended by 
+No. 57/1989  
+s. 3(Sch. item 
+110.2(a)(b)). 
+S. 28(7) 
+amended by 
+No. 57/1989 
+s. 3(Sch. item 
+110.3). 
+S. 28(8) 
+repealed by 
+No. 87/2009 
+s. 29. 
+S. 29 
+amended by 
+No. 109/1997 
+s. 533(Sch. 2 
+item 5.1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Compensation for acquisition 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+25 
+  
+Part 3—Compensation for acquisition 
+ 
+30 Right to compensation on acquisition 
+Subject to this Act, every person who, 
+immediately before the publication of a notice of 
+acquisition, had an interest in land that is divested 
+or diminished by the acquisition of the interest to 
+which that notice relates has a claim for 
+compensation. 
+ 
+31 Initial offer of compensation 
+ 
+(1) After the notice of acquisition has been published 
+in the Government Gazette the Authority must 
+make an offer in writing to each claimant of 
+whose entitlement to compensation it is aware. 
+ 
+(2) An offer under this section must be made— 
+ 
+(a) within fourteen days after the date of 
+acquisition; or 
+ 
+(b) within such further period as— 
+ 
+(i) may be agreed upon in writing between 
+the Authority and the claimant; or 
+ 
+(ii) the Minister administering the special 
+Act may certify. 
+ 
+(3) The offer must set out the amount that the 
+Authority, on the information available to it, has 
+assessed as a fair and reasonable estimate of the 
+amount of compensation payable to the claimant 
+under this Act on the assumption that the claimant 
+held the interest in respect of which the offer is 
+made. 
+ 
+(4) An offer under this section must be accompanied 
+by— 
+ 
+(a) a copy of the certificate of valuation to 
+which the Authority has had regard in 
+making its offer; and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Compensation for acquisition 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+26 
+  
+ 
+(b) a statement explaining the difference 
+between its offer and the valuation referred 
+to in paragraph (a) if these differ; and 
+ 
+(c) a statement in the prescribed form setting out 
+the principal rights and obligations of 
+persons whose interests in land have been 
+acquired under this Act. 
+ 
+(5) In making its offer the Authority must have regard 
+to a valuation of the land carried out by the 
+Valuer-General or a person who holds the 
+qualifications or experience specified under 
+section 13DA(2) of the Valuation of Land Act 
+1960. 
+ 
+(6) A valuation under subsection (5) may be made in 
+respect of the specific interest acquired or in 
+respect of the freehold interest in the land 
+whichever appears to the Authority to be 
+appropriate in the circumstances. 
+ 
+(7) If an offer of compensation is made under this 
+section in respect of an acquired interest and 
+immediately prior to the date of acquisition— 
+ 
+(a) the interest was affected by another interest 
+in the land; or 
+ 
+(b) rates, taxes or other charges were charged 
+upon the land in which the interest 
+subsists— 
+the Authority may reduce the amount of its offer 
+by an amount equal to the amount that it considers 
+is necessary to provide for that other interest or to 
+pay those rates, taxes or other charges. 
+ 
+(8) To the extent that an amount of compensation 
+offered under this section, or any part thereof, is 
+not disputed, the amount offered is binding upon 
+the Authority unless the Authority can 
+demonstrate that the information contained in the 
+S. 31(5) 
+amended by 
+Nos 91/1994 
+s. 36(5)(b), 
+94/2009 
+s. 32(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Compensation for acquisition 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+27 
+  
+offer and relied upon by the Authority in making 
+the offer was incorrect. 
+ 
+32 Offer to pay total amount of compensation 
+ 
+(1) If the Minister administering the special Act 
+certifies that it is not appropriate in the 
+circumstances to set out in an offer under 
+section 31 the information referred to in 
+subsection (3) of that section, the Authority in 
+such an offer instead of that information— 
+ 
+(a) must set out the total amount of 
+compensation that the Authority proposes to 
+pay in respect of the value of all interests in 
+the acquired land; and 
+ 
+(b) may set out the amounts of compensation 
+which the Authority proposes to pay for any 
+other matters in respect of which 
+compensation is payable under this Act. 
+ 
+(2) Subject to section 106(1), the Authority, within 
+seven days after it makes an offer in accordance 
+with subsection (1), must pay the total amount of 
+compensation offered into Court. 
+ 
+(3) The Court may provide for the investment of any 
+money paid into Court under subsection (2) in the 
+same manner as it may invest money paid into 
+Court under the Supreme Court Act 1958. 
+ 
+(4) As soon as practicable after the payment of money 
+into Court in accordance with subsection (2), the 
+Authority must apply to the Tribunal or the Court 
+(as the case may be) for a determination of the 
+amount of compensation which is payable by the 
+Authority and the person or persons to whom the 
+compensation is payable, and that application 
+must be dealt with by the Tribunal or Court as a 
+disputed claim for compensation under this Act. 
+S. 32(4) 
+amended by 
+No. 91/1994 
+s. 21(a)(b). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Compensation for acquisition 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+28 
+  
+ 
+(5) Subject to section 58, any money paid into Court 
+under subsection (2) and any interest earned 
+thereon must be paid out in accordance with an 
+order of the Court or the Tribunal to the persons 
+entitled thereto under this Act. 
+ 
+33 Response by claimant 
+ 
+(1) Subject to section 106(1), before the expiration of 
+three months after the date of service on a 
+claimant of an offer under section 31, the claimant 
+must— 
+ 
+(a) serve a notice of acceptance on the Authority 
+stating that the claimant accepts the amount 
+of compensation offered in respect of the 
+acquisition; or 
+ 
+(b) serve a notice of claim upon the Authority. 
+ 
+(2) If the claimant fails to serve on the Authority a 
+notice under subsection (1)(a) or (b), the matter 
+becomes a disputed claim for the purposes of this 
+Act. 
+ 
+34 Form of notice of acceptance 
+ 
+(1) A notice of acceptance under section 33(1)(a) 
+must— 
+ 
+(a) be in the prescribed form; and 
+ 
+(b) state the interest which the claimant had in 
+the acquired land immediately before the 
+date of acquisition and, in the case of an 
+interest which did not come into existence 
+until on or after the date of acquisition, the 
+details of that interest; and 
+ 
+(c) give details of the claimant's entitlement to 
+that interest. 
+ 
+ 
+S. 32(5) 
+amended by 
+No. 91/1994 
+s. 21(a). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Compensation for acquisition 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+29 
+  
+ 
+(2) If the claimant accepts the amount of 
+compensation offered in respect of the acquisition, 
+that acceptance is without prejudice to any matter 
+which is stated in the offer as being subject to 
+negotiation. 
+ 
+(3) The claimant may accept the offer in part and 
+leave specified matters as being subject to 
+negotiation or claim. 
+ 
+35 Form of notice of claim 
+ 
+(1) A notice of claim served on the Authority under 
+section 33(1)(b) must— 
+ 
+(a) be in the prescribed form; and 
+ 
+(b) state the amount of compensation to which 
+the claimant claims to be entitled under this 
+Act; and 
+ 
+(c) if the claimant accepts the amount of 
+compensation offered in respect of the 
+acquisition by the Authority but claims to be 
+entitled to a further amount of compensation 
+in respect of that acquisition under this Act, 
+state— 
+(i) that the claimant accepts the amount of 
+compensation offered; and 
+ 
+(ii) the amount of further compensation to 
+which the claimant claims to be 
+entitled; and 
+ 
+(d) state the interest which the claimant had in 
+the acquired land immediately before the 
+date of acquisition and, in the case of an 
+interest which did not come into existence 
+until on or after the date of acquisition, the 
+details of that interest; and 
+ 
+(e) give details of the claimant's entitlement to 
+that interest; and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Compensation for acquisition 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+30 
+  
+ 
+(f) if the claimant disputes the valuation to 
+which the Authority had regard in making its 
+offer, be accompanied by— 
+ 
+(i) a copy of the certificate of valuation of 
+a person who holds the qualifications or 
+experience specified under section 
+13DA(2) of the Valuation of Land Act 
+1960 upon which the claim is based; 
+and 
+ 
+(ii) a statement setting out the method and 
+basis of that valuation. 
+ 
+(2) A notice of claim may specify any further matter 
+which the claimant regards as being subject to 
+negotiation. 
+ 
+36 Authority's reply to claim 
+ 
+(1) Subject to section 106(1), the Authority must, 
+before the expiration of three months after the 
+date of service upon it of a notice of a claim under 
+section 33, serve upon the claimant a statement in 
+writing replying to the notice of claim. 
+ 
+(2) The Authority may in that statement— 
+ 
+(a) admit the claim as to whole or to part; or 
+ 
+(b) offer to vary the amount of the compensation 
+previously proposed in relation to the 
+claimant's interest; or 
+ 
+(c) reject the claim and repeat its offer under 
+section 31. 
+ 
+(3) If the claimant has provided the Authority with a 
+certificate of valuation and the information 
+required in section 35(f), the Authority, if it has 
+not already done so, must forward to the claimant 
+with its statement of reply a statement setting out 
+the method and basis of its valuation. 
+S. 35(1)(f)(i) 
+amended by 
+Nos 91/1994 
+s. 36(5)(b), 
+94/2009 
+s. 32(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Compensation for acquisition 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+31 
+  
+ 
+(4) The Authority is liable to satisfy the claim to the 
+extent that it admits the claim. 
+ 
+(5) If the Authority fails to reply to the notice of 
+claim within the time prescribed in subsection (1), 
+it is to be taken to have rejected the claim and 
+repeated its offer and the claim becomes a 
+disputed claim for the purposes of this Act. 
+ 
+(6) Subject to section 106(1), if the Authority offers 
+to increase or vary the compensation previously 
+offered, the claimant must within two months 
+after the date of service of this revised offer— 
+ 
+(a) accept the offer; or 
+ 
+ 
+ 
+(b) reject the offer. 
+ 
+(7) A revised offer under subsection (6) may leave 
+specified matters to be determined by negotiation. 
+ 
+(8) If the claimant accepts a revised offer under 
+subsection (6), the claimant may accept this in 
+part leaving specified matters to be determined by 
+negotiation. 
+ 
+(9) To the extent that the claimant rejects the revised 
+offer of the Authority, or the Authority rejects the 
+claim by the claimant, the claim becomes a 
+disputed claim for the purposes of this Act. 
+ 
+37 Claim for compensation where no offer made 
+ 
+(1) If a person is entitled to claim compensation under 
+this Part, and the Authority has not made an offer 
+to that person under section 31, that person may 
+make a claim for compensation under this section. 
+ 
+(2) Subject to section 106(1), a claim for 
+compensation under this section must be made 
+within two years after the date of acquisition. 
+S. 36(6)(a) 
+amended by 
+No. 66/1997  
+s. 9(3). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Compensation for acquisition 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+32 
+  
+ 
+(3) A claim for compensation under this section must 
+be in the same form and contain the same 
+particulars as a notice under section 35. 
+ 
+(4) Subject to section 106(1), the Authority must, 
+before the expiration of three months after the day 
+on which a notice of claim is served upon it under 
+subsection (1), serve upon the claimant a 
+statement in writing replying to the notice of 
+claim. 
+ 
+(5) The Authority may in that statement— 
+ 
+(a) admit the claim; or 
+ 
+(b) make an alternative offer of compensation; 
+or 
+ 
+(c) reject the claim. 
+ 
+(6) If the Authority makes an offer under subsection 
+(5), the offer must be accompanied by— 
+ 
+(a) the information referred to in section 31(4); 
+and 
+ 
+(b) if the claimant has provided the Authority 
+with a copy of a certificate of valuation and 
+the information required in section 35(f), a 
+statement explaining the difference between 
+the Authority's offer and the valuation on 
+which the claimant's claim is based, together 
+with a copy of any certificate of valuation 
+relied upon by the Authority and a statement 
+setting out the method and basis of that 
+valuation. 
+ 
+(7) The Authority may admit the claim in full or in 
+part, leaving specified matters subject to 
+negotiation and, to the extent that the Authority 
+admits the claim, it is liable to satisfy the claim. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Compensation for acquisition 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+33 
+  
+ 
+(8) If the Authority fails to reply to the notice of 
+claim within the prescribed time it is to be taken 
+to have rejected the claim and the claim becomes 
+a disputed claim for the purposes of this Act. 
+ 
+(9) Subject to section 106(1), if the Authority makes 
+an offer of compensation under subsection (5), the 
+claimant must within two months after the date of 
+service of the offer— 
+ 
+(a) accept the offer; or 
+ 
+(b) reject the offer. 
+ 
+(10) An offer of compensation under subsection (5) 
+may specify some matters of compensation to be 
+left to be determined by negotiation. 
+ 
+(11) The claimant may accept the offer subject to any 
+matters left to be determined by negotiation. 
+ 
+(12) To the extent that the claimant rejects an offer of 
+the Authority or the Authority rejects a claim by 
+the claimant, the claim becomes a disputed claim 
+for the purposes of this Act. 
+ 
+(13) If the claimant fails to accept or reject the offer 
+within the prescribed time, the claim becomes a 
+disputed claim for the purposes of this Act. 
+ 
+38 No compensation for gold, minerals or pastoral 
+licences 
+ 
+(1) For the purposes of this Act, a licensee under the 
+Mineral Resources (Sustainable Development) 
+Act 1990 is not entitled to compensation for the 
+value of any mineral in or under the surface of any 
+acquired land. 
+ 
+ 
+ 
+S. 38(1) 
+substituted by 
+No. 92/1990  
+s. 128(Sch. 1 
+item 14.1), 
+amended by 
+No. 63/2006 
+s. 61(Sch. 
+item 18). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Compensation for acquisition 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+34 
+  
+ 
+(2) For the purposes of this Act, the holder of any 
+licence from the Crown, the Governor or the 
+Minister for the time being administering the 
+Land Act 1958 is to be considered as a tenant 
+from year to year. 
+ 
+(3) Despite anything to the contrary in this Act, a 
+licensee under the Mineral Resources 
+(Sustainable Development) Act 1990 is not 
+entitled to claim compensation if the licence 
+contains a condition or power enabling the 
+Governor in Council to resume the whole or any 
+portion of the land covered by the licence without 
+compensation if it is required for public purposes. 
+ 
+(4) Despite anything to the contrary in this Act, a 
+licensee of Crown lands for pastoral purposes is 
+not entitled to compensation in respect of land 
+held under the licence and acquired pursuant to 
+this Act. 
+ 
+(5) Despite anything to the contrary in this Act, if— 
+ 
+(a) land is subdivided into holdings, allotments 
+or lots abutting back to back or side to back 
+without any passage or right-of-way between 
+them; and 
+ 
+ 
+(b) the Authority is empowered under the 
+special Act to make or provide a drain or 
+sewer for the drainage of the holdings, 
+allotments or lots— 
+ 
+no compensation is payable in respect of the drain 
+or sewer or its making or provision except in 
+relation to any building that is injured or 
+interfered with and which the Authority has not 
+reinstated or repaired. 
+ 
+S. 38(3) 
+amended by 
+Nos 92/1990 
+s. 128(Sch. 1 
+item 14.2(a) 
+(b)), 63/2006 
+s. 61(Sch. 
+item 18). 
+S. 38(5)(a) 
+amended by 
+No. 53/1988  
+s. 45(Sch. 3 
+item 21) (as 
+amended by 
+No. 47/1989  
+s. 23(2)). 
+S. 38(5)(b) 
+amended by 
+No. 53/1988 
+s. 45(Sch. 3 
+item 21) (as 
+amended by 
+No. 47/1989 
+s. 23(2)). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Compensation for acquisition 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+35 
+  
+ 
+39 Apportionment of rent when part only of land 
+leased is acquired 
+ 
+(1) If part of any land comprised in a lease for a term 
+of years unexpired is acquired under this Act, the 
+rent payable in respect of the land comprised in 
+the lease must be apportioned between the part so 
+acquired and the residue of the land. 
+ 
+(2) The apportionment referred to in subsection (1) 
+may be settled by agreement between the lessor 
+and lessee of the land comprised in the lease and, 
+failing agreement between the parties, must be 
+settled by the Tribunal or the Court. 
+ 
+(3) After apportionment has been made in accordance 
+with subsection (2)— 
+ 
+(a) the lessee, as to all future rent which 
+becomes payable, is liable only to so much 
+of the rent as is so apportioned in respect of 
+the residue of the land; 
+ 
+(b) the lessor, as to the residue of the land and as 
+against the lessee, has the same rights and 
+remedies for the recovery of the apportioned 
+rent henceforth payable by the lessee; and 
+ 
+(c) all the covenants, conditions and agreements 
+of the lease, except as to the amount of rent 
+to be paid, remain in force with regard to the 
+residue of the land. 
+ 
+ 
+S. 39(2) 
+amended by 
+No. 91/1994 
+s. 21(a). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Measure of compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+36 
+  
+Part 4—Measure of compensation 
+ 
+40 Definitions 
+In this Part— 
+loss attributable to disturbance means any 
+pecuniary loss suffered by a claimant as the 
+natural, direct and reasonable consequence 
+of— 
+ 
+(a) the service upon the claimant of a 
+notice of intention to acquire, where the 
+Authority has refused or failed to give 
+consent to the carrying out of 
+improvements to the land in respect of 
+which that notice has been served or the 
+effecting or obtaining of any sales, 
+transactions, licences or approvals in 
+respect of that land; and 
+ 
+(b) the fact that an interest of the claimant 
+in that land has been divested or 
+diminished, being a pecuniary loss for 
+which provision is not otherwise made 
+in this Part; 
+loss attributable to severance, in relation to the 
+acquisition of a claimant's interest in land, 
+means the amount of any reduction in the 
+market value of any other interest of the 
+claimant in the acquired land or any interest 
+of the claimant in other land used in 
+conjunction with the acquired land which is 
+caused by its severance from the acquired 
+land; 
+market value, in relation to any interest in land on 
+a particular date, means the amount of 
+money that would have been paid for that 
+interest if it had been sold on that date by a 
+willing but not anxious seller to a willing but 
+not anxious purchaser; 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Measure of compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+37 
+  
+special value, in relation to an interest in land, 
+means the value of any pecuniary advantage, 
+in addition to market value, to a claimant 
+which is incidental to his ownership or 
+occupation of that land. 
+ 
+41 General principles on which compensation is to be 
+based 
+ 
+(1) Except as otherwise provided in this Part, in 
+assessing the amount of compensation payable to 
+a claimant in respect of an interest in land which 
+is acquired under this Act, regard must be had to 
+the following factors— 
+ 
+(a) the market value of the interest on the date of 
+acquisition; 
+ 
+(b) any special value to the claimant on the date 
+of acquisition; 
+ 
+(c) any loss attributable to severance; 
+(d) any loss attributable to disturbance; 
+ 
+(e) the enhancement or depreciation in value of 
+the interest of the claimant, at the date of 
+acquisition, in other land adjoining or 
+severed from the acquired land by reason of 
+the implementation of the purpose for which 
+the land was acquired; 
+ 
+(f) any legal, valuation and other professional 
+expenses necessarily incurred by the 
+claimant by reason of the acquisition of the 
+interest. 
+ 
+(2) If the market value of an interest in land is 
+assessed on the basis that the land had potential to 
+be used for a purpose other than the purpose for 
+which it was used on the date of acquisition, 
+compensation must not be allowed for— 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Measure of compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+38 
+  
+ 
+(a) any special value in respect of any pecuniary 
+advantage that would necessarily have been 
+forgone in realizing that potential; and 
+ 
+(b) any loss attributable to disturbance that 
+would necessarily have been incurred in 
+realizing that potential. 
+ 
+(3) If less than the whole of the land in which a 
+claimant's interest subsists is acquired or less than 
+the whole of that interest is acquired, the market 
+value of the acquired interest is the difference 
+between the market value of the interest before the 
+acquisition and the market value of the interest 
+after the acquisition. 
+ 
+(4) The expenses referred to in subsection (1)(f) do 
+not include any costs incurred by a claimant in the 
+course of prosecuting any proceedings the 
+Tribunal or the Court under Part 10. 
+ 
+(5) If compensation has previously been paid in 
+respect of the land pursuant to Part 5 of the 
+Planning and Environment Act 1987, the 
+amount of compensation payable under this Part 
+in respect of an acquired interest in land or in 
+respect of land in which an acquired interest 
+subsists must be reduced by the prescribed 
+amount. 
+ 
+(6) If the claimant's interest in the acquired land was 
+liable to expire or to be determined, the 
+assessment of compensation payable under this 
+Part in respect of that interest must take account of 
+any reasonable prospect of renewal or 
+continuation of the interest. 
+ 
+(7) In this section the prescribed amount in relation 
+to land is the amount calculated by the following 
+formula— 
+C
+B
+A ×
+ 
+S. 41(4) 
+amended by 
+No. 91/1994 
+s. 21(a). 
+S. 41(5) 
+amended by 
+No. 45/1987  
+s. 205(Sch. 
+item 42). 
+S. 41(7) 
+amended by 
+No. 81/2006 
+s. 59(3). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Measure of compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+39 
+  
+where— 
+ 
+A = the amount of compensation previously paid 
+in respect of the land for loss of market value 
+due to— 
+ 
+(i) the reservation or proposed reservation 
+of the land or part of the land for a 
+public purpose in a planning 
+instrument; or 
+ 
+(ii) any part of the land being required for a 
+public purpose. 
+ 
+B = the market value of the land in respect of 
+which the compensation was paid, that value 
+to be determined on the basis of the actual 
+zoning that applied to the land at the date 
+which was the basis for the calculation of 
+that compensation. 
+ 
+C = the compensation payable under this Part for 
+market value and severance less the value of 
+the land attributable to improvements of a 
+durable nature made— 
+ 
+(i) with the consent of the Authority under 
+section 12(1)(b); or 
+ 
+(ii) after the last date on which 
+compensation was paid in respect of the 
+land and before service of the most 
+recent notice of intention to acquire an 
+interest in the land. 
+ 
+42 Reinstatement in particular circumstances 
+If— 
+ 
+(a) acquired land was, immediately before the 
+date of acquisition, used for a purpose for 
+which there is no general market for land 
+and, but for the acquisition, would have 
+continued to have been used for that purpose; 
+and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Measure of compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+40 
+  
+ 
+(b) the claimant has acquired, or intends in good 
+faith to acquire, an interest in other land in 
+substitution for the interest in the acquired 
+land and intends in good faith to use the 
+other land for the same purpose for which 
+the acquired land was used— 
+there may be taken into account, in place of 
+market value, an amount ascertained by adding 
+together— 
+ 
+(c) the expense of acquiring the interest in the 
+other land; and 
+ 
+(d) the expenses and losses incurred or likely to 
+be incurred by the claimant as a result of, or 
+incidental to, relocation— 
+in each case ascertained as at the date when, in all 
+the circumstances, it was, or would be, reasonably 
+practicable for the claimant to incur the expenses 
+or losses, and by subtracting from the amount so 
+ascertained the amount, if any, by which the 
+claimant has improved, or is likely to improve, the 
+claimant's financial position by the relocation. 
+ 
+43 Matters affecting compensation 
+ 
+(1) In assessing compensation, the following matters 
+must be disregarded— 
+ 
+(a) any increase or decrease in the market value 
+of the interest in land which is acquired 
+arising from the carrying out, or the proposal 
+to carry out, the purpose for which the 
+interest was acquired; 
+ 
+(b) any special suitability or adaptability of the 
+land in which the acquired interest subsists 
+for a purpose for which it could only be used 
+in pursuance of a power conferred by or 
+under law, or for which it could only be used 
+by the government or a public or local 
+authority; 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Measure of compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+41 
+  
+ 
+(c) any increase in value of the land in which the 
+acquired interest subsists which results from 
+the use of that land in a manner or for a 
+purpose contrary to law; 
+ 
+(d) in a case where the land in which the 
+acquired interest subsists is reserved for a 
+public purpose in a planning instrument, any 
+restrictions upon the use or development of 
+that land which are imposed by, or are a 
+consequence of, the reservation; 
+ 
+(e) any increase in the value of the interest in 
+land acquired which is caused by the 
+carrying out, after service upon the claimant 
+or any other person of the notice of intention 
+to acquire, of any improvements of a durable 
+nature made to the land without the consent 
+of the Authority, unless the claimant proves 
+that these were carried out in good faith in 
+the belief that they had been approved by the 
+Authority; 
+ 
+(f) any sales, transactions, arrangements, 
+licences or approvals in writing effected or 
+obtained with respect to the land in which 
+the acquired interest subsists after service 
+upon the claimant of the notice of intention 
+to acquire, unless these were effected or 
+obtained with the consent of the Authority or 
+the claimant proves that they were effected 
+or obtained in good faith in the belief that 
+they had been approved by the Authority. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+S 43(1)(g) 
+repealed by 
+No. 66/1997  
+s. 9(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Measure of compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+42 
+  
+ 
+(1A) Despite anything to the contrary in this Part, in 
+assessing compensation, if— 
+ 
+(a) the land in which the acquired interest 
+subsists is reserved for a public purpose in a 
+planning instrument; and 
+ 
+(b) the reservation forms the boundary of a zone 
+in that planning instrument; and 
+ 
+(c) the decision to impose the zoning boundary 
+was not related to the purpose for which the 
+interest in land was acquired— 
+regard may be had to the actual zoning of the land 
+in which the acquired interest subsists and, where 
+relevant, to the actual zoning boundary 
+ 
+(2) If any person claims compensation under this Act 
+for any loss or damage caused by the severance of 
+the land acquired from other lands of that person, 
+or the difficulty of access to those other lands, the 
+Authority may give notice to that person of its 
+intention to make and maintain a gate, bridge, 
+easement, road, right-of-way, crossing, passage or 
+other work. 
+ 
+(3) Once a notice is given, the Authority and its 
+successors must make and maintain the gate, 
+bridge, easement, road, right-of-way, crossing, 
+passage or work for the accommodation of the 
+owners and occupiers of the lands concerned. 
+ 
+(4) Any person or body assessing compensation under 
+this Act for the loss or damage referred to in 
+subsection (2) must have regard to the bridge, 
+easement, road, right-of-way, crossing, passage or 
+work in reduction of the amount that would 
+otherwise be awarded. 
+ 
+ 
+S. 43(1A) 
+inserted by 
+No. 81/2006 
+s. 59(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Measure of compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+43 
+  
+ 
+(5) Despite the amendment of this section by the 
+Docklands Authority (Amendment) Act 1997, 
+this section continues to apply in relation to an 
+entitlement to compensation arising under this Act 
+before the commencement of that Act as if 
+section 9 of that Act had not been enacted. 
+ 
+(6) Despite the amendment of this section by the 
+Road Legislation (Projects and Road Safety) 
+Act 2006, this section continues to apply in 
+relation to an entitlement to compensation arising 
+under this Act before the commencement of 
+section 59 of that Act as if section 59 of that Act 
+had not been enacted. 
+ 
+44 Solatium 
+ 
+(1) The amount of compensation may be increased by 
+such amount, not exceeding 10% of the market 
+value of the land, by way of solatium as is 
+reasonable to compensate the claimant for 
+intangible and non-pecuniary disadvantages 
+resulting from the acquisition. 
+ 
+(2) In assessing the amount payable under 
+subsection (1), there must be taken into account 
+all relevant circumstances applicable to the 
+claimant including, without limiting the generality 
+of the foregoing— 
+ 
+(a) the interest of the claimant in the acquired 
+land; and 
+ 
+(b) the length of time during which the claimant 
+had occupied the land; and 
+ 
+(c) the inconvenience likely to be suffered by 
+the claimant by reason of removal from the 
+land; and 
+ 
+(d) the period of time after the acquisition of the 
+land during which the claimant has been, or 
+will be, allowed to remain in possession of 
+the land; and 
+S. 43(5) 
+inserted by 
+No. 66/1997  
+s. 9(2). 
+S. 43(6) 
+inserted by 
+No. 81/2006 
+s. 59(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Measure of compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+44 
+  
+ 
+(e) the period of time during which, but for the 
+acquisition of the land, the claimant would 
+have been likely to continue to occupy the 
+land; and 
+ 
+(f) the age of the claimant; and 
+ 
+(g) where the claimant at the date of acquisition 
+is occupying the land as the claimant's 
+principal place of residence, the number, age 
+and circumstances of other people (if any) 
+living with the claimant. 
+ 
+(3) If no solatium is paid to a claimant, a person other 
+than a claimant who, at the date of acquisition, 
+had occupied the acquired land for a continuous 
+period of not less than 12 months before that date 
+as the person's principal place of residence may 
+claim from the Authority such amount, not 
+exceeding 10% of the market value of the land, by 
+way of solatium as is reasonable to compensate 
+the person for intangible and non-pecuniary 
+disadvantages resulting from the acquisition. 
+ 
+(4) In determining the amount payable under 
+subsection (3), there must be taken into account 
+all relevant circumstances applicable to the 
+person, including the matters referred to in 
+subsection (2)(b), (c), (d), (e), (f) and (g). 
+ 
+(5) If the Authority rejects a claim for solatium made 
+by a person under subsection (3), that person is to 
+be taken to be a claimant and the claim to be a 
+disputed claim for the purposes of this Act. 
+ 
+45 Loans to dispossessed home owners 
+ 
+(1) If— 
+ 
+(a) the whole or any part of land in which an 
+acquired interest subsists is, on the date of 
+acquisition of that land, occupied by the 
+claimant as the claimant's principal place of 
+residence; and 
+S. 45(1) 
+amended by 
+No. 91/1994 
+s. 21(a). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Measure of compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+45 
+  
+ 
+(b) the market value of the claimant's interest in 
+the land does not exceed the amount 
+prescribed from time to time by the 
+Governor in Council; and 
+ 
+(c) the amount of compensation payable to the 
+claimant under this Part is insufficient to 
+enable the purchase of a similar interest in 
+land to be used by the claimant as a principal 
+place of residence providing accommodation 
+reasonably comparable with the 
+accommodation on the acquired land— 
+the Authority may, and must if directed by the 
+Tribunal or the Court on the application of the 
+claimant, grant a loan (with or without interest) of 
+such amount as the claimant may reasonably 
+require, in addition to the compensation payable, 
+to enable the claimant to purchase such reasonably 
+comparable accommodation. 
+ 
+(2) Any loan granted under subsection (1) must not 
+exceed an amount equal to the difference between 
+the market value of the interest of the claimant 
+which is acquired, as assessed for compensation 
+under this Part, and the amount prescribed under 
+subsection (1). 
+ 
+(3) If interest is payable on any loan granted under 
+subsection (1), the rate of that interest must not 
+exceed the rate determined under section 52. 
+ 
+(4) Any loan granted under subsection (1) is subject 
+to the following terms and conditions— 
+ 
+(a) the loan must be secured by a mortgage of 
+the interest in land purchased by the claimant 
+to provide comparable accommodation; 
+ 
+(b) the loan is repayable if the interest is sold or 
+if the claimant or the claimant's spouse or 
+domestic partner cease to use the land as a 
+principal place of residence or if the claimant 
+S. 45(4)(b) 
+amended by 
+No. 27/2001 
+s. 3(Sch. 1 
+item 5.3). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Measure of compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+46 
+  
+and the claimant's spouse or domestic partner 
+have both died; 
+ 
+(c) such other terms and conditions as are agreed 
+upon between the Authority and the 
+claimant, or, failing agreement, as are 
+determined by the Tribunal or the Court on 
+the application of either party. 
+ 
+ 
+S. 45(4)(c) 
+amended by 
+No. 91/1994 
+s. 21(a). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Compensation where no interest in land is acquired 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+47 
+  
+Part 5—Compensation where no interest in 
+land is acquired 
+ 
+46 Compensation for abandoned acquisition 
+ 
+(1) Any person with an interest in land who has— 
+ 
+(a) sustained any pecuniary loss; or 
+ 
+(b) incurred any expense— 
+as a direct, natural and reasonable consequence of 
+the service of a notice of intention to acquire any 
+interest in that land or of the Authority's refusal or 
+failure to consent to the carrying out of 
+improvements to the land or to the effecting or 
+obtaining of any sales, transactions, licences or 
+approvals in relation to the land may— 
+ 
+(c) if the Authority has determined under 
+section 15 not to proceed with the 
+acquisition; or 
+ 
+(d) if the interest is not acquired within the time 
+prescribed by this Act— 
+claim the amount of that loss or expense from the 
+Authority. 
+ 
+(2) A claim for compensation by any person under 
+subsection (1) must only be made in respect of— 
+ 
+(a) a loss sustained or expense incurred in the 
+period between the date of service of the 
+notice of intention to acquire and— 
+ 
+(i) the date of service on that person of the 
+statement under section 15; or 
+ 
+(ii) the lapsing of the notice of intention to 
+acquire— 
+as the case may be; and 
+ 
+(b) any expenses reasonably incurred in respect 
+of the making of the claim. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Compensation where no interest in land is acquired 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+48 
+  
+ 
+(3) A claim for compensation under subsection (1) 
+must be made within two years after the date of 
+service of the statement under section 15 or the 
+date of lapsing of the notice of intention to acquire 
+(as the case may be). 
+ 
+47 Compensation for entry or temporary occupation 
+ 
+(1) Any person with an interest in land that has been 
+entered or temporarily occupied pursuant to Part 9 
+who has— 
+ 
+(a) sustained any pecuniary loss; or 
+ 
+(b) incurred any expense— 
+as a direct, natural and reasonable consequence of 
+that entry or occupation may claim the amount of 
+that loss or expense from the Authority. 
+ 
+(2) Subject to section 106(1), a claim under 
+subsection (1) must be made within two years 
+after the day on which the Authority was last in 
+occupation of or upon the land. 
+ 
+(3) In addition to the amount of loss or expense which 
+may become payable under subsection (1), the 
+Authority must during the period of its occupation 
+of the land pay half-yearly or quarterly to the 
+person or persons entitled to receive the rent from 
+the land the amount of rent agreed upon between 
+the parties or, failing agreement, fixed by the 
+Court or the Tribunal, as the case may be. 
+ 
+48 Form of claim 
+ 
+(1) A claim for compensation under this Part is made 
+by serving on the Authority a notice of claim 
+which must— 
+ 
+(a) be in the prescribed form; and 
+ 
+(b) state the amount of compensation to which 
+the claimant claims to be entitled under this 
+Act; and 
+S. 47(3) 
+amended by 
+No. 91/1994 
+s. 21(a). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Compensation where no interest in land is acquired 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+49 
+  
+ 
+(c) state the interest which the claimant had in 
+the land concerned; and 
+ 
+(d) give details of the loss sustained or expense 
+incurred which gave rise to the claim. 
+ 
+(2) Subject to section 106(1), the Authority must 
+before the expiration of three months after the day 
+on which a notice of claim is served on it under 
+this Part serve upon the claimant a statement in 
+writing replying to the notice of claim. 
+ 
+(3) The Authority may in that statement— 
+ 
+(a) admit the claim; or 
+ 
+(b) make an alternative offer of compensation; 
+or 
+ 
+(c) reject the claim. 
+ 
+(4) A statement of reply under subsection (2) must be 
+accompanied by a statement in the prescribed 
+form setting out the principal rights and 
+obligations of persons entitled to make a claim 
+under this Part. 
+ 
+(5) The Authority may admit the claim either in full 
+or in part leaving specified matters subject to 
+negotiation and if it admits the claim it is liable to 
+satisfy the claim to the extent to which it has 
+admitted the claim. 
+ 
+(6) If the Authority fails to reply to the notice of 
+claim within the prescribed time, it is to be taken 
+to have rejected the claim and the claim becomes 
+a disputed claim for the purposes of this Act. 
+ 
+(7) Subject to section 106(1), if the Authority makes 
+an offer of compensation, the claimant must 
+within two months after the date of service of the 
+offer— 
+ 
+(a) accept the offer; or 
+ 
+(b) reject the offer. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Compensation where no interest in land is acquired 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+50 
+  
+ 
+(8) If the claimant rejects or fails to accept within the 
+time prescribed under subsection (7) an offer of 
+the Authority, or the Authority rejects a claim by 
+the claimant under this Part, the claim becomes a 
+disputed claim for the purposes of this Act. 
+ 
+(9) To the extent that an amount of compensation 
+offered under this section, or any part thereof, is 
+not disputed, the Authority is liable to pay that 
+amount. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Payment of compensation and interest on compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+51 
+  
+Part 6—Payment of compensation and 
+interest on compensation 
+ 
+49 Compensation to be paid to persons entitled or 
+empowered to sell and convey 
+The compensation payable for or in respect of any 
+interest in land acquired by the Authority under 
+this Act may be paid to— 
+ 
+(a) the person who is entitled or who is 
+empowered under this Act to sell and convey 
+or grant and release or lease the interest to 
+the Authority; or 
+(b) the constituted attorney of that person. 
+ 
+50 Claimants to produce title 
+All persons claiming compensation under this Act 
+when required by the Authority to do so, must 
+produce to the Authority all deeds and documents 
+relating to or evidencing their title to or their 
+entitlement to an interest in the land in respect of 
+which the compensation is payable. 
+ 
+51 Advances of compensation 
+ 
+(1) Upon the service on a claimant of an offer under 
+Part 3 or 5, the claimant may, by notice in writing, 
+require the Authority to advance an amount equal 
+to the amount of compensation offered in respect 
+of the claimant's interest or the loss or expenses 
+sustained or incurred by the claimant or, if the 
+claimant is a person to whom section 44(3) 
+applies, the amount of compensation by way of 
+solatium offered to the claimant. 
+ 
+(2) Subject to section 106(1), if the Authority is 
+required to make an advance under this section, it 
+must make the advance within one month— 
+(a) after receipt of the notice requiring it to 
+make the advance; or 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Payment of compensation and interest on compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+52 
+  
+ 
+(b) after the claimant has satisfied the Authority 
+as to the claimant's entitlement to an interest 
+in the land— 
+whichever last occurs. 
+ 
+(3) An advance must not be made under this section 
+unless the offer is $5000 or more. 
+ 
+(4) If an advance has not been paid at the expiration 
+of the period referred to in subsection (2), the 
+Authority is liable to pay interest on the unpaid 
+amount of the advance from the expiration of that 
+period until the date of payment of the advance. 
+ 
+(5) Interest is payable under subsection (4) at the rate 
+for the time being fixed under section 55. 
+ 
+(6) If an advance has been required under this section 
+and the Authority makes a later offer increasing 
+the amount of compensation offered, the person to 
+whom the offer is made may by notice in writing 
+require the Authority to advance an amount equal 
+to the difference between the amount of the first 
+offer and the amount of the later offer. 
+ 
+(7) If the amount of money paid under this section 
+exceeds the amount of compensation determined 
+under this Act for— 
+ 
+(a) the acquisition of the interests of; or 
+ 
+(b) the loss or expenses sustained or incurred by; 
+or 
+ 
+(c) the solatium payable to— 
+the person to whom the money was paid, that 
+person is liable to pay to the Authority as a debt 
+due to the Authority an amount equal to the 
+difference between the amount paid to that person 
+under this section and the amount of 
+compensation which is so determined. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Payment of compensation and interest on compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+53 
+  
+ 
+(8) Despite anything to the contrary in this Act, if— 
+ 
+(a) a notice of intention to acquire an interest in 
+land has been served on a person under 
+section 6; or 
+ 
+(b) a notice of intention to acquire an interest in 
+land is not required by virtue of section 
+7(1)(c) to be served but the Authority has 
+notified a person interested in the land that it 
+proposes to acquire an interest in that land— 
+the Authority may before the date of acquisition 
+advance an amount of compensation to that person 
+to assist that person in purchasing a similar 
+interest in other land. 
+ 
+(9) An amount of compensation paid to a person 
+under subsection (8) shall not prejudice the final 
+settlement or determination of the amount of 
+compensation payable to that person under this 
+Act. 
+ 
+52 Determination of rate of interest 
+ 
+(1) The Governor in Council may from time to time, 
+by Order published in the Government Gazette, 
+determine the rate of interest to be paid in respect 
+of unpaid compensation under this Act. 
+ 
+(2) The rate of interest determined by the Governor in 
+Council must not exceed the rate for the time 
+being fixed under section 2 of the Penalty 
+Interest Rates Act 1983. 
+ 
+53 Interest on compensation for acquisition 
+ 
+(1) If an amount of compensation is awarded by the 
+Court or the Tribunal under this Act, the amount 
+that represents the difference between the amount 
+of compensation awarded and the amount of 
+compensation offered by the Authority 
+immediately before the claimant's claim became a 
+S. 53(1) 
+amended by 
+No. 91/1994 
+s. 21(a). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Payment of compensation and interest on compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+54 
+  
+disputed claim bears interest at the rate for the 
+time being determined under section 52 from— 
+(a) the date of acquisition of the claimant's 
+interest; or 
+ 
+(b) the date on which the Authority entered into 
+possession of the land in which that interest 
+subsists— 
+whichever is the earlier, until the date that the 
+compensation is paid by the Authority. 
+ 
+(2) If the Authority and the claimant or claimants 
+have agreed on the amount of compensation, that 
+amount bears interest at the rate for the time being 
+determined under section 52 from the date of the 
+agreement until the date that the compensation is 
+paid by the Authority. 
+ 
+54 Interest on compensation where no land taken 
+If an amount is awarded as compensation under 
+Part 5 or section 26(12), the amount that 
+represents the difference between the amount of 
+compensation awarded and the amount of 
+compensation offered by the Authority 
+immediately before the claimant's claim became a 
+disputed claim bears interest at the rate for the 
+time being determined under section 52 from the 
+date that the right of claim accrued to the claimant 
+until the date that the compensation is paid by the 
+Authority. 
+ 
+55 Penalty interest 
+Subject to section 106(1), if the Authority fails to 
+pay any amount of compensation which it has 
+agreed to pay or which has been awarded under 
+this Act within 30 days of the date of that 
+agreement or award, the interest payable on that 
+amount is five per centum per annum higher than 
+the rate of interest for the time being determined 
+under section 52. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Payment of compensation and interest on compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+55 
+  
+ 
+56 Interest in respect of expenses 
+Despite anything to the contrary in section 53 
+or 54— 
+ 
+(a) if an amount has been claimed under this Act 
+in respect of expenses and the amount of the 
+expenses has been paid by the Authority, that 
+amount does not bear interest under this Act; 
+ 
+(b) if the amount of any expenses claimed under 
+this Act is disputed, the amount awarded in 
+respect of those expenses bears interest from 
+the date on which the claimant paid the 
+expenses; and 
+ 
+(c) if— 
+ 
+(i) the amount of any expenses claimed 
+under this Act is disputed; and 
+ 
+(ii) the Authority has made an advance of 
+compensation to the claimant; and 
+ 
+(iii) the claimant has not paid the 
+expenses— 
+any amount awarded in respect of those 
+expenses in addition to the amount advanced 
+bears interest from the date on which the 
+claimant pays the expenses. 
+ 
+57 Interest where claimant seeks extension of time 
+If a claimant seeks an extension of time under this 
+Act before making a claim or responding to an 
+offer or revised offer, interest is not payable to the 
+claimant on any unpaid amount of compensation 
+during the period of extension. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Payment of compensation and interest on compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+56 
+  
+ 
+58 Compensation may in certain cases be paid to the 
+Treasurer 
+If any claimant on tender of the compensation 
+agreed or awarded in respect of the claimant's 
+claim— 
+ 
+(a) refuses to accept the payment; or 
+ 
+(b) neglects or fails to make out a title to the 
+land or the claimant's entitlement to an 
+interest in the land (as the case requires) to 
+the satisfaction of the Authority; or 
+ 
+(c) refuses to convey or release the claimant's 
+interest as directed by the Authority; or 
+ 
+(d) is absent from Victoria; or 
+ 
+(e) cannot after diligent inquiry be found— 
+the compensation payable in respect of the 
+claimant's claim may if the Minister administering 
+the special Act thinks fit be paid to the credit of 
+the Trust Fund to be dealt with by the Treasurer in 
+the manner provided in this Act. 
+ 
+59 Payment out of Trust Fund at direction of Authority 
+Subject to any order made under section 61, the 
+Minister administering Part 7 of the Financial 
+Management Act 1994 must pay out any money 
+paid to the Trust Fund by the Authority under this 
+Act to such person as the Authority by order 
+directs. 
+ 
+60 Investment of money deposited in Trust Fund 
+ 
+(1) The Treasurer may, if the Treasurer thinks fit, 
+until an order is made under section 61 or 
+payment is made under section 59, invest any 
+money paid to the Trust Fund under this Act in 
+such manner the Treasurer thinks fit. 
+ 
+S. 59 
+amended by 
+No. 46/1998 
+s. 7(Sch. 1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Payment of compensation and interest on compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+57 
+  
+ 
+(2) The interest on any money invested under 
+subsection (1) shall be from time to time 
+accumulated for the benefit of the person 
+ultimately entitled to the money so invested. 
+ 
+61 Court or judge may dispose of money paid to Trust 
+Fund 
+ 
+(1) Upon the application of any person making a 
+claim— 
+ 
+(a) to any payment made to the credit of the 
+Trust Fund under this Act; or 
+ 
+(b) to the interest in land in respect of which the 
+payment was made— 
+the Court may in a summary way as to the Court 
+seems fit— 
+ 
+(c) order the money or any part thereof— 
+ 
+(i) to be paid to the person making the 
+claim; or 
+ 
+(ii) to be laid out or invested in such 
+manner as to the Court seems fit and 
+may order distribution of the money or 
+payment of the dividends or interest on 
+the money according to the respective 
+entitlements of the persons making 
+claim to the money or interest in land or 
+any part thereof; or 
+ 
+(d) make such other order in the circumstances 
+as to the Court seems fit. 
+ 
+(2) An order under subsection (1) must provide that 
+the money is to be applied or paid in such manner 
+as the Court considers will give to the parties 
+interested in that money the same benefit from 
+that money as they might lawfully have had from 
+the interests in land in respect of which the money 
+has been paid or as near thereto as is possible in 
+the circumstances. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Payment of compensation and interest on compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+58 
+  
+ 
+62 Costs of application 
+ 
+(1) Subject to subsection (2), the costs of and 
+incidental to any application or in respect of any 
+investment referred to in section 61 are in the 
+discretion of the Court. 
+ 
+(2) The Authority and the Minister administering 
+Part 7 of the Financial Management Act 1994 
+are not required to pay any costs referred to in 
+subsection (1). 
+ 
+(3) If costs are taxed under this section the taxation 
+may be reviewed by the Court. 
+ 
+63 Expenses of conveyance to be borne by Authority 
+ 
+(1) All conveyances and instruments for the 
+conveyance of interests in land acquired under this 
+Act must be prepared by the Authority. 
+ 
+(2) The Authority must bear— 
+ 
+(a) the charges and expenses incurred by itself 
+and the person interested in the land to be 
+acquired or who immediately before the 
+purchase or acquisition had an interest in the 
+land so acquired in respect of— 
+ 
+(i) the conveyance of the interest in land; 
+and 
+ 
+(ii) the conveyance or transfer of any 
+outstanding terms or interests in the 
+land; and 
+ 
+(iii) verifying (as the case requires) the title 
+to or the entitlement to an interest in the 
+land, terms or interests; and 
+ 
+(iv) making out and furnishing any extracts 
+and attested copies required by the 
+Authority; and 
+ 
+S. 62(2) 
+amended by 
+No. 46/1998 
+s. 7(Sch. 1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Payment of compensation and interest on compensation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+59 
+  
+ 
+(b) all other reasonable expenses incidental to 
+the investigation and verification of the title 
+to or the entitlement to an interest in the land 
+(as the case requires). 
+ 
+64 Taxation of expenses of conveyance 
+ 
+(1) Subject to Part 10, if any dispute arises under this 
+Act as to the amount of any charges or expenses 
+payable to any person under section 63(2), the 
+charges or expenses must be taxed by the Costs 
+Court upon the application of either party to the 
+dispute. 
+ 
+(2) The person liable to pay the charges or expenses 
+must pay the amount that the Costs Court certifies 
+to be due in respect of the charges or expenses to 
+the person entitled to them. 
+ 
+(3) Subject to subsection (4), the costs of taxing the 
+charges or expenses must be borne by the person 
+liable to pay those charges or expenses. 
+ 
+(4) If upon the taxation of the charges or expenses 
+one-sixth or more of the amount of the charges or 
+expenses is disallowed, the costs of the taxation 
+must be borne by the person whose charges or 
+expenses are so taxed. 
+ 
+(5) The amount of any costs to be paid by a person 
+under subsections (3) and (4) is to be ascertained 
+by the Costs Court and deducted by the Costs 
+Court accordingly in the certificate of taxation. 
+ 
+(6) In this section person includes the Authority. 
+ 
+ 
+S. 64(1) 
+amended by 
+No. 78/2008 
+s. 27(2)(a). 
+S. 64(2) 
+amended by 
+No. 78/2008 
+s. 27(2)(b). 
+S. 64(5) 
+amended by 
+No. 78/2008 
+s. 27(3). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—Persons with limited powers to deal with land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+60 
+  
+Part 7—Persons with limited powers to deal 
+with land 
+ 
+65 Restrictions in other laws not to apply 
+Despite any law, deed, agreement, will, 
+memorandum or articles of association or other 
+instrument which would otherwise prevent a 
+person in whom an interest in land is vested from 
+doing so, such a person— 
+ 
+(a) may sell and convey or grant and release or 
+lease that interest to the Authority; and 
+ 
+(b) if the interest has been acquired by the 
+Authority— 
+ 
+(i) may take action to recover 
+compensation; and 
+ 
+(ii) may agree with the Authority as to the 
+amount of compensation payable in 
+respect of the acquired interest. 
+ 
+66 Application of compensation 
+ 
+(1) Any compensation payable under this Act to a 
+person to whom section 65 applies must be 
+applied by that person in one or more of the 
+following ways: 
+(a) In the discharge of any debt or encumbrance 
+affecting— 
+ 
+(i) the interest in land in respect of which 
+the compensation has been paid; or 
+ 
+(ii) other interests in lands settled with that 
+interest to the same or like uses, trusts 
+and purposes; 
+ 
+(b) In the purchase of interests in other land; 
+ 
+(c) In the purchase of Victorian Government 
+securities; 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—Persons with limited powers to deal with land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+61 
+  
+ 
+(d) On mortgage of freehold lands in Victoria; 
+ 
+(e) If the money is paid in respect of any 
+buildings acquired under this Act or the 
+special Act or injured by the proximity of the 
+works, in removing and re-erecting the 
+buildings or substituting others in their stead; 
+ 
+(f) In any way or manner that the Court in a 
+summary way orders or directs; 
+ 
+(g) In payment to any person becoming 
+absolutely entitled to the money. 
+ 
+(2) Any land or securities purchased or any mortgage 
+under subsection (1)(b), (c) or (d) must be 
+conveyed, limited and settled upon the same uses, 
+trusts and purposes, and in the same manner as the 
+land in respect of which the compensation has 
+been paid stood settled. 
+ 
+67 Power to agent to negotiate in certain cases 
+ 
+(1) An agent of any person absent from Victoria who 
+is authorized to sell the interest in land of that 
+person, may negotiate with the Authority under 
+this Act for the purchase or acquisition of that 
+interest. 
+ 
+(2) An agent referred to in subsection (1) may agree 
+with the Authority— 
+ 
+(a) for the purchase or acquisition of the interest 
+in land by the Authority; and 
+ 
+(b) as to the compensation payable in respect of 
+the acquisition of the interest under this Act. 
+ 
+(3) Any dispute arising as to the compensation 
+payable may be determined in the same manner as 
+other disputed claims are determined under this 
+Act. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—Persons with limited powers to deal with land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+62 
+  
+ 
+(4) Upon payment of the purchase price or 
+compensation agreed upon or determined pursuant 
+to this section, the agent must convey the interest 
+in land to the Authority and perform and execute 
+all and every necessary act deed matter and thing 
+required for those purposes. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Mortgages over acquired land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+63 
+  
+Part 8—Mortgages over acquired land 
+ 
+68 Power to redeem mortgages 
+ 
+(1) The Authority may purchase or redeem the 
+interest of the mortgagee in any interest in land 
+acquired or proposed to be acquired pursuant to 
+this Act for the purposes of the special Act. 
+ 
+(2) Subsection (1) applies whether or not— 
+ 
+(a) the Authority has previously acquired the 
+equity of redemption of that land; or 
+ 
+(b) the mortgagee is entitled to the mortgagee's 
+interest in the land in the mortgagee's own 
+right or in trust for any other person; or 
+ 
+(c) the mortgagee is in possession of that land 
+by virtue of the mortgage; or 
+ 
+(d) the mortgage affects that interest in land 
+solely or jointly with other interests in that or 
+any other land not required for the purposes 
+of the special Act. 
+ 
+(3) The Authority may purchase or redeem the 
+mortgage by paying or tendering to the 
+mortgagee— 
+ 
+(a) the principal sum and interest due on the 
+mortgage; and 
+ 
+(b) the expenses and charges (if any) of the 
+mortgagee; and 
+ 
+(c) three months' additional interest. 
+ 
+(4) Immediately upon payment of the amounts 
+specified in subsection (3), the mortgagee must 
+convey or release the mortgagee's interest in the 
+land under the mortgage to the Authority or as the 
+Authority directs. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Mortgages over acquired land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+64 
+  
+ 
+(5) The Authority may give notice in writing to the 
+mortgagee that it will pay off the principal and 
+interest due on the mortgage six months after the 
+date of giving of the notice. 
+ 
+(6) If— 
+ 
+(a) the Authority has given a notice under 
+subsection (5); or 
+ 
+(b) the person entitled to the equity of 
+redemption of the land has given six months' 
+notice of intention to redeem the interest of 
+the mortgagee in the land— 
+at the expiration of the period specified in respect 
+of either of those notices or at any intermediate 
+period, upon payment or tender by the Authority 
+to the mortgagee of— 
+ 
+(c) the principal sum due on the mortgage; and 
+ 
+(d) the interest which would become due at the 
+end of six months from the date of giving 
+either of the notices; and 
+ 
+(e) the expenses and charges (if any) of the 
+mortgagee— 
+the mortgagee must convey or release the 
+mortgagee's interest in the land under the 
+mortgage to the Authority or as the Authority 
+directs. 
+ 
+69 Deposit of mortgage money on refusal to accept 
+ 
+(1) If a mortgagee fails— 
+ 
+(a) to convey or release the mortgagee's interest 
+in the land under the mortgage to the 
+Authority or as it directs pursuant to 
+section 68; or 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Mortgages over acquired land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+65 
+  
+ 
+(b) to adduce good title to the mortgagee's 
+interest in that land to the Authority's 
+satisfaction— 
+the Authority may pay to the credit of the Trust 
+Fund to be dealt with by the Treasurer in the 
+manner provided in this Act— 
+ 
+(c) the principal sum and interest due on the 
+mortgage; and 
+ 
+(d) the costs (if any) due on the mortgage; and 
+ 
+(e) if the payment is made before the expiration 
+of the six months' notice referred to in 
+section 68, such further interest as would at 
+that time become due. 
+ 
+(2) The Authority, if it thinks fit, may execute a deed 
+poll— 
+ 
+(a) containing a description of the lands in 
+respect of which the deposit was made under 
+subsection (1); and 
+ 
+(b) describing the circumstances in which the 
+deposit was made. 
+ 
+(3) The Authority must register the deed poll in the 
+office of the Registrar-General. 
+ 
+(4) Upon the registration of the deed poll the interest 
+of the mortgagee and of all persons in trust for the 
+mortgagee or for whom the mortgagee may be 
+trustee in the land comprised in the mortgage is 
+vested in the Authority. 
+ 
+70 Sum to be paid when mortgage exceeds value of 
+land 
+ 
+(1) If any mortgaged interest in land acquired or 
+proposed to be acquired pursuant to this Act for 
+the purposes of the special Act appears to the 
+Authority to be of less value than the principal 
+interest and expenses secured thereon, the value of 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Mortgages over acquired land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+66 
+  
+the interest or the compensation to be paid by the 
+Authority in respect of the interest is to be settled 
+by agreement between— 
+ 
+(a) the mortgagee and the person entitled to the 
+equity of redemption of the land on the one 
+part; and 
+ 
+(b) the Authority on the other part. 
+ 
+(2) If an agreement is not reached under 
+subsection (1) with respect to the amount of the 
+value of the interest in land or of the 
+compensation that amount is to be determined 
+under this Act in the same manner as a disputed 
+claim for compensation. 
+ 
+(3) The amount of the value of the interest in land or 
+of the compensation so agreed upon or determined 
+pursuant to this section must be paid by the 
+Authority to the mortgagee in satisfaction of the 
+mortgage debt so far as the amount will extend. 
+ 
+(4) Upon payment or tender of the amount under 
+subsection (3), the mortgagee must convey or 
+release all the interest in the land comprised in the 
+mortgage to the Authority or as the Authority 
+directs. 
+ 
+71 Deposit of money when refused on tender under 
+section 70 
+ 
+(1) If a mortgagee fails— 
+ 
+(a) to convey the interest in the land under the 
+mortgage to the Authority or as it directs 
+pursuant to section 70; or 
+(b) to adduce good title to that interest to the 
+Authority's satisfaction— 
+the Authority may pay the amount of the value or 
+compensation referred to in that section to the 
+credit of the Trust Fund to be dealt with by the 
+Minister administering Part 7 of the Financial 
+S. 71(1) 
+amended by 
+No. 46/1998 
+s. 7(Sch. 1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Mortgages over acquired land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+67 
+  
+Management Act 1994 in the manner provided in 
+this Act. 
+ 
+(2) A payment made under subsection (1)— 
+ 
+(a) must be accepted by the mortgagee in 
+satisfaction of the mortgage debt so far as 
+that payment will extend; and 
+ 
+(b) is a full discharge of the mortgaged interest 
+from all money due thereon. 
+ 
+(3) The Authority, if it thinks fit, may execute and 
+register a deed poll in the manner provided in 
+section 69(2) and (3). 
+ 
+(4) Upon the registration of the deed poll the interest 
+of the mortgagee and of all persons in trust for the 
+mortgagee or for whom the mortgagee may be 
+trustee in the land comprised in the mortgage is 
+vested in the Authority. 
+ 
+(5) Despite subsection (4) all rights and remedies 
+possessed by the mortgagee against the mortgagor 
+by virtue of any bond or covenant or other 
+obligation, other than the right to the interest in 
+land, remain in force in respect of so much of the 
+mortgage debt as has not been satisfied by the 
+payment under this section. 
+ 
+72 Sum to be paid where part only of mortgaged land 
+taken 
+ 
+(1) If— 
+ 
+(a) part only of the mortgaged interest or of the 
+land in which the mortgaged interest subsists 
+is required for the purposes of the special 
+Act; and 
+ 
+(b) the value of the mortgaged interest in the 
+part so required is of less value than the 
+principal sum, interest and expenses secured 
+on the whole of the land; and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Mortgages over acquired land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+68 
+  
+ 
+(c) the mortgagee— 
+ 
+(i) does not consider the interest in the 
+remaining part of the land a sufficient 
+security for the money charged thereon; 
+or 
+ 
+(ii) is not willing to release the part so 
+required— 
+the value of the interest in the required part and 
+the compensation (if any) to be paid in respect of 
+the severance of that part or otherwise are to be 
+settled by agreement between the mortgagee and 
+the person entitled to the equity of redemption of 
+the mortgaged interest on the one part and the 
+Authority on the other part. 
+ 
+(2) If an agreement is not reached under subsection 
+(1) with respect to the amount of the value of the 
+interest in the part or of the compensation, the 
+Authority must make an offer in accordance with 
+section 32 and the amount is to be determined 
+under this Act in the same manner as a disputed 
+claim for compensation. 
+ 
+(3) The amount of the value of the interest in the part 
+or of the compensation so agreed upon or 
+determined pursuant to this section must be paid 
+by the Authority to the mortgagee in satisfaction 
+of the mortgage debt so far as the amount will 
+extend. 
+ 
+(4) Upon payment or tender of the amount under 
+subsection (3), the mortgagee must convey or 
+release all the mortgagee's interest under the 
+mortgage in the part of the land for which the 
+payment is made to the Authority or as the 
+Authority directs. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Mortgages over acquired land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+69 
+  
+ 
+(5) A memorandum of the amount so paid must— 
+ 
+(a) be endorsed on the deed creating the 
+mortgage; and 
+ 
+(b) be signed by the mortgagee. 
+ 
+(6) A copy of the memorandum must (if required) be 
+furnished by the Authority without charge to the 
+person entitled to the equity of redemption of the 
+interest in land comprised in the mortgage. 
+ 
+73 Deposit of money when refused on tender under 
+section 72 
+ 
+(1) If a mortgagee fails— 
+ 
+(a) to convey or release to the Authority, or as it 
+directs, the interest in the part of land in 
+respect of which the value or compensation 
+has been paid or tendered under section 72; 
+or 
+ 
+(b) to adduce good title in respect of that interest 
+to the Authority's satisfaction— 
+the Authority may pay the amount of that value or 
+compensation to the credit of the Trust Fund to be 
+dealt with by the Minister administering Part 7 of 
+the Financial Management Act 1994 in the 
+manner provided in this Act. 
+ 
+(2) A payment under subsection (1)— 
+ 
+(a) must be accepted by the mortgagee in 
+satisfaction of the mortgage debt so far as 
+that payment will extend; and 
+ 
+(b) is a full discharge of the part of the 
+mortgaged interest so required from all 
+money due thereon. 
+ 
+(3) The Authority, if it thinks fit, may execute and 
+register a deed poll in the manner provided in 
+section 69(2) and (3). 
+S. 73(1) 
+amended by 
+No. 46/1998 
+s. 7(Sch. 1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Mortgages over acquired land 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+70 
+  
+ 
+(4) Upon the registration of the deed poll the interest 
+of the mortgagee and of all persons in trust for the 
+mortgagee or for whom the mortgagee may be 
+trustee in the land required is vested in the 
+Authority. 
+ 
+(5) Despite subsection (4), the mortgagee has the 
+same powers and remedies for recovering or 
+compelling payment of the mortgage money or the 
+residue thereof (as the case may be) and the 
+interest thereof respectively upon and out of the 
+residue of the mortgaged interest which is not 
+required for the purposes of the special Act, as the 
+mortgagee would otherwise have had or been 
+entitled to for recovering or compelling payment 
+thereof upon or out of the interest in the whole of 
+the land originally comprised in the mortgage. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 9—Powers of entry and temporary occupation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+71 
+  
+Part 9—Powers of entry and temporary 
+occupation 
+ 
+74 Powers of entry 
+ 
+(1) For the purposes of the special Act, the Authority 
+or any person authorized in writing to that effect 
+by the Authority, may— 
+ 
+(a) enter and remain upon any land with any 
+assistants, vehicles, machinery or equipment; 
+and 
+ 
+(b) affix or establish any trigonometrical 
+stations, survey pegs, marks or poles on the 
+land and from time to time alter, remove or 
+reinstate them; and 
+ 
+(c) dig or bore into the land and take samples of 
+soil, rock, ground water or minerals. 
+ 
+(2) The Authority must serve upon the occupier of the 
+land, and if the occupier is not the owner, upon 
+the owner of the land— 
+ 
+(a) a notice of intention to enter the land; and 
+ 
+(b) a statement in the prescribed form setting out 
+the rights and obligations of the occupier and 
+owner (as the case may be) under this Act— 
+at least seven days before the land is entered 
+pursuant to subsection (1). 
+ 
+(3) A person who— 
+ 
+(a) wilfully and without authorization from the 
+Authority, interferes with any 
+trigonometrical station, survey pegs, marks 
+or poles; or 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 9—Powers of entry and temporary occupation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+72 
+  
+ 
+(b) wilfully obstructs any person acting in 
+accordance with this section— 
+is guilty of an offence. 
+Penalty: 5 penalty units. 
+ 
+75 Temporary occupation 
+ 
+(1) The Authority, or any person authorized in writing 
+to that effect by the Authority, may enter upon 
+any land to which this section applies and occupy 
+the land so long as is necessary for the purposes of 
+the special Act. 
+ 
+(2) The Authority or any person authorized by the 
+Authority may for the purposes of the special 
+Act— 
+ 
+(a) dig and take from the land occupied pursuant 
+to subsection (1) any clay, stone, gravel, 
+earth or other substance; or 
+ 
+(b) deposit any material on that land; or 
+ 
+(c) make cuttings or excavations on that land; or 
+ 
+(d) take timber from that land; or 
+ 
+(e) make and use roads on that land; or 
+ 
+(f) manufacture on that land any materials 
+required; or 
+ 
+(g) erect workshops, sheds and buildings of a 
+temporary character on that land. 
+ 
+(3) The Authority must, at least seven days before it 
+enters upon any land to which this section applies, 
+serve upon— 
+ 
+(a) the occupier of the land, and if the occupier 
+is not the owner, upon the owner of the land; 
+and 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 9—Powers of entry and temporary occupation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+73 
+  
+ 
+(b) the Soil Conservation Authority— 
+notice in writing of its intention to exercise its 
+powers under that subsection. 
+ 
+(4) A notice under subsection (3) must— 
+ 
+(a) indicate in general terms the approximate 
+position and nature of the land in question; 
+and 
+ 
+(b) indicate the extent to which the powers under 
+subsection (2) are proposed to be exercised; 
+and 
+ 
+(c) include the name and place of business of 
+any person authorized by the Authority to 
+exercise the power on its behalf; and 
+ 
+(d) contain a statement in the prescribed form 
+setting out the principal rights and 
+obligations of the occupier and owner (as the 
+case may be) under this Act. 
+ 
+(5) Subject to section 106(1), the Authority within 
+seven days after the expiration of each calendar 
+month must cause to be given to the owner and 
+occupier of the land notice in writing setting out 
+the nature and quantity of any substance or timber 
+taken from the land during that calendar month. 
+ 
+(6) This section applies to land which is not used 
+primarily for residential purposes. 
+ 
+76 Obligations in relation to the occupation of land 
+The Authority, or any person authorized in writing 
+to that effect by the Authority must— 
+ 
+(a) in exercising the powers under this Part 
+cause as little harm and inconvenience and 
+do as little damage as possible to the land 
+and anything on or growing on the land; and 
+ 
+(b) remain upon the land only for such period as 
+is reasonably necessary; and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 9—Powers of entry and temporary occupation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+74 
+  
+ 
+(c) remove from the land on the completion of 
+the occupation of the land all plant, 
+machinery, equipment, goods or buildings 
+brought onto, or erected on, the land other 
+than any of those things that the owner or 
+occupier agrees may be left on the land; and 
+ 
+(d) leave the land, as nearly as possible, in the 
+condition in which it was immediately before 
+the land was occupied; and 
+ 
+(e) use all its best endeavours to co-operate with 
+the owner and occupier of the land. 
+ 
+77 Liability of Authority for nuisance 
+Nothing in this Act exempts the Authority from 
+any action for nuisance or other injury (if any) 
+done in the exercise of the powers given under 
+section 75 to the land or residence of any person 
+other than the person whose land is entered, 
+occupied or used for any of the purposes referred 
+to in that section. 
+ 
+78 Obstruction an offence 
+ 
+(1) A person who after service of a notice under 
+section 75(3) wilfully does any act or thing 
+calculated to prevent the Authority from 
+exercising any power conferred by section 75 is 
+guilty of an offence. 
+Penalty: 5 penalty units. 
+ 
+(2) The doing of an act or thing in contravention of 
+this section does not prevent the Authority from 
+exercising any power which it could lawfully have 
+exercised if that act or thing had not been done. 
+ 
+79 Authority to fence lands before using them 
+ 
+(1) If part of any land is occupied or used for the 
+purposes of section 75, the Authority must, if 
+required to do so by the owner or occupier 
+thereof, separate the land by a sufficient fence 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 9—Powers of entry and temporary occupation 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+75 
+  
+with such gates as are necessary from the 
+remainder of the land adjoining it. 
+ 
+(2) In the case of any difference between the owners 
+or occupiers of the lands and the Authority as to 
+the necessity of the fences and gates, the lands 
+must be separated with such fences and gates as 
+the Minister thinks necessary for the convenient 
+occupation or use of the lands. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Determination of disputes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+76 
+  
+Part 10—Determination of disputes 
+Division 1—Application to the Tribunal or the 
+Court 
+ 
+ 
+80 Application or referral of disputed claim 
+The Authority or the claimant may— 
+ 
+(a) apply to the Tribunal for determination of a 
+disputed claim in accordance with this Act; 
+or 
+ 
+(b) refer a disputed claim to the Court for 
+determination in accordance with this Act. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+81 Jurisdiction 
+ 
+(1) Subject to section 84A, a disputed claim must be 
+determined— 
+ 
+ 
+(a) by the Tribunal if the amount in dispute does 
+not exceed $400 000; or 
+ 
+ 
+ 
+(b) if the amount in dispute exceeds $400 000, 
+by the Tribunal or the Court at the option of 
+the claimant or, if the claimant does not 
+exercise that option within one month after 
+being requested to do so by the Authority, at 
+the option of the Authority. 
+Pt 10 Div. 1 
+(Heading) 
+amended by 
+No. 91/1994 
+s. 21(c). 
+S. 80 
+amended by 
+No. 91/1994 
+s. 21(a), 
+substituted by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.2). 
+S. 80A 
+inserted by 
+No. 91/1994 
+s. 22, 
+repealed by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.3). 
+S. 81(1) 
+amended by 
+No. 38/2017 
+s. 34(1)(a). 
+S. 81(1)(a) 
+amended by 
+Nos 91/1994 
+s. 21(a), 
+38/2017 
+s. 34(1)(b). 
+S. 81(1)(b) 
+amended by 
+Nos 91/1994 
+s. 21(a), 
+38/2017 
+s. 34(1)(c). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Determination of disputes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+77 
+  
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+(2) In this section amount in dispute means the 
+amount of the difference between the amount 
+claimed by the claimant and the amount of the 
+final offer made by the Authority before the 
+application is made to the Tribunal in respect of 
+the claim or the matter is referred to the Court 
+under this Part. 
+ 
+82 Form of notice of referral 
+A notice of referral under section 80 to the Court 
+must be in the prescribed form and must be 
+accompanied by copies of— 
+ 
+(a) the notice of acquisition (if appropriate); 
+ 
+(b) the initial offer of compensation made by the 
+Authority (if any); 
+ 
+(c) the claim made by the claimant; and 
+ 
+(d) the reply (if any) of the Authority to the 
+claim. 
+ 
+83 Service of notice of referral on other parties 
+A party who refers a disputed claim to the Court 
+must cause a copy of the notice of referral under 
+section 80 to be served on the other parties to the 
+dispute. 
+ 
+84 Adjournment or withdrawal application 
+The principal registrar of the Tribunal may grant 
+any application by consent of the parties for 
+adjournment or withdrawal of any claim for 
+compensation referred to the Tribunal. 
+ 
+ 
+S. 81(1)(c) 
+repealed by 
+No. 38/2017 
+s. 34(2). 
+S. 81(2) 
+amended by 
+Nos 91/1994 
+s. 21(a), 
+52/1998 
+s. 311(Sch. 1 
+item 47.4). 
+S. 82 
+amended by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.5). 
+S. 83 
+amended by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.6) (as 
+amended by 
+No. 101/1998 
+s. 22(1)(g)). 
+S. 84 
+(Heading) 
+inserted by 
+No. 38/2017 
+s. 35. 
+S. 84 
+amended by 
+Nos 91/1994 
+s. 21(b), 
+52/1998 
+s. 311(Sch. 1 
+item 47.7). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Determination of disputes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+78 
+  
+ 
+84A Discretionary transfer of proceeding 
+ 
+(1) The Supreme Court may order that a proceeding 
+or part of a proceeding under this Part— 
+ 
+(a) pending in the Court be transferred to the 
+Tribunal; or 
+ 
+(b) pending in the Tribunal be transferred to the 
+Court. 
+ 
+(2) Subject to subsection (3), the Tribunal may order 
+that a proceeding or part of a proceeding under 
+this Part pending in the Tribunal be transferred to 
+the Supreme Court.  
+ 
+(3) For the purposes of making a transfer order under 
+subsection (2), the Tribunal must be constituted 
+by— 
+ 
+(a) the President of VCAT; or  
+ 
+(b) a member nominated by the President. 
+ 
+(4) A transfer order under subsection (1) or (2) may 
+be made— 
+ 
+(a) on the application of a party to the 
+proceeding pending in the Supreme Court or 
+the Tribunal, as the case requires; or 
+ 
+(b) on the own motion of the Court or Tribunal, 
+as the case requires. 
+ 
+(5) In making a transfer order under subsection (1) or 
+(2), the Court or Tribunal, as the case requires, 
+must consider the following— 
+ 
+(a) the views of the parties in relation to the 
+transfer;  
+ 
+ 
+ 
+ 
+S. 84A 
+inserted by 
+No. 38/2017 
+s. 36. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Determination of disputes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+79 
+  
+ 
+(b) whether any proceeding in relation to an 
+associated matter is pending in the Court or 
+Tribunal to which it is proposed to transfer 
+the proceeding; 
+ 
+(c) whether the resources and capacity of the 
+Court or Tribunal to which it is proposed to 
+transfer the proceeding are sufficient to hear 
+and determine the proceeding; 
+ 
+(d) whether the transfer would facilitate the just, 
+efficient, timely and cost-effective resolution 
+of the issues in dispute in the proceeding; 
+ 
+(e) whether the proceeding involves questions of 
+general importance; 
+ 
+(f) whether it is desirable to make the transfer 
+order. 
+ 
+(6) If the Supreme Court or the Tribunal makes a 
+transfer order under this section, it may make any 
+other order it considers necessary pending the 
+hearing and determination of the transferred 
+proceeding by the Court or Tribunal to which it is 
+transferred. 
+ 
+(7) No appeal lies on a decision to transfer a 
+proceeding under subsection (1) or (2). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Determination of disputes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+80 
+  
+Division 2—Compulsory conference in the Court 
+ 
+ 
+ 
+ 
+85 Compulsory conference 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) The Court may order the parties to any disputed 
+claim referred to it and the valuer of the land to 
+attend a compulsory conference to be conducted 
+by the Court or an Associate Judge of the Court. 
+ 
+(2) If the Court orders a compulsory conference to be 
+held in respect of a dispute, it must be held as 
+soon as practicable after the date on which the 
+notice of referral was lodged in respect of the 
+dispute, unless the Court orders otherwise. 
+ 
+86 Objects of compulsory conference 
+The objects of the compulsory conference are— 
+ 
+(a) to determine what matters are in dispute 
+between the parties; and 
+ 
+(b) to identify the questions of law and of fact 
+required to be determined by the Court; and 
+ 
+ 
+Pt 10 Div. 2 
+(Heading) 
+amended by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.8). 
+S. 85 
+amended by 
+No. 91/1994 
+s. 21(a)(d)(e), 
+substituted by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.9) (as 
+amended by 
+No. 101/1998 
+s. 22(1)(h)). 
+S. 85(1) 
+amended by 
+No. 24/2008 
+s. 83(2). 
+S. 86(b) 
+amended by 
+Nos 91/1994 
+s. 21(b), 
+52/1998 
+s. 311(Sch. 1 
+item 47.10). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Determination of disputes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+81 
+  
+ 
+(c) to provide a forum in which the parties may 
+discuss their respective reasons for making 
+or rejecting the disputed claim and where 
+possible settle or resolve the matters in 
+dispute before the dispute is heard by the 
+Court. 
+ 
+87 Parties may vary offer or claim 
+Nothing in this Act prevents— 
+ 
+(a) the Authority in a compulsory conference 
+from increasing the amount of any offer 
+made to a claimant; or 
+ 
+(b) the claimant in a compulsory conference 
+from reducing the amount of the claim— 
+at any time before settlement or determination of 
+the dispute. 
+ 
+88 Settlement 
+If the parties to the dispute arrive at an agreement 
+to settle the disputed claim at any time before the 
+determination of the claim by the Court, the Court 
+must ratify the agreement which then takes effect 
+as if it were a determination of the Court under 
+this Part. 
+Division 3—Determinations 
+ 
+89 Determination of claim 
+ 
+(1) On an application or referral of a disputed claim 
+under this Part, the Tribunal or Court is to 
+determine the amount of compensation in 
+accordance with this Act to be paid in respect of 
+the claim and may make any orders necessary to 
+give effect to that determination. 
+ 
+(2) An appeal to the Court of Appeal from a 
+determination or an order made by the Court 
+under this section lies only on a question of law 
+and with leave of the Court of Appeal. 
+S. 86(c) 
+amended by 
+Nos 91/1994 
+s. 21(b), 
+52/1998 
+s. 311(Sch. 1 
+item 47.10). 
+S. 88 
+amended by 
+Nos 91/1994 
+s. 21(a)(b), 
+52/1998 
+s. 311(Sch. 1 
+item 47.10). 
+S. 89 
+amended by 
+No. 91/1994 
+s. 21(a)(b), 
+substituted by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.11). 
+S. 89(2) 
+amended by 
+No. 62/2014 
+s. 17. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Determination of disputes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+82 
+  
+ 
+90 Principles to be applied in determining 
+compensation 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+(2) In determining the compensation payable the 
+Tribunal or the Court is not bound by the exercise 
+of any discretion of the Authority or by any 
+opinion or determination of the Authority, but 
+must determine the compensation payable in the 
+particular circumstances of the case having regard 
+to the provisions of this Act. 
+ 
+91 Costs 
+ 
+(1) In any proceedings under this Part, the Tribunal or 
+the Court (as the case requires) may award such 
+costs as it thinks proper but in making an order for 
+costs must, if the Tribunal or Court considers it 
+appropriate to do so, take into consideration— 
+ 
+(a) the amount of compensation awarded by the 
+Tribunal or Court as compared with the 
+amount (if any) offered by the Authority; and 
+ 
+(b) the extent to which, in the opinion of the 
+Tribunal or Court, the proceedings have 
+arisen from, or been affected by— 
+ 
+(i) unreasonable conduct on the part of the 
+claimant or the Authority; or 
+ 
+(ii) the failure of the claimant to give 
+adequate particulars of the claim or 
+supply supporting material when 
+required to do so; or 
+ 
+(iii) an excessive claim by the claimant; or 
+S. 90(1) 
+amended by 
+No. 91/1994 
+s. 21(a), 
+repealed by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.12). 
+S. 90(2) 
+amended by 
+No. 91/1994 
+s. 21(a). 
+S. 91(1) 
+amended by 
+No. 91/1994 
+s. 21(a)(b). 
+S. 91(1)(a) 
+amended by 
+No. 91/1994 
+s. 21(b). 
+S. 91(1)(b) 
+amended by 
+No. 91/1994 
+s. 21(b). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Determination of disputes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+83 
+  
+ 
+(iv) an unduly depressed offer by the 
+Authority; and 
+ 
+(c) any other matters which under this Act are to 
+be taken into account in determining the 
+allocation of costs. 
+ 
+(2) The Court may make an order with respect to the 
+assessment of costs in the same manner as it may 
+in respect of any other matter before the Court. 
+ 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+(4) All costs payable to the Authority may be set off 
+by it against any compensation awarded or costs 
+payable to the claimant. 
+ 
+(5) All costs payable to the claimant may be 
+recovered by the claimant from the Authority in 
+the same manner as the compensation awarded. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+S. 91(2) 
+amended by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.13(a)). 
+S. 91(3) 
+amended by 
+No. 91/1994 
+s. 21(b)(d), 
+repealed by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.13(b)). 
+S. 92 
+amended by 
+No. 91/1994 
+s. 21(d), 
+repealed by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.14). 
+S. 93 
+amended by 
+No. 91/1994 
+s. 21(a), 
+repealed by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.14). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Determination of disputes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+84 
+  
+ 
+94 Payment of compensation 
+The sum awarded as compensation by the 
+Tribunal or the Court must be paid within one 
+month after the sum awarded has been 
+determined. 
+Division 4—General 
+ 
+ 
+ 
+95 Power to inspect land 
+In the exercise of any of its functions under this 
+Part, the Court has the power to inspect any land 
+and inform itself from official and other records 
+on any matter which will assist it in making its 
+determination. 
+ 
+96 Tribunal or Court to nominate valuer 
+ 
+ 
+ 
+(1) Upon application by the Authority to the Tribunal 
+or the Court and upon such proof as is satisfactory 
+that any person interested in land— 
+ 
+(a) is by reason of absence from Victoria 
+prevented from entering into negotiations 
+with the Authority; or 
+ 
+(b) cannot after diligent inquiry be found— 
+the Tribunal or the Court— 
+ 
+(c) must nominate a person who holds the 
+qualifications or experience specified under 
+section 13DA(2) of the Valuation of Land 
+Act 1960 to determine the amount of 
+compensation due to that person in respect of 
+that person's interest; or 
+S. 94 
+amended by 
+No. 91/1994 
+s. 21(a). 
+Pt 10 Div. 4 
+(Heading) 
+substituted by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.15). 
+S. 95 
+amended by 
+Nos 91/1994 
+s. 21(a), 
+52/1998 
+s. 311(Sch. 1 
+item 47.16). 
+S. 96 
+(Heading) 
+inserted by 
+No. 38/2017 
+s. 37(1). 
+S. 96(1) 
+amended by 
+No. 38/2017 
+s. 37(2). 
+S. 96(1)(c) 
+amended by 
+Nos 91/1994 
+s. 36(5)(b), 
+94/2009 
+s. 32(3). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Determination of disputes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+85 
+  
+ 
+(d) may make such order or give such other 
+directions as to the manner in which the 
+compensation is to be determined as it thinks 
+fit. 
+ 
+(2) The compensation must be determined in 
+accordance with this Act. 
+ 
+97 Valuer to make declaration 
+ 
+(1) Before a person who holds the qualifications or 
+experience specified under section 13DA(2) of the 
+Valuation of Land Act 1960 enters upon the 
+duties of making a valuation for the Tribunal or 
+the Court under section 96(1) the person who 
+holds the qualifications or experience specified 
+under section 13DA(2) of the Valuation of Land 
+Act 1960 must make and subscribe a statutory 
+declaration that the person who holds the 
+qualifications or experience specified under 
+section 13DA(2) of the Valuation of Land Act 
+1960 has no interest directly or indirectly in the 
+land in question and that the person who holds the 
+qualifications or experience specified under 
+section 13DA(2) of the Valuation of Land Act 
+1960 will personally make an impartial and true 
+valuation. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+(3) The nomination under section 96, and the 
+declaration under this section, must be annexed to 
+the valuation. 
+ 
+(4) All the expenses of and incidental to a valuation 
+under this section must be borne by the Authority. 
+S. 97(1) 
+amended by 
+Nos 91/1994 
+s. 36(5)(b), 
+94/2009 
+s. 32(4), 
+38/2017 s. 38. 
+S. 97(2) 
+repealed by 
+No. 6/2018 
+s. 68(Sch. 2 
+item 76). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Determination of disputes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+86 
+  
+ 
+98 Consequence of striking out a claim 
+If a proceeding under this Part in respect of a 
+disputed claim is dismissed or struck out by the 
+Tribunal or Court for want of prosecution, the 
+claimant is to be taken to have accepted the 
+amount of compensation offered by the Authority 
+immediately prior to the claim becoming a 
+disputed claim. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S. 98 
+amended by 
+No. 91/1994 
+s. 21(a), 
+substituted by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.17). 
+S. 99 
+amended by 
+No. 91/1994 
+s. 21(a)(d), 
+repealed by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.18). 
+S. 100 
+amended by 
+Nos 91/1994 
+s. 21(a),  
+66/1997 
+s. 9(4), 
+repealed by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.18). 
+S. 101 
+amended by 
+No. 91/1994 
+s. 21(a), 
+repealed by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.18). 
+Pt 10 Div. 5 
+(Heading and 
+s. 102) 
+amended by 
+No. 91/1994 
+ss 21(a)(b)(f), 
+23, 
+repealed by 
+No. 52/1998 
+s. 311(Sch. 1 
+item 47.18). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 11—Miscellaneous 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+87 
+  
+Part 11—Miscellaneous 
+ 
+103 Power to inspect documents 
+ 
+(1) The Authority may, by notice in writing served 
+upon any person, require the person to deliver up 
+for the inspection of the Authority any specified 
+document in the person's possession or power 
+evidencing the interest of any person in land 
+required for the purposes of the special Act or any 
+other specified record, account or document in the 
+person's possession or power relating to any such 
+land. 
+ 
+(2) A person who fails to comply with a notice served 
+under subsection (1) within the time specified in 
+the notice is guilty of an offence. 
+Penalty: 5 penalty units. 
+ 
+104 Service 
+ 
+(1) Any notice or other document which the Authority 
+is required to serve upon any person under this 
+Act may be served upon that person personally or 
+by post. 
+ 
+(2) If the whereabouts of a person upon whom the 
+Authority is required to serve the notice or 
+document is not known to the Authority, the 
+notice or document may be served— 
+ 
+(a) by publication of a copy thereof in a 
+newspaper circulating generally throughout 
+the State; and 
+ 
+(b) by affixing it in a prominent place on the 
+land to which it relates. 
+ 
+(3) A notice or other document may be served upon 
+the Authority by delivering or sending it by post 
+to the Authority at its office, or to the office of 
+such person as the Authority may authorize to 
+receive the notice or document on its behalf. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 11—Miscellaneous 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+88 
+  
+ 
+105 Minor misdescription not to invalidate documents 
+The validity of any notice or statement under this 
+Act is not affected by any misdescription in it of 
+the land or of any interest in the land if sufficient 
+information appears on the face of the notice or 
+statement to identify the land or interest intended 
+to be affected. 
+ 
+106 Extension or abridgement of time 
+ 
+(1) If it is provided in this Act that an act or thing 
+may be or is required to be done within a specified 
+time, or not before the expiration of a specified 
+time, and that provision is stated to be subject to 
+this subsection— 
+ 
+(a) the Governor in Council may abridge that 
+time; or 
+ 
+(b) the Minister, after consultation with the 
+Minister administering the special Act, may 
+extend that time; or 
+(c) that time may be extended or abridged by 
+agreement between the Authority and the 
+other party concerned in the matter; or 
+ 
+(d) in the case of sections 37(2) and 47(2) the 
+Court or the Tribunal may extend that time. 
+ 
+ 
+(2) The Court, Tribunal or Minister may extend time 
+under subsection (1) despite the fact that the time 
+prescribed by this Act for the doing of an act or 
+thing has expired. 
+ 
+107 Time not to expire until notice given 
+ 
+(1) Notwithstanding anything in any other section of 
+this Act, the time within which a person other than 
+the Authority is required to do anything under this 
+Act shall not expire until the expiration of seven 
+days after the Authority has advised that person in 
+writing of the effect of that expiration. 
+S. 106(1)(d) 
+amended by 
+No. 91/1994 
+s. 21(a). 
+S. 106(2) 
+amended by 
+No. 91/1994 
+s. 21(g). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 11—Miscellaneous 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+89 
+  
+ 
+(2) Subsection (1) shall not apply in relation to the 
+period within which a claim may be made under 
+section 37, 46 or 47. 
+ 
+108 Payments to be good discharge 
+All payments made by or on behalf of an 
+Authority under this Act are good and valid 
+discharges to the Authority and the Authority is 
+not bound to see to the application of any money 
+paid or to the performance of any trust. 
+ 
+109 Authority may dispose of acquired land 
+ 
+(1) The Authority may sell, lease or otherwise deal 
+with or dispose of any interest in land acquired or 
+purchased by it pursuant to this Act or the Acts 
+repealed by this Act. 
+ 
+(2) If the Authority proposes to dispose of any 
+interest in land pursuant to subsection (1) within 
+eighteen months after the date of acquisition of 
+that interest, the Authority must, if practicable, 
+first offer the interest for sale to the former owner 
+at the market value of the interest at the date of 
+acquisition. 
+ 
+(3) Subsection (2) does not apply if the Authority has, 
+since the date of acquisition or purchase, made 
+substantial improvements of a durable nature to 
+the land. 
+ 
+(4) A person contracting or otherwise dealing with the 
+Authority is under no obligation to inquire 
+whether the requirements of subsection (2) have 
+been complied with and the title of the person to 
+an interest in land purchased from the Authority is 
+not affected by any failure by the Authority to 
+comply with those requirements. 
+ 
+(5) The disposal of an interest in land pursuant to 
+subsection (1) may be made subject to the 
+reservation to the Authority of a specified interest 
+in the land, including an easement in gross over 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 11—Miscellaneous 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+90 
+  
+the land and a restriction in the use of the land the 
+benefit of which is not annexed to other land. 
+ 
+(6) In this section, the former owner, in relation to 
+land, means— 
+ 
+(a) if only one person had an interest in the land 
+at the date of acquisition and that person is 
+still alive, or, in the case of a corporation, in 
+existence—that person; or 
+ 
+(b) in any other case—such person or persons 
+(if any) as the Authority in its absolute 
+discretion, having regard to the interests that 
+existed in the land at the date of acquisition 
+or purchase, considers to be fairly entitled to 
+the benefit of subsection (2) in relation to the 
+land. 
+ 109A Supreme Court—Limitation of jurisdiction 
+ 
+(1) It is the intention of section 81, as amended by 
+section 34 of the Justice Legislation 
+Amendment (Court Security, Juries and Other 
+Matters) Act 2017, to alter or vary section 85 of 
+the Constitution Act 1975. 
+ 
+(2) It is the intention of section 84A to alter or vary 
+section 85 of the Constitution Act 1975. 
+ 
+110 Regulations 
+ 
+(1) The Governor in Council may make regulations 
+prescribing all matters which by this Act are 
+required or authorized to be prescribed or which 
+are necessary or convenient to be prescribed for 
+carrying out or giving effect to this Act. 
+ 
+(2) A regulation made under subsection (1) may 
+require that some or all of the particulars required 
+to be given in any prescribed form are to be 
+verified by statutory declaration or otherwise. 
+S. 190A 
+inserted by 
+No. 38/2017 
+s. 39. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 11—Miscellaneous 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+91 
+  
+ 
+111 Transitional provisions—Justice Legislation 
+Amendment (Court Security, Juries and Other 
+Matters) Act 2017 
+ 
+(1) Subject to subsection (2), section 81 as in force 
+immediately before its amendment by the Justice 
+Legislation Amendment (Court Security, Juries 
+and Other Matters) Act 2017 continues to apply, 
+on and after that amendment, to the hearing and 
+determination by the Tribunal or the Court, as the 
+case requires, of any disputed claim commenced 
+but not determined under section 81 before that 
+amendment.  
+ 
+(2) Section 84A applies to any disputed claim 
+commenced but not determined under section 81 
+irrespective of whether the claim was commenced 
+before, on or after the commencement of that 
+section. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ ═══════════════ 
+ 
+ 
+New s. 111 
+inserted by 
+No. 38/2017 
+s. 40. 
+Pt 12 
+(Heading and 
+ss 111–120) 
+repealed by 
+No. 91/1994 
+s. 39(2). 
+Sch.  
+amended by 
+Nos 123/1986 
+s. 81(a)(i)(ii) 
+(b)(i)–(iii)(c), 
+61/1988 
+s. 9(2), 
+65/1990 
+s. 4(2), 
+repealed by 
+No. 91/1994 
+s. 39(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+92 
+  
+Endnotes 
+1 General information 
+See www.legislation.vic.gov.au for Victorian Bills, Acts and current 
+authorised versions of legislation and up-to-date legislative information. 
+Minister's second reading speech— 
+Legislative Assembly: 8 May 1986 
+Legislative Council: 11 November 1986 
+The long title for the Bill for this Act was "A Bill to establish a new 
+procedure for the acquisition of land for public purposes, to provide for the 
+determination of compensation, and for other purposes.". 
+The Land Acquisition and Compensation Act 1986 was assented to on 
+23 December 1986 and came into operation on 29 November 1987: 
+Government Gazette 25 November 1987 page 3224. 
+INTERPRETATION OF LEGISLATION ACT 1984 (ILA) 
+Style changes 
+Section 54A of the ILA authorises the making of the style changes set out in 
+Schedule 1 to that Act. 
+References to ILA s. 39B 
+Sidenotes which cite ILA s. 39B refer to section 39B of the ILA which 
+provides that where an undivided section or clause of a Schedule is amended 
+by the insertion of one or more subsections or subclauses, the original section 
+or clause becomes subsection or subclause (1) and is amended by the 
+insertion of the expression "(1)" at the beginning of the original section or 
+clause. 
+Interpretation 
+As from 1 January 2001, amendments to section 36 of the ILA have the 
+following effects: 
+• 
+Headings 
+All headings included in an Act which is passed on or after 1 January 2001 
+form part of that Act.  Any heading inserted in an Act which was passed 
+before 1 January 2001, by an Act passed on or after 1 January 2001, forms 
+part of that Act.  This includes headings to Parts, Divisions or Subdivisions in 
+a Schedule; sections; clauses; items; tables; columns; examples; diagrams; 
+notes or forms.  See section 36(1A)(2A). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+93 
+  
+• 
+Examples, diagrams or notes 
+All examples, diagrams or notes included in an Act which is passed on or 
+after 1 January 2001 form part of that Act.  Any examples, diagrams or notes 
+inserted in an Act which was passed before 1 January 2001, by an Act passed 
+on or after 1 January 2001, form part of that Act.  See section 36(3A). 
+• 
+Punctuation 
+All punctuation included in an Act which is passed on or after 1 January 2001 
+forms part of that Act.  Any punctuation inserted in an Act which was passed 
+before 1 January 2001, by an Act passed on or after 1 January 2001, forms 
+part of that Act.  See section 36(3B). 
+• 
+Provision numbers 
+All provision numbers included in an Act form part of that Act, whether 
+inserted in the Act before, on or after 1 January 2001.  Provision numbers 
+include section numbers, subsection numbers, paragraphs and subparagraphs.  
+See section 36(3C). 
+• 
+Location of "legislative items" 
+A "legislative item" is a penalty, an example or a note.  As from 13 October 
+2004, a legislative item relating to a provision of an Act is taken to be at the 
+foot of that provision even if it is preceded or followed by another legislative 
+item that relates to that provision.  For example, if a penalty at the foot of a 
+provision is followed by a note, both of these legislative items will be 
+regarded as being at the foot of that provision.  See section 36B. 
+• 
+Other material 
+Any explanatory memorandum, table of provisions, endnotes, index and 
+other material printed after the Endnotes does not form part of an Act.   
+See section 36(3)(3D)(3E). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+94 
+  
+2 Table of Amendments 
+This publication incorporates amendments made to the Land Acquisition 
+and Compensation Act 1986 by Acts and subordinate instruments. 
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+Port Authorities (Amendment) Act 1986, No. 123/1986 
+Assent Date: 
+23.12.86 
+Commencement Date: 
+S. 31 on 19.12.78: s. 2(2); rest of Act on 23.12.86: 
+Government Gazette 23.12.86 p. 4775 
+Current State: 
+All of Act in operation 
+Planning and Environment Act 1987, No. 45/1987 (as amended by No. 5/1988) 
+Assent Date: 
+27.5.87 
+Commencement Date: 
+Pt 1, s. 204 on 27.5.87: s. 2(1); rest of Act on 16.2.88: 
+Government Gazette 10.2.88 p. 218; Sch. items 118, 
+119 were never proclaimed and were later repealed 
+Current State: 
+All of Act in operation 
+Subdivision Act 1988, No. 53/1988 (as amended by No. 47/1989) 
+Assent Date: 
+31.5.88 
+Commencement Date: 
+All of Act on 30.10.89: Government Gazette 4.10.89 
+p. 2532 
+Current State: 
+All of Act in operation 
+Melbourne College of Advanced Education (Amalgamation) Act 1988, 
+No. 61/1988 
+Assent Date: 
+29.11.88 
+Commencement Date: 
+1.1.89: s. 2 
+Current State: 
+All of Act in operation 
+Transfer of Land (Computer Register) Act 1989, No. 18/1989 
+Assent Date: 
+16.5.89 
+Commencement Date: 
+All of Act on 3.2.92: Government Gazette 18.12.91 
+p. 3488 
+Current State: 
+All of Act in operation 
+Magistrates' Court (Consequential Amendments) Act 1989, No. 57/1989 
+Assent Date: 
+14.6.89 
+Commencement Date: 
+S. 4(1)(a)–(e)(2) on 1.9.89: Government Gazette 
+30.8.89 p. 2210; rest of Act on 1.9.90: Government 
+Gazette 25.7.90 p. 2217 
+Current State: 
+All of Act in operation 
+Victorian Public Offices Corporation (Repeal) Act 1990, No. 65/1990 
+Assent Date: 
+20.11.90 
+Commencement Date: 
+20.11.90: s. 2 
+Current State: 
+All of Act in operation 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+95 
+  
+Mineral Resources Development Act 1990, No. 92/1990 
+Assent Date: 
+18.12.90 
+Commencement Date: 
+S. 128(Sch. 1 items 14.1, 14.2) on 6.11.91: 
+Government Gazette 30.10.91 p. 2970 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Building Act 1993, No. 126/1993 
+Assent Date: 
+14.12.93 
+Commencement Date: 
+S. 264(Sch. 5 items 12.1–12.3) on 1.7.94: Special 
+Gazette (No. 42) 1.7.94 p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Financial Management Act 1994, No. 18/1994 
+Assent Date: 
+10.5.94 
+Commencement Date: 
+Pt 1 (ss 1–8), ss 60, 61 on 10.5.94: s. 2(1); rest of Act 
+on 1.7.94: s. 2(2) 
+Current State: 
+All of Act in operation 
+Valuation of Land (Amendment) Act 1994, No. 91/1994 
+Assent Date: 
+6.12.94 
+Commencement Date: 
+Pt 1 (ss 1, 2), ss 5–9, 38, 39 on 6.12.94: s. 2(1); ss 3, 
+36, 37 on 1.1.95: s. 2(2); ss 4, 35 on 1.10.94: s. 2(3); 
+Pt 3 (ss 10–34) on 23.1.95: Government Gazette 
+19.1.95 p. 121 
+Current State: 
+All of Act in operation 
+Docklands Authority (Amendment) Act 1997, No. 66/1997 
+Assent Date: 
+18.11.97 
+Commencement Date: 
+18.11.97 
+Current State: 
+All of Act in operation 
+Planning and Environment (Amendment) Act 1997, No. 103/1997 
+Assent Date: 
+16.12.97 
+Commencement Date: 
+16.12.97 
+Current State: 
+All of Act in operation 
+Residential Tenancies Act 1997, No. 109/1997 
+Assent Date: 
+23.12.97 
+Commencement Date: 
+S. 533(Sch. 2 item 5) on 1.7.98: Government Gazette 
+18.6.98 p. 1512 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Public Sector Reform (Miscellaneous Amendments) Act 1998, No. 46/1998 
+Assent Date: 
+26.5.98 
+Commencement Date: 
+S. 7(Sch. 1) on 1.7.98: s. 2(2) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+96 
+  
+Tribunals and Licensing Authorities (Miscellaneous Amendments) Act 1998, 
+No. 52/1998 (as amended by No. 101/1998) 
+Assent Date: 
+2.6.98 
+Commencement Date: 
+S. 311(Sch. 1 item 47) on 1.7.98: Government Gazette 
+18.6.98 p. 1512 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Transfer of Land (Single Register) Act 1998, No. 85/1998 
+Assent Date: 
+17.11.98 
+Commencement Date: 
+S. 24(Sch. item 36) on 1.1.99: s. 2(3) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Statute Law Amendment (Relationships) Act 2001, No. 27/2001 
+Assent Date: 
+12.6.01 
+Commencement Date: 
+S. 3(Sch. 1 item 5) on 28.6.01: Government Gazette 
+28.6.01 p. 1428 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Mineral Resources Development (Sustainable Development) Act 2006, 
+No. 63/2006 
+Assent Date: 
+29.8.06 
+Commencement Date: 
+S. 61(Sch. item 18) on 30.8.06: s. 2(1) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Road Legislation (Projects and Road Safety) Act 2006, No. 81/2006 
+Assent Date: 
+10.10.06 
+Commencement Date: 
+S. 59 on 11.10.06: s. 2(1) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Relationships Act 2008, No. 12/2008 
+Assent Date: 
+15.4.08 
+Commencement Date: 
+S. 73(1)(Sch. 1 item 32) on 1.12.08: s. 2(2) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Courts Legislation Amendment (Associate Judges) Act 2008, No. 24/2008 
+Assent Date: 
+3.6.08 
+Commencement Date: 
+S. 83 on 17.12.08: Special Gazette (No. 377) 16.12.08 
+p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+97 
+  
+Courts Legislation Amendment (Costs Court and Other Matters) Act 2008, 
+No. 78/2008 
+Assent Date: 
+11.12.08 
+Commencement Date: 
+S. 27 on 31.12.09: s. 2(3) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Justice Legislation Miscellaneous Amendments Act 2009, No. 87/2009 
+Assent Date: 
+15.12.09 
+Commencement Date: 
+S. 29 on 16.12.09: s. 2(1) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Valuation of Land Amendment Act 2009, No. 94/2009 
+Assent Date: 
+15.12.09 
+Commencement Date: 
+S. 32 on 1.5.10: s. 2(2) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Transport Integration Act 2010, No. 6/2010 
+Assent Date: 
+2.3.10 
+Commencement Date: 
+S. 204(2) on 1.7.10: Special Gazette (No. 256) 30.6.10 
+p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Statute Law Revision Act 2011, No. 29/2011 
+Assent Date: 
+21.6.11 
+Commencement Date: 
+S. 3(Sch. 1 item 49) on 22.6.11: s. 2(1) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Planning and Environment Amendment (Growth Areas Infrastructure 
+Contribution) Act 2011, No. 31/2011 
+Assent Date: 
+29.6.11 
+Commencement Date: 
+S. 28 on 30.6.11: s. 2(1) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Courts Legislation Miscellaneous Amendments Act 2014, No. 62/2014 
+Assent Date: 
+9.9.14 
+Commencement Date: 
+S. 17 on 10.11.14: Special Gazette (No. 364) 14.10.14 
+p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+98 
+  
+Justice Legislation Amendment (Court Security, Juries and Other Matters) 
+Act 2017, No. 38/2017 
+Assent Date: 
+29.8.17 
+Commencement Date: 
+Ss 34–40 on 1.5.18: s. 2(4) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Oaths and Affirmations Act 2018, No. 6/2018 
+Assent Date: 
+27.2.18 
+Commencement Date: 
+S. 68(Sch. 2 item 76) on 1.3.19: s. 2(2) 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+Transport Legislation Amendment Act 2019, No. 49/2019 
+Assent Date: 
+3.12.19 
+Commencement Date: 
+S. 186(Sch. 4 item 23) on 1.1.20: Special Gazette 
+(No. 514) 10.12.19 p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Land Acquisition and Compensation 
+Act 1986 
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+99 
+  
+3 Amendments Not in Operation 
+There are no amendments which were Not in Operation at the date of this 
+publication. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Land Acquisition and Compensation Act 1986 
+No. 121 of 1986 
+100 
+  
+4 Explanatory details 
+No entries at date of publication. 
+ 
+
+--------------------------------------------------------------------------------

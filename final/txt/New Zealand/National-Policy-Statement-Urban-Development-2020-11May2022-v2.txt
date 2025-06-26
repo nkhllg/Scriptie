@@ -1,0 +1,1697 @@
+ 
+ 
+[IN-CONFIDENCE]
+[IN-CONFIDENCE]
+ 
+
+--------------------------------------------------------------------------------
+ 
+2 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+This National Policy Statement was approved by the Governor-General under section 52(2) 
+of the Resource Management Act 1991 on 20 July 2020, and is published by the Minister for 
+the Environment under section 54 of that Act. 
+This National Policy Statement replaces the National Policy Statement on Urban Development 
+Capacity 2016.  
+This version of the National Policy Statement incorporates the following amendments: 
+1. amendments made by section 77S(1) of the Resource Management Act 1991 (as 
+inserted by the Resource Management (Enabling Housing Supply and Other Matters) 
+Amendment Act 2021) 
+2. amendments made by the Minister for the Environment under section 53(2) of the 
+Resource Management Act 1991 and notified in the New Zealand Gazette on 11 May 
+2022 as the National Policy Statement on Urban Development 2020 Amendment No 1. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+3 
+Contents 
+Part 1: Preliminary provisions 
+5 
+1.1 
+Title 
+5 
+1.2 
+Commencement 
+5 
+1.3 
+Application 
+5 
+1.4 
+Definitions 
+5 
+1.5 
+Implementation by tier 3 local authorities 
+9 
+1.6 
+Incorporation by reference 
+9 
+Part 2: Objectives and policies 
+10 
+2.1 
+Objectives 
+10 
+2.2 
+Policies 
+10 
+Part 3: Implementation 
+14 
+3.1 
+Outline of part 
+14 
+Subpart 1 – Providing development capacity 
+14 
+3.2 
+Sufficient development capacity for housing 
+14 
+3.3 
+Sufficient development capacity for business land 
+14 
+3.4 
+Meaning of plan-enabled and infrastructure-ready 
+15 
+3.5 
+Availability of additional infrastructure 
+15 
+3.6 
+Housing bottom lines for tier 1 and 2 urban environments 
+15 
+3.7 
+When there is insufficient development capacity 
+16 
+Subpart 2 – Responsive planning 
+16 
+3.8 
+Unanticipated or out-of-sequence developments 
+16 
+Subpart 3 – Evidence-based decision-making 
+17 
+3.9 
+Monitoring requirements 
+17 
+3.10 Assessing demand and development capacity 
+17 
+3.11 Using evidence and analysis 
+18 
+Subpart 4 – Future Development Strategy (FDS) 
+18 
+3.12 Preparation of FDS 
+18 
+3.13 Purpose and content of FDS 
+18 
+3.14 What FDSs are informed by 
+19 
+3.15 Consultation and engagement 
+19 
+3.16 Review of FDS 
+20 
+3.17 Effect of FDS 
+20 
+3.18 FDS implementation plan 
+20 
+
+--------------------------------------------------------------------------------
+ 
+4 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+Subpart 5 – Housing and Business Development Capacity Assessment (HBA) 
+21 
+3.19 Obligation to prepare HBA 
+21 
+3.20 Purpose of HBA 
+21 
+3.21 Involving development sector and others 
+21 
+3.22 Competitiveness margin 
+22 
+3.23 Analysis of housing market and impact of planning 
+22 
+3.24 Housing demand assessment 
+22 
+3.25 Housing development capacity assessment 
+23 
+3.26 Estimating what is feasible and reasonably expected to be realised 
+23 
+3.27 Assessment of sufficient development capacity for housing 
+24 
+3.28 Business land demand assessment 
+24 
+3.29 Business land development capacity assessment 
+25 
+3.30 Assessment of sufficient development capacity for business land 
+25 
+Subpart 6 – Intensification in tier 1 urban environments 
+26 
+3.31 Tier 1 territorial authorities implementing intensification policies 
+26 
+3.32 Qualifying matters 
+26 
+3.33 Requirements if qualifying matter applies 
+27 
+3.34 Effects on consideration of resource consents 
+27 
+Subpart 7 – Development outcomes for zones 
+27 
+3.35 Development outcomes for zones 
+27 
+3.36 Development outcomes consistent with intensification policies 
+28 
+3.37 Monitoring development outcomes 
+28 
+Subpart 8 – Car parking 
+28 
+3.38 Car parking 
+28 
+Part 4: Timing 
+30 
+4.1 
+Timeframes for implementation 
+30 
+Appendix: Tier 1 and tier 2 urban environments and local authorities 
+31 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+5 
+Part 1: Preliminary provisions 
+1.1 
+Title 
+ 
+This is the National Policy Statement on Urban Development 2020.  
+1.2 
+Commencement 
+ 
+This National Policy Statement comes into force on 20 August 2020. 
+ 
+See Part 4, which sets out timeframes for complying with different parts of this National 
+Policy Statement. 
+1.3 
+Application 
+ 
+This National Policy Statement applies to: 
+ 
+all local authorities that have all or part of an urban environment within their 
+district or region (ie, tier 1, 2 and 3 local authorities); and 
+ 
+planning decisions by any local authority that affect an urban environment. 
+ 
+However, some objectives, policies, and provisions in Parts 3 and 4 apply only to tier 1, 
+2, or 3 local authorities. 
+1.4 
+Interpretation 
+ 
+In this National Policy Statement: 
+accessible car park means a car park designed and marked (for instance, in accordance with 
+the mobility car parking scheme) for use by persons with a disability or with limited mobility 
+Act means the Resource Management Act 1991 
+active transport means forms of transport that involve physical exercise, such as walking or 
+cycling, and includes transport that may use a mobility aid such as a wheelchair 
+additional infrastructure means:  
+ 
+public open space 
+ 
+community infrastructure as defined in section 197 of the Local Government 
+Act 2002 
+ 
+land transport (as defined in the Land Transport Management Act 2003) that is 
+not controlled by local authorities  
+ 
+social infrastructure, such as schools and healthcare facilities 
+ 
+a network operated for the purpose of telecommunications (as defined in 
+section 5 of the Telecommunications Act 2001) 
+ 
+a network operated for the purpose of transmitting or distributing electricity 
+or gas 
+business land means land that is zoned, or identified in an FDS or similar strategy or plan, 
+for business uses in urban environments, including but not limited to land in the following: 
+
+--------------------------------------------------------------------------------
+ 
+6 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+ 
+any industrial zone 
+ 
+the commercial zone 
+ 
+the large format retail zone 
+ 
+any centre zone, to the extent it allows business uses 
+ 
+the mixed use zone, to the extent it allows business uses 
+ 
+any special purpose zone, to the extent it allows business uses 
+centre zone means any of the following zones: 
+ 
+city centre zone 
+ 
+metropolitan centre zone 
+ 
+town centre zone 
+ 
+local centre zone 
+ 
+neighbourhood centre zone 
+commencement date means the date on which this National Policy Statement comes into 
+force (see clause 1.2) 
+community services means the following: 
+ 
+community facilities 
+ 
+educational facilities 
+ 
+those commercial activities that serve the needs of the community 
+competitiveness margin means the margin referred to in clause 3.22 
+decision-maker means any person exercising functions or powers under the Act 
+development capacity means the capacity of land to be developed for housing or for business 
+use, based on: 
+ 
+the zoning, objectives, policies, rules, and overlays that apply in the relevant 
+proposed and operative RMA planning documents; and 
+ 
+the provision of adequate development infrastructure to support the 
+development of land for housing or business use 
+development infrastructure means the following, to the extent they are controlled by a local 
+authority or council controlled organisation (as defined in section 6 of the Local Government 
+Act 2002): 
+ 
+network infrastructure for water supply, wastewater, or stormwater 
+ 
+land transport (as defined in section 5 of the Land Transport Management Act 
+2003) 
+FDS means the Future Development Strategy required by subpart 4 of Part 3 
+feasible means: 
+ 
+for the short term or medium term, commercially viable to a developer based on 
+the current relationship between costs and revenue 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+7 
+ 
+for the long term, commercially viable to a developer based on the current 
+relationship between costs and revenue, or on any reasonable adjustment 
+to that relationship  
+HBA means the Housing and Business Development Capacity Assessment required by 
+subpart 5 of Part 3 
+infrastructure-ready has the meaning in clause 3.4(3) 
+long term means between 10 and 30 years 
+long-term plan means a long-term plan (including the infrastructure strategy required to be 
+included in it) adopted by a local authority under section 93 of the Local Government Act 2002 
+medium term means between 3 and 10 years 
+nationally significant infrastructure means all of the following:  
+ 
+State highways 
+ 
+the national grid electricity transmission network 
+ 
+renewable electricity generation facilities that connect with the national grid 
+ 
+the high-pressure gas transmission pipeline network operating in the North Island 
+ 
+the refinery pipeline between Marsden Point and Wiri  
+ 
+the New Zealand rail network (including light rail) 
+ 
+rapid transit services (as defined in this clause) 
+ 
+any airport (but not its ancillary commercial activities) used for regular air 
+transport services by aeroplanes capable of carrying more than 30 passengers 
+ 
+the port facilities (but not the facilities of any ancillary commercial activities) of 
+each port company referred to in item 6 of Part A of Schedule 1 of the Civil 
+Defence Emergency Management Act 2002 
+planned in relation to forms or features of transport, means planned in a regional land 
+transport plan prepared and approved under the Land Transport Management Act 2003 
+plan-enabled has the meaning in clause 3.4(1) 
+planning decision means a decision on any of the following:  
+ 
+a regional policy statement or proposed regional policy statement  
+ 
+a regional plan or proposed regional plan 
+ 
+a district plan or proposed district plan 
+ 
+a resource consent 
+ 
+a designation 
+ 
+a heritage order 
+ 
+a water conservation order 
+ 
+a change to a plan requested under Part 2 of Schedule 1 of the Act 
+public transport means any existing or planned service for the carriage of passengers 
+(other than an aeroplane) that is available to the public generally by means of: 
+ 
+a vehicle designed or adapted to carry more than 12 persons (including 
+the driver); or 
+ 
+a rail vehicle; or 
+
+--------------------------------------------------------------------------------
+ 
+8 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+ 
+a ferry 
+qualifying matter has the meaning in clause 3.32 
+rapid transit service means any existing or planned frequent, quick, reliable and high-capacity 
+public transport service that operates on a permanent route (road or rail) that is largely 
+separated from other traffic 
+rapid transit stop means a place where people can enter or exit a rapid transit service, 
+whether existing or planned 
+RMA planning document means all or any of the following:  
+ 
+a regional policy statement  
+ 
+a regional plan  
+ 
+a district plan  
+short-medium term means within the next 10 years 
+short term means within the next 3 years 
+tier 1 local authority means each local authority listed in column 2 of table 1 in the Appendix, 
+and tier 1 regional council and tier 1 territorial authority have corresponding meanings 
+tier 2 local authority means each local authority listed in column 2 of table 2 in the Appendix, 
+and tier 2 regional council and tier 2 territorial authority have corresponding meanings 
+tier 3 local authority means a local authority that has all or part of an urban environment 
+within its region or district, but is not a tier 1 or 2 local authority, and tier 3 regional council 
+and tier 3 territorial authority have corresponding meanings 
+tier 1 urban environment means an urban environment listed in column 1 of table 1 in 
+the Appendix  
+tier 2 urban environment means an urban environment listed in column 1 of table 2 in 
+the Appendix 
+tier 3 urban environment means an urban environment that is not listed in the Appendix 
+urban environment means any area of land (regardless of size, and irrespective of local 
+authority or statistical boundaries) that: 
+ 
+is, or is intended to be, predominantly urban in character; and 
+ 
+is, or is intended to be, part of a housing and labour market of at least 
+10,000 people  
+well-functioning urban environment has the meaning in Policy 1. 
+ 
+Terms defined in the Act and used in this National Policy Statement have the meanings 
+in the Act, unless otherwise specified. 
+ 
+Terms defined in the National Planning Standard issued under section 58E of the Act 
+and used in this National Policy Statement have the meanings in that Standard, unless 
+otherwise specified. 
+ 
+A reference in this National Policy Statement to a zone is: 
+ 
+a reference to that zone as described in Standard 8 (Zone Framework Standard) 
+of the National Planning Standard; or 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+9 
+ 
+a reference to the nearest equivalent zone, in relation to local authorities 
+that have not yet implemented the Zone Framework in the National 
+Planning Standard.  
+ 
+If a local authority is required by this National Policy Statement to make a document 
+publicly available, section 5(3) of the Local Government Act 2002 applies to the 
+requirement as if it was made under that Act. 
+1.5 
+Implementation by tier 3 local authorities 
+ 
+Tier 3 local authorities are strongly encouraged to do the things that tier 1 or 2 local 
+authorities are obliged to do under Parts 2 and 3 of this National Policy Statement, 
+adopting whatever modifications to the National Policy Statement are necessary or 
+helpful to enable them to do so. 
+1.6 
+Incorporation by reference 
+ 
+Clause 2(1) of Schedule 1AA of the Act does not apply to any material incorporated by 
+reference in this National Policy Statement. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+10 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+Part 2: Objectives and policies 
+2.1 
+Objectives 
+Objective 1: New Zealand has well-functioning urban environments that enable all people and 
+communities to provide for their social, economic, and cultural wellbeing, and for their health 
+and safety, now and into the future. 
+Objective 2: Planning decisions improve housing affordability by supporting competitive land 
+and development markets. 
+Objective 3: Regional policy statements and district plans enable more people to live in, and 
+more businesses and community services to be located in, areas of an urban environment in 
+which one or more of the following apply: 
+ 
+the area is in or near a centre zone or other area with many employment 
+opportunities 
+ 
+the area is well-serviced by existing or planned public transport  
+ 
+there is high demand for housing or for business land in the area, relative 
+to other areas within the urban environment.  
+Objective 4: New Zealand’s urban environments, including their amenity values, develop 
+and change over time in response to the diverse and changing needs of people, communities, 
+and future generations. 
+Objective 5: Planning decisions relating to urban environments, and FDSs, take into 
+account the principles of the Treaty of Waitangi (Te Tiriti o Waitangi). 
+Objective 6: Local authority decisions on urban development that affect urban 
+environments are: 
+ 
+integrated with infrastructure planning and funding decisions; and 
+ 
+strategic over the medium term and long term; and 
+ 
+responsive, particularly in relation to proposals that would supply significant 
+development capacity. 
+Objective 7: Local authorities have robust and frequently updated information about their 
+urban environments and use it to inform planning decisions. 
+Objective 8: New Zealand’s urban environments: 
+ 
+support reductions in greenhouse gas emissions; and 
+ 
+are resilient to the current and future effects of climate change. 
+2.2 
+Policies 
+Policy 1: Planning decisions contribute to well-functioning urban environments, which are 
+urban environments that, as a minimum: 
+ 
+have or enable a variety of homes that: 
+(i) 
+meet the needs, in terms of type, price, and location, of different 
+households; and 
+(ii) 
+enable Māori to express their cultural traditions and norms; and 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+11 
+ 
+have or enable a variety of sites that are suitable for different business sectors 
+in terms of location and site size; and 
+ 
+have good accessibility for all people between housing, jobs, community 
+services, natural spaces, and open spaces, including by way of public or active 
+transport; and 
+ 
+support, and limit as much as possible adverse impacts on, the competitive 
+operation of land and development markets; and 
+ 
+support reductions in greenhouse gas emissions; and 
+ 
+are resilient to the likely current and future effects of climate change. 
+Policy 2: Tier 1, 2, and 3 local authorities, at all times, provide at least sufficient development 
+capacity to meet expected demand for housing and for business land over the short term, 
+medium term, and long term.  
+Policy 3: In relation to tier 1 urban environments, regional policy statements and district 
+plans enable: 
+ 
+in city centre zones, building heights and density of urban form to realise as much 
+development capacity as possible, to maximise benefits of intensification; and 
+ 
+in metropolitan centre zones, building heights and density of urban form to reflect 
+demand for housing and business use in those locations, and in all cases building 
+heights of at least 6 storeys; and 
+ 
+building heights of at least 6 storeys within at least a walkable catchment of the 
+following: 
+(i) 
+existing and planned rapid transit stops 
+(ii) 
+the edge of city centre zones 
+(iii) 
+the edge of metropolitan centre zones; and 
+ 
+within and adjacent to neighbourhood centre zones, local centre zones, and town 
+centre zones (or equivalent), building heights and densities of urban form 
+commensurate with the level of commercial activity and community services. 
+Policy 4: Regional policy statements and district plans applying to tier 1 urban environments 
+modify the relevant building height or density requirements under Policy 3 only to the extent 
+necessary (as specified in subpart 6) to accommodate a qualifying matter in that area.  
+Policy 5: Regional policy statements and district plans applying to tier 2 and 3 urban 
+environments enable heights and density of urban form commensurate with the greater of:  
+ 
+the level of accessibility by existing or planned active or public transport to a 
+range of commercial activities and community services; or 
+ 
+relative demand for housing and business use in that location. 
+Policy 6: When making planning decisions that affect urban environments, decision-makers 
+have particular regard to the following matters: 
+ 
+the planned urban built form anticipated by those RMA planning documents that 
+have given effect to this National Policy Statement  
+ 
+that the planned urban built form in those RMA planning documents may involve 
+significant changes to an area, and those changes: 
+
+--------------------------------------------------------------------------------
+ 
+12 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+(i) 
+may detract from amenity values appreciated by some people but improve 
+amenity values appreciated by other people, communities, and future 
+generations, including by providing increased and varied housing densities 
+and types; and 
+(ii) 
+are not, of themselves, an adverse effect 
+ 
+the benefits of urban development that are consistent with well-functioning 
+urban environments (as described in Policy 1) 
+ 
+any relevant contribution that will be made to meeting the requirements of this 
+National Policy Statement to provide or realise development capacity 
+ 
+the likely current and future effects of climate change. 
+Policy 7: Tier 1 and 2 local authorities set housing bottom lines for the short-medium term and 
+the long term in their regional policy statements and district plans. 
+Policy 8: Local authority decisions affecting urban environments are responsive to plan 
+changes that would add significantly to development capacity and contribute to well-
+functioning urban environments, even if the development capacity is:  
+ 
+unanticipated by RMA planning documents; or 
+ 
+out-of-sequence with planned land release. 
+Policy 9: Local authorities, in taking account of the principles of the Treaty of Waitangi 
+(Te Tiriti o Waitangi) in relation to urban environments, must: 
+ 
+involve hapū and iwi in the preparation of RMA planning documents and any 
+FDSs by undertaking effective consultation that is early, meaningful and, as far 
+as practicable, in accordance with tikanga Māori; and 
+ 
+when preparing RMA planning documents and FDSs, take into account the 
+values and aspirations of hapū and iwi for urban development; and 
+ 
+provide opportunities in appropriate circumstances for Māori involvement in 
+decision-making on resource consents, designations, heritage orders, and water 
+conservation orders, including in relation to sites of significance to Māori and 
+issues of cultural significance; and 
+ 
+operate in a way that is consistent with iwi participation legislation. 
+Policy 10: Tier 1, 2, and 3 local authorities: 
+ 
+that share jurisdiction over urban environments work together when 
+implementing this National Policy Statement; and 
+ 
+engage with providers of development infrastructure and additional infrastructure 
+to achieve integrated land use and infrastructure planning; and 
+ 
+engage with the development sector to identify significant opportunities for 
+urban development. 
+Policy 11: In relation to car parking: 
+ 
+the district plans of tier 1, 2, and 3 territorial authorities do not set minimum 
+car parking rate requirements, other than for accessible car parks; and 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+13 
+ 
+tier 1, 2, and 3 local authorities are strongly encouraged to manage effects 
+associated with the supply and demand of car parking through comprehensive 
+parking management plans. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+14 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+Part 3: Implementation 
+3.1 
+Outline of part  
+ 
+This part sets out a non-exhaustive list of things that local authorities must do to give 
+effect to the objectives and policies of this National Policy Statement, but nothing in 
+this part limits the general obligation under the Act to give effect to those objectives 
+and policies.  
+Subpart 1 – Providing development capacity  
+3.2 
+Sufficient development capacity for housing  
+ 
+Every tier 1, 2, and 3 local authority must provide at least sufficient development 
+capacity in its region or district to meet expected demand for housing: 
+ 
+in existing and new urban areas; and 
+ 
+for both standalone dwellings and attached dwellings; and 
+ 
+in the short term, medium term, and long term. 
+ 
+In order to be sufficient to meet expected demand for housing, the development 
+capacity must be: 
+ 
+plan-enabled (see clause 3.4(1)); and 
+ 
+infrastructure-ready (see clause 3.4(3)); and 
+ 
+feasible and reasonably expected to be realised (see clause 3.26); and 
+ 
+for tier 1 and 2 local authorities only, meet the expected demand plus the 
+appropriate competitiveness margin (see clause 3.22).  
+3.3 
+Sufficient development capacity for business land 
+ 
+Every tier 1, 2, and 3 local authority must provide at least sufficient development 
+capacity in its region or district to meet the expected demand for business land: 
+ 
+from different business sectors; and 
+ 
+in the short term, medium term, and long term. 
+ 
+In order to be sufficient to meet expected demand for business land, the development 
+capacity provided must be: 
+ 
+plan-enabled (see clause 3.4(1)); and 
+ 
+infrastructure-ready (see clause 3.4(3)); and 
+ 
+suitable (as described in clause 3.29(2)) to meet the demands of different 
+business sectors (as described in clause 3.28(3)); and 
+ 
+for tier 1 and 2 local authorities only, meet the expected demand plus the 
+appropriate competitiveness margin (see clause 3.22). 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+15 
+3.4 
+Meaning of plan-enabled and infrastructure-ready 
+ 
+Development capacity is plan-enabled for housing or for business land if: 
+ 
+in relation to the short term, it is on land that is zoned for housing or for business 
+use (as applicable) in an operative district plan 
+ 
+in relation to the medium term, either paragraph (a) applies, or it is on land that is 
+zoned for housing or for business use (as applicable) in a proposed district plan 
+ 
+in relation to the long term, either paragraph (b) applies, or it is on land identified 
+by the local authority for future urban use or urban intensification in an FDS or, 
+if the local authority is not required to have an FDS, any other relevant plan 
+or strategy.  
+ 
+For the purpose of subclause (1), land is zoned for housing or for business use (as 
+applicable) only if the housing or business use is a permitted, controlled, or restricted 
+discretionary activity on that land. 
+ 
+Development capacity is infrastructure-ready if: 
+ 
+in relation to the short term, there is adequate existing development 
+infrastructure to support the development of the land 
+ 
+in relation to the medium term, either paragraph (a) applies, or funding for 
+adequate development infrastructure to support development of the land is 
+identified in a long-term plan 
+ 
+in relation to the long term, either paragraph (b) applies, or the development 
+infrastructure to support the development capacity is identified in the local 
+authority’s infrastructure strategy (as required as part of its long-term plan).  
+3.5 
+Availability of additional infrastructure 
+ 
+Local authorities must be satisfied that the additional infrastructure to service the 
+development capacity is likely to be available. 
+3.6 
+Housing bottom lines for tier 1 and 2 urban environments 
+ 
+The purpose of the housing bottom lines required by this clause is to clearly state the 
+amount of development capacity that is sufficient to meet expected housing demand 
+plus the appropriate competitiveness margin in the region and each constituent district 
+of a tier 1 or tier 2 urban environment.  
+ 
+For each tier 1 or tier 2 urban environment, as soon as practicable after an HBA is made 
+publicly available (see clause 3.19(1)): 
+ 
+the relevant regional council must insert into its regional policy statement: 
+(i) 
+a housing bottom line for the short-medium term; and 
+(ii) 
+a housing bottom line for the long term; and 
+ 
+every relevant territorial authority must insert into its district plan: 
+(i) 
+a housing bottom line for the short-medium term that is the proportion 
+of the housing bottom line for the short-medium term (as set out in the 
+relevant regional policy statement) that is attributable to the district 
+of the territorial authority; and 
+
+--------------------------------------------------------------------------------
+ 
+16 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+(ii) 
+a housing bottom line for the long term that is the proportion of the 
+housing bottom line for the long term (as set out in the relevant 
+regional policy statement) that is attributable to the district of the 
+territorial authority. 
+ 
+The housing bottom lines must be based on information in the most recent publicly 
+available HBA for the urban environment and are: 
+ 
+for the short-medium term, the sum of: 
+(i) 
+the amount of feasible, reasonably expected to be realised development 
+capacity that must be enabled to meet demand, along with the 
+competitiveness margin, for the short term; and 
+(ii) 
+the amount of feasible, reasonably expected to be realised development 
+capacity that must enabled to meet demand, along with the 
+competitiveness margin, for the medium term; and 
+ 
+for the long term, the amount of feasible, reasonably expected to be realised 
+development capacity that must enabled to meet demand, along with the 
+competitiveness margin, for the long term. 
+ 
+The insertion of bottom lines must be done without using a process in Schedule 1 of the 
+Act, but any changes to RMA planning documents required to give effect to the bottom 
+lines must be made using a Schedule 1 process. 
+3.7 
+When there is insufficient development capacity 
+ 
+If a local authority determines that there is insufficient development capacity 
+(as described in clauses 3.2 and 3.3) over the short term, medium term, or long 
+term, it must:  
+ 
+immediately notify the Minister for the Environment; and 
+ 
+if the insufficiency is wholly or partly a result of RMA planning documents, change 
+those documents to increase development capacity for housing or business land 
+(as applicable) as soon as practicable, and update any other relevant plan or 
+strategy (including any FDS, as required by subpart 4); and 
+ 
+consider other options for: 
+(i) 
+increasing development capacity; and 
+(ii) 
+otherwise enabling development.  
+Subpart 2 – Responsive planning 
+3.8 
+Unanticipated or out-of-sequence developments 
+ 
+This clause applies to a plan change that provides significant development capacity that 
+is not otherwise enabled in a plan or is not in sequence with planned land release. 
+ 
+Every local authority must have particular regard to the development capacity provided 
+by the plan change if that development capacity: 
+ 
+would contribute to a well-functioning urban environment; and 
+ 
+is well-connected along transport corridors; and 
+ 
+meets the criteria set under subclause (3). 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+17 
+ 
+Every regional council must include criteria in its regional policy statement for 
+determining what plan changes will be treated, for the purpose of implementing 
+Policy 8, as adding significantly to development capacity.  
+Subpart 3 – Evidence-based decision-making 
+3.9 
+Monitoring requirements 
+ 
+Every tier 1, 2, and 3 local authority must monitor, quarterly, the following in relation to 
+each urban environment in their region or district: 
+ 
+the demand for dwellings 
+ 
+the supply of dwellings 
+ 
+prices of, and rents for, dwellings 
+ 
+housing affordability  
+ 
+the proportion of housing development capacity that has been realised: 
+(i) 
+in previously urbanised areas (such as through infill housing or 
+redevelopment); and 
+(ii) 
+in previously undeveloped (ie, greenfield) areas 
+ 
+available data on business land. 
+ 
+In relation to tier 1 urban environments, tier 1 local authorities must monitor the 
+proportion of development capacity that has been realised in each zone identified 
+in clause 3.37(1) (ie, each zone with development outcomes that are monitored). 
+ 
+Every tier 1, 2, and 3 local authority must publish the results of its monitoring at 
+least annually.  
+ 
+The monitoring required by this clause must relate to the relevant urban environments, 
+but may apply more widely (such as, for example, where the relevant data is available 
+only on a region or district-wide basis). 
+ 
+If more than one tier 1 or tier 2 local authority has jurisdiction over a tier 1 or tier 2 
+urban environment, those local authorities are jointly responsible for doing the 
+monitoring required by this subpart. 
+3.10 
+Assessing demand and development capacity 
+ 
+Every local authority must assess the demand for housing and for business land in 
+urban environments, and the development capacity that is sufficient (as described 
+in clauses 3.2 and 3.3) to meet that demand in its region or district in the short term, 
+medium term, and long term.  
+ 
+Tier 1 and tier 2 local authorities comply with subclause (1) in relation to tier 1 and 
+tier 2 urban environments by preparing and publishing an HBA as required by subpart 5.  
+
+--------------------------------------------------------------------------------
+ 
+18 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+3.11 
+Using evidence and analysis 
+ 
+When making plans, or when changing plans in ways that affect the development 
+of urban environments, local authorities must: 
+ 
+clearly identify the resource management issues being managed; and 
+ 
+use evidence, particularly any relevant HBAs, about land and development 
+markets, and the results of the monitoring required by this National Policy 
+Statement, to assess the impact of different regulatory and non-regulatory 
+options for urban development and their contribution to: 
+(iii) 
+achieving well-functioning urban environments; and 
+(iv) 
+meeting the requirements to provide at least sufficient development 
+capacity. 
+ 
+Local authorities must include the matters referred to in subclause (1)(a) and (b) in 
+relevant evaluation reports and further evaluation reports prepared under sections 32 
+and 32AA of the Act. 
+Subpart 4 – Future Development Strategy (FDS) 
+3.12 
+Preparation of FDS 
+ 
+Every tier 1 and tier 2 local authority must prepare, and make publicly available an FDS 
+for the tier 1 or 2 urban environment: 
+ 
+every 6 years; and 
+ 
+in time to inform, or at the same time as, preparation of the next long-term plan 
+of each relevant local authority. 
+ 
+The FDS must apply, at a minimum, to the relevant tier 1 and 2 urban environments 
+of the local authority, but may apply to any wider area. 
+ 
+If more than one tier 1 or tier 2 local authority has jurisdiction over a tier 1 or tier 2 
+urban environment, those local authorities are jointly responsible for preparing an 
+FDS as required by this subpart. 
+ 
+If a local authority that is not a tier 1 or 2 local authority chooses to prepare an FDS, 
+either alone or with any other local authority, this subpart applies as if it were a tier 1 or 
+2 local authority, except that any reference to an HBA may be read as a reference to any 
+other document that contains broadly equivalent information. 
+ 
+An FDS may be prepared and published as a stand-alone document, or be treated as 
+part of any other document (such as a spatial plan). 
+3.13 
+Purpose and content of FDS 
+ 
+The purpose of an FDS is:  
+ 
+to promote long-term strategic planning by setting out how a local authority 
+intends to: 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+19 
+(i) 
+achieve well-functioning urban environments in its existing and future 
+urban areas; and 
+(ii) 
+provide at least sufficient development capacity, as required by clauses 3.2 
+and 3.3, over the next 30 years to meet expected demand; and 
+ 
+assist the integration of planning decisions under the Act with infrastructure 
+planning and funding decisions. 
+ 
+Every FDS must spatially identify:  
+ 
+the broad locations in which development capacity will be provided over the long 
+term, in both existing and future urban areas, to meet the requirements of clauses 
+3.2 and 3.3; and  
+ 
+the development infrastructure and additional infrastructure required to support 
+or service that development capacity, along with the general location of the 
+corridors and other sites required to provide it; and 
+ 
+any constraints on development. 
+ 
+Every FDS must include a clear statement of hapū and iwi values and aspirations for 
+urban development. 
+3.14 
+What FDSs are informed by 
+ 
+Every FDS must be informed by the following:  
+ 
+the most recent applicable HBA 
+ 
+a consideration of the advantages and disadvantages of different spatial scenarios 
+for achieving the purpose of the FDS 
+ 
+the relevant long-term plan and its infrastructure strategy, and any other relevant 
+strategies and plans 
+ 
+Māori, and in particular tangata whenua, values and aspirations for urban 
+development 
+ 
+feedback received through the consultation and engagement required by 
+clause 3.15 
+ 
+every other National Policy Statement under the Act, including the New Zealand 
+Coastal Policy Statement 
+ 
+any other relevant national policy required by, or issued under, legislation. 
+3.15 
+Consultation and engagement  
+ 
+When preparing or updating an FDS local authorities must use the special consultative 
+procedure in section 83 of the Local Government Act 2002. 
+ 
+In order to prepare the draft required by that procedure, local authorities must engage 
+with the following: 
+ 
+other local authorities with whom there are significant connections relating to 
+infrastructure or community 
+ 
+relevant central government agencies 
+
+--------------------------------------------------------------------------------
+ 
+20 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+ 
+relevant hapū and iwi 
+ 
+providers of additional infrastructure 
+ 
+relevant providers of nationally significant infrastructure 
+ 
+the development sector (to identify significant future development opportunities 
+and infrastructure requirements).  
+3.16 
+Review of FDS 
+ 
+Every tier 1 and tier 2 local authority must regularly review its FDS to determine whether 
+it needs updating, and the review must be done in time to inform the next long-term 
+plan (ie, every 3 years). 
+ 
+The review must: 
+ 
+engage with the development sector and landowners to identify significant future 
+development opportunities and associated infrastructure requirements; and 
+ 
+consider the most recent HBA. 
+ 
+If, following the review, the local authority decides that the FDS does not need updating, 
+that decision and the reasons for it must be publicly notified.  
+ 
+If, following the review, the local authority decides that the FDS is to be updated, the 
+local authority must follow the same processes for consultation as apply to the 
+preparation of an FDS, but only in relation to the aspects proposed to be updated.  
+3.17 
+Effect of FDS 
+ 
+Every tier 1 and tier 2 local authority: 
+ 
+must have regard to the relevant FDS when preparing or changing RMA planning 
+documents; and 
+ 
+is strongly encouraged to use the relevant FDS to inform: 
+(i) 
+long-term plans, and particularly infrastructure strategies; and  
+(ii) 
+regional land transport plans prepared by a local authority under Part 2 
+of the Land Transport Management Act 2003; and 
+(iii) 
+any other relevant strategies and plans.  
+3.18 
+FDS implementation plan 
+ 
+Every tier 1 and tier 2 local authority must prepare and implement an implementation 
+plan for its FDS.  
+ 
+If a tier 1 or tier 2 local authority consists of more than one local authority, the 
+implementation plan must be prepared as a single document by all the local 
+authorities that jointly prepared the FDS. 
+ 
+Every implementation plan, or part of an implementation plan, must be 
+updated annually.  
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+21 
+ 
+An implementation plan or part of an implementation plan: 
+ 
+is not part of the FDS to which it relates; and 
+ 
+does not need to be prepared using the consultation and engagement 
+requirements set out in clause 3.15; and 
+ 
+does not have the effect of an FDS as described in clause 3.17. 
+Subpart 5 – Housing and Business Development 
+Capacity Assessment (HBA) 
+3.19 
+Obligation to prepare HBA 
+ 
+Every tier 1 and tier 2 local authority must prepare, and make publicly available, an HBA 
+for its tier 1 or tier 2 urban environments every 3 years, in time to inform the relevant 
+local authority’s next long-term plan.  
+ 
+The HBA must apply, at a minimum, to the relevant tier 1 or tier 2 urban environments 
+of the local authority (ie, must assess demand and capacity within the boundaries of 
+those urban environments), but may apply to any wider area. 
+ 
+If more than one tier 1 or tier 2 local authority has jurisdiction over a tier 1 or tier 2 
+urban environment, those local authorities are jointly responsible for preparing an 
+HBA as required by this subpart. 
+3.20 
+Purpose of HBA 
+ 
+The purpose of an HBA is to: 
+ 
+provide information on the demand and supply of housing and of business land 
+in the relevant tier 1 or tier 2 urban environment, and the impact of planning 
+and infrastructure decisions of the relevant local authorities on that demand 
+and supply; and 
+ 
+inform RMA planning documents, FDSs, and long-term plans; and 
+ 
+quantify the development capacity that is sufficient to meet expected demand 
+for housing and for business land in the short term, medium term, and long term.  
+3.21 
+Involving development sector and others 
+ 
+In preparing an HBA, every tier 1 and tier 2 local authority must seek information and 
+comment from: 
+ 
+expert or experienced people in the development sector; and 
+ 
+providers of development infrastructure and additional infrastructure; and 
+ 
+anyone else who has information that may materially affect the calculation of the 
+development capacity. 
+
+--------------------------------------------------------------------------------
+ 
+22 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+3.22 
+Competitiveness margin 
+ 
+A competitiveness margin is a margin of development capacity, over and above the 
+expected demand that tier 1 and tier 2 local authorities are required to provide, that 
+is required in order to support choice and competitiveness in housing and business 
+land markets.  
+ 
+The competitiveness margins for both housing and business land are:  
+ 
+for the short term, 20% 
+ 
+for the medium term, 20% 
+ 
+for the long term, 15%. 
+Housing 
+3.23 
+Analysis of housing market and impact of planning 
+ 
+Every HBA must include analysis of how the relevant local authority’s planning decisions 
+and provision of infrastructure affects the affordability and competitiveness of the local 
+housing market. 
+ 
+The analysis must include an assessment of how well the current and likely future 
+demands for housing by Māori and different groups in the community (such as older 
+people, renters, homeowners, low-income households, visitors, and seasonal workers) 
+are met, including the demand for different types and forms of housing (such as for 
+lower-cost housing, papakāinga, and seasonal worker or student accommodation). 
+ 
+The analysis must be informed by: 
+ 
+market indicators, including: 
+(i) 
+indicators of housing affordability, housing demand, and housing supply; 
+and 
+(ii) 
+information about household incomes, housing prices, and rents; and 
+ 
+price efficiency indicators. 
+3.24 
+Housing demand assessment 
+ 
+Every HBA must estimate, for the short term, medium term, and long term, the demand 
+for additional housing in the region and each constituent district of the tier 1 or tier 2 
+urban environment: 
+ 
+in different locations; and 
+ 
+in terms of dwelling types. 
+ 
+Local authorities may identify locations in any way they choose.  
+ 
+Local authorities may identify the types of dwellings in any way they chose but must, 
+at a minimum, distinguish between standalone dwellings and attached dwellings. 
+ 
+The demand for housing must be expressed in terms of numbers of dwellings. 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+23 
+ 
+Every HBA must: 
+ 
+set out a range of projections of demand for housing in the short term, medium 
+term, and long term; and 
+ 
+identify which of the projections are the most likely in each of the short term, 
+medium term, and long term; and 
+ 
+set out the assumptions underpinning the different projections and the reason for 
+selecting the most likely; and 
+ 
+if those assumptions involve a high level of uncertainty, the nature and potential 
+effects of that uncertainty.  
+3.25 
+Housing development capacity assessment 
+ 
+Every HBA must quantify, for the short term, medium term, and long term, the housing 
+development capacity for housing in the region and each constituent district of the tier 1 
+or tier 2 urban environment that is: 
+ 
+plan-enabled; and 
+ 
+plan-enabled and infrastructure-ready; and 
+ 
+plan-enabled, infrastructure-ready, and feasible and reasonably expected to 
+be realised. 
+ 
+The development capacity must be quantified as numbers of dwellings: 
+ 
+in different locations, including in existing and new urban areas; and 
+ 
+of different types, including standalone dwellings and attached dwellings. 
+3.26 
+Estimating what is feasible and reasonably expected to 
+be realised 
+ 
+For the purpose of estimating the amount of development capacity that is reasonably 
+expected to be realised, or that is both feasible and reasonably expected to be realised, 
+local authorities: 
+ 
+may use any appropriate method; but 
+ 
+must outline and justify the methods, inputs, and assumptions used to arrive at 
+the estimates.  
+ 
+The following are examples of the kind of methods that a tier 1 local authority could use 
+to assess the amount of development capacity that is feasible and reasonably expected 
+to be realised: 
+ 
+separately estimate the number of feasible dwellings (using a feasibility model) 
+and the number of dwellings that can reasonably be expected to be realised 
+(using building consents data on the number of sites and extent of allowed 
+capacity that has been previously developed), for the short, medium and long 
+term; compare the numbers of dwellings estimated by each method; then pick 
+the lower of the numbers in each time period, to represent the amount of 
+development capacity that is feasible and reasonably expected to be realised 
+
+--------------------------------------------------------------------------------
+ 
+24 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+ 
+estimate the number of feasible dwellings or sites, and then assess the proportion 
+of these that can reasonably be expected to be developed in the short, medium 
+and long term, using information about landowner and developer intentions 
+ 
+integrate information about past development trends and future landowner and 
+developer intentions into the feasibility model, which could mean modifying 
+assumptions about densities, heights, and timing of development. 
+ 
+The following is an example of the kind of methods that a tier 2 local authority could use 
+to assess the amount of development capacity that is feasible and reasonably expected 
+to be realised: 
+ 
+assess the number of dwellings that can reasonably be expected to be developed 
+(using building consents data on the number of sites and extent of allowed 
+capacity that has been developed previously), for the short, medium and 
+long term; and  
+ 
+then seek advice from the development sector about what factors affect the 
+feasibility of development. 
+ 
+Different methods may be appropriate when assessing the development capacity that 
+is reasonably expected to be realised in different circumstances, such as: 
+ 
+in existing, as opposed to new, urban areas; and 
+ 
+for stand-alone, as opposed to attached, dwellings. 
+3.27 
+Assessment of sufficient development capacity for housing 
+ 
+Every HBA must clearly identify, for the short term, medium term, and long term, where 
+there is sufficient development capacity to meet demand for housing in the region and 
+each constituent district of the tier 1 or tier 2 urban environment. 
+ 
+The requirements of subclause (1) must be based on a comparison of: 
+ 
+the demand for housing referred to in clause 3.24 plus the appropriate 
+competitiveness margin; and 
+ 
+the development capacity identified under clause 3.25. 
+ 
+If there is any insufficiency, the HBA must identify where and when this will occur 
+and analyse the extent to which RMA planning documents, a lack of development 
+infrastructure, or both, cause or contribute to the insufficiency.  
+Business land 
+3.28 
+Business land demand assessment 
+ 
+Every HBA must estimate, for the short term, medium term, and long term, the 
+demand from each business sector for additional business land in the region and 
+each constituent district of the tier 1 or tier 2 urban environment.  
+ 
+The demand must be expressed in hectares or floor areas. 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+25 
+ 
+For the purpose of this clause, a local authority may identify business sectors in any way 
+it chooses but must, as a minimum, distinguish between sectors that would use land 
+zoned for commercial, retail, or industrial uses. 
+ 
+The HBA for a tier 1 urban environment must: 
+ 
+set out a range of projections of demand for business land by business sector, 
+for the short term, medium term, and long term; and 
+ 
+identify which of the projections is the most likely in each of the short term, 
+medium term, and long term; and 
+ 
+set out the assumptions underpinning the different projections and the reason 
+for selecting which is the most likely; and 
+ 
+if those assumptions involve a high level of uncertainty, the nature and potential 
+effects of that uncertainty.  
+ 
+The HBA for a tier 2 urban environment must: 
+ 
+set out the most likely projection of demand for business land by business sector 
+in the short term, medium term, and long term; and 
+ 
+set out the assumptions underpinning that projection; and 
+ 
+if those assumptions involve a high level of uncertainty, the nature and potential 
+effects of that uncertainty.  
+3.29 
+Business land development capacity assessment  
+ 
+Every HBA must estimate the following, for the short term, medium term, and 
+long term, for the region and each constituent district of the tier 1 or tier 2 urban 
+environment: 
+ 
+the development capacity (in terms of hectares or floor areas) to meet expected 
+demand for business land for each business sector, plus the appropriate 
+competitiveness margin; and 
+ 
+of that development capacity, the development capacity that is:  
+(i) 
+plan-enabled; and 
+(ii) 
+plan-enabled and infrastructure-ready; and 
+(iii) 
+plan-enabled, infrastructure-ready, and suitable for each business sector. 
+ 
+A local authority may define what it means for development capacity to be “suitable” 
+in any way it chooses, but suitability must, at a minimum, include suitability in terms 
+of location and site size. 
+3.30 
+Assessment of sufficient development capacity for business land 
+ 
+Every HBA must clearly identify, for the short term, medium term, and long term, 
+whether there is sufficient development capacity to meet demand for business land 
+in the region and each constituent district of the tier 1 or tier 2 urban environment. 
+
+--------------------------------------------------------------------------------
+ 
+26 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+ 
+The requirements of subclause (1) must be based on a comparison of: 
+ 
+the demand for business land referred to in clause 3.28 plus the appropriate 
+competitiveness margin; and 
+ 
+the development capacity identified under clause 3.29. 
+ 
+If there is any insufficiency, the HBA must identify where and when this will occur 
+and analyse the extent to which RMA planning documents, a lack of development 
+infrastructure, or both, cause or contribute to the insufficiency.  
+Subpart 6 – Intensification in tier 1 urban environments 
+3.31 
+Tier 1 territorial authorities implementing intensification policies 
+ 
+Every tier 1 territorial authority must identify, by location, the building heights and 
+densities required by Policy 3.  
+ 
+If the territorial authority considers that it is necessary to modify the building height 
+or densities in order to provide for a qualifying matter (as permitted under Policy 4), 
+it must: 
+ 
+identify, by location, where the qualifying matter applies; and 
+ 
+specify the alternate building heights and densities proposed for those areas. 
+ 
+The territorial authority must make the information required by subclauses (1) and (2) 
+publicly available at the same time as it notifies any plan change or proposed plan 
+change to give effect to Policy 3. 
+3.32 
+Qualifying matters 
+ 
+In this National Policy Statement, qualifying matter means any of the following:  
+ 
+a matter of national importance that decision-makers are required to recognise 
+and provide for under section 6 of the Act 
+ 
+a matter required in order to give effect to any other National Policy Statement, 
+including the New Zealand Coastal Policy Statement 
+ 
+any matter required for the purpose of ensuring the safe or efficient operation of 
+nationally significant infrastructure 
+ 
+open space provided for public use, but only in relation to the land that is open 
+space 
+ 
+an area subject to a designation or heritage order, but only in relation to the land 
+that is subject to the designation or heritage order 
+ 
+a matter necessary to implement, or ensure consistency with, iwi participation 
+legislation  
+ 
+the requirement to provide sufficient business land suitable for low density uses 
+to meet expected demand under this National Policy Statement  
+ 
+any other matter that makes higher density development as directed by Policy 3 
+inappropriate in an area, but only if the requirements of clause 3.33(3) are met. 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+27 
+3.33 
+Requirements if qualifying matter applies 
+ 
+This clause applies if a territorial authority is amending its district plan and intends to 
+rely on Policy 4 to justify a modification to the direction in Policy 3 in relation to 
+a specific area. 
+ 
+The evaluation report prepared under section 32 of the Act in relation to the proposed 
+amendment must: 
+ 
+demonstrate why the territorial authority considers that: 
+(i) 
+the area is subject to a qualifying matter; and 
+(ii) 
+the qualifying matter is incompatible with the level of development 
+directed by Policy 3 for that area; and  
+ 
+assess the impact that limiting development capacity, building height or density 
+(as relevant) will have on the provision of development capacity; and  
+ 
+assess the costs and broader impacts of imposing those limits. 
+ 
+A matter is not a qualifying matter under clause 3.32(1)(h) in relation to an area unless 
+the evaluation report also:  
+ 
+identifies the specific characteristic that makes the level of development directed 
+by Policy 3 inappropriate in the area, and justifies why that is inappropriate in 
+light of the national significance of urban development and the objectives of this 
+National Policy Statement; and 
+ 
+includes a site-specific analysis that:  
+(i) 
+identifies the site to which the matter relates; and 
+(ii) 
+evaluates the specific characteristics on a site-specific basis to determine 
+the spatial extent where intensification needs to be compatible with the 
+specific matter; and 
+(iii) 
+evaluates an appropriate range of options to achieve the greatest heights 
+and densities directed by Policy 3, while managing the specific 
+characteristics.  
+3.34 
+Effects on consideration of resource consents 
+ 
+Nothing in Policies 3 or 4 or this subpart precludes the consideration (under section 104 
+of the Act) of any actual or potential effects on the environment associated with 
+building heights. 
+Subpart 7 – Development outcomes for zones 
+3.35 
+Development outcomes for zones 
+ 
+Every tier 1, 2 or 3 territorial authority must ensure that: 
+ 
+the objectives for every zone in an urban environment in its district describe 
+the development outcomes intended for the zone over the life of the plan and 
+beyond; and 
+
+--------------------------------------------------------------------------------
+ 
+28 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+ 
+the policies and rules in its district plan are individually and cumulatively 
+consistent with the development outcomes described in the objectives 
+for each zone. 
+3.36 
+Development outcomes consistent with intensification policies 
+ 
+Every tier 1 territorial authority must ensure that the development outcomes for zones 
+in its tier 1 urban environments are consistent with the outcomes required by Policy 3. 
+3.37 
+Monitoring development outcomes 
+ 
+Every tier 1 territorial authority must monitor the extent to which development is 
+occurring in each of the following zones as anticipated by the development outcomes 
+included in the objectives for the zone: 
+ 
+city centre zones 
+ 
+metropolitan centre zones 
+ 
+town centre zones 
+ 
+mixed use zones 
+ 
+high density residential zones 
+ 
+medium density residential zones 
+ 
+general residential zones.  
+ 
+If monitoring under this clause indicates that development outcomes are not being 
+realised, the territorial authority must, as soon as practicable:  
+ 
+undertake an assessment to identify whether provisions of the district plan 
+(individually and cumulatively), or any other factors (and if so, what factors), 
+or both, are contributing to the failure to realise development outcomes; and 
+ 
+give public notice (as defined in the Act) of the results of the assessment. 
+ 
+If the assessment indicates that provisions of a district plan are contributing to the 
+failure to realise development outcomes, the territorial authority must change its 
+district plan to address the deficiency. 
+ 
+If the assessment indicates that other factors are contributing to the failure to realise 
+development outcomes, the territorial authority must consider alternative methods to 
+improve the rate of realisation (such as the use of incentives for site amalgamation). 
+ 
+Any plan change required under subclause (3) must be notified as soon as practicable, 
+and no later than 12 months after the assessment is publicly notified.  
+Subpart 8 – Car parking 
+3.38 
+Car parking 
+ 
+If the district plan of a tier 1, 2, or 3 territorial authority contains objectives, policies, 
+rules, or assessment criteria that have the effect of requiring a minimum number of car 
+parks to be provided for a particular development, land use, or activity, the territorial 
+authority must change its district plan to remove that effect, other than in respect of 
+accessible car parks.  
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+29 
+ 
+Territorial authorities must make any changes required by subclause (1) without using 
+a process in Schedule 1 of the Act. 
+ 
+Nothing in this National Policy Statement prevents a district plan including objectives, 
+policies, rules, or assessment criteria: 
+ 
+requiring a minimum number of accessible car parks to be provided for any 
+activity; or 
+ 
+relating to parking dimensions or manoeuvring standards to apply if: 
+(i) 
+a developer chooses to supply car parks; or 
+(ii) 
+when accessible car parks are required. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+30 
+National Policy Statement on Urban Development 2020 – updated May 2022  
+Part 4: Timing 
+4.1 
+Timeframes for implementation 
+ 
+Every tier 1, 2, and 3 local authority must amend its regional policy statement or 
+district plan to give effect to the provisions of this National Policy Statement as soon 
+as practicable. 
+ 
+In addition, local authorities must comply with specific policies of this National Policy 
+Statement in accordance with the following table:  
+Local authority 
+Subject 
+National Policy Statement 
+provisions 
+By when 
+Tier 1 only 
+Intensification 
+Policies 3 and 4 (see Part 3 
+subpart 6) 
+Proposed plan or plan change 
+notified no later than 2 years 
+after the commencement 
+date 
+Tier 2 only 
+(other than a 
+tier 2 territorial 
+authority 
+required by 
+section 80F of 
+the Act to 
+prepare an IPI) 
+Intensification 
+Policy 5 
+Proposed plan or plan change 
+notified no later than 2 years 
+after the commencement 
+date  
+Tiers 1 and 2 
+First FDS made publicly 
+available after the 
+commencement date 
+Policy 2 (see Part 3 subpart 4) 
+In time to inform the 2024 
+long-term plan 
+Tiers 1 and 2 
+HBA so far as it relates to 
+housing 
+Policy 2 (see Part 3 subpart 5) 
+By 31 July 2021 
+Tiers 1 and 2 
+HBA relating to both 
+housing and business land 
+Policy 2 (see Part 3 subpart 5) 
+In time to inform the 2024 
+long-term plan 
+Tiers 1, 2, and 3 
+Car parking  
+Policy 11(a) (see clause 3.38) 
+No later than 18 months after 
+the commencement date 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+National Policy Statement on Urban Development 2020 – updated May 2022 
+31 
+Appendix: Tier 1 and tier 2 urban 
+environments and local authorities 
+Table 1 
+Tier 1 urban environment  
+Tier 1 local authorities 
+Auckland 
+Auckland Council 
+Hamilton 
+Waikato Regional Council, Hamilton City Council, Waikato District Council, 
+Waipā District Council 
+Tauranga 
+Bay of Plenty Regional Council, Tauranga City Council, Western Bay of Plenty 
+District Council 
+Wellington 
+Wellington Regional Council, Wellington City Council, Porirua City Council, 
+Hutt City Council, Upper Hutt City Council, Kāpiti Coast District Council 
+Christchurch 
+Canterbury Regional Council, Christchurch City Council, Selwyn District Council 
+Waimakariri District Council 
+ 
+Table 2 
+Tier 2 urban environment  
+Tier 2 local authorities 
+Whangārei 
+Northland Regional Council, Whangarei District Council 
+Rotorua 
+Bay of Plenty Regional Council, Rotorua District Council 
+New Plymouth 
+Taranaki Regional Council, New Plymouth District Council 
+Napier Hastings 
+Hawke’s Bay Regional Council, Napier City Council, Hastings District Council 
+Palmerston North 
+Manawatū-Whanganui Regional Council, Palmerston North City Council 
+Nelson Tasman 
+Nelson City Council, Tasman District Council 
+Queenstown  
+Otago Regional Council, Queenstown Lakes District Council 
+Dunedin 
+Otago Regional Council, Dunedin City Council  
+ 
+
+--------------------------------------------------------------------------------

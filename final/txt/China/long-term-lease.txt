@@ -1,0 +1,401 @@
+Metadata for pdf/HongKong/long-term-lease.pdf: {'format': 'PDF 1.5', 'title': 'Form LR013', 'author': 'LR/TROD', 'subject': '', 'keywords': '', 'creator': 'Power PDF Create', 'producer': 'Power PDF Create', 'creationDate': "D:20250305174533+08'00'", 'modDate': "D:20250305174537+08'00'", 'trapped': '', 'encryption': None, 'country': 'Unknown'}
+
+Country found in pdf/HongKong/long-term-lease.pdf: Unknown
+
+ 
+LR013 Application for Registration of Long Term Lease / Termination of Registered Long Term Lease 
+Page 1/7 
+Form 
+LR013 
+Application for Registration of 
+Long Term Lease / Termination of 
+Registered Long Term Lease 
+ 
+ 
+Land Registry 
+The below reminder will be displayed by way of pop-up or notes on the screen or 
+other means before an applicant completes this application form:- 
+“Submission of the application for registration of the matter does NOT mean that 
+registration of the matter has been effected.  The registration of the matter shall 
+be effected when the matter is registered by virtue of the making, alteration and 
+/ or removal of an entry in the Title Register which refers to the matter.” 
+Please indicate in Part E or Part F hereof the party lodging this application 
+(“Applicant”). 
+Every box must be completed.  If any box is not applicable, please put a dash “-”. 
+ 
+Please ‘’ in the appropriate boxes.  
+ 
+ 
+PART A 
+Customer code 
+ 
+[Format checking, 
+validation with TRIS data] 
+ 
+Registration fee 
+ 
+[Auto-calculation] 
+ 
+HK$ 
+ 
+Additional fee for delayed registration (where applicable) 
+ 
+[Auto-calculation] 
+ 
+HK$ 
+ 
+Nature of application 
+[Drop down list for (a) Long term lease; and (b) Termination of registered long term lease.] 
+PART B 
+(1) Property 
+Title number 
+ 
+[Format checking, validation with TRIS data] 
+ 
+Lot number 
+ 
+[Auto-filled after entering the “Title number”] 
+ 
+Address / Location (English and Chinese) 
+If the address is available, please specify the street name and building number. Otherwise, please specify the location. 
+ 
+[Auto-filled after entering the “Title number”] 
+ 
+For Official Use 
+
+--------------------------------------------------------------------------------
+ 
+LR013 Application for Registration of Long Term Lease / Termination of Registered Long Term Lease 
+Page 2/7 
+Undivided shares 
+ 
+[Auto-filled after entering the “Title number”] 
+ 
+ 
+(2) Overriding interest 
+Full particulars of overriding interest affecting the long term lease1 
+ 
+ 
+ 
+ 
+ 
+(3) Related registered application(s) 
+Application number of registered long term lease to be 
+terminated2 
+[Format checking, validation with TRIS data] 
+ 
+Application number of related registered caution 
+ 
+[Format checking, validation with TRIS data] 
+ 
+ 
+PART C 
+(1) Supporting instrument(s)3 
+Item 
+No. 
+Date 
+(dd/mm/yyyy)
+Nature 
+With plan 
+Consideration 
+HK$ 
+Stamp Office 
+instrument 
+reference number 
+Stamp duty 
+HK$ 
+Adjudication 
+fee 
+HK$ 
+Yes
+No 
+ 
+[Format 
+checking, 
+data 
+validation] 
+ 
+ 
+ 
+[Format checking] 
+[Message 
+prompted 
+for 
+completion of 
+“Adjudication 
+fee” field and 
+Part C(2) if this 
+field is blank] 
+[Message 
+prompted 
+for 
+completion 
+of  
+Part C(2) if data 
+inputted here] 
+Term of long term lease1 
+Please specify the term in years, months and days with date of commencement and date of expiry. 
+ 
+ 
+ 
+(2) Charge under Section 13A of the Stamp Duty Ordinance (Cap. 117) 
+Please indicate whether an application for registration of a charge constituted under section 13A of the Stamp Duty 
+Ordinance (Cap. 117) is to be made. 
+ 
+Yes       No 
+ 
+ 
+1 This box is only applicable if the application relates to the registration of a long term lease. 
+2 This box is only applicable if the application relates to the registration of termination of a registered long term lease. 
+3 If there is more than one supporting instrument, please complete the particulars of ALL supporting instruments below. 
+
+--------------------------------------------------------------------------------
+ 
+LR013 Application for Registration of Long Term Lease / Termination of Registered Long Term Lease 
+Page 3/7 
+PART D 
+Title Certificate(s) returned for cancellation4 
+Title Certificate(s) of the Property is / are returned for cancellation 
+ 
+    Yes (please state the title certificate number(s)): [Format checking, validation with TRIS data] 
+ 
+ 
+    No (please specify reason(s)): 
+ 
+    Not applicable 
+ 
+PART E 
+Lessor (□ Please tick if the Lessor is the Applicant.) 
+Name (English) 
+ 
+[Validation with TRIS data] 
+ 
+Alias (English) 
+ 
+[Validation with TRIS data] 
+ 
+Name (Chinese) 
+ 
+[Validation with TRIS data] 
+ 
+Alias (Chinese) 
+ 
+[Validation with TRIS data] 
+ 
+Capacity and shares 
+ 
+[Drop down list for selection] 
+ 
+Identification document and number 
+Please specify identification document(s) and identification document number(s)5 / business registration number(s)6 / others (please specify). 
+ 
+[Format checking for HKID number] 
+ 
+ 
+PART F 
+Lessee (□ Please tick if the Lessee is the Applicant.) 
+Name (English) 
+ 
+ 
+ 
+Alias (English) 
+ 
+ 
+ 
+Name (Chinese) 
+ 
+ 
+ 
+Alias (Chinese) 
+ 
+ 
+ 
+ 
+4 This part is only applicable if the application relates to the registration of termination of a registered long term lease. 
+5 For passport, please state the place of issuance. 
+6 If business registration number is not available, please state the place of incorporation. 
+
+--------------------------------------------------------------------------------
+ 
+LR013 Application for Registration of Long Term Lease / Termination of Registered Long Term Lease 
+Page 4/7 
+Capacity and shares 
+ 
+[Drop down list for selection] 
+ 
+Identification document and number 
+Please specify identification document(s) and identification document number(s)7 / business registration number(s)8 / others (please specify). 
+ 
+[Format checking for HKID number] 
+ 
+ 
+7 For passport, please state the place of issuance. 
+8 If business registration number is not available, please state the place of incorporation. 
+
+--------------------------------------------------------------------------------
+ 
+LR013 Application for Registration of Long Term Lease / Termination of Registered Long Term Lease 
+Page 5/7 
+Verification Certificate 
+Applicant 
+[Auto-filled based on the information provided in Part E or Part F] 
+Title number 
+[Auto-filled based on the information provided in Part B(1)] 
+Lot number 
+[Auto-filled based on the information provided in Part B(1)] 
+Address / Location (English and Chinese) 
+[Auto-filled based on the information provided in Part B(1)] 
+Form A1 
+I, (name) ____________________, a solicitor of (name of solicitors’ firm) ____________________, hereby certify 
+that – 
+(a) 
+I have taken reasonable steps to verify – 
+(i) 
+the identity of the Applicant; and 
+(ii) 
+the matters mentioned in paragraph (b)(i) below; 
+(b) 
+to the best of my knowledge and belief, 
+(i) 
+the Applicant is a legal person and 
+#the Applicant has the right to enter into the instrument(s) supporting this application referred to in 
+Part C(1) hereof (“Instrument(s)”) to which the Applicant is a party and the Instrument(s) (where 
+applicable) has / have been duly signed / executed (as the case may be) by the Applicant; 
+#the Applicant has produced satisfactory evidence and proof on this application; 
+(ii) 
+the particulars set forth in this application are true and correct; and 
+(c) 
+this application – 
+(i) 
+has been prepared by me or under my direction; and 
+(ii) 
+has been so prepared in accordance with the provisions of the Land Titles Ordinance (Cap. 585) and 
+the subsidiary legislation made thereunder. 
+I have authority to lodge this application on behalf of the Applicant. 
+ 
+[Name auto-filled when digital signature is added] 
+…………………..……………………….. 
+ (Name and Signature of Solicitor) 
+ 
+[Auto-filled when digital signature is added] 
+…………………..……………………….. 
+ (Date) 
+# Please select as appropriate. 
+ 
+ 
+[Drop down list for selection by 
+e-lodgement registered users]
+[Auto-filled for e-lodgement 
+registered users]
+
+--------------------------------------------------------------------------------
+ 
+LR013 Application for Registration of Long Term Lease / Termination of Registered Long Term Lease 
+Page 6/7 
+[Drop down list for selection by 
+e-lodgement registered users] 
+[Auto-filled for e-lodgement 
+registered users] 
+Applicant 
+[Auto-filled based on the information provided in Part E or Part F] 
+Title number 
+[Auto-filled based on the information provided in Part B(1)] 
+Lot number 
+[Auto-filled based on the information provided in Part B(1)] 
+Address / Location (English and Chinese) 
+[Auto-filled based on the information provided in Part B(1)] 
+Form A2 
+I, (name) ____________________, a solicitor of (name of solicitors’ firm) ____________________, hereby certify 
+that – 
+(a) 
+I have taken reasonable steps to verify – 
+(i) 
+the identity of the Applicant and____________________1, all other party(ies) to the subject matter of 
+this application (“Party”); and 
+(ii) 
+the matters mentioned in paragraph (b)(i) below; 
+(b) 
+to the best of my knowledge and belief, 
+(i) 
+ each of the Applicant and the Party is a legal person and 
+#each of the Applicant and the Party has the right to enter into the instrument(s) supporting this 
+application referred to in Part C(1) hereof (“Instrument(s)”) to which he / she / it is a party and the 
+Instrument(s) (where applicable) has / have been duly signed / executed (as the case may be) by
+#[the Applicant] [and] [the Party]; 
+#[the Applicant] [and] [the Party] has / have produced satisfactory evidence and proof on this 
+application; 
+(ii) 
+the particulars set forth in this application are true and correct; and 
+(c) 
+this application – 
+(i) 
+has been prepared by me or under my direction; and 
+(ii) 
+has been so prepared in accordance with the provisions of the Land Titles Ordinance (Cap. 585) and 
+the subsidiary legislation made thereunder. 
+I have authority to lodge this application on behalf of the Applicant. 
+ 
+[Name auto-filled when digital signature is added] 
+…………………..……………………….. 
+ (Name and Signature of Solicitor) 
+ 
+[Auto-filled when digital signature is added] 
+…………………..……………………….. 
+ (Date) 
+# Please select as appropriate. 
+ 
+ 
+ 
+1 Please insert the name(s) of all other party(ies). 
+
+--------------------------------------------------------------------------------
+ 
+LR013 Application for Registration of Long Term Lease / Termination of Registered Long Term Lease 
+Page 7/7 
+[Auto-filled for e-lodgement registered 
+users using exchange function] 
+[Auto-filled for e-lodgement registered 
+users using exchange function]
+Applicant 
+[Auto-filled based on the information provided in Part E or Part F] 
+Title number 
+[Auto-filled based on the information provided in Part B(1)] 
+Lot number 
+[Auto-filled based on the information provided in Part B(1)] 
+Address / Location (English and Chinese) 
+[Auto-filled based on the information provided in Part B(1)] 
+Form B 
+I, (name) ____________________, a solicitor of (name of solicitors’ firm) ____________________, hereby certify 
+that – 
+(a) 
+I have taken reasonable steps to verify – 
+(i) 
+the identity of ____________________ (“Party”), #[one of] / [all of] the other #[party] / [parties] to the 
+subject matter of this application to be lodged for registration by the Applicant in respect of the 
+Property; and 
+(ii) 
+the matters mentioned in paragraphs (b)(i) and (ii) below; and 
+(b) 
+to the best of my knowledge and belief, 
+(i) 
+the Party is a legal person; and  
+(ii) 
+#the Party has the right to enter into the instrument(s) supporting this application referred to in Part 
+C(1) hereof (“Instrument(s)”) to which the Party is a party and the Instrument(s) (where applicable) has 
+/ have been duly signed / executed (as the case may be) by the Party. 
+#the Party has produced satisfactory evidence and proof on this application.  
+ 
+[Name auto-filled when digital signature is added] 
+…………………..……………………….. 
+(Name and Signature of Solicitor) 
+ 
+[Auto-filled when digital signature is added] 
+…………………..……………………….. 
+(Date) 
+# Please select as appropriate. 
+ 
+ 
+Personal Information Collection Statement 
+[To be provided later.] 
+
+--------------------------------------------------------------------------------

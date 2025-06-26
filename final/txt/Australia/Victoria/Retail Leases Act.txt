@@ -1,0 +1,7033 @@
+Metadata for Victoria/Retail Leases Act.pdf: {'format': 'PDF 1.7', 'title': 'Retail Leases Act 2003', 'author': 'Sue Lewis', 'subject': "Reprints for Acts/SR's", 'keywords': 'Versions, Reprints', 'creator': 'Microsoft® Word 2019', 'producer': 'Microsoft® Word 2019', 'creationDate': "D:20240626120339+10'00'", 'modDate': "D:20240626120418+10'00'", 'trapped': '', 'encryption': None, 'country': 'Australia'}
+
+Country found in Victoria/Retail Leases Act.pdf: Australia
+
+ 
+Authorised by the Chief Parliamentary Counsel 
+i 
+ 
+Authorised Version No. 027 
+Retail Leases Act 2003 
+No. 4 of 2003 
+Authorised Version incorporating amendments as at 
+1 July 2024 
+TABLE OF PROVISIONS 
+Section 
+Page 
+Part 1—Preliminary 
+1 
+1 
+Main purpose 
+1 
+2 
+Commencement 
+1 
+Part 2—Definitions and key concepts 
+2 
+3 
+Definitions 
+2 
+4 
+Meaning of retail premises 
+7 
+5 
+Minister may make determinations 
+9 
+6 
+Meaning of common areas of a shopping centre 
+10 
+7 
+When retail premises lease is entered into or assigned 
+11 
+8 
+Effect of assignment of retail premises lease 
+11 
+9 
+Meaning of renewal of a lease 
+12 
+10 
+Holding over under a retail premises lease 
+12 
+Part 3—Application of the Act 
+13 
+11 
+Application generally 
+13 
+12 
+Application if lease term of less than a year 
+13 
+13 
+Act applies to retail premises in Victoria 
+14 
+14 
+Act binds the Crown 
+15 
+Part 4—Entering into or renewing a retail premises lease 
+16 
+Division 1—Entering into a retail premises lease 
+16 
+15 
+Copy of lease to be provided at negotiation stage 
+16 
+16 
+Lease must be in writing and signed 
+17 
+17 
+Provision of landlord's disclosure statement and proposed 
+lease 
+17 
+18 
+Effect of notice of termination 
+20 
+19 
+Notices of termination 
+21 
+20 
+Tenant not required to pay undisclosed contributions 
+21 
+21 
+Minimum 5 year term 
+21 
+22 
+Tenant to be given copy of lease 
+24 
+23 
+Key-money and goodwill payments prohibited 
+24 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Section 
+Page 
+ii 
+  
+24 
+Security deposits 
+26 
+Division 2—Renewal of a retail premises lease 
+27 
+26 
+Landlord's disclosure on renewal of lease 
+27 
+27 
+Option to renew 
+29 
+28 
+Landlord to give tenant certain information before option to 
+renew lease expires 
+30 
+28A Early rent reviews 
+32 
+28B Cooling off period—option to renew lease 
+33 
+Part 5—Rent and outgoings 
+35 
+Division 1—The fit out of the premises 
+35 
+29 
+Meaning of outgoings to which a tenant contributes 
+35 
+30 
+Alterations to premises to enable fit out 
+35 
+31 
+Payment of rent when landlord's fit out not completed 
+36 
+32 
+Special rent—cost of fit out 
+37 
+Division 2—Determination of the rent 
+37 
+33 
+Rent based on turnover 
+37 
+34 
+Agreement about rent based on turnover 
+40 
+Division 3—Review of the rent 
+41 
+35 
+Rent reviews generally 
+41 
+36 
+Extended application of section 35 
+42 
+37 
+Rent reviews based on current market rent 
+43 
+38 
+Confidentiality of information supplied to valuer 
+45 
+Division 4—Outgoings 
+46 
+39 
+Recovery of outgoings from the tenant 
+46 
+40 
+Liability to contribute to non-specific outgoings 
+47 
+41 
+Capital costs not recoverable 
+47 
+42 
+Depreciation not recoverable 
+48 
+43 
+Tenant not liable to contribute to sinking fund 
+48 
+44 
+Interest etc. on landlord's borrowings not recoverable 
+48 
+45 
+Rent etc. associated with other land not recoverable 
+48 
+46 
+Estimate of outgoings 
+49 
+47 
+Statement of outgoings 
+49 
+48 
+Adjustment of contributions to outgoings 
+51 
+49 
+Limitation on recovery of management fees 
+52 
+50 
+Recovery of land tax and commercial and industrial property 
+tax 
+55 
+51 
+Liability for costs associated with lease 
+55 
+52 
+Landlord's liability for repairs 
+56 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Section 
+Page 
+iii 
+  
+Part 6—Refurbishment, relocation and other interferences with 
+tenancy 
+58 
+Division 1—Refurbishment, relocation etc. 
+58 
+53 
+Landlord to give notice of alterations and refurbishments 
+58 
+54 
+Tenant to be compensated for interference 
+58 
+55 
+Relocation of the tenant's business 
+60 
+56 
+Demolition 
+62 
+57 
+Damaged premises 
+64 
+58 
+Refurbishment and refitting 
+65 
+Division 2—Other interferences with tenancy 
+65 
+59 
+Restriction on whom the tenant employs or engages 
+65 
+Part 7—Assignment and termination of a retail premises lease 
+67 
+60 
+When the landlord can withhold consent to an assignment 
+67 
+61 
+Procedure for obtaining consent to assignment 
+68 
+62 
+Protection of assignors and guarantors 
+69 
+63 
+Landlord may reserve the right to refuse a sub-lease, 
+mortgage etc. 
+70 
+64 
+Notice of the landlord's intentions concerning renewal 
+70 
+Part 8—Additional requirements for retail shopping centres 
+72 
+65 
+Part only applies to retail shopping centres 
+72 
+66 
+Changes to core trading hours 
+72 
+67 
+Confidentiality of turnover information 
+72 
+68 
+Availability of statistical information about the retail shopping 
+centre 
+73 
+69 
+Advertising and promotion requirements 
+74 
+70 
+Marketing plan for advertising and promotion 
+74 
+71 
+Statement and report on advertising and promotion 
+expenditure 
+74 
+72 
+Unspent advertising and promotion contributions 
+75 
+73 
+Termination by landlord for inadequate sales prohibited 
+76 
+74 
+Geographical restrictions on tenant prohibited 
+76 
+75 
+Tenants' associations etc. 
+77 
+Part 9—Unconscionable conduct 
+78 
+76 
+Application of Part 
+78 
+77 
+Unconscionable conduct of a landlord 
+78 
+78 
+Unconscionable conduct of a tenant 
+80 
+79 
+Certain conduct is not unconscionable 
+83 
+80 
+Recovery of amount for loss or damage 
+83 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Section 
+Page 
+iv 
+  
+Part 10—Dispute resolution 
+84 
+Division 1—Retail tenancy disputes 
+84 
+81 
+Meaning of retail tenancy dispute 
+84 
+82 
+Application of Part to retail premises 
+85 
+83 
+Part applies to current and former leases 
+85 
+Division 2—Small Business Commission 
+86 
+84 
+Functions of Small Business Commission 
+86 
+Division 3—Alternative dispute resolution 
+88 
+85 
+What mediation and other alternative dispute resolution covers 
+88 
+86 
+Referral of retail tenancy disputes for alternative dispute 
+resolution 
+88 
+87 
+Retail tenancy disputes must first be referred for alternative 
+dispute resolution 
+90 
+88 
+Statements made during alternative dispute resolution not 
+admissible 
+90 
+Division 4—The Tribunal 
+91 
+89 
+Jurisdiction of Tribunal 
+91 
+90 
+Parties to proceeding 
+92 
+91 
+Orders the Tribunal can make 
+92 
+92 
+Each party bears its own costs 
+93 
+Part 11—Other matters 
+95 
+93 
+Indemnities 
+95 
+94 
+The Act prevails over retail premises leases, agreements etc. 
+96 
+94A Section 146 of the Property Law Act 1958 applies to retail 
+premises leases 
+96 
+95 
+Occupation of residential area under a retail premises lease 
+97 
+96 
+Franchise arrangements 
+97 
+97 
+Service of documents 
+98 
+97A Validation of certain instruments 
+98 
+98 
+Limitation of Supreme Court jurisdiction 
+98 
+99 
+Regulations 
+99 
+Part 14—Repeal of 1998 Act and transitional provisions 
+102 
+118 
+Repeal of Retail Tenancies Reform Act 1998 
+102 
+119 
+General transitional and savings 
+102 
+120 
+Disclosure statements 
+103 
+121 
+Notification of amount of land tax 
+103 
+Part 15—Transitional provisions—Retail Leases Amendment Act 
+2020 
+105 
+122 
+Validation of retail premises leases in respect of essential 
+safety measures 
+105 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Section 
+Page 
+v 
+  
+123 
+Security deposits 
+106 
+124 
+Disclosure statements on renewal of leases 
+106 
+125 
+Information to be given to tenants before options to renew 
+expire 
+106 
+═══════════════ 
+Endnotes 
+107 
+1 
+General information 
+107 
+2 
+Table of Amendments 
+109 
+3 
+Explanatory details 
+112 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Section 
+Page 
+vi 
+  
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+ 
+1 
+  
+Authorised Version No. 027 
+Retail Leases Act 2003 
+No. 4 of 2003 
+Authorised Version incorporating amendments as at 
+1 July 2024 
+The Parliament of Victoria enacts as follows: 
+Part 1—Preliminary 
+ 
+1 Main purpose 
+The main purpose of this Act is to replace the 
+scheme in the Retail Tenancies Reform Act 
+1998 with a new scheme to enhance— 
+ 
+(a) the certainty and fairness of retail leasing 
+arrangements between landlords and tenants; 
+and 
+ 
+(b) the mechanisms available to resolve disputes 
+concerning leases of retail premises. 
+ 
+2 Commencement 
+ 
+(1) Section 1 and this section (other than 
+subsection (4)) come into operation on the day 
+after the day on which this Act receives the Royal 
+Assent. 
+ 
+(2) Part 12 comes into operation immediately before 
+the commencement of section 118. 
+ 
+(3) Sections 49 and 50 come into operation on 1 July 
+2003. 
+ 
+(4) Part 13 is deemed to have come into operation at 
+the last moment of 30 June 1998. 
+ 
+(5) The remaining provisions of this Act (including 
+subsection (4) of this section) come into operation 
+on 1 May 2003. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Definitions and key concepts 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+2 
+  
+Part 2—Definitions and key concepts 
+ 
+3 Definitions 
+In this Act— 
+accountant means a member of— 
+ 
+(a) the Institute of Chartered Accountants 
+in Australia; or 
+ 
+(b) CPA Australia (ACN 008 392 452); or 
+ 
+(c) the Institute of Public Accountants; 
+accounting period, in relation to a retail premises 
+lease, means the period of 12 months 
+specified in the lease as the accounting 
+period for the purposes of the lease; 
+applicable industry code has the meaning given 
+by section 51ACA of the Competition and 
+Consumer Act 2010 of the Commonwealth; 
+ 
+assignment of a retail premises lease has a 
+meaning affected by section 8; 
+building includes any structure; 
+common areas of a retail shopping centre has the 
+meaning given by section 6; 
+dispute arising under or in relation to a retail 
+premises lease includes a dispute arising 
+under or in relation to the lease under a 
+provision of this Act; 
+essential safety measure has the same meaning as 
+in the Building Regulations 2018 or any 
+subsequent corresponding regulations; 
+Note 
+See section 30 of the Interpretation of Legislation 
+Act 1984. 
+S. 3 def. of 
+accountant 
+amended by 
+No. 36/2011 
+s. 39. 
+S. 3 def. of 
+accounting 
+period 
+inserted by 
+No. 82/2005 
+s. 4. 
+S. 3 def. of 
+applicable 
+industry code 
+amended by 
+No. 21/2012 
+s. 239(Sch. 6 
+item 37.1). 
+S. 3 def. of 
+essential 
+safety 
+measure 
+inserted by 
+No. 26/2020 
+s. 4(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Definitions and key concepts 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+3 
+  
+fit out of retail premises includes the provision or 
+installation of finishes, fixtures, fittings, 
+equipment and services; 
+GST has the same meaning as in the A New Tax 
+System (Goods and Services Tax) Act 1999 
+of the Commonwealth; 
+industry code has the meaning given by 
+section 51ACA of the Competition and 
+Consumer Act 2010 of the Commonwealth; 
+ 
+key-money means money that a tenant is to pay, 
+or a benefit that a tenant is to give, that is— 
+ 
+(a) by way of a premium, or something 
+similar in nature to a premium, in that 
+there is no real consideration or no true 
+consideration given for the payment or 
+benefit (for example, it is so 
+disproportionate to the benefit that it 
+cannot be true consideration); and 
+ 
+(b) in consideration of— 
+ 
+(i) a lease being granted or an 
+agreement being made to grant a 
+lease; or 
+ 
+(ii) the variation of a lease; or 
+ 
+(iii) the renewal of a lease or the 
+granting of an option for the 
+renewal of a lease; or 
+ 
+(iv) consent being given to the 
+assignment of a lease or to the 
+sub-leasing of the premises to 
+which a lease relates; 
+ 
+ 
+S. 3 def. of 
+industry code 
+amended by 
+No. 21/2012 
+s. 239(Sch. 6 
+item 37.2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Definitions and key concepts 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+4 
+  
+landlord under a retail premises lease— 
+ 
+(a) means the person who under the lease 
+is entitled to the rent payable for the 
+premises; and 
+ 
+(b) in Part 10, includes a former landlord 
+(because of section 83); 
+lease— 
+ 
+(a) means a lease, sub-lease, or an 
+agreement for a lease or sub-lease, 
+whether or not in writing; and 
+ 
+(b) in Part 10, includes a former lease 
+(because of section 83); 
+legal practitioner means an Australian lawyer; 
+ 
+ 
+ 
+ 
+ 
+outgoings means a landlord's outgoings on 
+account of any of the following— 
+ 
+(a) the expenses (including the cost, or part 
+of the cost, of repairs or maintenance 
+work in respect of an essential safety 
+measure or an installation referred to in 
+section 41(2)(b)(ii)) directly 
+attributable to the operation, 
+maintenance or repair of— 
+ 
+(i) the building in which the retail 
+premises are located or any other 
+building or area owned by the 
+landlord and used in association 
+with the building in which the 
+retail premises are located; or  
+S. 3 def. of 
+legal 
+practitioner 
+substituted by 
+No. 18/2005 
+s. 18(Sch. 1 
+item 92), 
+amended by 
+No. 17/2014 
+s. 160(Sch. 2 
+item 85). 
+S. 3 def. of 
+outgoings 
+amended by 
+No. 26/2020 
+s. 4(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Definitions and key concepts 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+5 
+  
+ 
+(ii) in the case of retail premises in a 
+retail shopping centre, any 
+building in the centre or any areas 
+used in association with a building 
+in the centre; 
+ 
+(b) rates, taxes, levies, premiums or 
+charges payable by the landlord 
+because the landlord is— 
+ 
+(i) the owner or occupier of a 
+building referred to in 
+paragraph (a) or of the land on 
+which such a building is erected; 
+or 
+ 
+(ii) the supplier of a taxable supply, 
+within the meaning of the A New 
+Tax System (Goods and Services 
+Tax) Act 1999 of the 
+Commonwealth, in respect of any 
+such building or land; 
+renewal of a retail premises lease has the meaning 
+given by section 9; 
+retail premises has the meaning given by 
+section 4; 
+retail shopping centre means a cluster of premises 
+that has all of these attributes— 
+ 
+(a) at least 5 of the premises are retail 
+premises; 
+ 
+(b) the premises are all owned by the same 
+person or have (or would have if 
+leased) the same landlord or the same 
+head landlord; 
+ 
+(c) the premises are located— 
+ 
+(i) in a single building; or  
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Definitions and key concepts 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+6 
+  
+ 
+(ii) in 2 or more buildings that are— 
+ 
+(A) adjoining; or  
+ 
+(B) separated only by common 
+areas or other areas owned 
+by the owner of the retail 
+premises; or 
+ 
+(C) separated only by a road; 
+ 
+(d) the cluster of premises is promoted as, 
+or generally regarded as constituting, a 
+shopping centre, shopping mall, 
+shopping court or shopping arcade; 
+retail tenancy dispute in Part 10 has the meaning 
+given by section 81; 
+Small Business Commission means the Small 
+Business Commission established under 
+section 4 of the Small Business 
+Commission Act 2017; 
+ 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+specialist retail valuer means— 
+ 
+(a) for the purposes of a valuation relating 
+to retail premises in a retail shopping 
+centre, a valuer having not less than 
+5 years' experience in valuing retail 
+premises located in regional or 
+sub-regional shopping centres; or 
+ 
+S. 3 def. of 
+Small 
+Business 
+Commission 
+inserted by 
+No. 16/2017 
+s. 32(b). 
+S. 3 def. of 
+Small 
+Business 
+Commis-
+sioner 
+repealed by 
+No. 16/2017 
+s. 32(a). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Definitions and key concepts 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+7 
+  
+ 
+(b) for the purposes of a valuation relating 
+to any other retail premises, a valuer 
+having not less than 5 years' experience 
+in valuing retail premises; 
+tenant under a retail premises lease— 
+ 
+(a) means the person who under the lease 
+is entitled to occupy the premises; and 
+ 
+(b) in Part 10, includes a former tenant 
+(because of section 83); 
+Tribunal means the Victorian Civil and 
+Administrative Tribunal established by the 
+Victorian Civil and Administrative 
+Tribunal Act 1998. 
+ 
+4 Meaning of retail premises 
+ 
+(1) In this Act, retail premises means premises, not 
+including any area intended for use as a residence, 
+that under the terms of the lease relating to the 
+premises are used, or are to be used, wholly or 
+predominantly for— 
+ 
+(a) the sale or hire of goods by retail or the retail 
+provision of services; or 
+ 
+(b) the carrying on of a specified business or a 
+specified kind of business that the Minister 
+determines under section 5 is a business to 
+which this paragraph applies. 
+ 
+(2) However, retail premises does not include the 
+following premises— 
+ 
+(a) premises in respect of which the occupancy 
+costs (as defined in subsection (3)) under the 
+lease concerned is more than the amount 
+prescribed by the regulations for the 
+purposes of this paragraph; 
+ 
+S. 4(1) 
+amended by 
+No. 82/2005 
+s. 5(1)(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Definitions and key concepts 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+8 
+  
+ 
+(b) premises that are used wholly or 
+predominantly for the carrying on of a 
+business by a tenant on behalf of the landlord 
+as the landlord's employee or agent;  
+ 
+(c) premises the tenant of which is— 
+ 
+(i) a listed corporation (as defined in 
+section 9 of the Corporations Act); or 
+ 
+(ii) a subsidiary (as defined in section 9 of 
+the Corporations Act) of such a 
+corporation; 
+ 
+(d) premises the tenant of which is— 
+ 
+(i) a body corporate whose securities are 
+listed on a stock exchange, outside 
+Australia and the external territories, 
+that is a member of the World 
+Federation of Exchanges; or 
+ 
+(ii) a subsidiary (as defined in section 9 of 
+the Corporations Act) of such a body 
+corporate; 
+ 
+(e) premises used wholly or predominantly for 
+the carrying on of a specified business or a 
+specified kind of business that the Minister 
+determines under section 5 is a business to 
+which this paragraph applies; 
+ 
+(f) premises of a kind that the Minister 
+determines under section 5 are premises to 
+which this paragraph applies; 
+ 
+(g) premises the tenant of which is a kind of 
+tenant that the Minister determines under 
+section 5 is a tenant to which this paragraph 
+applies; 
+ 
+(h) premises the lease relating to which is a kind 
+of lease that the Minister determines under 
+section 5 is a lease to which this paragraph 
+applies. 
+S. 4(2)(d)(i) 
+substituted by 
+No. 82/2005 
+s. 5(3). 
+S. 4(2)(f) 
+amended by 
+No. 82/2005 
+s. 5(4). 
+S. 4(2)(g) 
+inserted by 
+No. 82/2005 
+s. 5(5). 
+S. 4(2)(h) 
+inserted by 
+No. 82/2005 
+s. 5(5). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Definitions and key concepts 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+9 
+  
+ 
+(3) In subsection (2)(a), occupancy costs means— 
+ 
+(a) the rent payable under the lease, not being 
+rent (or any part of rent) that is to be 
+determined by reference to the turnover of a 
+business; and 
+ 
+(b) the outgoings, as estimated by the landlord, 
+to which the tenant is liable to contribute 
+under the lease; and 
+Note 
+Section 46 requires the landlord to give the tenant a 
+written estimate of the outgoings to which the tenant 
+is liable to contribute. 
+ 
+(c) any other costs of a prescribed kind that the 
+tenant is liable to pay under the lease. 
+ 
+(4) Regulations made for the purposes of 
+subsection (2)(a) may— 
+ 
+(a) prescribe an amount; or 
+ 
+(b) prescribe a method by which an amount may 
+be calculated. 
+Note 
+This Act may not apply to certain premises because of Part 3 
+(Application of the Act). 
+ 
+5 Minister may make determinations 
+ 
+(1) The Minister may, by notice published in the 
+Government Gazette— 
+ 
+(a) determine that a business is a business or a 
+kind of business to which section 4(1)(b) 
+applies; or 
+ 
+(b) determine that a business is a business or a 
+kind of business to which section 4(2)(e) 
+applies; or 
+ 
+(c) determine that a kind of premises are 
+premises to which section 4(2)(f) applies; or 
+S. 4(3)(b) 
+substituted by 
+No. 82/2005 
+s. 5(6). 
+S. 5(1)(c) 
+amended by 
+No. 82/2005 
+s. 6(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Definitions and key concepts 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+10 
+  
+ 
+(d) determine that a kind of tenant is a tenant to 
+which section 4(2)(g) applies; or 
+ 
+ 
+(e) determine that a kind of lease is a lease to 
+which section 4(2)(h) applies. 
+ 
+ 
+(1A) An instrument made under subsection (1) may 
+leave any matter to be certified by a Minister. 
+ 
+ 
+(1B) An instrument made under subsection (1) may 
+provide that it has effect on and from 1 May 2003 
+or such later date (whether before, on or after the 
+date on which the instrument is made) as is 
+specified in the instrument as the date on which it 
+comes into effect. 
+ 
+(2) The powers conferred by subsection (1) to make 
+an instrument are subject to the instrument being 
+disallowed by the Parliament. 
+ 
+(3) Section 15 and Part 5 of the Subordinate 
+Legislation Act 1994 apply to an instrument 
+made under subsection (1) as though— 
+ 
+(a) the instrument were a statutory rule (within 
+the meaning of that Act); and 
+ 
+(b) notice of the making of the statutory rule had 
+been published in the Government Gazette 
+when the instrument was published in the 
+Government Gazette. 
+ 
+6 Meaning of common areas of a shopping centre 
+ 
+(1) In this Act, the common areas of a retail shopping 
+centre means the areas in or adjacent to the centre 
+that are under the control of the landlord and are 
+used or intended for use— 
+ 
+(a) by the public; or 
+S. 5(1)(d) 
+inserted by 
+No. 82/2005 
+s. 6(2). 
+S. 5(1)(e) 
+inserted by 
+No. 82/2005 
+s. 6(2). 
+S. 5(1A) 
+inserted by 
+No. 82/2005 
+s. 6(3). 
+S. 5(1B) 
+inserted by 
+No. 82/2005 
+s. 6(3). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Definitions and key concepts 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+11 
+  
+ 
+(b) in common by the tenants of premises in the 
+centre relating to the carrying on of 
+businesses on those premises— 
+other than any areas in respect of which there is a 
+retail premises lease to which this Act applies. 
+ 
+(2) The common areas of a retail shopping centre 
+include— 
+ 
+(a) stairways, escalators and elevators; and 
+ 
+(b) malls and walkways; and 
+ 
+(c) parking areas; and 
+ 
+(d) toilets and rest rooms; and 
+ 
+(e) gardens and fountains; and 
+ 
+(f) information, entertainment, community and 
+leisure facilities. 
+ 
+7 When retail premises lease is entered into or 
+assigned 
+For the purposes of this Act, a retail premises 
+lease is entered into or assigned when— 
+ 
+(a) under the lease or assignment, the tenant 
+enters into possession of the premises with 
+the consent of the landlord; or 
+ 
+(b) under the lease or assignment, the tenant 
+begins to pay rent for the premises; or 
+ 
+(c) the lease or assignment has been signed by 
+all of the parties to it— 
+whichever first occurs. 
+ 
+8 Effect of assignment of retail premises lease 
+For the purposes of this Act, an assignment of a 
+retail premises lease is taken to be a continuation 
+of that lease (and not the entering into of a new 
+lease). 
+ 
+S. 7 
+substituted by 
+No. 82/2005 
+s. 7. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 2—Definitions and key concepts 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+12 
+  
+ 
+9 Meaning of renewal of a lease 
+ 
+(1) In this Act, the renewal of a retail premises lease 
+means the renewal of the lease— 
+ 
+(a) under an option granted under the lease for a 
+further term; or 
+ 
+(b) under an agreement to renew the lease on 
+substantially the same terms and conditions, 
+except as to rent, for a further term entered 
+into by all of the parties to the lease. 
+ 
+(2) However, if— 
+ 
+(a) after a retail premises lease expires, there is a 
+break in the tenant's possession of the 
+premises; and 
+ 
+(b) the tenant resumes possession of the 
+premises for a further term (whether or not 
+on the same terms and conditions as under 
+the expired lease)— 
+the resumption of possession of the premises is 
+taken not to be a renewal of the expired lease and 
+is instead taken to be the entering into of a new 
+lease for the purposes of this Act. 
+ 
+(3) The renewal of a retail premises lease is not to be 
+taken to be the entering into of a retail premises 
+lease for the purposes of section 17 (landlord's 
+disclosure statement). 
+ 
+10 Holding over under a retail premises lease  
+If, in accordance with a retail premises lease, the 
+tenant continues to be in possession of the retail 
+premises for a period after the lease has expired, 
+the lease is taken to continue for the purposes of 
+this Act while the tenant is in possession of the 
+premises. 
+ 
+ 
+S. 9(1)(b) 
+amended by 
+No. 82/2005 
+s. 8. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Application of the Act 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+13 
+  
+Part 3—Application of the Act 
+ 
+11 Application generally 
+ 
+(1) This Act applies to a retail premises lease that is— 
+ 
+(a) entered into after the commencement of this 
+section; or 
+ 
+(b) renewed after the commencement of this 
+section, whether the lease was entered into 
+before or after that commencement. 
+ 
+(2) Except as provided by Part 10 (Dispute 
+Resolution), this Act only applies to a lease of 
+premises if the premises are retail premises 
+(as defined in section 4) at the time the lease is 
+entered into or renewed. 
+Note 
+Sections 36 and 76(1) extend the application of certain provisions 
+of this Act to certain leases entered into or renewed before the 
+commencement of this section. 
+ 
+12 Application if lease term of less than a year 
+ 
+(1) This Act does not apply to a retail premises lease 
+for a term of less than one year. 
+ 
+(2) However, if the term of a retail premises lease is 
+less than one year and as a result of either or both 
+of the following— 
+ 
+(a) the lease being renewed (one or more times); 
+ 
+(b) the lease being continued— 
+the tenant is continuously in possession of the 
+retail premises for one year or more under the 
+lease after the commencement of this section, this 
+Act applies to the lease on and from the day on 
+which the tenant has continuously been in 
+possession of the retail premises for one year after 
+that commencement. 
+S. 12(2) 
+amended by 
+No. 82/2005 
+s. 9(a)(b). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Application of the Act 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+14 
+  
+ 
+(3) If this Act applies to a lease because of 
+subsection (2)— 
+ 
+(a) section 17 (landlord's disclosure statement) 
+does not apply to the lease; and 
+ 
+(b) section 26 (landlord's disclosure on renewal 
+of lease) applies to the lease with these 
+changes— 
+ 
+(i) section 26(1) is taken to provide that 
+the landlord must give the tenant the 
+disclosure statement referred to in that 
+section within 60 days after this Act 
+begins to apply to the lease;  
+ 
+(ii) section 26(3) is taken to provide that if 
+the tenant has not been given the 
+disclosure statement within that time, 
+the tenant may give the landlord the 
+notice referred to in that section no 
+earlier than 7 days and no later than 
+90 days after this Act begins to apply to 
+the lease;  
+ 
+(iii) section 26(5)(b) is taken to refer to 
+when this Act begins to apply to the 
+lease. 
+ 
+13 Act applies to retail premises in Victoria 
+Subject to this Part, this Act applies to a lease that 
+provides for the occupation of retail premises in 
+Victoria regardless of— 
+ 
+(a) where the lease was entered into; and 
+ 
+(b) whether the lease purports to be governed by 
+a law other than the law of Victoria. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 3—Application of the Act 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+15 
+  
+ 
+14 Act binds the Crown 
+This Act binds the Crown— 
+ 
+(a) in right of the State of Victoria; and 
+ 
+(b) to the extent that the legislative power of the 
+Parliament permits, in all its other capacities. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+16 
+  
+Part 4—Entering into or renewing a retail 
+premises lease 
+Division 1—Entering into a retail premises lease 
+ 
+15 Copy of lease to be provided at negotiation stage 
+ 
+ 
+ 
+(1) A landlord who— 
+ 
+(a) offers to enter into a retail premises lease; or 
+ 
+(b) advertises by any means that retail premises 
+are for lease— 
+must, as soon as the landlord enters into 
+negotiations with a person about the lease, give to 
+that person a copy of the proposed lease in writing 
+(but the copy need not include particulars of the 
+tenant, the rent or the term of the proposed lease) 
+and a copy of the information brochure (if any) 
+about retail leases published by the Small 
+Business Commission. 
+Penalty: 50 penalty units. 
+ 
+(2) Subsection (1) does not apply to a renewal of a 
+lease. 
+ 
+ 
+(3) In this section, landlord means— 
+ 
+(a) a landlord; or 
+ 
+(b) a person acting on behalf of a landlord or 
+prospective landlord; or 
+ 
+(c) a prospective landlord. 
+ 
+ 
+ 
+S. 15 
+amended by 
+No. 82/2005 
+s. 10 (ILA 
+s. 39B(1)). 
+S. 15(1) 
+amended by 
+Nos 69/2012 
+s. 3(1), 
+16/2017 s. 33. 
+S. 15(2) 
+inserted by 
+No. 82/2005 
+s. 10. 
+S. 15(3) 
+inserted by 
+No. 69/2012 
+s. 3(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+17 
+  
+ 
+16 Lease must be in writing and signed 
+ 
+(1) A landlord or tenant must not enter into a retail 
+premises lease that is not in writing and signed by 
+all of the parties to it. 
+Penalty: 10 penalty units. 
+ 
+(2) A failure to comply with this section does not 
+make the retail premises lease illegal, invalid or 
+unenforceable. 
+ 
+17 Provision of landlord's disclosure statement and 
+proposed lease 
+ 
+ 
+(1) The landlord, at least 14 days before entering into 
+a retail premises lease, must give the tenant— 
+ 
+(a) a disclosure statement in the prescribed form 
+(but the layout of the statement need not be 
+the same as the prescribed disclosure 
+statement); and 
+ 
+(b) a copy of the proposed lease in writing, 
+including particulars of the tenant, the rent 
+and the term of the proposed lease. 
+ 
+(1A) In the application of subsection (1) to a sub-lease, 
+a tenant who has been given a disclosure 
+statement concerning a head-lease is only required 
+to give a sub-tenant— 
+ 
+(a) a copy of that disclosure statement; and 
+ 
+(b) details of any changes of which the tenant is 
+aware, or could reasonably be expected to be 
+aware, that have affected the information in 
+the disclosure statement since it was given to 
+the tenant. 
+ 
+(1B) If the proposed lease given to the tenant contains 
+any changes to the previous copy of the lease 
+given to the tenant, the landlord must notify the 
+S. 17 
+(Heading) 
+substituted by 
+No. 26/2020 
+s. 9(1). 
+S. 17(1) 
+substituted by 
+No. 26/2020 
+s. 9(2). 
+S. 17(1A) 
+inserted by 
+No. 82/2005 
+s. 11(1). 
+S. 17(1B) 
+inserted by 
+No. 26/2020 
+s. 9(3). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+18 
+  
+tenant of the changes when the proposed lease is 
+given to them. 
+Penalty: In the case of a natural person, 
+50 penalty units; 
+ 
+In the case of a body corporate, 
+250 penalty units. 
+ 
+(1C) If the landlord gives the tenant the disclosure 
+statement and proposed lease less than 14 days 
+before the lease is to be entered into, the term of 
+the lease is taken to commence 14 days after the 
+disclosure statement and proposed lease are given 
+to the tenant. 
+ 
+(2) If a tenant has not been given the disclosure 
+statement before entering into a retail premises 
+lease, the tenant may give the landlord, no earlier 
+than 7 days and no later than 90 days after 
+entering into the lease, a written notice that the 
+tenant has not been given the disclosure statement. 
+ 
+(3) If the tenant gives the landlord a notice in 
+accordance with subsection (2)— 
+ 
+(a) the tenant may withhold payment of the rent 
+until the day on which the landlord gives the 
+tenant the disclosure statement; and 
+ 
+(b) the tenant is not liable to pay the rent 
+attributable to the period from and including 
+the day on which the notice was given until 
+and including the day on which the landlord 
+gives the tenant the disclosure statement; and 
+ 
+(c) the tenant may give the landlord a written 
+notice of termination at any time before the 
+end of 7 days after the landlord gives the 
+tenant the disclosure statement. 
+ 
+(4) If the premises are not available for handover to 
+the tenant on the date specified in the disclosure 
+statement, the tenant is not liable to pay the rent 
+S. 17(1C) 
+inserted by 
+No. 26/2020 
+s. 9(3). 
+S. 17(4) 
+amended by 
+No. 82/2005 
+s. 11(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+19 
+  
+attributable to a period before the date on which 
+the premises are available for handover. 
+ 
+(5) If— 
+ 
+(a) any information provided by the landlord in 
+the disclosure statement is misleading, false 
+or materially incomplete; or 
+ 
+(b) the tenant is not given a copy of the proposed 
+lease in accordance with subsection (1)(b)— 
+the tenant may give the landlord a written notice 
+of termination. 
+ 
+(6) The tenant may give a notice of termination under 
+subsection (5) at any time before the end of 
+28 days after— 
+ 
+(a) the tenant is given the disclosure statement; 
+or 
+ 
+(b) the tenant is given a copy of the proposed 
+lease; or 
+ 
+ 
+(c) the lease is entered into— 
+whichever happens last. 
+ 
+(7) If a tenant has been given the disclosure statement 
+before entering into an agreement for a retail 
+premises lease, the landlord is not required to give 
+a further disclosure statement before subsequently 
+entering into a retail premises lease if that lease is 
+in accordance with the earlier agreement for the 
+lease. 
+ 
+(8) In this section— 
+landlord means— 
+ 
+(a) a landlord; or 
+ 
+S. 17(6)(b) 
+amended by 
+No. 82/2005 
+s. 11(3). 
+S. 17(7) 
+inserted by 
+No. 82/2005 
+s. 11(4), 
+amended by 
+No. 26/2020 
+s. 9(4). 
+S. 17(8) 
+inserted by 
+No. 69/2012 
+s. 4. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+20 
+  
+ 
+(b) a person acting on behalf of a landlord 
+or prospective landlord; or 
+ 
+(c) a prospective landlord; 
+tenant means— 
+ 
+(a) a tenant; or 
+ 
+(b) a prospective tenant. 
+ 
+18 Effect of notice of termination 
+ 
+(1) If a tenant under a retail premises lease gives the 
+landlord a notice of termination under— 
+ 
+(a) section 17(3)(c) within the time allowed by 
+that section; or 
+ 
+(b) section 17(5) within the time allowed by 
+section 17(6)— 
+the lease terminates 14 days after the notice is 
+given unless the landlord gives the tenant a notice 
+of objection to the termination. 
+ 
+(2) Within 14 days after being given the notice of 
+termination the landlord may give the tenant a 
+notice of objection to the termination on the 
+ground that— 
+ 
+(a) the landlord has acted honestly and 
+reasonably and ought fairly to be excused for 
+the contravention; and 
+ 
+(b) the tenant is substantially in as good a 
+position as the tenant would have been in if 
+there had been no contravention. 
+ 
+(3) If the tenant advises the landlord that the tenant 
+accepts the landlord's notice of objection or the 
+notice is upheld under Part 10, the lease does not 
+terminate in accordance with the notice of 
+termination despite subsection (1). 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+21 
+  
+ 
+(4) The tenant is taken to have accepted the notice of 
+objection if the tenant does not advise (in writing) 
+the landlord, within 14 days after being given the 
+notice, whether or not the tenant accepts it. 
+ 
+(5) The operation of a notice of termination under 
+section 17(3)(c) or (5) is suspended until the effect 
+of a notice of objection to it is determined. 
+ 
+19 Notices of termination 
+The termination of a lease by a notice of 
+termination given in accordance with this Act 
+does not affect any right, privilege, obligation or 
+liability acquired, accrued or incurred under the 
+lease before the date of termination, unless the 
+landlord and tenant otherwise agree or it is 
+otherwise provided by this Act or determined 
+under Part 10. 
+ 
+20 Tenant not required to pay undisclosed 
+contributions 
+A provision of a retail premises lease that requires 
+the tenant to pay or contribute towards the cost of 
+any fit out of the retail premises is void unless the 
+liability to make the payment or contribution was 
+disclosed in a disclosure statement given to the 
+tenant in accordance with this Part. 
+ 
+21 Minimum 5 year term 
+ 
+(1) The term of a retail premises lease, including any 
+further term or terms provided for by an option for 
+the tenant to renew the lease, must be at least 
+5 years or, if the term remaining under any head 
+lease under which the landlord holds the retail 
+premises is 5 years or less, the length of that 
+remaining term less one day. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+22 
+  
+Note 
+The landlord or tenant may, in accordance with the lease or 
+this Act, be able to terminate the lease before the end of the 
+term if, for example, there has been default, relocation, 
+demolition or damage to the retail premises.  
+ 
+(2) In applying subsection (1), an option conferred 
+after the lease was entered into must be 
+disregarded. 
+ 
+(2A) In applying subsection (1) to a retail premises 
+lease to which this Act applies because of 
+section 12(2), account must be taken of any period 
+during which the tenant was continuously entitled 
+to possession of the retail premises before the day 
+on which this Act first applied to the lease. 
+Note 
+Section 8 provides that an assignment of a retail premises 
+lease is taken to be a continuation of that lease. 
+ 
+(3) This section does not apply to a renewal of a lease 
+if there is no break in the tenant's entitlement to 
+possession of the retail premises. 
+Note 
+This means that a renewal of a lease is not required to be for 
+5 years because the minimum 5 year term requirement 
+applied to the lease when it was entered into and the 
+availability of the renewal will have been taken into account 
+in determining the term of the lease. 
+ 
+(4) A lease that is entered into contrary to this section 
+is not illegal, invalid or unenforceable because of 
+that fact but the term of the lease is extended by 
+the period that is necessary to ensure the lease 
+complies with this section. 
+Note 
+For example, if a lease is entered into for a term of 3 years, 
+its term is extended by 2 years to 5 years.  If a lease is 
+entered into for a term of 2 years with an option for a further 
+1 year after the initial 2 years, the term of the lease is 
+extended to 4 years (with the option for a further 1 year after 
+the initial 4 years). 
+Note to 
+s. 21(1) 
+amended by 
+No. 82/2005 
+s. 12(1). 
+S. 21(2A) 
+inserted by 
+No. 82/2005 
+s. 12(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+23 
+  
+ 
+(5) This section does not apply to a lease if— 
+ 
+(a) at the request of the tenant or prospective 
+tenant, the Small Business Commission 
+certifies in writing that it, or a person acting 
+on its behalf, has explained to the tenant or 
+prospective tenant— 
+ 
+(i) the effect of subsections (1) to (4); and 
+ 
+(ii) that the giving of the certificate and the 
+giving by the tenant or prospective 
+tenant to the landlord of a copy of the 
+certificate under paragraph (b) will 
+result in this section not applying to the 
+lease; and 
+ 
+(b) after having been given a certificate under 
+paragraph (a)(ii), the tenant or prospective 
+tenant gives the landlord a copy of the 
+certificate. 
+ 
+(5A) The Small Business Commission— 
+ 
+(a) must consider a request under subsection (5) 
+made by a tenant or a prospective tenant 
+before a lease is entered into and within 
+90 days after a lease is entered into; and 
+ 
+(b) may consider a request made at any other 
+time under subsection (5). 
+ 
+(6) The Small Business Commission must issue a 
+certificate under subsection (5)(a)(ii) within 
+21 days after being requested to do so by the 
+tenant or prospective tenant but a certificate issued 
+later than that is not invalid because of that fact. 
+ 
+(7) If the term of a lease is extended under this 
+section and no provision is made in the lease for a 
+review of the rent payable in respect of the 
+extended period, then the lease is taken to provide 
+for a rent review to be made on the basis of the 
+S. 21(5)(a) 
+amended by 
+Nos 82/2005 
+s. 12(3)(6), 
+69/2012 s. 5, 
+16/2017 
+s. 34(1). 
+S. 21(5)(a)(ii) 
+amended by 
+No. 82/2005 
+s. 12(4)(6). 
+S. 21(5)(b) 
+amended by 
+No. 82/2005 
+s. 12(5)(6). 
+S. 21(5A) 
+inserted by 
+No. 82/2005 
+s. 12(7), 
+amended by 
+No. 16/2017 
+s. 34(2). 
+S. 21(6) 
+amended by 
+Nos 82/2005 
+s. 12(6), 
+16/2017 
+s. 34(2). 
+S. 21(7) 
+inserted by 
+No. 82/2005 
+s. 12(8). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+24 
+  
+current market rent of the premises as at the 
+beginning of that period. 
+Note 
+For reviews based on the current market rent of the retail 
+premises, see section 37. 
+ 
+22 Tenant to be given copy of lease 
+ 
+(1) Within 28 days, or such other period as is agreed 
+in writing between the landlord and the tenant, 
+after being given a copy of the retail premises 
+lease signed by the tenant, the landlord must give 
+the tenant a copy (which may be a photocopy) of 
+the lease signed by the landlord and the tenant. 
+ 
+(2) If the landlord contravenes subsection (1), the 
+tenant may give the landlord a written notice of 
+termination at any time within 28 days after— 
+ 
+(a) the tenant is given a copy of the lease signed 
+by the landlord and the tenant; or 
+ 
+ 
+(b) entering into the lease— 
+whichever happens last. 
+ 
+(3) Subject to subsection (4), if a tenant gives the 
+landlord a notice of termination in accordance 
+with subsection (2), the lease terminates 14 days 
+after the notice is given. 
+ 
+(4) Section 18 applies to a notice of termination given 
+under this section in the same way and to the same 
+extent as it applies to a notice of termination given 
+under section 17(3)(c) or (5). 
+ 
+23 Key-money and goodwill payments prohibited 
+ 
+(1) A landlord must not seek or accept the payment 
+of— 
+ 
+(a) key-money; or 
+S. 22(1) 
+amended by 
+No. 82/2005 
+s. 13(1). 
+S. 22(2)(a) 
+amended by 
+No. 82/2005 
+s. 13(2). 
+S. 23(1) 
+amended by 
+No. 69/2012 
+s. 6(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+25 
+  
+ 
+(b) any consideration for the goodwill of any 
+business carried on at the retail premises. 
+Penalty: 50 penalty units. 
+ 
+(2) A provision of a retail premises lease is void to 
+the extent that it requires the payment of 
+key-money or consideration for goodwill or has 
+that effect. 
+ 
+(3) However, subsections (1) and (2) do not prevent a 
+landlord from— 
+ 
+(a) recovering from the tenant costs which the 
+landlord reasonably incurred in investigating 
+a proposed assignee of the lease or 
+sub-tenant of the premises; or 
+ 
+(b) recovering from the tenant costs which the 
+landlord reasonably incurred in connection 
+with— 
+ 
+(i) an assignment of the lease or a 
+sub-lease; and 
+ 
+(ii) obtaining any necessary consents to the 
+assignment or sub-lease; or 
+ 
+(c) claiming goodwill from the tenant in relation 
+to the sale of a business that the landlord 
+operated from the retail premises 
+immediately before its sale, if the lease was 
+granted to the tenant in the course of the sale 
+of the business; or 
+ 
+(d) receiving payment of rent in advance; or 
+ 
+(e) securing the performance of the tenant's 
+obligations under the lease by requiring a 
+bond, security deposit or guarantee to be 
+provided from the tenant or any other person 
+(such as a requirement that the directors of a 
+corporation guarantee performance of the 
+corporation's lease obligations); or 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+26 
+  
+ 
+(f) seeking and accepting payment for plant, 
+equipment, fixtures or fittings that are sold 
+by the landlord to the tenant in connection 
+with the lease being granted; or 
+ 
+(g) seeking and accepting payment for the grant 
+of a franchise in connection with the lease 
+being granted. 
+ 
+(4) Any payment made, or the value of any benefit 
+conferred, by the tenant and received by the 
+landlord contrary to this section may be— 
+ 
+(a) recovered by the tenant from the landlord in 
+a court of competent jurisdiction as a debt 
+due; or 
+ 
+(b) otherwise recovered by the tenant from the 
+landlord as determined under Part 10 
+(Dispute Resolution). 
+ 
+(5) In this section, landlord means— 
+ 
+(a) a landlord; or 
+ 
+(b) a person acting on behalf of a landlord or 
+prospective landlord; or 
+ 
+(c) a prospective landlord. 
+ 
+24 Security deposits 
+ 
+(1) A retail premises lease is taken to provide that— 
+ 
+(a) money paid by the tenant to the landlord as a 
+security deposit for the performance of the 
+tenant's obligations under the lease must be 
+held by the landlord on behalf of the tenant 
+in an interest-bearing account; and 
+ 
+(b) the landlord must account to the tenant for 
+interest earned on the deposit but the 
+landlord is entitled to keep the interest and 
+deal with it as money paid by the tenant to 
+the landlord to form part of the security 
+deposit; and 
+S. 23(4) 
+amended by 
+No. 69/2012 
+s. 6(2). 
+S. 23(4)(b) 
+substituted by 
+No. 82/2005 
+s. 14. 
+S. 23(5) 
+inserted by 
+No. 69/2012 
+s. 6(3). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+27 
+  
+ 
+(c) the landlord is not entitled unreasonably to 
+refuse to accept a guarantee from an ADI 
+(within the meaning of the Banking Act 1959 
+of the Commonwealth) in satisfaction of any 
+requirement to provide security in the form 
+of a deposit, bond or third party guarantee 
+for the performance of the tenant's 
+obligations under the lease; and 
+ 
+(d) if the tenant performs all of the tenant's 
+obligations under the lease the landlord must 
+return the security deposit to the tenant 
+within 30 days after the lease ends. 
+ 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+(3) This section does not affect any lawful entitlement 
+of the landlord to appropriate security deposits. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+Division 2—Renewal of a retail premises lease 
+ 
+26 Landlord's disclosure on renewal of lease 
+ 
+(1) If— 
+ 
+(a) a tenant has exercised, or is entitled to 
+exercise, an option to renew a retail premises 
+lease granted under the lease; or 
+ 
+ 
+ 
+S. 24(1)(c) 
+amended by 
+No. 82/2005 
+s. 15(1). 
+S. 24(1)(d) 
+inserted by 
+No. 82/2005 
+s. 15(2), 
+amended by 
+No. 26/2020 
+s. 10. 
+S. 24(2) 
+repealed by 
+No. 82/2005 
+s. 15(3). 
+S. 25 
+amended by 
+No. 82/2005 
+s. 16, 
+repealed by 
+No. 69/2012 
+s. 7. 
+S. 26(1) 
+amended by 
+No. 82/2005 
+s. 17(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+28 
+  
+ 
+(b) all of the parties to a retail premises lease 
+enter into an agreement to renew the lease— 
+the landlord must (at least 21 days before the end 
+of the current term of the lease in the 
+circumstances referred to in paragraph (a) and no 
+later than 14 days after the entering into of the 
+agreement in the circumstances referred to in 
+paragraph (b)) give the tenant a disclosure 
+statement in the form prescribed by the 
+regulations (but the layout of the statement need 
+not be the same as the prescribed disclosure 
+statement). 
+Note 
+Section 12(3) changes the way that this section applies to 
+certain leases (for example, the time limit in subsection (1) 
+is changed). 
+ 
+(2) The disclosure statement referred to in 
+subsection (1)— 
+ 
+(a) must set out any changes to the previous 
+disclosure statement given to the tenant in 
+respect of the lease; and 
+ 
+(b) must include information that is current from 
+a specified date that is within 3 months 
+before the statement is given. 
+ 
+(3) If the tenant has not been given the disclosure 
+statement before the expiration of the relevant 
+period specified in subsection (1), the tenant may, 
+no later than 90 days after the expiration of the 
+relevant period, give the landlord a written notice 
+that the tenant has not been given the disclosure 
+statement. 
+ 
+(4) If the tenant gives the landlord a notice in 
+accordance with subsection (3)— 
+ 
+(a) the tenant may withhold payment of the rent 
+until the day on which the landlord gives the 
+tenant the disclosure statement; and 
+S. 26(2) 
+substituted by 
+No. 26/2020 
+s. 11. 
+S. 26(3) 
+substituted by 
+No. 82/2005 
+s. 17(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+29 
+  
+ 
+(b) the tenant is not liable to pay the rent 
+attributable to the period from and including 
+the day on which the notice was given until 
+and including the day on which the landlord 
+gives the tenant the disclosure statement; and 
+ 
+(c) the tenant may give the landlord a written 
+notice of termination at any time before the 
+end of 7 days after the landlord gives the 
+tenant the disclosure statement. 
+ 
+(5) If any information provided by the landlord in the 
+disclosure statement is misleading, false or 
+materially incomplete, the tenant may give the 
+landlord a written notice of termination at any 
+time before the end of 28 days after— 
+ 
+(a) the tenant is given the disclosure statement; 
+or 
+ 
+(b) the lease is renewed— 
+whichever happens last. 
+ 
+(6) Section 18 applies to a notice of termination given 
+under subsection (4)(c) or (5) in the same way and 
+to the same extent as it applies to a notice of 
+termination given under section 17(3)(c) or (5). 
+Note 
+This section applies to the renewal, on or after its commencement, 
+of a lease entered into before its commencement, see section 11(1). 
+ 
+27 Option to renew 
+ 
+(1) If a retail premises lease contains an option 
+exercisable by the tenant to renew the lease for a 
+further term, the lease must state— 
+ 
+(a) the date until which the option is exercisable; 
+and 
+ 
+(b) how the option is to be exercised; and 
+ 
+(c) the terms and conditions on which the lease 
+is renewable under the option; and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+30 
+  
+ 
+(d) how the rent payable during the term for 
+which the lease is renewed is to be 
+determined. 
+ 
+(2) If a retail premises lease contains an option 
+exercisable by the tenant to renew the lease for a 
+further term, the only circumstances in which the 
+option is not exercisable is if— 
+ 
+(a) the tenant has not remedied any default 
+under the lease about which the landlord has 
+given the tenant written notice; or 
+ 
+(b) the tenant has persistently defaulted under 
+the lease throughout its term and the landlord 
+has given the tenant written notice of the 
+defaults. 
+ 
+28 Landlord to give tenant certain information before 
+option to renew lease expires 
+ 
+ 
+(1) This section applies if a retail premises lease 
+contains an option exercisable by the tenant to 
+renew the lease for a further term. 
+ 
+(1A) The landlord, at least 3 months before the last date 
+that an option to renew the lease may be 
+exercised, must give the tenant written notice 
+setting out— 
+ 
+(a) the date by which the option to renew the 
+lease may be exercised by the tenant; and 
+ 
+(b) the rent payable for the first 12 months under 
+any renewed term of the lease; and 
+ 
+(c) the availability of an early rent review under 
+section 28A; and 
+ 
+(d) the availability of a cooling off period under 
+section 28B; and 
+S. 28 
+(Heading) 
+substituted by 
+No. 26/2020 
+s. 12(1). 
+S. 28(1) 
+substituted by 
+No. 26/2020 
+s. 12(2). 
+S. 28(1A) 
+inserted by 
+No. 26/2020 
+s. 12(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+31 
+  
+ 
+(e) any changes to the most recent disclosure 
+statement provided to the tenant, other than 
+any changes in relation to rent. 
+ 
+(2) If the landlord fails to give the tenant all of the 
+information required by subsection (1A) or to give 
+written notice within the time specified by that 
+subsection— 
+ 
+(a) the retail premises lease is taken to provide 
+that the date after which the option is no 
+longer exercisable is instead 3 months after 
+the landlord notifies the tenant as required; 
+and 
+ 
+(b) subject to subsections (2A) and (2B), if that 
+date is after the term of the lease ends, the 
+lease continues until that date on the same 
+terms and conditions as applied immediately 
+before the lease term ends, unless the 
+landlord and tenant otherwise agree; and 
+ 
+(c) the tenant, whether or not the landlord has by 
+then notified the tenant as required, may give 
+written notice to the landlord terminating the 
+lease from a specified day that is— 
+ 
+(i) on or after the date on which the term 
+of the lease ends; and 
+ 
+(ii) before the date until which the lease 
+would otherwise have continued 
+because of paragraph (b). 
+ 
+(2A) If the tenant requests an early rent review under 
+section 28A and the rent determination under that 
+review is less than the rent payable under the lease 
+during a term extended under subsection (2)(b), 
+the rent payable during the extended term is to be 
+equal to the rent determination. 
+ 
+(2B) If the tenant does not request an early rent review 
+under section 28A but the rent specified in a 
+written notice under subsection (1A) is less than 
+S. 28(2) 
+amended by 
+No. 26/2020 
+s. 12(3). 
+S. 28(2)(a) 
+amended by 
+No. 26/2020 
+s. 12(4). 
+S. 28(2)(b) 
+substituted by 
+No. 26/2020 
+s. 12(5). 
+S. 28(2)(c) 
+amended by 
+No. 82/2005 
+s. 18. 
+S. 28(2A) 
+inserted by 
+No. 26/2020 
+s. 12(6). 
+S. 28(2B) 
+inserted by 
+No. 26/2020 
+s. 12(6). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+32 
+  
+the rent payable under the lease during a term 
+extended under subsection (2)(b), the rent payable 
+during the extended term is to be equal to the rent 
+specified in the notice. 
+ 
+(3) If the tenant gives the landlord a notice of 
+termination under subsection (2)(c), the lease 
+terminates on the day specified in the notice. 
+ 
+(4) If an option to renew is exercised because of 
+subsection (2)(b) after the term of the lease ends, 
+the lease for the further term commences on the 
+expiry of the previous lease, disregarding for this 
+purpose any period during which that lease 
+continued because of that subsection. 
+ 
+28A Early rent reviews 
+ 
+(1) If a retail premises lease provides for a rent review 
+to be made on the basis of the current market rent 
+of the premises, the tenant may request the 
+landlord for an early rent review in accordance 
+with this section. 
+Note 
+For reviews based on the current market rent of the retail 
+premises, see section 37. 
+ 
+(2) The tenant may request an early rent review by 
+giving the landlord written notice of the request 
+within 28 days after the landlord gives notice 
+under section 28(1A). 
+ 
+(3) The tenant must notify the landlord in writing as 
+to whether the tenant exercises the option to 
+renew the lease on or before the last date that the 
+option to renew the lease may be exercised. 
+ 
+(4) If a specialist retail valuer is appointed to 
+determine the current market rent but the tenant is 
+not notified of the rent determination at least 
+14 days before the last date that the option to 
+renew the lease may be exercised, that date is 
+S. 28A 
+inserted by 
+No. 26/2020 
+s. 13. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+33 
+  
+extended to 14 days after the date on which the 
+tenant is notified. 
+ 
+(5) If the tenant exercises the option to renew the 
+lease, but the last date that the option may be 
+exercised is extended under subsection (4) until 
+after the lease term ends, the term of the lease is 
+extended on the same terms and conditions to that 
+date, unless the landlord and tenant otherwise 
+agree. 
+ 
+(6) If the tenant does not exercise the option to renew 
+the lease, and the date that is 3 months after the 
+last date that the option to renew the lease may be 
+exercised is after the lease term ends, the term of 
+the lease is extended on the same terms and 
+conditions to that date, unless the landlord and 
+tenant otherwise agree. 
+ 
+(7) Despite subsections (5) and (6), if the rent 
+determination under an early rent review is less 
+than the rent payable under the lease during an 
+extended term, the rent payable during the 
+extended term is to be equal to the rent 
+determination. 
+ 
+28B Cooling off period—option to renew lease 
+ 
+(1) If a tenant has exercised an option to renew a 
+retail premises lease and has not requested an 
+early rent review under section 28A, the tenant 
+may give the landlord a written notice, in the 
+cooling off period, that the tenant no longer 
+wishes to exercise that option to renew the lease. 
+ 
+(2) If the tenant gives the landlord a notice under 
+subsection (1)— 
+ 
+(a) the term of the lease is extended by 14 days; 
+and 
+ 
+(b) the lease is not, and is taken not to have 
+been, renewed; and 
+S. 28B 
+inserted by 
+No. 26/2020 
+s. 13. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 4—Entering into or renewing a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+34 
+  
+ 
+(c) the tenant is not able to exercise an option to 
+renew the lease. 
+ 
+(3) In this section— 
+cooling off period, in relation to a retail premises 
+lease, means the period ending 14 days after 
+the day on which the tenant exercises an 
+option to renew the lease. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+35 
+  
+Part 5—Rent and outgoings 
+Division 1—The fit out of the premises 
+ 
+29 Meaning of outgoings to which a tenant contributes 
+In this Part, outgoings to which a tenant under a 
+retail premises lease contributes or is liable to 
+contribute means any outgoings (as defined in 
+section 3) in respect of which the tenant is liable 
+under the lease to make any payment to the 
+landlord. 
+Note 
+The term outgoings is defined in section 3 and includes the cost, or 
+part of the cost, of repairs or maintenance work in respect of an 
+essential safety measure or an installation referred to in 
+section 41(2)(b)(ii). 
+ 
+30 Alterations to premises to enable fit out 
+ 
+(1) A retail premises lease where the retail premises 
+are located in a retail shopping centre is taken to 
+provide as set out in this section if the tenant is 
+liable under the lease to pay an amount for the 
+costs of, or associated with, carrying out works to 
+alter any of the following to enable the proposed 
+fit out of the premises— 
+ 
+(a) the electrical reticulation at the premises; 
+ 
+(b) the automatic sprinkler system at the 
+premises; 
+ 
+(c) the power or gas supply to the premises; 
+ 
+(d) the layout of air-conditioning ducts or 
+registers;  
+ 
+(e) the location of exhausts; 
+ 
+(f) telephone or electrical cabling; 
+ 
+(g) such other things as are prescribed by the 
+regulations. 
+Note to s. 29 
+inserted by 
+No. 26/2020 
+s. 5. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+36 
+  
+ 
+(2) The works must be carried out by a person or 
+persons with suitable skills and experience 
+engaged, or approved, by the landlord. 
+ 
+(3) The maximum cost of the works, or a basis or 
+formula with respect to those costs, is to be agreed 
+in writing by the landlord and tenant before the 
+works begin. 
+ 
+(4) If the landlord and tenant cannot agree on the 
+maximum cost of the works or a basis or formula 
+with respect to those costs, the maximum cost is 
+to be determined by an independent quantity 
+surveyor appointed by— 
+ 
+(a) agreement between the landlord and tenant; 
+or 
+ 
+(b) if there is no agreement, the Small Business 
+Commission— 
+ 
+and the landlord and tenant are to pay the costs of 
+the independent quantity surveyor in equal shares. 
+ 
+(5) The tenant is not liable to pay an amount in 
+respect of the works that is more than the 
+maximum cost agreed by the landlord and tenant, 
+or determined by the independent quantity 
+surveyor, as the case may be. 
+ 
+31 Payment of rent when landlord's fit out not 
+completed 
+ 
+(1) This section applies to a retail premises lease if— 
+ 
+(a) the liability of the tenant to pay rent under 
+the lease starts when the tenant enters into 
+possession of the retail premises (whether or 
+not the tenant is required to enter into 
+possession by a specified date); and 
+ 
+S. 30(4)(b) 
+amended by 
+No. 16/2017 
+s. 35. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+37 
+  
+ 
+(b) the landlord has obligations under the lease 
+concerning the fit out of the premises (that is, 
+the landlord is required to provide some or 
+all of the fit out before the tenant enters into 
+possession of the premises). 
+ 
+(2) The retail premises lease is taken to provide 
+that— 
+ 
+(a) the tenant is not liable to pay rent, or any 
+other amount payable under the lease by the 
+tenant (such as an amount payable for 
+outgoings), in respect of any period before 
+the landlord has substantially complied with 
+the landlord's obligations concerning the fit 
+out of the premises; and 
+ 
+(b) except on reasonable grounds of safety, the 
+landlord is not entitled to deny the tenant 
+possession of the premises merely because 
+the landlord has not complied with those 
+obligations. 
+ 
+32 Special rent—cost of fit out 
+Apart from section 30, nothing in this Act 
+prevents a retail premises lease from providing for 
+the payment of a special rent (in addition to any 
+other rent) to cover the landlord's costs relating to 
+the fit out of the premises. 
+Division 2—Determination of the rent 
+ 
+33 Rent based on turnover 
+ 
+(1) A provision in a retail premises lease that the rent 
+is to be determined either fully or partly by 
+reference to the turnover of the business is void 
+unless the lease specifies how the rent is to be 
+determined. 
+Note 
+If the provision is void, see section 34. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+38 
+  
+ 
+(2) If a retail premises lease specifies how the rent is 
+to be determined fully or partly by reference to the 
+turnover of the business, the tenant must give the 
+landlord— 
+ 
+(a) within 14 days after the end of each month 
+for which the rent is to be determined in that 
+way or such longer period as the lease 
+provides, a statement in writing giving the 
+turnover during that month or other period to 
+which the statement relates; and 
+ 
+(b) within 28 days after the end of each year for 
+which the rent is to be determined in that 
+way or such longer period as the lease 
+provides and at the end of the lease or on an 
+assignment of the lease— 
+ 
+(i) a statement of the turnover; and 
+ 
+(ii) an audit report from an independent 
+accountant stating that in his or her 
+opinion the statement fairly presents the 
+turnover of the business during that 
+year or other period to which the 
+statement relates. 
+ 
+(3) A tenant who gives the landlord statements for a 
+period in accordance with subsection (2) satisfies 
+any obligation under the lease to provide turnover 
+figures or statements for that period. 
+ 
+(4) For the purposes of subsections (2) and (3) and 
+any provision of a retail premises lease about the 
+determination of rent by reference to turnover, 
+turnover does not include any of the following— 
+ 
+(a) the net amount of discounts reasonably and 
+properly allowed to any customer in the 
+usual course of business;  
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+39 
+  
+ 
+(b) the amount of losses incurred in the resale or 
+disposal of goods reasonably and properly 
+purchased from customers as trade-ins in the 
+usual course of business; 
+ 
+(c) the amount of uncollected credit accounts 
+written off by the tenant (except to the extent 
+that amounts of a credit account previously 
+written off by the tenant are recovered); 
+ 
+(d) the amount of any cash or credit refund 
+allowed on a transaction the proceeds of 
+which have previously been included as 
+turnover, if the merchandise is returned and 
+the sale is cancelled or some or all of the fees 
+for the services are refunded;  
+ 
+(e) the amount of any instalment of purchase 
+money refunded to customers where a lay-by 
+transaction is cancelled;  
+ 
+(f) the amount of any purchase, receipt or other 
+similar tax (including GST) imposed on the 
+purchase price or cost of hire of merchandise 
+or services at the point of sale or hire;  
+ 
+(g) the amount of delivery charges;  
+ 
+(h) the price of merchandise exchanged between 
+stores of the tenant made solely for the 
+convenient operation of business and not for 
+the purpose of concluding a sale made at or 
+from the retail premises to which the lease 
+relates;  
+ 
+(i) the price of merchandise returned to 
+shippers, wholesalers or manufacturers; 
+ 
+(j) the amount received from the sale of the 
+fixtures and fittings of the tenant from the 
+premises;  
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+40 
+  
+ 
+(k) money received for entries in any public 
+lottery within the meaning of the Gambling 
+Regulation Act 2003, other than amounts 
+derived as commission or fees on those 
+entries; 
+ 
+(l) any other matter which the landlord and the 
+tenant agree is not included as turnover. 
+ 
+34 Agreement about rent based on turnover 
+ 
+(1) If— 
+ 
+(a) a provision of a retail premises lease that the 
+rent is to be determined either fully or partly 
+by reference to the turnover of the business 
+is void because of section 33; and 
+ 
+(b) the lease makes no other provision for 
+determining the rent— 
+the rent is to be as agreed in writing between the 
+landlord and tenant. 
+ 
+(2) If the landlord and tenant do not agree on an 
+amount of rent within 30 days of the landlord 
+giving the tenant a written notice specifying an 
+amount, the amount of the rent is to be determined 
+by a valuation carried out by a specialist retail 
+valuer appointed by— 
+ 
+(a) agreement between the landlord and tenant; 
+or  
+ 
+(b) if there is no agreement, the Small Business 
+Commission— 
+ 
+and the landlord and tenant are to pay the costs of 
+the valuation in equal shares. 
+ 
+ 
+S. 33(4)(k) 
+amended by 
+No. 114/2003 
+s. 12.1.3 
+(Sch. 6 
+item 11). 
+S. 34(2)(b) 
+amended by 
+No. 16/2017 
+s. 36. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+41 
+  
+Division 3—Review of the rent 
+ 
+35 Rent reviews generally 
+ 
+(1) If a retail premises lease provides for a review of 
+the rent payable under the lease or under a 
+renewal of the lease, the lease must state— 
+ 
+(a) when the reviews are to take place; and 
+ 
+(b) the basis or formula on which the reviews 
+are to be made. 
+ 
+(2) The basis or formula on which a rent review is to 
+be made must be one of the following— 
+ 
+(a) a fixed percentage; 
+ 
+(b) an independently published index of prices 
+or wages;  
+ 
+(c) a fixed annual amount; 
+ 
+(d) the current market rent of the retail premises; 
+ 
+(e) a basis or formula prescribed by the 
+regulations. 
+Note 
+For reviews based on the current market rent of the retail 
+premises, see section 37. 
+ 
+ 
+(3) A provision in a retail premises lease is void to the 
+extent that it purports to preclude, or prevents or 
+enables a person to prevent, the reduction of the 
+rent or to limit the extent to which the rent may be 
+reduced. 
+ 
+(4) However, subsection (3) does not apply to a 
+provision that uses— 
+ 
+(a) a basis or formula referred to in 
+subsection (2)(a), (b) or (c); or 
+ 
+Note to 
+s. 35(2) 
+amended by 
+No. 82/2005 
+s. 19(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+42 
+  
+ 
+(b) a prescribed basis or formula referred to in 
+subsection (2)(e) that is also prescribed as a 
+basis or formula to which subsection (3) does 
+not apply. 
+ 
+(5) A rent review is to be conducted as early as 
+practicable within the time provided by the lease.  
+If the landlord has not initiated the review within 
+90 days after the end of that time, the tenant may 
+initiate the review. 
+ 
+(6) A rent review provision in a retail premises lease 
+is void if the lease does not specify how the 
+review is to be made. 
+ 
+(7) If a provision in a retail premises lease that 
+provides for a review of the rent payable under the 
+lease does not comply with subsection (2) or is 
+void under subsection (6), the rent is to be— 
+ 
+(a) as agreed between the landlord and tenant; or 
+ 
+(b) if there is no agreement within 30 days after 
+the landlord gives the tenant, or the tenant 
+gives the landlord, a written notice 
+specifying an amount of rent for the purposes 
+of the review, the amount determined by a 
+specialist retail valuer appointed by the 
+Small Business Commission as the current 
+market rent of the retail premises. 
+ 
+(8) The landlord and tenant are to pay the costs of a 
+valuation referred to in subsection (7)(b) in equal 
+shares. 
+ 
+36 Extended application of section 35 
+In addition to a retail premises lease to which 
+section 35 applies because of Part 3, that section 
+also applies to the determination on a rent 
+review (conducted after the commencement of 
+section 11) of the commencing rent for the 
+renewed term of a retail premises lease that was 
+entered into before that commencement, and to 
+S. 35(7) 
+amended by 
+No. 82/2005 
+s. 19(2). 
+S. 35(7)(b) 
+amended by 
+No. 16/2017 
+s. 37. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+43 
+  
+any subsequent review of the rent payable under 
+the renewed lease, if this Act would have applied 
+to the lease had it been entered into after that 
+commencement. 
+ 
+37 Rent reviews based on current market rent 
+ 
+(1) A retail premises lease that provides for a rent 
+review to be made on the basis of the current 
+market rent of the premises is taken to provide as 
+set out in subsections (2) to (6). 
+ 
+(2) The current market rent is taken to be the rent 
+obtainable at the time of the review in a free and 
+open market between a willing landlord and 
+willing tenant in an arm's length transaction 
+having regard to these matters— 
+ 
+(a) the provisions of the lease; 
+ 
+(b) the rent that would reasonably be expected to 
+be paid for the premises if they were 
+unoccupied and offered for lease for the 
+same, or a substantially similar, use to which 
+the premises may be put under the lease; 
+ 
+(c) the landlord's outgoings to the extent to 
+which the tenant is liable to contribute to 
+those outgoings; 
+ 
+(d) rent concessions and other benefits offered to 
+prospective tenants of unoccupied retail 
+premises— 
+but the current market rent is not to take into 
+account the value of goodwill created by the 
+tenant's occupation or the value of the tenant's 
+fixtures and fittings. 
+ 
+(3) If the landlord and tenant do not agree on what the 
+amount of that rent is to be, it is to be determined 
+by a valuation carried out by a specialist retail 
+valuer appointed by— 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+44 
+  
+ 
+(a) agreement between the landlord and tenant; 
+or 
+ 
+(b) if there is no agreement, the Small Business 
+Commission— 
+ 
+and the landlord and tenant are to pay the costs of 
+the valuation in equal shares. 
+ 
+(4) The landlord must, within 14 days after a request 
+by the specialist retail valuer, supply the valuer 
+with relevant information about leases for retail 
+premises located in the same building or retail 
+shopping centre to assist the valuer to determine 
+the current market rent. 
+Penalty: 50 penalty units. 
+ 
+(5) In determining the amount of the rent, the 
+specialist retail valuer must take into account the 
+matters set out in subsection (2). 
+ 
+(6) The valuation must— 
+ 
+(a) be in writing; and 
+ 
+(b) contain detailed reasons for the specialist 
+retail valuer's determination; and 
+ 
+(c) specify the matters to which the valuer had 
+regard in making the determination. 
+ 
+(7) The specialist retail valuer— 
+ 
+ 
+ 
+(a) must carry out the valuation within 45 days 
+after accepting the appointment, or within 
+such longer period as may be agreed between 
+the landlord and tenant, or if there is no 
+agreement, as determined in writing by the 
+Small Business Commission; and 
+S. 37(3)(b) 
+amended by 
+No. 16/2017 
+s. 38. 
+S. 37(7) 
+substituted by 
+No. 82/2005 
+s. 20. 
+S. 37(7)(a) 
+amended by 
+No. 16/2017 
+s. 38. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+45 
+  
+ 
+(b) may seek to enforce under Part 10 (Dispute 
+Resolution) an obligation of the landlord 
+under subsection (4). 
+ 
+38 Confidentiality of information supplied to valuer 
+ 
+(1) A specialist retail valuer who is supplied with 
+information by a landlord or tenant for the 
+purpose of determining under section 37 the 
+current market rent for a retail premises lease 
+must not— 
+ 
+(a) use or permit the use of the information for 
+any purpose other than to determine the 
+current market rent for the lease concerned; 
+or 
+ 
+(b) communicate or divulge that information to 
+any other person or permit that information 
+to be communicated or divulged to any other 
+person. 
+Penalty: 50 penalty units. 
+ 
+(2) However, subsection (1) does not prevent the 
+specialist retail valuer— 
+ 
+(a) communicating or divulging the information 
+to a court, the Tribunal or the Small Business 
+Commission, or permitting another person to 
+do so; or 
+ 
+(b) using, communicating or divulging the 
+information or permitting another person to 
+do so— 
+ 
+(i) in accordance with the consent of both 
+the landlord and tenant; or 
+ 
+(ii) in a way that does not disclose 
+information identifying a particular 
+lease or tenant, or relating to a tenant's 
+business, for the purpose of specifying 
+the matters to which the valuer had 
+S. 38(1) 
+amended by 
+No. 82/2005 
+s. 21. 
+S. 38(2)(a) 
+amended by 
+No. 16/2017 
+s. 39. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+46 
+  
+regard in making the determination 
+concerned. 
+ 
+(3) A specialist retail valuer who contravenes this 
+section is liable to pay to the landlord or tenant 
+concerned compensation for any loss or damage 
+suffered by the landlord or tenant as a result of the 
+information being used, communicated or 
+divulged. 
+ 
+(4) The amount of the compensation is the amount 
+that is— 
+ 
+(a) agreed between the valuer and the person 
+seeking compensation; or 
+ 
+(b) if there is no agreement, determined under 
+Part 10 (Dispute Resolution). 
+Division 4—Outgoings 
+ 
+39 Recovery of outgoings from the tenant 
+ 
+(1) The tenant under a retail premises lease is not 
+liable to pay an amount to the landlord in respect 
+of outgoings except in accordance with provisions 
+of the lease that specify— 
+ 
+(a) the outgoings that are to be regarded as 
+recoverable; and 
+ 
+(b) in a manner consistent with the regulations, 
+how the amount of those outgoings will be 
+determined and how they will be apportioned 
+to the tenant; and 
+ 
+(c) how those outgoings or any part of them may 
+be recovered by the landlord from the tenant. 
+ 
+(2) The regulations may prescribe the manner in 
+which the amount of outgoings may be 
+determined and apportioned to a tenant. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+47 
+  
+ 
+40 Liability to contribute to non-specific outgoings 
+ 
+(1) A tenant under a retail premises lease where the 
+retail premises are located in a retail shopping 
+centre is only liable to contribute towards an 
+outgoing of the landlord that benefits specific 
+retail premises in the centre if the retail premises 
+are one of the premises that benefit from the 
+outgoing. 
+ 
+(2) A tenant is not liable to contribute towards an 
+outgoing of the landlord in accordance with 
+subsection (1) in excess of an amount calculated 
+as prescribed by the regulations. 
+ 
+41 Capital costs not recoverable 
+ 
+(1) Subject to subsection (2), a provision in a retail 
+premises lease is void to the extent that it requires 
+the tenant to pay an amount in respect of the 
+capital costs of— 
+ 
+(a) the building in which the retail premises are 
+located; or 
+ 
+(b) any building in a retail shopping centre in 
+which the retail premises are located; or 
+ 
+(c) any areas used in association with a building 
+referred to in paragraph (a) or (b); or 
+ 
+(d) plant in a building referred to in 
+paragraph (a) or (b). 
+ 
+(2) Subsection (1) does not operate to render void a 
+provision in a retail premises lease that— 
+ 
+(a) requires the tenant to undertake capital 
+works at the tenant's own cost; or 
+ 
+(b) in respect of an essential safety measure, 
+requires the tenant to pay for the cost, or part 
+of the cost, of carrying out— 
+ 
+(i) repairs or maintenance work; or 
+S. 41 
+amended by 
+No. 82/2005 
+s. 22(1)(2) (ILA 
+s. 39B(1)). 
+S. 41(2) 
+inserted by 
+No. 82/2005 
+s. 22(2), 
+substituted by 
+No. 26/2020 
+s. 6. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+48 
+  
+ 
+(ii) an installation relating to fit out of the 
+retail premises for which the tenant has 
+agreed to pay. 
+ 
+42 Depreciation not recoverable 
+A provision in a retail premises lease is void to the 
+extent that it requires the tenant to pay an amount 
+in respect of depreciation. 
+ 
+43 Tenant not liable to contribute to sinking fund 
+A provision in a retail premises lease is void to the 
+extent that it requires the tenant to make a 
+contribution to a sinking fund to provide for 
+capital works. 
+ 
+44 Interest etc. on landlord's borrowings not 
+recoverable 
+A provision in a retail premises lease is void to the 
+extent that it requires the tenant to pay an amount 
+in respect of interest or other charges incurred by 
+the landlord in respect of amounts borrowed by 
+the landlord. 
+ 
+45 Rent etc. associated with other land not recoverable 
+A provision in a retail premises lease is void to the 
+extent that it requires the tenant to pay an amount 
+in respect of— 
+ 
+(a) rent payable under any head lease under 
+which the landlord holds the retail premises; 
+or 
+ 
+(b) rent or other costs associated with any other 
+land including— 
+ 
+(i) land on which the building or retail 
+shopping centre of which the retail 
+premises forms part is located; and 
+ 
+(ii) land of the landlord used by, or for the 
+benefit of, the tenants conducting 
+business in that building or retail 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+49 
+  
+shopping centre or in connection with 
+trading in that building or retail 
+shopping centre. 
+ 
+46 Estimate of outgoings 
+ 
+(1) A retail premises lease is taken to provide as set 
+out in this section. 
+ 
+(2) The landlord must give the tenant a written 
+estimate of the outgoings to which the tenant is 
+liable to contribute under the lease that itemises 
+those outgoings. 
+ 
+(3) The tenant must be given the estimate of 
+outgoings— 
+ 
+(a) before the lease is entered into; and  
+ 
+(b) in respect of each of the landlord's 
+accounting periods during the term of the 
+lease, at least one month before the start of 
+that period. 
+ 
+(4) The tenant is not liable to contribute to any 
+outgoings of which an estimate is required to be 
+given to the tenant as set out in this section until 
+the tenant is given that estimate. 
+ 
+47 Statement of outgoings 
+ 
+(1) A retail premises lease is taken to provide as set 
+out in this section. 
+ 
+(2) The landlord must prepare a written statement that 
+details all expenditure by the landlord, in each of 
+the landlord's accounting periods during the term 
+of the lease, on account of outgoings to which the 
+tenant is liable to contribute. 
+ 
+(3) The landlord must— 
+ 
+(a) make the statement available to the tenant at 
+least once in relation to expenditure during 
+each of the landlord's accounting periods 
+during the term of the lease; and  
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+50 
+  
+ 
+(b) give the tenant the statement within 3 months 
+after the end of the accounting period to 
+which it relates. 
+ 
+(4) The outgoings statement may relate to more than 
+one tenant as long as each tenant to which it 
+relates can ascertain from the statement the details 
+relevant to the tenant. 
+ 
+(5) The outgoings statement must be— 
+ 
+(a) prepared in accordance with relevant 
+principles and disclosure requirements of 
+applicable accounting standards (in force 
+from time to time) made by the Australian 
+Accounting Standards Board; and 
+ 
+(b) in the case of a statement given under 
+subsection (3)(b), accompanied by a report 
+prepared by a registered company auditor 
+(within the meaning of the Corporations Act) 
+that states whether— 
+ 
+(i) the statement correctly states the 
+landlord's expenditure during the 
+accounting period in respect of the total 
+amount of outgoings, and each 
+individual outgoing that comprises 
+more than the prescribed percentage of 
+the total amount of outgoings, to which 
+the tenant is liable to contribute; and 
+ 
+(ii) the total amount of estimated outgoings 
+for that period (as shown in the 
+estimate of outgoings given to the 
+tenant) exceeded the total actual 
+expenditure by the landlord in respect 
+of those outgoings during that period. 
+ 
+(6) However, the outgoings statement given under 
+subsection (3)(b) need not be accompanied by an 
+auditor's report if it— 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+51 
+  
+ 
+(a) does not relate to any outgoings other than— 
+ 
+(i) GST; and 
+ 
+(ii) water, sewerage and drainage rates and 
+charges; and 
+ 
+(iii) municipal council rates and charges; 
+and 
+ 
+(iv) insurance; and 
+ 
+(v) any other outgoing of a kind prescribed 
+by the regulations; and 
+ 
+(b) is accompanied by copies of assessments, 
+invoices, receipts or other proof of payment 
+for all expenditure by the landlord included 
+in the statement. 
+ 
+(7) An auditor preparing a report under subsection 
+(5)(b) must ensure that the tenant is given a 
+reasonable opportunity to make a written 
+submission to the auditor on the accuracy of the 
+outgoings statement. 
+ 
+48 Adjustment of contributions to outgoings 
+ 
+(1) A retail premises lease is taken to provide as set 
+out in this section. 
+ 
+(2) There is to be an adjustment between the landlord 
+and tenant for each of the landlord's accounting 
+periods during the term of the lease to take 
+account of any underpayment or overpayment by 
+the tenant in respect of outgoings during that 
+period. 
+ 
+(3) The adjustment is to take place— 
+ 
+(a) within one month after the landlord gives the 
+tenant the outgoings statement under 
+section 47 for the period; or 
+ 
+(b) within 4 months after the end of the period— 
+whichever is earlier. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+52 
+  
+ 
+(4) The adjustment is to be calculated on the basis of 
+the difference between— 
+ 
+(a) the total amount of outgoings in respect of 
+which the tenant contributed (that is, the 
+estimated total expenditure by the landlord 
+on outgoings during the period); and 
+ 
+(b) the total actual expenditure by the landlord in 
+respect of those outgoings during the period, 
+but taking into account only expenditure 
+properly and reasonably incurred by the 
+landlord in the payment of those outgoings. 
+ 
+49 Limitation on recovery of management fees 
+ 
+(1) A provision of a retail premises lease is void to 
+the extent that it makes the tenant liable to pay an 
+amount for management fees unless— 
+ 
+(a) the management fees relate to the 
+management of the building in which the 
+retail premises are located or, if the retail 
+premises are located in a retail shopping 
+centre, that centre; and 
+ 
+(b) the lease, or a disclosure statement given to 
+the tenant in accordance with Part 4, 
+specifies— 
+ 
+(i) the amount of the management fees for 
+any accounting period of the landlord 
+during the term of the lease; and 
+ 
+(ii) a rate, or a method for calculating a 
+rate, for working out the amount for 
+which the tenant is liable for that 
+period. 
+ 
+(2) If, subject to subsection (1), a tenant was liable 
+under a retail premises lease to pay an amount for 
+management fees for the landlord's previous 
+accounting period, the amount that the tenant is 
+liable under that lease to pay for the landlord's 
+S. 49(1)(a) 
+substituted by 
+No. 82/2005 
+s. 23(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+53 
+  
+current accounting period must not exceed the 
+greater of the following amounts— 
+ 
+(a) the amount for management fees that the 
+tenant was liable to pay for the previous 
+accounting period; 
+ 
+(b) the amount calculated using this formula 
+(as adjusted, if appropriate, by 
+subsection (3))— 
+  
+C
+B
+  
+A  
+ 
+where— 
+ 
+A is the amount for management fees that 
+the tenant was liable to pay for the 
+previous accounting period; and 
+ 
+B is the All Groups Consumer Price Index 
+number (for Melbourne) published by 
+the Australian Bureau of Statistics for 
+the reference period in which the 
+current accounting period started; and 
+ 
+C is the All Groups Consumer Price Index 
+number (for Melbourne) published by 
+the Australian Bureau of Statistics for 
+the reference period in which the 
+previous accounting period started. 
+ 
+(3) The amount calculated using the formula in 
+subsection (2)(b) is adjusted— 
+ 
+(a) if the tenant was liable for management fees 
+for only part of the previous accounting 
+period, by— 
+ 
+(i) multiplying the amount by the total 
+number of days in the previous 
+accounting period; and 
+ 
+S. 49(2)(b) 
+amended by 
+No. 44/2014 
+s. 33(Sch. 
+item 23(a)). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+54 
+  
+ 
+(ii) dividing that result by the number of 
+days in the part of the previous 
+accounting period for which the tenant 
+was liable for management fees; and 
+ 
+(b) if the tenant is liable for management fees 
+for only part of the current accounting 
+period, by— 
+ 
+(i) multiplying the amount by the number 
+of days in the part of the current 
+accounting period for which the tenant 
+is liable for management fees; and 
+ 
+(ii) dividing that result by the total number 
+of days in the current accounting 
+period. 
+ 
+(4) Where the retail premises are located in a retail 
+shopping centre, if one-half of the tenants in the 
+centre who are liable under retail premises leases 
+to pay an amount for management fees for an 
+accounting period of the landlord agree in writing 
+that subsection (2) is not to apply in respect of that 
+period, that subsection does not apply to any of 
+the tenants in that centre in respect of that period. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+(6) For the purposes of subsections (2) and (3) only, 
+the amount for management fees does not include 
+salaries and other administrative costs related to 
+the operation of the building in which the retail 
+premises are located or, if the retail premises are 
+located in a retail shopping centre, in that centre. 
+ 
+ 
+ 
+S. 49(5) 
+repealed by 
+No. 44/2014 
+s. 33(Sch. 
+item 23(b)). 
+S. 49(6) 
+inserted by 
+No. 82/2005 
+s. 23(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+55 
+  
+ 
+50 Recovery of land tax and commercial and industrial 
+property tax 
+ 
+ 
+ 
+ 
+ 
+(1) A provision of a retail premises lease is void to 
+the extent that it makes the tenant liable to pay an 
+amount for tax for which the landlord or head 
+landlord is liable under the Land Tax Act 2005 or 
+the Commercial and Industrial Property Tax 
+Reform Act 2024. 
+Note 
+The application of this section is affected by section 121 
+(notification of amount of land tax). 
+ 
+(2) Subsection (1) does not apply, in the case of a 
+lease entered into at any time on or after 1 May 
+2003 and before 1 July 2003, in respect of any 
+period before 1 July 2003. 
+ 
+51 Liability for costs associated with lease 
+ 
+(1) A landlord under a retail premises lease is not able 
+to claim from any person (including the tenant) 
+the landlord's legal or other expenses relating to— 
+ 
+(a) the negotiation, preparation or execution of 
+the lease; or 
+ 
+(b) obtaining the consent of a mortgagee to the 
+lease; or 
+ 
+(c) the landlord's compliance with this Act. 
+ 
+(2) However, subsection (1) does not prevent a 
+landlord from claiming the reasonable legal or 
+other expenses incurred by the landlord in 
+connection with an assignment of the lease or a 
+sub-lease, including investigating a proposed 
+S. 50 
+(Heading) 
+amended by 
+No. 16/2024 
+s. 61(1). 
+S. 50 
+amended by 
+No. 82/2005 
+s. 24(1)(2) (ILA 
+s. 39B(1)). 
+S. 50(1) 
+amended by 
+Nos 88/2005 
+s. 117(Sch. 2 
+item 5), 
+16/2024 
+s. 61(2). 
+S. 50(2) 
+inserted by 
+No. 82/2005 
+s. 24(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+56 
+  
+assignee or sub-tenant and obtaining any 
+necessary consents to the assignment or sub-lease. 
+ 
+52 Landlord's liability for repairs 
+ 
+(1) A retail premises lease is taken to provide as set 
+out in this section. 
+ 
+(2) The landlord is responsible for maintaining in a 
+condition consistent with the condition of the 
+premises when the retail premises lease was 
+entered into— 
+ 
+(a) the structure of, and fixtures in, the retail 
+premises; and 
+ 
+ 
+(b) plant and equipment at the retail premises; 
+and 
+ 
+ 
+(c) the appliances, fittings and fixtures provided 
+under the lease by the landlord relating to the 
+gas, electricity, water, drainage or other 
+services. 
+ 
+(3) However, the landlord is not responsible for 
+maintaining those things if— 
+ 
+(a) the need for the repair arises out of misuse 
+by the tenant; or 
+ 
+(b) the tenant is entitled or required to remove 
+the thing at the end of the lease. 
+ 
+(4) The tenant may arrange for urgent repairs (for 
+which the landlord is responsible under this 
+section or under the terms and conditions of the 
+lease) to be carried out to those things if— 
+ 
+(a) the repairs are necessary to fix or remedy a 
+fault or damage that has or causes a 
+substantial effect on or to the tenant's 
+business at the premises; and 
+S. 52(2) 
+amended by 
+No. 82/2005 
+s. 25(1). 
+S. 52(2)(a) 
+amended by 
+No. 82/2005 
+s. 25(2)(a). 
+S. 52(2)(b) 
+amended by 
+No. 82/2005 
+s. 25(2)(b). 
+S. 52(2)(c) 
+amended by 
+No. 82/2005 
+s. 25(2)(c). 
+S. 52(3) 
+amended by 
+No. 82/2005 
+s. 25(3). 
+S. 52(4) 
+amended by 
+No. 82/2005 
+s. 25(4). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 5—Rent and outgoings 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+57 
+  
+ 
+(b) the tenant is unable to get the landlord or the 
+landlord's agent to carry out the repairs 
+despite having taken reasonable steps to 
+arrange for the landlord or agent to do so. 
+ 
+(5) If the tenant carries out those repairs— 
+ 
+(a) the tenant must give the landlord written 
+notice of the repairs and the cost within 
+14 days after the repairs are carried out; and 
+ 
+(b) the landlord is liable to reimburse the tenant 
+for the reasonable cost of the repairs and 
+may not recover that cost or any part of it as 
+an outgoing. 
+Note 
+Section 39 regulates the ability of the landlord to recover 
+outgoings (including the cost of repairs).  Section 41 
+provides that capital costs are not recoverable from a tenant. 
+ 
+(6) The tenant may agree with the landlord to carry 
+out, or cause to be carried out, repairs or 
+maintenance work in respect of an essential safety 
+measure on behalf of the landlord. 
+ 
+(7) If the tenant carries out, or causes to be carried 
+out, any work or thing in respect of an essential 
+safety measure on behalf of the landlord, that 
+work or thing done does not affect any obligation 
+of the landlord as an owner of the building to 
+comply with any requirement under the Building 
+Act 1993 or regulations made under that Act. 
+ 
+(8) This section does not limit any obligation of a 
+tenant under a retail premises lease to contribute 
+to outgoings for repairs or maintenance work in 
+respect of an essential safety measure. 
+ 
+ 
+S. 52(5)(b) 
+amended by 
+No. 82/2005 
+s. 25(5). 
+Note to 
+s. 52(5) 
+inserted by 
+No. 82/2005 
+s. 25(6). 
+S. 52(6) 
+inserted by 
+No. 26/2020 
+s. 7. 
+S. 52(7) 
+inserted by 
+No. 26/2020 
+s. 7. 
+S. 52(8) 
+inserted by 
+No. 26/2020 
+s. 7. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Refurbishment, relocation and other interferences with tenancy 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+58 
+  
+Part 6—Refurbishment, relocation and other 
+interferences with tenancy 
+Division 1—Refurbishment, relocation etc. 
+ 
+53 Landlord to give notice of alterations and 
+refurbishments 
+A retail premises lease is taken to provide that the 
+landlord must not start to carry out any alteration 
+or refurbishment of the building or retail shopping 
+centre in which the retail premises are located 
+which is likely to affect adversely the business of 
+the tenant unless— 
+ 
+(a) the landlord has notified the tenant in writing 
+of the proposed alteration or refurbishment at 
+least 60 days before it is started; or 
+ 
+(b) the alteration or refurbishment is necessary 
+because of an emergency and the landlord 
+has given the tenant the maximum period of 
+notice that is reasonably practicable in the 
+circumstances. 
+ 
+54 Tenant to be compensated for interference 
+ 
+(1) A retail premises lease is taken to provide as set 
+out in this section. 
+ 
+(2) The landlord is liable to pay to the tenant 
+reasonable compensation for loss or damage 
+(other than nominal damage) suffered by the 
+tenant because the landlord or a person acting on 
+the landlord's behalf— 
+ 
+(a) substantially inhibits the tenant's access to 
+the retail premises; or 
+ 
+(b) unreasonably takes action that substantially 
+inhibits or alters the flow of customers to the 
+retail premises; or 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Refurbishment, relocation and other interferences with tenancy 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+59 
+  
+ 
+(c) unreasonably takes action that causes 
+significant disruption to the tenant's trading 
+at the retail premises; or 
+ 
+(d) fails to take reasonable steps to prevent or 
+stop significant disruption within the 
+landlord's control to the tenant's trading at 
+the retail premises; or 
+ 
+(e) fails to rectify as soon as practicable— 
+ 
+(i) any breakdown of plant or equipment 
+that is not under the tenant's care or 
+maintenance; or 
+ 
+(ii) any defect in the retail premises or in 
+the building or retail shopping centre in 
+which the retail premises are located, 
+other than a defect due to a condition 
+that would have been reasonably 
+apparent to the tenant when entering 
+into or renewing the lease or when the 
+tenant accepted assignment of the lease; 
+or 
+ 
+(f) neglects adequately to clean, maintain or 
+repair the building or retail shopping centre 
+in which the retail premises are located 
+(but not the retail premises themselves). 
+ 
+(3) The tenant must give the landlord written notice 
+of the loss or damage as soon as practicable after 
+it is suffered but a failure to do this does not affect 
+any right of the tenant to compensation. 
+ 
+(4) This section does not apply to action taken by a 
+landlord— 
+ 
+(a) as a reasonable response to an emergency; or 
+ 
+(b) in compliance with any duty imposed by or 
+under an Act or resulting from a requirement 
+imposed by a body acting under the authority 
+of an Act. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Refurbishment, relocation and other interferences with tenancy 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+60 
+  
+ 
+(5) The amount of the compensation is the amount 
+that is— 
+ 
+(a) agreed between the landlord and the tenant; 
+or 
+ 
+(b) if there is no agreement, determined under 
+Part 10 (Dispute Resolution). 
+ 
+55 Relocation of the tenant's business 
+ 
+(1) A retail premises lease that provides for— 
+ 
+(a) relocation of the tenant's business; or 
+ 
+(b) termination of the lease and offer of a new 
+lease of alternative retail premises— 
+is taken to provide as set out in this section. 
+ 
+(2) The landlord cannot require the tenant's business 
+to be relocated or terminate the lease and offer a 
+new lease of alternative retail premises unless the 
+landlord has provided the tenant with details of a 
+proposed refurbishment, redevelopment or 
+extension that are sufficient to indicate a genuine 
+proposal that— 
+ 
+(a) is to be carried out within a reasonably 
+practicable time after the relocation; and 
+ 
+(b) cannot be carried out practicably without 
+vacant possession of the retail premises. 
+ 
+(3) The landlord cannot require the tenant's business 
+to be relocated or terminate the lease and offer a 
+new lease of alternative retail premises unless the 
+landlord has given the tenant at least 3 months' 
+written notice of the relocation with details of 
+reasonably comparable alternative retail premises 
+to be made available to the tenant. 
+ 
+(4) The tenant is entitled to be offered a new lease of 
+the alternative retail premises on the same terms 
+and conditions as the existing lease except that— 
+S. 55(3) 
+amended by 
+No. 82/2005 
+s. 26. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Refurbishment, relocation and other interferences with tenancy 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+61 
+  
+ 
+(a) the term of the new lease is to be the same as 
+the remaining term of the existing lease; and 
+ 
+(b) the rent for the alternative retail premises is 
+to be the same as the rent for the existing 
+retail premises, adjusted to take into account 
+the difference in the commercial values of 
+the premises at the time of relocation. 
+ 
+(5) Within one month after being given a relocation 
+notice, the tenant may give the landlord a written 
+notice of termination and the lease terminates 
+3 months after the relocation notice was given or 
+at such other time as the landlord and tenant 
+agree. 
+ 
+(6) If the tenant does not give a notice of termination 
+in accordance with subsection (5), the tenant is 
+taken to have accepted the offer of a lease— 
+ 
+(a) on the terms and conditions referred to in 
+subsection (4); or 
+ 
+(b) on the terms and conditions that are agreed 
+by the landlord and tenant. 
+ 
+(7) The tenant is entitled to payment by the landlord 
+of the tenant's reasonable costs of the relocation, 
+including (but not limited to) the costs of 
+dismantling and reinstalling or modifying or 
+replacing any fixtures and fittings and legal costs. 
+ 
+(8) If the landlord and tenant cannot agree on the 
+amount to which the tenant is entitled under 
+subsection (7), that amount is to be determined by 
+an independent quantity surveyor appointed by— 
+ 
+(a) agreement between the landlord and tenant; 
+or 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Refurbishment, relocation and other interferences with tenancy 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+62 
+  
+ 
+(b) if there is no agreement, the Small Business 
+Commission— 
+ 
+and the landlord and tenant are to pay the costs of 
+the independent quantity surveyor in equal shares. 
+ 
+(9) The landlord is not liable to pay an amount under 
+subsection (7) that is more than the amount agreed 
+by the landlord and tenant, or determined by the 
+independent quantity surveyor, as the case may 
+be. 
+Note 
+This section sets out what the tenant is entitled to but does not 
+prevent the tenant from accepting other arrangements when the 
+details of a relocation are being negotiated. 
+ 
+56 Demolition 
+ 
+(1) A retail premises lease that provides for 
+termination of the lease on the ground of proposed 
+demolition of the building in which the retail 
+premises are located is taken to provide as set out 
+in this section. 
+ 
+(2) The landlord cannot terminate the lease on that 
+ground unless the landlord has— 
+ 
+(a) provided the tenant with details of the 
+proposed demolition that are sufficient to 
+indicate a genuine proposal to demolish the 
+building within a reasonably practicable time 
+after the lease is to be terminated; and 
+ 
+(b) given the tenant at least 6 months' written 
+notice of the termination date. 
+ 
+(3) If the landlord gives the tenant a notice of 
+termination in accordance with subsection (2), the 
+tenant may terminate the lease before the 
+termination date by giving the landlord not less 
+than 7 days' written notice. 
+S. 55(8)(b) 
+amended by 
+No. 16/2017 
+s. 40. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Refurbishment, relocation and other interferences with tenancy 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+63 
+  
+ 
+(4) If the lease is terminated by the landlord in 
+accordance with subsection (2), or by the tenant in 
+accordance with subsection (3), the landlord is 
+liable to pay the tenant reasonable 
+compensation— 
+ 
+(a) if the demolition of the building is not 
+carried out, or not carried out within a 
+reasonably practicable time after the 
+termination date, for damage suffered by the 
+tenant as a consequence of the early 
+termination of the lease; and 
+ 
+(b) whether or not the demolition of the building 
+is carried out, for the fit out of the retail 
+premises to the extent that the fit out was not 
+provided by the landlord. 
+ 
+(5) However, the landlord is not liable to pay 
+compensation for the damage mentioned in 
+subsection (4)(a) if the landlord establishes that 
+when the notice was given there was a genuine 
+proposal to demolish the premises within a 
+reasonably practicable time after the termination 
+date. 
+ 
+(6) The amount of the compensation is the amount 
+that is— 
+ 
+(a) agreed between the landlord and the tenant; 
+or 
+ 
+(b) if there is no agreement, determined under 
+Part 10 (Dispute Resolution). 
+ 
+(7) For the purposes of this section, demolition of the 
+building in which retail premises are located 
+includes any substantial repair, renovation or 
+reconstruction of the building that cannot 
+practicably be carried out without vacant 
+possession of the premises. 
+ 
+S. 56(4) 
+amended by 
+No. 82/2005 
+s. 27. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Refurbishment, relocation and other interferences with tenancy 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+64 
+  
+ 
+57 Damaged premises 
+ 
+(1) A retail premises lease is taken to provide the 
+following if the retail premises, or the building in 
+which the premises are located, is damaged— 
+ 
+(a) except where the tenant caused the damage, 
+the tenant is not liable to pay rent, or any 
+amount in respect of outgoings or other 
+charges, that is attributable to any period 
+during which the premises cannot be used 
+under the lease or are inaccessible due to that 
+damage; and 
+ 
+(b) except where the tenant caused the damage, 
+if the premises can be used under the lease 
+but that use is reduced to some extent by the 
+damage, the tenant's liability for rent, and 
+any amount in respect of outgoings or other 
+charges, that is attributable to any period 
+during which the use is reduced is decreased 
+to the same extent; and 
+ 
+(c) if the landlord reasonably considers that the 
+extent of damage makes its repair 
+impracticable or undesirable and notifies the 
+tenant in writing of that, the landlord or 
+tenant may terminate the lease by giving not 
+less than 7 days' written notice of 
+termination to the other party; and 
+ 
+(d) if the landlord fails to repair the damage 
+within a reasonable time after the tenant asks 
+the landlord in writing to do so, the tenant 
+may terminate the lease by giving not less 
+than 7 days' written notice of termination to 
+the landlord; and 
+ 
+(e) this subsection does not affect any right of 
+the landlord to recover damages from the 
+tenant in respect of any damage covered by 
+this subsection. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Refurbishment, relocation and other interferences with tenancy 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+65 
+  
+ 
+(2) A provision of a retail premises lease is void to 
+the extent that it has the effect of limiting the 
+liability of a party to the lease to pay 
+compensation to another party to the lease in 
+respect of damage to the retail premises or the 
+building in which the premises are located. 
+ 
+(3) Nothing in this section prevents the parties to a 
+lease from terminating the lease by agreement if 
+the retail premises or the building in which the 
+premises are located is damaged or destroyed. 
+ 
+58 Refurbishment and refitting 
+A provision in a retail premises lease requiring the 
+tenant to refurbish or refit the retail premises is 
+void unless it gives such details of the 
+refurbishment or refitting as are necessary to 
+indicate generally its nature, extent and timing. 
+Division 2—Other interferences with tenancy 
+ 
+59 Restriction on whom the tenant employs or engages 
+ 
+(1) A provision in a retail premises lease is void to the 
+extent that it limits or has the effect of limiting the 
+tenant's right to employ or engage persons the 
+tenant chooses. 
+ 
+(2) However, subsection (1) does not prevent the 
+lease from containing provisions that— 
+ 
+(a) specify minimum standards of competence 
+and behaviour for persons employed in the 
+retail premises or other persons (such as 
+contractors) doing work there; or 
+ 
+(b) prohibit work from being carried out on 
+specified items of the landlord's property; or 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 6—Refurbishment, relocation and other interferences with tenancy 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+66 
+  
+ 
+(c) if the retail premises are located in a retail 
+shopping centre, require the tenant to comply 
+with any award or agreement (for example, a 
+construction site agreement) affecting the 
+centre. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—Assignment and termination of a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+67 
+  
+Part 7—Assignment and termination of a 
+retail premises lease 
+ 
+60 When the landlord can withhold consent to an 
+assignment 
+ 
+(1) A landlord is only entitled to withhold consent to 
+the assignment of a retail premises lease if one or 
+more of the following applies— 
+ 
+(a) the proposed assignee proposes to use the 
+retail premises in a way that is not permitted 
+under the lease; 
+ 
+(b) the landlord considers that the proposed 
+assignee does not have sufficient financial 
+resources or business experience to meet the 
+obligations under the lease; 
+ 
+(c) the proposed assignor has not complied with 
+reasonable assignment provisions of the 
+lease; 
+ 
+(d) the assignment is in connection with a lease 
+of retail premises that will continue to be 
+used for the carrying on of an ongoing 
+business and the proposed assignor has not 
+provided the proposed assignee with 
+business records for the previous 3 years or 
+such shorter period as the proposed assignor 
+has carried on business at the retail premises. 
+ 
+(2) Section 144 of the Property Law Act 1958 does 
+not apply to or with respect to a retail premises 
+lease to which this Act applies. 
+ 
+ 
+ 
+ 
+ 
+S. 60(1)(d) 
+amended by 
+No. 82/2005 
+s. 28. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—Assignment and termination of a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+68 
+  
+ 
+61 Procedure for obtaining consent to assignment 
+ 
+(1) A retail premises lease is taken to provide as set 
+out in this section. 
+ 
+(2) A request for the landlord's consent to an 
+assignment of the lease must be in writing and the 
+tenant must provide the landlord with such 
+information as the landlord reasonably requires 
+about the financial resources and business 
+experience of the proposed assignee. 
+ 
+(3) Before requesting the landlord's consent, the 
+tenant must give the proposed assignee— 
+ 
+(a) a copy of any disclosure statement given to 
+the tenant concerning the lease; and 
+ 
+(b) details of any changes of which the tenant is 
+aware, or could reasonably be expected to be 
+aware, that have affected the information in 
+the disclosure statement since it was given to 
+the tenant. 
+Penalty: 10 penalty units. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+(5) For the purpose of complying with subsection (3), 
+the tenant may ask the landlord to give the tenant 
+a disclosure statement that is current from a 
+specified date that is within 3 months before the 
+statement is given and, if the landlord does not 
+give the tenant such a statement within 14 days— 
+ 
+(a) the tenant is not required to comply with that 
+subsection; and 
+ 
+(b) the landlord is guilty of an offence and liable 
+to a fine not exceeding 10 penalty units. 
+S. 61(4) 
+repealed by 
+No. 82/2005 
+s. 29(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—Assignment and termination of a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+69 
+  
+ 
+(5A) If the assignment is in connection with the lease of 
+retail premises that will continue to be used for the 
+carrying on of an ongoing business, the tenant 
+must give the landlord and the proposed assignee 
+a disclosure statement in the form prescribed by 
+the regulations (but the layout of the statement 
+need not be the same as the prescribed disclosure 
+statement). 
+ 
+(6) The landlord must deal expeditiously with a 
+request for consent and is taken to have consented 
+to the assignment if— 
+ 
+(a) the tenant has complied with this section; 
+and 
+ 
+(b) the landlord has not, within 28 days after the 
+request was made, given written notice to the 
+tenant consenting or withholding consent. 
+ 
+62 Protection of assignors and guarantors 
+ 
+(1) This section applies if— 
+ 
+(a) a tenant gives a landlord and proposed 
+assignee a copy of a disclosure statement in 
+accordance with section 61(5A); and 
+ 
+ 
+(b) the disclosure statement does not contain any 
+information that is false, misleading or 
+materially incomplete. 
+ 
+(2) None of the following persons are liable to 
+perform any obligations under the lease or to pay 
+to the landlord any money in respect of amounts 
+payable by the proposed assignee— 
+ 
+(a) the tenant; 
+ 
+(b) a guarantor or covenantor of the tenant. 
+ 
+ 
+S. 61(5A) 
+inserted by 
+No. 82/2005 
+s. 29(2). 
+S. 62(1)(a) 
+amended by 
+No. 29/2011 
+s. 3(Sch. 1 
+item 81). 
+S. 62(2) 
+amended by 
+No. 82/2005 
+s. 30. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—Assignment and termination of a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+70 
+  
+ 
+63 Landlord may reserve the right to refuse a sub-
+lease, mortgage etc. 
+A retail premises lease may contain a provision 
+which allows the landlord an absolute discretion 
+to refuse consent to— 
+ 
+(a) the grant of a sub-lease, licence or 
+concession in respect of all or part of the 
+retail premises; or 
+ 
+(b) the tenant parting with occupancy rights to 
+all or part of the retail premises; or 
+ 
+(c) the tenant mortgaging or otherwise charging 
+or encumbering the tenant's estate or interest 
+in the lease. 
+ 
+64 Notice of the landlord's intentions concerning 
+renewal 
+ 
+(1) This section applies if the tenant under a retail 
+premises lease does not have an option under the 
+lease to renew the lease for a further term. 
+ 
+(2) The landlord must, at least 6 months but no more 
+than 12 months before the lease term ends, give 
+written notice to the tenant— 
+ 
+(a) offering the tenant a renewal of the lease on 
+the terms specified in the notice (including a 
+term setting out the rent); or 
+ 
+(b) informing the tenant that the landlord does 
+not propose to offer the tenant a renewal of 
+the lease. 
+ 
+(3) An offer to renew the lease cannot be revoked 
+without the tenant's consent for 60 days after it is 
+made. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 7—Assignment and termination of a retail premises lease 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+71 
+  
+ 
+(4) If the landlord fails to comply with 
+subsection (2)— 
+ 
+(a) the landlord must give the tenant a notice 
+containing the same information as the 
+notice the landlord was required to give 
+under subsection (2); and 
+ 
+(b) the lease continues (on the same terms and 
+conditions as applied immediately before the 
+lease term ends) until— 
+ 
+(i) the day specified in the notice that the 
+landlord is required to give under 
+paragraph (a) (which must be at least 
+6 months after the notice is given to the 
+tenant); or 
+ 
+(ii) if the tenant gives the landlord a notice 
+under subsection (5), the day specified 
+in that notice. 
+ 
+(5) If the landlord fails to comply with subsection (2), 
+the tenant may, whether or not the landlord has 
+given the tenant a notice as required under 
+subsection (4)(a), give written notice to the 
+landlord terminating the lease from a day that is 
+not earlier than the day on which the term of the 
+lease expires. 
+ 
+ 
+S. 64(5) 
+amended by 
+No. 82/2005 
+s. 31. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Additional requirements for retail shopping centres 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+72 
+  
+Part 8—Additional requirements for retail 
+shopping centres 
+ 
+65 Part only applies to retail shopping centres 
+This Part only applies to retail premises located in 
+retail shopping centres (and applies in addition to 
+the other provisions of this Act). 
+ 
+66 Changes to core trading hours 
+A retail premises lease that provides that the 
+tenant's business must be open for trading during 
+the core trading hours of the retail shopping centre 
+is taken to provide that the landlord cannot change 
+those hours unless a majority of the tenants in the 
+retail shopping centre who hold a retail premises 
+lease agree in writing to the landlord doing so. 
+ 
+67 Confidentiality of turnover information 
+ 
+(1) A landlord under a retail premises lease must not 
+divulge or communicate to any person any 
+information about the turnover of the tenant's 
+business provided by the tenant in accordance 
+with the lease. 
+Penalty: 20 penalty units. 
+ 
+(2) However, subsection (1) does not prevent the 
+landlord communicating or divulging any 
+information— 
+ 
+(a) with the tenant's consent; or 
+ 
+(b) in a document giving aggregate turnover 
+information about the retail shopping centre 
+in which the retail premises are located in a 
+way that does not disclose information 
+relating to the turnover of a particular 
+tenant's business; or 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Additional requirements for retail shopping centres 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+73 
+  
+ 
+(c) to a court, the Tribunal or the Small Business 
+Commission, or for the purposes of any 
+dispute resolution or valuation, for the 
+purposes of this Act or the lease; or 
+ 
+(d) in compliance with a requirement of or under 
+an Act; or 
+ 
+(e) in good faith to any of the following persons 
+in a way that does not disclose information 
+identifying a particular lease or tenant, or 
+relating to a tenant's business— 
+ 
+(i) the landlord's professional advisers 
+(such as legal or financial advisers); or 
+ 
+(ii) the proper officer of any financial 
+institution for the purpose of enabling 
+the landlord to obtain financial 
+accommodation; or 
+ 
+(iii) a prospective purchaser of the retail 
+premises or the building in which the 
+premises are located. 
+ 
+68 Availability of statistical information about the 
+retail shopping centre 
+If a retail premises lease requires the tenant to pay 
+an amount in respect of outgoings on account of 
+expenditure incurred by the landlord in obtaining 
+statistical information about the operation or 
+performance of the retail shopping centre in which 
+the premises are located, the lease is taken to 
+provide that the landlord must, at the request of 
+the tenant, make the statistical information 
+available to the tenant. 
+ 
+ 
+ 
+ 
+S. 67(2)(c) 
+amended by 
+No. 16/2017 
+s. 41. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Additional requirements for retail shopping centres 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+74 
+  
+ 
+69 Advertising and promotion requirements 
+ 
+(1) A provision in a retail premises lease is void to the 
+extent that it requires the tenant to undertake any 
+advertising or promotion of the tenant's business. 
+ 
+(2) However, subsection (1) does not apply to a 
+provision that requires a payment to the landlord 
+for advertising or promotion costs incurred or to 
+be incurred by the landlord. 
+ 
+70 Marketing plan for advertising and promotion 
+ 
+(1) A retail premises lease that requires the tenant to 
+pay an amount to the landlord for advertising or 
+promotion costs is taken to provide as set out in 
+this section. 
+ 
+(2) At least one month before the start of each 
+accounting period of the landlord, the landlord 
+must make available to the tenant a marketing 
+plan that gives details of the landlord's proposed 
+expenditure on advertising and promotion during 
+that accounting period. 
+ 
+(3) If the tenant's payment relates to an opening 
+promotion, at least one month before that opening 
+promotion the landlord must make available to the 
+tenant details of the proposed expenditure on the 
+promotion. 
+ 
+71 Statement and report on advertising and promotion 
+expenditure 
+ 
+(1) A retail premises lease is taken to provide as set 
+out in this section. 
+ 
+(2) The landlord must prepare a written statement that 
+details all expenditure by the landlord in each 
+accounting period of the landlord during the term 
+of the lease on account of advertising or 
+promotion costs to which the tenant is required to 
+contribute under the lease. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Additional requirements for retail shopping centres 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+75 
+  
+ 
+(3) The advertising and promotion statement must 
+be— 
+ 
+(a) made available to the tenant at least once for 
+expenditure during each of the landlord's 
+accounting periods during the term of the 
+lease; and 
+ 
+(b) given to the tenant within 3 months after the 
+end of the accounting period to which it 
+relates; and 
+ 
+(c) in the case of a statement given under 
+paragraph (b), accompanied by a report 
+prepared by a registered company auditor 
+(within the meaning of the Corporations Act) 
+that confirms whether the statement correctly 
+states the landlord's expenditure during the 
+accounting period in respect of advertising or 
+promotion costs to which the tenant is 
+required to contribute. 
+ 
+(4) The advertising and promotion statement must be 
+prepared in accordance with relevant principles 
+and disclosure requirements of applicable 
+accounting standards (in force from time to time) 
+made by the Australian Accounting Standards 
+Board. 
+ 
+72 Unspent advertising and promotion contributions 
+ 
+(1) A retail premises lease is taken to provide that an 
+amount that is— 
+ 
+(a) contributed, under a retail premises lease, by 
+a tenant in the retail shopping centre in 
+which the retail premises are located in 
+respect of the landlord's advertising or 
+promotion costs; and 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Additional requirements for retail shopping centres 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+76 
+  
+ 
+(b) not spent in respect of those costs— 
+must be carried forward by the landlord to be 
+applied towards future expenditure on advertising 
+or promotion of the centre. 
+ 
+(2) When the lease ends, there is to be an adjustment 
+between the landlord and tenant for the term of the 
+lease to take account of any underpayment or 
+overpayment by the tenant in respect of 
+expenditure on advertising or promotion of the 
+centre. 
+ 
+(3) The adjustment is to be made— 
+ 
+(a) in accordance with the regulations; and 
+ 
+(b) within 4 months after the end of the lease. 
+ 
+73 Termination by landlord for inadequate sales 
+prohibited 
+A provision in a retail premises lease is void to the 
+extent that it permits or otherwise provides for the 
+termination of the lease by the landlord on the 
+ground that the tenant or the tenant's business has 
+failed to achieve specified sales or turnover 
+performance. 
+ 
+74 Geographical restrictions on tenant prohibited 
+ 
+(1) A provision in a retail premises lease is void to the 
+extent that it has the effect of preventing or 
+restricting the tenant from carrying on business 
+outside the retail shopping centre in which the 
+retail premises are located, either during the term 
+of the lease or after its expiry. 
+ 
+(2) Subsection (1) does not prevent a lease or other 
+agreement from containing a provision that 
+prevents the use of the name of the retail shopping 
+centre in connection with a business carried on 
+outside the centre. 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 8—Additional requirements for retail shopping centres 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+77 
+  
+ 
+75 Tenants' associations etc. 
+ 
+(1) A provision in a retail premises lease is void to the 
+extent that it has the effect of preventing or 
+restricting the tenant from forming, joining or 
+taking part in any activities of a tenants' 
+association, chamber of commerce or similar 
+body. 
+ 
+(2) A landlord under a retail premises lease must not 
+treat or propose to treat a tenant who— 
+ 
+(a) forms or joins; or 
+ 
+(b) proposes to form or join— 
+a tenants' association, chamber of commerce or 
+similar body less favourably than a tenant in 
+similar circumstances who does not do or propose 
+to do any of those things. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 9—Unconscionable conduct 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+78 
+  
+Part 9—Unconscionable conduct 
+ 
+76 Application of Part 
+ 
+(1) In addition to a retail premises lease to which this 
+Part applies because of Part 3, this Part also 
+applies to a retail premises lease that was entered 
+into or renewed before the commencement of this 
+section if this Act would have applied to the lease 
+had it been entered into or renewed after that 
+commencement. 
+ 
+(2) This Part does not apply to conduct that occurred 
+before the commencement of this section. 
+ 
+77 Unconscionable conduct of a landlord 
+ 
+(1) A landlord under a retail premises lease or a 
+proposed retail premises lease must not, in 
+connection with the lease or proposed lease, 
+engage in conduct that is, in all the circumstances, 
+unconscionable. 
+Note 
+Section 78 deals with unconscionable conduct by a tenant. 
+ 
+(2) Without limiting the matters to which the Tribunal 
+may have regard for the purpose of determining 
+whether a landlord has contravened subsection 
+(1), the Tribunal may have regard to— 
+ 
+(a) the relative strengths of the bargaining 
+positions of the landlord and tenant; and 
+ 
+(b) whether, as a result of conduct engaged in by 
+the landlord, the tenant was required to 
+comply with conditions that were not 
+reasonably necessary for the protection of 
+the landlord's legitimate interests; and 
+ 
+(c) whether the tenant was able to understand 
+any documents relating to the lease; and 
+ 
+S. 77(1) 
+amended by 
+No. 82/2005 
+s. 32(1)(a)(b). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 9—Unconscionable conduct 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+79 
+  
+ 
+(d) whether any undue influence or pressure was 
+exerted on, or any unfair tactics were used 
+against, the tenant or a person acting on the 
+tenant's behalf by the landlord or a person 
+acting on the landlord's behalf in relation to 
+the lease, for example— 
+ 
+(i) concerning trading on Sundays or days 
+that are public holidays where the 
+premises are located; or 
+ 
+(ii) to agree to a lease term of less than the 
+minimum period provided by 
+section 21; and 
+ 
+(e) the amount for which, and the circumstances 
+under which, the tenant could have acquired 
+an identical or equivalent lease from a person 
+other than the landlord; and 
+ 
+(f) the extent to which the landlord's conduct 
+towards the tenant was consistent with the 
+landlord's conduct in similar transactions 
+between the landlord and other similar 
+tenants; and 
+ 
+(g) the requirements of any applicable industry 
+code; and 
+ 
+(h) the requirements of any other industry code, 
+if the tenant acted on the reasonable belief 
+that the landlord would comply with that 
+code; and 
+ 
+(i) the extent to which the landlord 
+unreasonably failed to disclose to the 
+tenant— 
+ 
+(i) any intended conduct of the landlord 
+that might affect the tenant's interests; 
+and 
+ 
+ 
+S. 77(2)(d)(ii) 
+amended by 
+No. 82/2005 
+s. 32(2). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 9—Unconscionable conduct 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+80 
+  
+ 
+(ii) any risks to the tenant arising from the 
+landlord's intended conduct that are 
+risks that the landlord should have 
+foreseen would not be apparent to the 
+tenant; and 
+ 
+(j) the extent to which the landlord was willing 
+to negotiate the terms and conditions of any 
+lease with the tenant; and 
+ 
+(k) the extent to which the landlord acted in 
+good faith; and 
+ 
+(l) the extent to which the landlord was not 
+reasonably willing to negotiate the rent under 
+the lease; and 
+ 
+(m) the extent to which the landlord 
+unreasonably used information about the 
+turnover of the tenant's or a previous tenant's 
+business to negotiate the rent; and 
+ 
+(n) the extent to which the landlord required the 
+tenant to incur unreasonable fit out costs. 
+ 
+(3) In considering whether a landlord has contravened 
+subsection (1), the Tribunal— 
+ 
+(a) must not have regard to any circumstances 
+that were not reasonably foreseeable at the 
+time of the alleged contravention; and 
+ 
+(b) may have regard to circumstances existing 
+before the commencement of this section but 
+not to conduct engaged in before that 
+commencement. 
+ 
+78 Unconscionable conduct of a tenant 
+ 
+(1) A tenant under a retail premises lease or a 
+proposed retail premises lease must not, in 
+connection with the lease or proposed lease, 
+engage in conduct that is, in all the circumstances, 
+unconscionable. 
+S. 78(1) 
+amended by 
+No. 82/2005 
+s. 33(a)(b). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 9—Unconscionable conduct 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+81 
+  
+ 
+(2) Without in any way limiting the matters to which 
+the Tribunal may have regard for the purpose of 
+determining whether a tenant has contravened 
+subsection (1), the Tribunal may have regard to— 
+ 
+(a) the relative strengths of the bargaining 
+positions of the tenant and landlord; and 
+ 
+(b) whether, as a result of conduct engaged in by 
+the tenant, the landlord was required to 
+comply with conditions that were not 
+reasonably necessary for the protection of 
+the tenant's legitimate interests; and 
+ 
+(c) whether the landlord was able to understand 
+any documents relating to the lease; and 
+ 
+(d) whether any undue influence or pressure was 
+exerted on, or any unfair tactics were used 
+against, the landlord or a person acting on 
+the landlord's behalf by the tenant or a 
+person acting on the tenant's behalf in 
+relation to the lease; and 
+ 
+(e) the amount for which, and the circumstances 
+under which, the landlord could have granted 
+an identical or equivalent lease to a person 
+other than the tenant; and 
+ 
+(f) the extent to which the tenant's conduct 
+towards the landlord was consistent with the 
+tenant's conduct in similar transactions 
+between the tenant and other similar 
+landlords; and 
+ 
+(g) the requirements of any applicable industry 
+code; and 
+ 
+(h) the requirements of any other industry code, 
+if the landlord acted on the reasonable belief 
+that the tenant would comply with that code; 
+and 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 9—Unconscionable conduct 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+82 
+  
+ 
+(i) the extent to which the tenant unreasonably 
+failed to disclose to the landlord— 
+ 
+(i) any intended conduct of the tenant that 
+might affect the landlord's interests; and 
+ 
+(ii) any risks to the landlord arising from 
+the tenant's intended conduct that are 
+risks that the tenant should have 
+foreseen would not be apparent to the 
+landlord; and 
+ 
+(j) the extent to which the tenant was willing to 
+negotiate the terms and conditions of any 
+lease with the landlord; and 
+ 
+(k) the extent to which the tenant acted in good 
+faith; and 
+ 
+(l) the extent to which the tenant was not 
+reasonably willing to negotiate the rent under 
+the lease; and 
+ 
+(m) the extent to which the tenant unreasonably 
+used information about the turnover of the 
+tenant's or a previous tenant's business to 
+negotiate the rent; and 
+ 
+(n) the extent to which the tenant was willing to 
+incur reasonable fit out costs. 
+ 
+(3) In considering whether a tenant has contravened 
+subsection (1), the Tribunal— 
+ 
+(a) must not have regard to any circumstances 
+that were not reasonably foreseeable at the 
+time of the alleged contravention; and 
+ 
+(b) may have regard to circumstances existing 
+before the commencement of this section but 
+not to conduct engaged in before that 
+commencement. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 9—Unconscionable conduct 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+83 
+  
+ 
+79 Certain conduct is not unconscionable 
+A person is not to be taken for the purposes of 
+section 77 or 78 to engage in unconscionable 
+conduct in connection with a retail premises lease 
+merely because— 
+ 
+(a) the person institutes proceedings in relation 
+to the lease or refers a dispute, application or 
+claim relating to the lease to arbitration, 
+conciliation, mediation or some other form 
+of alternative dispute resolution; or 
+ 
+(b) the person fails to renew the lease or enter 
+into a new lease; or 
+ 
+(c) the person does not agree to having an 
+independent valuation of current market rent 
+carried out. 
+ 
+80 Recovery of amount for loss or damage 
+ 
+(1) A landlord or tenant, or former landlord or tenant, 
+who suffers loss or damage because of 
+unconscionable conduct of another person that 
+contravenes section 77 or 78 may recover the 
+amount of the loss or damage by lodging a claim 
+with the Tribunal against the other person. 
+ 
+(2) The claim must be lodged within 6 years after the 
+alleged unconscionable conduct occurred. 
+ 
+(3) If the matter of the loss or damage arises in 
+connection with proceedings in the Tribunal, the 
+Tribunal may proceed to decide the matter and 
+award a sum that it considers appropriate. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Dispute resolution 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+84 
+  
+Part 10—Dispute resolution 
+Division 1—Retail tenancy disputes 
+ 
+81 Meaning of retail tenancy dispute 
+ 
+(1) In this Part, retail tenancy dispute means a 
+dispute between a landlord and tenant— 
+ 
+(a) arising under or in relation to a retail 
+premises lease to which— 
+ 
+(i) this Act applies or applied because of 
+Part 3; or 
+ 
+(ii) the Retail Tenancies Reform Act 
+1998 or the Retail Tenancies Act 1986 
+applies or applied; or 
+ 
+(b) arising under a provision of the Retail 
+Tenancies Reform Act 1998 or the Retail 
+Tenancies Act 1986 in relation to a lease to 
+which that Act applies or applied; or 
+ 
+(c) arising under a lease that provides for the 
+occupation of retail premises in Victoria to 
+which none of those Acts apply or applied— 
+despite anything to the contrary in this Act 
+(apart from subsection (2) and section 119(2)). 
+Note 
+If proceedings were in progress under the Retail 
+Tenancies Reform Act 1998 when this Act commenced, 
+see section 119(2) (general transitional and savings). 
+ 
+(1A) In addition, a retail tenancy dispute includes— 
+ 
+(a) a dispute between a landlord and a guarantor 
+of a tenant's obligations under a lease arising 
+in circumstances referred to in subsection 
+(1)(a), (b) or (c); and 
+ 
+ 
+S. 81(1A) 
+inserted by 
+No. 62/2014 
+s. 55. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Dispute resolution 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+85 
+  
+ 
+(b) a dispute between a landlord and a person 
+who has given an indemnity to the landlord 
+for loss or damage arising as a result of a 
+breach by a tenant of a lease in 
+circumstances referred to in 
+subsection (1)(a), (b) or (c). 
+ 
+(2) However, retail tenancy dispute does not include 
+a dispute solely relating to the payment of rent or 
+a dispute that is capable of being determined by a 
+specialist retail valuer under section 34, 35 or 37 
+of this Act or under section 12A or 13A of the 
+Retail Tenancies Reform Act 1998 or section 10 
+or 11A of the Retail Tenancies Act 1986. 
+ 
+82 Application of Part to retail premises 
+In this Part, a lease of retail premises includes a 
+lease of premises that are retail premises at any 
+time during the lease but before a referral under 
+section 86 is made in relation to that lease 
+(whether or not the premises are retail premises 
+when that referral is made). 
+ 
+83 Part applies to current and former leases 
+In this Part— 
+landlord includes a former landlord;  
+lease includes a former lease;  
+tenant includes a former tenant. 
+ 
+ 
+ 
+ 
+ 
+ 
+S. 81(2) 
+amended by 
+No. 82/2005 
+s. 34. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Dispute resolution 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+86 
+  
+Division 2—Small Business Commission 
+ 
+ 
+ 
+84 Functions of Small Business Commission 
+ 
+ 
+ 
+(1) The Small Business Commission has the 
+following functions under this Act— 
+ 
+ 
+(a) to make arrangements to facilitate the 
+resolution by mediation, or by another 
+appropriate form of alternative dispute 
+resolution, of retail tenancy disputes 
+(whether or not a dispute has been formally 
+referred under this Act to the Commission); 
+ 
+(b) to take proceedings for an offence against 
+this Act; 
+ 
+(c) to report to the Minister on the operation of 
+this Act; 
+ 
+(d) to authorise, if the Commission considers it 
+appropriate to do so, a body to represent that 
+the form of a standard lease that the body is 
+to make available to the public (whether or 
+not for a fee) is endorsed by the 
+Commission; 
+ 
+(e) to confirm whether a certificate has been 
+given in accordance with section 21(5); 
+ 
+(f) to prepare and publish an information 
+booklet or guidelines about retail leases that 
+may be purchased on demand by members of 
+the public; 
+Pt 10 Div. 2 
+(Heading) 
+substituted by 
+No. 16/2017 
+s. 42. 
+S. 84 
+(Heading) 
+amended by 
+No. 16/2017 
+s. 43(1). 
+S. 84(1) 
+amended by 
+No. 16/2017 
+s. 43(2)(a). 
+S. 84(1)(a) 
+amended by 
+No. 16/2017 
+s. 43(2)(b). 
+S. 84(1)(d) 
+amended by 
+No. 16/2017 
+s. 43(2)(c). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Dispute resolution 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+87 
+  
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+(h) such other functions as may be conferred or 
+imposed on the Commission by or under this 
+Act. 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+(2) In arranging for the resolution of retail tenancy 
+disputes, the Commission is to have regard to the 
+need for the mediation or other form of alternative 
+dispute resolution to be conducted by persons who 
+are experienced in the field of retail premises 
+leases. 
+ 
+(3) The Commission may itself conduct a mediation 
+or other form of alternative dispute resolution 
+and is entitled to be paid its fees and expenses 
+for doing so, which must not be more than the 
+maximum amount (if any) prescribed by the 
+regulations. 
+ 
+(4) The Commission may charge a fee for giving 
+an authorisation under subsection (1)(d), which 
+must not be more than the maximum fee (if any) 
+prescribed by the regulations. 
+ 
+(5) The Commission is not subject to the Minister's 
+control or direction in exercising functions under 
+subsection (1)(a) or (b). 
+ 
+ 
+S. 84(1)(g) 
+amended by 
+No. 82/2005 
+s. 35(1), 
+repealed by 
+No. 69/2012 
+s. 8. 
+S. 84(1)(h) 
+amended by 
+No. 16/2017 
+s. 43(2)(d). 
+S. 84(1A) 
+inserted by 
+No. 82/2005 
+s. 35(2), 
+repealed by 
+No. 69/2012 
+s. 8. 
+S. 84(2) 
+amended by 
+No. 16/2017 
+s. 43(3). 
+S. 84(3) 
+amended by 
+No. 16/2017 
+s. 43(4). 
+S. 84(4) 
+amended by 
+No. 16/2017 
+s. 43(5). 
+S. 84(5) 
+amended by 
+No. 16/2017 
+s. 43(5). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Dispute resolution 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+88 
+  
+Division 3—Alternative dispute resolution 
+ 
+85 What mediation and other alternative dispute 
+resolution covers 
+Mediation and other forms of alternative dispute 
+resolution under this Part are not limited to formal 
+mediation procedures but extend to preliminary 
+assistance in dispute resolution, such as the giving 
+of advice designed to ensure that— 
+ 
+(a) the parties are fully aware of their rights and 
+obligations; and  
+ 
+(b) there is full and open communication 
+between the parties concerning the matter. 
+ 
+86 Referral of retail tenancy disputes for alternative 
+dispute resolution 
+ 
+(1) Any or all of the parties to a retail premises lease 
+may refer a retail tenancy dispute to the Small 
+Business Commission for mediation. 
+ 
+(1A) A guarantor of a tenant's obligations under a 
+lease who has been called on to perform any 
+of those obligations may refer a retail tenancy 
+dispute referred to in section 81(1A) to the 
+Small Business Commission for mediation. 
+ 
+(1B) A person who has given an indemnity to a 
+landlord for loss or damage arising as a result of a 
+breach by a tenant of a lease and who has been 
+called on to indemnify the landlord accordingly 
+may refer a retail tenancy dispute referred to in 
+section 81(1A) to the Small Business Commission 
+for mediation. 
+ 
+ 
+ 
+ 
+S. 86(1) 
+amended by 
+No. 16/2017 
+s. 44(1). 
+S. 86(1A) 
+inserted by 
+No. 62/2014 
+s. 56, 
+amended by 
+No. 16/2017 
+s. 44(1). 
+S. 86(1B) 
+inserted by 
+No. 62/2014 
+s. 56, 
+amended by 
+No. 16/2017 
+s. 44(1). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Dispute resolution 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+89 
+  
+ 
+(2) The referral must be accompanied by the 
+application fee, which must not be more than the 
+maximum fee (if any) prescribed by the 
+regulations. 
+Note 
+The parties may ask the Commission for preliminary 
+assistance before referring the retail tenancy dispute (see 
+section 85). 
+ 
+(2A) The Small Business Commission may join any 
+person that it considers it appropriate to join as a 
+party to the mediation. 
+ 
+ 
+ 
+(3) The Commission must arrange for each retail 
+tenancy dispute referred in accordance with this 
+section to be the subject of— 
+ 
+(a) mediation by a mediator; or 
+ 
+(b) another appropriate form of alternative 
+dispute resolution by a suitably qualified 
+person. 
+ 
+(4) A party to a mediation or another form of 
+alternative dispute resolution may be represented 
+by a legal practitioner but the mediator or person 
+conducting the other form of alternative dispute 
+resolution may, if he or she considers it 
+appropriate to do so, meet with the party (alone or 
+together with any other party) without their legal 
+representative being present. 
+ 
+(5) The costs of, and associated with, mediation by a 
+mediator, or another form of alternative dispute 
+resolution by a suitably qualified person 
+(including the fees and expenses of the mediator 
+or person conducting the other form of alternative 
+dispute resolution) are to be determined by the 
+mediator or that other person and paid by the 
+Note to 
+s. 86(2) 
+amended by 
+No. 16/2017 
+s. 44(2). 
+S. 86(2A) 
+inserted by 
+No. 82/2005 
+s. 36, 
+amended by 
+No. 16/2017 
+s. 44(3). 
+S. 86(3) 
+amended by 
+No. 16/2017 
+s. 44(4). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Dispute resolution 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+90 
+  
+parties in the proportions that they agree among 
+themselves or, if they cannot agree, in equal 
+shares. 
+ 
+(6) A mediator or person conducting another form of 
+alternative dispute resolution is not civilly or 
+criminally liable in respect of the performance, in 
+good faith, of the functions of a mediator or such a 
+person under this Act. 
+ 
+87 Retail tenancy disputes must first be referred for 
+alternative dispute resolution 
+ 
+(1) A retail tenancy dispute may only be the subject 
+of proceedings before the Tribunal (whether under 
+this Act, the Fair Trading Act 1999 or any other 
+Act) if the Small Business Commission has 
+certified in writing that mediation or another 
+appropriate form of alternative dispute resolution 
+under this Part has failed, or is unlikely, to resolve 
+it. 
+ 
+(2) This section does not apply to proceedings for an 
+order in the nature of an injunction. 
+ 
+(3) This section does not affect the validity of any 
+decision made by the Tribunal. 
+ 
+88 Statements made during alternative dispute 
+resolution not admissible 
+A statement or admission made in the course of a 
+mediation or another form of alternative dispute 
+resolution under this Part is not admissible in 
+proceedings under Division 4 or in any other legal 
+proceedings. 
+ 
+ 
+ 
+ 
+S. 87(1) 
+amended by 
+No. 16/2017 
+s. 45. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Dispute resolution 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+91 
+  
+Division 4—The Tribunal 
+ 
+89 Jurisdiction of Tribunal 
+ 
+(1) The Tribunal has jurisdiction to hear and 
+determine an application by any of the following 
+persons seeking resolution of a retail tenancy 
+dispute— 
+ 
+(a) a landlord or tenant under a retail premises 
+lease; 
+ 
+(b) a guarantor of a tenant's obligations under a 
+retail premises lease; 
+ 
+(c) a person who has given an indemnity to a 
+landlord for loss or damage arising as a 
+result of a breach by a tenant of a retail 
+premises lease;  
+ 
+(d) a specialist retail valuer. 
+ 
+(2) In an application under subsection (1) for 
+forfeiture or relief against forfeiture (whether or 
+not for non-payment of rent), the Tribunal has the 
+same jurisdiction, including equitable jurisdiction, 
+and powers as the Supreme Court has in relation 
+to proceedings for forfeiture or relief against 
+forfeiture. 
+ 
+(3) The Tribunal's powers under subsection (2) are 
+subject to section 92 (which provides that each 
+party to the application is to bear its own costs). 
+ 
+(4) Subject to section 23(4) (key-money and goodwill 
+payments prohibited), a retail tenancy dispute 
+other than— 
+ 
+ 
+(a) an application for relief against forfeiture; or 
+ 
+(b) a claim under Part 9 (Unconscionable 
+Conduct); or 
+ 
+S. 89(1) 
+substituted by 
+No. 62/2014 
+s. 57(1). 
+S. 89(4) 
+amended by 
+No. 69/2009 
+s. 54(Sch. Pt 2 
+item 44). 
+S. 89(4)(b) 
+amended by 
+No. 62/2014 
+s. 57(2)(a). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Dispute resolution 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+92 
+  
+ 
+(c) a retail tenancy dispute referred to in 
+section 81(1A)— 
+ 
+is not justiciable before any other tribunal or a 
+court or person acting judicially within the 
+meaning of the Evidence (Miscellaneous 
+Provisions) Act 1958. 
+ 
+(5) The Tribunal also has jurisdiction to hear and 
+determine any other application that under this 
+Act, the Retail Tenancies Reform Act 1998 or 
+the Retail Tenancies Act 1986 may be made to 
+the Tribunal. 
+ 
+90 Parties to proceeding 
+The parties to a proceeding before the Tribunal on 
+an application under section 89(1) are— 
+ 
+(a) the applicant; and 
+ 
+(b) the other party to the dispute; and 
+ 
+(c) any person the Tribunal considers it 
+appropriate to join as a party to the 
+proceeding. 
+ 
+91 Orders the Tribunal can make 
+ 
+(1) The Tribunal may, in a proceeding under this Part, 
+make one or more orders— 
+ 
+(a) requiring a party to do, or not to do, anything 
+including to provide specified facilities, 
+services, fixtures or fittings under a retail 
+premises lease or to return specified fixtures 
+or fittings to another party; or 
+ 
+(b) requiring a party to pay money, by way of 
+restitution or compensation or otherwise, to a 
+specified person; or 
+ 
+S. 89(4)(c) 
+inserted by 
+No. 62/2014 
+s. 57(2)(b). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Dispute resolution 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+93 
+  
+ 
+(c) rectifying a retail premises lease or other 
+document; or 
+ 
+(d) granting recovery of possession of the retail 
+premises to the landlord; or 
+ 
+(e) requiring anything else to be done that it— 
+ 
+(i) is empowered to require to be done 
+under this Act or the Victorian Civil 
+and Administrative Tribunal Act 
+1998; or 
+ 
+(ii) considers necessary or desirable to 
+resolve the matter concerned. 
+ 
+(2) In ordering the payment of a sum of money by a 
+party, the Tribunal may order the payment of 
+interest on that sum by the party at the rate fixed 
+from time to time under section 2 of the Penalty 
+Interests Rates Act 1983 or at any lesser rate it 
+thinks appropriate. 
+ 
+92 Each party bears its own costs 
+ 
+(1) Despite anything to the contrary in Division 8 of 
+Part 4 of the Victorian Civil and Administrative 
+Tribunal Act 1998, each party to a proceeding 
+before the Tribunal under this Part is to bear its 
+own costs in the proceeding. 
+ 
+(2) However, at any time the Tribunal may make an 
+order that a party pay all or a specified part of the 
+costs of another party in the proceeding but only if 
+the Tribunal is satisfied that it is fair to do so 
+because— 
+ 
+(a) the party conducted the proceeding in a 
+vexatious way that unnecessarily 
+disadvantaged the other party to the 
+proceeding; or 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 10—Dispute resolution 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+94 
+  
+ 
+(b) the party refused to take part in or withdrew 
+from mediation or other form of alternative 
+dispute resolution under this Part. 
+ 
+(3) In this section, costs includes fees, charges and 
+disbursements. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 11—Other matters 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+95 
+  
+Part 11—Other matters 
+ 
+93 Indemnities 
+ 
+(1) A provision in a retail premises lease is void to the 
+extent that it purports to indemnify, or require the 
+tenant to indemnify, the landlord against any 
+action, liability, penalty, claim or demand for or to 
+which the landlord would otherwise be liable or 
+subject. 
+ 
+(2) A provision in a retail premises lease is void to the 
+extent that it purports to make the tenant liable for 
+or subject to any action, liability, penalty, claim or 
+demand in respect of any act, matter or thing done 
+or omitted to be done by the landlord or any other 
+person if the tenant would not otherwise be liable 
+for or subject to that action, liability, penalty, 
+claim or demand. 
+ 
+(3) The landlord must indemnify the tenant for any 
+amount recoverable from the tenant by a public 
+statutory authority for charges, rates or taxes 
+payable under any Act for the retail premises. 
+ 
+(4) Subsection (3) does not apply to— 
+ 
+(a) charges for the supply of water by measure 
+in excess of the minimum amount payable 
+for it relating to a period during which the 
+tenant occupied the retail premises; or 
+ 
+(b) charges, rates or taxes for which, under the 
+terms of the retail premises lease, the tenant 
+is liable. 
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 11—Other matters 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+96 
+  
+ 
+94 The Act prevails over retail premises leases, 
+agreements etc. 
+ 
+(1) A provision of a retail premises lease or of an 
+agreement (whether or not the agreement is 
+between parties to a retail premises lease) is void 
+to the extent that it is contrary to or inconsistent 
+with anything in this Act (including anything that 
+the lease is taken to include or provide because of 
+a provision of this Act).  
+ 
+(2) A provision of a retail premises lease or of an 
+agreement (whether or not the agreement is 
+between parties to a retail premises lease) is void 
+to the extent that it purports— 
+ 
+(a) to exclude the application of a provision of 
+this Act; or 
+ 
+(b) to limit the right of a party to the lease to 
+seek resolution of a retail tenancy dispute 
+under Part 10 or otherwise to limit the 
+application of that Part. 
+ 
+(3) A provision contained in any other agreement or 
+arrangement (whether or not between parties to a 
+retail premises lease) is void if that provision 
+would be void under this Act if it were contained 
+in a retail premises lease. 
+ 
+94A Section 146 of the Property Law Act 1958 applies to 
+retail premises leases 
+To avoid doubt, section 146 of the Property Law 
+Act 1958 applies to a retail premises lease. 
+Note 
+Section 146 of the Property Law Act 1958 provides that a 
+lessor must give a lessee notice before exercising a right of 
+re-entry or forfeiture. 
+ 
+ 
+S. 94A 
+inserted by 
+No. 82/2005 
+s. 37. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 11—Other matters 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+97 
+  
+ 
+95 Occupation of residential area under a retail 
+premises lease 
+If— 
+ 
+(a) a retail premises lease confers a right on the 
+tenant to occupy a residential area in the 
+building in which the retail premises are 
+located; and 
+ 
+(b) the Residential Tenancies Act 1997 does 
+not apply to the lease to the extent that it 
+provides for the occupation of the residential 
+area— 
+the retail premises lease is taken to provide that 
+the landlord must ensure that the residential area 
+is maintained in good repair. 
+ 
+96 Franchise arrangements 
+ 
+(1) This section applies if a person proposes to grant a 
+licence to another person to use all or part of any 
+retail premises wholly or predominantly for the 
+carrying on of a business under a name or mark 
+identifying, commonly associated with or 
+controlled by the tenant or a person or corporation 
+(as defined in section 57A of the Corporations 
+Act) connected with the tenant. 
+ 
+(2) The proposed licensor must give the proposed 
+licensee, within 7 days before the grant of the 
+licence— 
+ 
+(a) a copy of any disclosure statement given to 
+the tenant concerning the lease; and 
+ 
+(b) details of any changes of which the proposed 
+licensor is aware, or could reasonably be 
+expected to be aware, that have affected the 
+information in the disclosure statement since 
+it was given to the tenant. 
+Penalty: 10 penalty units. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 11—Other matters 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+98 
+  
+ 
+97 Service of documents 
+A document under this Act may be served on, or 
+given to, a person in or out of Victoria— 
+ 
+(a) by delivering it personally to the person; or 
+ 
+(b) by leaving it at the person's usual or last 
+known place of residence or business with 
+someone who is apparently— 
+ 
+(i) over the age of 16 years; and  
+ 
+(ii) residing at that place or, in the case of a 
+place of business, in charge of or 
+employed at that place; or 
+ 
+(c) by sending it by post addressed to the person 
+at the person's usual or last known place of 
+residence or business; or 
+ 
+(d) in any other way authorised by the retail 
+premises lease concerned or by or under any 
+other Act. 
+ 
+97A Validation of certain instruments 
+An instrument made under section 5(1) before the 
+day on which the Retail Leases (Amendment) 
+Act 2005 received the Royal Assent that would 
+have been validly made had section 6 of that Act 
+been in operation at the time at which the 
+instrument was made or purportedly made has, 
+and is deemed always to have had, the same force 
+and effect as it would have had if section 6 of that 
+Act had been in operation at the time at which the 
+instrument was made or purportedly made. 
+ 
+98 Limitation of Supreme Court jurisdiction 
+It is the intention of section 89(4) to alter or vary 
+section 85 of the Constitution Act 1975. 
+ 
+ 
+S. 97A 
+inserted by 
+No. 82/2005 
+s. 38. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 11—Other matters 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+99 
+  
+ 
+99 Regulations 
+ 
+(1) The Governor in Council may make regulations 
+for or with respect to— 
+ 
+(a) the form of the disclosure statements referred 
+to in sections 17, 26 and 61, in particular the 
+information that the disclosure statement 
+must contain and any material that must 
+accompany it; and 
+ 
+(b) establishing codes of conduct with which 
+landlords or tenants under retail premises 
+leases, or parties to a lease or licence of 
+premises that under the terms of the lease or 
+licence are used, or are to be used, wholly or 
+predominantly for a purpose referred to in 
+paragraph (a) or (b) of section 4(1), must 
+comply (including concerning casual leasing 
+arrangements in retail shopping centres); and 
+ 
+(c) matters of a transitional nature (including 
+matters of an application or savings nature) 
+arising as a result of the enactment of this 
+Act (including the repeals and amendments 
+made by this Act); and 
+ 
+(d) any other matter or thing required or 
+permitted by this Act to be prescribed or 
+necessary to be prescribed to give effect to 
+this Act. 
+ 
+(2) A code of conduct may apply, adopt or 
+incorporate, wholly or partially or as amended in 
+the code of conduct, the provisions of any 
+document issued or published by any body 
+whether— 
+ 
+(a) as issued or published before or when the 
+code of conduct is made; or 
+ 
+(b) as amended from time to time. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 11—Other matters 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+100 
+  
+ 
+(3) A power conferred by this Act to make 
+regulations may be exercised— 
+ 
+(a) either in relation to all cases to which the 
+power extends, or in relation to all those 
+cases subject to specified exceptions, or in 
+relation to any specified case or class of 
+case; and 
+ 
+(b) so as to make, as respects the cases in 
+relation to which the power is exercised— 
+ 
+(i) the same provision for all cases in 
+relation to which the power is 
+exercised, or different provisions for 
+different cases or classes of case, or 
+different provisions for the same case 
+or class of case for different purposes; 
+or 
+ 
+(ii) any such provision either 
+unconditionally or subject to any 
+specified condition. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+ 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+101 
+  
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* 
+* 
+* 
+* 
+* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pt 12 
+(Heading and 
+ss 100–109) 
+amended by 
+No. 82/2005 
+ss 39, 40(1)(2), 
+41, 42(1)(2),  
+43(1)–(4), 
+repealed by 
+No. 28/2007 
+s. 3(Sch. 
+item 58). 
+Pt 13 
+(Heading and 
+ss 110–117) 
+amended by 
+No. 82/2005 
+ss 40(3), 
+42(3)(4),  
+43(5)–(8), 
+repealed by 
+No. 28/2007 
+s. 3(Sch. 
+item 58). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 14—Repeal of 1998 Act and transitional provisions 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+102 
+  
+Part 14—Repeal of 1998 Act and 
+transitional provisions 
+ 
+118 Repeal of Retail Tenancies Reform Act 1998 
+The Retail Tenancies Reform Act 1998 is 
+repealed. 
+ 
+119 General transitional and savings 
+ 
+(1) Despite the repeal of the Retail Tenancies 
+Reform Act 1998 but subject to Part 10 of this 
+Act, that Act continues to apply, and from 
+1 November 2003 applies as amended by Part 12 
+of this Act, to a retail premises lease to which it 
+applied immediately before its repeal. 
+ 
+(2) However, if proceedings under Part 3 of the 
+Retail Tenancies Reform Act 1998 have been 
+commenced but are not completed before that Act 
+is repealed, Part 3 of that Act continues to apply to 
+those proceedings despite that repeal and despite 
+Part 10 of this Act. 
+ 
+(3) Sections 39 and 52 of the Retail Tenancies 
+Reform Act 1998, as in force immediately before 
+the repeal of that Act, continue to have effect 
+despite that repeal. 
+ 
+(4) For the avoidance of doubt it is declared that the 
+effect of section 4(1) of the Retail Tenancies 
+Reform Act 1998 is, and always has been, to 
+apply that Act to a retail premises lease within the 
+meaning of that Act that was entered into on or 
+after 1 July 1998 including one entered into under 
+an option provided under such a lease that was 
+entered into before that date. 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 14—Repeal of 1998 Act and transitional provisions 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+103 
+  
+ 
+120 Disclosure statements 
+A disclosure statement given under section 8 of 
+the Retail Tenancies Reform Act 1998 that 
+provides information about each of the matters set 
+out in the Schedule to that Act is taken to be, and 
+to have been at all times, in the form of that 
+Schedule regardless of whether it has the same 
+layout as the disclosure statement set out in that 
+Schedule. 
+ 
+121 Notification of amount of land tax 
+ 
+(1) Despite anything to the contrary in this Act, 
+section 50 of this Act does not apply to— 
+ 
+(a) a retail premises lease entered into before the 
+commencement of this section; or 
+ 
+ 
+(b) an assignment of such a retail premises lease. 
+ 
+ 
+ 
+(2) If— 
+ 
+ 
+ 
+(a) section 50 of this Act does not apply to a 
+retail premises lease or an assignment of a 
+retail premises lease; and 
+ 
+(b) the tenant is liable under the retail premises 
+lease to pay an amount in respect of tax 
+under the Land Tax Act 2005 for which the 
+landlord or head landlord is liable; and 
+ 
+ 
+ 
+S. 121(1)(a) 
+amended by 
+No. 82/2005 
+s. 44(1). 
+S. 121(1)(b) 
+amended by 
+No. 82/2005 
+s. 44(1). 
+S. 121(2) 
+amended by 
+No. 82/2005 
+s. 44(2). 
+S. 121(2)(a) 
+amended by 
+No. 82/2005 
+s. 44(1). 
+S. 121(2)(b) 
+amended by 
+Nos 82/2005 
+s. 44(1)(2), 
+88/2005 
+s. 117(Sch. 2 
+item 5). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 14—Repeal of 1998 Act and transitional provisions 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+104 
+  
+ 
+(c) the landlord or head landlord receives an 
+assessment of that tax on or after the 
+commencement of this section— 
+ 
+within 21 days of receiving the assessment, the 
+landlord or head landlord must give written notice 
+to the tenant of the amount of the assessment. 
+Penalty: 10 penalty units. 
+ 
+(3) A landlord or head landlord is not required to give 
+notice to a tenant under subsection (2) if an 
+estimate of the amount of land tax which the 
+tenant is liable to pay has been given to the tenant 
+as required by section 46 of this Act, section 20A 
+of the Retail Tenancies Reform Act 1998 or 
+section 14A of the Retail Tenancies Act 1986. 
+ 
+ 
+ 
+ 
+S. 121(2)(c) 
+amended by 
+No. 82/2005 
+s. 44(2). 
+S. 121(3) 
+amended by 
+No. 82/2005 
+s. 44(2)(3). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 15—Transitional provisions—Retail Leases Amendment Act 2020 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+105 
+  
+Part 15—Transitional provisions—Retail 
+Leases Amendment Act 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+122 Validation of retail premises leases in respect of 
+essential safety measures 
+ 
+(1) This section applies to a retail premises lease 
+that— 
+ 
+(a) was entered into before the date on which 
+Division 1 of Part 3 of the Retail Leases 
+Amendment Act 2020 comes into operation 
+and is in force on that date; and 
+ 
+(b) contains a provision to the effect that the 
+tenant must pay the landlord, as a 
+contribution to outgoings, for the cost, or 
+part of the cost, of installation, repairs or 
+maintenance work in respect of an essential 
+safety measure. 
+ 
+(2) The retail premises lease has, in respect of 
+outgoings referred to in subsection (1)(b) incurred 
+on or after the commencement day, the same force 
+and effect as it would have had if Division 1 of 
+Part 3 of the Retail Leases Amendment 
+Act 2020 had been in operation at the time the 
+lease was entered into. 
+ 
+(3) In this section— 
+commencement day means the day on which 
+section 8 of the Retail Leases Amendment 
+Act 2020 comes into operation. 
+Pt 15 
+(Heading and 
+ss 122, 123) 
+repealed by 
+No. 28/2007 
+s. 3(Sch. 
+item 58), 
+new Pt 15 
+(Heading and 
+s. 122) 
+inserted by 
+No. 26/2020 
+s. 8 
+New s. 122 
+inserted by 
+No. 26/2020 
+s. 8. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Part 15—Transitional provisions—Retail Leases Amendment Act 2020 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+106 
+  
+ 
+123 Security deposits 
+The amendments made to this Act by section 10 
+of the Retail Leases Amendment Act 2020 apply 
+to a retail premises lease entered into and in 
+operation immediately before the day on which 
+that section comes into operation. 
+ 
+124 Disclosure statements on renewal of leases 
+The amendments made to this Act by section 11 
+of the Retail Leases Amendment Act 2020 apply 
+to a retail premises lease entered into and in 
+operation immediately before the day on which 
+that section comes into operation (unless there are 
+less than 21 days before the end of the current 
+term of the lease). 
+ 
+125 Information to be given to tenants before options to 
+renew expire 
+The amendments made to this Act by section 12 
+of the Retail Leases Amendment Act 2020 apply 
+to a retail premises lease entered into and in 
+operation immediately before the day on which 
+that section comes into operation (unless there are 
+less than 3 months before the last date that the 
+option to renew the lease may be exercised). 
+ ═══════════════ 
+ 
+S. 123 
+inserted by 
+No. 26/2020 
+s. 14. 
+S. 124 
+inserted by 
+No. 26/2020 
+s. 14. 
+S. 125 
+inserted by 
+No. 26/2020 
+s. 14. 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+107 
+  
+Endnotes 
+1 General information 
+See www.legislation.vic.gov.au for Victorian Bills, Acts and current 
+authorised versions of legislation and up-to-date legislative information. 
+Minister's second reading speech— 
+Legislative Assembly: 27 February 2003 
+Legislative Council: 27 March 2003 
+The long title for the Bill for this Act was "to provide a new regulatory 
+scheme for retail leases, to amend and repeal the Retail Tenancies Reform 
+Act 1998, to amend the Retail Tenancies Act 1986 and make minor 
+amendments to certain other Acts and for other purposes." 
+The Retail Leases Act 2003 was assented to on 15 April 2003 and came into 
+operation as follows: 
+Sections 110–117 at the last moment of 30 June 1998: section 2(4); 
+sections 1 and 2(1)–(3)(5) on 16 April 2003: section 2(1); sections 100–109 
+on 30 April 2003, immediately before section 118: section 2(2); sections 
+2(4), 3–48, 51–99 and 118–123 on 1 May 2003: section 2(5); sections 49 
+and 50 on 1 July 2003: section 2(3). 
+INTERPRETATION OF LEGISLATION ACT 1984 (ILA) 
+Style changes 
+Section 54A of the ILA authorises the making of the style changes set out in 
+Schedule 1 to that Act. 
+References to ILA s. 39B 
+Sidenotes which cite ILA s. 39B refer to section 39B of the ILA which 
+provides that where an undivided section or clause of a Schedule is amended 
+by the insertion of one or more subsections or subclauses, the original section 
+or clause becomes subsection or subclause (1) and is amended by the 
+insertion of the expression "(1)" at the beginning of the original section or 
+clause. 
+Interpretation 
+As from 1 January 2001, amendments to section 36 of the ILA have the 
+following effects: 
+• 
+Headings 
+All headings included in an Act which is passed on or after 1 January 2001 
+form part of that Act.  Any heading inserted in an Act which was passed 
+before 1 January 2001, by an Act passed on or after 1 January 2001, forms 
+part of that Act.  This includes headings to Parts, Divisions or Subdivisions in 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+108 
+  
+a Schedule; sections; clauses; items; tables; columns; examples; diagrams; 
+notes or forms.  See section 36(1A)(2A). 
+• 
+Examples, diagrams or notes 
+All examples, diagrams or notes included in an Act which is passed on or 
+after 1 January 2001 form part of that Act.  Any examples, diagrams or notes 
+inserted in an Act which was passed before 1 January 2001, by an Act passed 
+on or after 1 January 2001, form part of that Act.  See section 36(3A). 
+• 
+Punctuation 
+All punctuation included in an Act which is passed on or after 1 January 2001 
+forms part of that Act.  Any punctuation inserted in an Act which was passed 
+before 1 January 2001, by an Act passed on or after 1 January 2001, forms 
+part of that Act.  See section 36(3B). 
+• 
+Provision numbers 
+All provision numbers included in an Act form part of that Act, whether 
+inserted in the Act before, on or after 1 January 2001.  Provision numbers 
+include section numbers, subsection numbers, paragraphs and subparagraphs.  
+See section 36(3C). 
+• 
+Location of "legislative items" 
+A "legislative item" is a penalty, an example or a note.  As from 13 October 
+2004, a legislative item relating to a provision of an Act is taken to be at the 
+foot of that provision even if it is preceded or followed by another legislative 
+item that relates to that provision.  For example, if a penalty at the foot of a 
+provision is followed by a note, both of these legislative items will be 
+regarded as being at the foot of that provision.  See section 36B. 
+• 
+Other material 
+Any explanatory memorandum, table of provisions, endnotes, index and 
+other material printed after the Endnotes does not form part of an Act.   
+See section 36(3)(3D)(3E). 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+109 
+  
+2 Table of Amendments 
+This publication incorporates amendments made to the Retail Leases 
+Act 2003 by Acts and subordinate instruments. 
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+Gambling Regulation Act 2003, No. 114/2003 
+Assent Date: 
+16.12.03 
+Commencement Date: 
+S. 12.1.3(Sch. 6 item 11) on 1.7.04: Government 
+Gazette 1.7.04 p. 1843 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Legal Profession (Consequential Amendments) Act 2005, No. 18/2005 
+Assent Date: 
+24.5.05 
+Commencement Date: 
+S. 18(Sch. 1 item 92) on 12.12.05: Government 
+Gazette 1.12.05 p. 2781 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Retail Leases (Amendment) Act 2005, No. 82/2005 
+Assent Date: 
+22.11.05 
+Commencement Date: 
+Ss 39–43 on 15.4.03: s. 2(4); ss 4–11, 12(1)–(6)(8), 
+13–15, 18–22, 24–36, 38, 44 on 1.5.03: s. 2(6); 
+ss 12(7), 16, 17, 23, 37 on 23.11.05: s. 2(1) 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Land Tax Act 2005, No. 88/2005 
+Assent Date: 
+29.11.05 
+Commencement Date: 
+S. 117(Sch. 2 item 5) on 1.1.06: s. 2 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Statute Law Revision Act 2007, No. 28/2007 
+Assent Date: 
+26.6.07 
+Commencement Date: 
+S. 3(Sch. item 58) on 27.6.07: s. 2(1) 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Statute Law Amendment (Evidence Consequential Provisions) Act 2009, 
+No. 69/2009 
+Assent Date: 
+24.11.09 
+Commencement Date: 
+S. 54(Sch. Pt 2 item 44) on 1.1.10: s. 2(2) 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Statute Law Revision Act 2011, No. 29/2011 
+Assent Date: 
+21.6.11 
+Commencement Date: 
+S. 3(Sch. 1 item 81) on 22.6.11: s. 2(1) 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+110 
+  
+Consumer Acts Amendment Act 2011, No. 36/2011 
+Assent Date: 
+23.8.11 
+Commencement Date: 
+S. 39 on 24.8.11: s. 2(1) 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Australian Consumer Law and Fair Trading Act 2012, No. 21/2012 
+Assent Date: 
+8.5.12 
+Commencement Date: 
+S. 239(Sch. 6 item 37) on 1.7.12: Special Gazette 
+(No. 214) 28.6.12 p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Retail Leases Amendment Act 2012, No. 69/2012 
+Assent Date: 
+20.11.12 
+Commencement Date: 
+Ss 3–8 on 21.11.12: s. 2 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Legal Profession Uniform Law Application Act 2014, No. 17/2014 
+Assent Date: 
+25.3.14 
+Commencement Date: 
+S. 160(Sch. 2 item 85) on 1.7.15: Special Gazette 
+(No. 151) 16.6.15 p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Treasury Legislation and Other Acts Amendment Act 2014, No. 44/2014 
+Assent Date: 
+27.6.14 
+Commencement Date: 
+S. 33(Sch. item 23) on 30.6.14: s. 2(5) 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Courts Legislation Miscellaneous Amendments Act 2014, No. 62/2014 
+Assent Date: 
+9.9.14 
+Commencement Date: 
+Ss 55–57 on 10.9.14: s. 2(1) 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Small Business Commission Act 2017, No. 16/2017 
+Assent Date: 
+10.5.17 
+Commencement Date: 
+Ss 32–45 on 1.7.17: Special Gazette (No. 216) 
+27.6.17 p. 1 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+Retail Leases Amendment Act 2020, No. 26/2020 
+Assent Date: 
+22.9.20 
+Commencement Date: 
+Ss 4–8 on 23.9.20: s. 2(1); ss 9–14 on 1.10.20: 
+s. 2(3) 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+111 
+  
+Commercial and Industrial Property Tax Reform Act 2024, No. 16/2024 
+Assent Date: 
+21.5.24 
+Commencement Date: 
+S. 61 on 1.7.24: s. 2 
+Current State: 
+This information relates only to the provision/s 
+amending the Retail Leases Act 2003 
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+ 
+ 
+
+--------------------------------------------------------------------------------
+ 
+Authorised by the Chief Parliamentary Counsel 
+Endnotes 
+ 
+ 
+ 
+Retail Leases Act 2003 
+No. 4 of 2003 
+112 
+  
+3 Explanatory details 
+No entries at date of publication. 
+
+--------------------------------------------------------------------------------

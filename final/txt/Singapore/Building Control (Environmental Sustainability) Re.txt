@@ -1,0 +1,552 @@
+First published in the Government Gazette, Electronic Edition, on 3rd April 2008 at 5:00 pm.
+No. S 199
+BUILDING CONTROL ACT
+(CHAPTER 29)
+BUILDING CONTROL (ENVIRONMENTAL
+SUSTAINABILITY) REGULATIONS 2008
+ARRANGEMENT OF REGULATIONS
+Regulation
+1.
+Citation and commencement
+2.
+Definitions
+3.
+Application
+4.
+Minimum Green Mark score and relevant Green Mark
+Certification
+5.
+Assignment of numerical score by appropriate practitioner
+6.
+Minimum environmental sustainability standard
+7.
+Submission of scores using Code
+8.
+Deviation from approved building plans
+9.
+Submission of as-built scores
+10.
+Penalty
+The Schedules
+In exercise of the powers conferred by section 49 of the Building
+Control Act, the Minister for National Development hereby makes
+the following Regulations:
+Citation and commencement
+1. These Regulations may be cited as the Building Control
+(Environmental Sustainability) Regulations 2008 and shall come
+into operation on 15th April 2008.
+S 199/2008
+1
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+Definitions
+2. In these Regulations, unless the context otherwise requires —
+“appropriate practitioner”, in relation to any building works,
+means —
+(a) the qualified person appointed under section 8(1)(a)
+or 11(1)(d)(i) of the Act to prepare the plans of those
+building works in accordance with the Act;
+(b) any other qualified person appointed under the Act in
+respect of those building works; or
+(c) a
+professional
+engineer
+registered
+under
+the
+Professional Engineers Act 1991 in the branch of
+mechanical engineering or electrical engineering,
+who is, under the Code, recognised as competent to assess the
+building works and, using the scoring methodology specified
+in the Code, to express by a numerical score the degree of
+compliance of those building works with the Code;
+[S 579/2022 wef 31/12/2021]
+“building envelope” means the elements of a building which
+enclose air-conditioned spaces through which thermal energy
+may be transferred from the exterior;
+“building plans”, in relation to any building works, means the
+building plans referred to in regulation 4(1)(a)(i) of the
+Building Control Regulations 2003 (G.N. No. S 666/2003)
+relating to those building works;
+“building services” means any part of, or any controls associated
+with —
+(a) the air-conditioning system or any assembly of
+components for the treatment of air, controlling its
+temperature, humidity, cleanliness and distribution
+within an air-conditioned space; and
+(b) the mechanical ventilation system for the purposes of
+supplying or removing air to or from a building or
+part thereof by mechanical means or devices;
+S 199/2008
+2
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+“Code” means the Code for Environmental Sustainability of
+Buildings issued by the Building and Construction Authority;
+“existing building” means any building in respect of which a
+certificate of statutory completion or a temporary occupation
+permit has been issued;
+“Government Land Sales Programme” means a programme
+under which State land is sold by or on behalf of the
+Government for development and through a public selection
+process;
+[S 542/2014 wef 01/09/2014]
+“Green Mark Certification” means certification under the BCA
+Green Mark Certification Standard for New Buildings
+approved by the Commissioner of Building Control and
+issued by the Building and Construction Authority;
+[S 256/2010 wef 05/05/2010]
+“gross floor area” has the same meaning as “floor area” in the
+Planning (Development) Rules 2008 (G.N. No. S 113/2008);
+[S 579/2022 wef 01/08/2022]
+“mixed-use building” means a non-residential building part of
+which is constructed or used, or is to be constructed or used,
+solely as a residence or private dwelling;
+“non-residential building” means a building other than a
+residential building;
+“residential building” means a building that is constructed or
+used, or is to be constructed or used, solely as a residence or
+private dwelling;
+[S 542/2014 wef 01/09/2014]
+“State land” has the same meaning as in section 2 of the
+Singapore Land Authority Act 2001.
+[S 542/2014 wef 01/09/2014]
+[S 579/2022 wef 31/12/2021]
+S 199/2008
+3
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+Application
+3.—(1) Subject to paragraph (2), these Regulations shall apply only
+to any of the following building works in respect of which an
+application for planning permission is submitted to the competent
+authority under the Planning Act 1998 on or after 15th April 2008:
+(a) building works which involve a gross floor area of 5,000
+square metres or more;
+[S 631/2021 wef 01/12/2021]
+(b) building works which involve increasing the gross floor
+area of an existing building by 5,000 square metres or
+more;
+[S 631/2021 wef 01/12/2021]
+(c) building works relating to an existing building which
+involve a gross floor area of 5,000 square metres or more.
+[S 631/2021 wef 01/12/2021]
+[S 579/2022 wef 31/12/2021]
+(2) Notwithstanding paragraph (1)(c), these Regulations shall not
+apply to any building works consisting of repairs or alterations to an
+existing building unless those building works involve the provision,
+extension or substantial alteration of the building envelope and
+building services in or in connection with an existing building.
+Minimum Green Mark score and relevant Green Mark
+Certification
+4.—(1) For the purposes of these Regulations, the minimum
+requirement for any building works to which these Regulations
+apply shall, subject to paragraphs (2), (3) and (4), be the following:
+(a) where the building works relate to a residential building
+not referred to in sub-paragraph (c), (d) or (e) — a Green
+Mark score of 50 points calculated in accordance with the
+Code;
+[S 256/2010 wef 05/05/2010]
+[S 542/2014 wef 01/09/2014]
+(b) where the building works relate to a non-residential
+building not referred to in sub-paragraph (c), (d) or (e)
+S 199/2008
+4
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+— a Green Mark score of 50 points calculated in
+accordance with the Code; and
+[S 256/2010 wef 05/05/2010]
+[S 342/2012 wef 20/07/2012]
+[S 542/2014 wef 01/09/2014]
+(c) where the building works relate to any building on land
+sold on or after 5 May 2010 but before 30 June 2022 under
+the Government Land Sales Programme and the building is
+wholly or partly within an area described in the first
+column of the First Schedule — the relevant Green Mark
+Certification indicated in the second column of the First
+Schedule;
+[S 256/2010 wef 05/05/2010]
+[S 342/2012 wef 20/07/2012]
+[S 542/2014 wef 01/09/2014]
+[S 505/2022 wef 30/06/2022]
+(d) where the building works relate to any building on land
+sold on or after 20 July 2012 but before 30 June 2022 under
+the Government Land Sales Programme and the building is
+wholly or partly within an area described in the first
+column of the Second Schedule — the Green Mark
+Certification indicated in the second column of the
+Second Schedule;
+[S 342/2012 wef 20/07/2012]
+[S 542/2014 wef 01/09/2014]
+[S 505/2022 wef 30/06/2022]
+(e) where the building works relate to any building on land
+sold on or after 1 September 2014 but before 30 June 2022
+under the Government Land Sales Programme and the
+building is wholly or partly within an area described in the
+first column of the Third Schedule — the relevant Green
+Mark Certification indicated in the second column of the
+Third Schedule;
+[S 542/2014 wef 01/09/2014]
+[S 505/2022 wef 30/06/2022]
+(f) where the building works relate to any building on land
+sold on or after 30 June 2022 under the Government Land
+S 199/2008
+5
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+Sales Programme — a Green Mark Certification of Green
+Mark Platinum Super Low Energy.
+[S 505/2022 wef 30/06/2022]
+(2) Where any building works to which these Regulations apply
+relate —
+(a) to both residential and non-residential buildings and the
+respective
+parts
+of
+building
+works
+relating
+to
+the
+residential building and to the non-residential building
+each involve a gross floor area of 2,000 square metres or
+more; or
+(b) to any mixed-use building and the building works relating
+to each of the following parts of the building involve a
+gross floor area of 2,000 square metres or more:
+(i) the part of the building which is constructed or used,
+or is to be constructed or used, as a residence or
+private dwelling; and
+(ii) the remaining parts of the same building,
+each part of those building works shall be regarded as separate
+building works, and the minimum Green Mark score or relevant
+Green Mark Certification in paragraph (1)(a), (b), (c), (d), (e) or (f), as
+the case may be, shall apply to each part as if each were separate
+building works.
+[S 256/2010 wef 05/05/2010]
+[S 542/2014 wef 01/09/2014]
+[S 505/2022 wef 30/06/2022]
+(3) Where any building works to which these Regulations apply
+relate —
+(a) to both residential and non-residential buildings and any
+respective part of the building works relating to the
+residential building or to the non-residential building
+involve a gross floor area of less than 2,000 square
+metres; or
+(b) to any mixed-use building and the building works relating
+to either of the following parts of the building involve a
+gross floor area of less than 2,000 square metres:
+S 199/2008
+6
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+(i) the part of the building which is constructed or used,
+or is to be constructed or used, as a residence or
+private dwelling; or
+(ii) the remaining parts of the same building,
+the smaller part of the building works shall be disregarded and the
+minimum Green Mark score or relevant Green Mark Certification in
+paragraph (1)(a), (b), (c), (d), (e) or (f), as the case may be, shall apply
+to the building works as if it comprised only the larger part.
+[S 256/2010 wef 05/05/2010]
+[S 542/2014 wef 01/09/2014]
+[S 505/2022 wef 30/06/2022]
+(4) Where any building works to which these Regulations apply
+relate only to such part of a mixed-use building which is constructed
+or used, or is to be constructed or used, as a residence or private
+dwelling, the building works shall be regarded as relating to a
+residential building.
+Assignment of numerical score by appropriate practitioner
+5. For the purposes of regulation 4(1)(a) or (b), it shall be the
+function of every appropriate practitioner who assesses any building
+works or any part thereof to which these Regulations apply, to express
+by a numerical score, using the scoring methodology specified in the
+Code, the degree of compliance of those building works or part
+thereof with the Code and assign that score accordingly.
+[S 256/2010 wef 05/05/2010]
+Minimum environmental sustainability standard
+6.—(1) The qualified person appointed under section 8(1)(a)
+or 11(1)(d)(i) of the Act to prepare the plans of any building works
+in accordance with the Act shall ensure that the building works are
+designed with physical features or amenities, and may be carried out
+using methods and materials, so that —
+(a) the total (using the scoring methodology specified in the
+Code)
+of
+all
+numerical
+scores
+assigned
+by
+every
+appropriate practitioner who assesses the building works
+or part thereof is not less than the minimum Green Mark
+score applicable to those building works; or
+S 199/2008
+7
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+(b) the relevant Green Mark Certification is achievable in
+respect of those building works.
+[S 256/2010 wef 05/05/2010]
+(2) Paragraph (1) shall apply in addition to the requirements of
+Part
+IV
+of
+the
+Building
+Control
+Regulations
+2003
+(G.N. No. S 666/2003).
+Submission of scores using Code
+7. In addition to the requirements of regulations 4, 5 and 6 of the
+Building Control Regulations 2003, the developer of any building
+works that is subject to a minimum Green Mark score shall, when
+applying for approval of building plans under section 5 of the Act,
+submit to the Commissioner of Building Control —
+(a) a declaration from each appropriate practitioner who
+assessed the building works or any part thereof, stating
+the numerical score he assigned the building works or part
+thereof under regulation 5 and that the numerical score is
+correct;
+(b) a statement from the qualified person appointed under
+section 8(1)(a) or 11(1)(d)(i) of the Act to prepare the plans
+of those building works in accordance with the Act that the
+total (using the scoring methodology specified in the Code)
+of all numerical scores assigned by every appropriate
+practitioner who assessed the building works or part
+thereof is not less than the minimum Green Mark score
+applicable to those building works;
+(c) the total (using the scoring methodology specified in the
+Code) of all numerical scores assigned by the appropriate
+practitioners referred to in paragraph (a); and
+(d) such other documents as the Commissioner of Building
+Control may require in any particular case.
+[S 256/2010 wef 05/05/2010]
+Deviation from approved building plans
+8. Where the plans of any building works or proposed building
+works that is subject to a minimum Green Mark score have been
+S 199/2008
+8
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+approved
+by
+the
+Commissioner
+of
+Building
+Control
+under
+section 5(3)(a) of the Act and the developer of the building works
+who intends to depart or deviate from the plans approved —
+(a) the qualified person appointed under section 8(1)(a) or
+11(1)(d)(i) of the Act in respect of those building works
+must ensure that the building works (with such departure
+and deviation) are still designed with physical features or
+amenities, and may be carried out using methods and
+materials, so that the total (using the scoring methodology
+specified in the Code) of all numerical scores assigned by
+every appropriate practitioner who assesses the building
+works or part thereof is not less than the minimum Green
+Mark score applicable to those building works; but
+(b) the developer need not submit to the Commissioner of
+Building Control the total of all numerical scores assigned
+by the appropriate practitioners who assessed the building
+works or part thereof.
+[S 256/2010 wef 05/05/2010]
+Submission of as-built scores
+9.—(1) Without prejudice to the requirements of regulation 43 of
+the Building Control Regulations 2003 (G.N. No. S 666/2003), a
+temporary occupation permit or, in a case where no such permit is
+earlier applied for, a certificate of statutory completion shall not be
+granted in respect of any completed building works where the
+application for a temporary occupation permit or certificate of
+statutory completion, as the case may be, is not accompanied by a
+Green Mark Certificate to show that the required Green Mark
+Certification has been achieved or where the works are subject to a
+minimum Green Mark score —
+(a) a declaration from each appropriate practitioner who
+assessed the completed building works or any part
+thereof using the Code, stating the numerical score he
+assigned the building works or part thereof under
+regulation 5 and that the numerical score is correct;
+(b) a statement from the qualified person appointed under
+section 8(1)(a) or 11(1)(d)(i) of the Act to prepare the plans
+S 199/2008
+9
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+of those building works in accordance with the Act that the
+total (using the scoring methodology specified in the Code)
+of all numerical scores assigned by every appropriate
+practitioner who assessed the building works or part
+thereof is not less than the minimum Green Mark score
+applicable to those building works; and
+(c) the total (using the scoring methodology specified in the
+Code) of all numerical scores assigned by the appropriate
+practitioners referred to in sub-paragraph (a).
+[S 256/2010 wef 05/05/2010]
+(2) On completion of any building works, the developer of the
+building works shall, when applying for a temporary occupation
+permit or a certificate of statutory completion, whichever is the
+earlier, submit to the Commissioner of Building Control —
+(a) the documents referred to in paragraph (1)(a), (b) and (c);
+and
+(b) such other documents as the Commissioner of Building
+Control may require in any particular case.
+(3) Paragraph (2) shall apply in addition to the requirements of
+Part
+V
+of
+the
+Building
+Control
+Regulations
+2003
+(G.N. No. S 666/2003).
+Penalty
+10.—(1) Any person who contravenes regulation 6(1) or 8(a) shall
+be guilty of an offence and shall be liable on conviction to a fine not
+exceeding $10,000.
+(2) In any proceedings for an offence under paragraph (1), it shall
+be a defence for the person charged to prove —
+(a) that the commission of the offence was due to the act or
+default of another appropriate practitioner or to some other
+cause beyond his control; and
+(b) that he took all reasonable precautions and exercised all
+due diligence to avoid the commission of such an offence
+by himself or by any person under his control.
+S 199/2008
+10
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+FIRST SCHEDULE
+Regulation 4(1)(c)
+Area
+Requirement for building wholly or
+partly within area that is on land sold
+on or after 5 May 2010 but before 30
+June 2022 under the Government
+Land Sales Programme
+Area within blue boundary in Map 1
+Green Mark Platinum Rating
+Area within red boundary in Map 1
+Green Mark GoldPlus Rating
+Area within red boundary in Map 2
+Green Mark GoldPlus Rating
+Area within red boundary in Map 3
+Green Mark GoldPlus Rating
+Area within red boundary in Map 4
+Green Mark GoldPlus Rating
+[S 505/2022 wef 30/06/2022]
+[S 342/2012 wef 20/07/2012]
+MAP 1
+[Central Area]
+S 199/2008
+11
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+FIRST SCHEDULE — continued
+MAP 2
+[Jurong Gateway]
+S 199/2008
+12
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+FIRST SCHEDULE — continued
+MAP 3
+[Paya Lebar Central]
+S 199/2008
+13
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+FIRST SCHEDULE — continued
+MAP 4
+[Kallang Riverside]
+S 199/2008
+14
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+FIRST SCHEDULE — continued
+[S 256/2010 wef 05/05/2010]
+[S 342/2012 wef 20/07/2012]
+S 199/2008
+15
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+SECOND SCHEDULE
+Regulation 4(1)(d)
+Area
+Requirement for building
+wholly or partly within area that is
+on land sold on or after 20 July 2012
+but before 30 June 2022
+under the Government Land
+Sales Programme
+Area within red boundary in Map 1
+Green Mark GoldPlus Rating
+[S 505/2022 wef 30/06/2022]
+MAP 1
+JURONG LAKE DISTRICT
+[S 342/2012 wef 20/07/2012]
+S 199/2008
+16
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+THIRD SCHEDULE
+Regulation 4(1)(e)
+Area
+Requirement for building wholly or
+partly within area that is on land sold
+on or after 1 September 2014 but before
+30 June 2022
+under the Government Land Sales
+Programme
+Area within red boundary in Map 1
+Green Mark GoldPlus Rating
+Area within red boundary in Map 2
+Green Mark GoldPlus Rating
+[S 505/2022 wef 30/06/2022]
+MAP 1
+WOODLANDS REGIONAL CENTRE
+MAP 2
+PUNGGOL ECO-TOWN
+S 199/2008
+17
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------
+THIRD SCHEDULE — continued
+[S 542/2014 wef 01/09/2014]
+Made this 31st day of March 2008.
+TAN TEE HOW
+Permanent Secretary,
+Ministry of National Development,
+Singapore.
+[eReg; AG/LEG/SL/29/2002/2 Vol. 1]
+(To be presented to Parliament under section 52 of the Building
+Control Act).
+S 199/2008
+18
+Informal Consolidation – version in force from 1/8/2022
+
+--------------------------------------------------------------------------------

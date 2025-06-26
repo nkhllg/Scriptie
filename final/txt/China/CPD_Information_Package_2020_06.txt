@@ -1,0 +1,4913 @@
+Metadata for pdf/HongKong/CPD_Information_Package_2020_06.pdf: {'format': 'PDF 1.5', 'title': 'MANDATORY', 'author': 'WTSUI', 'subject': '', 'keywords': '', 'creator': 'Microsoft® Word 2013', 'producer': 'Microsoft® Word 2013', 'creationDate': "D:20200630171623+08'00'", 'modDate': "D:20200630171623+08'00'", 'trapped': '', 'encryption': None, 'country': 'Singapore'}
+
+Country found in pdf/HongKong/CPD_Information_Package_2020_06.pdf: Singapore
+
+(June 2020) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+MANDATORY 
+ 
+CONTINUING PROFESSIONAL DEVELOPMENT 
+ 
+INFORMATION PACKAGE 
+ 
+ 
+ 
+ 
+June 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+The Law Society of Hong Kong 
+3rd Floor, Wing On House 
+71 Des Voeux Road 
+Central, Hong Kong 
+DX-009100 Central 1 
+Email: adpd@hklawsoc.org.hk 
+Tel: 2846-0500 
+Fax: 2845-0387 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+(June 2020) 
+ (i) 
+ 
+CONTENTS 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Page 
+Introduction ...........................................................................................................................1 
+ 
+ What is continuing professional development? ................................................................1 
+ Criteria for accreditation of CPD activities ….. ...............................................................1 
+ Honour-Based CPD Scheme  ............................................................................................2 
+ 
+Mandatory Continuing Professional Development Requirements...................................4 
+ 
+ Practitioners required to undertake CPD ..........................................................................4 
+ The CPD requirement .......................................................................................................4 
+ The CPD practice year ......................................................................................................4 
+ The CPD requirement for solicitor-mediators ..................................................................4   
+ The CPD requirement for trainee solicitors ..................................................................... 5 
+ Commencement of a trainee solicitor contract after the commencement of a CPD  
+ 
+practice year .................................................................................................................... 5 
+ Commencement of practice after the commencement of a CPD practice year  ...............7 
+ Claiming CPD point(s) before admission .........................................................................7 
+ Carrying over excess CPD point(s) from one CPD practice year to another....................7 
+ 
+Ways in which the CPD Requirement may be Met  
+ 
+Guidelines for Compliance with CPD requirements Issued under Sections 2 and 5(3)  
+of the Continuing Professional Development Rules ……………………………………   9  
+ 
+ Preamble ...........................................................................................................................9  
+ Criteria for accreditation of CPD activities ......................................................................9  
+ Course standards and requirements ................................................................................10  
+ Attending live webinars and viewing pre-recorded multimedia, audio-visual,  
+ 
+ audio, or visual courses .................................................................................................. 11 
+ Overseas courses ............................................................................................................ 12  
+ On demand online courses ..............................................................................................13 
+ Distance learning courses .............................................................................................. 13  
+ Law courses ................................................................................................................... 14 
+ Courses attended under the deemed accreditation system. .............................................14 
+ Writing articles, books ................................................................................................... 15  
+ Legal research ................................................................................................................ 16 
+ Dissertations ................................................................................................................... 16  
+ Preparation, presentation and facilitation of approved training courses ........................ 16  
+ Participation in committees/working parties/associations ............................................. 17  
+ Work as an external examiner/assessor/coach and participation as a judge in a moot 
+court competition ........................................................................................................... 18 
+ Participation in other legal training activities .................................................................19 
+ Mediation Training .........................................................................................................19 
+ Priority CPD areas ..........................................................................................................19  
+ Double counting ..............................................................................................................19  
+ Revocation or amendment of CPD points ......................................................................20  
+ Coaching .........................................................................................................................20 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+(June 2020) 
+ (ii) 
+ 
+ 
+ 
+Approved Legal Journals  ................................................................................................. 21 
+  
+Approved Law Courses ..................................................................................................... 24 
+ 
+Approved Distance Learning Courses  ............................................................................ 32 
+ 
+Approved Committees/Working Parties/Associations  .................................................. 38 
+ 
+Coaching   ........................................................................................................................... 43  
+ 
+Examples of Compliance with the CPD requirement ..................................................... 45 
+ 
+Suspension of the CPD Requirement ............................................................................... 47 
+ 
+ What is a suspension of the CPD requirement? ..............................................................47 
+ Who can suspend the CPD requirement?......................................................................  47 
+ What must practitioners do in order to obtain a CPD suspension?..............................   48 
+ Circumstances under which a CPD suspension granted may be void and/or ineffective48 
+ The CPD requirement for practitioners returning to work...........................................   49 
+ Determination of a practitioner’s CPD requirement on return to work .......................   49 
+ Making up a shortfall in the CPD requirement at the date of CPD suspension ..............51   
+ Carrying over excess CPD points ...................................................................................51 
+ 
+CPD Training Record ........................................................................................................ 53 
+ 
+Attendance at Accredited CPD Courses .......................................................................... 54 
+ 
+ Attendance policy .......................................................................................................... 54 
+ 
+Segmented Accreditation of CPD Courses ...................................................................... 56 
+ 
+Exemption of the CPD Requirement................................................................................ 59 
+ 
+Monitoring Compliance with the Mandatory CPD Requirement ................................. 60 
+ 
+Failure to Comply with the CPD Requirement ............................................................... 61 
+ 
+ General Audit ................................................................................................................. 61 
+ Practising Certificate Applications ................................................................................ 61 
+ Breaches of the CPD requirement .................................................................................. 61 
+ Form 4 declaration of compliance by trainee solicitors ................................................. 61 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+(June 2020) 
+ (iii) 
+ 
+ 
+Course and Provider Accreditation ................................................................................. 63 
+ 
+ Application ..................................................................................................................... 63 
+ No Retrospective Accreditation ..................................................................................... 63 
+ Documents and Information Required on Application for Course Accreditation ..........63 
+ Honour-based CPD Scheme .......................................................................................... 63 
+ Administrative Matters .................................................................................................. 64 
+ Prescribed Fee ................................................................................................................ 65 
+ Provider Accreditation ................................................................................................... 66 
+ Monitoring of Accredited Courses by the Society’s Representatives ........................... 66 
+ 
+Demerit Points System ....................................................................................................... 67 
+ 
+Continuing Professional Development Rules .................................................................. 69 
+ 
+ Interpretation and definitions ......................................................................................... 69 
+ Application ..................................................................................................................... 69 
+ Continuing Professional Development Scheme............................................................. 70 
+ Continuing professional development requirements ..................................................... 71 
+ Obligation to keep record and duty to submit information ............................................ 71 
+ Continuing professional development undertaken pre-admission ..................................71 
+ Exemption ...................................................................................................................... 72 
+ Suspension ..................................................................................................................... 72 
+ Reporting........................................................................................................................ 72 
+ Review ........................................................................................................................... 73 
+ Transitional  ................................................................................................................... 73 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  1 
+ 
+INTRODUCTION 
+ 
+What is continuing professional development? 
+ 
+Continuing professional development (“CPD”) is the systematic maintenance, improvement 
+and broadening of relevant knowledge and skills to enable a professional to successfully 
+carry out his professional duties and responsibilities throughout his career. 
+  
+Whilst the CPD scheme (“CPD Scheme”) may be seen by some as a burdensome 
+requirement, our profession is self regulatory and the Council is obliged to ensure the 
+establishment and promotion of high standards of work within the profession.  This includes 
+the encouragement of the continued study and acquisition of legal knowledge and skills by 
+legal practitioners. 
+ 
+Moreover, in a changing legal environment with the profession subject to many external 
+pressures, CPD provides a convenient framework for the profession to meet the changing 
+demands of clients and society to continuously update knowledge and skills, to improve the 
+efficiency and effectiveness of the profession and to enable some practitioners to redefine 
+their careers by learning new professional skills and areas of practice. 
+ 
+The CPD Scheme has been designed to be as flexible as possible so that the relevant number 
+of CPD points may be acquired in a time conscious and cost effective manner. The Law 
+Society (“Society”) has taken into consideration the need for busy practitioners to comply 
+with CPD requirements through other methods of learning than attendance at traditional 
+lecture-based courses. For example, conducting Dissertations, writing legal articles and 
+books, attending distance learning courses and preparing and presenting courses are treated as 
+CPD activities. 
+ 
+Criteria for accreditation of CPD activities 
+ 
+A CPD activity shall: 
+ 
+(a) 
+seek to extend, develop, maintain and enhance professional knowledge, skills, 
+abilities, attitudes and ethics in areas that are relevant to the practice needs and 
+professional standards of solicitors and/or trainee solicitors; and 
+ 
+(b) 
+be of significant or sufficient intellectual or professional or practical content; and  
+ 
+(c) 
+deal with substantive, procedural, ethical or practice management matters (including 
+client care and relations) or skills directly related or relevant to practitioners’ practice 
+of law; and 
+ 
+(d) 
+be conducted by a person who is qualified by practical or academic or professional 
+experience in the subject covered; and 
+ 
+(e) 
+have as its objective the development and maintenance of practitioners’ competency 
+in ethics, professional conduct, legal knowledge and skills and/or legal practice 
+management. 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  2 
+Legal skills include 
+ 
+(a) 
+effective communication, both oral and written; 
+(b) 
+interviewing and advising; 
+(c) 
+problem solving, including related critical thinking and decision making; 
+(d) 
+advocacy; 
+(e) 
+arbitration; 
+(f) 
+mediation; 
+(g) 
+negotiation; 
+(h) 
+drafting legal documents; 
+(i) 
+legal writing, including related plain writing; 
+(j) 
+legal research; 
+(k) 
+legal project management; 
+(l) 
+how to work with law practice technology, including: 
+(I) 
+e-discovery; 
+(II) 
+in the courtroom; 
+(III) 
+client record management; 
+(IV) 
+converting electronically stored information into evidence; 
+(V) 
+social networking technology to facilitate client; 
+(VI) 
+communication (but excluding marketing and client development); 
+ 
+but not 
+ 
+(a) 
+general business leadership; 
+(b) 
+chairing and conducting meetings; 
+(c) 
+serving on a Board of Directors; 
+(d) 
+general project management; 
+(e) 
+skills and knowledge primarily within the practice scope of other professions and 
+disciplines. 
+ 
+This Information Package contains the current rules governing the CPD Scheme and the 
+policies and guidelines of the Council in relation to the practical application of the CPD 
+Scheme. 
+ 
+All trainee solicitors and solicitors covered by the CPD Scheme (hereinafter called “the 
+practitioners”) should acquaint themselves with the information in this Information Package, 
+in particular, the CPD Rules Cap. 159W (“CPD Rules”) and the Guidelines for Compliance 
+with CPD requirements, and ensure that proper attention is given to their participation in 
+CPD activities throughout each CPD practice year. 
+ 
+HONOUR-BASED CPD SCHEME 
+ 
+The CPD Scheme is an honour-based CPD Scheme. 
+ 
+Practitioners are required to register their attendance but they are not required to scan their 
+Society membership card at the course venue. After completion of an accredited CPD course, 
+a practitioner shall make a record of the CPD point(s) awarded to the course in his own 
+training record provided that no CPD points should be claimed by him if he is absent from 
+the course (excluding scheduled breaks) for more than 10 minutes for a course of less than 3 
+hours or for more than 30 minutes for a course of 3 hours or more. 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  3 
+ 
+The Society does not keep records of individual practitioners’ attendance at courses. All 
+practitioners must keep their own training record for 2 CPD practice years and, where records 
+involved CPD point(s) carried from previous CPD practice years, for those previous CPD 
+practice years. The training record form can be downloaded from the Society’s website at 
+www.hklawsoc.org.hk    
+ 
+January 2020 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  4 
+MANDATORY CPD REQUIREMENTS 
+ 
+Practitioners required to undertake CPD 
+ 
+Since 1 January 2003, the CPD Scheme has applied to all trainee solicitors and to all 
+solicitors with practising certificates. 
+ 
+Exemption from the CPD Scheme for very senior solicitors may be available upon certain 
+conditions. Please refer to page 59 of this Information Package for details. 
+ 
+ 
+The CPD requirement 
+ 
+A solicitor or a trainee solicitor must accumulate 15 CPD points in each CPD practice year.  
+ 
+However, a trainee solicitor must accumulate 30 CPD points by the end of his period of 
+employment as a trainee solicitor and on a pro-rata basis in accordance with Table A and/or 
+Table A1. 
+ 
+ 
+The CPD practice year 
+ 
+A CPD practice year is a period of 12 months commencing on 1 November and ending on 31 
+October the following year.   
+ 
+ 
+The CPD requirement for solicitor-mediators 
+ 
+Solicitors who have been admitted to the Panel(s) of General and/or Family Mediators and/or 
+Family Mediation Supervisors of the Society can maintain their membership on the Panel(s) 
+for a period of 4 years from the date of their admission to the relevant Panel(s). Membership 
+on the Panels can be renewed, subject to, amongst other things, the Panel Member 
+demonstrating to the Society's Mediator and Parenting Coordinator Admission Committee 
+that he has undertaken the relevant CPD points or has been exempted from the CPD 
+requirement as set out below: 
+ 
+(a) 
+A total of at least 20 CPD points in mediation training out of the annual CPD  
+requirement of the solicitor-mediator. 
+ 
+(b) 
+The 20 CPD points on mediation training obtained during the 4 CPD years prior to  
+renewal shall exclude the CPD points obtained from training course(s) that  
+fulfilled the training requirements in Stage 1 (General and Family) and Stage 3 
+(Family) of the requirements to be an Admitted Mediator. 
+ 
+(c) 
+Exemptions from the CPD requirement in mediation training may be granted by the  
+Mediator and Parenting Coordinator Admission Committee on a case-by-case basis 
+where exceptional circumstances exist and where it is fair and reasonable to do so. 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  5 
+ 
+The CPD requirement for trainee solicitors  
+ 
+A trainee solicitor is required to complete 15 CPD points during each CPD practice year 
+(which commences on 1 November and ends on 31 October the following year).   
+ 
+Commencement of a trainee solicitor contract after the commencement of a CPD 
+practice year 
+ 
+Trainee solicitors are advised to note that when their trainee solicitor contract commences 
+after the commencement of a CPD practice year, they will be required to complete their CPD 
+requirement on a pro-rata basis.     
+ 
+Under those circumstances, the annual 15 CPD points requirement will be determined on a 
+pro-rata basis in accordance with Table A below.  
+ 
+ 
+Commencement date stated 
+on trainee solicitor contract 
+ 
+ 
+Number of CPD points 
+to be accumulated 
+ 
+1 November to 15 November 
+15 
+16 November to 15 December 
+14 
+16 December to 15 January 
+12½  
+16 January to 15 February 
+11 
+16 February to 15 March 
+10 
+16 March to 15 April 
+9 
+16 April to 15 May 
+  7½  
+16 May to 15 June 
+6 
+16 June to 15 July 
+0 
+16 July to 15 August 
+0 
+16 August to 31 August 
+0 
+1 September to 31 October   
+0 
+Table A - Pro-rata requirement for trainee solicitors where they commence their trainee 
+                 solicitor contract after the commencement of a CPD practice year 
+ 
+ 
+There have been cases of misinterpretation of the CPD requirement for trainee solicitors 
+where some trainee solicitors had completed 15 CPD points for the 12-month period starting 
+from the commencement date of their trainee solicitor contract, instead of completing the 
+requisite CPD points for the relevant CPD practice year in accordance with the pro-rata 
+requirement listed in Table A above. Trainee solicitors are strongly advised to review Table 
+A above to ascertain the number of CPD points they are required to accumulate in each CPD 
+practice year.  
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  6 
+Example of the calculation of the pro-rata CPD requirement: 
+ 
+A trainee solicitor commenced his trainee solicitor contract on 1 April 2015. His 2 year 
+trainee solicitor contract will expire on 31 March 2017. He will need to accumulate 30 CPD 
+points by 31 March 2017. 
+CPD Requirement : 
+ 
+ 
+ 
+1.4.2015 - 31.10.2015 -  9 CPD points (Table A) 
+1.11.2015 - 31.10.2016 - 15 CPD points  
+1.11.2016 - 31.3.2017 -   6 CPD points 
+ 
+  
+              Total      — 
+30 CPD points by the end   
+  
+ 
+of trainee solicitor contract  
+ 
+In the event of: 
+ 
+(1) 
+a suspension of the CPD requirement of a trainee solicitor; 
+(2) 
+a reduction of the term of a trainee solicitor contract; or 
+(3) 
+a time gap between two trainee solicitor contracts, 
+ 
+the annual 15 CPD points requirement will be determined on a pro-rata basis in accordance 
+with Table A1 below. 
+ 
+ 
+Actual duration in employment 
+under a trainee solicitor contract 
+in a CPD practice year  
+ 
+ 
+Number of CPD point(s) to be 
+accumulated 
+ 
+0 –   15 days 
+0 
+16 –   45 days 
+1 
+46 –   75 days 
+2½  
+76 – 105 days 
+4 
+106 – 135 days 
+5 
+136 – 165 days 
+6 
+166 – 195 days 
+7½  
+196 – 225 days 
+9 
+226 – 255 days 
+10 
+256 – 285 days 
+11 
+286 – 315 days 
+12½  
+316 – 345 days 
+14 
+346 – 365 days 
+15 
+Table A1 - Pro-rata requirement for trainee solicitors in special circumstances 
+ 
+ 
+For trainee solicitors, the obligation to comply with the CPD requirement takes effect from 
+the commencement date, not the registration date with the Society, of their trainee solicitor 
+contract. 
+ 
+CPD activities undertaken prior to the end of the period of employment as a trainee solicitor 
+including the time gap between two trainee solicitor contracts will be counted for CPD 
+purposes. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  7 
+Commencement of practice as a solicitor after the commencement of a CPD 
+practice year 
+ 
+Where a solicitor is issued with a practising certificate after the commencement of a CPD 
+practice year, the annual 15 CPD points requirement will be pro-rated in accordance with 
+Table B on page 7 of this Information Package. 
+ 
+For solicitors, the obligation to comply with the CPD requirement for a CPD practice year 
+takes effect from the commencement date of the period of practice stated in their practising 
+certificate, not the issue date, of their practising certificate. 
+ 
+ 
+Commencement date stated on 
+practising certificate 
+ 
+ 
+Number of CPD point(s) to be 
+accumulated 
+ 
+1 November to 15 November 
+15 
+16 November to 15 December 
+14 
+16 December to 15 January 
+12½    
+16 January to 15 February 
+11 
+16 February to 15 March 
+10 
+16 March to 15 April 
+9 
+16 April to 15 May 
+  7½  
+16 May to 15 June 
+6 
+16 June to 15 July 
+5 
+16 July to 15 August 
+4 
+16 August to 31 August 
+2½   
+1 September to 31 October   
+0 
+Table B - Pro-rata CPD requirement for solicitors 
+ 
+ 
+Claiming CPD point(s) before admission 
+ 
+Solicitors can claim CPD point(s) for the CPD activities undertaken between the time of 
+lodging a current application for admission (Form 4 or Form 1C) with the Society and within 
+3 months after the date of admission provided that details of the CPD activities undertaken 
+have been entered in the CPD training record.  Any CPD points obtained after the expiry of 3 
+months after the date of admission and before the commencement date of the first practising 
+certificate of a solicitor will not be counted towards satisfaction of the solicitor’s CPD 
+requirement. 
+ 
+Carrying over excess CPD point(s) from one CPD practice year to another     
+ 
+Practitioners will be permitted to carry over a maximum of 10 CPD points accumulated in 
+excess of the CPD requirement in one CPD practice year to the next immediately succeeding 
+CPD practice year only.  
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  8 
+As an exception to the CPD policy, a practitioner who has completed all requisite modules of 
+the RME core courses for principals within the practice year specified under rule 6 of the 
+Legal Practitioners (Risk Management Education) Rules (“RME Rules”) will be permitted to 
+carry over a maximum of 15 CPD points accumulated in excess of the CPD requirement in 
+one CPD practice year to the next immediately succeeding CPD practice year.  
+ 
+Accordingly, if a practitioner has attended other CPD activities in addition to all requisite 
+modules of the RME core courses for principals in one CPD practice year, he is permitted to 
+carry over up to a maximum of 15 CPD points he obtained during the CPD practice year to 
+the next immediately succeeding CPD practice year.  
+ 
+Out of the CPD points permitted to be carried over to satisfy the CPD requirement in the 
+succeeding practice year, a maximum of 3 CPD points obtained from completion of RME 
+electives may be utilised to satisfy the RME elective requirement for that succeeding practice 
+year.  
+ 
+However, any excess CPD points accumulated during employment under the trainee solicitor 
+contract cannot be carried over to the CPD practice year in which a trainee solicitor has been 
+admitted as a solicitor. 
+ 
+Example 1: 
+A partner completed all requisite modules of the RME core courses for 
+principals in June 2015 and obtained a total of 24 CPD points. In addition, he 
+accumulated 15 CPD points by attendance of a law course (not part of the 
+Society’s RME Programme) during the 2014/2015 CPD practice year.  In 
+total, the partner obtained 39 CPD points for the 2014/2015 CPD practice 
+year. Assuming that the partner’s CPD requirement for the 2014/2015 CPD 
+practice year is 15 CPD points, after utilising 15 CPD points out of the 39 
+points to satisfy his CPD requirement for the 2014/2015 CPD practice year, he 
+can carry forward a maximum of 15 CPD points (out of the balance of 24 CPD 
+points) to the next CPD practice year of 2015/2016. 
+ 
+Example 2: 
+A solicitor was required to accumulate 15 CPD points in the 2014/2015 CPD 
+practice year. During the 2014/2015 CPD practice year, the solicitor did not 
+undertake any RME courses.  He accumulated 32 CPD points (i.e. 17 excess 
+CPD points) and was thus permitted to carry over 10 CPD points to the next 
+CPD practice year, thereby reducing the minimum CPD points which he is 
+required to accumulate to fulfil his CPD requirement in the 2015/2016 CPD 
+practice year ending 31 October 2016 to 5 CPD points. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  9 
+WAYS IN WHICH THE CPD REQUIREMENT 
+MAY BE MET 
+ 
+Individual training needs vary and the CPD Scheme has been designed to reflect this by 
+offering flexibility in the training activities which qualify for CPD point(s). To meet the CPD 
+requirement, solicitors and trainee solicitors are free to choose activities relevant to their 
+individual training needs. 
+ 
+There are various methods of satisfying the CPD requirement other than attendance at 
+traditional lecture-based courses. The methods and the number of CPD point(s) accredited to 
+each type of training activity are set out in the Guidelines below. 
+ 
+ 
+Guidelines for compliance with CPD requirements issued under 
+Sections 2 and 5(3) of the CPD Rules  
+ 
+ 
+Preamble 
+ 
+Members have a general responsibility to keep up to date with developments in the law and 
+practice relating to their work. Over and above that general professional responsibility there 
+are mandatory CPD requirements which are set out in the CPD Rules.  Details of how these 
+requirements may be satisfied are set out below. 
+ 
+The Society recognises certain activities as constituting formal continuing professional 
+development.  The Society encourages its members to undertake a wide range of activities 
+and to regard acquisition of the prescribed 15 CPD points in each CPD practice year as only a 
+minimum requirement.  
+ 
+ 
+Criteria for accreditation of CPD activities 
+ 
+1. 
+The criteria are set out on pages 1 and 2 of this Information Package.  
+ 
+2. 
+Approval should be obtained from the Society as to the suitability for accreditation of 
+other activities. In such cases, the Society may request that a specific application for 
+accreditation of such activity be made.  
+ 
+3. 
+Except for Guideline 10 and for applications made under Guidelines 11, 12, 13, 15, 16 
+and 17 and in certain cases, Guideline 6, all applications for CPD accreditation 
+must be made before the date on which the course is held.  It is not possible to 
+accredit CPD points after a course has taken place. (Please refer to page 63 of this 
+Information Package.) 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  10 
+Course standards and requirements 
+ 
+4.  
+Courses shall meet the following standards and requirements:  
+ 
+ 
+4.1 
+“A course” means an education programme, seminar, workshop, lecture, 
+conference, in-house group discussion, distance learning course, face-to-face 
+training session held as part of a distance learning course (eg. summer schools, 
+revision sessions), on demand online course, live webinar, and pre-recorded 
+multimedia, audio-visual, audio or visual course; 
+ 
+4.2 
+course leaders and lecturers must have the necessary practical and/or academic 
+skills to conduct the course effectively. Experienced lawyers or other 
+professionals must contribute to the development and/or teaching of the 
+course;   
+ 
+4.3 
+the method of presentation used must be appropriate to meet the aims and 
+objectives of the course and, wherever possible and appropriate, should be 
+varied and include participatory elements in order to encourage learning; 
+ 
+4.4 
+before or at the course, each participant must be provided with written course 
+materials of a quality and quantity which indicate that adequate time has been 
+devoted to the preparation of the course and that it will be of value to the 
+participants in the course of their practice; 
+ 
+4.5 
+the course must be presented in a suitable setting conducive to a good 
+educational experience.  The course must be scheduled at a time and location 
+so as to be free from interruption from telephone calls and other office matters. 
+In the case of live webinar, the course may be conducted simultaneously with 
+the speakers presenting from different time zones and locations and the 
+participants participating from different locations but all webinars must 
+conducted from locations free from interruption and disturbance from 
+telephone calls and other matters; 
+ 
+4.6 
+the level of the course, the number of CPD point(s) accredited to the course 
+and whether the course is substantially a repeat of a previous course must be 
+noted in all promotional material; 
+ 
+4.7 
+all courses must be evaluated by the participants attending the course in a 
+manner which is approved by the Society; 
+ 
+4.8 
+subject to paragraph 4.9 and except where provided to the contrary in these 
+Guidelines, courses should be accredited with the number of CPD point(s) 
+corresponding to the number of hour(s) of tuition scheduled, excluding tea, 
+coffee, lunch and other breaks. Only full or half points may be accredited to 
+any courses. CPD points should be rounded down to the nearest half point for 
+courses which are not scheduled to last for an exact number of half or whole 
+hours; and 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  11 
+4.9 
+for the development of practical skills, courses requiring delegates’ active 
+participation, for example, through workshops, will be more effective than 
+traditional lecture based courses.  
+ 
+Where at least 1/3 of the tuition time is spent in such small group work, trainee 
+solicitors and solicitors may add 25% to the actual time of the course. For 
+example, a 4 hours’ workshop comprising 2 hours of small group work 
+qualifies for 1 additional CPD point giving a total of 5 CPD points. 
+ 
+4.10 
+subject to paragraph 4.11, a course must have a duration of at least one hour. 
+Courses of only one hour must have no more than 10 minutes devoted to 
+questions from the audience. 
+ 
+4.11 
+(a) 
+a course of 30 minutes or more but less than 60 minutes is eligible for 
+½  CPD point provided that for any courses with a lecture format, at 
+least 80% of the course must be devoted to lecture presentation. 
+ 
+ 
+(b) 
+a participant at a course referred to in sub-paragraph (a) hereof may 
+claim ½  CPD point provided that he attends the entire course.  No 
+lateness is permitted. 
+ 
+4.12 
+Participation in, or attendance at a course, means attendance at the complete 
+course, or a designated segment of the course which is discrete from the rest of 
+the course and has been accredited on a segmented basis.   
+ 
+ 
+Attending Live Webinars and Viewing Pre-recorded Multimedia, Audio-visual, Audio, 
+or Visual Courses 
+ 
+5. 
+5.1 
+Up to 15 CPD points of the annual CPD requirement may be fulfilled by 
+undertaking live webinars and viewing pre-recorded multimedia, audio-visual, 
+audio or visual courses.  
+ 
+5.2 
+In order for a practitioner to obtain CPD point(s) for courses referred to in this 
+Guideline, the course provider must, in addition to the usual accreditation 
+requirements, provide the following to the Society: 
+ 
+(i) 
+a copy of the course materials at the Society's request; 
+(ii) 
+access to the course on-line in order for the Society to monitor the 
+course; 
+(iii) 
+evidence that the course is “real time” and interactive; the interactive 
+elements include but are not limited to question and answer session(s), 
+group work, quizzes and exercises; 
+(iv) 
+attendance records kept by the course provider demonstrating a 
+participant has completed the course in full in the event of CPD audit. 
+For the avoidance of doubt, the attendance policy set out in the Section 
+“Attendance at Accredited CPD Courses” of this Information Package 
+applies to courses referred to in this Guideline. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  12 
+ 
+5.3 
+In order for a practitioner to obtain CPD point(s) for viewing pre-recorded 
+multi-media,  audio-visual, audio or visual course referred to in this Guideline, 
+in addition to the criteria set out in Guideline 5.2, the following requirements 
+would also apply:  
+ 
+ 
+(i) 
+there must be an opportunity for participants to ask questions of the 
+course instructor(s) / presenters and to engage in discussion.   
+ 
+ 
+(ii) 
+if the course instructor(s) are not available, either in person or via 
+telephone, then a qualified commentator must be available to offer 
+comments, answer questions and lead discussion.  
+ 
+ 
+(iii) 
+a course which only requires a participant to click through a series of 
+slides will not qualify for CPD points. Reading and reviewing cases or 
+articles does not qualify for CPD points.  
+ 
+ 
+(iv) 
+a participant must attend the entire course or view materials presented 
+before the participant can claim any CPD points. This includes reading 
+any accompanying materials and completing any accompanying group 
+work, quizzes and exercises.  
+ 
+ 
+Overseas courses  
+ 
+6. 
+Overseas courses will be accredited under the following conditions: 
+ 
+(a) 
+in the normal course, in approved jurisdictions only; 
+ 
+(b) 
+the overseas course provider being an academic institution or a professional 
+body or any other body approved by the CPD Committee; 
+ 
+(c) 
+(i) 
+upon the overseas course provider submitting an application for 
+accreditation and paying the requisite accreditation fee; or 
+ 
+(ii) 
+where it can be demonstrated that the overseas course provider will 
+not, in the normal course, submit an application for accreditation of the 
+course, upon an application for accreditation being made by the Hong 
+Kong practitioner(s) seeking accreditation and upon payment by such 
+Hong Kong practitioner(s) of the requisite accreditation fee;  
+ 
+(d) 
+(i) 
+upon production of sufficient documentation by the overseas course 
+provider to enable the Hong Kong practitioner(s) to demonstrate 
+compliance with the CPD Scheme in Hong Kong (i.e. a course 
+attendance list setting out the time at which the practitioner(s) signed 
+in and signed out the attendance at the course); or 
+ 
+(ii) 
+upon any Hong Kong practitioner who attended the overseas course 
+filing with the Society by the end of the CPD practice year in which he 
+attended the course, written confirmation that he attended the entire 
+course, or, where he attended part of the course, written confirmation 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  13 
+setting out which parts/sessions of the course he attended and the full 
+attendance details for each part/session of his attendance; and 
+ 
+(e) 
+applications for accreditation under this Guideline should be made before the 
+date of the course. However, where the Society is satisfied that exceptional 
+circumstances exist, it may grant retrospective accreditation of an overseas 
+course upon application being made by a practitioner (but not a course 
+provider), provided that the applicant pays a late accreditation fee and submits 
+the application to the Society not later than 30 days after the overseas course 
+has been conducted.  However, practitioners should hold no expectation that 
+the submission of an application for retrospective accreditation will 
+necessarily result in the course being accredited.  
+ 
+ 
+On demand online courses  
+ 
+7. 
+7.1 
+Subject to paragraphs 7.2 and 7.3, up to 15 CPD points of the annual CPD 
+requirement may be fulfilled by undertaking on demand online courses 
+accredited by the Society. 
+ 
+7.2 
+In order for a practitioner to obtain CPD point(s) for an on demand online 
+course referred to in this Guideline, the course provider must, in addition to 
+the usual accreditation requirements, provide the following to the Society: 
+ 
+(i) 
+a copy of the course materials; 
+(ii) 
+access to the course on-line in order for the Society to monitor the 
+course; 
+(iii) 
+evidence that the course is interactive; the interactive elements include 
+but are not limited to quizzes and exercises; 
+(iv) 
+details of the technical support services available to participants; and 
+(v) 
+attendance records kept by the course provider demonstrating a 
+participant has completed the course in full. 
+ 
+7.3 
+A practitioner claiming CPD point(s) for attendance at an on demand online 
+course must produce to the Society a printed copy of a completion certificate 
+as supporting evidence in the event of a CPD audit. 
+ 
+ 
+ Distance learning courses 
+ 
+8. 
+8.1 
+“Distance learning course” means a course delivered by correspondence, audio 
+cassettes, video cassettes, television broadcasts or inter-active videos. 
+ 
+8.2 
+Up to 15 CPD points of the annual CPD requirement may be fulfilled by 
+undertaking distance learning courses approved by the Society where the 
+course involves an examination or a written assignment assessed by the course 
+provider or leads to a qualification recognised by the Society. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  14 
+Law courses 
+ 
+9. 
+9.1 
+“Law course” means a course related to legal practice approved by the Society 
+which leads to a qualification recognised by the Society or a subject related to 
+legal practice approved by the Society which forms part of a course that leads 
+to a qualification recognised by the Society. 
+ 
+9.2 
+Up to 15 CPD points of the annual CPD requirement may be fulfilled by 
+undertaking a law course on a part-time basis. Courses leading to a 
+qualification include, for example, courses leading to a master degree, 
+postgraduate diploma or specialised bachelor degree (e.g. Bachelor in Chinese 
+Law). Subjects forming part of a course that leads to a qualification include, 
+for example, a law module forming part of a master course on a discipline 
+other than law. 
+ 
+9.3 
+Trainee solicitors and solicitors must apply to the Society for accreditation of 
+any law courses and must provide such materials and information in support of 
+the application as required by the Society. 
+ 
+9.4 
+The Society may publish a list of approved law courses which will be 
+reviewed from time to time.  Any courses may be removed from the approved 
+list following such review. 
+ 
+9.5 
+CPD point(s) under this paragraph may be counted in each CPD practice year 
+during which the course is undertaken, provided that in each CPD practice 
+year the trainee solicitor or solicitor complies with the course attendance 
+requirements, attends lectures and/or tutorials totalling in duration not less 
+than the number of hours of CPD point(s) being claimed and provides 
+evidence of such attendance as and if required by the Society. 
+ 
+ 
+Courses attended under the deemed accreditation system 
+ 
+10. 
+10.1 
+Up to 3 CPD points of the annual requirement of 15 CPD points may be 
+claimed by undertaking courses which fall within the accreditation criteria set 
+out in paragraph 10.3 without an application for CPD accreditation. 
+ 
+10.2 
+Where the annual CPD requirement is pro-rated in accordance with Table A 
+on page 5, Table A1 on page 6, Table B on page 7, Table C on page 49, Table 
+D on page 50 or Table E on page 50, up to 1/5 of the pro-rated CPD 
+requirement rounded down to the nearest half point may be claimed by 
+undertaking courses which fall within the accreditation criteria set out in 
+paragraph 10.3 without an application for CPD accreditation. 
+ 
+10.3 
+The courses which are deemed accredited must be: 
+ 
+(a) 
+of significant intellectual or practical content and must deal primarily 
+with matters related to the practitioner’s practice of law, and 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  15 
+(b) 
+conducted by persons who are qualified by practical, academic and/or 
+professional experience in the subject covered, and 
+ 
+(c) 
+that extends the solicitor’s knowledge and/or skills in areas that are 
+relevant to the practitioner’s practice needs or professional development. 
+ 
+10.4 
+Courses which are deemed accredited should be accredited with the number of 
+CPD points in accordance with Guidelines 4.8 to 4.12. As a general rule, 1 
+CPD point is awarded for each hour of the course. 
+ 
+10.5 
+Practitioners are required to state in the annual Statement of Compliance with 
+CPD and RME Requirements the courses undertaken by them under the 
+deemed accreditation system do comply with the accreditation criteria in 
+paragraph 10.3. 
+ 
+10.6 
+Practitioners should keep documentary evidence of attendance including but 
+not limited to course materials, in particular, materials proving the course 
+fulfils the accreditation criteria and attendance certificate for at least 2 years 
+after the end of the relevant CPD practice year for the inspection of the Society 
+for audit purposes. 
+ 
+ 
+Writing articles, books  
+ 
+11. 
+11.1 
+Up to 15 CPD points of the annual CPD requirement may be undertaken by 
+writing law books, or articles in legal journals or legal articles in such other 
+journals as approved by the Society.  
+ 
+11.2 
+Subject to paragraph 11.3, any CPD points claimed under paragraph 11.1 must 
+be claimed in the CPD practice year in which the law book or the article is 
+published. 
+ 
+11.3 
+The Society may in its discretion allow CPD point(s) to be claimed in the CPD 
+practice year in which the article or law book was written, and prior to 
+publication, provided that the Society is satisfied that there is sufficient written 
+evidence that during that CPD practice year the publisher had approved that 
+the article or law book be published in the next succeeding CPD practice year. 
+ 
+11.4 
+The legal or other journal, which may be in an electronic format, must be 
+approved by the Society. 
+ 
+11.5 
+The book or article should be on an area of substantive law or practice and 
+procedure. 
+ 
+11.6  Subject to paragraph 11.7, 3 CPD points may be allocated for every 1,000 
+words (English or Chinese) published, or 1½  CPD points for such lesser 
+number of words published as may be approved by the Society. 
+ 
+11.7 
+In the case of substantial revisions or updates of previous publications, the 
+number of CPD point(s) to be allocated shall be determined by the Society. 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  16 
+Legal research 
+ 
+12. 
+12.1 
+Subject to the Society’s approval, up to 15 CPD points of the annual CPD 
+requirement may be undertaken by conducting legal research which is of use 
+beyond the particular case and results in the production of a precedent, 
+practice note, other form of written guidance, or substantial written 
+submissions on any public consultation document relevant to legal practice, 
+that is generally available to the public or made available to solicitors and 
+trainee solicitors in the researcher’s firm. 
+ 
+12.2 
+The number of CPD point(s) to be allocated, if any, in any case shall be 
+determined by the Society having regard to the quality of the results of the 
+research, its availability to the public or to solicitors and trainee solicitors 
+within the researcher’s firm or organisation and the contemporaneous records 
+maintained by the trainee solicitor or solicitor engaged in the research.  
+ 
+ 
+Dissertations 
+ 
+13. 
+13.1 
+Up to 15 CPD points of the annual CPD requirement may be undertaken by 
+production of a dissertation counting towards a qualification recognised by the 
+Society.  
+ 
+13.2 
+1 CPD point may be allocated for every 1,000 words (English or Chinese) of 
+such dissertation. 
+ 
+ 
+Preparation, presentation and facilitation of approved training courses 
+ 
+14. 
+14.1 
+Up to 15 CPD points of the annual CPD requirement may be undertaken by 
+preparation of oral or written material forming part of the formal instruction 
+within approved training courses by a trainee solicitor or solicitor, whether or 
+not he was involved in the presentation of the course.  Contemporaneous 
+working papers and the results achieved in relation to the preparation 
+undertaken must be retained by the trainee solicitor or solicitor engaged in 
+such preparation work.   
+ 
+14.2 
+Actual time spent in the preparation work (as rounded up or down to the 
+nearest half hour*) may be counted provided that the number of CPD point(s) 
+claimed by a trainee solicitor or solicitor for preparation for any one course 
+may not exceed three times the actual time involved in presenting that part of 
+the course for which the preparation was undertaken. 
+ 
+14.3 
+Up to 15 CPD points of the annual CPD requirement may be undertaken by 
+presentation of, or assisting in the presentation as a facilitator in approved 
+training courses. Twice the actual time involved in presenting or facilitating in 
+a course or part of a course, as the case may be, may be counted (as rounded 
+up or down to the nearest half hour*) . 
+ 
+14.4 
+Where a trainee solicitor or solicitor remains in attendance for the whole of the 
+course in which he is involved in presenting or facilitating a part for which 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  17 
+CPD point(s) may be allocated under paragraph 14.3, that trainee solicitor or 
+solicitor may be allocated the full number of CPD point(s) available to 
+participants attending that other part of the course in which that trainee 
+solicitor or solicitor is not involved in the presentation or assisting in the 
+presentation as a facilitator (rounded up or down to the nearest half hour). 
+ 
+14.5 
+“Approved training course” means a lecture or tutorial forming part of the 
+LL.B., PCLL, CPE or CPEC courses at a Hong Kong university, a lecture or 
+tutorial forming part of a law course accredited by the Society, preparatory 
+courses for the Overseas Lawyers Qualification Examination accredited by the 
+Society and an accredited CPD course. 
+ 
+* blocks of 15 to 29 minutes may be rounded up to the nearest half hour   
+ 
+ 
+Participation in committees/working parties/associations 
+ 
+15. 
+15.1 
+Up to 7 CPD points of the annual CPD requirement may be fulfilled by – 
+ 
+(a) 
+participation in the work of the Council of the Society;  
+ 
+(b) 
+subject to the approval of the Society, participation in the work of  
+ 
+(i) 
+the committees or working parties of the Society; and 
+ 
+(ii) 
+such committees or associations as are approved (from time to 
+time) by the Society, 
+ 
+which deal with issues of substantial significance in the 
+practice of law; and such work being not limited to attendance 
+at meetings of the approved committees, working parties or 
+with third parties such as the Legislative Council, the 
+Department of Justice or the Judiciary, but also work such as 
+review of guidelines and legislation, and comments on 
+consultation documents. 
+ 
+(c) 
+participation as a member of the Legislative Council in the work of the 
+Bills Committees involving scrutiny and approval of draft legislation; 
+and 
+ 
+(d) 
+undertaking work as a member or Tribunal Convenor of the Solicitors 
+Disciplinary Tribunal.  
+ 
+15.2 
+Solicitors and trainee solicitors may claim 1 CPD point for each hour engaged 
+in such work. Half a CPD point may be claimed if the duration spent on such 
+work is in excess of half an hour but less than an hour. Any amount of time 
+spent on the work specified in paragraph 15.1 can be counted towards the 7 
+CPD points to be claimed in a CPD practice year.  
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  18 
+ 
+The approved committees, working parties or associations are listed on pages 38 to 
+ 42 of this Information Package.  
+ 
+To apply for CPD accreditation, the committees or associations under paragraph 
+15.1(b)(ii) should submit an application to the Society for approval and provide the 
+terms of reference of the committees or associations in support of the application.  
+ 
+ 
+Work as an external examiner/assessor/coach and participation as a judge in a moot 
+court competition 
+ 
+16. 
+16.1 
+Subject to approval by the Society, up to 7 CPD points of the annual CPD 
+requirement may be fulfilled by: 
+ 
+(a) 
+undertaking work as an external examiner for the PCLL examination 
+or the International Award Writing Examination of the Chartered 
+Institute of Arbitrators, including work in preparing questions for such 
+examination;  
+ 
+(b) 
+undertaking work as an examiner for the Overseas Lawyers 
+Qualification Examination, including work in preparing questions for 
+such examination; 
+ 
+(c)  
+undertaking work as an assessor for the LL.B. (Honours) Programme 
+provided by City University of Hong Kong; 
+ 
+(d) 
+undertaking work as an assessor/ adjudicator for the PCLL Advocacy 
+Course provided by the University of Hong Kong, City University of 
+Hong Kong or the Chinese University of Hong Kong; 
+ 
+(e) 
+participation as a judge in a moot court competition organised by a 
+university in Hong Kong;  
+ 
+(f) 
+undertaking work as an examiner for the PCLL Advocacy Examination 
+provided by the Chinese University of Hong Kong;  
+ 
+(g) 
+undertaking work as an assessor for accreditation of mediators on the 
+Panels of Mediators of Hong Kong Mediation Accreditation 
+Association Ltd (“HKMAAL”); and 
+ 
+(h) 
+undertaking work as a coach in general mediation or family mediation 
+courses approved by HKMAAL. 
+ 
+ 
+16.2 
+1 CPD point may be claimed for each period of 2 hours engaged in such work. 
+Contemporaneous records in relation to the work undertaken must be retained 
+as evidence in support of the number of CPD point(s) claimed. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  19 
+Participation in other legal training activities  
+ 
+17. 
+2 CPD points may be claimed for each completed Duty Lawyer Scheme orientation 
+on the basis of a confirmation from the Duty Lawyer Service to the Society that a 
+solicitor has successfully completed the orientation. 
+ 
+ 
+Mediation Training 
+ 
+18. 
+Solicitor-mediators seeking renewal of membership on the Panels of General and/or  
+Family and/or Family Mediation Supervisors may fulfil their CPD requirement in  
+mediation training by pursuing the following areas for study and/or training: 
+ 
+ 
+Communication skills 
+ 
+Negotiation 
+ 
+Problem-solving 
+ 
+Other mediation training (Family, Community, Environment, Cross-culture) 
+ 
+Partnering/alliance-building 
+ 
+Advanced mediation skills 
+ 
+Other dispute resolution processes 
+ 
+Conflict management/avoidance 
+ 
+ 
+Suggested areas for further study specifically for Admitted Family Mediators include: 
+ 
+ 
+Domestic violence 
+ 
+Child Abuse 
+ 
+Child-care & child development 
+ 
+Psychological process of separation and divorce 
+ 
+Appropriate arrangements for custody, care, control and access 
+ 
+Step-parenting/families 
+ 
+Co-parenting 
+ 
+Local policy in practices e.g. Housing, Insurance, Taxation & C.S.S.A 
+ 
+Special knowledge in solving financial disputes 
+ 
+ 
+Priority CPD areas 
+ 
+19. 
+Trainee solicitors and solicitors should take note of those areas of law and practice 
+which the Society indicates are of particular current importance.  Statements will 
+appear in the Society's Circulars from time to time indicating any additional CPD 
+point(s) which may be given to undertaking CPD in these priority areas. 
+ 
+ 
+Double counting 
+ 
+20. 
+There shall be no double counting of CPD point(s) in respect of activities specified in 
+these Guidelines.  For example, a practitioner will not be allowed to claim CPD 
+point(s) for both attendances at a law course and production of a dissertation in the 
+same law course in the same CPD practice year.  The practitioner will only be able to 
+claim CPD point(s) under either one of the above CPD activities in respect of the 
+same law course in the same CPD practice year. 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  20 
+ 
+ 
+For the avoidance of doubt, a practitioner is entitled to claim CPD point(s) for 
+attending or presenting a CPD course irrespective of the number of times he has 
+presented or attended the course. With respect to the preparation of materials, a 
+practitioner is entitled to claim CPD point(s) for the actual time spent in preparing or 
+updating the materials each time the course is held. 
+ 
+ 
+Revocation or amendment of CPD point(s) 
+ 
+21. 
+The Society has a discretion to revoke or amend any determination or approval of 
+CPD point(s) accredited to an activity under these Guidelines.  
+ 
+ 
+Coaching  
+ 
+22. 
+22.1 
+“Coaching” means a structured one-to-one training process conducted face-to-
+face internally in a law firm during which the coach assists an individual 
+practitioner to achieve an enhancement of his legal knowledge and skills. 
+Coaches must have a minimum of 5 years of post-admission experience in the 
+practice of law and have the necessary practical and/or academic skills to 
+assist the practitioners being coached to achieve the objectives set for the 
+coaching sessions. 
+ 
+ 
+22.2 
+To qualify for CPD point(s), a coaching session must be of at least 30 minutes 
+in duration and structured with written objectives and an outline of the session 
+content. The activity should be at an appropriate level. It should be structured 
+with the aim of advancing an individual practitioner’s general professional 
+skills and knowledge and not a particular fee-earning matter. 
+ 
+22.3 
+The outcomes following each session must be properly documented. A written 
+record of the objectives, the content outline and the outcomes of each 
+coaching session and the date, the start time, the finish time and the venue 
+with respect to the coaching session held must be retained by the coach and 
+the practitioner being coached for verification by the Society of the CPD 
+point(s) claimed.        
+ 
+22.4 
+Up to 5 CPD points of the annual CPD requirement may be undertaken by 
+participation in coaching sessions that qualify for CPD point(s) in accordance 
+with the CPD Guidelines. The actual time engaged in each coaching session 
+may be claimed by the coach and the practitioner being coached on the basis 
+of ½  CPD point for each half-hour.  Blocks of 15 to 29 minutes in excess of 
+the minimum 30 minutes referred to in paragraph 22.2 may be rounded up to 
+the nearest half-hour. 
+ 
+Where the Society’s approval is required, applications for CPD point(s) should be made in 
+writing and sent to the Assistant Director, Professional Development at 3/F., Wing On House, 
+71 Des Voeux Road Central, Hong Kong. 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  21 
+APPROVED LEGAL JOURNALS 
+ 
+(Reference: Guideline 11 on page 15) 
+ 
+The CPD Accreditation Sub-Committee has approved the following as legal journals for the 
+purpose of obtaining CPD point(s) pursuant to paragraph 11 of the CPD Guidelines:  
+ 
+1. 
+Air Finance Annual 
+2. 
+AmChat 
+3. 
+Annual Review of Insurance and Reinsurance Law  
+4. 
+Asia Insurance Review 
+5. 
+Asia IP Bulletin  
+6. 
+Asialaw 
+7. 
+Asialaw Profiles 
+8. 
+Asian-Mena Counsel 
+9. 
+Asia Pacific Forum News 
+10. 
+Asia Pacific IP Focus  
+11. 
+Asia-Pacific Insurance & Reinsurance Bulletin 
+12. 
+Asia Pacific Law Review 
+13. 
+Asia Securitisation & Structured Finance Guide 
+14. 
+Asian Counsel 
+15. 
+Asian Dispute Review 
+16. 
+Asian Financial Law Briefing  
+17. 
+Asian IP  
+18. 
+Asian Lawyer 
+19. 
+Asian Legal Business 
+20. 
+Banking Today 
+21. 
+BLG Aerospace News 
+22. 
+Bloomberg Law Report 
+23. 
+Building and Enforcing Intellectual Property Value  
+24. 
+Britain in Hong Kong 
+25. 
+Capital Markets Law Journal 
+26. 
+Carbon & Climate Law Review 
+27. 
+CIPIC Journal Japan 
+28. 
+China Business Law Journal  
+ 
+ 
+ 
+ 
+29. 
+China Direct Investor  
+ 
+ 
+ 
+ 
+   
+30. 
+China Finance Manual 
+31. 
+China Intellectual Property Focus 2013 
+32. 
+China Law 
+33. 
+China Law & Practice 
+34. 
+China Law For Business 
+ 
+ 
+ 
+ 
+ 
+35. 
+China Law Reference Service 
+36. 
+China Legal Watch 
+37. 
+China Notary 
+38. 
+China Tax Review 
+39. 
+China Staff 
+ 
+40. 
+Clifford Chance Bi-monthly Email Update  
+41. 
+Columbia Journal of Asia Law 
+ 
+ 
+ 
+ 
+  
+42. 
+Company Secretary  
+43. 
+Company Secretaries Journal 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  22 
+44. 
+Computer & Telecommunications Law Review 
+45. 
+Computer Law & Security Report 
+ 
+  
+46. 
+Copyright World 
+ 
+ 
+ 
+47. 
+Corporate Counsel Asia Pacific 
+ 
+  
+48. 
+Corporate Governance 
+49. 
+Derivatives Week 
+50. 
+E-Commerce 
+51. 
+Exporters Bulletin 
+52. 
+Focus: Arbitration 
+53. 
+Focus: Hong Kong-Commercial Litigation 
+54. 
+Focus: Regulation and Compliance 
+55. 
+Getting the Deal Through – Restructuring & Insolvency in 53 Jurisdictions 
+Worldwide 2012 
+56. 
+Global Counsel Handbooks – Dispute Resolution 
+57. 
+Global IP Rights Management 
+58. 
+Global Legal Group 
+59. 
+Global Turnaround 
+60. 
+Hebei Law Science 
+61. 
+Hong Kong Law Journal 
+62. 
+Hong Kong Lawyer 
+63. 
+IBA International Litigation Newsletter 
+ 
+64. 
+Insurance Day  
+65. 
+Intellectual Asset Management Magazine 
+66. 
+Intellectual Property Law in Asia 
+67. 
+Intellectual Property Magazine 
+68. 
+Intellectual Property Law Newsletter 
+69. 
+International Arbitration 
+70. 
+International Arbitration Law Review 
+71. 
+International Co & Commercial Law Review 
+72. 
+International Energy Law & Taxation Review 
+73. 
+International Financial Law Review 
+74. 
+International Mergers & Acquisitions Review 
+75. 
+International Sales Newsletter of the International Bar Association Legal Practice 
+Division 
+76. 
+Internet Gambling Report V 
+77. 
+Journal of International Arbitration 
+78. 
+Journal of International Banking Law 
+79. 
+Journal of the Shenzhen Maritime Shipping Association (2005 海峽兩岸暨香港航運
+物流研討會論文集) 
+80. 
+IP Profiles 
+81. 
+IPASIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+82. 
+IPBA Journal  
+ 
+ 
+ 
+ 
+ 
+  
+83. 
+Intellectual Asset Management Magazine 
+84. 
+Intellectual Property in Asia 
+85. 
+International Business Lawyer 
+86. 
+International Internet Law Review 
+87. 
+International Maritime Law 
+88. 
+INSOL World  
+ 
+ 
+  
+89. 
+Insolvency & Restructuring  
+90. 
+Law Science Magazine 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  23 
+91. 
+Legal Bulletin Corporate Finance 
+92. 
+Legal Week 
+93. 
+Managing Intellectual Property    
+94. 
+Mediation  
+95. 
+Mergers & Acquisitions 
+96. 
+Modern Law Science 
+97. 
+Newsletter of Dental Association 
+98. 
+Official Guide to Telecommunications in HK 
+99. 
+PLC Magazine 
+100. 
+Perspective 
+101. 
+Preston Gates Guide to Telecommunications in Asia 
+102. 
+Project Finance 
+103. 
+Project Finance International  
+104. 
+Project Finance Models for Greater China 
+ 
+ 
+   
+105. 
+Seaview 
+106. 
+Singapore Law Society Gazette 
+107. 
+Starting a Hedge Fund – An Asian Perspective 
+108. 
+Studies in Law & Business 
+109. 
+Technical Bulletin 
+110. 
+The Asia-Pacific Restructuring & Insolvency Guide 
+111. 
+The Asia Pacific Arbitration Review 2012 
+112. 
+The Asian Leading Arbitrators’ Guide to International Arbitration 
+113. 
+The Chamber of Hong Kong Listed Companies Magazine - Momentum 
+114. 
+The China Business Review 
+115. 
+The Computer Law and Security Report 
+   
+116. 
+The Euromoney Syndicated Lending Handbook 
+117. 
+The Expert 
+118. 
+The Global Counsel Mergers and Acquisition Handbook   
+119. 
+The Global Counsel Restructuring & Insolvency Handbook  
+120. 
+The Guide to Capital Markets in Asia 
+121. 
+The Hong Kong Accountant 
+122. 
+The in-house Perspective 
+123. 
+The Journal of The Hong Kong Institute of Chartered Secretaries 
+124. 
+The Metropolitan Corporate Counsel Journal 
+125. 
+The International Construction Law Review 
+126. 
+The Journal of Business Law   
+ 
+127. 
+The Patent Journal 
+128. 
+The Tax Journal 
+129. 
+Trademark World 
+130. 
+Urban Planning & Environmental Law Quarterly 
+131. 
+World Internet Law Report 
+132. 
+World Leasing Yearbook 
+133. 
+World Online Gambling Law Report 
+134. 
+World Securities Law Report 
+135. 
+World Trademark Law Report 
+136. 
+World Trademark Review 
+137. 
+Worldwide Intellectual Property Law  
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  24 
+APPROVED LAW COURSES 
+ 
+(Reference: Guideline 9 on pages 14)  
+ 
+The CPD Accreditation Sub-Committee has approved certain LL.M. and other law courses 
+undertaken on a part-time basis for the purposes of compliance with CPD requirements under 
+the CPD Scheme. 
+ 
+A practitioner will receive up to 15 CPD points in the CPD practice year in which the 
+approved law course is undertaken. This means that the practitioner is entitled to claim CPD 
+point(s) even though he has not completed the approved law course in that CPD practice year. 
+ 
+Evidence of attendance includes a certificate of attendance issued by the relevant university 
+or a confirmation letter issued by the Department Head of the relevant university confirming 
+the number of hour(s) of the practitioner’s attendance at the course.  
+ 
+Applications for accreditation of law courses should be addressed and forwarded to the 
+Assistant Director, Professional Development together with supporting materials. The 
+supporting materials should include the following: 
+ 
+1) Course title 
+2) Duration (detailed schedule) 
+3) Course structure 
+4) Entry requirements 
+5) Means of Assessment  
+6) Award 
+7) Course brochure (if any) 
+ 
+Additional information may be requested by the Society. 
+ 
+The law courses which have been approved are: 
+ 
+COURSES ORGANISED BY UNIVERSITIES IN HONG KONG 
+ 
+1. The Chinese University of Hong Kong  
+ 
+ 
+Certificate Program in Professional Accountancy (by the School of Continuing and 
+Professional Studies) 
+ 
+Law & Social Work (by the Department of Social Work) 
+ 
+Master of Laws in Chinese Business Law  
+ 
+Master of Laws in Common Law  
+ 
+Master of Laws in International Economic Law 
+ 
+Master of Laws (LLM) in Energy and Environmental Law  
+ 
+Perspective on the Basic Law (by the Department of Government & Public 
+Administration) 
+ 
+Public Health Law 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  25 
+2. City University of Hong Kong 
+ 
+ 
+Continuing Education Diploma in Property Management 
+ 
+Law of Business Organisations, Corporate Insolvency, Meetings & Employment 
+ 
+Master of Laws in Arbitration and Dispute Resolution 
+ 
+Master of Arts in Language and Law 
+ 
+Master of Arts in Language Studies (with specialization in Language & Law) 
+ 
+Master of Laws in Chinese and Comparative Law (Regular mode) 
+ 
+Master of Laws in Maritime and Transportation Law 
+ 
+Master of Laws (Chinese & Comparative Law) (Fast-track mode) 
+ 
+Master of Laws (Chinese and Comparative Law)  
+ 
+Master of Laws (Common Law) 
+ 
+Master of Laws (Intellectual Property and Technology Law) 
+ 
+Master of Laws (International Business Law) 
+ 
+Master of Laws (International Economic Law)  
+ 
+Master of Laws (WTO and Law) 
+ 
+Master of Laws (General) 
+ 
+Master of Laws (Regular mode)  
+ 
+Master of Laws (Fast-track mode) 
+ 
+Postgraduate Diploma (Chinese Law)  
+ 
+Postgraduate Diploma (International Economic Law) 
+ 
+Postgraduate Certificate (Chinese Law) 
+ 
+Postgraduate Certificate (International Economic Law) 
+ 
+Taxation, one of the core courses of the Master of Arts in Professional Accounting 
+and Information Systems 
+ 
+The Postgraduate Certificate course in Professional Accounting 
+ 
+Doctor of Juridical Science (JSD) 
+ 
+ 
+City University of Hong Kong / Renmin University of China  
+ 
+ 
+Master of Laws 
+ 
+ 
+SCOPE, City University of Hong Kong / Taxation Institute of Hong Kong  
+ 
+ 
+Continuing Education Certificate in Hong Kong Taxation  
+ 
+Continuing Education Certification in Advanced Taxation  
+ 
+Continuing Education Diploma in Advanced Taxation and Tax Planning 
+ 
+Continuing Education Diploma in Tax Advisory 
+ 
+ 
+SCOPE, City University of Hong Kong / University of Wolverhampton 
+ 
+ 
+Master of Laws in International Corporate and Finance Law 
+ 
+Master of Laws (LL.M.) (Top-up Degree) 
+ 
+3. The Hong Kong Baptist University  
+ 
+ 
+Master of Science in Corporate Governance and Directorship 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  26 
+4. The Hong Kong Polytechnic University  
+ 
+ 
+Master of Arts in Competition Law and Economics 
+ 
+Postgraduate Diploma in Competition Law and Economics 
+ 
+Postgraduate Certificate in Competition Law and Economics 
+ 
+Master of Corporate Governance 
+ 
+Mergers & Acquisitions, a module of the Master of Corporate Finance 
+ 
+Regulatory Framework & Compliance, a subject in the Master of / Postgraduate 
+Diploma in Corporate Finance  
+ 
+Revision Course for the PRC Certified Tax Accountant (by the China Business 
+Centre) 
+ 
+5. The Hong Kong University of Science and Technology 
+ 
+ 
+Construction Engineering Management and Law course, part of the degree course 
+of Bachelor of Engineering  
+ 
+Civil Engineering Disputes (Law & Practice), one of the subjects in MSc/GD in 
+Civil Infrastructural Engineering and Management 
+ 
+6. The University of Hong Kong 
+ 
+ 
+Current Topics in Actuarial Science, one of the electives in the Bachelor of 
+Science Degree Programme in Actuarial Science 
+ 
+Doctor of Legal Science 
+ 
+E-Crimes: Prevention, Detection & Legal Sanctions, one of the electives in the 
+Master of Science in Electronic Commerce and Internet Computing 
+ 
+Graduate Diploma in China Business Law (by Poon Kam Kai Institute of 
+Management and Faculty of Business & Ecnomics) 
+ 
+Internet & E-Commerce Security, one of the elective modules in the programme 
+of MSc in Electronic Commerce and Internet Computing (up to 7½  CPD points 
+may be claimed by undertaking this course) 
+ 
+Legal Aspects of IT & E-Commerce, one of the electives in the Master of Science 
+in Electronic Commerce and Internet Computing 
+ 
+Master of Laws (Arbitration and Dispute Resolution) 
+ 
+Master of Laws (Chinese Law) 
+ 
+Master of Laws (Compliance and Regulations) 
+ 
+Master of Laws (Corporate & Financial Law) 
+ 
+Master of Laws (General Stream) 
+ 
+Master of Laws (Human Rights)  
+ 
+Master of Social Sciences in Criminology 
+ 
+Postgraduate Diploma in Commercial Law 
+ 
+Postgraduate Diploma in Information Technology & Intellectual Property Law  
+ 
+Postgraduate Diploma in Public Law 
+ 
+Postgraduate Diploma in the Law of the People’s Republic of China 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  27 
+The University of Hong Kong / Duke University School of Law 
+ 
+ 
+2016 Asia-American Institute in Transnational Law 
+ 
+SPACE, The University of Hong Kong 
+ 
+ 
+2005 National Judicial Examination Preparatory Course-Enhancing Skills for 
+Answering Examination Papers (up to 8 CPD points may be claimed by 
+undertaking this course) 
+ 
+Corporate Governance (a module in The Hong Kong Institute of Chartered 
+Secretaries Examinations Preparatory Programme) 
+ 
+Diploma in Hong Kong Trade Mark Law and Practice 
+ 
+Executive Certificate in Anti-Money Laundering and Counter Terrorist Financing 
+ 
+Executive Diploma/Certificate in Legal Risk for Enterprise Risk Management 
+ 
+Executive Diploma in Asset Recovery Law, Receivable and Fraud Control 
+Practice 行政人員文憑 (資產追收法律、商賬及詐騙監控實務) and four 
+modules: 
+Module 1: Asset Recovery Law and Anti-Fraud Investigations 
+Module 2: China Commercial Law: Liability Risk in Receivable Management 
+Module 3: Collection, Documentary Credits and International Trade Law 
+Module 4: Receivable Management and Financial Regulatory Compliance 
+ 
+Examination Preparatory Course for the Advanced Diploma in International 
+Taxation Programme (ADIT) – Chartered Institute of Taxation, UK (CIOT) 
+ 
+High Impact Chinese Legal Writing 
+ 
+LLM in Legal Practice 
+ 
+Personal Data (Privacy Ordinance under Law) Public Sector Human Resource 
+Management, a subject in the Postgraduate Certificate in Laws for Human 
+Resource Managers  (up to 8 CPD points may be claimed by undertaking this 
+course) 
+ 
+Property Laws, a subject in the Master of Housing Management (by Faculty of 
+Social Sciences, the Centre of Urban Planning & Environmental Management) 
+ 
+Postgraduate Diploma in Construction Law and Arbitration (7½  CPD points per 
+module) 
+ 
+Postgraduate Diploma/Certificate in China Business 
+ 
+Postgraduate Diploma in Corporate Compliance 
+ 
+Postgraduate Certificate in Corruption Studies 
+ 
+Postgraduate Diploma in Family Mediation  
+ 
+Postgraduate Diploma in Finance and Law 
+ 
+Senior Executive Certificate in Institutional Integrity Management 
+ 
+SPACE, The University of Hong Kong / Queen Mary, University of London 
+ 
+ 
+Master of Science in e-Commerce Engineering with Law   
+ 
+Master of Science in Telecommunication with Law 
+ 
+SPACE, The University of Hong Kong / The Manchester Metropolitan 
+University 
+ 
+ 
+Bachelor of Laws   
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  28 
+SPACE, The University of Hong Kong / Tsinghua University  
+ 
+ 
+Second Bachelor Degree in Chinese Law (中國法學專業第二學士學位課程) 
+ 
+Professional Certificate in Chinese Civil and Commercial Law 
+(中國民商法專業課程進修結業證書)  
+ 
+SPACE, The University of Hong Kong (Built Environment Section) / The Accord 
+Group, Australia  
+ 
+ 
+Postgraduate Diploma in Construction Law, Mediation & Arbitration 
+ 
+7. 
+The Open University of Hong Kong 
+ 
+ 
+Master of Arts in Legal Translation 
+ 
+ 
+ 
+The Open University of Hong Kong (Li Ka Shing Institute of Professional and 
+Continuing Education) / Nottingham Law School of The Nottingham Trent 
+University, England 
+ 
+ 
+Bachelor (Hons) of Laws (LL.B.) 
+ 
+8. 
+Hong Kong Shue Yan University, International Institute for Conflict 
+Engagement & Resolution 
+ 
+ 
+Master of Mediation and Conflict Resolution 
+ 
+ 
+9. 
+Hong Kong Shue Yan University / Peking University 
+ 
+ 
+Bachelor of Chinese Law 
+ 
+Master of Chinese Civil Law 
+ 
+Master of Chinese Economic Law 
+ 
+Master of International Law 
+ 
+Master of International Economic Law 
+ 
+10. 
+Hong Kong Shue Yan University / China University of Political Science and Law, 
+College of International Studies (中國政法大學港澳台教育中心) 
+ 
+ 
+ 
+China University of Political Science and Law (CUPL) LL.B Second Degree (中
+國政法大學法學第二學位) 
+ 
+11. 
+Hong Kong Shue Yan University and China University of Political Science and 
+Law (中國政法大學)  
+ 
+ 
+國際法學專業碩士課程 – 國際經濟法方向 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  29 
+COURSES ORGANISED BY UNIVERSITIES OUTSIDE HONG KONG 
+ 
+12. 
+International Islamic University Malaysia / the Centre for Islamic Management 
+Studies Pte. Ltd / Harun Hashim Law Centre / Ahmad Ibrahim Kulliyyah of 
+Laws 
+  
+ 
+Diploma in Shari’ah Law and Practice 
+ 
+13. 
+London School of Economics 
+ 
+ 
+Executive LLM 
+ 
+Diploma of Legal Studies 
+ 
+Certificate of Legal Studies 
+ 
+14. 
+Monash University 
+ 
+ 
+Master of Laws in Intellectual Property 
+ 
+15. 
+Peking University 
+ 
+ 
+Doctorate of Laws 
+ 
+16. 
+Sun Yat-Sen University 
+ 
+ 
+Special Areas of Interest in Commercial Law in England & Hong Kong, one of 
+the subjects of the Master of Laws 
+ 
+17. 
+The China University of Politics and Law 
+ 
+ 
+Doctorate of Laws  
+ 
+18. 
+The City Law School, City University London and Oxademy Graduate School 
+UK 
+ 
+ 
+LLM in International Business Law 
+ 
+19. 
+The University of Aberdeen, Scotland 
+ 
+ 
+Ph.D. Degree in Law (part-time) 
+ 
+20. 
+The University of Bristol 
+ 
+ 
+Diploma Course on Intellectual Property Law and Practice 
+ 
+Master of Laws by Advanced Study (LL.M. in Maritime Law) 
+ 
+The Two-Week Residential Course in Intellectual Property Law (First part of the 
+Diploma in Intellectual Property Law and Practice) 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  30 
+21. 
+University of California Berkeley, USA 
+ 
+ 
+Master of Laws (LL.M.) Programme 
+ 
+22. 
+The University of Canberra (Division of Business, Law and Information Science) 
+ 
+ 
+Master of Laws 
+ 
+Graduate Certificate of Legal Studies 
+ 
+23. 
+The University of Exeter 
+ 
+ 
+LL.M. in International Business Law 
+ 
+24. 
+The University of Melbourne 
+ 
+ 
+Master of Laws 
+ 
+25. 
+The University of Northumbria, Newcastle, United Kingdom 
+ 
+ 
+LL.M. in International Commercial Law 
+ 
+LL.M. in International Trade Law 
+ 
+26. 
+The University of Reading 
+ 
+ 
+LL.M. in Construction Law  
+ 
+27. 
+The University of Southampton 
+ 
+ 
+Maritime Law Short Course 
+ 
+Master of Laws (General Stream) 
+ 
+Master of Laws (Commercial Law) 
+ 
+Master of Laws (European Law) 
+ 
+Master of Laws (International Law) 
+ 
+Master of Laws (Maritime Law) 
+ 
+28. 
+The College of Adult Education of Shenzhen University  
+(深圳大學成人教育學院) 
+ 
+ 
+Diploma in China (Commercial) Law (中國法律(商法)文憑) 
+ 
+29. 
+Tsinghua University 
+ 
+ 
+ 
+LL.M. in Chinese Law 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  31 
+COURSES ORGANISED BY PROFESSIONAL BODIES 
+ 
+30. 
+The Chartered Institute of Arbitrators, London  
+ 
+ 
+Diploma in International Commercial Arbitration 
+ 
+ 
+31. 
+The Chartered Institute of Arbitrator of East Asia, Singapore and Australia 
+Branch 
+ 
+ 
+Asia Pacific Diploma in International Commercial Arbitration 
+ 
+ 
+32. 
+The Hong Kong Institute of Certified Public Accountants 
+ 
+ 
+Professional Diploma in Insolvency    
+ 
+ 
+33. 
+International Air Transport Association 
+ 
+ 
+International Air Law Diploma 
+ 
+ 
+This list of approved courses will be reviewed from time to time and any courses may be 
+removed from the approved list following such review. Members will be advised by Circular 
+of any such decision. 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  32 
+ APPROVED DISTANCE LEARNING COURSES 
+ 
+(Reference: Guideline 8 on page 13) 
+ 
+The CPD Accreditation Sub-Committee has approved certain distance learning courses for 
+the purposes of compliance with CPD requirements under the CPD Scheme. 
+ 
+Practitioners undertaking the approved distance learning courses in items 1 to 32 on pages 33 
+to 36 may claim: 
+ 
+(i) 
+5 CPD points for every subject passed in the examination and up to 15 CPD points of 
+the annual CPD requirement for the CPD practice year in which the examination 
+result is released; OR  
+ 
+(ii) 
+up to 15 CPD points of the annual CPD requirement for the production of a 
+dissertation for the CPD practice year in which the dissertation is submitted to the 
+university (pursuant to Guideline 12.1 on page 14); OR 
+ 
+(iii)  
+up to 15 CPD points of the annual CPD requirement in each CPD practice year for 
+attending lectures / tutorials for the CPD practice year in which the lectures / tutorials 
+are undertaken, provided that in each CPD practice year the practitioner: 
+ 
+- 
+complies with the course attendance requirement; 
+- 
+attends lectures and / or tutorials totalling in duration not less than the number of 
+hours of CPD point(s) being claimed; and  
+- 
+provides evidence of such attendance as and if required by the Society. 
+ 
+Evidence of attendance includes a certificate of attendance issued by the relevant 
+university or a confirmation letter issued by the Department Head of the relevant 
+university confirming the number of hour(s) of the practitioner’s attendance at the 
+course. 
+ 
+On the basis that there shall be no double counting of CPD point(s), practitioners will only be 
+allowed to claim CPD point(s) under (i) or (ii) or (iii) above in respect of an approved 
+distance learning course. 
+ 
+Applications for accreditation of distance learning courses should be addressed and 
+forwarded to the Assistant Director, Professional Development together with the supporting 
+materials. The supporting materials should include the following: 
+ 
+1. Course title 
+2. Duration (detailed schedule) 
+3. Course structure 
+4. Entry requirements 
+5. Means of Assessment  
+6. Award 
+7. Course brochure (if any) 
+ 
+Additional information may be requested by the Society. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  33 
+The distance learning courses which have been approved are: 
+ 
+COURSES ORGANISED BY UNIVERSITIES 
+ 
+1. 
+Australian National University 
+ 
+ 
+A compulsory subject “Legal Practice Experience” of a programme entitled 
+“Graduate Diploma in Legal Practice (GDLP)” 
+ 
+Master of Laws (Legal Practice) 
+ 
+2. 
+Curtin University of Technology, Perth, Australia  
+ 
+ 
+Taxation Law, one of the units in the Bachelor of Commerce (Commercial Law) 
+ 
+3. 
+College of Law, Australia 
+ 
+ 
+Graduate Diploma of Family Dispute Resolution Practice 
+ 
+ 
+Modules in the Professional Legal Training Programmes 
+ 
+Professional Responsibility  
+ 
+Trust and Office Accounting  
+ 
+4. 
+Dickson Poon School of Law, King’s College London 
+ 
+ 
+LLM in International Corporate and Commercial Law;  
+ 
+Postgraduate Diploma in International Corporate and Commercial Law; and 
+ 
+Postgraduate Certificate in International Corporate and Commercial Law   
+ 
+5. 
+Hong Kong Cyber U / The Hong Kong Polytechnic University / University of 
+International Business and Economics, China 
+ 
+ 
+Professional Certificate in China Commercial Law (中國商業法律專業證書課程) 
+ 
+6. 
+London Metropolitan University & Lloyd’s Maritime Academy 
+ 
+ 
+Postgraduate Diploma in Maritime Law 
+ 
+7. 
+Manchester Business School & International Compliance Association 
+ 
+ 
+International Diploma in Compliance 
+ 
+8. 
+Massey University, New Zealand  
+ 
+ 
+Law of Business Organisation, one of the compulsory papers in the Bachelor of 
+Accountancy 
+ 
+9. 
+Michigan State University (Institute for Food Laws & Regulations and the 
+College of Agricultural and Natural Resources)  
+ 
+ 
+The International Food Law Certificate Program 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  34 
+10. 
+Open Polytechnic of New Zealand  
+ 
+ 
+Law of Business Organisation, one of the units in the Bachelor of Business 
+ 
+11. 
+The City Law School, City University London 
+ 
+ 
+LL.M. in International Business Law 
+ 
+12. 
+The Deakin University 
+ 
+ 
+Master of Business Administration (MBA) 
+ 
+Master of Business Administration with CPA Australia Programme (CPA MBA) 
+ 
+13. 
+The Nottingham Law School  
+ 
+ 
+LL.M. in Intellectual Property Litigation 
+ 
+14. 
+The Open University of Hong Kong 
+ 
+ 
+Master of Laws in Chinese Business Law (Business Applications)  
+ 
+中國商法法律(商業應用)碩士課程 
+ 
+Master of Laws in PRC Law 
+ 
+Postgraduate Certificate in Commercial Law (PRC Law) 
+ 
+Postgraduate Certificate in Legal Studies (PRC Law) 
+ 
+15. 
+The University of Cambridge (The Institute of Continuing Education)  
+ 
+ Postgraduate Diploma in Notarial Practice 
+ 
+16. 
+The University of Law, UK 
+ 
+ Master of Science degree – Law, Governance, Risk and Compliance 
+ 
+17. 
+University of Dundee, UK 
+ 
+ LL.M. in Mineral Law & Policy 
+ 
+18. 
+University of New England 
+ 
+ Administrative Law (a Module of LL.B. Degree Programme) 
+ 
+19. 
+University of Exeter (Law School) 
+ 
+ MPhil/ PhD in Legal Practice 
+ 
+20. 
+The University of Leicester  
+ 
+ LL.M. in Law & Employment Relations 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  35 
+21. 
+The University of London  
+ 
+ 
+LL.M. (External Programme) 
+ 
+Preparatory courses for the University of London External LL.M. provided by 
+SPACE, the University of Hong Kong 
+ 
+22. 
+The University of London (Queen Mary) 
+ 
+ 
+LL.M. and Postgraduate Diploma in Computer and Communications Law (by 
+Distance Learning) 
+ 
+23. 
+The University of London (the Centre of European Law, School of Law, King’s 
+College London) & Informa Professional Academy 
+ 
+ Master in EU Competition Law 
+ Postgraduate Diploma in EU Competition Law 
+ 
+24. 
+The University of Northumbria, Newcastle, United Kingdom  
+ 
+ LL.M. in Advanced Commercial Property Law 
+ LL.M. in Advanced Legal Practice  
+ LL.M. in Claims and Risk Management in Health Care 
+ LL.M. in Commercial Law 
+ LL.M. in European Union Law  
+ LL.M. in International Commercial Law 
+ LL.M. in International Trade Law 
+ LL.M. in Medical Law 
+ 
+25. 
+The University of Reading (The College of Estate Management), United 
+Kingdom  
+ 
+ Postgraduate Diploma in Arbitration 
+ 
+26. 
+The University of Strathclyde, Scotland  
+ 
+ LL.M. in IT and Telecommunications Law 
+ 
+27. 
+The University of the South Pacific, Emalus Campus (The School of Law) 
+ 
+ 
+Master of Laws 
+ 
+28. 
+The University of Wolverhampton  
+ 
+ 
+LL.M. (External Programme) 
+ 
+29. 
+The University of Wolverhampton / School of Continuing and Professional 
+Education (SCOPE) of City University of Hong Kong 
+ 
+ 
+Master of Laws 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  36 
+COURSES ORGANISED BY PROFESSIONAL BODIES 
+ 
+30. 
+The Chartered Alternative Investments Analyst Association, USA 
+ 
+ 
+The Chartered Alternative Investments Analyst (CAIA) Programme  
+ 
+Level II Examination of the Chartered Alternative Investments Analyst (CAIA) 
+Programme 
+ 
+31. 
+International Bar Association and The College of Law of England and Wales 
+ 
+ 
+International Practice Diploma 
+ 
+ 
+32. 
+The Society of Trust & Estate Practitioners, The International Trust Companies 
+Association and Central Law Training 
+ 
+ 
+STEP Certificate in International Trust Management 
+ 
+STEP Diploma in International Trust Management 
+ 
+ 
+PREPARATORY 
+COURSES 
+FOR 
+THE 
+MAINLAND 
+STATE 
+JUDICIAL 
+EXAMINATION (國家司法考試) 
+ 
+(I) 
+Approved Preparatory Courses: 
+ 
+33. 
+SPACE, The University of Hong Kong / Tsinghua University 
+ 
+ 
+Preparatory courses for Mainland State Judicial Examination (國家司法考試) 
+(subsequently known as “Training Course for Practising Law in China”) 
+ 
+34. 
+City University of Hong Kong 
+ 
+ 
+Advanced Training Programme for the Chinese National Judicial Examination (國
+家司法考試) 
+ 
+Up to 15 points of the annual CPD requirement may be counted in each CPD practice 
+year during which the Approved Preparatory Courses for the Mainland State Judicial 
+Examination are undertaken provided that the practitioner: 
+ 
+- 
+complies with the course attendance requirement;  
+- 
+attends lectures and / or tutorials totalling in duration not less than the number of 
+hours of CPD point(s) being claimed; and  
+- 
+provides evidence of such attendance as and if required by the Society. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  37 
+(II) 
+Practitioners undertaking the Mainland State Judicial Examination may claim 
+15 CPD points for passing the examination for the CPD practice year in which 
+the examination result is released. 
+ 
+There shall be no double counting of CPD point(s).  Practitioners will only be allowed to 
+claim under either (I) or (II) above in respect of the same Examination. 
+ 
+This list of approved courses will be reviewed from time to time and any courses may be 
+removed from the approved list following such review. Members will be advised by Circular 
+of any such decision. 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  38 
+APPROVED COMMITTEES/WORKING PARTIES/ASSOCIATIONS 
+ 
+(Reference: Guideline 15 on page 17) 
+ 
+1. 
+Law Society Committees/Working Parties 
+ 
+Council 
+Legco Liaison Group 
+Belt and Road Committee 
+Hong Kong Solicitors Indemnity Fund Limited  
+PIS Claims Committee  
+PIS Investment Subcommittee  
+PIS Panel Solicitors Selection Board 
+Professional Indemnity Advisory Committee  
+Working Party on PIS Gross Fee Income Reports and Contributions  
+ 
+Practitioners Affairs 
+Standing Committee on Practitioners Affairs 
+Arbitration Committee 
+Arbitrators Admission Sub-Committee 
+Civil Litigation Committee 
+Company Law Committee 
+Competition Law Committee 
+Constitutional Affairs and Human Rights Committee 
+Criminal Law & Procedure Committee 
+Employment Law Committee  
+Family Law Committee 
+Higher Rights of Audience Committee 
+Insolvency Law Committee 
+Insurance Law Committee  
+Intellectual Property Committee 
+Investment Products and Financial Services Committee 
+Joint Standing Committee on Probate Practice 
+Land Use Planning and Environmental Law Committee 
+Legal Aid Committee 
+Liaison Committee with CSD 
+Liaison Committee with the Police 
+Mediation Committee 
+Personal Injuries Committee 
+Probate Committee 
+Property Committee 
+Retirement Schemes Committee 
+Revenue Law Committee 
+Reverse Mortgage Committee 
+Solicitor Advocates Interest Group 
+Transportation and Logistics Committee 
+Working Party on Charities and Trust 
+Working Party on Enduring Power of Attorney 
+Working Party on Enforcement in Civil Proceedings 
+Working Party on Interpreters 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  39 
+Working Party on Review of Non-Consent Scheme Forms 
+Working Party on Revised DMC Guidelines 
+Working Party on Taxation in Civil Proceedings 
+ 
+Standards & Development 
+Standing Committee on Standards and Development 
+Anti-Money Laundering Committee  
+Continuing Professional Development Committee 
+CPD Accreditation Sub-committee  
+OLQE Eligibility and Exemption Committee 
+Guidance Committee 
+Guidance Sub-committee to Review Rule 5AA of the Solicitors’ Practice Rules  
+Guide Working Party 
+Legal Education Committee 
+Mediator and Parenting Coordinator Admission Committee 
+Overseas Lawyers Qualification Examination Committee 
+Risk Management Education Committee 
+RME Accreditation Sub-committee 
+Solicitors’ Accounts Rules Committee 
+Trainee Solicitors Committee 
+Working Party on Practice in Service Centres, at Home, in Domestic Premises or by 
+Virtual Offices  
+Working Party on Solicitor Corporation Rules 
+Working Party on Solicitors’ Practice Rules 
+Working Party on the Practising Certificate (Special Conditions) Rules 
+ 
+Compliance 
+Standing Committee on Compliance 
+Consents Committee 
+Investigation Committee 
+ 
+External Affairs 
+Standing Committee on External Affairs 
+Australia Interest Group  
+Community Relations Committee 
+Czech Interest Group  
+Greater China Legal Affairs Committee 
+International Legal Affairs Committee 
+Japan Interest Group 
+Law Week Organising Committee 
+Mainland Interest Group 
+Public Policy Committee 
+Teen Talk Organising Committee 
+Working Group on Community Talks & Services 
+Working Group on Law and New Generation Schools Talks 
+Working Group on Legal Pioneer Mentorship Programme 
+Working Group on Sing Tao Legal Mailbox 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  40 
+Policy & Resources 
+Standing Committee on Policy and Resources 
+Hong Kong Lawyer Editorial Board 
+Working Party on Law Society IT Systems 
+Working Party on Law Society Premises 
+Working Party on Review of the Law Society’s Memorandum and Articles of 
+Association 
+ 
+Member Services 
+Standing Committee on Member Services 
+In-House Lawyers Committee 
+Interest Group on Mergers and Acquisitions 
+Islamic Finance Working Party 
+Member Benefit Committee 
+Practice Management Committee 
+Pro Bono and Community Work Recognition Committee 
+Pro Bono Committee 
+Recreation and Sports Committee 
+Technical Support Interest Group 
+Innotech Committee 
+Working Group on Insurance for Pro Bono Work 
+Working Group on Pro Bono Project on Building Management Work 
+Working Group on The Law Society's App 
+Working Party on Historical Archive 
+Working Group on Pro Bono Webpage 
+Working Group on Seminars for Social Enterprises  
+Working Party on SME Firms 
+Young Solicitors’ Group 
+ 
+2. 
+Other Approved Committees/Working Parties/Associations 
+ 
+Advisory Group on Modernisation of Corporate Insolvency Law 
+ 
+Appeal Tribunal, Buildings Ordinance 
+ 
+Asian Patent Attorneys Association (HK Group) 
+- 
+Anti-Counterfeiting Committee 
+- 
+Copyright Committee 
+- 
+Designs Committee 
+- 
+Patents Committee 
+- 
+Trade Marks Committee 
+ 
+Chief Justice’s Working Party on Mediation 
+ 
+Council of the Licensing Executives Society of China, Hong Kong Sub-Chapter 
+ 
+Food and Health Bureau, the Government of HKSAR 
+- 
+Fishermen Claims Appeal Board 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  41 
+Government’s Standing Committee on Company Law Reform 
+ 
+Higher Rights Assessment Board 
+- 
+Examining Panel 
+ 
+Hong Kong Admiralty Court Users’ Committee 
+ 
+Hong Kong Corporate Counsel Association 
+- 
+Executive Committee 
+ 
+Hong Kong Department of Justice 
+- 
+Steering Committee on Mediation 
+- 
+Accreditation Sub-committee of the Steering Committee on Mediation 
+ 
+Hong Kong International Arbitration Centre 
+- 
+Mediator Accreditation Committee 
+ 
+Hong Kong Maritime Law Association  
+- 
+Executive Committee  
+ 
+Hong Kong Mediation Accreditation Association Limited (HKMAAL) 
+- 
+Council 
+- 
+Working Party on Membership 
+- 
+Mediation Accreditation Committee 
+ 
+ 
+Hong Kong Society of Notaries 
+- 
+Council 
+- 
+Examination Committee 
+- 
+External Affairs Committee 
+- 
+Management Committee 
+- 
+Standards and Development Committee 
+- 
+Statutes and Constitution Committee 
+ 
+Independent Police Complaints Council  
+ 
+Land Registry Customer Liaison Group (Private Sector) 
+ 
+Land Titles Ordinance – Title Registration Education Committee 
+ 
+Land Titles Ordinance Review Committee 
+ 
+Land Titles Ordinance Steering Committee 
+ 
+Legal and Complaints Committee of the Equal Opportunities Commission  
+ 
+Office of the Secretary for Transport and Housing Government Secretariat 
+- 
+Appeal Panel (Housing) 
+ 
+  
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  42 
+Secretary for Justice’s Working Group on Mediation 
+- 
+Accreditation and Training Sub-Group 
+- 
+Public Education and Publicity Sub-Group 
+- 
+Regulatory Framework Sub-Group 
+ 
+Security Bureau, The Government of the Hong Kong Special Administrative Region 
+- 
+Registration of Persons Tribunal 
+- 
+Immigration Tribunal 
+- 
+HKSAR Passports Appeal Board 
+- 
+Torture Claims Appeal Board 
+ 
+The Association of China–Appointed Attesting Officers Limited 
+- 
+Council 
+- 
+Subcommittee on Administrative Affairs  
+- 
+Subcommittee on Business Development  
+- 
+Subcommittee on Disciplinary Affairs 
+- 
+Subcommittee on External Affairs 
+- 
+Subcommittee on Policy Affairs 
+- 
+Subcommittee on Practice and Procedure 
+ 
+The Hong Kong Federation of Women Lawyers 
+- 
+Securities and Finance Committee 
+ 
+The Hong Kong Institute of Trade Mark Practitioners Limited 
+- 
+Council  
+ 
+ 
+The Interest Group of Legal Aid Services Council on Scope of Legal Aid 
+ 
+Working Group on Children in Family Proceedings 
+ 
+The Joint Tribunal of the Bar Council and the Law Society 
+ 
+The Law Reform Commission of Hong Kong  
+- 
+Sub-Committee on Archives Law 
+- 
+Sub-Committee on Access to Information 
+- 
+Sub-Committee on Causing or Allowing the Death of a Child 
+- 
+Sub-Committee on Periodical Payments for Future Pecuniary Loss in Personal 
+Injury Cases 
+- 
+Sub-Committee on Review of Sexual Offences 
+ 
+The Travel Industry Council of Hong Kong 
+- 
+Appeal Board 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  43 
+COACHING 
+ 
+ 
+“Coaching” means a structured one-to-one training process conducted face-to-face internally 
+in a law firm during which the coach assists an individual practitioner to achieve an 
+enhancement of his general legal knowledge and skills (not to achieve an advancement of a 
+fee-earning matter). 
+ 
+ 
+Criteria/Content 
+ 
+Like any other CPD activities, the content of a coaching session must meet the criteria for 
+accreditation of CPD activities.  
+ 
+Further, a coaching session must last for at least 30 minutes to qualify for CPD point(s).  
+ 
+To qualify to act as a coach, a practitioner must have a minimum of 5 years of post-admission 
+experience in the practice of law and the necessary practical and/or academic skills to assist 
+the practitioner being coached to achieve the objectives set for the coaching sessions. 
+ 
+ 
+Objectives 
+ 
+A coaching session usually involves a more experienced practitioner of a law firm providing 
+structured guidance and support to a junior practitioner of the same firm.  
+ 
+The coach and the practitioner being coached should first establish the objectives of the 
+coaching session by identifying the training and development needs of the practitioner and 
+determining which of those needs and how they will be addressed during the coaching 
+session.   
+ 
+A coaching session may form part of a coaching programme which contains a series of 
+coaching sessions, but each session should have its own objectives and should be clearly 
+documented.     
+ 
+ 
+Outcome 
+ 
+During each coaching session, the coach is expected to provide structured guidance and 
+feedback with a view to assisting the practitioner being coached to achieve the objectives of 
+the session. The practitioner being coached should record in writing the development 
+outcome following each session for review by the coach.  
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  44 
+Accreditation 
+ 
+For a law firm which is an accredited course provider of CPD courses, no prior application 
+for accreditation of a coaching session held internally within the firm is required.  
+ 
+Where a law firm is not an accredited course provider of CPD courses, prior application for 
+accreditation of its coaching programme (at an application fee) is required. It is required to 
+submit a detailed outline or plan for the coaching programme setting out: 
+ 
+(a) 
+the name of the coach 
+(b) 
+the professional qualifications and experience of the coach 
+(c) 
+the name of the practitioner being coached 
+(d) 
+the venue where the programme is to be held 
+(e) 
+the overall objectives of the programme  
+(f) 
+an outline of the programme 
+(g) 
+the proposed duration of the programme and the duration and frequency of individual 
+sessions within the programme. 
+ 
+Any subsequent changes to any approved coaching plan should be notified to the Society. 
+ 
+ 
+Record 
+ 
+A practitioner wishing to claim CPD point(s) for participation in a coaching session (which 
+can either be self-accredited where the law firm is an accredited course provider or be 
+accredited by prior application to the Society where the law firm is not an accredited course 
+provider) is responsible for keeping his own record of the details of each session of the 
+coaching programme for verification by the Society during audit. The details include: 
+ 
+(a) 
+the name of the coach 
+(b) 
+the professional qualifications and experience of the coach 
+(c) 
+the name of the practitioner being coached 
+(d) 
+the venue where the session is held 
+(e) 
+the duration of the session with the date, the start time and the finish time 
+(f) 
+the number of CPD point(s) claimed for the session 
+(g) 
+the objectives of the session 
+(h) 
+an outline of the content of the session 
+(i) 
+the development outcome of the session. 
+ 
+The record must be signed by the coach and the practitioner being coached.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  45 
+EXAMPLES OF COMPLIANCE WITH THE 
+CPD REQUIREMENT 
+ 
+ 
+The examples below give an indication of the types of training activities which qualify for 
+CPD points and the number of CPD point(s) that may be claimed from each type of training 
+activities. 
+ 
+ 
+Example 1: 
+ 15 CPD points by attendance at accredited courses 
+ 
+ 
+ 
+Example 2: 
+ 
+ 10 CPD points by writing legal articles  
+ 
+ 
+ 
+PLUS 
+ 5 CPD points by preparation of accredited course materials 
+ 
+ 
+ 
+Example 3:   
+ 8 CPD points by preparation of course materials 
+ 
+PLUS 
+ 7 CPD points by presentation of accredited training courses 
+ 
+ 
+ 
+Example 4: 
+ 15 CPD points by undertaking a distance learning course (which involves an 
+examination) leading to an LL.M. 
+ 
+ 
+Preparation and presentation of approved training courses 
+ 
+ 
+Example 5: 
+Presenter A presents a lecture of 50 minutes at a 4 hour CPD course accredited 
+with 4 CPD points.  Her actual preparation time was 4 hours supported by 
+contemporaneous working papers and results achieved. 
+ 
+CPD points may be awarded to Presenter A as follows: 
+ 
+Presentation time : 50 minutes = 1 hour (rounded up) = 2 CPD points  
+PLUS 
+Preparation time 
+: 4 hours = 4 CPD points but subject to a maximum of 3 
+CPD points = 3 CPD points 
+TOTAL  
+: 5 CPD points 
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  46 
+Example 6:  
+Presenter B presents a lecture of 1 hour 15 minutes at a 3 hour CPD course 
+accredited with 3 CPD points.  His actual preparation time was 5½  hours 
+supported by contemporaneous working papers and results achieved. 
+ 
+CPD points may be awarded to Presenter B as follows: 
+ 
+Presentation time  : 1¼  hours = 1½  hours (rounded up) = 3 CPD points 
+PLUS 
+Preparation time 
+: 5½  hours = 5½  CPD points but subject to a maximum of 
+4½  CPD points = 4½  CPD points 
+ 
+TOTAL 
+: 7½  CPD points 
+ 
+ 
+Example 7: 
+  
+ 
+(a) 
+Presenter C presents a lecture of 2 hours at a 3 hour CPD course accredited 
+with 3 CPD points.  His actual preparation time was 10 hours supported by 
+contemporaneous working papers and results achieved. 
+ 
+CPD points may be awarded to Presenter C as follows: 
+ 
+Presentation time  : 2 hours = 4 CPD points 
+PLUS 
+Preparation time : 10 hours = 10 CPD points but subject to a maximum of 6 
+CPD points = 6 CPD points 
+TOTAL 
+: 10 CPD points 
+ 
+(b) 
+Presenter C remains in attendance for the entire 3 hours of the course (that is, 
+one hour in addition to his actual presentation time).  He is entitled to claim an 
+additional 1 CPD point for his attendance bringing the number of CPD points 
+which he may claim to 11 CPD points. 
+ 
+ 
+Example 8:   
+A trainee solicitor assisted Presenter C in the preparation for the course by 
+spending 7 hours of actual preparation supported by contemporaneous working 
+papers and results achieved.  He will be entitled to claim up to 6 CPD points 
+for such preparation (that is, 3 times the actual presentation time (2 hours) of 
+Presenter C). 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  47 
+SUSPENSION OF THE CPD REQUIREMENT 
+ 
+What is a suspension of the CPD requirement? 
+ 
+Solicitors who are holding current practising certificates but who are not in practice as a 
+solicitor, and trainee solicitors who are employed as a trainee solicitor outside Hong Kong, 
+for any period not shorter than 70 days may apply to suspend the CPD requirement for such 
+period. During that period they are not required to undertake any CPD activities.  Any CPD 
+activity undertaken during the suspension period will not be counted for CPD purposes. 
+ 
+In order to apply for a suspension of the CPD requirement, the period of absence from 
+practice in Hong Kong must relate to any one period running continuously for 70 days or 
+more.  An aggregate of various periods of absences during the year each lasting for less than 
+70 days but totaling 70 days or more will not entitle a solicitor or a trainee solicitor to a 
+suspension.  
+ 
+ 
+Who can suspend the CPD requirement? 
+ 
+The CPD Rules only apply to trainee solicitors and solicitors holding a current practising 
+certificate. It is therefore unnecessary for solicitors to apply for a CPD suspension for the 
+period during which they do not hold a practising certificate.  
+ 
+Solicitors must make an application to the Society to suspend the CPD requirement if they 
+are: 
+ 
+1. Not in practice as a solicitor. This would apply, where, despite holding a current 
+practising certificate, a solicitor: 
+(i) 
+is unemployed  
+(ii) is on maternity leave, or 
+(iii) is not required to act as a solicitor.  
+ 
+2. In practice outside Hong Kong. This would apply where a solicitor is out of 
+practice due to working abroad. 
+ 
+3. Absent from work as a result of illness. This would apply where the solicitor is 
+absent from practice due to long term illness.  
+  
+Trainee solicitors must make an application to the Society to suspend the CPD requirement 
+if they are: 
+ 
+1. Employed as a trainee solicitor outside Hong Kong. This would apply only if it 
+is for a period permitted by the Society. 
+ 
+2. Absent from work as a result of illness. This would apply where a trainee 
+solicitor is absent from work due to long term illness. 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  48 
+What must practitioners do in order to obtain a CPD suspension? 
+ 
+Practitioners must make an application to the Society for a suspension of their CPD 
+requirement. Applications should be directed to the Assistant Director, Professional 
+Development. The Society may require the practitioner to submit a statutory declaration in 
+support of the application.  When any suspension is granted, the Society will confirm the 
+number of CPD point(s) outstanding for that CPD practice year at the date of CPD 
+suspension. 
+ 
+It should be noted that if a practitioner: 
+ 
+(a) 
+Applies for and is granted a CPD suspension, any training undertaken during 
+the suspension will not be counted towards the CPD requirement on return to 
+practice or employment. 
+ 
+(b) 
+Does not apply for a suspension, he may be required to meet the CPD 
+requirement in full for that period.  
+ 
+Practitioners should enter in their CPD training record the date that any CPD suspension was 
+granted by the Society, the dates the CPD suspension commenced and concluded and the 
+reason for the CPD suspension. 
+ 
+ 
+Circumstances under which a CPD suspension granted may be void and/or 
+ineffective 
+ 
+The CPD suspension granted to solicitors and trainee solicitors will become void and 
+ineffective under the following circumstances: 
+ 
+(a) 
+where a solicitor or trainee solicitor has been granted a CPD suspension on the basis 
+that the solicitor or trainee solicitor will be absent from practice or employment for 70 
+days or more; and the solicitor or trainee solicitor returns to practice or employment in 
+Hong Kong before the expiry of the 70 days; 
+ 
+(b) 
+where a solicitor has been granted CPD suspension and during the CPD suspension, the 
+practising certificate of the solicitor expires; the solicitor does not renew his practising 
+certificate and the period commencing from the effective date of the CPD suspension 
+to the date of expiry of the practising certificate of the solicitor is less than 70 days. 
+ 
+Example 1  
+ 
+A solicitor was granted a CPD suspension effective from 5 February 2014 on the basis that he 
+would be out of Hong Kong for more than 70 days from 5 February 2014. However, he 
+resumed practice as a solicitor in Hong Kong on 1 April 2014.  The CPD suspension granted 
+to him became void and ineffective because there were less than 70 days between 5 February 
+and 31 March 2014, the day prior to his resumption of practice. 
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  49 
+Example 2  
+ 
+A solicitor was granted a CPD suspension effective from 28 October 2014. He did not apply 
+to renew his practising certificate when it expired on 31 December 2014. As solicitors are 
+only subject to the CPD Rules if they hold a current practising certificate, and the solicitor 
+has not held a practising certificate since 1 January 2015, the solicitor is not entitled to claim 
+any CPD suspension from 1 January 2015. The CPD suspension granted to him from 28 
+October 2014 became void and ineffective as there were less than 70 days between 28 
+October and 31 December 2014, the expiry date of his 2014 practising certificate. 
+ 
+ 
+The CPD requirement for practitioners returning to work  
+ 
+A practitioner's CPD requirement on return to work will depend on how many CPD point(s) 
+he has accrued before the suspension began, how many CPD point(s) will be required after 
+the resumption of work and whether any excess point(s) may be carried over. 
+ 
+ 
+Determination of a practitioner's CPD requirement on return to work  
+ 
+A practitioner's CPD requirement will be determined by adding together a pro-rata of the 
+annual CPD point(s) that were required to be undertaken up to the date of his CPD 
+suspension (in accordance with Table C or Table D on pages 49 and 50 as the case may be), 
+with a pro-rata of the annual CPD point(s) that will be required from the date of his return to 
+practice or employment to the end of the CPD practice year (in accordance with Table E on 
+page 50), taking into account any excess point(s) permissible. 
+ 
+Table C applies where a practitioner’s CPD requirement arise from 1 November in the CPD 
+practice year.  However, where a practitioner comes within the ambit of the CPD Scheme 
+after the commencement of the CPD practice year and is granted a suspension later in the 
+same year, Table D applies. 
+ 
+Any enquiries should be directed to the Assistant Director, Professional Development on 
+2846-0521 or e-mail to adpd@hklawsoc.org.hk 
+ 
+ 
+Date of suspension 
+ 
+ 
+Number of CPD point(s) to be 
+accumulated 
+1 November to 15 November 
+0 
+16 November to 15 December   
+1 
+16 December to 15 January      
+2½  
+16 January to 15 February 
+4 
+16 February to 15 March 
+5 
+16 March to 15 April  
+6 
+16 April to 15 May 
+7½  
+16 May to 15 June 
+9 
+16 June to 15 July 
+10 
+16 July to 15 August 
+11 
+16 August to 15 September 
+12½  
+16 September to 15 October  
+14 
+16 October to 31 October 
+15 
+Table C  
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  50 
+ 
+ 
+ 
+ 
+Actual duration in practice or 
+employment under a trainee 
+solicitor contract prior to 
+suspension 
+ 
+ 
+Number of CPD point(s) to be 
+accumulated 
+ 
+0 –   15 days 
+0 
+16 –   45 days 
+1 
+46 –   75 days 
+2½  
+76 – 105 days 
+4 
+106 – 135 days 
+5 
+136 – 165 days 
+6 
+166 – 195 days 
+7½  
+196 – 225 days 
+9 
+226 – 255 days 
+10 
+256 – 285 days 
+11 
+286 – 315 days 
+12½  
+316 – 345 days 
+14 
+346 – 365 days 
+15 
+ 
+ 
+ 
+Table D 
+ 
+  
+ 
+Date of return to practice / 
+resumption of training in Hong 
+Kong under trainee solicitor 
+contract 
+ 
+ 
+Number of CPD point(s)  
+to be accumulated 
+ 
+1 November to 15 November 
+15 
+16 November to 15 December   
+14 
+16 December to 15 January      
+12½   
+16 January to 15 February 
+11 
+16 February to 15 March 
+10 
+16 March to 15 April  
+9 
+16 April to 15 May 
+7½   
+16 May to 15 June 
+6 
+16 June to 15 July 
+5 
+16 July to 15 August 
+4 
+16 August to 15 September 
+2½   
+16 September to 15 October  
+1 
+16 October to 31 October 
+0 
+ 
+Table E 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  51 
+Example 1: 
+  
+ 
+CPD requirement 
+ 
+ 
+ 
+Commencement date of CPD suspension: 10 November 2014 
+ 
+0 CPD point 
+ 
+ 
+         + 
+Date of return to work: 20 April 2015 
+ 
+7½  CPD points 
+ 
+ 
+ 
+CPD REQUIREMENT – 20.4.2015 to 31.10.2015 
+= 7½  CPD POINTS 
+ 
+ 
+Making up a shortfall in the CPD requirement at the date of CPD suspension 
+ 
+A practitioner who has not undertaken all of his CPD requirement in the CPD practice year in 
+which the suspension began must make up any shortfall on his return to work. 
+ 
+ 
+Example 2: 
+ 
+CPD 
+requirement 
+Actual CPD 
+points accrued 
+Commencement date of CPD suspension: 18 December 2014 2½  CPD points   
+1 CPD point 
+Date of return to work: 6 March 2015 
+10 CPD points 
+ 
+Shortfall in CPD points at 18 December 2014: 
+1½  CPD points 
+ 
+ 
+ 
+ 
+CPD REQUIREMENT - 6.3.2015 to 31.10.2015 
+= 12½  CPD points less 1 accrued CPD  
+point 
+= 11½  CPD points     
+ 
+Carrying over excess CPD point(s) 
+ 
+1. 
+A practitioner who ceases practice or employment in one CPD practice year and 
+resumes practice or employment in the same CPD practice year, on return to practice 
+or employment, will be allowed to carry over any excess CPD point(s) accumulated at 
+the date of CPD suspension. 
+ 
+ 
+Example 3: 
+ 
+CPD 
+requirement      
+Actual CPD 
+points accrued 
+Commencement date of CPD suspension: 10 December 2014 1 CPD point      
+4 CPD points 
+ 
+ 
+ 
+Date of return to work: 15 July 2015   
+5 CPD points           
+ 
+ 
+ 
+CPD REQUIREMENT - 1.11.2014 to 31.10.2015    
+= 6 CPD points 
+ 
+Balance of CPD points required before 31.10.2015 
+= 2 CPD points 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  52 
+2. 
+A practitioner who ceases practice or employment in one CPD practice year and 
+resumes practice or employment in another CPD practice year, on return to practice or 
+employment, will be allowed to carry over excess CPD point(s) to a maximum of 10 
+CPD points from the CPD practice year in which the CPD suspension commenced 
+(Year X) to the CPD practice year in which practice or employment is resumed (Year 
+Y) only if Year Y is the immediate succeeding CPD practice year following Year 
+X. 
+ 
+ 
+Example 4:      
+ 
+CPD requirement 
+Actual CPD 
+points accrued 
+Commencement date of CPD suspension: 16 May 2013 
+9 CPD points 
+15 CPD points 
+Excess CPD points at 16 May 2013: 
+6 CPD points 
+ 
+ 
+ 
+ 
+Date of return to work: 10 May 2015 
+7½  CPD points 
+ 
+(Not permitted to carry over the excess 6 CPD points) 
+ 
+ 
+ 
+ 
+ 
+CPD REQUIREMENT - 10.05.2015 to 31.10.2015         = 
+7½  CPD points 
+ 
+ 
+ 
+  
+Example 5: 
+ 
+ 
+CPD requirement 
+Commencement date of first practising certificate:     
+1 January 2015 
+ 
+Date of CPD suspension: 
+1 July 2015 
+7½  CPD points 
+Date of return to work: 
+ 
+12 September 2015 
+2½  CPD points 
+ 
+ 
+ 
+CPD REQUIREMENT for the CPD practice year ending 31 October 2015: 
+10 CPD points 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  53 
+CPD TRAINING RECORD 
+ 
+ 
+The Society does not keep records of individual practitioners’ attendance at courses. All 
+practitioners subject to the CPD Scheme are required to maintain their own record of their 
+training activities with sufficient details for verification purposes.  A recommended CPD 
+training record form can be downloaded from the Society’s website at www.hklawsoc.org.hk.  
+ 
+The Society can request production of the training record at any time. 
+ 
+Many firms keep duplicate training records.  However, solicitors are reminded that the onus 
+is on the individual to maintain the training record.  Practitioners who are unable to produce 
+the training record may be required to undertake the training again.  
+ 
+Practitioners should ensure that all the relevant details of all CPD courses or activities 
+undertaken are entered onto the CPD training record. 
+ 
+NOTE:  CPD training records should be retained for at least two (2) CPD practice years 
+after the period to which it relates.  In any event, the CPD training record for the CPD 
+practice year in which a practitioner last engaged in practice must also be retained as 
+supporting evidence for his statement of CPD compliance should he later resume his 
+practice and apply for renewal of his practising certificate.  If any of the CPD points 
+recorded in the training record involve CPD point(s) carried over from the preceding 
+CPD practice years, the CPD training records for all relevant years should also be 
+retained as supporting evidence for audit purposes. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  54 
+ATTENDANCE AT ACCREDITED CPD COURSES 
+ 
+ 
+Attendance policy 
+ 
+With effect from 1 November 2008, a practitioner should not claim any CPD points if he is 
+absent from the course (excluding scheduled breaks) for more than 10 minutes for a course of 
+less than 3 hours or for more than 30 minutes for a course of 3 hours or more in duration. 
+ 
+ 
+The following attendance policy applied until 31 October 2008:  
+ 
+(a) 
+For a course of less than 60 minutes in duration, any course participants who is absent 
+for any period during the course, including late arrivals or early departures, will not 
+receive any CPD points for that course. 
+ 
+(b) 
+For a course of 60 minutes or more in duration, a grace period of 10 minutes for either 
+late arrival or early departure (but not both in the same course) will be permitted 
+without deduction of any CPD points.  Any course participant who is otherwise absent 
+during the course apart from scheduled breaks will not receive any CPD points for 
+that course.  
+ 
+(c) 
+For a course of 3 hours or more but less than 6 hours in duration,   
+ 
+(i) 
+1 CPD point will be deducted for any late arrival or early departure beyond the 
+10 minutes’ grace period of up to 30 minutes from the commencement of the 
+course; 
+ 
+(ii) 
+any course participant who arrives late or leaves early for more than 30 
+minutes or who is otherwise absent during the course apart from scheduled 
+breaks will not receive any CPD points for that course. 
+ 
+(d) 
+For a course of 6 hours or more in duration,   
+ 
+(i) 
+1 CPD point will be deducted for any late arrival or early departure beyond the 
+10 minutes’ grace period of up to 30 minutes from the commencement or 
+before the end of the course; 
+ 
+(ii) 
+2 CPD points will be deducted for any late arrival or early departure beyond 
+the 10 minutes’ grace period of more than 30 minutes and up to 60 minutes 
+from the commencement or before the end of the course; 
+ 
+(iii) 
+any course participant who arrives late or leaves early for more than 60 
+minutes or who is otherwise absent during the course apart from scheduled 
+breaks will not receive any CPD points for that course. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  55 
+Where a course participant both arrives late and leaves early in the same course, the grace 
+period or partial award of CPD points will not apply. In such cases, no CPD points will be 
+awarded for attendance at that course.    
+ 
+Where courses last for more than one day and have been accredited as a whole (i.e. not on a 
+segmented basis), the attendance policy will apply on a day-to-day basis. 
+ 
+When attending courses, practitioners should notify the provider that they will claim CPD 
+points and should make sure that their attendance at the entire course is noted (e.g. by 
+scanning membership cards where there is a computerised scanning system, or by signing in 
+and signing out of the course where such a system is not implemented.) 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  56 
+SEGMENTED ACCREDITATION OF CPD COURSES 
+ 
+ 
+Attendance at all segments and days (as the case may be) of a CPD course of one or more 
+days in duration is necessary in order to obtain CPD point(s). No CPD points will be awarded 
+for partial attendance, except in the circumstances outlined in the attendance policy and in 
+this section. 
+ 
+Where courses last for more than one day and have been accredited as a whole (i.e. not on a 
+segmented basis), the attendance policy will apply on a day-to-day basis. 
+ 
+Members are reminded to check with the course provider about the number of CPD point(s) 
+that have been granted by the CPD Accreditation Sub-Committee to a course of one or more 
+days in duration. 
+ 
+Accreditation of a programme on a segmented basis will be granted by the CPD 
+Accreditation Sub-Committee only where it is appropriate to do so, that is, where the various 
+sessions/segments of the course are discrete, and where segmented accreditation will not 
+detract from the educational value of the course. 
+ 
+Where the course provider has applied successfully to the CPD Accreditation Sub-Committee 
+for accreditation of individual segments or days of a course of one or more days in duration, 
+solicitors and trainee solicitors attending an accredited segment(s) or day(s) of the course in 
+full will be entitled to claim the CPD point(s) accredited to that segment(s) or day(s). Where 
+solicitors and trainee solicitors attend a few segments, the duration of all the segments 
+attended will be aggregated before the CPD points accredited are rounded down to the nearest 
+half point.  
+ 
+ 
+Claiming CPD points for attending a segmented course 
+ 
+A conference has been accredited on a segmented basis. The conference has 4 sessions. 
+ 
+Sessions:  
+ 
+Duration: 
+ 
+Session I 
+ 
+45 minutes 
+Session II 
+ 
+1 hour 45 minutes  
+Break  
+ 
+15 minutes  
+Session III 
+ 
+1 hour 30 minutes 
+Lunch   
+ 
+1 hour 
+Session IV 
+ 
+3 hours 15 minutes  
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  57 
+Example 1: 
+ 
+A practitioner who has attended Sessions I, II, III and IV may claim the following: 
+ 
+Total duration of attendance:  
+ 
+45 minutes + 1 hour 45 minutes + 1 hour 30 minutes + 3 hours 15 minutes  
+= 7 hours 15 minutes 
+ 
+Total number of CPD points obtained:  7 CPD points (rounded down to the nearest half point) 
+ 
+ 
+Example 2: 
+ 
+A practitioner who has attended Sessions I and III may claim the following: 
+ 
+Total duration of attendance:  
+ 
+45 minutes + 1 hour 30 minutes = 2 hours 15 minutes 
+ 
+Total number of CPD points obtained:  2 CPD points (rounded down to the nearest half point) 
+ 
+ 
+Where courses have been accredited on a segmented basis, the attendance policies are: 
+ 
+(a) 
+a practitioner cannot claim any CPD points in respect of a segment of less than 3 
+hours where he is absent (excluding any scheduled breaks) from that segment for 
+more than 10 minutes;   
+ 
+(b) 
+ a practitioner cannot claim any CPD points in respect of a segment of 3 hours or more 
+where he is absent (excluding any scheduled breaks) from that segment for more than 
+30 minutes. 
+ 
+ 
+Example 3: 
+ 
+A practitioner who has attended Sessions I, II, III and IV but was late for Session I for 15 
+minutes, he is not eligible to claim any CPD point for Session I. He may claim the following 
+CPD points for his attendance at Sessions II, III and IV only: 
+ 
+Total duration of attendance:  
+ 
+1 hour 45 minutes + 1 hour 30 minutes + 3 hours 15 minutes = 6 hours 30 minutes 
+ 
+Total number of CPD points obtained: 6.5 CPD points 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  58 
+ 
+Example 4: 
+ 
+A practitioner who has attended Sessions I, II, III and IV but was late for Session IV for 35 
+minutes, he is not eligible to claim any CPD point for Session IV. He may claim the 
+following CPD points for his attendance at Sessions I, II and III only: 
+ 
+Total duration of attendance:  
+ 
+45 minutes + 1 hour 45 minutes + 1 hours 30 minutes = 4 hours 
+ 
+Total number of CPD points obtained: 4 CPD points 
+ 
+ 
+Any enquiries should be directed to the Assistant Director, Professional Development on 
+2846-0521 or e-mail to adpd@hklawsoc.org.hk 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  59 
+EXEMPTION FROM THE CPD REQUIREMENT 
+ 
+ 
+As the CPD Scheme is an ongoing requirement for those practitioners coming within it, the 
+system of exemptions that applied under the CLE Scheme (which had application to a limited 
+category of practitioners and for only a limited period) has no relevance under the CPD 
+Scheme. 
+ 
+The granting of exemptions from the operation of the CPD Scheme will be considered on a 
+case-by-case basis only where exceptional circumstances exist. An exemption may be granted 
+where it is fair and reasonable to do so. 
+ 
+Since 1 January 2003, the following exemption policy has been in force: 
+ 
+Upon an application being made to the Society, an exemption from compliance with the 
+annual CPD requirement may be provided to a solicitor who meets all of the following 
+criteria: 
+ 
+(a) 
+he has been in practice as a solicitor for a period of 40 years or more, or he is over 70 
+years old; 
+ 
+(b) 
+he gives an undertaking to the Society that he is not in active practice; and 
+ 
+(c) 
+he undertakes to notify the Society immediately if circumstances in relation to 
+paragraph (b) change. 
+ 
+For the purposes of this policy only, a solicitor will not be regarded as being in “active 
+practice” if the only activities that he engages in as a solicitor are: 
+ 
+(1) 
+administering oaths; and/or 
+(2) 
+taking affidavits or declarations; and/or 
+(3) 
+certifying documents. 
+ 
+Applications should be directed to the Assistant Director, Professional Development. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  60 
+MONITORING COMPLIANCE WITH THE MANDATORY 
+CPD REQUIREMENT 
+ 
+ 
+1. 
+A solicitor will be required, at the time of applying for renewal of his practising 
+certificate (usually in November), to make a statement of compliance that he has 
+complied with the CPD requirement for the preceding CPD practice year. 
+ 
+A trainee solicitor will be required to make a declaration in his Form 4 Application 
+for a Certificate of Eligibility for Admission that he has complied with the 
+requirement of the CPD Scheme. 
+  
+A false or incorrect statement may constitute professional misconduct and may lead to 
+disciplinary actions. 
+ 
+2. 
+The Society may conduct random checks to ensure compliance with mandatory CPD 
+requirements.  
+ 
+The Society may: 
+ 
+ request sight of a practitioner’s CPD training record at any time; 
+ 
+ require a practitioner to produce such information relating to his participation in 
+the CPD Scheme as may be specified; and  
+ 
+ require a practitioner to attend the Society in person and furnish such additional 
+evidence as to participation in the CPD Scheme as may be required. 
+ 
+All practitioners must keep their CPD training record for 2 CPD practice years after 
+the period to which it relates for auditing purposes. If the CPD points recorded 
+involve CPD point(s) carried over from previous CPD practice years, the CPD 
+training records for the relevant CPD practice years must also be retained as 
+supporting evidence for audit purposes. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  61 
+FAILURE TO COMPLY WITH THE CPD 
+REQUIREMENT 
+ 
+The Council has the power under section 6 of the Legal Practitioners Ordinance to refuse to 
+issue a practising certificate to an applicant who has not complied with the CPD Rules, or to 
+suspend or cancel the practising certificate of a solicitor. 
+ 
+The Council’s policy in the event of failure to comply with the CPD requirement ascertained 
+during: 
+ 
+General Audit: 
+ 
+In the absence of acceptable mitigating factors, solicitors who did not acquire the necessary 
+CPD points for the preceding CPD practice year shall, unless the outstanding CPD point(s) 
+was subsequently acquired by a deadline specified by the Society, be subject to suspension or 
+cancellation of their current practising certificate.  
+ 
+Practising Certificate Applications: 
+ 
+1. 
+In the absence of acceptable mitigating factors, the Council may refuse to issue a 
+practising certificate to a solicitor who fails to acquire the necessary CPD point(s) by  
+15 December pursuant to its powers under section 6 (5)(d) of the Legal Practitioners 
+Ordinance.  
+ 
+2. 
+Applications for renewal of practising certificates by solicitors who had not acquired 
+the necessary CPD point(s) by 31 October, but did acquire the necessary CPD point(s) 
+by 15 December, will be processed in the usual way.   
+ 
+3. 
+Failure by a solicitor to acquire the necessary CPD point(s) by the end of a CPD 
+practice year may be referred to the Conduct Section of the Compliance Department 
+of the Society for investigation. 
+ 
+Breaches of the CPD requirement  
+ 
+Breaches of the CPD requirement are regarded by the Council as professional misconduct. 
+Mitigating factors will be taken into account in assessing individual cases.  Serious cases will 
+be referred to a Disciplinary Tribunal. Sanctions by the Disciplinary Tribunal may involve 
+imposition of a fine, censure, suspension or striking off of solicitors, and cancellation or 
+suspension of a trainee solicitor contract.  
+ 
+Form 4 declaration of compliance by trainee solicitors 
+ 
+In addition to complying with the requirement to acquire 15 CPD points (or a pro-rata as 
+applicable) during a CPD practice year, a trainee solicitor is required to have accumulated 30 
+CPD points by the end of his period of employment as a trainee solicitor. Trainee solicitors 
+must declare in the Form 4 Application for a Certificate of Eligibility for Admission that they 
+have accumulated the number of CPD points that is required by section 5 of the CPD Rules to 
+be accumulated by the end of their period of employment as a trainee solicitor. 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  62 
+Any failure to comply with section 5 of the CPD Rules by trainee solicitors (including failure 
+to comply with the pro-rata acquisition of CPD points during each CPD practice year of the 
+trainee solicitor contract) may be referred to the Conduct Section of the Compliance 
+Department of the Society for investigation. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  63 
+COURSE AND PROVIDER ACCREDITATION 
+ 
+1. 
+Application 
+ 
+In order for a course to be awarded with CPD point(s), a separate application for 
+accreditation of each course must be made by the provider of the course to the CPD 
+Accreditation Sub-Committee. The application must be made on the Society's 
+standard form and sent to the Assistant Director, Professional Development at least 4 
+weeks before the scheduled date of the course. If the application is incomplete, 
+accreditation may take 4 weeks from the date of submission of the complete 
+application. 
+ 
+All changes to the information submitted to the Society in relation to an application 
+for CPD course accreditation shall be notified to the Society as soon as the changes 
+are made and in any event prior to the commencement of the course. 
+ 
+ 
+2. 
+No Retrospective Accreditation 
+ 
+It is not possible to accredit CPD point(s) after any course has taken place.  However, 
+in exceptional circumstances, the Society may accredit an overseas course on a 
+retrospective basis, subject to certain conditions. Please refer to Guideline 6 on page 
+11 and page 12 of this Information Package for details. 
+ 
+ 
+3. 
+Documents and Information Required on Application for Course Accreditation 
+ 
+(a) 
+a detailed outline of what will be covered in the course and by whom;  
+ 
+(b) 
+a programme showing the sequence of speakers, the method(s) of teaching, 
+e.g. lecture, participatory case study, role-play, discussion, question and 
+answer, and the amount of time which each speaker will spend on each area; 
+ 
+(c) 
+an outline of the course materials which will be provided to participants; and 
+ 
+(d) 
+a brief up-to-date resume of each speaker's professional qualifications, legal 
+background and any teaching experience which they each have.   
+ 
+ 
+4. 
+Honour-based CPD Scheme 
+ 
+(a) 
+Course providers should note the Society’s introduction of an honour-based 
+CPD Scheme with effect from 1 November 2008 as set out on page 2 of this 
+Information Package.  
+ 
+(b) 
+Under the honour-based CPD Scheme, the scanning system becomes optional. 
+Unless the Society has made a specific request, course providers are no longer 
+required to submit the attendance records of each accredited course to the 
+Society within 7 days of the course. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  64 
+(c) 
+Course providers are required to keep the attendance record of an accredited 
+CPD course for 4 CPD practice years from the end of the CPD practice 
+year during which the course is held. 
+ 
+(d) 
+The attendance record kept by a course provider may be in any form as 
+decided by the course provider on condition that it is sufficiently clear to 
+support the entitlement to the number of CPD point(s) claimed by a participant 
+for his attendance.   
+ 
+(e) 
+A participant shall not be entitled to claim any CPD point(s) if he is absent 
+from the course (excluding scheduled breaks) for more than 10 minutes for a 
+course of less than 3 hours or for more than 30 minutes for a course of 3 hours 
+or more.   
+ 
+(f) 
+By way of reference, the Society as a course provider will no longer record 
+attendance by scanning. Instead, attendees will be required to register their 
+attendance upon arrival at the venue by production of their Law Society 
+membership card or Hong Kong identity card.   
+ 
+5. 
+Administrative Matters 
+ 
+(a) 
+Course providers should note the attendance policy and policy on segmented 
+accreditation of CPD courses contained in pages 54 to 58 of this Information 
+Package. 
+ 
+The requirement for course providers to submit all computerised attendance 
+records generated from a computerised scanning system in respect of an 
+accredited course to the Assistant Director, Professional Development within 7 
+days of the course in order for the participants to gain their CPD points 
+applied until 31 October 2008.  Upon the implementation of the honour-based 
+CPD Scheme on 1 November 2008, the scanning system has become optional. 
+Unless the Society has made a specific request, course providers are no longer 
+required to submit the attendance records of each accredited course to the 
+Society within 7 days of the course.  
+ 
+(b) 
+All accredited courses must be evaluated by participants attending the course 
+in a manner approved by the Society. 
+ 
+(c) 
+Course providers shall promptly submit a full set of course materials to the 
+Society upon request by the Society at any time after application for 
+accreditation has been submitted or within a reasonable period after the course 
+is held. 
+ 
+A summary of evaluation forms must be forwarded to the Assistant Director, 
+Professional Development within 7 days of the course. 
+ 
+(d) 
+Course providers must carefully monitor the delivery of the course.  If the 
+course finishes more than 30 minutes before its scheduled finish time, ½  CPD 
+point will be deducted for every half hour.   
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  65 
+ 
+By way of example, take the case of a course which started at 9:30 a.m., was 
+scheduled to finish at 12:45 p.m. and was accredited with 3 CPD points: 
+ 
+(i) 
+If it finished at 12:30 p.m., i.e. 15 minutes before the scheduled finish 
+time, no CPD points will be deducted. Participants who had not been 
+late for more than 10 minutes and who stayed until the course ended at 
+12:30 p.m. would be awarded with 3 CPD points. 
+  
+(ii) 
+If it finished at 12 noon, i.e. 45 minutes before the scheduled finish 
+time, on the basis of the shortened duration of the course, ½  CPD point 
+will be deducted. 
+ 
+(e) 
+(i) 
+Course providers are required to state clearly in their CPD course 
+promotional materials: 
+ 
+ 
+ the course objectives; 
+ the course coverage; 
+ the intended learning outcomes; 
+ the target audience and the level of prior knowledge / experience 
+assumed; and      
+ a description of the presenters’ areas of practice. 
+ 
+(ii) 
+Course providers are required to ensure that presenters of the same 
+course do communicate with each other to discuss how the course is to 
+be conducted and that steps be taken to ensure that the course 
+information on the promotional materials are accurate and reflect truly 
+how the course is to be conducted. 
+ 
+(f) 
+A demerit points system is in place to promote quality control and efficient 
+administration of CPD courses by accredited course providers.  (Please refer to 
+pages 67 to 68 of this Information Package for details.)  The performance of 
+course providers including any irregularities in the conduct of accredited 
+courses will be taken into account when their accredited course provider status 
+is reviewed annually.   
+ 
+ (g) 
+A course number will be generated and given to a course provider once a 
+course has been accredited with CPD point(s).  Course providers should not 
+assume that a course will be accredited with CPD point(s) unless and until 
+they receive, from the Society, the respective course number and/or a 
+confirmation of the number of CPD point(s) accredited to the course. 
+ 
+ 
+6. 
+Prescribed Fee  
+ 
+A fee will be charged on course-by-course accreditation of CPD courses.  The rates 
+vary for commercial and non-commercial providers. Course providers may be 
+requested to produce a copy of their constitutional document to confirm the applicable 
+rate of prescribed fee. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  66 
+7. 
+Provider Accreditation 
+ 
+The Society is also implementing an accreditation scheme for organisations. In order 
+to be considered for Provider Accreditation, it will be necessary for an organisation 
+to: 
+ 
+(a) 
+have established a suitable track record of 
+ 
+(i) 
+obtaining individual course accreditation for CPD courses; 
+ 
+(ii) 
+providing a reasonable number of accredited courses over a reasonable 
+period (usually at least 10 hours of courses over 12 months); and 
+ 
+(iii) 
+compliance 
+with 
+course-by-course 
+accreditation 
+criteria 
+and 
+conditions. 
+ 
+(b) 
+have a suitable training infrastructure; and 
+ 
+(c) 
+have a general favourable assessment of the accredited courses by the 
+participants. 
+ 
+The number of courses held by an accredited course provider is a factor which will be 
+taken into account when considering an application for renewal of its accredited 
+course provider status. The general guideline is that an accredited course provider 
+should hold at least 10 hours of courses in a CPD practice year.         
+ 
+ 
+8. 
+Monitoring of Accredited Courses by the Society’s Representatives 
+ 
+Course providers shall permit any person nominated by the Society to attend any CPD 
+courses free of charge for the purpose of monitoring the CPD course to ensure the  
+course provider’s compliance with the Guidelines and Rules as set out in this 
+Information Package. 
+ 
+ 
+Any enquiries on course accreditation should be directed to the Assistant Director, 
+Professional Development on 2846-0521 or e-mail to adpd@hklawsoc.org.hk. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  67 
+DEMERIT POINTS SYSTEM 
+ 
+(Reference: Course and Provider Accreditation paragraph 5(f) on page 65) 
+ 
+1. 
+The Demerit Points System is aimed at promoting quality control and efficient 
+administration of CPD courses by accredited course providers. 
+ 
+2. 
+Failure to comply with the terms and conditions of CPD course provider accreditation 
+will attract Demerit Point(s). A list of items together with the Demerit Point(s) that 
+they attract are set out on page 68.  The Society may include more items in the list 
+from time to time.   
+ 
+3. 
+Upon discovery of any alleged non-compliance, the Society will inform the course 
+provider the number of Demerit Point(s) incurred by the course provider for that item 
+together with the number of Demerit Point(s) the course provider has incurred within 
+the 12 months preceding the date of notification. If the total number of Demerit Points 
+reaches 5 or more, the accredited course provider status may be suspended for a 
+period to be determined by the CPD Accreditation Sub-Committee.  Any suspension 
+shall not take effect until at least 3 months after written notification has been sent to 
+the course provider.  A suspension of the accredited course provider status has the 
+effect that all applications for accreditation of courses during the period of suspension 
+will have to be submitted on a course-by-course basis at least 4 weeks in advance of 
+the scheduled date of the course together with all supporting documents and the 
+prescribed fee. 
+ 
+4. 
+All Demerit Points which result in a suspension of the accredited course provider 
+status will be spent. 
+ 
+5. 
+The Demerit Points System shall operate without prejudice to the general power of 
+the CPD Accreditation Sub-Committee to take into account all irregularities when it 
+reviews the accredited course provider status of an accredited course provider. 
+ 
+6. 
+A course provider aggrieved by a decision of the CPD Accreditation Sub-Committee 
+may apply in writing to the Standing Committee on Standards and Development for a 
+review of the decision within one month of the date of notification of the decision. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  68 
+List of Irregularities 
+ 
+(Reference: Demerit Points System on page 65) 
+ 
+ 
+Irregularities 
+ 
+Demerit 
+Point(s) 
+ 
+Late submission of notification form, return form or evaluation 
+summary to the Society 
+- 
+late for 14 days or less  
+- 
+late for more than 14 days 
+ 
+ 
+ 
+½  
+1 
+ 
+Change of course particulars (including course title, date, time, venue 
+and language stated on the application or notification form) without 
+notifying  the Society before the course 
+ 
+1 
+ 
+Change of course particulars which would have an impact on 
+accreditation (including speakers, course duration and contents stated 
+on the application or notification form) without notifying the Society 
+before the course 
+ 
+1 
+ 
+Failure to submit return form or evaluation summary to the Society 
+ 
+1 
+ 
+Course duration shortened by over 20% of the scheduled duration 
+ 
+1 
+ 
+Failure to provide written course materials to participants 
+ 
+2 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  69 
+CONTINUING PROFESSIONAL DEVELOPMENT RULES  
+ 
+[Made by the Council of the Law Society of Hong Kong under 
+section 73 of the Legal Practitioners Ordinance 
+(Cap. 159) with the prior approval 
+of the Chief Justice] 
+ 
+1. 
+Omitted 
+ 
+2. 
+Interpretation and definitions 
+ 
+ 
+In these Rules, unless the context otherwise requires - 
+ 
+"continuing professional development" means a course, lecture, seminar or other  
+  
+programme or method of study (whether requiring attendance or not) that is relevant 
+to the needs and professional standards of solicitors, enhances professional 
+competence and complies with guidance issued from time to time by the Society 
+pursuant to section 5(3); 
+ 
+"CPD accreditation points" means the points credited to such a course, lecture, seminar or 
+other programme or method of study under the Scheme; 
+ 
+"practice year" means a period of 12 months ending on 31 October each year in legal practice 
+or in employment as a solicitor or in employment as a trainee solicitor; 
+ 
+"practising certificate" means a certificate issued by the Society under section 6 of the 
+Ordinance;  
+ 
+"Scheme" means the Continuing Professional Development Scheme referred to in section 4; 
+   
+"trainee solicitor" has the meaning assigned to it by rule 2 of the Trainee Solicitors Rules 
+  
+(Cap. 159 sub. leg.). 
+ 
+3. 
+Application 
+ 
+(1) 
+These Rules shall apply to all trainee solicitors and - 
+ 
+(a) 
+from 1 January 1998, to all solicitors holding a current practising 
+certificate who were admitted after 31 December 1993; 
+ 
+(b) 
+from 1 January 1999, to all solicitors holding a current practising 
+certificate who were admitted after 31 December 1991; 
+ 
+(c) 
+from 1 January 2000, to all solicitors holding a current practising 
+certificate who were admitted after 31 December 1988; 
+ 
+(d) 
+from 1 January 2001, to all  solicitors holding a current practising 
+certificate who were admitted after 31 December 1984; 
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  70 
+ 
+(e) 
+from 1 January 2002, to all solicitors holding a current practising 
+certificate who were admitted after 31 December 1979; 
+ 
+(f) 
+from 1 January 2003, to all solicitors holding a current practising 
+certificate.  
+ 
+(2) 
+Where a solicitor to whom these Rules apply has been admitted to practise 
+law in any other jurisdiction prior to his admission in Hong Kong, his admission date for the 
+purposes of the application of these Rules under subsection (1) shall be the date of his 
+admission to practise law in the jurisdiction immediately preceding his admission as a 
+solicitor in Hong Kong. 
+ 
+4. 
+Continuing Professional Development Scheme  
+ 
+The Society shall institute and organise, in accordance with these Rules, a system of 
+continuing professional development for trainee solicitors and solicitors to be known as the 
+Continuing Professional Development Scheme, and, without limiting the generality of the 
+foregoing, may -  
+ 
+(a) 
+provide courses, lectures, seminars or other programmes of instruction; 
+ 
+(b) 
+subject to any conditions - 
+ 
+(i)  
+authorise other persons or organisations to provide courses, 
+lectures, seminars or other programmes of instruction;  
+ 
+(ii) 
+approve courses, lectures, seminars or other programmes of 
+instruction provided by other persons or organisations;  
+ 
+(iii) 
+determine or approve the number of CPD accreditation points 
+to be credited to each course, lecture, seminar, other 
+programme or other method of study provided for under the 
+Scheme;  
+ 
+(iv) 
+authorise other persons or organisations to accredit the number 
+of CPD accreditation points for a course, lecture, seminar or 
+other programme or method of study provided for under the 
+Scheme in accordance with the criteria and guidelines issued 
+from time to time by the Society;   
+ 
+(c) 
+remove any  authorisation or approval referred to in paragraph (b) (i), 
+(ii) and (iv);  
+ 
+(d) 
+revoke or amend any CPD accreditation points accredited under 
+paragraph (b) (iii); and 
+ 
+(e) 
+revoke any determination or approval  referred to in paragraph (b) (iii).  
+ 
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  71 
+ 
+5. 
+Continuing professional development requirements 
+ 
+(1) 
+Subject to subsection (2), a trainee solicitor and a solicitor to whom these 
+Rules apply must accumulate 15 CPD accreditation points each practice year. 
+ 
+Provided that a trainee solicitor to whom these Rules apply must accumulate 30 CPD 
+accreditation points by the end of his period of employment as a trainee solicitor. 
+  
+(2) 
+Where - 
+ 
+(a) 
+a trainee solicitor commences or resumes employment as a trainee 
+solicitor; or 
+ 
+(b) 
+a solicitor commences or resumes legal practice or employment as a 
+solicitor, 
+ 
+at any time after the commencement of a practice year, he must accumulate 
+such CPD accreditation points as determined by the Society in accordance 
+with guidance issued from time to time, but in any case, not more than 15 
+CPD accreditation points in relation to any practice year.   
+ 
+(3) 
+The Society shall provide guidance from time to time as to - 
+ 
+(a) 
+the continuing professional development activities which may be 
+undertaken by trainee solicitors and solicitors in order to comply with 
+the continuing professional development requirements under 
+subsections (1) and (2); and 
+ 
+(b) 
+the method of calculation of CPD accreditation points in relation to 
+ 
+ 
+ 
+such activities. 
+ 
+6. 
+Obligation to keep record and duty to submit information 
+ 
+(1) 
+A trainee solicitor and a solicitor to whom these Rules apply must keep a 
+record in a form approved by the Society of such continuing professional development 
+undertaken to comply with these Rules and produce the record to the Society on demand. 
+ 
+(2) 
+Subject to section 8, a trainee solicitor or a solicitor to whom these Rules 
+apply shall submit to the Council such information relating to his participation in the Scheme 
+within such period and in the manner as may be specified by the Council.  
+ 
+(3) 
+The Council may, if it thinks fit, require a trainee solicitor or a solicitor to 
+whom these Rules apply to attend before it and to furnish such additional evidence as to his 
+participation in the Scheme as the Council may consider necessary.  
+ 
+7. 
+Continuing professional development undertaken pre-admission 
+ 
+A solicitor who has undertaken continuing professional development prior to his 
+admission shall be credited with the relevant number of CPD accreditation points for the 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  72 
+purpose of section 5(1) or (2): 
+ 
+  
+Provided that at the time of undertaking the continuing professional development an 
+application for admission in accordance with the Admission and Registration Rules (Cap. 159 
+sub. leg.) current at that time had been lodged with the Society and a record kept in 
+accordance with section 6. 
+ 
+8. 
+Exemption 
+ 
+(1) 
+The Society may, on the application in writing of a trainee solicitor or a 
+solicitor, exempt the applicant from any or all of the requirements of the Scheme if the 
+Society is satisfied that it is fair and reasonable to grant the exemption.  
+ 
+(2) 
+Where exemption is granted under subsection (1), the Society may impose  
+such conditions as it may consider necessary on the exemption.  
+ 
+9. 
+Suspension 
+ 
+(1) 
+The Society shall, on the application in writing of a trainee solicitor, suspend 
+for the period described in subsection (3) the application of these Rules in relation to the 
+applicant, if he is, for any period not shorter than 70 days - 
+ 
+(a) 
+employed as a trainee solicitor outside Hong Kong for a period 
+permitted by the Society; or  
+ 
+(b) 
+absent from employment as a trainee solicitor as a result of illness. 
+ 
+(2) 
+The Society shall, on the application in writing of a solicitor to whom these 
+Rules apply, suspend for the period described in subsection (3) the application of these Rules 
+in relation to the applicant, if he is, for any period not shorter than 70 days - 
+ 
+(a) 
+not in practice as a solicitor; or  
+ 
+(b) 
+in practice as a solicitor outside Hong Kong; or  
+ 
+(c) 
+absent from work as a result of illness. 
+ 
+ 
+(3) 
+The period of suspension referred to in subsections (1) and (2) shall be the 
+period in respect of which the Society is satisfied under subsection (1) (a) or (b) or (2) (a), (b) 
+or (c). 
+  
+(4) 
+The Society may require the applicant to make a statutory declaration of the 
+facts upon which his application under subsection (1) or (2) is based.  
+ 
+10. 
+Reporting 
+ 
+(1) 
+Any person or organisation providing courses under the Scheme must keep 
+an attendance record for each accredited course of persons who have completed the course.  
+ 
+
+--------------------------------------------------------------------------------
+The Law Society of Hong Kong 
+ 
+(June 2020) 
+  73 
+(2) 
+Such record shall be kept in accordance with the guidelines issued by the 
+Society as amended from time to time.  
+ 
+(3) 
+The Society may require any person or organisation referred to in subsection 
+(1) to produce the record to the Society within 7 days of the completion of the course.  
+ 
+ 
+11. 
+Review 
+ 
+(1) 
+A person aggrieved by a decision made by or on behalf of the Society in 
+respect of the operation of the Scheme may apply in writing to the Council for a review of the 
+decision within 1 month after being informed of the decision.  
+ 
+(2) 
+The Council may consider the application and may confirm or vary the 
+decision made by or on behalf of the Society.  
+ 
+12. 
+Omitted 
+ 
+13. 
+Omitted 
+ 
+14. 
+Transitional 
+ 
+(1) 
+Notwithstanding the definition of “practice year” in section 2, the practice year 
+for the period ending 31 October 2001 shall be the period between 1 January 2001 and 31 
+October 2001. 
+ 
+(2) 
+Section 5 shall have effect in relation to the practice year in subsection (1) as 
+if the reference in that section to 15 CPD accreditation points were a reference to 12½  CPD 
+accreditation points. 
+ 
+  
+ 
+ 
+
+--------------------------------------------------------------------------------

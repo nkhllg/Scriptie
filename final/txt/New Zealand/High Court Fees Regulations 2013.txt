@@ -1,0 +1,1606 @@
+High Court Fees Regulations 2013
+(SR 2013/226)
+Jerry Mateparae, Governor-General
+Order in Council
+At Wellington this 20th day of May 2013
+Present:
+His Excellency the Governor-General in Council
+Pursuant to section 18(4) of the Administration Act 1969, section 11(4) of the Admir‐
+alty Act 1973, section 100A of the Judicature Act 1908, sections 57 and 339(g) of
+the Lawyers and Conveyancers Act 2006, sections 67(2)(b) and 70(2) of the Local
+Government (Rating) Act 2002, section 52 of the Māori Trustee Act 1953, section
+363(d) of the Property Law Act 2007, section 147 of the Public Trust Act 2001, and
+section 41 of the Trustee Companies Act 1967, His Excellency the Governor-General,
+acting—
+(a)
+on the advice and with the consent of the Executive Council; and
+(b)
+to the extent that these regulations prescribe the fees referred to in section
+12BA of the Māori Trustee Act 1953, on the recommendation of the Minister
+of Māori Affairs,—
+makes the following regulations.
+Note
+The Parliamentary Counsel Office has made editorial and format changes to this version using the powers
+under subpart 2 of Part 3 of the Legislation Act 2019.
+Note 4 at the end of this version provides a list of the amendments included in it.
+These regulations are administered by the Ministry of Justice.
+Version
+as at 1 July 2024
+1
+
+--------------------------------------------------------------------------------
+Contents
+Page
+1
+Title
+3
+2
+Commencement
+3
+3
+Application
+3
+4
+Interpretation
+3
+Prescribed fees
+5
+Fees of court
+5
+6
+Fees payable by liquidators of companies without assets
+6
+7
+Application of fees for items 18 to 20 (hearings)
+6
+8
+Minimum and maximum fee (commission) payable by vendor
+mortgagee under section 194(1)(c) of Property Law Act 2007
+6
+Scheduling fees and hearing fees
+9
+Prepayment of scheduling fees and estimated hearing fees
+6
+10
+Failure to prepay scheduling fees or estimated hearing fees
+7
+11
+Payment of balance of hearing fees if hearing exceeds estimated
+hearing time
+8
+12
+Refund of prepaid hearing fees if hearing shorter than estimated
+hearing time
+8
+13
+Refund of prepaid hearing fees if application or proceeding settled,
+discontinued, abandoned, or determined before hearing date
+8
+14
+Hearing fees in proceedings involving counterclaims, cross-claims,
+claims against third or subsequent parties, or cross-appeals
+8
+Judicial settlement conference fees
+15
+Prepayment of judicial settlement conference fees
+9
+16
+Failure to prepay judicial settlement conference fee
+9
+17
+Refund of prepaid fee for judicial settlement conference that does
+not take place
+9
+Waivers
+18
+Power to waive fees
+9
+19
+Criteria for determining when person unable to pay fee sought to
+be waived
+10
+20
+Criteria for determining when proceeding concerns matter of
+genuine public interest
+10
+21
+Payment of fee may be postponed pending determination of
+application for waiver or review
+10
+22
+Recovery of fee if payment postponed
+11
+Refunds
+23
+Power to refund fees
+11
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+2
+
+--------------------------------------------------------------------------------
+Fees include GST
+24
+GST included
+11
+Consequential and transitional matters
+25
+Amendment to Māori Trustee Regulations 2009
+12
+26
+Amendments to Property Law (Mortgagees’ Sales Forms and
+Fees) Regulations 2007
+12
+27
+Amendment to Public Trust Regulations 2002
+12
+28
+Revocations
+12
+29
+Transitional provision
+12
+Schedule
+Fees payable in respect of proceedings in court
+14
+Regulations
+1
+Title
+These regulations are the High Court Fees Regulations 2013.
+2
+Commencement
+(1)
+Except as provided in subclause (2), these regulations come into force on 1
+July 2013.
+(2)
+Item 29 in the fees table, which relates to filing an application for an order
+protecting a secured party’s interests, comes into force on the later of—
+(a)
+1 July 2013; and
+(b)
+the date appointed under section 2(2) of the District Courts Amendment
+Act 2011 for the coming into force of section 33 of that Act.
+Regulation 2(2): item 29 in the fees table brought into force, on 14 April 2014, pursuant to the
+District Courts Amendment Act 2011 Commencement Order 2013 (SR 2013/410).
+3
+Application
+(1)
+These regulations apply to civil proceedings in the court.
+(2)
+Nothing in these regulations applies to—
+(a)
+applications under the Criminal Proceeds (Recovery) Act 2009; or
+(aa)
+appeals under the Harmful Digital Communications Act 2015; or
+(b)
+matters under Part 6 of the Criminal Procedure Rules 2012 (access to
+court documents).
+Regulation 3(2)(aa): inserted, on 21 November 2016, by regulation 4 of the High Court Fees Amend‐
+ment Regulations 2016 (LI 2016/229).
+4
+Interpretation
+In these regulations, unless the context otherwise requires,—
+Version as at
+1 July 2024
+High Court Fees Regulations 2013
+r 4
+3
+
+--------------------------------------------------------------------------------
+Act means the Senior Courts Act 2016
+actual hearing fee means any fee payable under item 18, 19, or 20 (as applic‐
+able) of the fees table in respect of the actual hearing time
+appeal means an appeal under Part 20 or 26 of the High Court Rules 2016, and
+appellant has a corresponding meaning
+court means the High Court
+document has the meaning given in HCR 1.3(1)
+estimated hearing fee means any fee payable under item 18, 19, or 20 (as
+applicable) of the fees table in respect of the estimated hearing time
+estimated hearing time means the time allocated for a hearing and notified by
+the Registrar to all parties to a proceeding when the hearing date is confirmed
+exempt application means—
+(a)
+an appeal or a reference filed under Part 21 of the High Court Rules
+2016:
+(b)
+an application for a writ of habeas corpus:
+(c)
+an application under section 84 of the Mental Health (Compulsory
+Assessment and Treatment) Act 1992
+exempt interlocutory application means—
+(a)
+an application for an order declaring that the solicitor on record for a
+party to a proceeding has ceased to be the solicitor on record for the
+party in that proceeding (HCR 5.41):
+(b)
+an interlocutory application for review of a Registrar’s decision:
+(c)
+an interlocutory application relating to an exempt application
+fees table means the table in the Schedule
+HCR means High Court rule
+High Court Rules means the High Court Rules 2016
+initiating document—
+(a)
+means the first document filed in a proceeding by a person that gives to
+the court and to the opposite party (if any) particulars of the claim made,
+or of the order or other relief sought, by the person; but
+(b)
+does not include—
+(i)
+an application for leave to commence proceedings:
+(ii)
+an application for leave to appeal:
+(iii)
+an interlocutory application under HCR 19.5 requesting permis‐
+sion to commence a proceeding by originating application:
+(iv)
+an interlocutory application under HCR 19.6 commencing a pro‐
+ceeding:
+r 4
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+4
+
+--------------------------------------------------------------------------------
+(v)
+a caveat:
+(vi)
+an application for directions as to service:
+(vii)
+an application relating to identification of the proper registry
+(HCR 5.1)
+item means a matter described in the third column, and with the reference
+number given in the second column, of the fees table
+Registrar means a Registrar of the court, and includes a Deputy Registrar of
+the court
+scheduling fee means the fee (if any) payable under item 17 of the fees table in
+respect of an application or proceeding
+working day has the meaning given in HCR 1.3(1).
+Regulation 4 Act: amended, on 1 March 2017, by section 183(b) of the Senior Courts Act 2016 (2016
+No 48).
+Regulation 4 appeal: amended, on 18 October 2016, by section 183(c) of the Senior Courts Act 2016
+(2016 No 48).
+Regulation 4 exempt application paragraph (a): amended, on 18 October 2016, by section 183(c) of
+the Senior Courts Act 2016 (2016 No 48).
+Regulation 4 High Court Rules: amended, on 18 October 2016, by section 183(c) of the Senior
+Courts Act 2016 (2016 No 48).
+Prescribed fees
+5
+Fees of court
+(1)
+The fees specified in the fourth column of the fees table are payable, and
+must be taken by the proper officer of the court, in proceedings to which these
+regulations apply in respect of the matters specified in the third column of the
+fees table.
+(2)
+Subclause (1) is subject to regulation 6.
+(3)
+Despite regulation 7, no hearing or scheduling fee may be charged for—
+(a)
+a hearing that—
+(i)
+is not opposed by the respondent; and
+(ii)
+takes place in a list sitting:
+(b)
+any portion of a hearing that takes place in a list sitting if the hearing—
+(i)
+is opposed by the respondent; and
+(ii)
+is adjourned to a specified date and time.
+(4)
+For the purposes of determining the hearing or scheduling fee for a hearing
+specified in subclause (3)(b), the first day or first half-day of the hearing is the
+day or half-day of the date specified in the adjournment.
+(5)
+In subclause (3), list sitting means a sitting in which different applications are
+sequentially called before a Judge, an Associate Judge, or a Registrar of the
+High Court.
+Version as at
+1 July 2024
+High Court Fees Regulations 2013
+r 5
+5
+
+--------------------------------------------------------------------------------
+Regulation 5(2): amended, on 16 September 2013, by regulation 4(1) of the High Court Fees
+Amendment Regulations 2013 (SR 2013/388).
+Regulation 5(3): inserted, on 16 September 2013, by regulation 4(2) of the High Court Fees Amend‐
+ment Regulations 2013 (SR 2013/388).
+Regulation 5(4): inserted, on 16 September 2013, by regulation 4(2) of the High Court Fees Amend‐
+ment Regulations 2013 (SR 2013/388).
+Regulation 5(5): inserted, on 16 September 2013, by regulation 4(2) of the High Court Fees Amend‐
+ment Regulations 2013 (SR 2013/388).
+6
+Fees payable by liquidators of companies without assets
+(1)
+This regulation applies if a company in liquidation has no immediately avail‐
+able assets out of which to pay a specified fee for a proceeding or matter
+relating to the liquidation of the company.
+(2)
+In subclause (1), specified fee means a fee prescribed by these regulations
+other than—
+(a)
+a fee for item 2 (which relates to filing an application to put a company
+into liquidation):
+(b)
+a fee for any of items 22 to 34 (which relate to enforcing judgments).
+(3)
+The liquidator of a company may, instead of paying the fee, give a Registrar a
+certificate stating that the company has no immediately available assets.
+7
+Application of fees for items 18 to 20 (hearings)
+The fees for items 18 to 20 apply in respect of the hearing of every application
+or proceeding, including—
+(a)
+the hearing of every claim, counterclaim, cross-claim, and claim against
+a third or subsequent party; and
+(b)
+the hearing of every appeal and cross-appeal; and
+(c)
+the hearing of every interlocutory application (including an interlocutory
+application for summary judgment in respect of which a notice of oppos‐
+ition and an affidavit in answer have been filed).
+8
+Minimum and maximum fee (commission) payable by vendor mortgagee
+under section 194(1)(c) of Property Law Act 2007
+For the purposes of section 194(1)(c) of the Property Law Act 2007,—
+(a)
+the minimum fee is $500; and
+(b)
+the maximum fee is $20,000.
+Scheduling fees and hearing fees
+9
+Prepayment of scheduling fees and estimated hearing fees
+(1)
+The plaintiff, applicant, or appellant (as applicable) in respect of a specified
+proceeding must pay the scheduling fee and the estimated hearing fee for the
+specified proceeding no later than—
+r 6
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+6
+
+--------------------------------------------------------------------------------
+(a)
+3 working days before the date on which the hearing is scheduled to
+begin (the scheduled hearing date); or
+(b)
+if the Registrar gives less than 3 working days’ notice of the scheduled
+hearing date, the date specified by the Registrar.
+(2)
+The plaintiff, applicant, or appellant (as applicable) in respect of an application
+or proceeding other than a specified proceeding must pay the scheduling fee for
+the application or proceeding no later than—
+(a)
+15 working days after the Registrar notifies all parties of the scheduled
+hearing date; or
+(b)
+if the Registrar gives less than 15 working days’ notice of the scheduled
+hearing date, the date specified by the Registrar.
+(3)
+The plaintiff, applicant, or appellant (as applicable) in respect of an application
+or proceeding other than a specified proceeding must pay the estimated hearing
+fee for the application or proceeding,—
+(a)
+if the estimated hearing time is 10 days or less, no later than—
+(i)
+30 working days before the scheduled hearing date; or
+(ii)
+if the Registrar gives less than 30 working days’ notice of the
+scheduled hearing date, the date specified by the Registrar; or
+(b)
+if the estimated hearing time is more than 10 days, no later than—
+(i)
+45 working days before the scheduled hearing date; or
+(ii)
+if the Registrar gives less than 45 working days’ notice of the
+scheduled hearing date, the date specified by the Registrar.
+(4)
+In subclauses (1) to (3), specified proceeding means an interlocutory applica‐
+tion, a bankruptcy proceeding, or a proceeding to which Part 19 (originating
+applications) or Part 31 (company liquidation) of the High Court Rules applies.
+(5)
+If 2 or more proceedings are to be heard together, scheduling fees (if any)
+and hearing fees must be paid in respect of each proceeding unless the court
+otherwise directs.
+(6)
+For the purpose of subclause (5), a proceeding does not constitute 2 or more
+proceedings by reason only that it involves—
+(a)
+a claim and 1 or more counterclaims, cross-claims, or claims against a
+third or subsequent party; or
+(b)
+an appeal and 1 or more cross-appeals.
+10
+Failure to prepay scheduling fees or estimated hearing fees
+(1)
+If a scheduling fee or an estimated hearing fee is not paid in accordance with
+regulation 9, the Registrar may vacate the hearing.
+(2)
+If the Registrar vacates a hearing under subclause (1), the Registrar must
+promptly notify the parties.
+Version as at
+1 July 2024
+High Court Fees Regulations 2013
+r 10
+7
+
+--------------------------------------------------------------------------------
+11
+Payment of balance of hearing fees if hearing exceeds estimated hearing
+time
+(1)
+If the actual hearing time exceeds the estimated hearing time, the plaintiff,
+applicant, or appellant (as applicable) must pay, on the final day of the hearing,
+the balance of the hearing fee (being the actual hearing fee less any amount that
+has been prepaid).
+(2)
+Subclause (1) is subject to any order made under regulation 14(2)(b)(ii).
+12
+Refund of prepaid hearing fees if hearing shorter than estimated hearing
+time
+If the actual hearing time is less than the estimated hearing time, the Registrar
+must refund to the plaintiff, applicant, or appellant (as applicable) the portion
+of any prepaid hearing fee that relates to the period of hearing time not used.
+13
+Refund of prepaid hearing fees if application or proceeding settled,
+discontinued, abandoned, or determined before hearing date
+(1)
+If an interlocutory application or a proceeding is settled, discontinued, aban‐
+doned, or determined before the hearing date, the Registrar must refund to the
+plaintiff, applicant, or appellant (as applicable) any prepaid hearing fees.
+(2)
+However, subclause (1) does not apply if a counterclaim, cross-claim, claim
+against a third or subsequent party, or cross-appeal remains to be heard (see
+regulation 14).
+14
+Hearing fees in proceedings involving counterclaims, cross-claims, claims
+against third or subsequent parties, or cross-appeals
+(1)
+This regulation applies if a hearing involves 1 or more counterclaims, cross-
+claims, claims against a third or subsequent party, or cross-appeals.
+(2)
+At the end of the hearing, the court—
+(a)
+may give a direction as to what portion of the scheduling fee and actual
+hearing fee each party is liable to pay; and
+(b)
+may, in order to give effect to a direction under paragraph (a), make 1 or
+both of the following orders:
+(i)
+an order that a party other than the plaintiff, applicant, or appellant
+(as applicable) pay an amount to the plaintiff, applicant, or appel‐
+lant:
+(ii)
+an order that a portion of the balance of the hearing fee payable
+under regulation 11 (if applicable) be paid by a party other than
+the plaintiff, applicant, or appellant (as applicable).
+r 11
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+8
+
+--------------------------------------------------------------------------------
+Judicial settlement conference fees
+15
+Prepayment of judicial settlement conference fees
+The plaintiff, applicant, or appellant (as applicable) must pay the fee for a
+judicial settlement conference no later than—
+(a)
+15 working days after the Registrar confirms the date of the judicial
+settlement conference to all parties to the proceeding; or
+(b)
+if the Registrar confirms the date less than 15 days before the judicial
+settlement conference, the date specified by the Registrar.
+16
+Failure to prepay judicial settlement conference fee
+(1)
+If the fee for the judicial settlement conference is not paid in accordance
+with regulation 15, the Registrar may vacate the scheduled judicial settlement
+conference.
+(2)
+If the Registrar vacates a judicial settlement conference under subclause (1),
+the Registrar must promptly notify the parties.
+17
+Refund of prepaid fee for judicial settlement conference that does not take
+place
+If a judicial settlement conference does not take place, the Registrar must
+refund any prepaid judicial settlement conference fee.
+Waivers
+18
+Power to waive fees
+(1)
+A person otherwise responsible for the payment of a fee required in connection
+with a proceeding or an intended proceeding may apply to a Registrar for a
+waiver of the fee.
+(2)
+The Registrar may waive the fee payable by the person if satisfied,—
+(a)
+on the basis of one of the criteria specified in regulation 19, that the
+person is unable to pay the fee; or
+(b)
+that the proceeding,—
+(i)
+on the basis of one of the criteria specified in regulation 20,
+concerns a matter of genuine public interest; and
+(ii)
+is unlikely to be commenced or continued unless the fee is
+waived.
+(3)
+An application under subclause (1) must be made in a form approved for the
+purpose by the chief executive of the Ministry of Justice unless, in a particular
+case, the Registrar considers that an application in that form is not necessary.
+Version as at
+1 July 2024
+High Court Fees Regulations 2013
+r 18
+9
+
+--------------------------------------------------------------------------------
+19
+Criteria for determining when person unable to pay fee sought to be
+waived
+For the purposes of these regulations, a person is unable to pay the fee sought
+to be waived if—
+(a)
+the person has been granted legal aid in respect of the matter for which
+the fee is payable; or
+(b)
+the person—
+(i)
+is dependent for the payment of his or her living expenses on
+a specified benefit (as defined in section 198(3) of the Social
+Security Act 2018) that is jobseeker support, sole parent support, a
+supported living payment, or an emergency benefit; or
+(ii)
+is wholly dependent for the payment of his or her living expenses
+on New Zealand superannuation under the New Zealand Super‐
+annuation and Retirement Income Act 2001 or a veteran’s pension
+under the Veterans’ Support Act 2014; or
+(iii)
+would otherwise suffer undue financial hardship if he or she paid
+the fee.
+Regulation 19(b)(i): amended, on 26 November 2018, by section 459 of the Social Security Act 2018
+(2018 No 32).
+Regulation 19(b)(ii): amended, on 7 December 2014, by section 278 of the Veterans’ Support Act
+2014 (2014 No 56).
+20
+Criteria for determining when proceeding concerns matter of genuine
+public interest
+For the purposes of these regulations, a proceeding that concerns a matter of
+genuine public interest is—
+(a)
+a proceeding that has been or is intended to be commenced to determine
+a question of law that is of significant interest to the public or to a
+substantial section of the public; or
+(b)
+a proceeding that—
+(i)
+raises issues of significant interest to the public or to a substantial
+section of the public; and
+(ii)
+has been or is intended to be commenced by an organisation that,
+by its governing enactment, constitution, or rules, is expressly or
+by necessary implication required to promote matters in the public
+interest.
+21
+Payment of fee may be postponed pending determination of application
+for waiver or review
+(1)
+A person who is awaiting the determination of an application under regulation
+18(1) or under section 160 of the Act may apply to the Registrar to postpone
+payment of the fee to which the application relates.
+r 19
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+10
+
+--------------------------------------------------------------------------------
+(2)
+If the Registrar is satisfied that the person would be prejudiced if the matter
+to which the fee relates did not proceed before the determination, the Registrar
+may postpone the payment of the fee until the date on which the person is
+notified of the determination.
+(3)
+An application under subclause (1) must be made in a form approved for the
+purpose by the chief executive of the Ministry of Justice unless, in a particular
+case, the Registrar considers that an application in that form is not necessary.
+22
+Recovery of fee if payment postponed
+(1)
+This regulation applies to a fee if payment of the fee is postponed under
+regulation 21.
+(2)
+If the effect of a determination under regulation 18 or under section 160 of the
+Act is that the fee is not to be waived, the fee—
+(a)
+must be paid, without delay, to the Registrar; and
+(b)
+is recoverable as a debt due to the Crown in any court of competent
+jurisdiction.
+(3)
+Following a determination that has the effect referred to in subclause (2), the
+person responsible for paying the fee may not take a step in the proceeding to
+which the fee relates unless the fee is paid.
+(4)
+This regulation has effect subject to regulation 21 during any period that the
+question of the waiver of the fee is the subject of a pending application under
+section 160 of the Act.
+Refunds
+23
+Power to refund fees
+(1)
+A Registrar may, on application made to him or her, refund a fee that has been
+paid if satisfied that—
+(a)
+no application, under regulation 18, for a waiver of the fee was made;
+and
+(b)
+the fee would have been waived, in accordance with regulation 18, had
+that application been made; and
+(c)
+the criteria that would have justified that waiver still apply at the date of
+the application for the refund.
+(2)
+An application under subclause (1) must be made in a form approved for the
+purpose by the chief executive of the Ministry of Justice unless, in a particular
+case, the Registrar considers that an application in that form is not necessary.
+Fees include GST
+24
+GST included
+The fees fixed by these regulations are inclusive of goods and services tax.
+Version as at
+1 July 2024
+High Court Fees Regulations 2013
+r 24
+11
+
+--------------------------------------------------------------------------------
+Consequential and transitional matters
+25
+Amendment to Māori Trustee Regulations 2009
+(1)
+This regulation amends that Māori Trustee Regulations 2009.
+(2)
+Revoke regulation 5.
+26
+Amendments to Property Law (Mortgagees’ Sales Forms and Fees)
+Regulations 2007
+(1)
+This regulation amends the Property Law (Mortgagees’ Sales Forms and Fees)
+Regulations 2007.
+(2)
+From the commencement of this regulation,—
+(a)
+the Property Law (Mortgagees’ Sales Forms and Fees) Regulations 2007
+are called the Property Law (Mortgagees’ Sales Forms) Regulations
+2007; and
+(b)
+every reference in any enactment and in any document to the Property
+Law (Mortgagees’ Sales Forms and Fees) Regulations 2007 must, unless
+the context otherwise requires, be read as a reference to the Property
+Law (Mortgagees’ Sales Forms) Regulations 2007.
+(3)
+In regulation 1, delete “and Fees”.
+(4)
+Revoke regulations 7 to 9 and the cross-heading above regulation 7.
+27
+Amendment to Public Trust Regulations 2002
+(1)
+This regulation amends the Public Trust Regulations 2002.
+(2)
+Revoke regulation 17.
+28
+Revocations
+The following regulations are revoked:
+(a)
+Administration (Fee) Regulations 1997 (SR 1997/330):
+(b)
+Admiralty (Fees) Order 1997 (SR 1997/333):
+(c)
+High Court Fees Regulations 2001 (SR 2001/310):
+(d)
+Rating (Fees) Regulations 1997 (SR 1997/325):
+(e)
+Sheriffs’ Fees Regulations 1988 (SR 1988/34):
+(f)
+Trustee Companies (Fees) Regulations 1997 (SR 1997/329).
+29
+Transitional provision
+(1)
+In respect of a proceeding commenced before 1 July 2013,—
+(a)
+an enactment revoked by regulations 25 to 28 continues to apply in
+respect of any step taken before 1 July 2013; and
+(b)
+these regulations apply in respect of any step taken on or after that date.
+(2)
+However, in respect of a hearing described in subclause (3),—
+r 25
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+12
+
+--------------------------------------------------------------------------------
+(a)
+regulations 9 to 14 of these regulations and items 17 to 20 of the fees
+table do not apply; and
+(b)
+regulations 11, 11A, and 12 and items 6 to 9 of the Schedule of the High
+Court Fees Regulations 2001 continue to apply.
+(3)
+Subclause (2) applies to a hearing if the Registrar notifies the parties of the
+scheduled hearing date before 1 July 2013.
+Version as at
+1 July 2024
+High Court Fees Regulations 2013
+r 29
+13
+
+--------------------------------------------------------------------------------
+Schedule
+Fees payable in respect of proceedings in court
+rr 4, 5
+Note: Items in the fees table are arranged in the following categories:
+Documents initiating proceedings (including appeals)
+Items 1 to 6
+Interlocutory applications
+Items 7 to 9
+Statements of defence and other documents in response
+Items 10 to 16
+Scheduling
+Item 17
+Hearings (see regulation 7)
+Items 18 to 20
+Judicial settlement conferences
+Item 21
+Enforcing judgments
+Items 22 to 34
+Probate and administration
+Items 35 to 45
+Bankruptcy
+Items 46 to 50
+Administrative fees
+Items 51 to 54
+Searching and accessing court records
+Items 55 and 56
+Matters conducted by Registrar
+Items 57 and 58
+Law practitioners
+Items 59 to 64
+Applications under Trans-Tasman Proceedings Act 2010
+Items 64A and 64B
+Matters under Local Government (Rating) Act 2002
+Items 65 and 66
+Mortgagee sales under Property Law Act 2007
+Item 67
+Admiralty
+Items 68 to 70
+Category
+Item
+Matter for which fee is payable
+Fee ($)
+Documents
+initiating
+proceedings
+(including
+appeals)
+1
+Filing an exempt application (as defined in
+regulation 4)
+no fee
+2
+Filing an application to put a company into
+liquidation to which Part 31 of the High Court
+Rules applies
+702
+3
+Filing an initiating document (as defined in
+regulation 4) that commences—
+(a)
+an application for review under the
+Judicial Review Procedure Act 2016; or
+(b)
+a proceeding to which Part 18 (applica‐
+tions in equity and under statutes), Part
+19 (originating applications) (other than
+an application for habeas corpus), or
+Part 30 (judicial review), but no other
+Part, of the High Court Rules applies; or
+(c)
+an appeal or cross-appeal to the court
+under any enactment
+702
+4
+Filing any other initiating document (as defined
+in regulation 4), unless a different filing fee is
+prescribed for that document elsewhere in the
+fees table
+1,755
+5
+Filing a statement of claim between defendants
+143
+6
+Filing an amended statement of claim
+143
+Schedule
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+14
+
+--------------------------------------------------------------------------------
+Category
+Item
+Matter for which fee is payable
+Fee ($)
+Interlocutory
+applications
+7
+Filing an exempt interlocutory application (as
+defined in regulation 4)
+no fee
+8
+Filing an application on notice for summary
+judgment (HCR 12.4)
+no fee
+9
+Filing any other interlocutory application
+(unless a different filing fee is prescribed for
+that application elsewhere in the fees table—see
+items 35(b), 64A, and 64B) as follows:
+(a)
+application without notice
+260
+(b)
+application on notice relating to a pro‐
+ceeding to which item 2, 3, 46, or 48
+applies
+260
+(c)
+any other application on notice
+650
+Statements of
+defence and
+other
+documents in
+response
+10
+Filing a statement of defence,—
+(a)
+if included in the same document as a
+counterclaim, and providing that the fee
+for filing a counterclaim is paid (see
+item 13)
+no fee
+(b)
+in any other case
+143
+11
+Filing a statement of defence between defend‐
+ants
+143
+12
+Filing an amended statement of defence
+143
+13
+Filing a counterclaim (which may include in the
+same document, for no additional fee, a state‐
+ment of defence) for—
+(a)
+a proceeding to which item 2 or 3
+applies
+702
+(b)
+any other proceeding
+1,755
+14
+Filing a notice of opposition,—
+(a)
+in the case of a notice of opposition
+against an exempt application or an
+exempt interlocutory application
+no fee
+(b)
+in the case of a notice of opposition
+against an interlocutory application for
+summary judgment
+143
+(c)
+in any other case (unless a different fil‐
+ing fee is prescribed for that notice of
+opposition elsewhere in the fees table—
+see item 49)
+143
+15
+Filing an appearance (HCR 5.49, 5.50, 5.51)
+143
+16
+Filing a third or subsequent party notice
+143
+Scheduling
+17
+For scheduling the hearing date for an applica‐
+tion or proceeding,—
+(a)
+in the case of an exempt application
+no fee
+(b)
+in the case of an interlocutory applica‐
+tion
+no fee
+(c)
+in the case of an application or proceed‐
+ing to which item 2, 3, or 48 applies
+832
+Version as at
+1 July 2024
+High Court Fees Regulations 2013
+Schedule
+15
+
+--------------------------------------------------------------------------------
+Category
+Item
+Matter for which fee is payable
+Fee ($)
+(d)
+in any other case
+2,080
+Hearings (see
+regulation 7)
+18
+Hearing an exempt application or an exempt
+interlocutory application
+no fee
+19
+Hearing an application or proceeding to which
+item 2, 3, or 48 applies, for each half-day or part
+half-day after the first half-day
+832
+20
+Hearing any other application or proceeding, for
+each half-day or part half-day after the first half-
+day
+2,080
+Judicial
+settlement
+conferences
+21
+Judicial settlement conference
+832
+Enforcing
+judgments
+22
+Issuing an order for examination (HCR 17.12)
+520
+23
+Issuing an order that money owing under a
+judgment be paid by instalments (HCR 17.17)
+260
+24
+Issuing an attachment order (HCR 17.33)
+260
+25
+Issuing a charging order with leave (HCR
+17.41)
+260
+26
+Issuing a charging order without leave (HCR
+17.42)
+260
+27
+Issuing a sale order (HCR 17.63)
+1,950
+28
+Selling property under a sale order
+650
+29
+Filing an application for an order protecting a
+secured party’s interests
+no fee
+30
+Issuing a possession order (HCR 17.81)
+1,950
+31
+Issuing a combined sale and possession order
+(HCR 17.82)
+1,950
+32
+Issuing an arrest order (where a party does
+not comply with an original court order) (HCR
+17.84)
+1,950
+33
+Issuing a sequestration order (HCR 17.87)
+1,950
+34
+Issuing an order to arrest and imprison an
+absconding debtor under section 40 of the
+Senior Courts Act 2016 (HCR 17.88)
+1,950
+Probate and
+administration
+35
+Filing any of the following:
+(a)
+an application in common form for pro‐
+bate or letters of administration:
+(b)
+an application relating to a deceased
+person’s estate made prior or subsequent
+to a grant of administration:
+(c)
+an application for an order that is made
+under section 14 or 31, or for the pur‐
+pose of section 18, of the Wills Act
+2007
+260
+36
+Sealing a grant of administration obtained by
+way of an application under HCR 27.4 or 27.6
+no fee
+Schedule
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+16
+
+--------------------------------------------------------------------------------
+Category
+Item
+Matter for which fee is payable
+Fee ($)
+37
+Sealing an exemplification of administration
+(HCR 27.33(1))
+65
+38
+Sealing a duplicate of a grant of administration
+(HCR 27.33(2)(a))
+65
+39
+Sealing and certifying a copy or photocopy of a
+grant of administration (HCR 27.33(2)(b))
+65
+40
+Issuing a certificate of administration under sec‐
+tion 18 of the Administration Act 1969
+39
+41
+Resealing, under section 71 of the Administra‐
+tion Act 1969, probate or letters of administra‐
+tion granted by an overseas court
+65
+42
+Filing an election to administer under Part 6 of
+the Public Trust Act 2001, Part 3 of the Trustee
+Companies Act 1967, or section 12A or 12B of
+the Māori Trustee Act 1953
+39
+43
+Issuing a certified copy of an election to admin‐
+ister filed under Part 6 of the Public Trust Act
+2001, Part 3 of the Trustee Companies Act
+1967, or section 12A or 12B of the Māori
+Trustee Act 1953
+39
+44
+Searching or inspecting a document or a court
+file that relates to an application or action for a
+grant of administration under the Administration
+Act 1969 or to a proceeding for the recall of any
+such grant (HCR 3.7(2)),—
+(a)
+if a fee has been paid under item 55 to
+search or inspect the formal court record
+in relation to the grant
+no fee
+(b)
+in any other case
+39
+Note: On payment of a fee for this item, no
+further fee is payable for obtaining 1 or more
+copies of the document, or any document on the
+court file, as the case may be (see item 53(b))
+45
+Supplying a copy of a will,—
+(a)
+if a fee has been paid under item 44 in
+respect of the will
+no fee
+(b)
+in any other case
+26
+Bankruptcy
+46
+Filing a request for issue of a bankruptcy notice
+(HCR 24.8)
+260
+47
+[Revoked]
+48
+Filing a creditor’s application for adjudication
+(HCR 24.11)
+650
+49
+Filing a notice of opposition to application for
+adjudication (HCR 24.18)
+143
+50
+Sealing an order for bankruptcy
+65
+Administrative
+fees
+51
+Sealing the original copy of any judgment (HCR
+11.11), order (other than an order to which item
+60 applies), or letter of request (HCR 9.26)
+65
+52
+Issuing a certified copy of—
+Version as at
+1 July 2024
+High Court Fees Regulations 2013
+Schedule
+17
+
+--------------------------------------------------------------------------------
+Category
+Item
+Matter for which fee is payable
+Fee ($)
+(a)
+any document that is part of the formal
+court record or on the court file
+65
+(b)
+any Registrar’s certificate
+65
+53
+Copying any document (other than a judg‐
+ment),—
+(a)
+for the first copy of any part or parts of
+the court file or any document relating
+to the proceeding that is provided to a
+party to the proceeding or that party’s
+counsel
+no fee
+(b)
+if a fee under item 44 has been paid to
+search or inspect the document, or the
+court file containing the document
+no fee
+(c)
+where paragraphs (a) and (b) do not
+apply,—
+(i)
+for each black and white page
+0.30
+(ii)
+for each colour page
+0.50
+(iii)
+for documents in electronic
+form
+actual
+and
+reasonab
+le costs
+54
+Copying a judgment,—
+(a)
+for the first copy that is provided to a
+party to the proceeding or that party’s
+counsel
+no fee
+(b)
+where paragraph (a) does not apply
+39
+Searching and
+accessing court
+records
+55
+Searching or inspecting the formal court record
+(HCR 3.7(1),—
+(a)
+for the first name or case searched
+39
+(b)
+for each additional name or case
+searched
+7
+56
+Requesting access to a document or court file as
+follows:
+(a)
+if the request is made by a party to a
+proceeding or that party’s counsel (HCR
+3.8) in respect of a document or court
+file relating to the proceeding
+no fee
+(b)
+if a fee has been paid under item 55(a)
+in respect of the court file or the formal
+court record
+no fee
+(c)
+in any other case
+39
+Matters
+conducted by
+Registrar
+57
+Attendance before a Registrar in an inquiry or
+reference
+780
+58
+Examination of witnesses by a Registrar under
+an order of the court
+780
+Schedule
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+18
+
+--------------------------------------------------------------------------------
+Category
+Item
+Matter for which fee is payable
+Fee ($)
+Law
+practitioners
+59
+Filing an application for admission as a barrister
+and solicitor under section 57 of the Lawyers
+and Conveyancers Act 2006
+156
+60
+Sealing an order for admission as a barrister and
+solicitor
+no fee
+61
+Issuing a certified copy of an order for admis‐
+sion as a barrister and solicitor
+65
+62
+Issuing a certificate of enrolment on the roll of
+barristers and solicitors kept under the Lawyers
+and Conveyancers Act 2006
+65
+63
+Filing an application for registration, in respect
+of admission as a barrister and solicitor, under
+section 19 of the Trans-Tasman Mutual Recog‐
+nition Act 1997
+156
+64
+Issuing a Registrar’s certificate following notice
+under section 19 of the Trans-Tasman Mutual
+Recognition Act 1997
+65
+Applications
+under Trans-
+Tasman
+Proceedings
+Act 2010
+64A
+Filing an application under section 56 of the
+Trans-Tasman Proceedings Act 2010 to register
+in the court under subpart 5 of Part 2 of that Act
+a registrable Australian judgment
+130
+64B
+Filing either of the following applications:
+325
+(a)
+an application to set aside registration of
+an Australian judgment (under section
+61 of the Trans-Tasman Proceedings Act
+2010):
+(b)
+an application for a stay of enforce‐
+ment of a registered Australian judg‐
+ment (under section 65 of the Trans-Tas‐
+man Proceedings Act 2010)
+Matters under
+Local
+Government
+(Rating) Act
+2002
+65
+Filing an application to enforce a judgment for
+rates under section 67 of the Local Government
+(Rating) Act 2002
+390
+66
+Selling or leasing a rating unit under section 70
+of the Local Government (Rating) Act 2002
+1,040
+Mortgagee
+sales under
+Property Law
+Act 2007
+67
+Application for Registrar to conduct a sale for
+a vendor mortgagee under section 187 of the
+Property Law Act 2007
+Note: For the minimum and maximum commis‐
+sion that is payable, if the land is sold, by the
+vendor mortgagee to the Registrar under section
+194(1)(c) of that Act, see regulation 8
+1,950
+Admiralty
+68
+Filing an application for the issue of a warrant
+of arrest (of property) (HCR 25.34)
+1,950
+69
+Filing a request for a commission for the
+appraisement and sale of any property (HCR
+25.51)
+2,600
+Version as at
+1 July 2024
+High Court Fees Regulations 2013
+Schedule
+19
+
+--------------------------------------------------------------------------------
+Category
+Item
+Matter for which fee is payable
+Fee ($)
+70
+Selling property under a commission for sale
+(HCR 25.51)
+650
+Schedule note: amended, on 11 October 2013, by regulation 4 of the High Court Fees (Trans-Tasman
+Proceedings Act 2010—Australian Judgments) Amendment Regulations 2013 (SR 2013/349).
+Schedule item 2: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 3: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 3(a): amended, on 1 March 2017, by section 24 of the Judicial Review Procedure Act
+2016 (2016 No 50).
+Schedule item 4: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 5: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 6: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 9: amended, on 1 July 2014, by regulation 4(1) of the High Court Fees Amendment
+Regulations 2014 (LI 2014/181).
+Schedule item 9: amended, on 11 October 2013, by regulation 4 of the High Court Fees (Trans-Tas‐
+man Proceedings Act 2010—Australian Judgments) Amendment Regulations 2013 (SR 2013/349).
+Schedule item 9(a): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 9(b): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 9(b): amended, on 1 July 2014, by regulation 4(2) of the High Court Fees Amendment
+Regulations 2014 (LI 2014/181).
+Schedule item 9(c): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 10(b): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 11: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 12: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 13(a): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 13(b): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 14(b): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 14(c): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 15: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 16: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+20
+
+--------------------------------------------------------------------------------
+Schedule item 17(c): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 17(c): amended, on 16 September 2013, by regulation 5(1) of the High Court Fees
+Amendment Regulations 2013 (SR 2013/388).
+Schedule item 17(d): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 19: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 19: amended, on 16 September 2013, by regulation 5(2) of the High Court Fees
+Amendment Regulations 2013 (SR 2013/388).
+Schedule item 20: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 21: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 22: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 23: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 24: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 25: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 26: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 27: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 28: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 30: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 31: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 32: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 33: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 34: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 34: amended, on 1 March 2017, by section 183(b) of the Senior Courts Act 2016
+(2016 No 48).
+Schedule item 35: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 37: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 38: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 39: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Version as at
+1 July 2024
+High Court Fees Regulations 2013
+Schedule
+21
+
+--------------------------------------------------------------------------------
+Schedule item 40: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 41: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 42: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 43: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 44(b): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 45(b): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 46: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 47: revoked, on 1 July 2014, by regulation 4(3) of the High Court Fees Amendment
+Regulations 2014 (LI 2014/181).
+Schedule item 48: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 49: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 50: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 51: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 52(a): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 52(b): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 53(c)(i): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 53(c)(ii): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amend‐
+ment Regulations 2024 (SL 2024/95).
+Schedule item 54(b): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 55(a): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 55(b): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 56(c): amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 57: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 58: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 59: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 61: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+22
+
+--------------------------------------------------------------------------------
+Schedule item 62: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 63: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 64: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 64A: inserted, on 11 October 2013, by regulation 4 of the High Court Fees (Trans-Tas‐
+man Proceedings Act 2010—Australian Judgments) Amendment Regulations 2013 (SR 2013/349).
+Schedule item 64A: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 64B: inserted, on 11 October 2013, by regulation 4 of the High Court Fees (Trans-Tas‐
+man Proceedings Act 2010—Australian Judgments) Amendment Regulations 2013 (SR 2013/349).
+Schedule item 64B: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 65: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 66: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 67: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 68: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 69: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Schedule item 70: amended, on 1 July 2024, by regulation 4 of the High Court Fees Amendment
+Regulations 2024 (SL 2024/95).
+Rebecca Kitteridge,
+Clerk of the Executive Council.
+Issued under the authority of the Legislation Act 2019.
+Date of notification in Gazette: 23 May 2013.
+Version as at
+1 July 2024
+High Court Fees Regulations 2013
+Schedule
+23
+
+--------------------------------------------------------------------------------
+Notes
+1
+General
+This is a consolidation of the High Court Fees Regulations 2013 that incorpor‐
+ates the amendments made to the legislation so that it shows the law as at its
+stated date.
+2
+Legal status
+A consolidation is taken to correctly state, as at its stated date, the law enacted
+or made by the legislation consolidated and by the amendments. This presump‐
+tion applies unless the contrary is shown.
+Section 78 of the Legislation Act 2019 provides that this consolidation, pub‐
+lished as an electronic version, is an official version. A printed version of
+legislation that is produced directly from this official electronic version is also
+an official version.
+3
+Editorial and format changes
+The Parliamentary Counsel Office makes editorial and format changes to con‐
+solidations using the powers under subpart 2 of Part 3 of the Legislation Act
+2019. See also PCO editorial conventions for consolidations.
+4
+Amendments incorporated in this consolidation
+High Court Fees Amendment Regulations 2024 (SL 2024/95)
+Social Security Act 2018 (LI 2018 No 32): section 459
+High Court Fees Amendment Regulations 2016 (LI 2016/229)
+Judicial Review Procedure Act 2016 (2016 No 50): section 24
+Senior Courts Act 2016 (2016 No 48): section 183(b), (c)
+Veterans’ Support Act 2014 (2014 No 56): section 278
+High Court Fees Amendment Regulations 2014 (LI 2014/181)
+District Courts Amendment Act 2011 Commencement Order 2013 (SR 2013/410)
+High Court Fees Amendment Regulations 2013 (SR 2013/388)
+High Court Fees (Trans-Tasman Proceedings Act 2010—Australian Judgments) Amendment Regula‐
+tions 2013 (SR 2013/349)
+Wellington, New Zealand:
+Published under the authority of the New Zealand Government—2024
+Notes
+High Court Fees Regulations 2013
+Version as at
+1 July 2024
+24
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,108 @@
+1 
+Order for Enforcement of the Act on Building Unit 
+Ownership 
+ 
+(Ministry of Justice Order No. 47 of May 23, 2003) 
+ 
+Pursuant to the provisions of Article 30, paragraph (5), Article 33, paragraph 
+(2), Article 39, paragraph (3), Article 42, paragraph (4), and Article 45, 
+paragraph (1) of the Act on Building Unit Ownership (Act No. 69 of 1962), the 
+Order for Enforcement of the Act on Building Unit Ownership is established as 
+follows. 
+ 
+(Electronic or Magnetic Records) 
+Article 1  The electronic or magnetic record specified by Ministry of Justice Order 
+that is provided for in Article 30, paragraph (5) of the Act on Building Unit 
+Ownership (Act No. 69 of 1962; hereinafter referred to as "the Act") is to be a 
+record of data that has been recorded into a file prepared using a magnetic disk 
+or an object capable of securely recording a fixed set of data by any equivalent 
+means. 
+ 
+(Means of Displaying the Content of Data Recorded in Electronic or Magnetic 
+Records) 
+Article 2  The means specified by Ministry of Justice Order that is provided for in 
+Article 33, paragraph (2) of the Act is the means of displaying the content of 
+the data that has been recorded in the electronic or magnetic record on paper 
+or on the screen of an output device. 
+ 
+(Electronic or Magnetic Means) 
+Article 3  (1) The means specified by the Ministry of Justice Order that is 
+provided for in Article 39, paragraph (3) of the Act is one of the following 
+means: 
+(i) a means of using an electronic data processing system that connects the 
+computer used by the sender and the computer used by the recipient via a 
+telecommunications line, through which data is transmitted via the 
+telecommunications line and recorded in a file stored on the computer used 
+by the recipient; 
+(ii) a means of delivering the record of the data that has been recorded in a file 
+prescribed in Article 1. 
+(2) The means set forth in the items of the preceding paragraph must enable the 
+recipient to prepare a document by outputting the record in the file to paper. 
+ 
+
+--------------------------------------------------------------------------------
+2 
+(Measures Used in Place of Signatures) 
+Article 4  The measures specified by Ministry of Justice Order that are provided 
+for in Article 42, paragraph (4) of the Act are the electronic signatures under 
+Article 2, paragraph (1) of the Act on Electronic Signatures and Certification 
+Business (Act No. 102 of 2000). 
+ 
+(Consent of Unit Owners to Resolutions by Electronic or Magnetic Means) 
+Article 5  (1) If a person who convenes a meeting seeks to decide on a resolution 
+by electronic or magnetic means pursuant to the provisions of Article 45, 
+paragraph (1) of the Act, the person must first indicate to the unit owners the 
+type and content of the electronic or magnetic means to be used and obtain 
+their consent in writing or by electronic or magnetic means. 
+(2) The type and content of the electronic or magnetic means referred to in the 
+preceding paragraph are the following matters: 
+(i) the electronic or magnetic means that the sender will use among those 
+provided for in the items of Article 3, paragraph (1); and 
+(ii) the means of recording data in the file. 
+(3) A resolution prescribed in Article 45, paragraph (1) of the Act must not be 
+decided on by electronic or magnetic means if the person convening the 
+meeting that has obtained the consent under the provisions of paragraph (1) is 
+informed by all or part of the unit owners in writing or by electronic or 
+magnetic means that they refuse to decide on a resolution by electronic or 
+magnetic means; provided, however, that this does not apply if all the unit 
+owners who have informed the person convening the meeting of this have given 
+renewed consent under the provisions of paragraph (1). 
+ 
+(Consent from the Other Party to a Notice or Demand by Electronic or 
+Magnetic Means) 
+Article 6  (1) A person seeking to issue a notice or demand by electronic or 
+magnetic means pursuant to the following provisions must first indicate the 
+type and content of the electronic or magnetic means they will use and obtain 
+consent in writing or by electronic or magnetic means from the other party to 
+the notice or demand: 
+(i) the provisions of Article 61, paragraph (9) of the Act; 
+(ii) the provisions of Article 61, paragraph (12) of the Act; and 
+(iii) the provisions of Article 63, paragraph (2) of the Act. 
+(2) The type and content of the electronic or magnetic means referred to in the 
+preceding paragraph are to be the following matters: 
+(i) the electronic or magnetic means that the sender will use among those 
+prescribed in the items of Article 3 paragraph (1); 
+(ii) the means of recording data in the file. 
+
+--------------------------------------------------------------------------------
+3 
+(3) A person who has obtained consent pursuant to the provisions of paragraph 
+(1) must not issue notice or a demand to the other party referred to in that 
+paragraph by electronic or magnetic means if the other party has stated in 
+writing or by electronic or magnetic means that they will not receive notices or 
+demands that are issued by electronic or magnetic means; provided, however, 
+that this does not apply if the other party has given renewed consent under the 
+provisions of that paragraph. 
+ 
+Supplementary Provisions 
+ 
+This Ministerial Order comes into effect as of June 1, 2003. 
+ 
+Supplementary Provisions  [Ministry of Justice Order No. 42 of September 
+1, 2021] 
+ 
+This Ministerial Order comes into effect as of the date on which the Act on the 
+Arrangement of Related Laws for the Formation of a Digital Society comes into 
+effect (September 1, 2021). 
+
+--------------------------------------------------------------------------------

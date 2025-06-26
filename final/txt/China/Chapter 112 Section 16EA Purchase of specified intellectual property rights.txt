@@ -1,0 +1,326 @@
+Metadata for pdf/HongKong/Chapter 112 Section 16EA Purchase of specified intellectual property rights.pdf: {'format': 'PDF 1.7', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': 'Mozilla Firefox 137.0.2', 'producer': 'cairo 1.18.0 (https://cairographics.org)', 'creationDate': "D:20250508134933+02'00", 'modDate': '', 'trapped': '', 'encryption': None, 'country': 'Hong Kong'}
+
+Country found in pdf/HongKong/Chapter 112 Section 16EA Purchase of specified intellectual property rights.pdf: Hong Kong
+
+Chapter 112
+Inland Revenue Ordinance
+29/06/2018
+16EA. Purchase of specified intellectual property rights
+(1)
+Despite section 17, this section applies in ascertaining the
+profits from a trade, profession or business in respect of which
+a person is chargeable to tax under this Part for any year of
+assessment.
+(2)
+Any  specified  capital  expenditure  incurred  by  the  person
+during the basis period for a year of assessment is to be
+deducted if the specified intellectual property right concerned
+is purchased for use in the trade, profession or business in the
+production  of  profits  in  respect  of  which  the  person  is
+chargeable to tax under this Part.
+(3)
+Unless subsection (4) applies and subject to subsections (5)
+and (6), a deduction allowable under subsection (2) is to be
+deducted by 5 equal amounts—
+(a)
+one for the year of assessment in the basis period for
+which the specified capital expenditure is incurred; and
+(b)
+one  for  each  of  the  next  succeeding  4  years  of
+assessment.
+(4)
+If the specified intellectual property right—
+(a)
+is  a  copyright,  performer’s  economic  right,  protected
+layout-design (topography) right, protected plant variety
+right or registered design; and (Replaced 24 of 2018 s. 5)
+(b)
+is due to expire at the end of its maximum period of
+protection, and that expiry is to occur before the expiry
+of the basis period for the last of the 5 succeeding years
+of assessment mentioned in subsection (3),
+subject to subsections (5) and (6), a deduction allowable under
+subsection (2) is to be deducted by a number of equal amounts
+—
+(c)
+one for the year of assessment in the basis period for
+which the specified capital expenditure is incurred; and
+(d)
+one for each of the next succeeding years a part or the
+whole  of  the  basis  period  of  each  of  which  years
+coincides with a part or the whole of the remaining part
+of the maximum period of protection.
+(5)
+A deduction mentioned in subsection (3) or (4) is allowable
+only if, at the end of the basis period for a year of assessment
+for  which  an  amount  is  to  be  deducted,  the  specified
+intellectual property right concerned has not been sold by the
+person who incurred the specified capital expenditure.
+(6)
+A deduction mentioned in subsection (3) or (4) is allowable
+only if—
+(a)
+the specified intellectual property right concerned has
+been used in the trade, profession or business in the
+production of profits in respect of which the person who
+incurred the specified capital expenditure is chargeable
+to tax under this Part;
+(b)
+(in the case of the specified intellectual property right
+being a copyright) the copyright subsists;
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+1 of 5
+5/8/25, 13:49
+
+--------------------------------------------------------------------------------
+(ba)
+(in the case of the specified intellectual property right
+being  a  performer’s  economic  right)  the  performer’s
+economic right has not expired; (Added 24 of 2018 s. 5)
+(bb)
+(in the case of the specified intellectual property right
+being a protected layout-design (topography) right) the
+protection of the layout-design has not ceased; (Added 24 
+of 2018 s. 5)
+(bc)
+(in the case of the specified intellectual property right
+being a protected plant variety right) the grant of the
+protected plant variety right is in force; (Added 24 of 
+2018 s. 5)
+(c)
+(in the case of the specified intellectual property right
+being a registered design) the registration of the design is
+in force; and
+(d)
+(in the case of the specified intellectual property right
+being a registered trade mark) the registration of the
+trade mark is in force,
+during a part or the whole of the basis period for a year of
+assessment for which an amount is deducted.
+(7)
+If any specified intellectual property right is used partly in the
+production of profits chargeable to tax under this Part and
+partly for any other purposes, the deduction allowable under
+this section is that part of the specified capital expenditure that
+is  proportionate  to  the  extent  of  the  use  of  the  specified
+intellectual  property  right  in  the  production  of  the  profits
+chargeable to tax under this Part.
+(8)
+If any specified intellectual property rights in respect of which
+a deduction is allowable under this section are purchased or
+sold together or with any other assets for one consideration,
+the Commissioner may, for the purposes of the calculation of
+the deduction under subsection (2) or the calculation of the
+trading receipt under section 16EB(2), and having regard to all
+the circumstances of the transaction, allocate a consideration
+for the purchase or sale of each individual asset.
+(9)
+For the purposes of this section and section 16EB,  if  the
+Commissioner is of the opinion that the consideration for the
+purchase or sale of any specified intellectual property right
+does  not  represent  the  true  market  value  of  the  specified
+intellectual property right at the time of that purchase or sale,
+the Commissioner may determine the true market value, and
+the amount so determined is to be treated—
+(a)
+for the purposes of subsection (2), as the specified capital
+expenditure; and
+(b)
+for the purposes of section 16EB(2), as the proceeds of
+sale of the specified intellectual property right, and a
+reference to relevant proceeds of sale is to be construed
+accordingly.
+(10)
+For  the  purposes  of  this  section,  any  specified  capital
+expenditure incurred for the purposes of a trade, profession or
+business by a person about to carry on the trade, profession or
+business is to be treated as if it had been incurred by that
+person on the first day on which the person carries on the
+trade, profession or business.
+(11)
+In this section and sections 16EB and 16EC—
+copyright () means—
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+2 of 5
+5/8/25, 13:49
+
+--------------------------------------------------------------------------------
+(a)
+a copyright within the meaning of section 2(1) of the
+Copyright  Ordinance  (Cap.  528),  including  an
+unregistered corresponding design as defined by section
+87(5)(b) of that Ordinance; or
+(b)
+any right that—
+(i)
+subsists under the law of a place outside Hong
+Kong in any work in which a copyright referred to
+in paragraph (a) may subsist; and
+(ii)
+corresponds to a copyright referred to in paragraph
+(a);
+maximum period of protection (保期) means—
+(a)
+in the case of a specified intellectual property right that is
+a copyright—
+(i)
+(if  the  copyright  subsists  under  the  Copyright
+Ordinance (Cap. 528))  the  maximum  period  for
+which  the  copyright  may  subsist  under  that
+Ordinance; or
+(ii)
+(if the copyright subsists under the law of a place
+outside Hong Kong) the maximum period for which
+the copyright may subsist under the law of that
+place;
+(ab)
+in the case of a specified intellectual property right that is
+a performer’s economic right—
+(i)
+(if the right is conferred by Part III of the Copyright
+Ordinance (Cap. 528))  the  maximum  period  for
+which  the  right  may  be  conferred  under  that
+Ordinance; or
+(ii)
+(if  the  right  subsists  under  the  law  of  a  place
+outside Hong Kong) the maximum period for which
+the right may subsist under the law of that place;
+(Added 24 of 2018 s. 5)
+(ac)
+in the case of a specified intellectual property right that is
+a protected layout-design (topography) right—
+(i)
+(if the right is in a layout-design (topography) that
+is protected under section 3 of the Layout-design
+(Topography)  of  Integrated  Circuits  Ordinance
+(Cap. 445))  the  maximum period  for  which  the
+layout-design  may  be  protected  under  that
+Ordinance; or
+(ii)
+(if  the  right  subsists  under  the  law  of  a  place
+outside Hong Kong) the maximum period for which
+the right may subsist under the law of that place;
+(Added 24 of 2018 s. 5)
+(ad)
+in the case of a specified intellectual property right that is
+a protected plant variety right—
+(i)
+(if the right is granted under Part III of the Plant
+Varieties  Protection  Ordinance  (Cap.  490))  the
+maximum period for which the grant of the right
+may be in force under that Ordinance; or
+(ii)
+(if  the  right  subsists  under  the  law  of  a  place
+outside Hong Kong) the maximum period for which
+the right may subsist under the law of that place;
+(Added 24 of 2018 s. 5)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+3 of 5
+5/8/25, 13:49
+
+--------------------------------------------------------------------------------
+(b)
+in the case of a specified intellectual property right that is
+a registered design—
+(i)
+(if the design is registered under the Registered
+Designs  Ordinance  (Cap.  522))  the  maximum
+period  for  which  the  design  may  be  registered
+under that Ordinance; or
+(ii)
+(if the design is registered under the law of a place
+outside Hong Kong) the maximum period for which
+the design may be registered under the law of that
+place;
+performer (	
+者) has the meaning given by section 200(2) of the
+Copyright Ordinance (Cap. 528); (Added 24 of 2018 s. 5)
+performer’s economic right (	
+者的利) means—
+(a)
+a right mentioned in section 215(1)(a), (b), (c) or (d) of
+the Copyright Ordinance (Cap. 528) and conferred by
+Part III of that Ordinance on a performer; or
+(b)
+a  right  that  corresponds  to  the  right  mentioned  in
+paragraph  (a)  and  subsists  under  the  law  of  a  place
+outside Hong Kong; (Added 24 of 2018 s. 5)
+protected layout-design (topography) right (受保的布圖(拓
+圖)利) means—
+(a)
+a right in a layout-design (topography) that is protected
+under section 3 of the Layout-design (Topography) of
+Integrated Circuits Ordinance (Cap. 445); or
+(b)
+a  right  that  corresponds  to  the  right  mentioned  in
+paragraph  (a)  and  subsists  under  the  law  of  a  place
+outside Hong Kong; (Added 24 of 2018 s. 5)
+protected plant variety right (受保物品種利) means—
+(a)
+a  right  granted  under  Part  III  of  the  Plant  Varieties
+Protection Ordinance (Cap. 490); or
+(b)
+a  right  that  corresponds  to  the  right  mentioned  in
+paragraph  (a)  and  subsists  under  the  law  of  a  place
+outside Hong Kong; (Added 24 of 2018 s. 5)
+registered design (冊) means a design registered under
+section 25 of the Registered Designs Ordinance (Cap. 522) or
+under the law of any place outside Hong Kong;
+registered trade mark (冊標) means a trade mark registered
+under section 47 of the Trade Marks Ordinance (Cap. 559) or
+under the law of any place outside Hong Kong;
+specified capital expenditure (!明#$開⽀)—
+(a)
+means any capital expenditure incurred on the purchase
+of any specified intellectual property right and includes
+legal expenses and valuation fees incurred in connection
+with the purchase; but
+(b)
+does not include any capital expenditure that may be
+deducted under any other section of this Part;
+Note—
+Please also see subsection (14). (Added 24 of 2018 s. 5)
+specified intellectual property right (!明知())  means  a
+copyright, performer’s economic right, protected layout-design
+(topography) right, protected plant variety right, registered
+design or registered trade mark. (Replaced 24 of 2018 s. 5)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+4 of 5
+5/8/25, 13:49
+
+--------------------------------------------------------------------------------
+(12)
+In this section and sections 16EB and 16EC, a reference to the
+purchase or sale of any specified intellectual property right
+includes the purchase or sale of a share or interest in the
+specified intellectual property right.
+(13)
+To avoid doubt, any expenditure incurred on the acquisition of
+a licence (as defined by section 16EC(8)) of any specified
+intellectual property right is not deductible under this section.
+(14)
+In this section, a reference to specified capital expenditure is—
+(a)
+if specified capital expenditure is incurred in relation to a
+copyright, registered design or registered trade mark—a
+reference to specified capital expenditure incurred during
+a year of assessment beginning on or after 1 April 2011;
+or
+(b)
+if specified capital expenditure is incurred in relation to a
+performer’s  economic  right,  protected  layout-design
+(topography) right or protected plant variety right—a
+reference to specified capital expenditure incurred during
+a year of assessment beginning on or after 1 April 2018.
+(Replaced 24 of 2018 s. 5)
+(Added 21 of 2011 s. 6)
+Hong Kong e-Legislation - Print Selected Documents
+https://www.elegislation.gov.hk/printhtml
+5 of 5
+5/8/25, 13:49
+
+--------------------------------------------------------------------------------

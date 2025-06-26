@@ -1,0 +1,1112 @@
+Ch. 26 Building and Construction Law
+1 INTRODUCTION
+(1) Basic features of Singapore building and construction law
+26.1.1 Building and construction law in Singapore shares common features with its equivalent in other
+common law jurisdictions. Contracts between participants within the building and construction
+industry are typically in standard form.
+26.1.2 The terms and conditions of standard form contracts used in Singapore are not identical to
+international contracts, but follow a similar basic structure.
+(2) Relevant areas of law: contract, tort and statutes
+26.1.3 Aside from the law of contract, the law of torts also has a significant impact on the rights and
+liabilities of parties in the building and construction industry.
+26.1.4 Statutes and regulations also govern the conduct of the industry and give expression to public
+policy considerations. For instance, as with many of the Commonwealth jurisdictions, Singapore has
+introduced legislation to govern the substantive rights of parties in terms of payments, and mandatory
+dispute resolution in support of the right to timely payment.
+2 BUILDING AND CONSTRUCTION CONTRACTS IN SINGAPORE
+A. Types of contractual arrangements
+26.2.1 Building and construction contracts in Singapore have been shaped by both colonial and
+indigenous arrangements and practices. There are significant dierences between local and
+international standard form contracts; however, the organisational structure of the local standard
+form and the contractual arrangements between parties fall into internationally recognisable
+categories, namely:
+• “traditional” contracts;
+• “design and build” contracts; and
+• traditional contracts
+(1) Traditional contracts
+(i) Appointment
+26.2.2 In the traditional system of contracting, the owner or developer of an intended project first
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+1 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+engages someone to administer the contract. For a building project, this is typically the architect.
+Other professionals, such as the quantity surveyor, structural engineer, and the mechanical and
+electrical engineers are then appointed. Contracts are entered into between the employer and these
+consultants. Popular standard form contracts for the appointment of:
+• architects: Singapore Institute of Architects (“SIA”) Conditions of Appointment (containing the
+Scale of Professional Charges) ; and
+• engineers: Association of Consulting Engineers (“ACES”)
+(ii) Design
+26.2.3 The architect or engineer then prepares a design. The architect (sometimes in collaboration
+with other consultants) prepares documentation in suicient detail to enable contractors to submit
+competitive tenders, such as:
+• drawings;
+• specifications;
+• bills of quantities; and
+• other documentation constituting contract documents.
+(iii) Tender, design and /or construction
+26.2.4 The successful tenderer is awarded the contract. In the course of construction, the design
+function is usually le in the hands of the consultants. There will not be any competitive design
+submitted by contractors.
+(iv) Contract arrangements
+26.2.5 Contract arrangements between parties in a “traditional” system are generally based on a
+standard form contract. For the construction of buildings, the most popular forms include standard
+forms and their derivatives by:
+• The SIA (currently 2016 Ed.) ;
+• The Royal Institute of British Architects (“RIBA”) ; and
+• The Joint Contracts Tribunal (“JCT”).
+26.2.6 The public sector has its own set of standard forms for the traditional system, the Public Sector
+Standard Conditions of Contract for Construction Works (PSSCOC, currently in its 7th Ed (2014)).
+(2) Design and build contracts
+26.2.7 In recent years, the international and local trend has been to move away from the “traditional
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+2 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+system” to alternative contract arrangements. For instance, “design and build” contracts have
+increased in popularity.
+26.2.8 Under a design and build contract, the contractor agrees to accept all responsibility for the
+structure he constructs. In addition to his usual obligations for the completed work, he also agrees to
+accept obligations relating to design. Whether a construction contract is a “design and build” contract
+is a matter of interpretation of the terms: Goh Eng Lee Andy v Yeo Jin Know [2016] 4 SLR 292. It
+necessarily operates as a lump sum contract in that a contractor has to do everything necessary to
+achieve what he contracted to do without an adjustment in price.  A design and build contractor would
+not be able to seek additional payment unless he can show that the works undertaken were
+substantially dierent from the original design or that the additional expenses were incurred because
+of the employer’s breach.
+(i) Local standard forms
+26.2.9 To accommodate such new arrangements, the following local standard forms are available:
+• For the public sector: Public Sector Standard Conditions of Contract (“PSSCOC”) for Design
+and Build.
+• Real Estate Developer’s Association, Singapore (“REDAS”) Design and Build Conditions of
+Contract.
+• The new SIA Building Contract 2016 (Design and Build).
+(ii) International standard forms
+26.2.10 International standard forms are also available:
+• FIDIC Suite of Contracts that include, the “Yellow Book” (Conditions of Contract for Plant and
+Design-Build), the “Orange Book” (Conditions of Contract for Design-Build and Turnkey), “the
+Silver Book” (Conditions of Contract for EPC/Turnkey Projects) and DOB Contract (Conditions
+of Contract for Design, Build and Operate Projects).
+• JCT Suite of Standard Form Contracts, the latest of which is the 2005 series (with amendments
+in 2009 and 2011), for use in the construction of petrochemical and pharmaceutical facilities
+involving the main contractor in the design of the facilities and the procurement of equipment
+and machinery, bespoke Engineering Procurement and Construction (“EPC”) contracts are
+commonly used.
+B. Types of contracts and related contract documents
+(1) Standard form contracts
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+3 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+26.2.11 Standard form contracts usually contain provisions relating to certification of payment,
+variations, and defective work within its general terms and conditions which usually has priority over
+any other document forming part of the contract. The standardisation of such terms and conditions
+makes the administration of such contracts much easier. In addition, the evolution of changes
+resulting from case law will be more easily identifiable in standard form contracts.
+(2) Non-standard form contracts
+26.2.12 In contrast, the general terms and conditions of non-standard form contracts, may be less
+easily identifiable and may require greater scrutiny for contract administration purposes. In the
+absence of a priority of documents clause, ambiguities could be diicult to resolve and the contra
+proferentem rule would apply against the contract originator.
+(3) Related documents
+26.2.13 Disputes could occur if the contract is contained in or evidenced by the main contract together
+with drawings, specifications, bills of quantities, exchanges of correspondence, and quotations. It may
+be contested as to which related documents form part of the contract: Ohbayashi-Gumi Ltd v Kian
+Hong Holdings Pte Ltd [1987] SLR 94; [1987] 2 MLJ 110, CA). Generally, specially draed provisions or
+contract documents will take precedence over the printed terms and conditions: Ser Kim Koi v GTMS
+Construction Pte Ltd [2016] 3 SLR 51. Related documents are either admissible as evidence in the
+interpretation of contracts, or as express terms. Where a document was signed by the parties and was
+draed specifically to govern the relationship between the parties to a subcontract, it was held that
+the terms of another document, taken from the main contract to which the subcontractor was not a
+party, could not have been intended to supersede it: Grouteam Pte Ltd v UES Holdings Pte Ltd [2016] 5
+SLR 1011.
+(i) Admissibility of extrinsic evidence in the interpretation of contracts
+26.2.14 In Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd [2008] 3
+SLR 1029 (“Zurich Insurance”), the Court of Appeal held that s 94(f) of the Evidence Act is “a
+fundamental rule of interpretation” and governs contractual interpretation in Singapore. S 94(f) allows
+extrinsic evidence to be admitted in the contextual interpretation of contracts, if the evidence:
+• does not contradict, vary, add to or subtract from the contract’s terms;
+• is relevant, in that it would aect the way in which the language of the document would be
+understood by a reasonable man;
+• is reasonably available to all contracting parties; and
+• relates to a clear and obvious context.
+However, the plain language of the contract must be ambiguous or absurd, before the Court is allowed
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+4 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+to interpret the contract dierently from that demanded by its plain language.
+(ii) As an express term
+26.2.15 Aside from written documents, an express term may also be found in diagrams and plans.
+In Sheng Siong Supermarket Pte Ltd v Carilla Pte Ltd [2011] 4 SLR 1094, a dispute arose as to whether a
+precondition to the tenancy agreement was that permission would be granted for the premises
+concerned to be used as a supermarket.
+26.2.16 The High Court decided in favour of Sheng Siong. It found that a plan of the premises annexed
+to the final tenancy agreement showed a supermarket, and therefore constituted an “express
+provision” in support of such a precondition.
+3 ARCHITECTS, ENGINEERS AND SURVEYORS
+26.3.1 In Singapore, in order to comply with the requirements of planning and building legislation, the
+appointment of a `qualified person´ by the employer is oen necessary (Building Control Act, Cap 29,
+s 6(3). The qualified person must be a registered architect or a professional engineer. The qualified
+person has statutory obligations that he must properly discharge.
+A. Architects
+(1) Regulated by the Architects Act
+26.3.2 Architects in Singapore are regulated by the Architects Act, Cap 12, While the Architects Act does
+not define who is an architect, “architectural services” are defined under s 2(b) to include selling or
+supplying for gain or reward any architectural plan, drawing, tracing or the like for use in the
+construction, enlargement or alteration of any building or part thereof.
+(2) Registered architect
+26.3.3 Under s 10(1), no one can "draw or prepare any architectural plan, drawing, tracing, design,
+specification or other document intended to govern the construction, enlargement or alteration of any
+building or part thereof in Singapore" unless he is a registered architect with a practising certificate or
+unless he is someone working under the direction or supervision of such an architect. Under s 10(3),
+the designation “architect” or any of its derivatives cannot be used by anyone unless he is a registered
+architect.
+(3) Board of Architects
+26.3.4 A register of architects is kept and maintained by the Board of Architects (see also s 8). The
+Board is also responsible for the issuance of practising certificates and exercises overall control over
+the profession. It has power to conduct disciplinary proceedings and may cancel the registration of
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+5 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+any registered architect or suspend him from practice in specified circumstances.
+(4) Other professional bodies
+26.3.5 In addition to registration, most architects are also members of professional bodies. In
+Singapore, the main body is the Singapore Institute of Architects (SIA) (http://sia.org.sg/). Besides
+membership of the SIA, architects educated abroad are oen also members of foreign professional
+bodies like the Royal Institute of British Architects (RIBA) for those educated in the United Kingdom
+B. Engineers
+(1) Regulated by the Professional Engineers Act
+26.3.6 In Singapore, engineers are regulated by the Professional Engineers Act, Cap 253. There are no
+restrictions in Singapore against anyone describing himself as an “engineer”. Under s 2 of the Act,
+“professional engineering services” and “professional engineering work” are defined; however, there is
+no definition of the term “engineer” or “professional engineer” in the Act.
+(2) Registered engineer
+26.3.7 Nonetheless, a person must be properly registered under the Act before he is entitled to call
+himself a “professional engineer”, or use the word “engineer” or the abbreviation “Er.” or “Engr.” as a
+title before his name, or to use any word, name or designation that will lead to the belief that the
+person is a registered professional engineer.
+(3) Professional Engineers Board
+26.3.8 A Professional Engineers Board was established by the Professional Engineers Act. The Board
+keeps and maintains a register of professional engineers, a register of practitioners and a register of
+licensees. The register of professional engineers contains the names, qualifications and other
+particulars of all persons registered under the Act whereas the register of practitioners, kept and
+maintained annually, contains the particulars of those professional engineers with practising
+certificates.
+(4) Other professional bodies
+26.3.9 Besides registration as a professional engineer, an engineer in Singapore is usually also a
+member of a professional body, like the Institution of Engineers, Singapore (IES) or Association of Civil
+Engineers, Singapore (ACES). Many engineers who are trained overseas are also members of foreign
+professional bodies like the Institution of Civil Engineers, United Kingdom.
+C. Quantity surveyors
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+6 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+26.3.10 The term “surveyor” encompasses a large number of fields, including:
+◦ building surveyors who examine and evaluate defects to buildings;
+◦ land and hydrographic surveyors;
+◦ valuers of properties; and
+◦ quantity surveyors.
+(1) Regulated by the Land Surveyors Act
+26.3.11 The registration of land surveyors is provided for under the Land Surveyors Act, Cap 156. It is
+also provided that no person can certify to the correctness or accuracy of any title survey unless he is a
+registered surveyor who has in force a practising certificate. Surveyors practising other types of survey
+work, such as topographical, engineering and hydrographic surveying, need not be registered under
+the Act.
+(2) Land Surveyors Board
+26.3.12 A Land Surveyors Board is also established by the Act. Among its other functions, it keeps and
+maintains a register of surveyors, a register of practitioners, and a register of licensees.
+(3) Quantity surveyors
+26.3.13 Quantity surveyors, who are sometimes described by themselves and other construction
+professionals as “costs consultants” or “construction economists”, are responsible for the evaluation
+of construction costs.
+26.3.14 These costs would usually include site preparation costs, labour, material and equipment
+costs, professional fees, taxes and maintenance costs. There are no registration requirements before
+someone can practise as a quantity surveyor nor are there any prohibitions against anyone styling
+himself as a quantity surveyor. There is no equivalent of the Board of Architects or the Professional
+Engineers Board to govern the professional conduct of quantity surveyors.
+(4) Singapore Institute of Surveyors and Valuers
+26.3.15 Many are also members of the local professional body for valuers and surveyors, namely, the
+Singapore Institute of Surveyors and Valuers (“SISV”). SISV has three divisions that represent the
+various fields of surveying, namely, quantity surveyors, land surveyors, and valuation and the general
+practice surveyors. An acceptable degree or professional qualification and at least two years of
+relevant postgraduate experience are necessary for membership. A person can also seek membership
+of professional bodies like the Royal Institution of Chartered Surveyors, United Kingdom which
+conduct examinations in the various fields of surveying.
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+7 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+D. Duties, obligations and liabilities of owners, architects, engineers and surveyors
+26.3.16 The obligations of the owners, architects, engineers and surveyors are determined by the
+agreement between parties, regulations and statutory requirements, and common law.
+(1) Standard form contract
+26.3.17 In Singapore, professional bodies like SIA and ACES have published standard form agreements
+that architects and engineers can put forward to the person engaging them. Contracts of engagement
+can also be specially draed, or adapted from the standard form agreements. A contract might just
+state that the terms and conditions of engagement are to be “in accordance” with the standard
+agreement of the relevant professional body: Soon Nam Co Ltd v Archynamics Architects [1978-1979]
+SLR 123.
+26.3.18 The arrangement between parties generally determines each party’s duties, obligations and
+liabilities.
+(2) Traditional building contract model
+26.3.19 In the traditional building contract model, the obligation of the employer or owner includes:
+• securing planning permission and regulatory permits to enable works to proceed, under the
+Planning Act (Cap 2323, 1998 Rev Ed) ;
+• allowing the contractor suicient possession of and access to the site to enable works to
+proceed, viz. a physical means of access and opportunity to enter the site by this access: LRE
+Engineering Services Ltd v Otto Simon Carves Ltd (1983) 24 BLR 127 at 137.
+• An obligation to do all things necessary to bring about completion: Evergreat Construction Co
+Pte Ltd v Presscrete Engineering Pte Ltd [2006] 1 SLR(R) 634.
+• Paying the contractor on time; typically, this is made through progress payments on an
+interim valuation of works completed up to a particular date or milestone.
+• An obligation not to prevent the contractor from performing his duties under the contract: TT
+International Ltd v Ho Lee Construction Pte Ltd [2017] SGHC 62.
+(3) Duties of an Architect or Engineer
+26.3.20 The general duties of an architect or engineer can include:
+• working with the project manager (if any) ;
+• completing the design and overseeing the development of the project;
+• taking on the role of a “lead consultant”;
+• supervising the works and ensuring the owner’s interests are properly served by the
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+8 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+contractor;
+• performing the role of both certifier and approving authority, on progress payments and final
+accounts, and other issues such as prolongation, quality, and workmanship; and
+• the positive obligation of informing the quantity surveyor of defective work, such that the
+work is not included in the interim valuation (in the absence of express terms to the contrary).
+(4) Duties of a Quantity Surveyor
+26.3.21 The general duties of a quantity surveyor can include:
+• preparation of tender documents;
+• contract documentation work;
+• providing estimates for feasibility studies;
+• advising on construction procurement; and
+• supporting the architect or engineer in certification, in the evaluating the contractor’s
+progress payment and final account claims.
+(5) Duties and obligations under design and build contracting model
+26.3.22 In a design and build arrangement, the functions of design and construction are integrated.
+The design architect, structural engineer and other design consultants are not directly employed by
+the owner, but employed instead by the contractor.
+26.3.23 In comparison to the obligations under a traditional arrangement, the architect or engineer is
+not expected to extensively supervise or administer the contract, except where statutory regulations
+require professional oversight. Instead, the contractor takes on additional obligations, such as
+ensuring that the works delivered are fit for purpose.
+26.3.24 Further, the architect and engineer are not directly accountable to the owner, but may be liable
+in tort.
+26.3.25 Subject to express provisions, the obligations of the quantity surveyor are generally similar to
+that of the traditional contracting model.
+(6) Liabilities of professionals
+26.3.26 In common law, an architect is subjected to “minimum standards” in carrying out his duties.
+These duties include:
+• The duty to act in good faith and to the best of his uninfluenced professional judgment: Aoki
+Corporation v Lippoland (Singapore) Pte Ltd [1995] 2 SLR 609;
+• The duty to perform his duty, or exercise his power with reasonable diligence and in
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+9 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+accordance with the contract: Lian Soon Construction v Guan Qian Realty Pte Ltd [1999] 3
+SLR(R) 518 at [22];
+• The duty to act fairly and on a rational basis in making any determination: Liew Ter Kwang v
+Hurry General Contractor Pte Ltd [2004] 3 SLR(R) 59; [2004] SGHC 97;
+• The duty to apply professional skill and function, but not to be an agent of the developer: Hiap
+Hong & Co Pte Ltd v Hong Huat Development Co (Pte) Ltd [2001] 1 SLR(R) 458; [2001] SGCA 17.
+26.3.27 The Architect and Quantity Surveyor ought to “apply [their] mind[s] to the issue” in the
+valuation of amounts when issuing instructions or certificates: H P Construction & Engineering Pte Ltd
+v Chin Ivan [2014] 3 SLR 1318 (HC) at para [52]. If there is proof of damage, the Quantity Surveyor may
+also be liable in a claim for negligence: Hyundai Engineering & Construction Co Ltd v Rankine & Hill
+(Singapore) Pte Ltd [2004] SGHC 178.
+26.3.28 An engineer cannot contract out of regulatory oversight of his professional conduct by the
+Professional Engineers Board (“PEB”) ; however, the Professional Engineers Act allows, but does not
+compel complaints to be made to the PEB. That said, parties should not seek to interfere with a
+professional engineer’s independence or influence the professional engineer in his course of work: Poh
+Cheng Chew v K P Koh & Partners Pte Ltd and another [2014] 2 SLR 573 at [81] and [95].
+4 PERFORMANCE BONDS
+26.4.1 Performance bonds provide the employer with some security against non-performance by the
+contractor: see Wah Heng Glass & Metal Products Pte Ltd v Gammon-CCI Construction Ltd [1998] SGHC
+48 for a brief description of the purpose and usage of a performance bond.
+A. Performance bonds issued in Singapore
+26.4.2 In Singapore, the bond is usually given by financial institutions, such as banks and insurance
+companies, who in turn act as sureties. The amount secured is typically 5% to 10% of the value of the
+contract. It is typically issued valid for one year and subject to annual renewals until the completion of
+the project or the expiry of the maintenance or defect liability period. The extent and security provided
+by the bond depends on its nature and type, and its terms and conditions. The only standard form
+performance bond used in Singapore is found in the appendix of the PSSCOC.
+(1) Nature and types
+26.4.3 Confusion could arise as to the meaning to be attached to what is commonly referred to as a
+“performance bond”, for four reasons:
+1. It has been described by various labels, including:
+a. performance bond;
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+10 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+b. b. performance guarantee;
+c. c. first demand bond, or its American sibling, the stand-by letter of credit.
+2. In its application or usage, it could be used to secure various stages of the construction
+process. The documentation concerned is oen described with reference to that particular
+process. For example:
+a. tender or bid bond;
+b. advance payment bond;
+c. retention money bond; or
+d. maintenance bond, etc.
+3. Conditions attached to the call on the bond can dier, depending on whether it is:
+a. payable on demand (“demand bonds”); or
+b. upon proof of default (“default bonds”)
+4. It could require the surety to either:
+a. pay money; or
+b. perform the works le undone by the contractor.
+Such a bond is usually given by the parent company of the contractor. However, such a bond is not
+popular with local employers who prefer cash payment. They are usually accepted by MNC employers
+operating in Singapore, who have engaged contractors from their home country under arrangements
+and conditions similar to those found in the home country.
+26.4.4 Disputes typically involve whether the conditions attached to the call on the bond have been
+triggered, and in particular, whether an injunctions against the financial institution is justified.
+(2) Demand bonds: Only fraud or unconscionability will permit injunction against payment
+26.4.5 It has been recognised that performance bonds, particularly, those expressed to be payable on
+demand, stand on a similar footing as irrevocable letters of credit and that an injunction restraining a
+call or payment upon the bond will not be granted unless fraud or unconscionability is involved. There
+is also no distinction between the principles to be applied in the cases dealing with attempts to
+restrain banks from making payment from those dealing with restraint of beneficiaries from calling
+upon the bond: Bocotra Construction Pte Ltd & Ors v Attorney General (No 2) [1995] 2 SLR 733 (CA).
+(3) Clear case of fraud or unconscionability required for injunction
+26.4.6 The sole consideration in the application for an injunction is whether there is fraud or
+unconscionability. The party seeking the injunction would be required to establish a clear case of fraud
+or unconscionability in interlocutory proceedings. It is not enough to raise "mere allegations". In the
+UK, an interlocutory injunction will not therefore be granted against a bank which has given a bond or
+guarantee to restrain its payment, since the bank must honour it according to its terms, unless it has
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+11 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+clear notice or evidence or fraud: Edward Owen Engineering Ltd v Barclays Bank International Ltd
+[1978] 1 All ER 976. As regards the standard of proof of fraud, the courts have accepted, for cases
+involving letters of credit, what is known as "the Ackner standard" in assessing allegations of fraud in
+applications for interlocutory injunctions (propounded by Ackner LJ in United Trading Corporation v
+Allied Arab Bank [1985] 2 Lloyd's Rep 554; applied in Singapore in Korea Industry Co Ltd v Andoll Ltd
+[1989] 3 MLJ 449).
+(4) Unconscionability is distinct from fraud
+26.4.7 There is a recent line of cases, mostly in the High Court, elaborating on the requirement of
+"unconscionability" as distinct from "fraud", thus departing from the UK position. In the decision of
+the High Court in Min Thai Holdings Pte Ltd v Sunlabel & Anor [1999] 2 SLR 368, the court stated that
+the concept of unconscionability "involves unfairness, as distinct from dishonesty or fraud, or conduct
+so reprehensible or lacking in good faith that a court of conscience would either restrain the party or
+refuse to assist the party." The doctrine that unconscionability is a separate ground from "fraud" was
+reiterated by the Court of Appeal in Samwoh Asphalt Premix Pte Ltd v Sum Cheong Piling Pte Ltd
+[2002] 1 SLR 1; see also JBE Properties v Gammon [2010] SGCA 46.
+26.4.8 The Court of Appeal has noted that the letter of credit serves a dierent function from a
+performance bond; hence, a lower threshold of unconscionability (instead of fraud) applies in
+restraining a call on a performance bond: JBE Properties v Gammon [2010] SGCA 46.
+(5) Strong prima facie case of unconscionability for contractor to restrain employer as beneficiary
+26.4.9 Nonetheless, a contractor who seeks to restrain the employer as beneficiary of the performance
+bond from calling on it must establish a strong prima facie case of unconscionability: AES Façade Pte
+Ltd v Wyse Pte Ltd and another [2018] SGHC 163. Recently, the following principles on
+unconscionability have been described as (a) the courts are slow to upset the status quo and disrupt
+the allocation of risk which the parties have decided upon themselves (b) a strong prima facie case of
+unconscionability must be established (c) unconscionability suggests unfairness or bad faith and
+ought not be raised where there are genuine disputes and (d) the court need not carry out a detailed
+examination of the merits of the case: Tactic Engineering Pte Ltd v Sato Kogyo (s) Pte Ltd [2017] SGHC
+103.
+26.4.10 The call on a bond can considered unconscionable “where either the beneficiary of the
+performance bond had by its own default contributed to the circumstances which founded the call, or
+both parties were wholly innocent”: Ryobi-Kiso (S) Pte Ltd v Lum Chang Building Contractors Pte Ltd
+[2013] SGHC 86 at [19]. A call on a performance bond ought to be restrained if the caller did not have
+an honest belief that there was any non-performance in respect of the underlying contract:  Ryobi
+Tactics Pte Ltd v UES Holdings Pte Ltd and another and another matter 
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+12 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+[2019] SGHC 11.
+26.4.11  Parties may be able to agree by contract to exclude unconscionability as a ground for stopping
+a call on a bond provided clear language is used: CKR Contract Services Pte Ltd v Asplenium Land Pte
+Ltd [2015] 3 SLR 1041.
+5 SUBCONTRACTS
+A. Explanation of subcontracts
+(1) Usual practice for contractors to engage subcontractors
+26.5.1 In Singapore, as is the case elsewhere, it is usual for the contractor to engage sub-contractors to
+whom he will owe and be entitled to contractual obligations according to the terms of the sub-
+contract. For larger projects, sub-contracts are also usually in standard forms that are mostly
+derivatives of the main contract forms. There would be appropriate cross-references between the
+main and sub-contract forms and some provisions of the main contract may even be replicated in the
+sub-contract. The sub-contractor will not normally owe any direct contractual obligations to the
+employer or consultants.
+(2) Subcontracts can vary considerably in type
+26.5.2 The type of contractual arrangements that can be arrived at in sub-contracts can vary
+considerably. They can involve the supply of labour only, a supply of goods and materials only, a
+supply and build arrangement, or even a complete “design and build” arrangement. Most of the
+principles of law applicable to a main contract would also be applicable to a sub-contract.
+B. Employer’s selection of sub-contractors
+(1) Traditional system: Employer selects specialist contractors who enter into sub-contract with main
+contractor
+26.5.3 In the traditional system, it is usual to provide in the main contract, terms that allow the
+employer to select for the main contractor, certain specialist contractors whose participation in the
+project he desires. The specialist contractor is then usually made to enter into a sub-contract with the
+main contractor. This process is usually described as a “nomination”.
+(2) Two standard form nominated sub-contracts widely used in Singapore
+26.5.4 Two standard form nominated sub-contracts are in wide usage in Singapore. They are:
+• the Standard Conditions of Nominated Sub-Contract for use in conjunction with Public Sector
+Conditions of Contract for Construction Work 2008 (now in its 5th edition) ; and
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+13 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+• the SIA Conditions of Sub-Contract for use in conjunction with the main contract (now in its
+8th edition).
+C. Incorporation of main contract terms
+(1) Express terms and contra proferentum
+26.5.5 As the sub-contract obligations commonly mirror that of the main contract (in a limited aspect),
+the drasman of sub-contracts typically incorporates the terms of the main contract by reference. As a
+general rule, anything in the main contract that is not applicable or appropriate in the sub-contract
+ought not to be impliedly incorporated: Star-Trans Far East Pte Ltd v Norske-Tech Ltd [1996] 2 SLR 409
+(CA) .
+(2) Whether or not a provision is incorporated depends on intention of parties
+26.5.6 The relevant principle in ascertaining whether a provision or a document ought to be
+incorporated is to ascertain the intention of the parties. Where the meaning of the provisions already
+in the sub-contract is perfectly clear, there can be no resort to other documents to give another
+meaning to it. Where the drasman had purposely le out any condition which he could without
+diiculty have put in, then the contra proferentem rule may be applied to prevent the clause or
+document from forming part of the sub-contract: Union Workshop (Construction) Co v Ng Chew Ho
+Construction Co Sdn Bhd [1978] 2 MLJ 22. Where the alleged clause incorporating terms of the main
+contract in the sub-contract is unclear or ambiguous, as where it merely provides that “the sub-
+contractor shall observe, perform and comply with all the provisions of the main contract on the part
+of the contractor to be observed, performed and complied with so far as they relate and apply to the
+sub-contract works” it is unlikely that the court will find that such a clause has the eect of
+incorporating the provisions of the main contract into the sub-contract: Kum Leng General Contractor
+v Hytech Builders Pte Ltd [1996] 1 SLR 751.
+(3) Incorporation via back-to-back provisions
+26.5.7 Similarly, incorporation solely via back-to-back provisions will not suice. Rather, back-to-back
+provisions should be “construed in light of the factual matrix known to the parties at the time they
+contracted”. However, the right to payment may still persist on a back-to-back basis with the main
+contract, if “work had been accepted or certified for payment following an application for payment for
+such work having been made” by the subcontractor: per Menon JC (as he then was) in GIB Automation
+Pte Ltd v Deluge Fire Protection (SEA) Pte Ltd [2007] 2 SLR(R) 918; [2007] SGHC 48 at [49].
+(4) Subcontract formed by conduct
+26.5.8 A subcontract may also be concluded by conduct before the terms are wholly reduced to
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+14 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+writing: in United Eng Contractors Pte Ltd v L&M Concrete Specialists Pte Ltd [2000] SGHC 74 OR [1999]
+SGHC 141 OR CS Bored Pile System Pte Ltd v Evan Lim & Co Pte Ltd [2006] 2 SLR(R) 1; [2006] SGHC 11.
+(5) Subcontract formed by oral agreement
+26.5.9 In addition, extrinsic proof of oral collateral contracts is admissible under proviso (b) of s 94 of
+the Evidence Act, if its terms are not inconsistent with those contained in the main agreement.
+D. "Pay When Paid" provisions (now prohibited)
+(1) “Pay When Paid” Provisions: Sub-contractor only entitled payment when main contractor receives
+payment
+26.5.10 “Pay when paid” provisions stipulate that the sub-contractor is only entitled to be paid when
+the main contractor has himself received payment. “Pay when paid” provisions operate even if
+payments have been certified but not received yet by the main contractor, or if payment has been
+withheld from the main contractor by the employer due to the main contractor’s own default or
+breach, and the default or breach was not caused or contributed to by the sub-contractor: Brightside
+Mechanical and Electrical Services Group Ltd v Hyundai Engineering and Construction Co Ltd [1988]
+SLR 186; Interpro Engineering Pte Ltd v Sin Heng Construction Co Pte Ltd [1998] 1 SLR 694.
+(2) “Pay when paid” clauses prohibited by statute
+26.5.11 In Singapore, “pay when paid” clauses are now prohibited by s 9 of the Building and
+Construction Industry Security of Payment Act 2004 (“SOPA”) for contracts that are governed by the
+legislation. However, while s 9 of the SOPA renders void unenforceable “pay when paid” payment
+structures, it “does not absolve a party of its payment obligations owed to the other”: SKK (S) Pte Ltd v
+Management Corporation Strata Title Plan No 1166 [2013] SGHCR 11 at [23]. E. Direct and Indirect
+Claims
+E. Sub-contractor and direct claims against employer
+(1) Privity of contract
+26.5.12  As a general rule, a sub-contractor cannot make any claim against the employer for the price
+of work done or material supplied under the sub- contract: Henderick Engineering v Kansai Paint
+Singapore Pte Ltd [1992] SGHC 184. The existence of a direct payment clause, permitting the employer
+to make direct payments to the sub-contractor, does not create a contractual relationship between the
+employer and the sub-contractor: A Vigers Sons & Co Ltd v Swindell [1939] 3 All ER 590. Similarly, an
+employer cannot make any claim against the sub-contractor directly: Dawber Willamson Roofing Ltd v
+Humberside County Council (1979) 14 BLR 70.
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+15 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+(2) CRTPA and exceptions to privity
+26.5.13 With the enactment of the Contracts (Rights of Third Parties) Act 2001 that came into operation
+on 1 January 2002, it may be possible for a nominated sub-contractor to assert rights as a third party
+against the employer even in the absence of a direct contract with the employer. Section 2(3) of the Act
+provides that the third party should be expressly identified in the contract by name, as a member of a
+class, or as answering to a particular description. It is possible that a wide category of persons can
+qualify as third parties under the Act.
+26.5.14 In the case of an undisclosed principal, there remains controversy in Singapore as to whether
+the common law exceptions to privity apply.
+26.5.15 In what was referred to by the Court of Appeal as a “leading decision”, Judith Prakash J held
+that in a disclosed principal situation, Prosperland (a developer of a condominium) was entitled to sue
+the building contractor (Civic) and the architects (collectively “the defendants”) for substantial
+damages, even though Prosperland had suered no loss arising from the breach of
+contract: Prosperland Pte Ltd v Civic Construction Pte Ltd [2004] 4 SLR(R) 129; [2004] SGHC 157 (HC).
+(3) Undisclosed principal
+26.5.16 It is less certain as to whether an exception to privity could apply in an undisclosed principal
+situation, as the Court of Appeal’s observations on the matter have, thus far, been in obiter.
+Nonetheless, the undisclosed principal could be made a party to the proceedings, as the court has the
+power to order joinder under O 15 r 6(2) (b) of the Rules of Court: Family Food Court (a firm) v Seah
+Book Lock and anor [2008] 4 SLR 272; [2008] SGCA 31 (CA) at [63]; see also the doctrine of the
+undisclosed principal, M P Furmston in Cheshire, Fifoot and Furmston’s Law of Contract (OUP, 16th Ed,
+2012).
+(4) Contractor’s negligence liability owed to subcontractor
+26.5.17 The main contractor may also be liable in negligence to the subcontractor, if a duty of care is
+owed to the subcontractor: Jurong Primewide v Moh Seng Cranes & ors [2014] 2 SLR 360; [2014] SGCA
+6 (CA) ; see also, Spandeck test under “Section 8 Construction and the Law of Negligence”.
+(5) Estoppel and unjust enrichment
+26.5.18 Other indirect claims include estoppel and unjust enrichment: see Laws of Singapore, Chapter
+19: Restitution.
+6 TIME AND COMPLETION
+26.6.1 This section will look at the issue of completion and extension of time in construction projects
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+16 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+within the contractual framework of the SIA standard form as most of the case law has arisen in that
+context.
+A. Completion criteria
+(1) “Completion” is determined by construing the standard form in question
+26.6.2 Where standard form contracts are being used, the issue of completion is oen reduced to
+construing what is meant by `completion´ in the standard form in question. A number of standard
+form contracts, including pre-1980 versions of the SIA Contract defined completion in terms of
+`practical completion´. Usage had also been made of the term `substantial completion´ in some
+other standard form contracts. For the SIA Contract, the term completion is used without the
+description “practical” or “substantial”. In the absence of any definition of completion, substantial or
+practical completion is normally regarded to have been achieved once the works are in a condition
+which is reasonably ready to be used by the employer:  Smile Inc Dental Surgeons Pte Ltd v OP3
+International Pte Ltd [2017] SGHC 246.
+B. Time for completion
+(1) Construction contracts should contain provisions relating to time, absenting which the court will
+imply term to complete within a reasonable time
+26.6.3 Construction contracts contain provisions relating to the commencement and completion of the
+works that the contractor is engaged to carry out. If the contract is silent on this, a reasonable time for
+completion would be implied:  Lee Kai Corp (Pte) Ltd v Chong Gay Theatres Ltd [1992] 2 SLR 68911
+(CA). If in a standard form contract, the time for completion in the schedule to a contract is le blank,
+the court will imply a term to complete within a reasonable time:  Shia Kian Eng (trading as Forest
+Contractors) v Nakano Singapore (Pte) Ltd [2001] SGHC 68). What is a reasonable time will be treated
+as a question of fact. Most standard form contracts also impose an obligation on the contractor to
+proceed with due diligence and expedition. However, it is doubtful whether such an obligation can be
+implied in the absence of an expressed term: CAA Technologies Pte Ltd v Newcon Builders Pte Ltd
+[2017] 2 SLR 940. Unless it is expressly provided, time is not of the essence in construction contracts:
+Ibid.
+(2) Standard form contracts contain liquidated damages and extension of time clauses
+26.6.4 Most standard form building and infrastructure contracts, contains liquidated damages and
+extension of time clauses. The liquidated damages clause gives the employer a remedy in pre-agreed
+damages if the contractor fails to complete on time and caps the contractor’s.  A sub-contractor can be
+made liable for liquidated damages that the contractor is made to pay the employer in certain
+circumstances:  L&M Airconditioning (Pte) Ltd v SA Shee & Co (Pte) Ltd [1993] 3 SLR 483. Where the
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+17 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+main contractor seeks to recover from a subcontractor liquidated damages paid by the main
+contractor to the employer, it is necessary for the main contractor to prove that the liquidated
+damages arose solely from the breaches by the subcontractor. The subcontractor does not have the
+burden to show that delays were caused by other subcontractors: CAA Technologies Pte Ltd v Newcon
+Builders Pte Ltd [2017] 2 SLR 940.
+C. Extension of time clauses
+(1) Contractor’s work may be aected by acts of employer
+26.6.5 The contractor´s progress and completion may be aected by acts of the employer or his
+agents. These employer related events can be found in SIA 7th Edition and 8th Edition, Clauses 23(1)
+(f), (g), (h), (i), (j), (k), (n) (o) and (p). Clauses 23(1) (a), (b), (c), (d), (e), (l), (m) deal with neutral events,
+mainly arising from circumstances not reasonably foreseeable.
+(2) Neutral events and employer-related events may render original date of completion inapplicable
+26.6.6 The contract date for completion may be aected by neutral events and employer related
+events to such an extent that it is rendered inapplicable. Without an applicable date for completion,
+time will be set “at large” and the obligation to complete becomes assessable by normal common law
+principles of reasonableness instead of the agreed contractual framework. With an extension of time,
+on the other hand, a new date may be set for completion and the right to liquidated damages
+preserved.
+26.6.7 Arguably, an event that can be construed as a force majeure event can excuse a delay in
+completing or even in performance of the works contracted for by the contractor:  Holcim (Singapore)
+Pte Ltd v Precise Development Pte Ltd [2011] 2 SLR 106.
+(3) Employer could potentially lose right to compensation where there is a “nil” for liquidated
+damages in the contract, but the legal position is unclear
+26.6.8 The employer could arguably lose his right to compensation where the express provision for
+liquidated damages is exhaustive of his rights and "nil" is inserted for the rate of liquidated and
+ascertained damages: Temloc Ltd v Errill Properties Ltd (1987) 39 BLR 34. However, in the local
+decision of Shia Kian Eng (trading as Forest Contractors v Nakano Singapore (Pte) Ltd [2001] SGHC 68,
+the parties agreed that there should be no liquidated damages. Judith Prakash J found it “diicult to
+accept the proposition that simply because it was agreed that there should be no liquidated damages
+clause, no damages at all could be claimed” if the plainti´s delay had caused loss to the defendants.
+D. Contra proferentem
+(1) Liquidated damages and extensions of time clauses construed by the courts against the employer,
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+18 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+unless the contract stipulates otherwise
+26.6.9 Both liquidated damages and extensions of time clauses (see Lian Soon Construction Pte Ltd v
+Guan Qian Realty Pte Ltd (No 2) [2000] 1 SLR 495, per Warren Khoo J) operate primarily for the
+employer in that the main contractor is suiciently protected by the common law rules on
+impossibility and interference with performance. Thus, the attitude of the courts has been to construe
+them contra proferentem, strictly against the employer: Peak Construction Ltd v McKinney
+Foundations Ltd (1971) 1 BLR 111.
+26.6.10 However, it should be noted that Article 7 SIA 8th Edition excludes the application of the contra
+proferentem rule of construction.
+E. Employer’s obligation concerning completion
+26.6.10 The employer has an implied obligation to bring about completion and should not prevent the
+contractor from carrying out the contractor’s obligation under the contract: Evergreat Construction Co
+Pte Ltd v Presscrete Engineering Pte Ltd [2006] 1 SLR(R) 634 and TT International Ltd v Ho Lee
+Construction Pte Ltd [2017] SGHC 62.
+26.6.11 Most standard forms of contract provide for loss and expense to be certified by the architect
+where the contractor has been delayed by breaches or acts of prevention by the employer or his agent.
+The PSSCOC provides for such compensation but “loss and expense” has a special meaning in this
+contract as defined in clause 1.1(q) which serves to limit the contractor’s recovery of compensation
+under this head to what is specified in the definition (see also TT International Ltd v Ho Lee
+Construction Pte Ltd [2017] SGHC 62).
+26.6.12 However, none of the SIA forms aer 1980 has a loss and expense clause for prolongation. In
+fact, Clause 31(14) expressly provides that the architect has no power to decide or certify any claim for
+breach of contract made against the Employer by the Contractor. However, one might consider that
+Clause 12(4) [Valuation of Variations] does provide a limited express entitlement under the contract to
+additional `preliminaries´ costs which are associated with variations, which in themselves do not
+amount to a breach of contract.
+7 TERMINATION
+26.7.1 A typical construction contract usually lasts for a fairly long period of time and the option to
+terminate the contract by an innocent party in the event of a breach by the defaulting party before the
+date of completion is an important remedy. Termination can be made according to the principles of
+general contract law or under the terms of the contract.
+A. Termination under general principles of contract law
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+19 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+(1) Four situations in which innocent party may terminate contract
+26.7.2 A repudiatory breach could arise under common law or pursuant to express provisions in the
+contract. In RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and anor appeal [2007] 4 SLR 413 (“RDC”),
+the Court of Appeal summarised four situations in which an innocent party might be entitled to
+terminate: (a) where a contractual term breached clearly states that, in the event of certain event or
+events occurring, the innocent party is entitled to terminate the contract, (b) where the party in
+breach renounces the contract by clearly conveying to the innocent party that it will not perform its
+contractual obligations at all (c) condition-warranty approach – party in breach has breached
+a condition of the contract (as opposed to a warranty, and (d) where the party in breach has
+committed a breach, the consequences of which will deprive the innocent party of substantially the
+whole benefit which it was intended that the innocent party should obtain from the contract. 
+B. Termination under the terms of contract
+(1)  Standard form contracts and termination
+26.7.3 Most standard form contracts expressly provide powers for the employer to terminate the
+contract in circumstances specified so that the employer can terminate without having to
+demonstrate that the contractor’s breach amounted to a repudiatory breach. In fact, some provisions
+give the employer a power to terminate even without demonstrating that the contractor has breached
+the contract or is in any way in default of his obligations under it (see for example, clause 32(1) SIA
+Main Contract and clause 31.4(1) of the PSSCOC and TT International Ltd v Ho Lee Construction Pte Ltd
+[2017] SGHC 62 as to how such a provision should be applied). The termination clauses may also
+provide the employer additional rights or remedies and a clear set of procedures to be followed upon
+termination that may otherwise be uncertain in the event of a repudiation under common law. For
+example, concerning rights, under clause 32(10) of the SIA Main Contract, an employer is entitled to
+withhold payment under the interim certificates if he accepts the wrongful repudiation of a contractor
+as terminating the contract: SA Shee & Co (Pte) Ltd v Kaki Bukit Industrial Park Pte Ltd [2000] 2 SLR 12.
+Typical grounds in most standard form contracts for termination by the employer based on the
+contractor’s wrongful conduct include:
+• default of the contractor;
+• bankruptcy of the contractor;
+• failure to start work;
+• failure to proceed with the work;
+• failure to comply with architect´s instructions;
+• failure to comply with the contract;
+• failure to complete the works; and
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+20 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+• failure to remedy defects.
+Unlike the employer, most standard form contracts allow the contractor to terminate only in a limited
+number of circumstances. Most of these involve either the employer’s failure to make payment or his
+interference in the architect’s or contract supervisor’s certifications (for example, clause 33(1) of the
+SIA Main Contract). The PSSCOC, for example, does not even contain any expressed provision allowing
+the contractor to terminate.
+ (3) Contractual provisions prescribing termination procedures must be fully complied with
+26.7.4 As termination, also known as forfeiture clauses, is construed strictly (Roberts v Bury
+Commissioners (1870) LR 5 CP 310), the contractual provisions prescribing the procedures by which a
+contract may be determined must be properly and faithfully complied with for the termination to be
+eective. Otherwise, the termination may be wrongful and amount to a wrongful repudiation by the
+employer instead - Lodder v Slowey [1904] AC 442. The contractor is then entitled to sue the employer
+for the actual value of the work done and materials supplied or damages or both.
+(4) Forfeiture clauses construed contra proferentum
+26.7.5 Since forfeiture clauses have such serious consequences, they are construed contra
+proferentem and the requirements for notices to be given need careful observation - Central Provident
+Fund Board v Ho Bok Kee [1980-1981] SLR 180; AL Stainless Industries v Wei Sin Construction Pte Ltd
+[2001] SGHC 243.
+(5) Contractor”s occupation of site
+26.7.6 Where the contract does not contain a termination clause and the contractor disputes the
+alleged default, he may contest or resist any attempt to eject him from the site: London Borough of
+Hounslow v Twickenham Garden Developments Ltd [1971] Ch 233. See also Mayfield Holdings Ltd v
+Moana Reef Ltd [1973] 1 NZLR 309. The terms of some standard form contract like clauses 32(4) & 32(5)
+of the SIA Main Contracts, however, require the contractor to deliver possession of the site upon
+receipt of the Notice of Termination, irrespective of the validity of the notice.
+8 CONSTRUCTION AND THE LAW OF NEGLIGENCE
+26.8.1 The law of negligence has a significant impact on construction projects. Owners may find
+recourse in a claim in tort if they have no contractual relationship with the parties responsible for the
+negligent design or construction of their property, or if the operation of the Contract (Rights of Third
+Parties Act (Cap 53, 2002 Rev Ed) is excluded by express contract terms. Following the seminal decision
+by the Singapore Court of Appeal in Spandeck Engineering (S) Pte Ltd v Defence Science and
+Technology Agency [2007] 4 SLR(R) 100 (“Spandeck”), there is now a single, universal test for
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+21 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+determining a duty of care in the law of negligence, irrespective of the type of the damages claimed.
+In Spandeck, the contractor claimed against the superintending oicer for negligently under-valuing
+and under-certifying works carried out by the contractor. There was no contractual relationship
+between the contractor and the superintending oicer. The Court of Appeal airmed the trial court’s
+finding that the superintending oicer did not owe a duty of care to the contractor.
+26.8.2 The Court of Appeal formulated and applied a two-stage test, preceded by a threshold test of
+factual foreseeability. In the first stage, suicient legal proximity must be established between the
+plainti and defendant, viz. on physical, circumstantial and causal proximity, and supported by a
+voluntary assumption of responsibility and reliance. If the threshold of factual foreseeability and the
+first stage are surmounted, the second stage examines if there are policy considerations that ought to
+negate the prima facie case established in the first stage of the test. The Court of Appeal added that
+the Spandeck test should be applied incrementally, with reference to prior cases in analogous
+situations. Further, the mere existence of statutory duty is not in itself conclusive of a common law
+duty of care: Tan Juay Pah v Kimly Construction & Ors [2012] 2 SLR 549 (CA) ; see also Resource Piling v
+Geospecs [2014] 1 SLR 485 (HC decision referred to at CA). Ultimately, whether the “requisite proximity
+is present in a particular case, …will turn on the precise factual matrix concerned”: Ngiam Kong Seng v
+Lim Chiew Hock [2008] 3 SLR(R) 674 (CA) at para [123].
+26.8.7  The Court of Appeal in NTUC Foodfare Co-operative Ltd v SIA Engineering Co Ltd and another
+[2018] 2 SLR 588 airmed Spandeck in the single test laid down for the establishment of a duty of care
+in tort and recognised that it doing so, there was a departure from English law principles which applies
+a general exclusionary rule against recovery for pure economic loss. It found that there was nothing
+intrinsically wrong about recovery for pure economic loss, provided the single test premised on
+proximity and policy consideration is met. Aer Spandeck, it is therefore no longer necessary to
+characterise the nature of the plainti’s loss before considering whether a duty of care arises in tort.
+26.8.8  The presence of a statutory duty would not automatically give rise to a concomitant common
+law duty of care. It has been held that “statutory duty would fall within the rubric of the existing
+analysis for negligence:” Jurong Primewide Pte Ltd v Moh Seng Cranes Pte Ltd and others [2014] SGCA
+6. Further, the law on occupier’s liability was held to be “subsumed under the tort of negligence:  See
+Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd and others [2013] SGCA 29.
+26.8.9  The standard of care was the general objective standard of a reasonable person using ordinary
+care and skill. It had been held that the Workplace Health and Safety Act framework and other
+guidelines “laid down industry standards which were relevant in ascertaining the appropriate
+standard of care:” Miah Rasel v 5 Ways Engineering Services Pte Ltd [2017] SGHC 235.
+9 ARBITRATION
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+22 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+26.9.1 Arbitration features a tribunal empowered to judge and determine a matter, distinct and
+separate from litigation in constituted courts. As the arbitral decision is binding, arbitration ought to
+be distinguished from other Alternative Dispute Resolution methods.
+A. Arbitration provisions in standard form contracts
+26.9.2 Arbitration provisions exist in many of the standard forms, such as the JCT Contract (2005 Ed.),
+ICE Form of Contract (7th Ed. 1999), PSSCOC and the new suite of standard forms of contract
+introduced by FIDIC (Federation Internationale des Ingenieurs-Counseils).
+(1) Security of Payments Act renders void any arbitration provision that aims to circumvent the Act
+26.9.3 Notably, section 36 of the Security of Payments Act (“SOPA”) renders void any provision that has
+the eect of “modifying, restricting or prejudicing” its operation, or which may “reasonably be
+construed as an attempt to deter a person from taking action under the Act”. An arbitration provision
+which aims to circumvent the SOPA would thus be rendered void. The SOPA is discussed below, under
+“Legislation”.
+(2) Arbitration Act allows party to challenge an arbitral award
+26.9.4 Under the Arbitration Act, a party can also challenge an arbitral award either by:
+• 1. Filing an appeal with the High Court on a question of law arising out of the award under s
+49(1) of the Act; or
+• 2. Applying to the court to set aside the award on the grounds prescribed under the s 49(3) of
+the Act.
+26.9.5 International and domestic arbitration are discussed in detail in the Laws of Singapore Chapter
+4.
+10 LEGISLATION
+A. Building Control Act (Chapter 29)
+(1) Standards of safety and good building practices
+26.10.1 The Building Control Act is a prescriptive code. It prescribes standards of safety and good
+building practice. The legislation provides a blueprint to control legally the construction of building
+works, the monitoring of existing structures with powers to deal with them where safety is in issue. It is
+well known that the current legislation was a direct consequence of the Hotel New World collapse.
+(2) Every person for whom building works are to be carried out have to appoint an accredited checker
+as an extra level of control in process of design
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+23 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+26.10.2 A central feature of the legislation was the conception of the role of an "accredited checker".
+The accredited checker operates as an extra level of control in the process of design. The legislation
+obliges "every person for whom building works are to be carried out" to appoint an accredited
+checker. The accredited checker must be registered with the Building Authority and maintain no
+professional or financial interest (other than the stipulated appointment) in the building works
+concerned. In addition, only qualified civil or structural engineers of 15 years' standing in terms of
+practical experience in the design and construction of buildings, in addition to being distinguished by
+ability, standing or special knowledge or experience could be appointed as accredited independent
+checkers. This is clearly to ensure that the professional stature of the expert would safeguard his
+independence when appointed as accredited checker. The appointed accredited checker is required to
+check the key structural elements in the plans and issue a certificate and evaluation report approving
+them. This is the independent technical control prescribed by the legislation.
+(3) Commissioner of Building Control relies solely on certificate and evaluation report of accredited
+checker to approve plans
+26.10.3 Section 6(1) provides for approval of plans by the Commissioner of Building Control. Among
+the documents to be submitted with the plans is the certificate of the accredited checker in relation to
+the adequacy of the key structural elements. By section 6(3), the Commissioner of Building Control is
+authorised to rely solely on the certificate and evaluation report of the accredited checker to approve
+plans. Hence, the Commissioner of Building Control has no duty to check the plans when granting
+"approval".
+(4) Commissioner has discretion to carry out random checks on structural plans and design
+calculations and may revoke approval if any information given previously was false
+26.10.4 Notwithstanding the earlier section, section 5(6) gives the Commissioner the discretion to
+carry out random checks with respect to structural plans and design calculations of the building
+works. The Commissioner also retains the right to revoke acquiescence of the building plans if satisfied
+that any information given in respect of the approval had been false in a material particular.
+(5) Government and public oicers are excluded from liability by reason that works are carried out in
+accordance with the Act or works are subject to approval by the Commissioner
+26.10.5 Section 32 is an extremely comprehensive exclusion of liability of the Government and public
+oicers. It even protects the government and any public oicer from suit arising by reason of the fact
+that any building works are carried out in accordance with the provisions of this Act or that such
+building works or plans of the building works are subject to inspection or approval by the
+Commissioner or the public oicer. Accordingly, the Building Authority has been given unequivocal
+protection which the decision of Murphy v Brentwood District Council [1991] 1 AC 398 achieved to a
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+24 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+limited extent in England in 1991.
+(6) Amendments were made in 2003 to move from procurement methods to design and build, give the
+Commissioner the power to stop dangerous building works and may require the person for whom
+works are being carried out to take actions to avert such danger
+26.10.6 Various amendments have been made to the Act. In September 2003, amendments were made
+to take into account the move away from the traditional form of procurement to the design and build
+method. Section 7A gives the Commissioner the power to issue an order to immediately stop building
+works that pose a danger to persons, property or other buildings. In addition, the Commissioner may
+require the person for whom the works are carried out to take certain remedial and other measures to
+avert such danger. An example of the type of situation to which this section could apply may be found
+in Xpress Print Pte Ltd v Monocras Pte Ltd & Anor [2000] 3 SLR 545.
+26.10.7 In September 2007, further amendments were made to update building control systems, to
+enhance building safety and raise professionalism in the industry.
+26.10.8 For instance, section section 8(f) (ii) introduced a new requirement for developers to appoint
+an Instrumentation Specialist Builder (“ISB”). The scope of the Act also extended to “Underground
+Building Works” under part II of the Act. Builder’s licensing was introduced. Provisions on existing
+requirements were also strengthened.
+26.10.9 In 2008, the Building Control Regulations and the Building Control (Accredited Checkers and
+Accredit Checking Organisations) Regulations were similarly amended, and the Building Control
+(Builders’ Licensing) Regulations were introduced.
+26.10.10 These changes are delineated in “A Guidebook to the Changes in Building Control”, published
+by the Building and Construction Authority.
+B. Building and Construction Industry Security of Payment Act 2004
+(1) Singapore’s Building and Construction Industry Security of Payment Act 2004 incorporates most
+key features of New South Wales’ Act with several dierences
+26.10.11 In 2005, Parliament introduced the Building and Construction Industry Security for Payment
+Act 2004 (“SOPA”) in Singapore. The Act is primarily based on the New South Wales Building and
+Construction Industry Security of Payment Act 1999 (Act 46 of 1999) (“the NSW Act”). The NSW Act and
+SOPA have similar structure and purpose, with several important modifications in SOPA taking into
+account local concerns and circumstances..
+(2) Most standard form contracts in use in Singapore have been amended to accommodate the Act;
+Building and Construction Industry Security of Payment Regulations 2005 accompany the Act
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+25 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+26.10.12 SOPA came into operation on 1 April 2005. Since then, most of the standard form contracts in
+use in Singapore accommodate the provisions of the SOPA. In exercise of the powers conferred by
+section 41 of the Building and Construction Industry Security of Payment Act 2004, the Minister for
+National Development has introduced the Building and Construction Industry Security of Payment
+Regulations 2005 ("the Regulations") that accompany the Act. Like the parent Act, the Regulations
+came into operation on 1st April 2005. The Regulations contain, inter alia, requirements that were le
+by the Act to the Minister to prescribe.
+(3) Legislation’s far-impact on practices of construction industry
+26.10.13 The legislation has also had far-reaching impact on the practices of the construction industry.
+For instance, amendments have been made to the Public Sector Standard Conditions of Contract to
+bring it in line with the legislation.
+(4) Primary objective of legislation is to reduce diiculties faced by construction industry
+(i) Purpose
+26.10.14 The primary objective of the legislation is to redress the diiculties faced by the construction
+industry in obtaining payment for work done and services rendered. The intention of the legislature is
+unequivocally to facilitate payment in the construction industry. In that regard, the Act not only
+categorically airms the right to payment, it goes further and also provides a mechanism for obtaining
+payment through the speedy dispute resolution procedure of adjudication. Anticipating that eorts
+may be made to impede the right to payment, the Act prohibits any attempt to hamper the right to
+payment with its anti-avoidance provisions.
+26.10.15 Adjudication has “temporary finality”, as adjudication is provisional in nature and is final and
+binding until the parties’ dierences are ultimately and conclusively determined or resolved. The court
+has the power to set aside or stay enforcement of an adjudication determination where necessary, if
+justified by a high threshold of “securing the ends of justice”, such as the insolvency of the claimant: W
+Y Steel Construction v Osko Pte Ltd [2013] 3 SLR 380 at [70].
+(ii) Process
+ (a) Jurisdiction of adjudicator and the payment claim
+26.10.16  The scope of the claimant’s case in an adjudication is circumscribed by what is being claimed
+or advanced in the payment claim. There is no mandate for an adjudicator to deal with a claim that is
+not already brought within the payment claim: Rong Shun Engineering & Construction Pte Ltd v CP
+Ong Construction Pte Ltd [2017] 4 SLR 359.
+26.10.17 The outcome of a number of adjudication cases used to turn on issues relating to compliance
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+26 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+with the requirements of SOPA. Many of these involved jurisdictional challenges based on the validity
+of payment claims (see for example, Sungdo Engineering & Construction (S) Pte Ltd v Italcor Pte Ltd
+[2010] SGHC 105 and Chip Hup Hup Kee Construction Pte Ltd v Ssangyong Engineering & Construction
+Co Ltd [2009] SGHC 237. While the validity of a payment claim continues to have jurisdictional
+consequences (Lee Wee Lick Terence (alias Li Weili Terence) v Chua Say Eng (formerly trading as Weng
+Fatt Construction Engieering) [2013] 1 SLR 401), the Court of Appeal in Audi Construction Pte Ltd v
+Kian Hiap Construction Pte Ltd [2018] SGCA 4, had considered and accepted the operation of waiver
+and estoppel for the situation where the respondent failed to raised jurisdiction objections in a
+payment response. Such failure may result in the respondent being prohibited from relying on such an
+objection before a tribunal or court: Yau Lee Construction (Singapore) Pte Ltd v Far East Square Pte
+Ltd  [2018] SGHC 261.The objection should be raised at the earliest possible opportunity: Grouteam Pte
+Ltd v UES Holdings Pte Ltd [2016] 5 SLR 1011. An adjudicator has the power to decide on his own
+jurisdiction, subject to review by the court: (ibid.)
+(b) Determination in absence of payment response
+26.10.18 Under s 15(3) of the Act, an adjudicator’s jurisdictional powers are set out and circumscribed.
+A respondent cannot raise new grounds for withholding payment that were not included in his
+payment response. The Court of Appeal observed that this is not a violation of natural justice and the
+right to be heard; rather, a respondent has failed to exercise his chance to respond to a payment claim
+and make his case. Nonetheless, the adjudicator is not entitled to simply take the payment claim at
+face value and must “consider the material properly before him” and there is nothing to stop a
+respondent from raising patent errors: W Y Steel Construction v Osko Pte Ltd [2013] 3 SLR 380.
+However, the adjudicator’s task is not just to look for patent errors. There is a need to examine alleged
+errors in the context of the whole evidence or material available. The standard of proof in evaluating
+the material in the absence of a payment response is to consider whether the Claimant’s case has
+been made out on a prima facie basis: Comfort Management v OGSP Engineering [2018] 1 SLR 979.
+(c) Natural justice
+26.10.18   The court has the power to set aside an adjudication determination if an adjudicator has
+acted in breach of his duty to comply with the requirements of natural justice: Citiwall Safety Glass Pte
+Ltd v Mansource Interior Pte Ltd [2015] 1 SLR 797 at [47]. There are two aspects concerning natural
+justice (a) the parties to the adjudication must be accorded a fair hearing (the fair hearing rule), and (b)
+the adjudicator must have been independent and impartial in deciding the dispute (the no bias
+rule): CMC Ravenna Singapore Branch v CGW Construction & Engineering (S) Pte Ltd [2018] 3 SLR
+503 at [24]; SEF Construction at [49]; AM Associates (Singapore) Pte Ltd v Laguna National Golf and
+Country Club Ltd [2009] SGHC 260 at [23].
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+27 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+26.10.19   An adjudicator can be in breach of natural justice if he proceeds to decide a dispute without
+giving the parties a fair opportunity to address the relevant issue on which the dispute was decided: 
+Bintai Kindenko Pte Ltd v Samsung C&T Corp  [2018] SGCA 39. A party that omits to address the
+adjudicator on an obviously crucial issue or one that turns out to be pivotal could not be said to have
+been denied a fair opportunity to be heard on the issue:  Glaziers Engineering Pte Ltd v WCS
+Engineering Construction Pte Ltd [2018] SGCA 66. Even if there is a breach of natural justice, an
+adjudicator’s determination would not be set aside the breach could not have caused any prejudice to
+the respondent: ibid; see also Hauslab Design & Build Pte Ltd v Vinod Kumar Ramgopal Didwania
+[2017] 3 SLR 103.
+(d) Repeat claims
+26.10.20  A claimant is not precluded from making a “repeat claim” in adjudication as long as the
+earlier payment claim had not be previously adjudicated on its merits: Grouteam Pte Ltd v UES
+Holdings Pte Ltd [2016] 5 SLR 1011.
+26.10.21 In Tiong Seng Contractors v Chuan Lim Construction [2007] 4 SLR(R) 354, it was held that
+SOPA applies to both final and interim payment claims. In response to the decision, the use of the term
+“Final Claim” in the SIA 7th edition has since been replaced with “Final Account”.
+ (e) Adherence to SOPA timelines
+26.10.25  It is important that for the service of the payment claim to comply with the contractual
+deadline as required by section 10(2)(a) of SOPA. Where the contract provides for the service of
+payment claims on a stipulated date, this means service on that date and not service by that date:
+Audi Construction, supra. In Shin Khai Construction Pte Ltd v FL Wong Construction Pte Ltd [2013]
+SGHCR 4, it was held that an adjudication determination must be set aside if the adjudication
+application was lodged later than the period stipulated in s 13(3) of the SOPA. Public holidays,
+consistent with the statutory definition of “day”, should be excluded for the purpose of computing the
+timelines: UES Holdings Pte Ltd v KH Foges Pte Ltd [2017] SGHC 114. However, where the parties
+employed the term “calendar days” instead of “days” in the contract to describe the timelines, eect
+may be given to the parties’ choice for the purpose of establishing whether the relevant timeline has
+been complied with.
+(f) Adjudication review application
+26.10.26  Under section 18(2) of SOPA, only an aggrieved respondent is entitled to lodge an
+adjudication review application.  Once an application is made for adjudication review, the entire
+adjudication determination can be reviewed by the review adjudicator and the adjudication review is
+not limited to only matters referred to by the aggrieved respondent for review: Ang Cheng Guan
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+28 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+Construction Pte Ltd v Corporate Residence Pte Ltd [2017] 3 SLR 988.
+26.10.27  Review adjudicators have the same powers as adjudicators under section 19(4), SOPA and
+are entitled to reconsider the findings of facts and well as the application of legal principles to those
+findings of fact: CMC Ravenna Singapore Branch v CGW Construction & Engineering (S) Pte Ltd [2018] 3
+SLR 503.
+(g)  Enforcement and setting aside
+26.10.28  A disputed and an unadjudicated set-o cannot be raised against an adjudicated amount in
+enforcement proceedings; section 27 of SOPA comtemplates an actual payment: AES Façade Pte
+Ltd v Wyse Pte Ltd and another [2017] SGHC 171. The court’s power to set aside an adjudication
+determination does not derive from SOPA as section 27 only deals with the right of a successful
+claimant to enforce the determination as a judgment of the court. The power of the court to set aside
+an an adjudictor’s determination is a common law power: Citiwall Safety Glass Pte Ltd v Mansource
+Interior Pte Ltd [2015] 1 SLR 797.  In a setting aside application, the court does not review the merits of
+the adjudication determination: Hauslab Design & Build Pte Ltd v Vinod Kumar Ramgopal Didwania
+[2017] 3 SLR 103.  The court may partially set aside a determination for jurisdictional error without
+having to set aside or undermine the enforceability of the rest of the determination. Thus, a finding
+that an adjudicator’s determination on the retention sum is null and void would not render nullify the
+entire determination: Rong Shun Engineering & Construction Pte Ltd v CP Ong Construction Pte Ltd
+[2017] 4 SLR 359.
+C. Building and Construction Industry Bill 2018
+26.10.28  The Building and Construction Industry Bill which makes a number of important changes to
+SOPA was passed on 2 October 2018  but at the time of writing, these changes are not yet in operation. 
+With the amendments, there will be changes to the scope of SOPA aecting (a) construction contracts
+that have been terminated and (b) contracts for the prefabrication of works. Loss or expenses claim
+will be restricted to the circumstances specified. The timeline for a payment claim and the validity of 
+“repeat” payment claims and final payment claims  are also being clarified. The 6-year limitation
+period for the service of a payment claim for both a supply and construction contracts has been
+reduced. For payment responses, the time to provide a payment response will be increased from 7 to
+14 days from the service of the payment claim. Subject to the exceptions specified, late objections by
+respondents in the adjudication response are to be prohibited. There are also provisions aecting
+applications to set aside determinations, the rate of interest payable in the unpaid amount and a right
+to review determinations that will be given to the claimant that is currently available only to the
+respondent.
+Updated as at 4 March 2019
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+29 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+By:
+George Tan
+Consultant
+Chan Neo LLP
+103646
+Tags: Construction & Infrastructure
+Ch. 26 Building and Construction Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+30 of 30
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------

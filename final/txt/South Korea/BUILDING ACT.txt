@@ -1,0 +1,2436 @@
+BUILDING ACT
+ 
+ 
+ 
+ 
+Wholly Amended by Act No. 8974, Mar. 21, 2008
+Amended by Act No. 9049, Mar. 28, 2008
+Act No. 9071, Jun.   5, 2008
+Act No. 9103, Jun.   5, 2008
+Act No. 9384, Jan. 30, 2009
+Act No. 9437, Feb.   6, 2009
+Act No. 9594, Apr.   1, 2009
+Act No. 9770, Jun.   9, 2009
+Act No. 9774, Jun.   9, 2009
+Act No. 9858, Dec. 29, 2009
+Act No. 10331, May 31, 2010
+Act No. 10599, Apr. 14, 2011
+Act No. 10764, May 30, 2011
+Act No. 10755, May 30, 2011
+Act No. 10892,  Jul. 21, 2011
+Act No. 11037, Aug.   4, 2011
+Act No. 11057, Sep. 16, 2011
+Act No. 11182, Jan. 17, 2012
+Act No. 11365, Feb. 22, 2012
+Act No. 11495, Oct. 22, 2012
+Act No. 11599, Dec. 18, 2012
+Act No. 11690, Mar. 23, 2013
+Act No. 11763, May 10, 2013
+ 
+ 
+ 
+CHAPTER I GENERAL PROVISIONS
+ 
+Article 1 (Purposes)
+The purposes of this Act are to improve the safety, functions, environment, and aesthetic view of
+buildings, and to promote public welfare by establishing the standards for and purposes of use of sites,
+structures, and facilities of buildings.
+
+--------------------------------------------------------------------------------
+ 
+Article 2 (Definitions)
+(1) The definitions of terms used in this Act shall be as follows: <Amended by Act No. 9774, Jun. 9, 2009; Act
+No. 11057, Sep. 16, 2011; Act No. 11182, Jan. 17, 2012; Act No. 11690, Mar. 23, 2013>
+1. The term "site" means a parcel of land partitioned under the Act on Land Survey, Waterway Survey
+and Cadastral Records: Provided, That two or more parcels of land or part of one or more parcels of
+land may be regarded as one site, if they are parcels of land prescribed by Presidential Decree;
+2. The term "building" means a structure fixed to land, with a roof and columns or walls and facilities
+appurtenant thereto; an office, a structure for public performances, a shop, a garage, or a warehouse
+installed in an underground or elevated structure; or other structures prescribed by Presidential Decree;
+3. The term "use of buildings" means classification of buildings according to similarity of structure,
+purpose of use, or style;
+4. The term "facilities of a building" means systems installed in a building for electricity, telephone,
+high-speed information communication, intelligent home network, gas, water supply, water distribution,
+drainage, air ventilation, heating, fire fighting, smoke ventilation, and disposal of wastes; chimneys,
+elevators, lightning conductors, flag poles, common antenna, cable television-receiving devices, mail
+boxes, and water reservoirs in a building; and other facilities specified by Ministerial Decree of Land,
+Infrastructure and Transport;
+5. The term "basement level" means a level below the ground level of a building, the average height of
+which from its floor up to the ground level shall not be lower than half of the height of the level;
+6. The term "living room" means a room of a building, used for dwelling, business, working, meeting,
+recreation, or another similar purpose;
+7. The term "main structural parts" means bearing walls, columns, floors, beams, roof frameworks, and
+main stairways: Provided, That studs, the lowest floor, small beams, sunshades, outdoor stairways, and
+other similar parts not essential to the structure of a building shall be excluded herefrom;
+8. The term "construction" means to build a new building; to extend, alter, or rebuild an existing
+building; or to relocate a building;
+9. The term "substantial repair" means repairing, altering, or extending the structure or external form of
+columns, beams, bearing walls, main stairways of a building, which is further defined by Presidential
+Decree;
+10. The term "remodelling" means activities of substantial repair or partial extension of a building for
+keeping the building from aging or for improving functions of the building;
+11. The term "road" means a road or a proposed road of four meters or wider for pedestrian and motor
+vehicle traffic, falling under any of the following items (or a road with a structure and width prescribed
+by Presidential Decree, in cases where geographical features make use by motor vehicle traffic
+impossible, or it has a dead end):
+
+--------------------------------------------------------------------------------
+(a) A road for which a public announcement of new construction or alteration has been issued
+pursuant to the National Land Planning and Utilization Act, the Road Act, the Private Road Act, or
+any other relevant Act and subordinate statute;
+(b) A road, the location of which has been designated and publicly announced by the Special
+Metropolitan City Mayor, a Metropolitan City Mayor, a Do Governor, or the Governor of a Special
+Self-Governing Province (hereinafter referred to as "Mayor/Do Governor") or the head of a
+Si/Gun/Gu (referring to the head of an autonomous Gu; hereinafter the same shall apply) as of the
+time when a building permit is granted or a report on a building project is filed;
+12. The term "project owner" means a person who has awarded a contract for construction or substantial
+repair of a building, alteration of a building for another use, installation of facilities of a building, or
+erection of a structure (hereinafter referred to as "construction, etc. of a building") to someone, or who
+carries out such construction works by him/herself with a site manager employed;
+13. The term "architect" means a person who prepares architectural plans and drawings under his/her
+responsibility (including cases where he/she performs such works with assistants), interprets the design
+of the plans and drawings, and provides guidance and advice on the plans and drawings;
+14. The term "architectural plans and drawings" means drawings, structure calculation sheets,
+specifications, and other documents necessary for construction works as specified by Ministerial Decree
+of Land, Infrastructure and Transport;
+15. The term "project supervisor" means a person responsible for inspection of construction works to
+ensure that a building, facilities of a building, or a structure is built or elected in compliance with the
+details of architectural plans and drawings, under his/her responsibility (including cases where he/she
+performs such works with assistants), as prescribed by this Act, as well as for guidance and supervision
+over quality control, project management, and safety control;
+16. The term "contractor" means a person who performs construction works as defined in subparagraph
+4 of Article 2 of the Framework Act on the Construction Industry;
+16-2. The term "maintenance and management of a building" means the acts of managing a building
+conducted by the owner or the manager thereof until it is destructed to maintain the site, structure,
+facilities, usage of the building continuously for which an approval on the use has been obtained;
+17. The term "related specialized engineer" means a holder of qualifications for a specialized area of
+engineering relating to a building, such as structure or facilities of a building, who participates in
+planning and supervision of the building and cooperates with the architect and project supervisor;
+18. The term "special building zone" means an area specially designated as exempt from some
+regulations under this Act or any other Act and subordinate statute or one to which such regulations
+shall be relaxed or integrated for application in order to facilitate the creation of beautiful urban
+landscape, the development of construction technology, and the improvement of systems relating to
+construction through construction of harmonious and creative buildings;
+
+--------------------------------------------------------------------------------
+19. The term "high-rise building" means a building whose number of floors is not less than 30 and
+height is not less than 120 meters.
+(2) The uses of buildings shall be classified into the following categories, and the subcategories of the uses
+of buildings in each such category shall be prescribed by Presidential Decree:
+1. Detached houses;
+2. Multi-unit houses;
+3. Class I neighborhood living facilities;
+4. Class II neighborhood living facilities;
+5. Facilities for cultural activities and assembly;
+6. Religious facilities;
+7. Commercial facilities;
+8. Transportation facilities;
+9. Medical facilities;
+10. Education and research facilities;
+11. Facilities for the aged and children;
+12. Training facilities;
+13. Sports facilities;
+14. Business facilities;
+15. Lodging facilities;
+16. Amusement facilities;
+17. Factories;
+18. Warehouses;
+19. Facilities for storage and treatment of dangerous substance;
+20. Facilities for motor vehicles;
+21. Facilities for animals and plants;
+22. Facilities for treatment of excreta and wastes;
+23. Correctional facilities and military installations;
+24. Facilities for broadcasting and telecommunications;
+25. Facilities for power generation;
+26. Cemeteries and related facilities;
+27. Facilities for tourism and relaxation;
+28. Other facilities prescribed by Presidential Decree.
+ 
+Article 3 (Buildings, etc. Excluded from Scope of Application)
+(1) A building shall not be governed by this Act, if it falls under any of the following subparagraphs:
+1. An item of cultural heritage designated, permanently or provisionally, pursuant to the Cultural
+Heritage Protection Act;
+
+--------------------------------------------------------------------------------
+2. Any of the following facilities within the site of a railroad or track:
+(a) A facility for safety of operations;
+(b) A facility installed over or under a railroad for pedestrian traffic;
+(c) A platform;
+(d) A facility for supplying water, coal, or oil for operation of a railroad or track;
+3. An expressway tollgate;
+4. Temporary storage made of cargo containers (limited to those installed in the site of a building that
+shall be used only as a factory under subparagraph 1 of Article 2 of the Industrial Cluster Development
+and Factory Establishment Act and that shall be easily movable).
+(2) Articles 44 through 47, 51, and 57 shall not apply to any area that does not fall within either an urban
+area defined in the National Land Planning and Utilization Act or a district unit planning zone under
+Article 51 (3) of the same Act and that is not in the boundary of a Dong or Eup (or an island within a
+Dong or Eup, only if the island has a population of 500 or more persons). <Amended by Act No. 10599, Apr.
+14, 2011>
+(3) Articles 45 through 47 shall not apply in cases where a building or structure under Article 47 (7) of the
+National Land Planning and Utilization Act is built on the site of a proposed road designated for the
+planned urban/Gun facility. <Amended by Act No. 10599, Apr. 14, 2011>
+ 
+Article 4 (Building Committee)
+(1) The Minister of Land, Infrastructure and Transport, each Mayor/Do Governor and the head of each
+Si/Gun/Gu shall establish a building committee, which is responsible for investigating, deliberating on,
+conciliating, and arbitrating the following matters (hereafter referred to as "deliberation, etc." in this
+Article): <Amended by Act No. 9594, Apr. 1, 2009; Act No. 11690, Mar. 23, 2013>
+1. Essential matters for the enforcement of this Act and relevant municipal ordinances;
+2. Matters concerning the conciliation or arbitration of disputes related to construction, etc. of a
+building: Provided, That a building committee established under the jurisdiction of the head of each
+Si/Gun/Gu shall be excluded herefrom;
+3. Matters specified by other Acts and subordinate statutes as subject to the deliberation by a building
+committee;
+4. Matters referred to a building committee pursuant to any other Act and subordinate statute for
+deliberation, in cases where such Act and subordinate statute exists that allows the deliberation by the
+building committee as an alternative for the deliberation under the relevant Act and subordinate statute.
+(2) The Minister of Land, Infrastructure and Transport, each Mayor/Do Governor, or the head of each
+Si/Gun/Gu may, if necessary for the efficient execution of deliberation, etc. by a building committee,
+organize and operate a specialized committee for conciliation of building disputes (limited to a building
+committee established by the Minister of Land, Infrastructure and Transport or the Mayor/Do Governor)
+and a special subcommittee for each area under the control of the building committee established by
+
+--------------------------------------------------------------------------------
+himself/herself. <Amended by Act No. 9594, Apr. 1, 2009; Act No. 11690, Mar. 23, 2013>
+(3) The specialized committees for conciliation of building disputes and the special subcommittees for
+each area under paragraph (2) shall engage in deliberation, etc. on the matters prescribed by the building
+committee. <Amended by Act No. 9594, Apr. 1, 2009>
+(4) Matters that have been deliberated by a specialized committee for conciliation of building disputes or a
+special subcommittee for each area under paragraph (3) shall be deemed to have been deliberated upon by
+the building committee. <Amended by Act No. 9594, Apr. 1, 2009>
+(5) The organization and operation of each building committee under paragraph (1) and other necessary
+matters shall be prescribed by Ministerial Decree of Land, Infrastructure and Transport or municipal
+ordinance of the competent local government (referring to municipal ordinance of the Special
+Metropolitan City or the competent Metropolitan City, in cases where the building committee is
+established by the head of an autonomous Gu; hereinafter the same shall apply), as prescribed by
+Presidential Decree. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 5 (Relaxed Application)
+(1) A project owner, an architect, a contractor, or a project supervisor (hereinafter referred to as "party to a
+building project") may, while carrying out his/her works, request the Special Metropolitan City Mayor, the
+competent Metropolitan City Mayor, the Special Self-Governing Province Governor, or the competent
+head of Si/Gun/Gu (hereinafter referred to as "permitting authority") to relax the criteria under this Act in
+applying the criteria to a site or building prescribed by Presidential Decree, if the party to a building
+project considers it highly unreasonable to apply this Act to such site or building.
+(2) The competent permitting authority shall, upon receiving a request under paragraph (1), determine
+whether to allow such relaxation and to what extent such relaxation shall be allowed, subject to
+deliberation by the building committee under Article 4 (hereinafter referred to as "building committee"),
+and shall notify the applicant of his/her determination.
+(3) The procedures for filing requests and making determinations under paragraphs (1) and (2), and other
+necessary matters, shall be prescribed by municipal ordinance of the competent local government.
+ 
+Article 6 (Special Exception to Existing Buildings, etc.)
+In cases where a site or a building offends any provision of this Act as a consequence of the enactment of,
+or amendment to an Act and subordinate statute or due to any of the reasons prescribed by Presidential
+Decree, the competent permitting authority may grant a permit for relevant building works as prescribed
+by municipal ordinance of the competent local government within the extent prescribed by Presidential
+Decree.
+ 
+Article 7 (Municipal Ordinances of Do for Maintenance of Uniformity)
+
+--------------------------------------------------------------------------------
+Each Do government may, if deemed necessary for maintaining uniformity in municipal ordinances of
+Sis/Guns within its jurisdiction, enact a uniform municipal ordinance to prescribe the matters to be
+prescribed otherwise by municipal ordinance of each Si/Gun respectively pursuant to Articles 5 (3), 6, 17
+(2), 20 (1), 27 (3), 42, 57 (1), 58, 60 (3), and 61.
+ 
+Article 8 (Special Exception in Preparation of Remodelling)
+If an application for building permit is filed for multi-unit houses with a structure prescribed by
+Presidential Decree, the standards under Articles 56, 60, and 61 may be relaxed to a rate prescribed by
+Presidential Decree within the extent of 120/100, to apply the standards to such application, in order to
+encourage the construction of multi-unit houses with an easy-to-remodel structure.
+ 
+Article 9 (Exclusion of Other Acts and Subordinate Statutes)
+(1) Article 244 (1) of the Civil Act shall not apply to cases where the excavation of basement levels is
+required for construction, etc. of a building: Provided, That measures necessary for safety shall be taken to
+prevent hazards.
+(2) Article 38 of the Sewerage Act shall not apply to the planning and design works of a private sewage
+treatment facility appurtenant to a building.
+ 
+CHAPTER II CONSTRUCTION OF BUILDINGS
+ 
+Article 10 (Prior Determination on Location and Size of Buildings)
+(1) Any person who intends to erect a building that requires a building permit under Article 111 may file
+an application to request the competent permitting authority to make a prior determination on whether this
+Act and other relevant Acts and subordinate statutes allow the applicant to erect such building on the
+specific site before he/she files an application for the building permit.
+(2) Any person who files an application for prior determination under paragraph (1) (hereinafter referred
+to as "applicant for prior determination") may also file applications for deliberation by the competent
+building committee and examination of the traffic impact assesment and improvement measures under the
+Urban Traffic Improvement Promotion Act simultaneously. <Amended by Act No. 9071, Mar. 28, 2008>
+(3) In cases where the area of the building site for which an application for prior determination has been
+filed in accordance with paragraph (1) is subject to the small-scale prior assessment of environmental
+impacts under Article 43 of the Environmental Impact Assessment Act, the competent permitting authority
+shall consult with the Minister of Environment or the head of the competent local environment office on
+the small-scale assessment of environmental impacts. <Amended by Act No. 10892, Jul. 21, 2011>
+(4) The competent permitting authority shall, upon receiving applications under paragraphs (1) and (2),
+make a prior determination on the location, size, and use of the building and notify the applicant of the
+results thereof.
+
+--------------------------------------------------------------------------------
+(5) Necessary matters concerning the procedure for application under paragraphs (1) and (2), documents
+required for such application, and notice thereof shall be prescribed by Ministerial Decree of Land,
+Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+(6) The receipt of a notice of prior determination issued pursuant to paragraph (4) shall be deemed to have
+been granted permission or have received a report, or have held a consultation under any of the following
+subparagraphs: <Amended by Act No. 10331, May 31, 2010>
+1. Permission for development activities under Article 56 of the National Land Planning and Utilization
+Act;
+2. Permission for or reporting on the diversion of a mountainous district under Articles 14 and 15 of the
+Management of Mountainous Districts Act, or permission for or reporting on the temporary use of a
+mountainous district under Article 15-2 of the same Act: Provided, That if the mountainous district is
+subject to conservation, the same shall apply only to one within an urban area;
+3. Permission for, or reporting or consultation on, the conversion of farmland under Articles 34, 35 and
+43 of the Farmland Act;
+4. Permission for occupation and use of a river under Article 33 of the River Act.
+(7) The competent permitting authority shall, whenever he/she makes a prior determination that involves
+the disposition under any subparagraph of paragraph (6), first consult with the head of the relevant
+administrative agency, and the head of the administrative agency shall, upon receiving such request for
+consultation, present his/her opinion within 15 days from the date on which such request is received.
+(8) An applicant for prior determination shall file an application for a building permit under Article 11
+within two years from the date on which a notice of prior determination under paragraph (4) is issued, and
+the prior determination shall become ineffective if he/she fails to file an application for the building permit
+within the applicable period.
+ 
+Article 11 (Building Permits)
+(1) Any person who intends to erect a building or commence substantial repair of a building shall obtain a
+permit from a Special Self-Governing Province Governor or the head of a Si/Gun/Gu: Provided, That a
+person who intends to erect a building for a use and in a size prescribed by Presidential Decree, including
+a building with 21 or more floors, within the Special Metropolitan City or a Metropolitan City, shall
+obtain a permit from the Special Metropolitan City Mayor or the competent Metropolitan City Mayor.
+(2) The head of each Si/Gun shall, whenever he/she intends to grant a permit for construction of any of the
+following buildings in accordance with paragraph (1), submit a building plan along with basic
+architectural plans and drawings indicating the use, size, and shape of the building, as specified by
+Ministerial Decree of Land, Infrastructure and Transport, to the competent Do Governor for approval:
+<Amended by Act No. 11690, Mar. 23, 2013>
+1. A building under the proviso to paragraph (1);
+
+--------------------------------------------------------------------------------
+2. A building for a use prescribed by Presidential Decree, such as a building that is intended to be
+erected as part of amusement facilities or lodging facilities within a specific area designated and
+publicly announced by a Do Governor for conservation of natural environment or water quality and that
+is to have three or more floors or a total floor area of 1,000 or more square meters;
+3. A building that is planned to be erected for the intended use of amusement or lodging facilities within
+an area designated and publicly announced by the competent Do Governor, as deemed necessary for the
+protection of environment of nearby communities, such as residential or educational environment.
+(3) Any person who desires to obtain a permit under paragraph (1) shall file an application for such permit
+with the competent permitting authority along with the architectural plans and drawings, as specified by
+Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+(4) In any of the following cases, a permitting authority may deny the building permit notwithstanding this
+Act or any other Act: <Amended by Act No. 11182, Jan. 17, 2012; Act No. 11495, Oct. 22, 2012>
+1. In cases where building permission for a building for amusement facilities or lodging facilities is
+deemed inappropriate taking into account that the use, size, or shape of the building is not suited for the
+environment of nearby communities, such as residential or educational environment;
+2. Where it is deemed inappropriate to use part of space, such as basement level, of a building to be
+erected in an area prone to floods or likely to be flooded, including disaster-prevention districts under
+Article 37 (1) 5 of the National Land Planning and Utilization Act and areas requiring improvement
+against natural disaster under Article 12 (1) of the Countermeasures against Natural Disasters Act, for
+residential purpose or to set up a living room.
+(5) A building permit granted pursuant to paragraph (1) shall be deemed permission granted or reporting
+completed under any of the following subparagraphs, while a building permit granted for a factory
+building shall be deemed authorization or permission under the relevant Act pursuant to Articles 13-2 and
+14 of the Industrial Cluster Development and Factory Establishment Act: <Amended by Act No. 9770, Jun. 9,
+2009; Act No. 10331, May 31, 2010; Act No. 10755, May 30, 2011>
+1. Reporting on the construction of a temporary building for construction works under Article 20 (2);
+2. Reporting on the construction of a structure under Article 83;
+3. Permission for development activities under Article 56 of the National Land Planning and Utilization
+Act;
+4. Designation of project executors under Article 86 (5) of the National Land Planning and Utilization
+Act and authorization for implementation plans under Article 88 (2) of the said Act;
+5. Permission for and reporting on the diversion of mountainous districts under Articles 14 and 15 of the
+Management of Mountainous Districts Act, or permission for or reporting on the temporary use of a
+mountainous district under Article 15-2 of the same Act: Provided, That if a mountainous district is
+subject to conservation, the same shall apply only to one within an urban area;
+6. Permission for the opening of private roads under Article 4 of the Private Road Act;
+
+--------------------------------------------------------------------------------
+7. Permission for, or reporting or consultation on, the conversion of farmland under Article 34, 35, or 43
+of the Farmland Act;
+8. Permission for the occupation and use of roads under Article 38 of the Road Act;
+9. Permission for the execution of construction works, and permission for construction and linking of
+roads by a non-managing authority under Articles 34 and 64 (2) of the Road Act;
+10. Permission for the occupation and use of rivers under Article 33 of the River Act;
+11. Reporting on the installation of drainage systems under Article 27 of the Sewerage Act;
+12. Reporting on the installation of private sewage treatment facilities under Article 34 (2) of the
+Sewerage Act;
+13. Application for water supply under municipal ordinance enacted by the competent local government
+pursuant to Article 38 of the Water Supply and Waterworks Installation Act, in cases where the water
+supplier is the local government, itself;
+14. Authorization for, or reporting on a construction plan of a private power generation facility under
+Article 62 of the Electric Utility Act;
+15. Permission for, or reporting on the installation of facilities for discharging water pollutants under
+Article 33 of the Water Quality and Aquatic Ecosystem Conservation Act;
+16. Permission for, or reporting on the installation of facilities for emitting air pollutants under Article
+23 of the Clean Air Conservation Act;
+17. Permission for, or reporting on the installation of facilities producing noise or vibrations under
+Article 8 of the Noise and Vibration Control Act;
+18. Permission for, or reporting on the installation of waste-generating facilities under Article 11 of the
+Act on the Management and Use of Livestock Excreta;
+19. Permission of acts under Article 23 of the Natural Parks Act;
+20. Permission for occupying and using urban parks under Article 24 of the Act on Urban Parks,
+Greenbelts, etc.;
+21. Reporting on specific facilities subject to control of soil contamination under Article 12 of the Soil
+Environment Conservation Act.
+(6) If any other administrative agency has power over any matter falling under any subparagraph of
+paragraph (5), the competent permitting authority shall first consult thereon with the head of such
+administrative agency, and the head of such administrative agency shall, upon receiving a request for
+consultation, present his/her opinion within 15 days from the date on which such request is received. In
+such cases, the head of the administrative agency concerned shall not refuse to respond to the request for
+consultation on any ground, other than those in the guidelines for processing under paragraph (8).
+(7) The competent permitting authority shall revoke a permit granted to a person pursuant to paragraph
+(1), if the person falls under any of the following subparagraphs: Provided, That the permitting authority
+may extend the deadline for commencement of the project by up to one year, if the case in question falls
+under subparagraph 1 and the permitting authority finds that a justifiable ground exists to do so:
+
+--------------------------------------------------------------------------------
+1. If the person fails to commence the project within one year from the date on which the permit was
+granted;
+2. If the person commenced the project within one year from the date on which the permit has been
+granted, but the project is found to be impossible to complete.
+(8) The head of the competent central administrative agency responsible for the control of matters falling
+under any subparagraph of paragraph (5) and the enforcement of the relevant Act and subordinate statute
+under Article 12 (1) shall notify the Minister of Land, Infrastructure and Transport of the guidelines for
+processing. The same shall also apply to any amendment to the guidelines for processing. <Amended by Act
+No. 11690, Mar. 23, 2013>
+(9) The Minister of Land, Infrastructure and Transport shall, upon receiving notice of the guidelines for
+processing under paragraph (8), combine them to issue public notice. <Amended by Act No. 11690, Mar. 23,
+2013>
+(10) Where a person who has undergone the deliberation of a building committee prescribed in Article 4
+(1) fails to file an application for a building permit within two years from the date on which the result of
+the deliberation is received, such deliberation of the building committee shall lose its effect. <Added by Act
+No. 10755, May 30, 2011>
+ 
+Article 12 (Council for Processing Complex Civil Petitions en bloc)
+(1) The competent permitting authority shall, whenever he/she is requested to grant a permit pursuant to
+Article 11, examine whether the project for erecting a building with the intended use, size, or form on the
+planned site does not violate any provision of Articles 54, 56 through 62, and 76 through 82 of the
+National Land Planning and Utilization Act and other relevant Acts and subordinate statutes prescribed by
+Presidential Decree, and shall hold a meeting of the council for processing complex civil petitions en bloc,
+as prescribed by Presidential Decree, to process the matters under subparagraphs of Article 10 (6) and (7)
+or subparagraphs of Article 11 (5) and (6).
+(2) The head of the competent administrative agency responsible for examination under paragraph (1) and
+the heads of administrative agencies concerned under Articles 10 (7) and 11 (6) shall have public officials
+under their control attend meetings of the council for processing complex civil petitions en bloc under
+paragraph (1).
+ 
+Article 13 (Deposit for Safety Control of Construction Site)
+(1) Any person who holds a building permit under Article 11 shall, when he/she suspends construction
+works for the building and abandons the project site for a lengthy period, take necessary measures,
+including the improvement of the view and safety control of the site.
+(2) As regards a building specified by municipal ordinance of the competent local government, with a total
+floor area of 5,000 square meters or more, (excluding a building sold by units under a guarantee of the
+Korea Housing Guarantee Co., Ltd. under Article 77 (1) 1 of the Housing Act or a building erected under
+
+--------------------------------------------------------------------------------
+a guarantee for sale by units or a trust contract under Article 4 (1) 1 of the Act on Sale of Building Units),
+the permitting authority may require the project owner who files a report on commencement of a project in
+accordance with Article 21 (excluding the Korea Land and Housing Corporation under the Korea Land
+and Housing Corporation Act or a local public corporation established pursuant to the Local Public
+Enterprises Act for carrying out construction projects) to deposit, in advance, the expenses required for the
+improvement of the view and safety control of the site in preparation for hazards caused by abandoning
+the project site for a lengthy period within the limit of one percent of the project costs (including a letter of
+guarantee prescribed by Presidential Decree; hereinafter referred to as "deposit money"). <Amended by Act
+No. 11599, Dec. 18, 2012>
+(3) The competent permitting authority shall, when he/she refunds the deposit money, pay the interest
+calculated at the interest rate fixed by Presidential Decree, in addition to the refunded deposit money:
+Provided, That the same shall not apply in cases where a letter of guarantee is submitted as a substitute for
+such deposit money.
+(4) Necessary matters concerning the method of calculation and deposit of the deposit money under
+paragraph (2) and the refunding thereof shall be prescribed by municipal ordinance of each local
+government.
+(5) The competent permitting authority may, if he/she finds that an abandoned project site degrades the
+urban view and causes hazards to safety, issue an order to the person to whom the building permit was
+granted to take measures to improve the view and safety control of the project site.
+(6) If the person to whom an order for improvement was issued pursuant to paragraph (5) does not take
+measures for such improvement, the competent permitting authority may take such measures on behalf of
+the person pursuant to the Administrative Vicarious Execution Act. In such cases, the deposit money paid
+by the project owner in accordance with paragraph (2) may be appropriated for the expenses incurred for
+the vicarious administrative execution, and the difference may, if the expenses incurred for such vicarious
+administrative execution exceed the amount of the deposit money already paid, be charged and collected
+additionally pursuant to Article 6 of the Administrative Vicarious Execution Act.
+ 
+Article 14 (Building Report)
+(1) A report filed, in advance, with the Governor of a Special Self-Governing Province or the head of
+Si/Gun/Gu, as prescribed by Ministerial Decree of Land, Infrastructure and Transport, on a project for a
+building that falls under any of the following subparagraphs may be deemed to be a building permit
+granted, even in cases where the building is subject to a permit under Article 11: <Amended by Act No. 9437,
+Feb. 6, 2009; Act No. 10599, Apr. 14, 2011; Act No. 11690, Mar. 23, 2013>
+1. Extending, altering, or reconstructing the floor area of a building by an area of 85 square meters or
+less;
+2. Erecting a building with a total floor area of less than 200 square meters and less than three floors in
+a controlled area, an agricultural and forest area, or a natural environment conservation area as defined
+
+--------------------------------------------------------------------------------
+in the National Land Planning and Utilization Act: Provided, That the erection of a building in a district
+unit planning zone designated under Article 51 (3) of the National Land Planning and Utilization Act
+shall be excluded herefrom;
+3. Substantially repairing a building with a total floor area of less than 200 square meters and less than
+three floors;
+4. Substantially repairing a building prescribed by Presidential Decree without any demolition of its
+main structural parts;
+5. Erecting any other small building prescribed by Presidential Decree.
+(2) Article 11 (5) shall apply mutatis mutandis to reporting on a building project under paragraph (1).
+(3) A report under paragraph (1) shall become invalid, if the person who has filed the report fails to
+commence the construction works within one year from the reporting date.
+ 
+Article 15 (Contracting with Project Owners)
+(1) Each party to a building project shall perform their works conscientiously in accordance with
+architectural plans and drawings so that the building can be constructed in conformity with this Act, orders
+and dispositions under this Act, and other relevant Acts and subordinate statutes, and shall not forcibly
+demand any other party to commit an illegal or unlawful act or disadvantage any other party in relation to
+such demand.
+(2) Except as provided for in this Act, the terms, conditions, and scope of liability of each party to a
+building project shall be stipulated by agreements made by and between the project owner and the
+architect, the project owner and the contractor, and the project owner and the project supervisor.
+(3) The Minister of Land, Infrastructure and Transport may prepare and distribute standard contract forms
+necessary for formation of contracts under paragraph (2) so that they can be widely used, or may
+commission the Registered Architects Association under Article 31 of the Architects Act (hereinafter
+referred to as the "Registered Architects Association"), the Construction Association, the Specialty
+Contractors Association, or an association of contractors specialized in performing specific works as
+defined in Article 50 of the Framework Act on the Construction Industry to prepare and distribute such
+forms. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 16 (Revision to Permits and Reports)
+(1) A project owner who intends to revise any matter in a permit granted or a report filed pursuant to
+Article 11 or 14 shall obtain permission on the revision from the competent permitting authority or file a
+report on the revision with the Special Self-governing Province Governor or the head of Si/Gun/Gu, as
+prescribed by Presidential Decree, prior to making such revision: Provided, That the same shall not apply
+to a modification to insignificant matters prescribed by Presidential Decree.
+(2) A report on the revision to matters prescribed by Presidential Decree among the matters subject to the
+permission or reporting under the main sentence of paragraph (1) may be filed with the competent
+
+--------------------------------------------------------------------------------
+permitting authority together with an application for approval on the use under Article 22 at the time such
+application is filed.
+(3) With respect to the permission for revision or the report on revision of the permitted or reported
+matters under paragraph (1), Article 11 (5) and (6) shall apply mutatis mutandis. <Added by Act No. 10755,
+May 30, 2011>
+ 
+Article 17 (Fees for Building Permits, etc.)
+(1) Any person who files an application for a permit or files a report in accordance with Article 11, 14, 16,
+19, 20, or 83 shall pay fees to the competent permitting authority or the authority receiving the report.
+(2) The fees under paragraph (1) shall be prescribed by municipal ordinance of each local government
+within the limit set by Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690,
+Mar. 23, 2013>
+ 
+Article 18 (Restrictions on Building Permits)
+(1) The Minister of Land, Infrastructure and Transport may, if he/she deems it particularly necessary for
+the management of national land or at the request of the Minister responsible for a specific affair who
+deems it particularly necessary for national defence, preservation of cultural heritages, conservation of
+environment, or national economy, place a restriction on a building permit granted by a permitting
+authority or on the commencement of a permitted building project. <Amended by Act No. 11690, Mar. 23,
+2013>
+(2) The competent Mayor/Do Governor may, if deemed necessary particularly for a community plan or
+urban/Gun plan, place a restriction on a building permit granted by the head of a Si/Gun/Gu or on the
+commencement of a permitted building project. <Amended by Act No. 10599, Apr. 14, 2011>
+(3) Where a restriction is placed on a building permit or the commencement of a building project pursuant
+to paragraph (1) or (2), the effective period of such restriction shall be two or fewer years: Provided, That
+the effective period of such restriction may be extended only once by up to one year.
+(4) The Minister of Land, Infrastructure and Transport or the competent Mayor/Do Governor shall, when
+he/she intends to place a restriction on a building permit or the commencement of a building project
+pursuant to paragraph (1) or (2), determine the purpose and period of the restriction, the use of the
+building subject to the restriction or, the location, area, and boundaries of the area subject to the restriction
+in detail and notify the competent permitting authority of his/her determination, and the permitting
+authority so notified shall, in return, issue public notice thereof forthwith. <Amended by Act No. 11690, Mar.
+23, 2013>
+(5) The Mayor/Do Governor shall, when he/she places a restriction on a building permit granted by the
+head of the competent Si/Gun/Gu or on the commencement of a building project pursuant to paragraph
+(2), promptly report it to the Minister of Land, Infrastructure and Transport, and the Minister of Land,
+Infrastructure and Transport may, upon receiving the report, issue an order to cancel the restriction, if
+
+--------------------------------------------------------------------------------
+he/she finds that the restriction is excessive. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 19 (Changes of Use)
+(1) Any change of the use of a building shall be made in conformity with the guidelines of the building for
+which the changed use is to be made.
+(2) Any person who intends to change the use of a building for which approval for use has been granted
+pursuant to Article 22 shall obtain permission therefor from the Special Self-Governing Province
+Governor or the head of the competent Si/Gun/Gu or file a report thereon with the Special Self-Governing
+Province Governor or the head of the competent Si/Gun/Gu, as prescribed by Ministerial Decree of Land,
+Infrastructure and Transport, according to the following classification: <Amended by Act No. 11690, Mar. 23,
+2013>
+1. The permission is required: For the building when the use of the building that falls within any group
+of facilities under any subparagraph of paragraph (4) is changed to a use of any group higher than the
+group (referring to a group that has any smaller item number of paragraph (4) than the item number of
+the group of facilities within which the building for the changed use falls);
+2. The report is subject matter of report: For a building when the use of which falls within any group of
+facilities under subparagraphs of paragraph (4) is changed to the use of any group lower than the group
+(referring to a group that has any larger number of paragraph (4) than the item number of the group of
+facilities within which the building for the changed use falls).
+(3) A person who intends to change the use of a building within an identical group of facilities under
+paragraph (4) shall file an application for the change of use in the building register with the Special Self-
+Governing Province Governor or the head of the competent Si/Gun/Gu, as prescribed by Ministerial
+Decree of Land, Infrastructure and Transport: Provided, That the same shall not apply to changes
+prescribed by Presidential Decree. <Amended by Act No. 11690, Mar. 23, 2013>
+(4) The groups of facilities shall be classified as follows, and the detailed uses of buildings shall be
+prescribed by Presidential Decree:
+1. Group of facilities relating to motor vehicles;
+2. Group of facilities for industrial purposes;
+3. Group of facilities for electricity and telecommunications;
+4. Group of facilities for cultural activities and assembly;
+5. Group of facilities for commerce;
+6. Group of facilities for education and welfare;
+7. Group of neighborhood living facilities;
+8. Group of facilities for residential and business purposes;
+9. Miscellaneous groups of facilities.
+(5) Article 22 shall apply mutatis mutandis to approval for use of a building subject to permission or
+reporting under paragraph (2), in cases where the total floor area of the part for the intended change of use
+
+--------------------------------------------------------------------------------
+is 100 or more square meters.
+(6) Article 23 shall apply mutatis mutandis to the planning and designing for the change of use of a
+building subject to permission under paragraph (2), in cases where the total floor area of part for the
+intended change of use is 500 or more square meters (excluding cases prescribed by Presidential Decree).
+(7) As to the change of use of a building under paragraph (1) or (2), Articles 3, 5, 6, 7, 11 (2) through (9),
+12, 14 through 16, 18, 20, 27, 29, 35, 38, 42 through 44, 48 through 56, 58, 60 through 64, 64-2, 66
+through 68, and 78 through 87 hereof and Article 54 of the National Land Planning and Utilization Act
+shall apply mutatis mutandis. <Amended by Act No. 10755, May 30, 2011>
+ 
+Article 20 (Temporary Buildings)
+(1) Any temporary building erected in an urban planning facility or a site for a planned urban planning
+facility shall meet the requirements under Article 64 of the National Land Planning and Utilization Act,
+shall not be higher than three floors, and shall obtain permission therefor from the Special Self-Governing
+Province Governor or the head of the competent Si/Gun/ Gu, as prescribed by municipal ordinance of the
+competent local government, within the limit of the guidelines prescribed by Presidential Decree.
+<Amended by Act No. 10599, Apr. 14, 2011>
+(2) A person who intends to erect any temporary building, other than a temporary building under
+paragraph (1), for disaster recovery, performances, exhibition, construction works, or any other purpose of
+use prescribed by Presidential Decree, shall submit a report thereon to the Special Self-Governing
+Province Governor or the head of the competent Si/Gun/Gu in compliance with the guidelines and
+procedure for the duration of its existence and installation prescribed by Presidential Decree.
+(3) In cases where a temporary building under paragraph (1) or (2) is erected or built, Articles 25, 38
+through 42, 44 through 64, and 66 through 68 hereof and part of Article 76 of the National Land Planning
+and Utilization Act shall not apply, as prescribed by Presidential Decree.
+(4) The Special Self-Governing Province Governor or the head of the competent Si/Gun/Gu shall, when
+he/she grants permission for erection of a temporary building or receives a report on erection of a
+temporary building pursuant to paragraph (1) or (2), record and keep the details of permission or reporting
+in the register of temporary buildings, as prescribed by Ministerial Decree of Land, Infrastructure and
+Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 21 (Reporting on Commencement of Construction Works)
+(1) A project owner who intends to commence a building project with a permit granted or a report filed in
+accordance with Article 11, 14, or 20 (1) shall report the project plan to the competent permitting
+authority, as prescribed by Ministerial Decree of Land, Infrastructure and Transport: Provided, That the
+same shall not apply in cases where a report submitted in accordance with Article 36 for demolition of a
+building contains the scheduled commencement date of works. <Amended by Act No. 11690, Mar. 23, 2013>
+
+--------------------------------------------------------------------------------
+(2) A report on a project plan or a revision thereto filed in accordance with paragraph (1) shall be signed
+jointly by the project supervisor (applicable only where a project supervisor has been appointed in
+accordance with Article 25 (1)) and the contractor.
+(3) No project owner may carry out or have anyone carry out the building project in violation of Article 41
+of the Framework Act on the Construction Industry.
+(4) A project owner who obtained a building permit pursuant to Article 11 shall submit a copy of each
+contract under Article 15 (2) when he/she files a report under paragraph (1).
+ 
+Article 22 (Approval for Use of Building)
+(1) A project owner who desires to use a building after completion of the building project permitted or
+reported in accordance with Article 11, 14, or 20 (1) (including cases where construction works for each
+unit of buildings are completed in cases where two or more units of buildings are erected on a site) shall
+file an application for approval of the use thereof with the competent permitting authority, along with a
+report on completion of supervision prepared by the project supervisor in accordance with Article 25 (5)
+(applicable only where a project supervisor has been appointed in accordance with paragraph (1) of the
+said Article) and the architectural plans and drawings for the completed project, as specified by Ministerial
+Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+(2) The competent permitting authority shall, upon receiving an application for approval of the use of a
+building under paragraph (1), conduct an inspection on the following matters within the period set by
+Ministerial Decree of Land, Infrastructure and Transport, and shall issue a letter of approval for the use of
+the building, if the building successfully passes the inspection: Provided, That a letter of approval of the
+use may be issued for the buildings specified by municipal ordinance of the competent local government
+without necessarily conducting an inspection for the approval of the use: <Amended by Act No. 11690, Mar.
+23, 2013>
+1. Whether the building for which an application for approval of use is filed has been built in
+compliance with the architectural plans and drawings under which the permit was granted or the report
+was filed in accordance with this Act;
+2. Whether the documents, plans, and drawings, including a report on completion of supervision and
+plans and drawings for the completed project, have been properly prepared.
+(3) No project owner may use or allow any other person to use a building, unless and until he/she obtains
+approval for use thereof in accordance with paragraph (2): Provided, That the same shall not apply to any
+of the following cases: <Amended by Act No. 11690, Mar. 23, 2013>
+1. Where the competent permitting authority has not issued a letter of approval within the period under
+paragraph (2);
+2. Where the part of construction works which has been completed before a letter of approval for use
+was issued conforms to the standards prescribed by Ministerial Decree of Land, Infrastructure and
+Transport for the building-to-land ratio, the floor area ratio, equipment, emergency escape, and fire
+
+--------------------------------------------------------------------------------
+prevention, and so approval for temporary use has been granted for a fixed period, as prescribed by
+Presidential Decree.
+(4) Approval for use granted to a project owner pursuant to paragraph (2) shall be deemed approval for
+use, a final inspection for completion, and an application for registration obtained or filed in accordance
+with the following subparagraphs, while such approval for use of a factory building shall be deemed an
+inspection, etc. under the relevant Acts successfully passed in compliance with Article 14-2 of the
+Industrial Cluster Development and Factory Establishment Act: <Amended by Act No. 9384, Jan. 30, 2009; Act
+No. 9774, Jun. 9, 2009; Act No. 10599, Apr. 14, 2011, Act No. 10755, May 30, 2011>
+1. Final inspection of a drainage system under Article 27 of the Sewerage Act and the final inspection of
+a private sewage treatment facility under Article 37 of the said Act;
+2. Application for registration of changes in descriptions of the cadastral register under Article 64 of the
+Act on Land Survey, Waterway Survey and Cadastral Records;
+3. Inspection of completion of elevators under Article 13 of the Elevator Facilities Safety Management
+Act;
+4. Inspection of installation of a boiler system under Article 39 of the Energy Use Rationalization Act;
+5. Pre-inspection of the use of electric equipment under Article 63 of the Electric Utility Act;
+6. Pre-inspection of the use of information and communication works under Article 36 of the
+Information and Communications Construction Business Act;
+7. Confirmation of completion of construction works that have occupied and used a road under Article
+38 (3) of the Road Act;
+8. Final inspection of completion of development activities under Article 62 of the National Land
+Planning and Utilization Act;
+9. Final inspection of completion of an urban/Gun planning facility project under Article 98 of the
+National Land Planning and Utilization Act;
+10. Report on commencement of operation of facilities for discharging water pollutants under Article 37
+of the Water Quality and Aquatic Ecosystem Conservation Act;
+11. Report on commencement of operation of facilities for emitting air pollutants under Article 30 of the
+Clean Air Conservation Act;
+12. Deleted. <by Act No. 9770, Jun. 9, 2009>
+(5) If approval for use under paragraph (2) involves the matters under any subparagraph of paragraph (4),
+the competent permitting authority shall first consult with the head of the administrative agency
+concerned.
+(6) The Special Metropolitan City Mayor or a Metropolitan City Mayor shall, whenever he/she grants
+approval for use under paragraph (2), notify the head of the competent Gun/Gu of the approval forthwith
+so that the details of the approval can be recorded in the building register. In such cases, the building
+register shall contain information on the architect, the contractors of main works prescribed by Presidential
+Decree, and the project supervisor.
+
+--------------------------------------------------------------------------------
+ 
+Article 23 (Planning of Buildings)
+(1) No one, other than architects, may engage in planning and designing for a project for construction of a
+building, if the building is subject to a building permit under Article 11 (1) or to the reporting under
+Article 14 (1), or if the age of the building is twenty years or older since the date on which approval for
+use under Article 22 was granted and is about to be remodelled in accordance with Article 42 (2) or (3) of
+the Housing Act: Provided, That the same shall not apply to any of the following cases:
+1. Where a building is to be extended, altered or reconstructed by less than 85 square meters of its total
+floor area;
+2. Where a building with a total floor area of less than 200 square meters and with less than three floors
+is to be substantially repaired;
+3. Where a project is for construction of any of the buildings prescribed by Presidential Decree,
+considering special purposes and use of the buildings.
+(2) Each architect shall ensure that the building for which he/she carries out planning and designing works
+shall conform to the requirements under this Act, orders and dispositions under this Act, and other relevant
+Acts and subordinate statutes and shall have no problem in its safety, functions, and aesthetic appearance,
+and shall follow the guidelines for preparation of architectural plans and drawings as specified and
+publicly notified by the Minister of Land, Infrastructure and Transport in preparing such plans and
+drawings: Provided, That the same shall not apply to cases in which an extraordinary construction method
+is applied to the building and which has successfully passed the deliberation by the building committee, as
+prescribed by Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23,
+2013>
+(3) Each architect who has prepared architectural plans and drawings under paragraph (2) shall ensure that
+such plans and drawings conform to the requirements under this Act, orders and dispositions under this
+Act, and other relevant Acts and subordinate statutes, and shall place his/her signature and seal on such
+plans and drawings.
+(4) Paragraph (1) shall not apply to a building, if the building project is carried out in compliance with the
+standard plans and drawings prepared or recognized by the Minister of Land, Infrastructure and Transport,
+as prescribed by Ministerial Decree of Land, Infrastructure and Transport, or plans and drawings to which
+an extraordinary construction method has been applied. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 24 (Performance of Building Projects)
+(1) Each contractor shall carry out construction works conscientiously in compliance with the terms and
+conditions of the contract under Article 15 (2), and shall transfer possession of the building to the project
+owner upon completion of the building project in compliance with this Act, orders and dispositions under
+this Act, and other relevant Acts and subordinate statutes.
+
+--------------------------------------------------------------------------------
+(2) Each contractor shall keep relevant plans and drawings at the site of a building project (applicable only
+to buildings subject to the building permit or permission for change of use).
+(3) Any contractor may, if he/she finds that architectural plans and drawings do not conform to the
+requirements under this Act, an order or a disposition under this Act, or any other relevant Act and
+subordinate statute, or he/she considers them unreasonable in light of the conditions of the project, request
+the architect, in writing, to revise such plans and drawings, subject to the prior consent of the project
+owner and the project supervisor. In such cases, the architect shall comply with the request, if no
+justifiable grounds exist otherwise.
+(4) Each contractor shall, if he/she deems it necessary for carrying out a project or if he/she is requested by
+the project supervisor to prepare detailed shop drawings in accordance with Article 25 (4), prepare such
+shop drawings for confirmation of the project supervisor, and shall follow the shop drawings in carrying
+out the project.
+(5) Each contractor shall, when commencing a building project subject to the building permit or the
+permission for change of use, install a sign displaying the permit or permission at the project site, as
+prescribed by Ministerial Decree of the Land, Infrastructure and Transport. <Amended by Act No. 11690,
+Mar. 23, 2013>
+ 
+Article 25 (Supervision of Building Projects)
+(1) A project owner who erects a building for the use and of the size and structure prescribed by
+Presidential Decree shall designate an architect or any person prescribed by Presidential Decree as a
+project supervisor, who shall be responsible for supervision of the project. In such cases, the contractor
+him/herself or an affiliate as defined in Article 2 of the Monopoly Regulation and Fair Trade Act shall not
+be designated as the project supervisor, in designating an architect for the supervision of the construction
+works.
+(2) Each project supervisor shall, if he/she finds, while supervising the project, that there has been a
+violation of this Act, an order or a disposition under this Act, or any other relevant Act and subordinate
+statute or that the contractor fails to follow the architectural plans and drawings in executing the project,
+notify the project owner of his/her finding and request the contractor to take corrective measures or
+execute reconstruction, and may, if the contractor fails to comply with the request for corrective measures
+or reconstruction works, request the contractor, in writing, to suspend the project. In such cases, the
+contractor shall, upon receiving such request, suspend the project immediately, unless any justifiable
+ground exists otherwise.
+(3) A project supervisor shall, if the contractor fails to comply with a request made in accordance with
+paragraph (2) for corrective measures or reconstruction or continues construction works after receiving a
+request for suspension of the project, report thereon to the competent permitting authority, as prescribed
+by Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+
+--------------------------------------------------------------------------------
+(4) A project supervisor responsible for supervision of a project for the use or of the size prescribed by
+Presidential Decree may, if deemed necessary, request the contractor to prepare detailed shop drawings.
+(5) Each project supervisor shall keep and maintain daily records of supervision, as prescribed by
+Ministerial Decree of Land, Infrastructure and Transport, and shall submit to the project owner an interim
+supervision report, when the progress of the project has reached the stage prescribed by Presidential
+Decree, and a report on completion of supervision, when the project is completed, respectively as
+prescribed by Ministerial Decree of Land, Infrastructure and Transport. The project owner shall submit the
+interim report on supervision and the report on completion of supervision to the competent permitting
+authority together, when he/she files an application for approval of use of the building in accordance with
+Article 22. <Amended by Act No. 11690, Mar. 23, 2013>
+(6) Neither a project owner nor a contractor may cancel the designation of a project supervisor, refuse to
+pay him/her remuneration, delay such payment, or disadvantage the project supervisor otherwise on the
+ground that the project supervisor has made a request for corrective measures for a violation or
+reconstruction in accordance with paragraph (2) or (3) or has submitted a report on such violation to the
+competent permitting authority.
+(7) The methods and scope of supervision of projects under paragraph (1) shall be prescribed by
+Presidential Decree, considering the use, size, and other factors of buildings. However the Minister of
+Land, Infrastructure and Transport may, if necessary, prescribe detailed guidelines or commission the
+Registered Architects Association to prepare such guidelines subject to the approval of the Minister of
+Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+(8) The Minister of Land, Infrastructure and Transport shall, whenever he/she prescribes or approves
+detailed guidelines pursuant to paragraph (7), issue public notice thereof. <Amended by Act No. 11690, Mar.
+23, 2013>
+(9) Notwithstanding the provisions of paragraphs (1) through (8), the supervision of the building projects
+subject to approval of the project plan under Article 16 of the Housing Act and the building projects
+subject to obligatory supervision under Article 27 of the Construction Technology Management Act shall
+be governed by the relevant Act and subordinate statute, respectively.
+ 
+Article 26 (Allowable Tolerances)
+In applying this Act, an inevitable error in the course of survey of a building site (excluding the cadastral
+land survey under the Act on Land Survey, Waterway Survey and Cadastral Records) or construction of a
+building shall be allowed within the extent prescribed by Ministerial Decree of Land, Infrastructure and
+Transport. <Amended by Act No. 9774, Jun. 9, 2009; Act No. 11690, Mar. 23, 2013>
+ 
+Article 27 (Agents for On-Site Surveys, Inspections and Confirmations)
+(1) The competent permitting authority may designate a person who has filed a report on his/her
+architectural business to act as its agent for any on-site surveys, inspections, or confirmations under this
+
+--------------------------------------------------------------------------------
+Act (excluding those for a building subject to reporting), as prescribed by Presidential Decree.
+(2) A person who performs the affairs under paragraph (1) as an agent shall report the results of the on-site
+survey, inspection, or confirmation in writing to the competent permitting authority, as prescribed by
+Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+(3) The competent permitting authority that has designated a person as its agent for the affairs under
+paragraph (1) shall pay the fee prescribed by municipal ordinance of the competent local government
+within the limit set by Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690,
+Mar. 23, 2013>
+ 
+Article 28 (Preventative Measures against Hazards on Project Sites)
+(1) Each contractor of a building project shall take measures necessary for preventing hazards on project
+sites, as prescribed by Presidential Decree.
+(2) The competent permitting authority shall take measures as may be necessary for counselling on
+disputes arising between parties to a building project in connection with construction works of the project.
+ 
+Article 29 (Special Exception to Buildings for Public Use)
+(1) The State or a local government shall, when it intends to erect a building, carry out substantial repair
+works, alter building for another use, erect a temporary building or structure under Article 11, 14, 19, 20
+or 83 first consult with the permitting authority having jurisdiction over the location of the building, as
+prescribed by Presidential Decree. <Amended by Act No. 10755, May 30, 2011>
+(2) An agreement that the State or a local government made with the permitting authority having
+jurisdiction of the location of a building through consultation under paragraph (1) shall be deemed a
+building permit granted or reporting filed under Article 11 or 14. <Amended by Act No. 10755, May 30, 2011>
+(3) The provisions of Article 22 (1) through (3) shall not apply to the buildings on which the consultation
+under paragraph (1) has been completed: Provided, That the completion of the project shall be notified to
+the competent permitting authority forthwith, upon completion.
+ 
+Article 30 (Statistics on Building Projects)
+(1) Each permitting authority shall submit a report on the following matters (hereinafter referred to as
+"statistics on building projects") to the Minister of Land, Infrastructure and Transport or the competent
+Mayor/Do Governor, as prescribed by Ministerial Decree of Land, Infrastructure and Transport: <Amended
+by Act No. 11690, Mar. 23, 2013>
+1. Current status of building permits granted pursuant to Article 11;
+2. Current status of building projects reported in accordance with Article 14;
+3. Current status of permits for and reports on change of use under Article 19;
+4. Current status of reports on commencement of project under Article 21;
+
+--------------------------------------------------------------------------------
+5. Current status of approval for use granted pursuant to Article 22;
+6. Other matters prescribed by Presidential Decree.
+(2) Necessary matters concerning the preparation of statistics on building projects shall be prescribed by
+Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 31 (Computerization of Administration of Building Projects)
+(1) The Minister of Land, Infrastructure and Transport may establish and implement a comprehensive plan
+for computerizing works related to administration of building projects under this Act. <Amended by Act No.
+11690, Mar. 23, 2013>
+(2) Each permitting authority may require persons to file applications, reports, accompanying documents,
+notices, and information under Articles 10, 11, 14, 16, 19 through 22, 25, 29, 30, 35, 36, 38, 83, and 92 in
+the form of a diskette or a disc or via an information network.
+ 
+Article 32 (Computerization of Building Permit Process)
+(1) Each permitting authority may process the affairs provided for in this Act by an electronic information
+processing system, as prescribed by Ministerial Decree of Land, Infrastructure and Transport, in order to
+carry out the affairs relating to building permits in an efficient manner. <Amended by Act No. 11690, Mar. 23,
+2013>
+(2) Any person who desires to have access to the data processed by the electronic information processing
+system under paragraph (1) (hereinafter referred to as "computerized data") shall obtain approval from the
+Minister of Land, Infrastructure and Transport, the competent Mayor/Do Governor or the head of the
+competent Si/Gun/Gu according to the following classifications, subject to the examination by the head of
+the relevant central administrative agency, as prescribed by Presidential Decree: Provided, That such
+examination by the relevant central administrative agency is not required in cases where the head of a
+local government files an application for such approval: <Amended by Act No. 11690, Mar. 23, 2013>
+1. For computerized data for the whole country: The Minister of Land, Infrastructure and Transport;
+2. For computerized data for a specific City/Do or Special Self-Governing Province: The competent
+Mayor/Do Governor;
+3. For computerized data for a specific Si/Gun/Gu (referring to an autonomous Gu): The head of the
+competent Si/Gun/Gu.
+(3) The Minister of Land, Infrastructure and Transport, a Mayor/Do Governor, or the head of a Si/Gun/Gu
+may, upon receiving an application for approval under paragraph (2), approve such application only in
+cases where it is judged that it will not have any impact on the efficiency of the building permit process
+and does not violate the guidelines for the protection of personal information of project owners and other
+parties prescribed by Presidential Decree. In such cases, approval may be granted with some restrictions
+on the purpose of use. <Amended by Act No. 11690, Mar. 23, 2013>
+
+--------------------------------------------------------------------------------
+(4) Any person who desires to have access to computerized data with approval under paragraph (2) shall
+pay the applicable service fee.
+(5) Matters concerning the operation of the electronic information processing system under paragraphs (1)
+through (4) and necessary matters concerning the extent of accessible computerized data, the criteria for
+examination, the procedure for approval, and service fees shall be prescribed by Presidential Decree.
+ 
+Article 33 (Guidance and Oversight of Users of Computerized Data)
+(1) The Minister of Land, Infrastructure and Transport, a Mayor/Do Governor, or the head of a Si/Gun/Gu
+may, if considered necessary in relation to the maintenance or management of computerized data, provide
+guidance to, and oversee, users of the computerized data under Article 32. <Amended by Act No. 11690, Mar.
+23, 2013>
+(2) Necessary matters concerning users subject to the guidance and oversight under paragraph (1) and the
+procedures for such guidance and oversight shall be prescribed by Presidential Decree.
+ 
+Article 34 (Installation of Integrated Civil Service Center for Building Projects)
+The Special Self-governing Province Governor or the head of each Si/Gun/Gu shall install and operate a
+civil service center for building projects, which shall comprehensively receive and process building
+permits, reports on building projects, approval of use, and other civil petitions, as prescribed by
+Presidential Decree.
+ 
+CHAPTER III MAINTENANCE AND MANAGEMENT OF
+BUILDINGS
+ 
+Article 35 (Maintenance and Management of Buildings)
+(1) Each owner or manager of a building shall maintain and manage the building, site, and equipment for
+the building in compliance with Articles 40 through 58, 60 through 64, 64-2, 65, 65-2, 66, 66-2, 67 and
+68. <Amended by Act No. 10755, May 30, 2011>
+(2) For the maintenance and management of a building, the owner or manager thereof shall conduct
+regular and occasional inspections as prescribed by Presidential Decree, and report on the result thereof to
+the competent permitting authority. <Added by Act No. 11182, Jan. 17, 2012>
+(3) Necessary matters concerning the standards and procedures for the maintenance and management of
+buildings under paragraphs (1) and (2) shall be prescribed by Presidential Decree. <Amended by Act No.
+11182, Jan. 17, 2012>
+ 
+Article 36 (Reporting on Demolition of Buildings)
+(1) An owner or a manager of a building shall, if he/she intends to demolish such building, file a report
+thereon with the Special Self-governing Province Governor or the head of the competent Si/Gun/Gu
+
+--------------------------------------------------------------------------------
+before commencing such demolition.
+(2) An owner or a manager of a building shall, if the building has been completely destroyed by a disaster,
+file a report thereon within thirty days after such destruction.
+(3) Buildings subject to reporting under paragraphs (1) and (2) and the procedure for such reporting shall
+be prescribed by Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar.
+23, 2013>
+ 
+Article 37 (Building Instructors)
+(1) The Special Self-governing Province Governor or the head of a Si/Gun/Gu may, as prescribed by
+Presidential Decree, designate building instructors whose duties shall be to prevent buildings from being
+built in violation of this Act or an order or disposition under this Act, and to provide guidance for proper
+maintenance and management of buildings.
+(2) The qualifications for and the scope of duties of building instructors under paragraph (1) shall be
+prescribed by Presidential Decree.
+ 
+Article 38 (Building Registers)
+(1) The Special Self-governing Province Governor or the head of each Si/Gun/Gu shall record and keep
+the status of each building and its site in building registers if it falls under any of the following
+subparagraphs, so that such records can be used as basic data for examining the status of ownership, use,
+maintenance and management of each building and establishing policies on buildings: <Amended by Act No.
+11182, Jan. 17, 2012>
+1. Where a letter of approval of use is issued pursuant to Article 22 (2);
+2. Where a request for recording is filed after completion of any building, other than buildings subject to
+the building permit under Article 11 (including those subject to reporting under Article 14);
+3. Matters concerning the maintenance and management of a building under Article 35;
+4. Where prescribed by Presidential Decree.
+(2) The form and mandatory descriptions of the building register under paragraph (1), the procedure for
+recording, and other necessary matters shall be prescribed by Ministerial Decree of Land, Infrastructure
+and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 39 (Requests for Registration)
+(1) The Special Self-governing Province Governor or the head of each Si/Gun/Gu may, whenever any
+change occurs in the descriptions recorded in the building register due to any of the following events
+(excluding newly registered descriptions in the case of subparagraph 2), request the registration thereof by
+the competent registry office. In such cases, the registration requested pursuant to subparagraphs 1 and 4
+shall be deemed to have been made by the competent local government for itself:
+
+--------------------------------------------------------------------------------
+1. When there is a change in a lot number or the name of an administrative district;
+2. When there is a change in the area, structure, use, or number of floors recorded as the descriptions of
+approval of the use of a building for which approval was granted pursuant to Article 22;
+3. When a building is demolished in accordance with a report on demolition of the building in
+accordance with Article 36 (1);
+4. When a report on complete destruction is filed in accordance with Article 36 (2) after a building has
+been completely destroyed.
+(2) Necessary matters concerning the procedure for requests for registration under paragraph (1) shall be
+prescribed by Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23,
+2013]
+ 
+CHAPTER IV SITES OF BUILDINGS AND ROADS
+ 
+Article 40 (Safety on Building Sites)
+(1) A building site shall not be lower than the surface level of any road adjacent to it: Provided, That a
+building site may be lower than the surface level of any road adjacent to it, if there are no difficulties with
+drainage of water from the site or if there is no need for damp-proofing measures in light of the use of the
+building.
+(2) In cases where a building is to be erected on any land filled with damp soil, soil likely to discharge
+water, wastes, or any similar soil, necessary measures, such as raising the ground level and improving the
+foundation, shall be taken.
+(3) Each building site shall be equipped with sewage pipes, drains, water storage tanks and similar
+facilities as may be necessary for the discharge and treatment of rainwater and waste water.
+(4) Whenever a building site is developed on land that is likely to collapse, retaining walls shall be
+installed or any other necessary measure shall be taken as prescribed by Ministerial Decree of Land,
+Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 41 (Measures for Excavated Areas of Land)
+(1) A contractor who excavates soil for the development of a building site or erection of a building shall
+take measures necessary for the prevention of hazards and conservation of environment and other
+measures for the excavated area as prescribed by Ministerial Decree of Land, Infrastructure and Transport
+and install a sign of the excavated area at the project site. <Amended by Act No. 11690, Mar. 23, 2013>
+(2) The competent permitting authority may order a person who violates paragraph (1) to take measures
+necessary for the performance of his/her obligations.
+ 
+Article 42 (Landscaping of Building Sites)
+
+--------------------------------------------------------------------------------
+(1) A project owner of a building on an area of 200 square meters or larger shall carry out landscaping
+works or take other necessary measures in accordance with the standards prescribed by municipal
+ordinance of the competent local government according to the area for the specific use and the size of the
+building: Provided, That landscaping works or any other measure may be omitted for a building, if the
+building falls within the buildings prescribed by Presidential Decree as those for which landscaping works
+are unnecessary, while the standards prescribed by Presidential Decree shall apply to rooftop landscaping,
+if such standards are prescribed separately.
+(2) The Minister of Land, Infrastructure and Transport may prescribe and publicly notify the standards for
+planting, the types of landscaping facilities and method of installation thereof, the method of rooftop
+landscaping, and other matters necessary for landscaping. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 43 (Securing Open Space for Public Purposes)
+(1) An open area or open space for resting facilities in a small area shall be installed in a building in
+accordance with the standards prescribed by Presidential Decree, if the use and size of the building falls
+within those prescribed by Presidential Decree, so as to develop pleasant environment for the community
+falling under any of the following subparagraphs and make it available to the public:
+1. General residential zone and quasi-residential zone;
+2. Commercial zone;
+3. Quasi-industrial zone;
+4. An area designated and publicly notified by the Special Self-governing Province Governor or the
+competent head of Si/Gun/Gu as an area that is highly anticipated to be urbanized.
+(2) The regulation under Articles 55, 56, and 60 may be relaxed, as prescribed by Presidential Decree, in
+cases where those provisions shall apply to an open area or space installed in accordance with paragraph
+(1).
+ 
+Article 44 (Relationship between Building Site and Road)
+(1) The site of a building shall adjoin to a road of at least two meters wide (excluding a road exclusively
+dedicated to motor vehicle traffic): Provided, That the same shall not apply to any of the following cases:
+1. Where there is deemed to be no problem in accessibility to the building;
+2. Where there is any vacant area around the building as prescribed by Presidential Decree.
+(2) The width of a road adjoining to a building site, the length of the part of the road adjoining to a
+building site, and other necessary matters concerning the relation between a building site and a road shall
+be prescribed by Presidential Decree.
+ 
+Article 45 (Designation of Road and Cancellation and Alteration Thereof)
+(1) A permitting authority shall, whenever it intends to designate and publicly notify the location of a road
+pursuant to Article 2 (1) 11 (b), obtain the consent of interested parties to the road as prescribed by
+
+--------------------------------------------------------------------------------
+Ministerial Decree of Land, Infrastructure and Transport: Provided, That a road may be designated
+without the consent of interested parties, subject to deliberation by the building committee, if the case falls
+under any of the following subparagraphs: <Amended by Act No. 11690, Mar. 23, 2013>
+1. The permitting authority finds that it is difficult to obtain the consent of interested parties because the
+interested parties reside abroad or due to any other reason;
+2. The road has been actually used by residents as a passage for a long time and is specified as such by
+municipal ordinance of the competent local government.
+(2) A permitting authority shall, whenever it intends to cancel or alter the designation of a road designated
+pursuant to paragraph (1), obtain the consent of interested parties to the road. The same shall also apply in
+cases where the owner of the land included in the road or the project owner of a building thereon files an
+application for the cancellation or alteration of the designation of the road designated pursuant to
+paragraph (1) with the permitting authority.
+(3) A permitting authority shall keep and maintain records of the roads designated or altered pursuant to
+paragraph (1) or (2) in the road management register as prescribed by Ministerial Decree of Land,
+Infrastructure and Transport. <Amended by Act No. 10755, May 30, 2011; Act No. 11690, Mar. 23, 2013>
+ 
+Article 46 (Designation of Building Lines)
+(1) The line to which a building is allowed to be erected from the part adjoining to a road (hereinafter
+referred to as "building line") shall be determined by the border between the building site and the road:
+Provided, That the building line shall be the line fixed at a certain distance away from the median line of a
+road by one-half of the horizontal distance of the required width of the road, in cases where the width of
+the road does not reach the required width under Article 2 (1) 11, and the building line shall be the line
+fixed at the horizontal distance amounting to the required width from the road boundary line on the side
+where there is a slope, a river, a railroad, a track site, or any thing similar thereto, in cases where there is
+such slope, river, railroad, track site, or any thing similar thereto, while the building line at a corner of a
+road shall be the line prescribed by Presidential Decree.
+(2) Notwithstanding paragraph (1), the Special Self-governing Province Governor or the head of each
+Si/Gun/Gu may, if deemed necessary for the adjustment of location and environment of buildings within
+an urban area, define the building line separately within the limit prescribed by Presidential Decree.
+(3) The Special Self-governing Province Governor or the head of each Si/Gun/Gu shall, when he/she
+defines the building line separately pursuant to paragraph (2), issue public notice thereof forthwith.
+ 
+Article 47 (Restriction on Building by Building Line)
+(1) No building nor its walls may protrude over the vertical section of the building line: Provided, That the
+same shall not apply to the section below ground level.
+(2) Every gate, window, or any other similar structure installed at a height of not exceeding 4.5 meters
+from the surface of a road shall not protrude over the vertical section of the building line when it is open or
+
+--------------------------------------------------------------------------------
+closed.
+ 
+CHAPTER V STRUCTURES AND MATERIALS OF
+BUILDINGS
+ 
+Article 48 (Structural Bearing Strength)
+(1) Every building shall be made of a structure safe against dead load, live load, snow load, wind pressure,
+earthquake, and other vibration and impacts.
+(2) In cases where a building under Article 11 (1) is newly constructed or substantially repaired, the safety
+of its structure shall be examined as prescribed by Presidential Decree.
+(3) The head of a local government shall, where he/she grants permission, etc. on a building subject to an
+examination of the safety of its structure under paragraph (2), make sure whether it is equipped with
+earthquake-resistant performance. <Amended by Act No. 11057, Sep. 16, 2011>
+(4) Necessary matters concerning the standards for the structural bearing strength under paragraph (1) and
+the method of structural calculation shall be prescribed by Ministerial Decree of Land, Infrastructure and
+Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 49 (Egresses from Buildings and Restrictions on their Use)
+(1) Each building and its site that meet the criteria prescribed by Presidential Decree for the use and the
+size of buildings shall have corridors, stairs, gates and other egresses, fire hydrants, water tanks and other
+fire-fighting facilities, and a passage required for evacuation and fire-fighting within the site, as prescribed
+by Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+(2) Necessary matters concerning the restrictions on the use and structure required for the safety,
+sanitation, and fire-fighting of the buildings that meet the criteria prescribed by Presidential Decree for the
+use and size, the fire-fighting partition, the structure of toilets, the heights of stairs, gates, and living
+rooms, and lighting, air ventilation and damp-proofing of floors in living rooms shall be prescribed by
+Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 50 (Fireproof Structure and Fireproof Wall of Buildings)
+(1) Main structural parts of the buildings prescribed by Presidential Decree, including facilities for cultural
+activities and assembly, medical facilities, and multi-unit houses, shall be fireproof structures in
+accordance with the standards prescribed by Ministerial Decree of Land, Infrastructure and Transport.
+<Amended by Act No. 11690, Mar. 23, 2013>
+(2) The buildings that meet the criteria prescribed by Presidential Decree for the use and size shall be
+partitioned with fireproof walls in accordance with the standards prescribed by Ministerial Decree of
+Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+
+--------------------------------------------------------------------------------
+ 
+Article 50-2 (Egress from High-rise Buildings and Safety Control)
+(1) In cases of high-rise buildings, egress safety zones shall be established or staircases where sheltering
+spaces are secured shall be installed, as prescribed by Presidential Decree. In such cases, necessary matters
+concerning the standards for establishment of egress safety zones, standards for installation of staircases
+and structure thereof, etc. shall be prescribed by Ministerial Decree of Land, Infrastructure and Transport.
+<Amended by Act No. 11690, Mar. 23, 2013>
+(2) To prevent high-rise buildings from fire and to reduce the damage thereof, the standards which are
+stricter than those prescribed in Articles 48 through 50 and 64 may be applicable, as prescribed by
+Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 51 (Buildings in Fire Prevention Zones)
+(1) Main structural parts and outer walls of each building in a fire prevention zone as defined in the
+National Land Planning and Utilization Act shall be fireproof structures: Provided, That the same shall not
+apply to cases prescribed by Presidential Decree.
+(2) Main parts of each structure installed on the roof of a building or a structure with a height of three or
+more meters in a fire prevention zone, such as a signboard, an advertising tower, and other structures
+prescribed by Presidential Decree, shall be built with incombustible materials.
+(3) Roofs, fire doors, and outer walls adjoining to the boundaries of adjoining building sites in a fire
+prevention zone shall be built with the structures and materials specified by Ministerial Decree of Land,
+Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 52 (Finishing Materials for Building)
+(1) Finishing materials for the interior of buildings that meet the criteria prescribed by Presidential Decree
+for the use and size shall not cause any limit to the prevention of fire, and shall meet the standards
+prescribed by Ministerial Decree of Land, Infrastructure and Transport, subject to consultation with the
+heads of central administrative agencies concerned, considering the standards and recommendations for
+the maintenance of indoor air quality under Articles 5 and 6 of the Indoor Air Quality Control in Public-
+Use Facilities, etc. Act. <Amended by Act No. 11690, Mar. 23, 2013>
+(2) Finishing materials used for the outer walls of buildings prescribed by Presidential Decree shall not
+cause any limit to the prevention of fire. In such cases, the criteria for finishing materials shall be
+prescribed by Ministerial Decree of Land, Infrastructure and Transport. <Added by Act No. 9858, Dec. 29,
+2009; Act No. 11690, Mar. 23, 2013>
+ 
+Article 53 (Basement Levels)
+The structure and facilities of basement levels installed in buildings shall conform to the standards
+prescribed by Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23,
+
+--------------------------------------------------------------------------------
+2013>
+ 
+CHAPTER VI BUILDINGS BY AREAS AND ZONES
+ 
+Article 54 (Measures to be Taken Where Building Site Stretches over Two or More Areas, Zones or
+Districts)
+(1) In cases where a building site stretches over two or more areas, zones (excluding green areas and fire
+prevention zones; hereafter the same shall apply in this Article) or districts as defined in this Act or any
+other Act, the provisions of this Act, relevant to the buildings and their sites in an area, zone, or district in
+which more than half of the site lies, shall apply to the whole of the building and its site as prescribed by
+Presidential Decree: Provided, That the provisions of this Act, relevant to the buildings and their sites in
+an aesthetic zone, shall apply to the whole of a building and its site, if the building site stretches over an
+aesthetic zone.
+(2) In cases where a single building stretches over a fire prevention zone and other district, the provisions
+of this Act, relevant to the buildings in a fire prevention zone, shall apply to the whole of the building:
+Provided, That the same shall not apply to any section in any district other than a fire prevention zone, in
+cases where the part in a fire prevention zone and the part in another district is partitioned by a fireproof
+wall.
+(3) In cases where a building site stretches over a green area and any other area, zone, or district, the
+provisions of this Act, relevant to the buildings and their sites in any area, zone, or district other than a
+green area, shall apply: Provided, That the proviso to paragraph (1) or paragraph (2) shall apply to a
+building in a green area, if it stretches over an aesthetic zone or a fire prevention zone.
+(4) Notwithstanding paragraph (1), if the competent local government prescribes, by municipal ordinance,
+a separate method applicable to a specific building site, because it deems it necessary to do so in light of
+the size of the site in question, the nature of the area, zone, or district for a specific use, and other
+conditions in the surroundings of the site, such separate method shall apply to the site.
+ 
+Article 55 (Building-to-Land Ratio)
+The maximum limit on the ratio of the building area (which shall be the aggregate of building areas, in
+cases where there are two or more buildings on a building site) to the area of a building site (hereinafter
+referred to as "building-to-land ratio") shall conform to the standards for the building-to-land ratio under
+Article 77 of the National Land Planning and Utilization Act: Provided, That if any provision of this Act
+requires higher or lower standards than the afore-said standards, such provision shall prevail.
+ 
+Article 56 (Floor Area Ratio)
+The maximum limit on the total floor area (which shall be the aggregate of total floor areas, in cases where
+there are two or more buildings on a building site) to the area of a building site (hereinafter referred to as
+
+--------------------------------------------------------------------------------
+"floor area ratio") shall conform to the standards for the floor area ratio under Article 78 of the National
+Land Planning and Utilization Act: Provided, That if any provision of this Act requires higher or lower
+standards than the afore-said standards, such provision shall prevail.
+ 
+Article 57 (Restrictions on Partition of Building Sites)
+(1) A piece of land on which a building is situated may not be partitioned into pieces with an area that
+does not reach the area specified by municipal ordinance of the competent local government within the
+limit prescribed by Presidential Decree.
+(2) A piece of land on which a building is situated may not be partitioned into pieces that do not meet the
+standards under Article 44, 55, 56, 58, 60, or 61.
+ 
+Article 58 (Vacant Lot within Building Site)
+Whenever a building is newly constructed, such building shall be constructed with the distance set by
+municipal ordinance of the competent local government, as prescribed by Presidential Decree, within the
+limit of six meters from the building line or the boundary of adjoining building sites, depending upon the
+zone or district of specific use, the use and size of the building under the National Land Planning and
+Utilization Act. <Amended by Act No. 10755, May 30, 2011>
+ 
+Article 59 (Construction of Double Walls and Connecting Corridors)
+(1) Articles 58 and 61 hereof and Article 242 of the Civil Act shall not apply to any of the following cases:
+1. Where two or more buildings are erected with double walls (referring to those erected with a distance
+of 50 centimeters or less from the boundary of the building site; hereinafter the same shall apply) in
+consideration of the aesthetics of the urban view in an area prescribed by Presidential Decree;
+2. Where a corridor or passage connecting to an adjacent building is installed in accordance with the
+standards prescribed by Presidential Decree.
+(2) Necessary matters concerning the structure and size of double walls, connecting corridors and passages
+under subparagraphs of paragraph (1) shall be prescribed by Presidential Decree.
+ 
+Article 60 (Restriction on Height of Buildings)
+(1) Each permitting authority may determine and publicly notify the maximum height of buildings within
+a specific block (referring to an area surrounded by roads; hereinafter the same shall apply) in compliance
+with the standards and procedure prescribed by Presidential Decree: Provided, That the Special Self-
+Governing Province Governor or the head of a Si/Gun/Gu may relax the limit on the maximum height of a
+building in a specific building site, subject to deliberation by the building committee as prescribed by
+Presidential Decree, if he/she considers it necessary to relax the maximum height of buildings in a specific
+block.
+
+--------------------------------------------------------------------------------
+(2) The Special Metropolitan City Mayor or each Metropolitan City Mayor may, if he/she considers it
+necessary for maintenance of the city, prescribe the maximum height of each building in each block under
+paragraph (1) by municipal ordinance of the Special Metropolitan City or the Metropolitan City.
+(3) In cases where no maximum height under paragraph (1) is specified for a specific block, the height of
+each section of a building may not exceed 1. 5 times the horizontal distance from each section to the
+boundary line of the opposite side of the front road: Provided, That the maximum height of buildings may
+be separately prescribed by municipal ordinance of the competent local government for cases where a
+building site adjoins two or more roads, a park, a public square, or a river.
+ 
+Article 61 (Restriction on Height of Buildings for Securing Sunshine, etc.)
+(1) The height of buildings erected within an exclusive residential area or a general residential area shall
+not exceed the height prescribed by Presidential Decree according to the distance from the boundary line
+of adjoining building sites due north, in order to secure sunshine, etc.
+(2) The height of any of the following multi-unit houses (excluding those erected in a general commercial
+area or a central commercial area) shall not exceed the height prescribed by Presidential Decree, in order
+to secure lighting, etc.: <Amended by Act No. 11763, May 10, 2013>
+1. Where a multi-unit house has windows for lighting facing the boundary line of adjoining building
+sites;
+2. Where two ore more multi-unit houses are constructed on the same building site.
+(3) A building may be erected to a height not exceeding the height prescribed by Presidential Decree
+according to the distance from the boundary line of adjoining building sites due south, notwithstanding
+paragraph (1), if the building falls under any of the following subparagraphs: <Amended by Act No. 10764,
+May 30, 2011>
+1. If the building is to be erected in a housing site development district under Article 3 of the Housing
+Site Development Promotion Act;
+2. If the building is to be erected in a building site development project district under Article 16 of the
+Housing Act;
+3. If the building is to be erected in a greater local development zone or a development promotion
+district under Article 4 or 9 of the Balanced Regional Development and Support for Local Small and
+Medium Enterprises Act;
+4. If the building is to be erected in a national industrial complex, a general industrial complex, an urban
+high-tech industrial complex, or an agro-industrial complex under any provision of Articles 6 through 8
+of the Industrial Sites and Development Act;
+5. If the building is to be erected in an urban development zone under Article 2 (1) 1 of the Urban
+Development Act;
+6. If the building is to be erected in a maintenance and improvement zone under Article 4 of the Act on
+the Maintenance and Improvement of Urban Areas and Dwelling Conditions for Residents;
+
+--------------------------------------------------------------------------------
+7. If the building is to be erected on a building site adjoining a road, park, river, or any vacant lot due
+north, on which construction of any building is prohibited;
+8. If there is an agreement with the owners of the adjoining building sites due north, or it falls under any
+other case prescribed by Presidential Decree.
+(4) A building with two floors or less with a height of eight meters or less may be exempted by municipal
+ordinance of the competent local government from the application of the provisions of paragraphs (1)
+through (3).
+ 
+CHAPTER VII FACILITIES OF BUILDINGS
+ 
+Article 62 (Standards for Facilities of Buildings)
+The standards for the installation and structure of facilities of buildings and necessary matters concerning
+the planning and supervision of projects shall be prescribed by Presidential Decree.
+ 
+Article 63 (Installation of Ondol and Heating Systems)
+The ondol (traditional floor heating system) and other heating systems installed in a building shall
+conform to the standards prescribed by Ministerial Decree of Land, Infrastructure and Transport to ensure
+that it will not cause any problem to safety or fire prevention. <Amended by Act No. 10755, May 30, 2011; Act
+No. 11690, Mar. 23, 2013>
+ 
+Article 64 (Elevators)
+(1) A project owner of a building (excluding buildings prescribed by Presidential Decree) with six or more
+floors and a total floor area of 2,000 square meters or more shall have an elevator installed therein. In such
+cases, the size and structure of elevators shall be prescribed by Ministerial Decree of Land, Infrastructure
+and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+(2) A building higher than 31 meters shall have an additional elevator for emergency purposes as
+prescribed by Presidential Decree in addition to the elevator under paragraph (1): Provided, That the same
+shall not be apply to any of the buildings specified by Ministerial Decree of Land, Infrastructure and
+Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 64-2 (Protection of Building from Heat Loss)
+Where a building is erected, necessary measures for prevention of heat loss shall be taken for reasonable
+use of energy, such as use of insulators and installation of vapour proof layer, as prescribed by Ordinance
+of Ministry of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 65 Deleted. <by Act No. 11365, Feb. 22, 2012>
+
+--------------------------------------------------------------------------------
+ 
+Article 65-2 (Accreditation of Intelligent Buildings)
+(1) In order to vitalize construction of intelligent buildings, the Minister of Land, Infrastructure and
+Transport shall implement an intelligent building accreditation program. <Amended by Act No. 11690, Mar.
+23, 2013>
+(2) For the accreditation of intelligent buildings provided for in paragraph (1), the Minister of Land,
+Infrastructure and Transport may designate accrediting institutions. <Amended by Act No. 11690, Mar. 23,
+2013>
+(3) Any person who intends to obtain accreditation of an intelligent building shall apply for the
+accreditation to an accrediting institution referred to in paragraph (2).
+(4) In order to maximize the productivity of buildings and efficiency of operation of facilities through
+optimized combination of facilities constituting buildings and various technologies, the Minister of Land,
+Infrastructure and Transport shall publicly notify the standards for accreditation of intelligent buildings
+including each of the following matters: <Amended by Act No. 11690, Mar. 23, 2013>
+1. Standards and procedure for accreditation;
+2. Standards for publicizing indication of accreditation;
+3. Term of validity;
+4. Fees;
+5. Grades of accreditation and screening criteria, etc.
+(5) Matters necessary for the standards for designation of accrediting institutions, procedure for the
+designation, procedure for application of accreditation, etc. under paragraphs (2) and (3) shall be
+prescribed by Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23,
+2013>
+(6) As regards a building which has obtained the accreditation of an intelligent building, the competent
+permitting authority may relax the restrictions on the landscaping area prescribed in Article 42 down to
+85/100 and the floor area ratio and height of the buildings prescribed in Articles 56 and 60 up to 115/100.
+ 
+Article 66 Deleted. <by Act No. 11365, Feb. 22, 2012>
+ 
+Article 66-2 Deleted. <by Act No. 11365, Feb. 22, 2012>
+ 
+Article 67 (Related Specialized Engineers)
+(1) Every architect or project supervisor shall, when he/she carries out planning and design works for the
+safety of a building site, safety of the structure of a building, or installation of facilities of a building, or
+supervises over construction works, under Articles 40, 41, 48 through 52, 62, 64, and 66, consult with the
+related specialized engineers, as prescribed by Presidential Decree.
+
+--------------------------------------------------------------------------------
+(2) Every related specialized engineer shall, whenever he/she provides his/her services, ensure that the
+relevant building complies with the provisions of this Act, orders and dispositions under this Act, and
+other relevant Acts and subordinate statutes and that it will not cause any trouble to safety, functions, and
+view.
+ 
+Article 68 (Technical Standards)
+(1) Except as otherwise provided for in this Act, the technical standards for the safety of building sites, the
+safety of the structure of buildings, and facilities of a building under Articles 40, 41, 48 through 52, 62,
+64, and 66 shall be prescribed by Ministerial Decree of Land, Infrastructure and Transport, but the
+Minister of Land, Infrastructure and Transport may, if further detailed standards are required, prescribe
+such detailed standards or may allow a research institute (including any testing laboratory or inspection
+institution), an academic organization, or any other related institution or organization designated by the
+Minister of Land, Infrastructure and Transport to formulate such standards, subject to the approval of the
+Minister of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23, 2013>
+(2) The Minister of Land, Infrastructure and Transport shall, when he/she intends to prescribe the detailed
+standards or grant approval pursuant to paragraph (1), refer the proposed standards to the building
+committee in advance for deliberation. <Amended by Act No. 11690, Mar. 23, 2013>
+(3) The Minister of Land, Infrastructure and Transport shall issue public notice of the detailed standards
+prescribed or approved by him/her pursuant to paragraph (1). <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+CHAPTER VIII SPECIAL BUILDING ZONES
+ 
+Article 69 (Designation of Special Building Zones)
+(1) The Minister of Land, Infrastructure and Transport may, whenever it is deemed necessary to make a
+special exception for part of any of the following cities or areas, designate such part as a special building
+zone: <Amended by Act No. 11690, Mar. 23, 2013>
+1. A project zone prescribed by Presidential Decree for a national policy project under any relevant Act
+and subordinate statute for harmonized and creative building works;
+2. Any other project zones in cities or areas prescribed by Presidential Decree.
+(2) None of the following areas and zones may be designated as a special building zone, notwithstanding
+paragraph (1):
+1. A development restriction zone under the Act on Special Measures for Designation and Management
+of Areas of Restricted Development;
+2. A natural park under the Natural Parks Act;
+3. A road zone under the Road Act;
+4. A conserved mountainous district under the Management of Mountainous Districts Act;
+
+--------------------------------------------------------------------------------
+5. A zone for protection of military bases and installations under the Protection of Military Bases and
+Installations Act.
+ 
+Article 70 (Buildings in Special Building Zones)
+In order for a building to be eligible for the exception under Article 73 to the building standards to be built
+in a special building zone, the building shall fall under any of the following subparagraphs:
+1. A building constructed by the State or a local government;
+2. A building constructed by a public agency prescribed by Presidential Decree among the public
+agencies under Article 4 of the Act on the Management of Public Institutions;
+3. Any other building for a use and of a size prescribed by Presidential Decree, to which the competent
+permitting authority deems necessary to make a special exception for the creation of the aesthetics of
+urban views, the improvement of construction technology, or the improvement of systems relating to
+building works.
+ 
+Article 71 (Procedure for Designation of Special Building Zones)
+(1) The head of a central administrative agency, a Mayor/Do Governor, or the head of a Si/Gun/Gu having
+jurisdiction over a project zone under any subparagraph of Article 69 (1) (hereafter referred to as
+"designation applicant" in this Chapter) may file an application for designation of a special building zone
+with the Minister of Land, Infrastructure and Transport along with the following information, if it is
+necessary to designate such special building zone: <Amended by Act No. 10599, Apr. 14, 2011; Act No. 11690,
+Mar. 23, 2013>
+1. Matters concerning the location, boundaries, area, etc. of the special building zone;
+2. Purposes of, and needs for the designation of the special building zone;
+3. Matters concerning the size, and purpose of use of buildings within the special building zone;
+4. Matters concerning the urban/Gun management plan for the special building zone. In such cases,
+further details of the urban/Gun management plan shall be prescribed by Presidential Decree;
+5. Matters concerning the method of placing orders for planning and design of buildings, and
+supervision over and execution of construction works;
+6. A plan for operation and management of facilities, such as art ornaments, ancillary parking area, and
+park, which shall be uniformly applicable to the whole or part of the special building zone pursuant to
+Article 74 . In such cases, matters concerning the method of preparation, form, and contents of plans for
+operation and management shall be prescribed by Ministerial Decree of Land, Infrastructure and
+Transport;
+7. Other matters prescribed by Presidential Decree which are necessary for designation of special
+building zones.
+(2) The Minister of Land, Infrastructure and Transport shall, upon receiving an application for designation
+under paragraph (1), examine the contents thereof, such as needs for, feasibility of, and public interest in
+
+--------------------------------------------------------------------------------
+the designation of the special building zone and the matters concerning the measures for emergency
+escape and fire prevention, and shall refer the application to a building committee established by the
+Minister of Land, Infrastructure and Transport (hereinafter referred to as the "Central Building
+Committee") for deliberation to make a decision on whether to approve the designation within 30 days
+from the date on which the application for designation is received. <Amended by Act No. 9594, Apr. 1, 2009;
+Act No. 11690, Mar. 23, 2013>
+(3) The Minister of Land, Infrastructure and Transport may make adjustments of the boundaries of the
+special building zone, the urban/Gun management plan, and other matters, if he/she deems necessary,
+considering the results of the deliberation by the Central Building Committee under paragraph (2).
+<Amended by Act No. 10599, Apr. 14, 2011; Act No. 11690, Mar. 23, 2013>
+(4) The Minister of Land, Infrastructure and Transport may, at his/her discretion, designate a special
+building zone, if necessary, without receiving any application for designation under paragraph (1). In such
+cases, paragraphs (1) and (2) shall apply mutatis mutandis to the procedures for such designation, but the
+Minister of Land, Infrastructure and Transport shall be regarded as the designation applicant. <Amended by
+Act No. 11690, Mar. 23, 2013>
+(5) The Minister of Land, Infrastructure and Transport shall, whenever he/she designates a special
+building zone, revises or cancels such designation, issue public notice of essential information thereon
+through the Official Gazette, as prescribed by Presidential Decree, and shall forward each copy of relevant
+documents to the designation applicant. <Amended by Act No. 11690, Mar. 23, 2013>
+(6) The designation applicant who has received copies of relevant documents under paragraph (5) shall
+take measures as may be necessary, such as application for approval on the topographical drawings
+pursuant to Article 32 of the National Land Planning and Utilization Act, if the relevant documents
+include any matter subject to the decision on the urban/Gun management plan. <Amended by Act No. 10599,
+Apr. 14, 2011>
+(7) The relevant designation applicant shall, if there is any change after the special building zone is
+designated, obtain a revised designation. In such cases, necessary matters concerning the scope of changes
+subject to the revised designation and the procedure for the revised designation shall be prescribed by
+Presidential Decree.
+(8) The Minister of Land, Infrastructure and Transport may cancel the designation of a special building
+zone entirely or partially, if any of the following causes and events occurs. In such cases, the Minister of
+Land, Infrastructure and Transport shall hear the opinion of the designation applicant: <Amended by Act No.
+11690, Mar. 23, 2013>
+1. If there is a request from the designation applicant;
+2. If the designation was obtained by false or other fraudulent means;
+3. If construction works for the buildings appropriate for the purpose of the designation of the special
+building zone have not commenced within five years from the date of designation of the special
+building zone;
+
+--------------------------------------------------------------------------------
+4. If any violation of any requirement for the designation of the special building zone has occurred, but
+it is impossible to rectify such violation.
+(9) The designation of a special building zone or a revision thereto shall be deemed to be a decision on the
+urban/Gun management plan under Article 30 of the National Land Planning and Utilization Act
+(excluding the designation of an area, a district, or a zone for a specific purpose of use or revision thereto).
+<Amended by Act No. 10599, Apr. 14, 2011>
+ 
+Article 72 (Deliberation on Buildings within Special Building Zones)
+(1) Any person who intends to file an application for building permit with the exception to the building
+standards in accordance with Article 73 (hereafter referred to as "building permit applicant" in this Article)
+shall file the application for building permit with the competent permitting authority in accordance with
+Article 11, along with a special exception plan that shall include the following matters. In such cases, the
+method of preparation of such special exception plan and the documents required shall be prescribed by
+Ministerial Decree of Land, Infrastructure and Transport: <Amended by Act No. 11690, Mar. 23, 2013>
+1. Matters for which the applicable standards are requested to be relaxed pursuant to Article 5;
+2. Matters concerning the requirements for the designation of the special building zone under Article
+71;
+3. Grounds on which the special exception for exclusion from the application of Article 73 (1) is
+applicable and expected effects therefrom;
+4. Documentary evidence of the equal or higher performance for justifying the special exception for
+applying relaxed standards under Article 73 (2);
+5. A plan for construction, maintenance, and management of the buildings.
+(2) Every building permit under paragraph (1) shall be subject to deliberation by the building committee
+established by the competent Mayor/Do Governor or the head of Si/Gun/Gu pursuant to Article 4 (1)
+(hereinafter referred to as "local building committee") on whether the relevant building is appropriate for
+the purposes of designation of the special building zone, the special exception plan, and other relevant
+matters.
+(3) An applicant for building permit who desires to examine the traffic impact assessment and
+improvement measures noted in Article 16 of the Urban Traffic Improvement Promotion Act carried out
+simultaneously with the process for the building permit under paragraph (1) may file an application for
+examination with the competent permitting authority, along with the documents related to the traffic
+impact assessment and improvement measures under Article 16 of the said Act. <Amended by Act No. 9071,
+Mar. 28, 2008>
+(4) In cases where the competent local building committee completes the combined deliberation on the
+traffic impact assessment and improvement measures under paragraph (3), it shall be deemed that the
+review on the traffic impact assessment and improvement measures under Article 17 of the Urban Traffic
+Improvement Promotion Act has been completed. <Amended by Act No. 9071, Mar. 28, 2008>
+
+--------------------------------------------------------------------------------
+(5) Whenever there occurs any of the changes prescribed by Presidential Decree in the matters deliberated
+pursuant to paragraphs (1) and (2), such change shall be referred to the local building committee for
+deliberation on revision. In such cases, paragraphs (1) through (3) shall apply mutatis mutandis to the
+deliberation on revision.
+(6) The Minister of Land, Infrastructure and Transport may designate buildings subject to monitoring
+(referring to reviewing the progress of construction of a building, supervision over construction works,
+maintenance and management of the building to which the special exception has applied and analyzing
+and assessing the functions, aesthetics of the view, and environment of the building that have been
+actually realized; hereafter the same shall apply in this Chapter) among the buildings, for which a building
+permit has been granted pursuant to paragraphs (1) and (2), hearing the opinion of the competent
+permitting authority, in order to improve systems relating to building works and construction technology.
+<Amended by Act No. 11690, Mar. 23, 2013>
+(7) Each permitting authority shall submit to the Minister of Land, Infrastructure and Transport the special
+exception plan for the buildings for which a building permit has been granted pursuant to paragraphs (1)
+and (2) and other materials specified by Ministerial Decree of Land, Infrastructure and Transport as may
+be necessary for designating buildings subject to monitoring under paragraph (6). <Amended by Act No.
+11690, Mar. 23, 2013>
+(8) The administrative agency concerned as a project owner under subparagraph 5 of Article 2 of the
+Construction Technology Management Act, to whom a building permit was granted pursuant to
+paragraphs (1) and (2) may, if necessary for realizing the intended design, monitoring construction works
+and supervision, and carrying out other works commissioned by the project owner, retain the architect to
+participate in the construction works of the building continuously, even after the building permit was
+granted. In such cases, the scope of the works of such architect and the remuneration therefor shall be
+prescribed by Presidential Decree.
+ 
+Article 73 (Special Exception to Application of Related Acts and Subordinate Statutes)
+(1) Buildings erected in a special building zone may be exempted from application of the following
+provisions:
+1. Articles 42, 55, 58, 60, and 61 hereof;
+2. Provisions prescribed by Presidential Decree among the provisions of Article 21 of the Housing Act.
+(2) In cases where a building that is planned to be erected in a special building zone falls under any
+provision of Articles 49 through 53, 62, 64, and 66, the standards of the relevant provision may be,
+entirely or partially, relaxed in being applied to such building, only if the competent local building
+committee approves that it is possible to satisfy the standards or functions required by the relevant
+provision with any other means.
+(3) In cases where it is possible to satisfy the standards or functions required by Articles 9 and 11 of the
+Installation, Maintenance, and Safety Control of Fire-Fighting Systems Act with any other means in
+
+--------------------------------------------------------------------------------
+compliance with the procedure and method of examination prescribed by Presidential Decree, such
+standards may be relaxed in being applied to such cases, entirely or partially. <Amended by Act No. 11037,
+Aug. 4, 2011>
+ 
+Article 74 (Preparation and Implementation of Integrated Application Plan)
+(1) The provisions of related Acts and subordinate statutes governing the following matters may be
+integrated to apply to the whole or a part of a special building zone, instead of applying them individually
+to each of the buildings therein:
+1. Art ornaments of a building under Article 9 of the Culture and Arts Promotion Act;
+2. Installation of an ancillary parking area under Article 19 of the Parking Lot Act;
+3. Installation of a park under the Act on Urban Parks, Greenbelts, etc.
+(2) A designation applicant who intends to apply the integrated provisions of related Acts and subordinate
+statutes pursuant to paragraph (1) shall estimate the demand for art ornaments, ancillary parking lots, and
+parks for the whole or a part of a special building zone to meet or exceed the standards prescribed by
+individual Acts, and shall establish an integrated application plan, considering the convenience,
+comfortableness, and safety of users.
+(3) Each designation applicant shall, when he/she prepares an integrated application plan pursuant to
+paragraph (2), consult with the competent permitting authority having jurisdiction over the zone
+concerned, and the permitting authority shall, upon receiving a request for such consultation, present
+his/her opinion to the designation applicant within 20 days from the date on which such request is
+received.
+(4) Each designation applicant shall, when he/she prepares an integrated application plan that requires a
+consequential revision to the urban/Gun management plan concerned, forward the plan to the person
+having the authority to make decisions on the urban/Gun management plan under Article 30 of the
+National Land Planning and Utilization Act, and the person having the authority to make decisions on the
+urban/Gun management plan shall take measures as may be necessary for revision of the urban/Gun
+management plan, unless any extraordinary situation exists otherwise. <Amended by Act No. 10599, Apr. 14,
+2011>
+ 
+Article 75 (Obligations of Project Owners or Similar)
+(1) Every project supervisor, contractor, project owner, owner, or manager of a building project under
+construction in a special building zone with a building permit granted by applying the special exception
+for the building standards pursuant to Article 73 shall take measures necessary for maintaining the original
+shape, materials, and colors of the building as described in the building permit during the construction
+period and after an approval for the use of the building is granted. <Amended by Act No. 11182, Jan. 17,
+2012>
+
+--------------------------------------------------------------------------------
+(2) Every project owner or owner of a building designated as subject to monitoring under Article 72 (6)
+shall submit to the competent permitting authority a report on monitoring the progress and evaluation of
+planning and design works, construction works, and supervision over the works at the time when approval
+for the use of the building is granted, and he/she shall submit to the permitting authority a report on the
+results of monitoring the maintenance and management of the building at an interval prescribed by
+Presidential Decree on a regular basis after approval of the use of the building is granted. In such cases,
+the contents and form of the monitoring report and the method of preparation of the report shall be
+prescribed by Ministerial Decree of Land, Infrastructure and Transport. <Amended by Act No. 11690, Mar. 23,
+2013>
+ 
+Article 76 (Obligations of Permitting Authorities, etc.)
+(1) Each permitting authority shall make efforts to encourage architects to manifest their creativeness and
+aesthetic value through their architectural works in each special building zone and initiate the
+improvement of related systems and technology.
+(2) Each permitting authority shall submit a report on monitoring of buildings in a special building zone
+under Article 75 (2) to the Minister of Land, Infrastructure and Transport, and the Minister of Land,
+Infrastructure and Transport shall analyze the monitoring report, along with the results from the inspection
+under Article 77 and the monitoring results, and make efforts to improve the systems under this Act or any
+relevant Acts and subordinate statute. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 77 (Inspection of Buildings within Special Building Zones)
+(1) The Minister of Land, Infrastructure and Transport and the competent permitting authority may
+conduct an inspection of buildings within a special building zone pursuant to Article 87, and take
+necessary measures, such as a corrective order, pursuant to Article 79. <Amended by Act No. 11690, Mar. 23,
+2013>
+(2) The Minister of Land, Infrastructure and Transport and the competent permitting authority may carry
+out monitoring works for the buildings designated as subject to monitoring pursuant to Article 72 (6) on
+his/her own or request an expert or an institution specializing in a specific field to provide such service. In
+such cases, the project owner, owner, or manager of the building concerned shall cooperate in the matters
+necessary for such monitoring, unless any extraordinary situation exists otherwise. <Amended by Act No.
+11690, Mar. 23, 2013>
+ 
+CHAPTER IX SUPPLEMENTARY PROVISIONS
+ 
+Article 78 (Supervision)
+(1) If the Minister of Land, Infrastructure and Transport finds that any order issued or disposition made by
+a certain Mayor/Do Governor or the head of a certain Si/Gun/Gu violates this Act, an order issued or a
+
+--------------------------------------------------------------------------------
+disposition made pursuant to this Act, or any municipal ordinance of the competent local government or is
+unreasonable, he/she may order the Mayor/Do Governor or the head of Si/Gun/Gu to revoke or amend
+such order or disposition or to take other necessary measures. <Amended by Act No. 11690, Mar. 23, 2013>
+(2) If the Mayor/Do Governor finds that any order issued or a disposition made by the head of a certain
+Si/Gun/Gu violates this Act, an order issued or a disposition made pursuant to this Act, or any municipal
+ordinance of the competent local government, the Mayor/Do Governor may order the head of Si/Gun/Gu
+to revoke or amend such order or disposition or to take other necessary measures.
+(3) The Mayor/Do Governor or the head of a Si/Gun/Gu who receives an order to take necessary measures
+under paragraph (1) shall promptly report the results of measures taken for correction to the Minister of
+Land, Infrastructure and Transport, while the head of a Si/Gun/Gu who receives such order under
+paragraph (2) shall promptly report the results of measures taken for correction to the competent
+Mayor/Do Governor. <Amended by Act No. 11690, Mar. 23, 2013>
+(4) The Minister of Land, Infrastructure and Transport and each Mayor/Do Governor shall establish and
+implement a plan for guidance and inspection for each year, as prescribed by Ministerial Decree of Land,
+Infrastructure and Transport, in order to provide guidance and conduct an inspection for proper operation
+of the building permit system, the actual state of management of illegal buildings, and the better operation
+of building administration. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 79 (Measures against Non-compliant Buildings, etc.)
+(1) A permitting authority may, if a building site or a building violates this Act, an order issued or a
+disposition made pursuant to this Act, revoke the permit or approval granted to it pursuant to this Act,
+issue an order to the project owner, contractor, site manager, building owner, manager, or occupant
+(hereinafter referred to as "project owner or similar") of the building concerned to suspend construction
+works or remove, alter, extend, repair, change of purpose of use of, prohibit or restrict use of the building,
+or take other necessary measures within a reasonable period of time given by the permitting authority.
+(2) As regards a building for which a permit or approval is revoked pursuant to paragraph (1) or a building
+for which an order issued for corrective measures pursuant to paragraph (1) has not been complied with,
+the competent permitting authority may request the relevant person to refrain from granting such building
+permit or license for a business or any other activities under any other Act and subordinate statute:
+Provided, That the same shall not apply to the residential houses which the competent permitting authority
+has allowed to use or carry on a business, or conduct any other activity for a fixed period of time and the
+cases prescribed by Presidential Decree.
+(3) The person who has received the request under paragraph (2) shall comply with it, unless extraordinary
+circumstances exist otherwise.
+(4) A permitting authority shall, when he/she issues an order for corrective measures pursuant to
+paragraph (1), install a sign as prescribed by Ministerial Decree of Land, Infrastructure and Transport in
+the non-compliant building or its site, and record the details of the violation in the building register.
+
+--------------------------------------------------------------------------------
+<Amended by Act No. 11690, Mar. 23, 2013>
+(5) No one may disallow or interfere with installation of any sign pursuant to paragraph (4), or destroy it.
+ 
+Article 80 (Charges for Compelling Performance)
+(1) As regards a project owner or similar who has not performed his/her obligation to comply with an
+order for corrective measures within a given period of time after the order had been served pursuant to
+Article 79 (1), the competent permitting authority shall impose the following charges for compelling the
+performance upon the project owner or similar, if the project owner or similar fails to perform his/her
+obligation within a reasonable period of time re-issued for his/her performance: Provided, That if the
+building involved is a residential building with a total floor area (basing on the area of a unit, in the case of
+a multi-unit house) of 85 square meters or less or a residential building prescribed by Presidential Decree
+among those under subparagraph 2, an amount fixed by municipal ordinance of the competent local
+government within the limit of one-half of any of the following amounts shall be imposed upon the project
+owner or similar of such building: <Amended by Act No. 10755, May 30, 2011>
+1. If the building erected exceeds the building-to-land ratio or the floor area ratio under Article 55 or 56,
+or is erected without obtaining a permit or filing a report, the charge for compelling the performance
+shall not exceed the amount calculated by multiplying the amount equivalent to 50/100 of the standard
+market value per square meter applicable to the building pursuant to the Local Tax Act by the area of
+the non-compliant part;
+2. If the building is any non-compliant one other than those under subparagraph 1, the charge for
+compelling the performance shall be the amount prescribed by Presidential Decree according to the
+nature of the violation within the limit of 10/100 of the amount equivalent to the standard market value
+applicable to the building pursuant to the Local Tax Act.
+(2) The competent permitting authority shall issue a warning in writing to the effect that the charge for
+compelling the performance under paragraph (1) shell be imposed and collected, prior to imposing it
+pursuant to paragraph (1).
+(3) Every permitting authority shall, whenever he/she imposes a charge for compelling the performance
+pursuant to paragraph (1), clearly notify the amount, the grounds for imposition, the time limit for
+payment, the receiving institution, the method and institution for filing an objection in writing.
+(4) A permitting authority may impose and collect charges for compelling the performance under
+paragraph (1) no more than twice annually repeatedly beginning on the date on which the initial order for
+corrective measures is issued until the order for corrective measures is complied with: Provided, That for
+the cases that fall under the proviso above subparagraphs of paragraph (1), the frequency for imposing
+charges for compelling the performance may be prescribed separately by municipal ordinance of the
+competent local government within the limit of five times in total.
+(5) Once the person to whom an order for corrective measures has been served pursuant to Article 79 (1)
+performs his/her obligation, the competent permitting authority shall immediately cease to impose any
+
+--------------------------------------------------------------------------------
+further charge, but shall collect the charge for compelling the performance already imposed.
+(6) If the person against whom a disposition of imposing a charge for compelling the performance was
+made pursuant to paragraph (3) fails to pay it within the time limit for payment, the competent permitting
+authority shall collect it in accordance with the practices for disposition of default on local taxes.
+ 
+Article 81 (Safety Inspections of Existing Buildings and Orders for Corrective Measures)
+(1) If an existing building falls within the criteria prescribed by Presidential Decree because there is any
+cause that is likely to undermine the national security or it violates any provision of Chapter IV (Articles
+40 through 47), the Special Self-governing Province Governor or the head of Si/Gun/Gu may issue an
+order to remove, alter, extend, repair, change the purpose of use of, prohibit or restrict the use of the
+building, or take other necessary measures.
+(2) The Special Self-governing Province Governor or the head of Si/Gun/Gu may, if he/she finds that a
+building in a zone for conservation of views or scenery significantly deteriorates the urban view or
+residential environment, issue an order to alter or repair it, after hearing the opinion of the building
+committee.
+(3) The Special Self-governing Province Governor or the head of Si/Gun/Gu shall, when he/she issues an
+order to take necessary measures pursuant to paragraph (1), pay reasonable compensation as prescribed by
+Presidential Decree.
+(4) The project owner of a building identified by the Special Self-governing Province Governor or the
+head of Si/Gun/Gu as the one that is likely to cause a hazard shall retain the Registered Architects
+Association or any other legal entity or organization that has experts recognized by the Minister of Land,
+Infrastructure and Transport, as prescribed by Presidential Decree, to inspect the building to ascertain
+whether it is structurally safe, and shall report the results of the inspection to the Special Self-governing
+Province Governor or the head of Si/Gun/Gu. <Amended by Act No. 11690, Mar. 23, 2013>
+(5) The Special Self-governing Province Governor or the head of Si/Gun/Gu may, if deemed necessary as
+a result of the inspection under paragraph (4), issue an order to remove, alter, repair, change the use of, or
+prohibit or restrict the use of the building, or to take other necessary measures.
+ 
+Article 82 (Delegation and Entrustment of Authority)
+(1) The Minister of Land, Infrastructure and Transport may delegate part of his/her authority under this
+Act to the Mayors/Do Governors, as prescribed by Presidential Decree. <Amended by Act No. 11690, Mar. 23,
+2013>
+(2) Each Mayor/Do Governor may delegate part of his/her authority under this Act to the head of each Si
+(including the head of each administrative Si; hereafter the same shall apply in this Article)/Gun/Gu, as
+prescribed by Presidential Decree.
+(3) The head of each Si/Gun/Gu may delegate part of his/her authority under this Act to the head of each
+Gu (referring to the head of Gu that is not an autonomous Gu) and the head of each Dong/Eup/Myeon, as
+
+--------------------------------------------------------------------------------
+prescribed by Presidential Decree.
+(4) The Minister of Land, Infrastructure and Transport may entrust the operation of the electronic
+information processing system established for efficiently processing affairs relating to building permits,
+etc. pursuant to Articles 31 (1) and 32 (1) to an institution or organization prescribed by Presidential
+Decree. <Amended by Act No. 11690, Mar. 23, 2013>
+ 
+Article 83 (Mutatis Mutandis Application to Retaining Walls and other Structures)
+(1) Any person who intends to erect a retaining wall, a chimney, an advertising tower, a high-rise water
+tank, an underground shelter, or any other similar structure prescribed by Presidential Decree shall file a
+report thereon with the Special Self-Governing Province Governor or the head of the competent
+Si/Gun/Gu, as prescribed by Presidential Decree.
+(2) Articles 14, 21 (3), 29, 35 (1), 40 (4), 41, 47, 48, 55, 58, 60, 61, 79, 81, 84, 85, and 87 hereof and
+Article 76 of the National Land Planning and Utilization Act shall apply mutatis mutandis to cases under
+paragraph (1), as prescribed by Presidential Decree.
+ 
+Article 84 (Calculation of Area, Height and Number of Floors)
+The method for calculating the area of a building site, the total floor area, floor area, height, eaves, ceiling,
+floor of a building, and the number of floors of a building shall be prescribed by Presidential Decree.
+ 
+Article 85 (Special Exception to Application of the Administrative Vicarious Execution Act)
+(1) If a permitting authority takes necessary measures pursuant to Article 11, 14, 41, or 79 (1), and if
+he/she finds it difficult to achieve the purpose by following the procedure described in Article 3 (1) and
+(2) of the Administrative Vicarious Execution Act in any of the following cases, he/she may carry out
+vicarious execution without necessarily following such procedure:
+1. Where there is an urgent need to mitigate any potential risks associated with the occurrence of natural
+disasters;
+2. Where there are any potential risks associated with property damage, such as collapse, due to the
+existence of any substantial defect in the structural safety of a building;
+3. Where, despite the receipt of an order to suspend construction works issued by the permitting
+authority, a person refuses to comply with such order and continues to carry out such construction
+works;
+4. Where an illegally constructed building poses a substantial impediment to road traffic;
+5. The cases prescribed by Presidential Decree as deemed necessary to swiftly implement such
+measures because of substantial endangering of public safety or undermining of the public interest.
+(2) Vicarious execution under paragraph (1) shall be performed to the minimum extent necessary to
+manage a building.
+
+--------------------------------------------------------------------------------
+ 
+Article 86 (Hearings)
+Any permitting authority shall, whenever he/she intends to revoke a permit or approval pursuant to Article
+79, hold a hearing.
+ 
+Article 87 (Reporting and Inspections)
+(1) The Minister of Land, Infrastructure and Transport, each Mayor/Do Governor, the head of each
+Si/Gun/Gu, a public official under the control of any of them, an agent under Article 27, or a building
+instructor under Article 37 may demand the project owner or similar, project supervisor, or contractor of
+the building to furnish him/her with necessary informative materials or reports, and may enter a building,
+building site, or project site to conduct inspections or necessary tests of the building, facilities therein, and
+other materials relating to the building project. <Amended by Act No. 11690, Mar. 23, 2013>
+(2) Any person who conducts an inspection or a test pursuant to paragraph (1) shall carry with him/her
+identification indicating his/her authority to produce it to persons concerned.
+ 
+Article 88 (Specialized Committees for Conciliation of Building Disputes)
+(1) Specialized committees for conciliation of building disputes under Article 4 (2) shall be responsible for
+conciliation and arbitration of the following disputes arising in connection with building projects
+(excluding disputes subject to conciliation under Article 69 of the Framework Act on the Construction
+Industry; hereinafter the same shall apply), and they shall be divided into the central specialized
+committee for conciliation of building disputes which comes under the jurisdiction of the Central Building
+Committee and local specialized committees for conciliation of building disputes which come under the
+jurisdiction of local building committees established by Mayors/Do Governors: <Amended by Act No. 9594,
+Apr. 1, 2009>
+1. Disputes between parties to a building project and neighboring residents who suffer any damage
+caused by construction works of the building (hereinafter referred to as "neighboring residents");
+2. Disputes between related specialized engineers and neighboring residents;
+3. Disputes between parties to a building project and related specialized engineers;
+4. Disputes between parties to a building project;
+5. Disputes between neighboring residents;
+6. Dispute between related specialized engineers;
+7. Other matters prescribed by Presidential Decree.
+(2) The central specialized committee for conciliation of building disputes shall have jurisdiction over the
+matters for which the Special Metropolitan City Mayor, Metropolitan City Mayor, or Special Self-
+Governing Province Governor has the authority to grant permission, while each local specialized
+committee for conciliation of building disputes shall have jurisdiction over the matters for which the head
+of a Si (including the head of an administrative Si)/Gun/Gu has the authority to grant permission.
+
+--------------------------------------------------------------------------------
+<Amended by Act No. 9594, Apr. 1, 2009>
+(3) The matters concerning the meetings and operation of the central specialized committee for
+conciliation of building disputes and other necessary matters shall be prescribed by Ministerial Decree of
+Land, Infrastructure and Transport, while the matters concerning the meetings and operation of each local
+specialized committee for conciliation of building disputes and other necessary matters shall be prescribed
+by municipal ordinance of each Special Metropolitan City, Metropolitan City, Do, and Special Self-
+Governing Province (hereinafter referred to as "City/Do"). <Amended by Act No. 9594, Apr. 1, 2009; Act No.
+11690, Mar. 23, 2013>
+ 
+Article 89 (Composition of Specialized Committee for Conciliation of Building Disputes)
+(1) The central specialized committee for conciliation of building disputes and each local specialized
+committee for conciliation of building disputes (hereinafter referred to as "specialized committee for
+conciliation of building disputes") shall be comprised of fifteen or fewer members, including one
+chairperson and one vice chairperson. <Amended by Act No. 9594, Apr. 1, 2009>
+(2) Members of the central specialized committee for conciliation of building disputes shall be appointed
+or commissioned by the Minister of Land, Infrastructure and Transport from among the persons who have
+considerable knowledge and experience in construction or law and who fall under any of the following
+subparagraphs. In such cases, the committee shall have at least two members who fall under subparagraph
+4: <Amended by Act No. 9594, Apr. 1, 2009; Act No. 11690, Mar. 23, 2013>
+1. Any person who has served as a Grade I public official or a public official equivalent to or higher in
+rank than Grade I for at least one year;
+2. Any person who has served as Grade II or III public official or a public official equivalent to or
+higher in rank than Grade II or III for at least three years;
+3. Any person who has served as an assistant or higher professor teaching architectural engineering or
+law in a college or university under the Higher Education Act for at least three years;
+4. Any person who has served as a judge or a public prosecutor, or practiced as an attorney-at-law for at
+least six years;
+5. Any architect who has filed a report on his/her practice as an architect under the Architects Act
+(hereinafter referred to as "architect") and who has engaged in the business for at least six years;
+6. Any person who has considerable knowledge and experience in construction works or the
+construction industry and who have engaged in the industry for at least 15 years.
+(3) Members of each local specialized committee for conciliation of building disputes shall be appointed
+or commissioned by the competent Mayor/Do Governor from among the persons who fall under any
+subparagraph of paragraph (2). In such cases, each committee shall have at least two persons who fall
+under paragraph (2) 4. <Amended by Act No. 9594, Apr. 1, 2009>
+(4) The chairperson and vice chairperson of each specialized committee for conciliation of building
+disputes shall be elected from among and by its members. <Amended by Act No. 9594, Apr. 1, 2009>
+
+--------------------------------------------------------------------------------
+(5) The term of office of members who are not public officials shall be three years, but may be renewed
+consecutively, while the term of office of a member elected to fill a vacancy shall be the remaining term of
+his/her predecessor.
+(6) Meetings of each specialized committee for conciliation of building disputes shall be duly formed with
+the attendance of a majority of incumbent members and shall adopt a resolution by an affirmative vote of a
+majority of the members present at the meeting. <Amended by Act No. 9594, Apr. 1, 2009>
+(7) No person who falls under any of the following subparagraphs may become a member of any
+specialized committee for conciliation of building disputes: <Amended by Act No. 9594, Apr. 1, 2009>
+1. Any person declared incompetent, quasi-competent or bankrupt, but not yet reinstated;
+2. Any person in whose case two years have not passed since a sentence of imprisonment without prison
+labor or any heavier punishment upon him/her was completely carried out (or was held as completely
+carried out) or discharged;
+3. Any person whose qualifications are suspended by a court judgment or operation of law.
+ 
+Article 90 (Exclusion of Members from Office)
+(1) A member of any specialized committee for conciliation of building disputes shall, if he/she falls under
+any of the following subparagraphs, be excluded from office: <Amended by Act No. 9594, Apr. 1, 2009>
+1. If the member, or his/her spouse or ex-spouse is a party to a dispute case at issue (hereinafter referred
+to as "case") or has an interest in the case as a joint right-holder of a party or an obligor to a party;
+2. If the member was or is a relative of a party to the case;
+3. If the member has testified or given an expert opinion on the case;
+4. If the member has ever been involved or is involved in the case as the agent of a party to the case;
+5. If the member has been involved in a disposition or omission that has given rise to the case.
+(2) A specialized committee for conciliation of building disputes shall, if there is a ground for excluding a
+member from office, make a decision on such exclusion at its discretion or at the request of a party.
+<Amended by Act No. 9594, Apr. 1, 2009>
+(3) A party who has any grounds to believe that it is difficult to expect that a member will perform his/her
+duties fairly may file a challenge against such member with the specialized committee for conciliation of
+building disputes, and the committee shall, if it finds that the challenge is reasonable, make a decision to
+exclude the member from office. <Amended by Act No. 9594, Apr. 1, 2009>
+(4) A member who believes that any ground under paragraph (1) or (3) is applicable to him/her may
+refrain from performing his/her duties in the case at issue.
+ 
+Article 91 (Agents)
+(1) A party to a case may appoint any of the following persons as his/her agent:
+1. The party's spouse, lineal ascendant or descendant, or sibling;
+
+--------------------------------------------------------------------------------
+2. An executive or employee of the legal entity involved in the case as a party;
+3. An attorney-at-law.
+(2) A party who intends to appoint any person falling under paragraph (1) 1 or 2 as his/her agent shall
+obtain permission therefor from the chairperson of the specialized committee for conciliation of building
+disputes. <Amended by Act No. 9594, Apr. 1, 2009>
+(3) The power delegated to an agent shall be supported by written statement.
+(4) Each agent shall have the power delegated by the principal to perform the following activities:
+1. To withdraw applications;
+2. To accept proposals for conciliation;
+3. To appoint subagents.
+ 
+Article 92 (Applications for Conciliation, etc.)
+(1) A person who intends to file an application for conciliation or arbitration (hereinafter referred to as
+"conciliation, etc.") on a dispute arising in connection with construction works, etc. of a building shall file
+such application with the competent specialized committee for conciliation of building disputes under
+Article 88 (2). <Amended by Act No. 9594, Apr. 1, 2009>
+(2) An application for conciliation under paragraph (1) shall be filed by one or more parties to the case,
+while an application for arbitration shall be filed under agreement between parties to the case: Provided,
+That the specialized committee for conciliation of building disputes shall, upon receiving an application
+for conciliation, notify all parties to the case of the fact that the application has been filed. <Amended by Act
+No. 9594, Apr. 1, 2009>
+(3) The specialized committee for conciliation of building disputes that has received an application for
+conciliation from a party shall complete all the proceedings within 90 days, while it shall, upon receiving
+an application for arbitration, complete all the proceedings within 180 days: Provided, That the period may
+be extended by a resolution by the specialized committee for conciliation of building disputes, if any
+extenuating circumstance exists. <Amended by Act No. 9594, Apr. 1, 2009>
+ 
+Article 93 (Denial and Suspension of Conciliations, etc.)
+(1) Any specialized committee for conciliation of building disputes may, if it finds that it is not proper to
+resolve a dispute by its conciliation, etc. in light of the nature of the dispute or that the application for
+conciliation, etc. has been filed for an unjust purpose, deny its conciliation, etc. In such cases, the
+committee shall notify the applicant of the grounds for its denial of conciliation, etc. <Amended by Act No.
+9594, Apr. 1, 2009>
+(2) Any specialized committee for conciliation of building disputes shall, when a party files a lawsuit
+while the proceedings for an application filed for the case are pending, discontinue the proceedings for
+conciliation, etc., and shall notify the other party thereof. <Amended by Act No. 9594, Apr. 1, 2009>
+
+--------------------------------------------------------------------------------
+(3) The Mayor/Do Governor or the head of a Si/Gun/Gu shall not suspend a project only on the ground
+that an application for conciliation, etc. has been filed in connection with the project, unless it is urgently
+required to prevent any hazard or any other extenuating circumstance exists.
+ 
+Article 94 (Conciliation Panel and Arbitration Panel)
+(1) Conciliation shall be carried out by a conciliation panel consisting of three members, while arbitration
+shall be carried out by an arbitration panel consisting of five members.
+(2) Members of a conciliation panel (hereinafter referred to as "conciliators") and members of an
+arbitration panel (hereinafter referred to as "arbitrators") shall be appointed on a case-by-case basis by the
+committee chairperson from among members of the specialized committee for conciliation of building
+disputes. In such cases, the arbitration panel shall have at least one member who falls under Article 89 (2)
+4. <Amended by Act No. 9594, Apr. 1, 2009>
+(3) Meetings of a conciliation panel or an arbitration panel shall be duly formed with the attendance of all
+members and shall adopt a resolution by an affirmative vote of a majority of the members.
+ 
+Article 95 (Investigation for Conciliation and Consideration of Opinions)
+(1) A conciliation panel may, if deemed necessary for conciliation, assign a conciliator or a public official
+of its secretariat to inspect relevant documents or enter the place of business concerned for investigation.
+(2) A conciliation panel may, if deemed necessary, summon a party or a witness to the panel to take into
+consideration his/her opinions.
+(3) A conciliation panel who has received an application for conciliation of a dispute shall examine the
+case and prepare a proposal for conciliation within the period set for conciliation.
+ 
+Article 96 (Effect of Conciliations)
+(1) Once a conciliation panel completes a proposal for conciliation pursuant to Article 95 (3), it shall
+promptly present the proposal to parties.
+(2) Each party shall, upon receiving a proposal for conciliation under paragraph (1), notify the conciliation
+panel of whether to accept the proposal within 15 days from the date on which the proposal was delivered.
+(3) The conciliation panel shall, if all parties accept the proposal for conciliation, prepare a protocol of
+conciliation, and the conciliators and parties shall write their names and affix their seals thereon.
+(4) Once parties accept a proposal for conciliation and write their names and affix their seals on the
+protocol of conciliation in accordance with paragraph (3), it shall be deemed that agreement with the terms
+and conditions identical with those of the protocol of conciliation has been duly made.
+ 
+Article 97 (Arbitration of Disputes)
+(1) Arbitration shall be referred in writing, and the written statement of arbitration shall contain the
+following descriptions, on which arbitrators shall write their names and affix their seals:
+
+--------------------------------------------------------------------------------
+1. Reference number and name of the case;
+2. Addresses and names of parties, appointed representatives, representative of parties, and agents;
+3. Main text;
+4. Claims;
+5. Rationales;
+6. Date of arbitration.
+(2) The rationales under paragraph (1) 5 shall indicate parties'' claims to the extent that it can be agreed
+that the contents of the main text are fair enough.
+(3) The arbitration panel shall, once it makes a decision, deliver the original statement of arbitration to
+parties or their agents forthwith.
+ 
+Article 98 (Authority to Investigate for Arbitration)
+(1) An arbitration panel may, if deemed necessary for arbitration of a dispute, assign an arbitrator or a
+public official under its control, at the request of a party or at its discretion, to perform the following acts:
+1. To demand a party or a witness to make an appearance before the panel, seek advice, or hear
+testimony;
+2. To demand an expert to make an appearance before the panel or provide his/her expert opinion;
+3. To inspect or make copies of a document or an article relevant to the case, demand a person to submit
+such document or article, or keep such document or article in custody;
+4. To enter and investigate a place relevant to the case.
+(2) Parties to a case may participate in investigations, etc. under paragraph (1).
+(3) An arbitration panel shall, when it completes an investigation under paragraph (1) at its discretion, hear
+parties' opinions on the results thereof.
+(4) An arbitration panel shall, when it have a party or a witness give testimony or an expert provide an
+expert opinion under paragraph (1), require the party, witness, or expert to take an oath.
+(5) An arbitrator or a public official of the committee who performs the duty under paragraph (1) 4 shall
+carry with him/her identification indicating his/her authority to produce it to relevant persons.
+ 
+Article 99 (Effect of Arbitration)
+An arbitration award decided by an arbitration panel shall be deemed as an agreement between parties on
+the terms and conditions identical with those of the arbitration award, if both parties or one party fails to
+file a lawsuit for the claims that have given rise to a dispute on the building project brought for the
+arbitration within 60 days from the date the original statement of arbitration was delivered to the parties or
+if such lawsuit is voluntarily dismissed.
+ 
+Article 100 (Interruption of Prescriptions)
+
+--------------------------------------------------------------------------------
+In determining whether a prescriptive period is interrupted and the deadline for filing a lawsuit, an
+application for arbitration shall be deemed a claim filed for a trial with a court at the time when a party
+files a lawsuit in protest against the arbitration award.
+ 
+Article 101 (Transfer for Conciliation)
+Upon receiving an application for arbitration of a case, the competent specialized committee for
+conciliation of building disputes may, at its discretion, initiate the proceedings for conciliation of the case,
+if it is deemed appropriate to settle the case by conciliation. <Amended by Act No. 9594, Apr. 1, 2009>
+ 
+Article 102 (Liability for Expenses)
+(1) Each party to a case shall be liable to pay the expenses incurred in appraisal, examination, testing, and
+similar, in proportion to the rate agreed to by the parties to the case: Provided, That the conciliation panel
+or the arbitration panel may determine the rate for sharing expenses, if the parties fail to reach agreement
+on the rate.
+(2) A conciliation panel or an arbitration panel may, if deemed necessary, require parties to a case to
+deposit a certain amount of money to cover the expenses under paragraph (1), as prescribed by
+Presidential Decree.
+(3) As regards the extent of the expenses under paragraph (1), the matters over which the central
+specialized committee for conciliation of building disputes has jurisdiction shall be prescribed by
+Ministerial Decree of Land, Infrastructure and Transport, while the matters over which a local specialized
+committee for conciliation of building disputes has jurisdiction shall be prescribed by municipal ordinance
+of the competent City/Do. <Amended by Act No. 9594, Apr. 1, 2009; Act No. 11690, Mar. 23, 2013>
+ 
+Article 103 (Secretariat)
+(1) The committee may have a secretariat that shall carry out the administrative affairs for the committee.
+(2) The committee shall have examiners who engage in one of the following administrative affairs:
+1. To investigate facts as may be necessary for conciliation, etc. of a dispute and discover the causal
+relations thereof;
+2. To determine damage and losses and to research and develop the standards for determining damage
+and losses;
+3. Other affairs determined by the committee chairperson.
+(3) In order to manage the matters that require expertise in connection with a specific case, the committee
+chairperson may commission competent specialists to carry out the administrative affairs under
+subparagraphs of paragraph (2).
+ 
+Article 104 (Procedures for Conciliation, etc.)
+
+--------------------------------------------------------------------------------
+Necessary matters concerning the method and procedures for conciliation, etc. of disputes shall be
+prescribed by Presidential Decree, in addition to those provided for in Articles 88 through 103.
+ 
+Article 105 (Legal Fiction for Penalty Provisions Applicable to Public Officials)
+Any of the following persons shall be deemed a public official, although he/she is not actually a public
+official, for the purposes of Articles 129 though 132 of the Criminal Act and Articles 2 and 3 of the Act on
+the Aggravated Punishment, etc. of Specific Crimes: <Amended by Act No. 9594, Apr. 1, 2009>
+1. A person who carries out an on-site survey, inspection, or confirmation as an agent under Article 27;
+2. A building instructor under Article 37;
+3. An executive or employee of an accrediting institution under Article 65 (2);
+4. An executive or employee of an institution or organization under Article 82 (4);
+5. A member of a specialized committee for conciliation of building disputes under Article 89.
+ 
+CHAPTER X PENALTY PROVISIONS
+ 
+Article 106 (Penalty Provisions)
+(1) A person shall be punished by imprisonment for not more than ten years, if he/she violates Article 23,
+24 (1), or 25 (2) while performing planning and design works, construction works, or works for
+supervision of a project and if his/her poor performance of such works causes serious damages or
+destruction to the foundation and main structural sections of a public use building during the warranty
+period under Article 28 of the Framework Act on the Construction Industry after the commencement of
+the project.
+(2) A person who commits a crime under paragraph (1), causing the death or injury of another person shall
+be punished by imprisonment for life or for not less than three years.
+ 
+Article 107 (Penalty Provisions)
+(1) A person who commits a crime under Article 106 (1) by his/her malpractice in the course of
+performing his/her duty shall be punished by imprisonment, with or without labor, for not more than five
+years, or by a fine not exceeding 50 million won.
+(2) A person who commits a crime under Article 106 (2) by his/her malpractice in the course of
+performing his/her duty shall be punished by imprisonment, with or without labor, for not more than ten
+years, or by a fine not exceeding 100 million won.
+ 
+Article 108 (Penalty Provisions)
+(1) A person shall be punished by imprisonment for not more than three years or by a fine not exceeding
+50 million won, if he/she is a project owner or contractor who has erected or substantially repaired a
+building, or has changed the specific use of a building in an urban area in violation of Article 11 (1), 19,
+
+--------------------------------------------------------------------------------
+47, 55, 56, 58, 60, or 61.
+(2) Both imprisonment and a fine may be imposed concurrently in cases under paragraph (1).
+ 
+Article 109 (Penalty Provisions)
+A person who makes any misrepresentation in filing a report under Article 27 (2) shall be punished by
+imprisonment for not more than two years or by a fine not exceeding 20 million won.
+ 
+Article 110 (Penalty Provisions)
+Any of the following persons shall be punished by imprisonment for not more than two years or by a fine
+not exceeding ten million won: <Amended by Act No. 9049, Mar. 28, 2008; Act No. 9103, Jun. 5, 2008; Act No.
+11057, Sep. 16, 2011>
+1. A project owner or contractor who has erected or substantially repaired a building, or has changed the
+use of a building in any area, other than an urban area, in violation of Article 11 (1), 19, 47, 55, 56, 58,
+60, or 61;
+2. A project owner or contractor who violates any provision of Article 16, 21 (3), 22 (3), or 25 (6);
+3. A project owner or contractor who has erected a temporary building or a structure without obtaining a
+permit under Article 20 (1) or filing a report under Article 83;
+4. Any of the following persons:
+(a) A person who has someone carry out construction works without appointing a project supervisor
+in violation of the former part of Article 25 (1);
+(b) A person who appoints a contractor him/herself or his/her affiliate as a project supervisor in
+violation of the latter part of Article 25 (1);
+5. A person who has not complied, in violation of Article 25 (2), with a request made by a project
+supervisor for corrective measures or reconstruction or who has continued a project in defiance of a
+request made by a project supervisor for suspension of a project;
+6. A person who has failed to submit an interim report on supervision or a report on completion of
+supervision without justifiable grounds in violation of Article 25 (5) or who has prepared and submitted
+a false report;
+7. An owner or manager of a building, who violates Article 35;
+8. A project owner or contractor who violates Article 40 (4);
+9. An architect, a project supervisor, a contractor, or a related specialized engineer under Article 67,
+who violates Article 48;
+9-2. An architect, a project supervisor or a contractor, who violates Article 50-2 (1);
+10. A contractor who fails to use materials that do not cause any limit to the prevention of fire under
+Article 52, or an architect or project supervisor who is responsible for using such materials;
+11. An architect, a project supervisor, a contractor, or a related specialized engineer under Article 67,
+who violates Article 62.
+
+--------------------------------------------------------------------------------
+ 
+Article 111 (Penalty Provisions)
+Any of the following persons shall be punished by a fine not exceeding two million won: <Amended by Act
+No. 9437, Feb. 6, 2009>
+1. A person who fails to file a report or an application under Article 14, 20 (2), 21 (1), or 22 (1) or who
+makes any misrepresentation in filing such report or application;
+2. An architect who fails to comply with a request for revising a plan and drawing in violation of Article
+24 (3) without justifiable grounds;
+3. A person who fails to prepare detailed shop drawings upon receiving a request from a project
+supervisor in violation of Article 24 (4) or who fails to comply with such shop drawings in carrying out
+construction works;
+4. A constructor who violates Article 28 (1);
+5. A project owner and constructor who violates Article 41 or 42;
+6. A person who violates an order under Article 81 (1) and (5) or who violates paragraph (4) of the same
+Article;
+7. and 8. Deleted. <by Act No. 9437, Feb. 6, 2009>
+ 
+Article 112 (Joint Penalty Provisions)
+(1) If a representative, an agent, an employee, or any other servant of a legal entity commits an offense
+under Article 106 in connection with the business of the legal entity, not only shall such offender be
+punished accordingly, but the legal entity shall also be punished by a fine not exceeding one billion won:
+Provided, That the same shall not apply to cases where the legal entity has not neglected to perform its
+duties of reasonable care and supervision over the business in order to prevent such offense.
+(2) If an agent, an employee, or any other servant of a private individual commits an offense under Article
+106 in connection with the business of the private individual, not only shall such offender be punished
+accordingly, but the private individual shall also be punished by a fine not exceeding one billion won:
+Provided, That the same shall not apply to cases where the private individual has not neglected to perform
+his/her duties of reasonable care and supervision over the business in order to prevent such offense.
+(3) If a representative, an agent, an employee, or any other servant of a legal entity commits an offense
+under any provision of Articles 107 through 111 in connection with the business of the legal entity, not
+only shall such offender be punished accordingly, but the legal entity shall also be punished by a fine
+under the relevant provision: Provided, That the same shall not apply to cases where the legal entity has
+not neglected to perform its duties of reasonable care and supervision over the business in order to prevent
+such offense.
+(4) If an agent, an employee, or any other servant of a private individual commits an offense under any
+provision of Articles 107 through 111 in connection with the business of the private individual, not only
+shall such offender be punished accordingly, but the private individual shall also be punished by a fine
+
+--------------------------------------------------------------------------------
+under the relevant provision: Provided, That the same shall not apply tp cases where the private individual
+has not neglected to perform his/her duties of reasonable care and supervision over the business in order to
+prevent such offense.
+ 
+Article 113 (Administrative Fines)
+(1) Any of the following persons shall be subject to an administrative fine not exceeding two million won:
+<Amended by Act No. 9437, Feb. 6, 2009>
+1. Any person who fails to keep architectural plans and drawings in a project site in violation of Article
+24 (2);
+2. Any person who fails to place a signboard of building permit in violation of Article 24 (5).
+(2) Any of the following persons shall be subject to an administrative fine not exceeding 300,000 won:
+<Added by Act No. 9437, Feb. 6, 2009; Act No. 11182, Jan. 17, 2012>
+1. Any project supervisor who fails to submit a report in violation of Article 25 (3);
+2. Any person who fails to submit a report under Article 27 (2);
+3. Any person who fails to file a report under Article 35 (2);
+4. Any person who fails to file a report under Article 36 (1);
+5. Any project owner or any owner who fails to submit a monitoring report to the competent permitting
+authority without justifiable grounds in violation of Article 75 (2) or who has submitted a monitoring
+report by false or fraudulent means;
+6. Any project owner, owner or manager who fails to cooperate in the matters necessary for monitoring
+in violation of Article 77 (2);
+7. Any person who has violated Article 79 (5);
+8. Any person who fails to submit data or a report under Article 87 (1) or who has submitted false data
+or a false report.
+(3) Administrative fines under paragraphs (1) and (2) shall be imposed and collected by the Minister of
+Land, Infrastructure and Transport, Mayors/Do Governors, or heads of Sis/Guns/Gus, as prescribed by
+Presidential Decree. <Amended by Act No. 9437, Feb. 6, 2009; Act No. 11690, Mar. 23, 2013>
+(4) Deleted. <by Act No. 9437, Feb. 6, 2009>
+(5) Deleted. <by Act No. 9437, Feb. 6, 2009>
+ 
+ADDENDA
+Article 1 (Enforcement Date)
+This Act shall enter into force on the date of its promulgation: Provided, That the amended provisions
+of Article 13 (62) of the Addenda shall enter into force on April 7, 2008; those of Article 13 (43) of the
+Addenda on April 11, 2008; those of Article 13 (5) of the Addenda on June 8, 2008; those of Article 13
+(70) of the Addenda on June 28, 2008; those of Article 22 (4) 4 above on August 28, 2008; those of
+Article 69 (2) 5 above on September 22, 2008; and those of Article 13 (67), (68), and (69) of the
+
+--------------------------------------------------------------------------------
+Addenda on December 28, 2008, respectively.
+Article 2 (Transitional Measures for Enforcement Date)
+Until the amended provisions of Articles 22 (4) 4 and 69 (2) 5 enter into force pursuant to the proviso to
+Article 1 of Addenda, the former provisions of Articles 18 (4) 6 and 60 (2) 5 through 7 corresponding to
+the amended provisions shall remain effective.
+Article 3 (Transitional Measures for Height of Buildings in Combined Complexes)
+As to the combined complexes under subparagraph 5 of Article 2 of the former Balanced Regional
+Development and Support for Local Small and Medium Enterprises Act (referring to the one in force
+before the Partial Amendment (Act No. 7695) to the Balanced Regional Development and Support for
+Local Small and Medium Enterprises Act) in force as of the date this Act enters into force, the former
+relevant provisions shall apply, notwithstanding the amended provisions of Article 61 (3) 3.
+Article 4 (Transitional Measures for Building Standards, etc.)
+In applying the building standards, etc. to the cases for which a building permit has been granted, an
+application for building permit has been filed, or a report on a building project has been filed before
+May 9, 2006, which corresponds to the date the Amendment (Act No. 7696) to the Building Act
+(hereinafter referred to as the "former Act") enters into force, the former provisions shall apply:
+Provided, That the amended provisions (excluding Article 21 (4)) shall apply in cases where the former
+provisions are more disadvantageous to a project owner, contractor, or project supervisor than the
+amended provisions.
+Article 5 (Transitional Measures for Application, etc. for Building Permit)
+In cases where a building is under construction without obtaining a building permit or filing a report on
+the building project at the time the former Act was in force because it was allowed by the former
+provisions to erect such building without such permit or report, it shall be deemed that a building permit
+for the project has been obtained or a report on the building project has been filed in accordance with
+the amended provisions of Article 11 (1) or 14 (1).
+Article 6 (Transitional Measures for Safety Control, etc. of Project Sites)
+(1) Every permitting authority shall, when he/she becomes aware that a project site for which a building
+permit granted at the time the former Act was in force and which has a total floor area of 5,000 square
+meters or more undermines the urban view and causes hazards to safety because it has been abandoned
+for one year or longer, issue an order to take measures for improvement pursuant to the amended
+provisions of Article 13 (5).
+(2) If an order for improvement under paragraph (1) has not been complied with, necessary measures
+for such improvement shall be carried out vicariously pursuant to the amended provisions of Article 13
+(6), the expenses required for such vicarious execution shall be imposed on the project owner to pay it
+at the time when he/she files an application for inspection for use of the building, and the letter of
+approval on the use shall be issued after the expenses are paid.
+
+--------------------------------------------------------------------------------
+Article 7 (Transitional Measures for Approval on Use of Building)
+As to the building for which an application for approval on the use was filed at the time when the
+former Act was in force, the former provisions shall apply, notwithstanding the amended provisions of
+Article 22.
+Article 8 (Transitional Measures for Conciliation of Disputes on Building Projects)
+The disputes on building projects filed at the time when the former Act was in force shall be addressed
+by the competent building dispute conciliation committee under the former provisions (or the competent
+local building dispute conciliation committee composed pursuant to the amended provisions of Articles
+88 and 89 for the cases over which a City/Do conciliation committee has jurisdiction pursuant to the
+former provisions), notwithstanding the amended provisions of Article 88 (2): Provided, That the
+competent building dispute conciliation committee under the former provisions may, if it is necessary
+for the building dispute conciliation committee under the amended provisions of Article 88 (2), to
+handle a case, transfer the case to the competent building dispute conciliation committee.
+Article 9 (Transitional Measures for Charges for Compelling Performance)
+As to the procedures for collecting charges for compelling the performance imposed at the time when
+the former Act was in force and filing an objection against such penalty, the provisions in force before
+they were amended pursuant to the former Act shall apply, notwithstanding the amended provisions of
+Article 80.
+Article 10 (Transitional Measures for Reporting on Building Projects, etc.)
+(1) In applying the building standards, etc. to the cases for which a building permit was granted, an
+application for building permit was filed, or a report on a building project was filed before July 4, 2007,
+which corresponds to the date the partial Amendment (Act No. 8219) to the Building Act entered into
+force, the former provisions shall apply: Provided, That the amended provisions shall apply in cases
+where the former provisions are more disadvantageous to a project owner, contractor, or project
+supervisor than the amended provisions.
+(2) As to the buildings for which a report on the building project was filed before July 4, 2007, which
+corresponds to the date the partial Amendment (Act No. 8219) to the Building Act entered into force,
+the former provisions shall apply, notwithstanding the amended provisions of Article 14 (3).
+(3) If a person on whom the charge for compelling the performance was imposed before January 3,
+2007, which corresponds to the date Article 69-2 (6) of the partial Amendment (Act No. 8219) to the
+Building Act entered into force, has not paid until the time limit for the payment, such charge for
+compelling the performance may be collected in accordance with the amended provisions of Article 80
+(6).
+Article 11 (General Transitional Measures for Dispositions, etc.)
+An act performed by or against an administrative agency in accordance with the former provisions as of
+the date this Act enters into force shall be deemed to be an act performed by or against the
+administrative agency in accordance with the amended provisions corresponding to the former
+
+--------------------------------------------------------------------------------
+provisions.
+Article 12 (Transitional Measures for Penalty Provisions and Administrative Fines)
+In applying a penalty provision or a provision relevant to an administrative fine against an act
+committed before the date this Act enters into force, the former relevant provision shall apply.
+Article 13 Omitted. 
+Article 14 (Relations with other Acts and Subordinate Statutes)
+A citation of the former Building Act or any provision thereof by any other Act and subordinate statute
+in force at the time when this Act enters into force, if any, shall be deemed to be a citation of this Act or
+a corresponding provision of this Act in lieu of the former provision, if such corresponding provision
+exists herein.
+ 
+ 
+ADDENDUM <Act No. 9049, Mar. 28, 2008>
+This Act shall enter into force three months after the date of its promulgation.
+ 
+ 
+ADDENDA <Act No. 9071, Mar. 28, 2008>
+Article 1 (Enforcement Date)
+This Act shall enter into force on January 1, 2009. (Proviso Omitted.)
+Articles 2 through 11 Omitted. 
+ 
+ 
+ADDENDUM <Act No. 9103, Jun. 5, 2008>
+This Act shall enter into force on the date of its promulgation.
+ 
+ 
+ADDENDA <Act No. 9384, Jan. 30, 2009>
+Article 1 (Enforcement Date)
+This Act shall enter into force one month after the date of its promulgation.
+Articles 2 through 9 Omitted. 
+ 
+ 
+ADDENDUM <Act No. 9437, Feb. 6, 2009>
+This Act shall enter into force six months after the date of its promulgation.
+ 
+ 
+
+--------------------------------------------------------------------------------
+ADDENDA <Act No. 9594, Apr. 1, 2009>
+(1) (Enforcement Date) This Act shall enter into force six months after the date of its promulgation.
+(2) (Transitional Measures concerning Conciliation, etc. of Disputes on Building Projects) Disputes on
+building projects for which an application has been filed as at the time this Act enters into force shall be dealt
+with by the competent committee for conciliation of disputes on building projects under the former
+provisions notwithstanding the amended provisions of this Act.
+(3) Omitted.
+ 
+ 
+ADDENDA <Act No. 9770, Jun. 9, 2009>
+Article 1 (Enforcement Date)
+This Act shall enter into force on July 1, 2010. (Proviso Omitted.)
+Articles 2 through 7 Omitted.
+ 
+ 
+ADDENDA <Act No. 9774, Jun. 9, 2009>
+Article 1 (Enforcement Date)
+This Act shall enter into force six months after the date of its promulgation.
+Articles 2 through 19 Omitted.
+ 
+ 
+ADDENDA <Act No. 9858, Dec. 29, 2009>
+(1) (Enforcement Date) This Act shall enter into force one year after the date of its promulgation.
+(2) (Applicability concerning Use of Finishing Materials for Building Outside) The amended provisions of
+Article 52 (2) shall apply to an application for a building permit or the building report filed on or after the
+date this Act enters into force.
+ 
+ 
+ADDENDA <Act No. 10331, May 31, 2010>
+Article 1 (Enforcement Date)
+This Act shall enter into force six months after the date of its promulgation. (Proviso Omitted.)
+Articles 2 through 13 Omitted.						
+ 
+ 
+ADDENDA <Act No. 10599, Apr. 14, 2011>
+Article 1 (Enforcement Date)
+
+--------------------------------------------------------------------------------
+This Act shall enter into force one year after the date of its promulgation. (Proviso Omitted.)
+Articles 2 through 9 Omitted.
+ 
+ 
+ADDENDA <Act No. 10755, May 30, 2011>
+Article 1 (Enforcement Date)
+This Act shall enter into force six months after the date of its promulgation.
+Article 2 (Applicable Example concerning Term of Validity of Deliberation of Building Committee
+The amended provisions of Article 11 (10) shall be applicable from a case which undergoes the
+deliberation of a building committee under Article 4 (1) for the first time after this Act enters into force.
+ 
+ 
+ADDENDA <Act No. 10764, May 30, 2011>
+Article 1 (Enforcement Date)
+This Act shall enter into force on the date of its promulgation. (Proviso Omitted.)
+Articles 2 through 4 Omitted.						
+ 
+ 
+ADDENDA <Act No. 10892, Jul. 21, 2011>
+Article 1 (Enforcement Date)
+This Act shall enter into force one year after the date of its promulgation. (Proviso Omitted.)
+Articles 2 through 10 Omitted.						
+ 
+ 
+ADDENDA <Act No. 11037, Aug. 4, 2011>
+Article 1 (Enforcement Date)
+This Act shall enter into force six months after the date of its promulgation.
+Articles 2 through 6 Omitted.						
+ 
+ 
+ADDENDA <Act No. 11057, Sep. 16, 2011>
+Article 1 (Enforcement Date)
+This Act shall enter into force six months after the date of its promulgation.
+Article 2 (Applicable Example concerning Examination of Safety of Structure)
+The amended provisions of Article 48 (3) shall be applicable from a case for which the application for a
+building permit or a building report is filed for the first time after this Act enters into force.
+
+--------------------------------------------------------------------------------
+Article 3 (Applicable Example concerning Installation of Egress Safety Zones, etc.)
+The amended provisions of Article 50-2 (1) shall be applicable from a case for which the application for
+a building permit is filed for the first time after this Act enters into force.
+ 
+ 
+ADDENDUM <Act No. 11182, Jan. 17, 2012>
+This Act shall enter into force six months after the date of its promulgation: Provided, That the amended
+provisions of Article 11 (4) shall enter into force three months after the date of its promulgation.
+ 
+ 
+ADDENDA <Act No. 11365, Feb. 22, 2012>
+Article 1 (Enforcement Date)
+This Act shall enter into force one year after the date of its promulgation.
+Articles 2 through 4 Omitted.						
+ 
+ 
+ADDENDA <Act No. 11495, Oct. 22, 2012>
+Article 1 (Enforcement Date)
+This Act shall enter into force six months after the date of its promulgation.
+Articles 2 through 5 Omitted.						
+ 
+ 
+ADDENDA <Act No. 11599, Dec. 18, 2012>
+Article 1 (Enforcement Date)
+This Act shall enter into force on the date of its promulgation.
+Articles 2 through 4 Omitted.
+ 
+ 
+ADDENDA <Act No. 11690, Mar. 23, 2013>
+Article 1 (Enforcement Date)
+(1) This Act shall enter into force on the date of its promulgation.
+(2) Omitted.
+Articles 2 through 7 Omitted.
+ 
+ 
+ADDENDUM <Act No. 11763, May 10, 2013>
+
+--------------------------------------------------------------------------------
+This Act shall enter into force on the date of its promulgation.
+ 
+ 
+ 
+Last updated : 2014-07-01
+
+--------------------------------------------------------------------------------

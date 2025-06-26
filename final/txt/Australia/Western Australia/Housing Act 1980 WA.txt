@@ -1,0 +1,4906 @@
+Metadata for pdf/todo/Housing Act 1980 WA.pdf: {'format': 'PDF 1.6', 'title': 'Microsoft Word - HousingAct1980_04-c0-01.docx', 'author': 'svcMRProcess', 'subject': '', 'keywords': '', 'creator': 'PScript5.dll Version 5.2.2', 'producer': 'Acrobat Distiller 19.0 (Windows)', 'creationDate': "D:20190122095726+08'00'", 'modDate': "D:20190122095726+08'00'", 'trapped': '', 'encryption': None, 'country': 'Australia'}
+
+Country found in pdf/todo/Housing Act 1980 WA.pdf: Australia
+
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+ 
+Published on www.legislation.wa.gov.au 
+Western Australia 
+Housing Act 1980 
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page i 
+ 
+Published on www.legislation.wa.gov.au 
+Western Australia 
+Housing Act 1980 
+Contents 
+Part I — Preliminary 
+1. 
+Short title 
+2 
+2. 
+Commencement 
+2 
+3. 
+Repeal 
+2 
+4. 
+Objects 
+2 
+5. 
+Terms used 
+3 
+Part II — The State Housing 
+Authority  
+Division 1 — The Housing Authority 
+6. 
+The Housing Authority 
+6 
+7. 
+Authority a body corporate and Crown agency 
+6 
+8. 
+Authority to be an SES organisation 
+7 
+9. 
+Management 
+7 
+Division 2 — Powers and functions of the 
+Authority generally 
+11. 
+Authority to implement housing Acts 
+7 
+11A. 
+Minister may give directions 
+8 
+11B. 
+Minister to have access to information 
+8 
+12. 
+General powers of Authority 
+9 
+12A. 
+Joint ventures 
+10 
+13. 
+Delegation: powers and duties generally 
+11 
+14. 
+Advice and investigations 
+11 
+15. 
+Applications 
+12 
+16. 
+Assistance to and collaboration with other bodies 
+12 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+Contents 
+ 
+ 
+page ii 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Division 3 — Staff of the Authority 
+17. 
+Chief executive officer of Authority and other 
+officers and employees 
+13 
+18. 
+Terms and conditions of employment of wages 
+staff 
+14 
+18A. 
+Use of other staff and facilities 
+14 
+Part III — Acquisition, development 
+and disposal of property 
+Division 1 — Acquisition and development of 
+property 
+19. 
+Acquisition of land 
+16 
+20. 
+Gifts 
+16 
+21. 
+Powers of local government 
+17 
+22. 
+Powers in relation to development and 
+management of land 
+17 
+23. 
+Power to take lease 
+19 
+24. 
+Payment of rates to local government 
+20 
+Division 2 — Dealings with property generally 
+25. 
+Power to lease 
+20 
+26. 
+Power to sell 
+21 
+27. 
+Power to grant easement 
+21 
+Division 3 — Letting or leasing of houses 
+28. 
+Power to let or lease houses 
+21 
+29. 
+Terms and conditions 
+22 
+30. 
+Determination of rent 
+22 
+31. 
+Credit of rents towards purchase price 
+22 
+Division 4 — Sale of houses and housing land 
+32. 
+Application of this Division 
+23 
+33. 
+Terms and conditions of sale 
+24 
+34. 
+Limit on amount of unpaid purchase money 
+25 
+Part IV — Provision by the Authority 
+of financial assistance for 
+housing 
+Division 1 — Loans 
+35. 
+Reference to house 
+26 
+36. 
+Loans to assist eligible persons 
+26 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+Contents 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page iii 
+ 
+Published on www.legislation.wa.gov.au 
+37. 
+Loans to persons generally to purchase land from 
+Authority 
+27 
+38. 
+Loans to persons generally to improve houses 
+27 
+39. 
+Method of making loan 
+27 
+40. 
+Limit on amount to be lent 
+28 
+41. 
+Security for repayment of loan 
+28 
+42. 
+Interest on loans 
+29 
+43. 
+Normal legal relationships to apply 
+29 
+44. 
+Protection of Authority’s interest 
+29 
+45. 
+Authority to obtain reports as to expenditure of 
+loans 
+30 
+Division 2 — Guarantees and subsidies 
+46. 
+Guarantee by Authority in certain cases 
+30 
+47. 
+Payment of subsidies on account of loans made to 
+eligible persons 
+31 
+Part V — Arrangements and 
+agreements as to housing finance 
+Division 1 — Arrangements with the 
+Commonwealth 
+48. 
+Terms used 
+32 
+49. 
+Financial assistance from Commonwealth: powers 
+of Minister and Authority 
+32 
+50. 
+Housing assistance under agreements 
+33 
+51. 
+Regulations as to administration of agreements 
+34 
+Division 2 — Agreements with lending 
+institutions 
+52. 
+Terms used and effect 
+34 
+53. 
+Power to make loan agreements 
+35 
+54. 
+Terms and conditions of agreement 
+35 
+55. 
+Floating security and charge 
+36 
+56. 
+Lending institution may give securities 
+38 
+57. 
+Property and assets of lending institution may be 
+released 
+38 
+58. 
+Power of inspection of affairs of lending institution 
+39 
+59. 
+Special powers of lending institutions to make 
+advances of moneys, other than by way of 
+mortgage 
+39 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+Contents 
+ 
+ 
+page iv 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Part VI — Specialized housing and 
+community facilities 
+60. 
+Authority may provide specialized housing 
+41 
+61. 
+Community facilities 
+42 
+Part VIIA — Housing on Aboriginal 
+land 
+Division 1 — Preliminary matters 
+62A. 
+Terms used 
+44 
+Division 2 — Housing management agreements 
+62B. 
+Authority may enter into housing management 
+agreement 
+45 
+62C. 
+Wishes of Aboriginal inhabitants to be ascertained 
+45 
+62D. 
+Lots and houses to which housing management 
+agreement applies 
+46 
+62E. 
+Rent for nominated lots and nominated houses 
+46 
+62F. 
+Other terms of housing management agreement 
+47 
+62G. 
+Application of Residential Tenancies Act 1987 
+48 
+62H. 
+No interest in land created, property acquired or 
+compensation payable 
+48 
+62I. 
+No fees or charges payable in respect of housing 
+management agreement 
+49 
+62J. 
+Authority may act through agent 
+49 
+62K. 
+Delegation: powers and duties in relation to 
+housing management agreement 
+50 
+Division 3 — Miscellaneous matters 
+62L. 
+Approval of Minister for Indigenous Affairs, 
+AAPA or ALT not required 
+50 
+62M. 
+Application of Land Administration Act 1997 
+51 
+Part VII — Finance 
+62. 
+Funds 
+52 
+63. 
+Power to raise money 
+53 
+64. 
+Provisions as to debentures and inscribed stock 
+55 
+65. 
+Application of Financial Management Act 2006 
+and Auditor General Act 2006 
+56 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+Contents 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page v 
+ 
+Published on www.legislation.wa.gov.au 
+Part VIII — Miscellaneous 
+68. 
+Power to extend time 
+57 
+69. 
+Protection from personal liability 
+57 
+70. 
+Regulations generally 
+57 
+71. 
+Regulations as to fees 
+58 
+72. 
+Payment of fees and duties 
+59 
+73. 
+Addition of certain amounts to balance of contract 
+price or loan 
+59 
+Part IX — Saving and transitional 
+provisions 
+74. 
+Continuity of status and operation 
+60 
+75. 
+Membership of Commission 
+60 
+76. 
+Continuation of provisions relating to earlier Acts 
+and bodies 
+61 
+77. 
+Contracts of sale, mortgages and tenancies 
+61 
+78. 
+Perpetual leases 
+62 
+79. 
+References 
+62 
+80. 
+Construction 
+62 
+Notes 
+ 
+Compilation table 
+63 
+Defined terms 
+          
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 1 
+ 
+Published on www.legislation.wa.gov.au 
+Western Australia 
+Housing Act 1980 
+An Act relating to housing, to make better provision for housing and 
+improving housing standards and conditions in the State, to 
+encourage the use, development and redevelopment of land for 
+housing and related purposes, to enable the carrying out of 
+agreements and arrangements with respect to housing, to provide for 
+the Housing Authority by merging the Government Employees’ 
+Housing Authority into The State Housing Commission and for other 
+purposes. 
+ 
+[Long title amended: No. 28 of 2006 s. 310.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part I 
+Preliminary 
+ 
+ 
+s. 1 
+ 
+ 
+page 2 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Part I — Preliminary 
+1. 
+Short title 
+ 
+ 
+This Act may be cited as the Housing Act 1980 1. 
+2. 
+Commencement 
+ 
+ 
+This Act shall come into operation on a day to be fixed by 
+proclamation 1. 
+3. 
+Repeal 
+ 
+ 
+The State Housing Act 1946 is hereby repealed. 
+4. 
+Objects 
+ 
+ 
+The objects of this Act are — 
+ 
+(a) 
+the improvement of existing housing conditions; 
+ 
+(b) 
+the provision of housing and land for housing; 
+ 
+(ca) 
+the letting and leasing of houses, the provision of 
+services relating to the letting and leasing of houses and 
+the entry into arrangements for the provision of such 
+services; 
+ 
+(c) 
+the provision of assistance to enable persons to obtain 
+accommodation or improve the standard of their 
+accommodation; 
+ 
+(d) 
+the encouragement of and participation in the 
+development and redevelopment of land for housing and 
+related purposes; 
+ 
+(e) 
+the carrying into effect of agreements and arrangements 
+entered into with the Commonwealth with respect to 
+housing. 
+ 
+[Section 4 amended: No. 6 of 2010 s. 4.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Preliminary 
+Part I 
+ 
+ 
+s. 5 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 3 
+ 
+Published on www.legislation.wa.gov.au 
+5. 
+Terms used 
+ 
+(1) 
+In this Act unless the contrary intention appears — 
+ 
+Account means the Housing Authority Account referred to in 
+section 62; 
+ 
+approved form means a form approved by the Minister; 
+ 
+Authority means the Housing Authority referred to in 
+section 6(4); 
+ 
+Crown land has the meaning given in the Land Administration 
+Act 1997 section 3(1); 
+ 
+house means any building (including any single, attached or 
+multi-storey dwelling unit, tent, edifice, structure or erection 
+(whether temporary or permanent)) or any part thereof which or 
+any part of which has been used or is used or is intended to be 
+used as a dwelling, and includes outbuildings, fences, walls and 
+permanent provision for lighting, heating, water supply, 
+drainage and sewerage and other appurtenances of a house, and 
+any shop, or business premises being a portion of or attached to 
+a house; 
+ 
+land includes any estate or interest in land and any easement, 
+right or privilege in, over or affecting land and any building or 
+other structure or improvements on land; 
+ 
+loan includes a part of a loan; 
+ 
+mortgage means any deed, memorandum of mortgage, 
+instrument or agreement whereby security for repayment of 
+advances or payment of moneys together with interest (if any) 
+thereon, is made in favour of the Authority over real or personal 
+property or any estate or interest therein; 
+ 
+officer of the Authority means — 
+ 
+(a) 
+the chief executive officer of the Authority; and 
+ 
+(b) 
+an officer referred to in section 17(1)(b); and 
+ 
+(c) 
+an officer or employee referred to in section 18A(1) 
+whose services the Authority is making use of; 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part I 
+Preliminary 
+ 
+ 
+s. 5 
+ 
+ 
+page 4 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+owner in relation to land means the person for the time being 
+entitled to receive the rent of the land or premises in connection 
+with which the word is used (whether on his own account or as 
+the agent of or trustee for any other person) or who would be 
+entitled to receive the rent if the land or premises were let at a 
+rent and includes the person who is purchasing land on terms or 
+deferred payments; 
+ 
+public authority means a department, instrumentality or agency 
+of the Crown in right of the State or the Commonwealth, a local 
+government and any other person or body, whether corporate or 
+not, who or which under the authority of any Act is charged 
+with the carrying out of any duty whilst acting in the discharge 
+of that duty; 
+ 
+purchase includes to acquire by way of exchange; 
+ 
+repealed Act means the Act repealed by section 3; 
+ 
+section means section of this Act; 
+ 
+sell includes to dispose of by way of exchange; 
+ 
+street includes any street, road, footway, square, court, alley or 
+right of way whether a thoroughfare or not; 
+ 
+subsection means subsection of the section in which the term is 
+used; 
+ 
+tenancy agreement includes a lease or agreement to lease, and 
+includes any instrument under which any person derives title 
+under the original tenant; 
+ 
+tenant includes lessee, and includes any person deriving title 
+under the original tenant; 
+ 
+Treasurer means Treasurer of the State. 
+ (1A) 
+In this Act unless the contrary intention appears — 
+ 
+(a) 
+a reference to the erection of a house or other building 
+includes a reference to the conversion or modification of 
+an existing building; 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Preliminary 
+Part I 
+ 
+ 
+s. 5 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 5 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+a reference to the family of a person is a reference to the 
+spouse, de facto partner and children of, and the parents 
+or other relatives dependent upon, that person; 
+ 
+(c) 
+a reference to land held by the Authority is a reference 
+to any land — 
+ 
+(i) 
+vested in or granted to the Authority; or 
+ 
+(ii) 
+reserved for the use and requirements of the 
+Authority or for the purposes of this Act; or 
+ 
+(iii) 
+purchased or otherwise acquired by the 
+Authority; or 
+ 
+(iv) 
+donated, given, devised or bequeathed to the 
+Authority; 
+ 
+(d) 
+a reference to a house or other building held by the 
+Authority is a reference to a house or other building 
+situated on land held by the Authority. 
+ 
+(2) 
+A reference in a provision of this Act to an eligible person is a 
+reference to a person who satisfies the conditions of eligibility 
+from time to time determined by the Authority and approved by 
+the Minister for the purposes of that provision. 
+ 
+(3) 
+The conditions of eligibility mentioned in subsection (2) shall 
+be determined and approved by reference to income criteria and, 
+without limiting the generality of the foregoing, may provide for 
+the incomes of more than one member of a household to be 
+taken into consideration. 
+ 
+[Section 5 amended: No. 14 of 1996 s. 4; No. 28 of 2003 s. 84; 
+No. 28 of 2006 s. 311 and 332; No. 77 of 2006 Sch. 1 cl. 87(1); 
+No. 46 of 2009 s. 17; No. 6 of 2010 s. 5; No. 19 of 2010 s. 51; 
+No. 19 of 2016 s. 101 and 295.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part II 
+The State Housing Authority 
+Division 1 
+The Housing Authority 
+s. 6 
+ 
+ 
+page 6 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Part II — The State Housing Authority 2 
+ 
+[Heading amended: No. 28 of 2006 s. 312.] 
+Division 1 — The Housing Authority 
+ 
+[Heading inserted: No. 28 of 2006 s. 313.] 
+6. 
+The Housing Authority 
+ 
+(1) 
+The body corporate constituted under the repealed Act by the 
+name “The State Housing Commission” is preserved and 
+continues in existence for the purposes of this Act as a body 
+corporate retaining the same corporate identity. 
+ 
+(2) 
+At the merger time the former body merges into The State 
+Housing Commission. 
+ 
+(3) 
+The State Housing Commission, as renamed by subsection (4), 
+is a continuation of the former body. 
+ 
+(4) 
+Immediately after the merger time The State Housing 
+Commission is renamed as the Housing Authority. 
+ 
+(5) 
+In this section — 
+ 
+former body means the Government Employees’ Housing 
+Authority established by section 8 of the Government 
+Employees’ Housing Act 1964 as in force before the merger 
+time; 
+ 
+merger time means the time at which section 314 of the 
+Machinery of Government (Miscellaneous Amendments) 
+Act 2006 comes into operation 1. 
+ 
+[Section 6 amended: No. 28 of 2006 s. 314 and 332; No. 17 of 
+2014 s. 26.] 
+7. 
+Authority a body corporate and Crown agency 
+ 
+(1) 
+The Authority — 
+ 
+(a) 
+is a body corporate with perpetual succession and a 
+common seal; and 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+The State Housing Authority 
+Part II 
+Powers and functions of the Authority generally 
+Division 2 
+s. 8 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 7 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+is capable in law in its corporate name of suing and 
+being sued. 
+ 
+(2) 
+All courts, judges and persons acting judicially shall take 
+judicial notice of the seal of the Authority or the former body 
+(within the meaning of section 6) affixed to any document and 
+shall presume that it was duly affixed. 
+ 
+(3) 
+The Authority is an agent of the Crown in right of the State. 
+ 
+[Section 7 amended: No. 28 of 2006 s. 315 and 332.] 
+8. 
+Authority to be an SES organisation 
+ 
+ 
+The Authority is to be an SES organisation under the Public 
+Sector Management Act 1994. 
+ 
+[Section 8 inserted: No. 28 of 2006 s. 316.] 
+9. 
+Management 
+ 
+(1) 
+The Authority is to be governed by its chief executive officer. 
+ 
+(2) 
+The chief executive officer, in the name of the Authority, is to 
+perform the functions of the Authority under this Act or any 
+other written law. 
+ 
+[Section 9 inserted: No. 28 of 2006 s. 316.] 
+[10. 
+Deleted: No. 28 of 2006 s. 316.] 
+Division 2 — Powers and functions of the Authority generally 
+ 
+[Heading amended: No. 28 of 2006 s. 317.] 
+11. 
+Authority to implement housing Acts 
+ 
+(1) 
+Subject to the control and direction of the Minister the Authority 
+shall be responsible for the implementation of the provisions of 
+this Act and the Government Employees’ Housing Act 1964. 
+ [(2) 
+deleted] 
+ 
+[Section 11 amended: No. 41 of 1996 s. 3; No. 28 of 2006 s. 318 
+and 332.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part II 
+The State Housing Authority 
+Division 2 
+Powers and functions of the Authority generally 
+s. 11A 
+ 
+ 
+page 8 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+11A. 
+Minister may give directions 
+ 
+(1) 
+The Minister may give written directions to the Authority with 
+respect to the performance of its functions under this or any 
+other Act, either generally or in relation to a particular matter, 
+and the Authority is to give effect to any such direction. 
+ 
+(2) 
+The Minister must cause a copy of a direction under 
+subsection (1) to be laid before each House of Parliament, or 
+dealt with under subsection (3), within 14 days after the 
+direction is given. 
+ 
+(3) 
+If — 
+ 
+(a) 
+at the commencement of the period referred to in 
+subsection (2) a House of Parliament is not sitting; and 
+ 
+(b) 
+the Minister is of the opinion that that House will not sit 
+during that period, 
+ 
+ 
+the Minister is to transmit a copy of the direction to the Clerk of 
+that House. 
+ 
+(4) 
+A copy of a direction transmitted to the Clerk of a House is to 
+be taken to have been laid before that House. 
+ 
+(5) 
+The laying of a copy of a direction that is regarded as having 
+occurred under subsection (4) is to be recorded in the Minutes, 
+or Votes and Proceedings, of the House on the first sitting day 
+of the House after the Clerk received the copy. 
+ 
+(6) 
+The text of a direction under subsection (1) is to be included in 
+the annual report submitted by the accountable authority of the 
+Authority under Part 5 of the Financial Management Act 2006. 
+ 
+[Section 11A inserted: No. 28 of 2006 s. 319; amended: No. 77 
+of 2006 Sch. 1 cl. 87(2).] 
+11B. 
+Minister to have access to information 
+ 
+(1) 
+The Minister is entitled — 
+ 
+(a) 
+to have information in the possession of the Authority; 
+and 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+The State Housing Authority 
+Part II 
+Powers and functions of the Authority generally 
+Division 2 
+s. 12 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 9 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+if the information is in or on a document, to have, and 
+make and retain copies of, that document. 
+ 
+(2) 
+For the purposes of subsection (1) the Minister may — 
+ 
+(a) 
+request the Authority to furnish information to the 
+Minister; 
+ 
+(b) 
+request the Authority to give the Minister access to 
+information; 
+ 
+(c) 
+for the purposes of paragraph (b) make use of the staff 
+of the Authority to obtain the information and furnish it 
+to the Minister. 
+ 
+(3) 
+The Authority has to comply with a request under subsection (2) 
+and make staff and facilities available to the Minister for 
+obtaining information under subsection (2)(c). 
+ 
+(4) 
+In this section — 
+ 
+document includes any tape, disk or other device or medium on 
+which information is recorded or stored mechanically, 
+photographically, electronically or otherwise; 
+ 
+information means information specified, or of a description 
+specified, by the Minister that relates to the functions of the 
+Authority under this or any other Act. 
+ 
+[Section 11B inserted: No. 28 of 2006 s. 319.] 
+12. 
+General powers of Authority 
+ 
+ 
+Subject to and for the purposes of this Act and the Government 
+Employees’ Housing Act 1964 the Authority — 
+ 
+(a) 
+has and may exercise all the powers, privileges, rights 
+and remedies of the Crown; and 
+ 
+(b) 
+has and may exercise all such powers, authorities and 
+discretions, and may do all such acts and things, as a 
+private person in the State has or may exercise or do, 
+and the Authority generally may do whatever it deems 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part II 
+The State Housing Authority 
+Division 2 
+Powers and functions of the Authority generally 
+s. 12A 
+ 
+ 
+page 10 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+necessary in connection with or incidental to the 
+functions conferred upon it; 
+ 
+ 
+and in particular, without limiting the generality of the 
+foregoing — 
+ 
+(c) 
+has power to acquire, hold, maintain, improve, 
+exchange, lease and dispose of real and personal 
+property; and 
+ 
+(d) 
+has power to borrow and lend money; and 
+ 
+(e) 
+has power to give guarantees, indemnities and 
+undertakings whether in respect of the payment or 
+repayment of moneys, the performance of obligations, or 
+otherwise. 
+ 
+[Section 12 amended: No. 28 of 2006 s. 320 and 332.] 
+12A. 
+Joint ventures 
+ 
+(1) 
+To further the objects of this Act or the Government Employees’ 
+Housing Act 1964, subject to subsection (3), the Authority may 
+enter into a joint venture arrangement. 
+ 
+(2) 
+Without limiting the powers that the Authority may exercise 
+under either of those Acts for the purposes of participating in 
+and giving effect to a joint venture arrangement relating to a 
+project, the Authority may — 
+ 
+(a) 
+seek and maintain appropriate representation on a board 
+or other body having responsibility for carrying out, 
+managing or controlling the project; and 
+ 
+(b) 
+subject to any contract relating to the project — 
+ 
+(i) 
+receive contributions or other moneys relating to 
+the project; and 
+ 
+(ii) 
+disburse or distribute, or arrange for the 
+disbursement or distribution of, those 
+contributions or other moneys. 
+ 
+(3) 
+The Authority can only enter into a joint venture 
+arrangement — 
+ 
+(a) 
+with the approval of the Minister; and 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+The State Housing Authority 
+Part II 
+Powers and functions of the Authority generally 
+Division 2 
+s. 13 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 11 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+on terms and conditions approved by the Treasurer. 
+ 
+[Section 12A inserted: No. 6 of 2010 s. 6.] 
+13. 
+Delegation: powers and duties generally 
+ 
+(1) 
+The Authority may delegate under this section to an officer of 
+the Authority — 
+ 
+(a) 
+any power or duty of the Authority under this Act, 
+except a power or duty referred to in section 62K(1); or 
+ 
+(b) 
+any power or duty of the Authority under the 
+Government Employees’ Housing Act 1964. 
+ 
+(2) 
+The delegation must be in writing executed by the Authority. 
+ 
+(3) 
+An officer to whom a power or duty is delegated under this 
+section cannot delegate that power or duty. 
+ 
+(4) 
+An officer exercising or performing a power or duty that has 
+been delegated to the officer under this section is taken to do so 
+in accordance with the terms of the delegation unless the 
+contrary is shown. 
+ 
+(5) 
+This section does not limit the ability of the Authority to 
+perform a function through an officer of the Authority or an 
+agent. 
+ 
+[Section 13 inserted: No. 6 of 2010 s. 7.] 
+14. 
+Advice and investigations 
+ 
+(1) 
+The Authority shall — 
+ 
+(a) 
+advise the Minister on matters connected with this Act 
+generally; 
+ 
+(b) 
+make or cause to be made any inquiry, investigation or 
+report required by this Act, or any inquiry, investigation 
+or report which the Minister may think necessary or 
+expedient. 
+ 
+(2) 
+The Authority may carry out or cause to be carried out all such 
+surveys, investigations and valuations as may be necessary or 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part II 
+The State Housing Authority 
+Division 2 
+Powers and functions of the Authority generally 
+s. 15 
+ 
+ 
+page 12 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+expedient for the purposes of this Act or incidental to its 
+functions under this Act. 
+ 
+(3) 
+The Authority shall also have such advisory powers as may 
+from time to time be prescribed, and such other powers as may 
+be imposed by the Minister on the Authority. 
+ 
+[Section 14 amended: No. 28 of 2006 s. 332.] 
+15. 
+Applications 
+ 
+(1) 
+The Authority shall deal with applications for housing or 
+financial assistance for housing made under this Act or under 
+any other Act or law in relation to housing that is administered 
+by the Authority. 
+ 
+(2) 
+For the purpose of performing the duties mentioned in 
+subsection (1) the Authority shall, subject to the Act or law 
+concerned, have power and authority — 
+ 
+(a) 
+to inquire into and consider applications; 
+ 
+(b) 
+to require any further or other information in respect of 
+any application; 
+ 
+(c) 
+to require any information provided in, or in respect of, 
+an application to be verified by statutory declaration; 
+ 
+(d) 
+to approve of any application (either wholly or in part); 
+ 
+(e) 
+to refuse any application. 
+ 
+[Section 15 amended: No. 28 of 2006 s. 332.] 
+16. 
+Assistance to and collaboration with other bodies 
+ 
+(1) 
+Subject to subsection (2) the Authority may give such assistance 
+as it thinks fit to enable or assist — 
+ 
+(a) 
+any public authority; or 
+ 
+(b) 
+any person approved by the Minister, 
+ 
+ 
+to engage in any activity related to the objects of this Act or the 
+Government Employees’ Housing Act 1964 and may seek and 
+maintain appropriate representation on the board or other 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+The State Housing Authority 
+Part II 
+Staff of the Authority 
+Division 3 
+s. 17 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 13 
+ 
+Published on www.legislation.wa.gov.au 
+governing authority of any body corporate to which such 
+assistance is given. 
+ 
+(2) 
+The Authority shall not give assistance under subsection (1) by 
+way of — 
+ 
+(a) 
+granting financial aid or enabling financial aid to be 
+obtained; or 
+ 
+(b) 
+making available the services of any officer or employee 
+of the Authority; or 
+ 
+(c) 
+making available any facilities of the Authority, 
+ 
+ 
+except with the consent of the Minister. 
+ 
+(3) 
+The Authority may, with the consent of the Minister, in respect 
+of the performance of any of its functions — 
+ 
+(a) 
+engage consultants having relevant qualifications or 
+experience; 
+ 
+(b) 
+consult or collaborate with other bodies or persons 
+having interests or functions similar or related to those 
+of the Authority. 
+ 
+[Section 16 amended: No. 28 of 2006 s. 323 and 332.] 
+Division 3 — Staff of the Authority 
+ 
+[Heading amended: No. 28 of 2006 s. 324.] 
+17. 
+Chief executive officer of Authority and other officers and 
+employees 
+ 
+(1) 
+To enable the Authority to exercise and perform the powers, 
+functions and duties conferred on it by or under this Act or any 
+other Act — 
+ 
+(a) 
+there shall be a chief executive officer of the Authority 
+who shall be appointed, under and subject to Part 3 of 
+the Public Sector Management Act 1994; 
+ 
+(b) 
+there shall be appointed under and subject to Part 3 of 
+the Public Sector Management Act 1994, such officers 
+as the Authority considers necessary; 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part II 
+The State Housing Authority 
+Division 3 
+Staff of the Authority 
+s. 18 
+ 
+ 
+page 14 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(c) 
+the Authority may employ such wages staff as it 
+considers necessary. 
+ 
+(2) 
+The chief executive officer of the Authority cannot be excluded 
+from the Senior Executive Service under section 43(3) of the 
+Public Sector Management Act 1994. 
+ 
+(3) 
+The chief executive officer is responsible for, and has the 
+necessary powers to administer, the day to day operations of the 
+Authority. 
+ 
+[Section 17 amended: No. 32 of 1994 s. 19; No. 28 of 2006 
+s. 325 and 332.] 
+18. 
+Terms and conditions of employment of wages staff 
+ 
+(1) 
+Subject to any relevant award or industrial agreement the terms 
+and conditions of employment of staff employed pursuant to 
+section 17(1)(c) shall be such terms and conditions as the 
+Authority, after consultation with the Public Sector 
+Commissioner, determines. 
+ 
+(2) 
+Part 3 of the Public Sector Management Act 1994 does not 
+apply to or in relation to staff employed under section 17(1)(c). 
+ 
+[Section 18 amended: No. 32 of 1994 s. 19; No. 28 of 2006 
+s. 332; No. 39 of 2010 s. 89.] 
+18A. 
+Use of other staff and facilities 
+ 
+(1) 
+The Authority may by arrangement with the relevant employing 
+authority make use, either full-time or part-time, of the services 
+of any officer or employee — 
+ 
+(a) 
+in the Public Service; or 
+ 
+(b) 
+in a State agency or instrumentality; or 
+ 
+(c) 
+otherwise in the service of the State. 
+ 
+(2) 
+The Authority may by arrangement with — 
+ 
+(a) 
+a department of the Public Service; or 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+The State Housing Authority 
+Part II 
+Staff of the Authority 
+Division 3 
+s. 18A 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 15 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+a State agency or instrumentality, 
+ 
+ 
+make use of any facilities of the department, agency or 
+instrumentality. 
+ 
+(3) 
+An arrangement under subsection (1) or (2) is to be made on 
+such terms as are agreed to by the parties. 
+ 
+(4) 
+In this section, employing authority, Public Service and other 
+expressions used in the Public Sector Management Act 1994 
+have the same respective meanings as they have in that Act. 
+ 
+[Section 18A inserted: No. 28 of 2006 s. 326.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part III 
+Acquisition, development and disposal of property 
+Division 1 
+Acquisition and development of property 
+s. 19 
+ 
+ 
+page 16 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Part III — Acquisition, development and disposal of 
+property 
+Division 1 — Acquisition and development of property 
+19. 
+Acquisition of land 
+ 
+(1) 
+The Authority may with the consent of the Minister purchase 
+any land for the purposes of this Act. 
+ 
+(2) 
+The Authority is not authorised to take or resume land by 
+compulsory acquisition. 
+ 
+[Section 19 inserted: No. 28 of 2006 s. 332.] 
+20. 
+Gifts 
+ 
+(1) 
+For the purposes of this Act the Authority may — 
+ 
+(a) 
+accept any absolute donation, gift, devise or bequest of 
+real or personal property; or 
+ 
+(b) 
+with the consent of the Minister, accept any donation, 
+gift, devise or bequest of real or personal property 
+subject to any trust the objects of which are not 
+substantially different from those for which the 
+Authority is constituted, and carry out and give effect to 
+the objects of any such trust. 
+ 
+(2) 
+The Authority may receive any donation, gift, devise or bequest 
+for the purpose of assisting it to provide houses for persons 
+notwithstanding that the donation, gift, devise or bequest is 
+subject to any trust, condition or stipulation which cannot by 
+reason of any other provision of this Act be given effect to, and 
+the Authority may, notwithstanding that provision, give effect to 
+the trust, condition or stipulation, if it is otherwise in accordance 
+with law. 
+ 
+(3) 
+No duty under the Duties Act 2008 shall be paid on any property 
+received by the Authority under subsection (1). 
+ 
+[Section 20 amended: No. 28 of 2006 s. 332; No. 12 of 2008 
+Sch. 1 cl. 17(1).] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Acquisition, development and disposal of property 
+Part III 
+Acquisition and development of property 
+Division 1 
+s. 21 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 17 
+ 
+Published on www.legislation.wa.gov.au 
+21. 
+Powers of local government 
+ 
+(1) 
+Notwithstanding the Local Government Act 1995 or any other 
+Act relating to local government a local government — 
+ 
+(a) 
+may sell or otherwise dispose of to the Authority any 
+land vested in the local government (not being land 
+reserved under Part 4 of the Land Administration 
+Act 1997); 
+ 
+(b) 
+may acquire any land in the manner provided in the 
+Local Government Act 1995 for the purpose of disposing 
+of the land to the Authority for the purposes of this Act. 
+ 
+(2) 
+Subsection (1) does not authorise a local government to take or 
+resume land by compulsory acquisition unless the land is to be 
+disposed of to the Authority for the purposes of section 61(1). 
+ 
+[Section 21 amended: No. 14 of 1996 s. 4; No. 31 of 1997 s. 35; 
+No. 28 of 2006 s. 332.] 
+22. 
+Powers in relation to development and management of land 
+ 
+(1) 
+Subject to this Act the Authority has these powers — 
+ 
+(a) 
+with the consent of the Western Australian Planning 
+Commission as defined in the Planning and 
+Development Act 2005 and any approval required under 
+that Act, to re-plan and re-subdivide any land except 
+Crown land not held by the Authority and to secure the 
+closing of any street or the extinguishment of any 
+easement or restrictive covenant; 
+ 
+(b) 
+to erect houses and other buildings on, or lay out and 
+construct streets on, any land and to expend moneys 
+standing to the credit of the Account on works and 
+operations for the purpose of making such land suitable 
+for the purposes of this Act; 
+ 
+(c) 
+to maintain, repair, and carry out any improvements to 
+and generally to control and manage any houses and 
+other buildings that are subject to contracts of sale, 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part III 
+Acquisition, development and disposal of property 
+Division 1 
+Acquisition and development of property 
+s. 22 
+ 
+ 
+page 18 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+mortgages, or leases pursuant to this Act and any land 
+on which such houses and other buildings are erected; 
+ 
+(d) 
+to enter into arrangements with a public authority or 
+other body or person with respect to the provision of 
+services to any area in which houses or other buildings 
+acquired, erected, or to be erected, by the Authority are, 
+or are to be, situated including, without limiting the 
+generality of the foregoing, arrangements with respect 
+to — 
+ 
+(i) 
+the making of streets or other facilities affording 
+access to houses and other buildings and sites for 
+houses and other buildings in the area; 
+ 
+(ii) 
+the establishment or extension and, if necessary, 
+operation and maintenance of sewerage, 
+drainage, water, gas, power, lighting and 
+communications systems to serve the area and 
+the connection of those systems to houses and 
+other buildings and sites for houses and other 
+buildings in the area, 
+ 
+ 
+and, subject to the provisions of any contract relating to 
+such an arrangement, to allot to each house, building or 
+site having the benefit of the arrangement such 
+proportion of the cost incurred by the Authority under 
+the arrangement as the Authority deems just; 
+ 
+(e) 
+to purchase building materials, equipment, fittings or 
+appliances, and to supply the same or any of them to any 
+person or body of persons, corporate or unincorporate 
+for the purposes of this Act upon such terms and 
+conditions as the Authority determines; 
+ 
+(f) 
+to dispose of, set apart, utilize and deal with any land 
+held by the Authority for the purposes of housing 
+projects under or pursuant to an agreement between the 
+Commonwealth and the State entered into pursuant to, 
+or ratified by, an Act; 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Acquisition, development and disposal of property 
+Part III 
+Acquisition and development of property 
+Division 1 
+s. 23 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 19 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(g) 
+with the consent of the Minister to delegate to any local 
+government approved by the Minister all or any of the 
+powers and functions of the Authority (except this 
+power of delegation) upon and subject to such terms and 
+conditions as the Authority thinks fit so that the 
+delegated powers and functions may be exercised and 
+performed by the local government in the same manner 
+and with the same effect as if they had been directly 
+conferred on the local government by this Act and not 
+by delegation; 
+ 
+(h) 
+to advance moneys to any local government to which a 
+delegation is made under paragraph (g); 
+ 
+(ia) 
+to arrange, effect or take out insurance in connection 
+with a matter referred to in paragraphs (a) to (h); 
+ 
+(i) 
+to do any thing incidental to a matter mentioned in this 
+subsection. 
+ 
+(2) 
+A delegation under subsection (1)(g) shall be revocable at will 
+and no delegation shall prevent the exercise of any power or the 
+performance of any function by the Authority. 
+ 
+(3) 
+The powers conferred by subsection (1) are in addition to any 
+other powers conferred on the Authority by this or any other 
+Act. 
+ 
+[Section 22 amended: No. 62 of 1983 s. 4; No. 84 of 1994 s. 46; 
+No. 14 of 1996 s. 4; No. 49 of 1996 s. 64; No. 38 of 2005 s. 15; 
+No. 28 of 2006 s. 327 and 332; No. 77 of 2006 Sch. 1 cl. 87(3); 
+No. 6 of 2010 s. 8.] 
+23. 
+Power to take lease 
+ 
+(1) 
+For the purposes of this Act the Authority may, with the consent 
+of the Minister, take land on lease for such period and subject to 
+such covenants and conditions as it thinks reasonable. 
+ 
+(2) 
+The powers conferred on the Authority by this Act in respect of 
+land held by the Authority may, subject to the express or 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part III 
+Acquisition, development and disposal of property 
+Division 2 
+Dealings with property generally 
+s. 24 
+ 
+ 
+page 20 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+implied covenants and conditions of the lease, be exercised by 
+the Authority in respect of land taken by it on lease. 
+ 
+[Section 23 amended No. 28 of 2006 s. 332.] 
+24. 
+Payment of rates to local government 
+ 
+(1) 
+Notwithstanding any provision to the contrary in any Act, the 
+Authority in respect of vacant rateable land acquired within the 
+district of a local government, shall be liable to pay rates 
+thereon out of moneys standing to the credit of the Account to 
+that local government, and the land shall be deemed to continue 
+to be rateable land; but in the case of vacant land other than 
+subdivided land no such liability shall arise until the land has 
+been held vacant by the Authority for a period of at least 2 years 
+and in the case of vacant subdivided land no such liability shall 
+arise until the land has been held vacant by the Authority for a 
+period of at least one year. 
+ 
+(2) 
+In this section subdivided land means an allotment of land, 
+shown on an approved plan or diagram of subdivision deposited 
+under the Transfer of Land Act 1893 with the Authority as 
+defined in section 4(1) of that Act to be of an area not exceeding 
+10 000 square metres, or, if no such plan or diagram is so 
+deposited, an allotment of land determined under that Act to be 
+of an area not exceeding 10 000 square metres. 
+ 
+[Section 24 amended: No. 14 of 1996 s. 4; No. 49 of 1996 s. 64; 
+No. 81 of 1996 s. 153(1); No. 28 of 2006 s. 332; No. 60 of 2006 
+s. 137; No. 77 of 2006 Sch. 1 cl. 87(4).] 
+Division 2 — Dealings with property generally 
+25. 
+Power to lease 
+ 
+(1) 
+The Authority may let or lease, or grant a licence to any person 
+to use, any building, building and land or vacant land held by 
+the Authority for such periods and purposes, at such rentals and 
+on such terms, covenants and conditions as the Authority thinks 
+fit. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Acquisition, development and disposal of property 
+Part III 
+Letting or leasing of houses 
+Division 3 
+s. 26 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 21 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(2) 
+Subsection (1) does not apply to the letting or leasing of a house 
+or house and land. 
+ 
+[Section 25 amended: No. 28 of 2006 s. 332.] 
+26. 
+Power to sell 
+ 
+(1) 
+The Authority, with the consent of the Minister, may by public 
+auction or private contract sell any building and land or vacant 
+land held by the Authority for cash or on such terms of payment 
+as the Authority thinks fit and at such price, and subject to such 
+conditions, restrictions, exceptions and reservations (if any) as 
+the Authority thinks fit. 
+ 
+(2) 
+Subsection (1) does not apply to a sale under Division 4. 
+ 
+[Section 26 amended: No. 28 of 2006 s. 332.] 
+27. 
+Power to grant easement 
+ 
+ 
+The Authority may grant or create an easement over land held 
+by the Authority for such payment (if any) and on such terms 
+and conditions as the Authority thinks fit. 
+ 
+[Section 27 amended: No. 28 of 2006 s. 332.] 
+Division 3 — Letting or leasing of houses 
+28. 
+Power to let or lease houses 
+ 
+ 
+The Authority may let or lease any house or house and land held 
+by the Authority to any eligible person or, with the consent of 
+the Minister — 
+ 
+(a) 
+to any public authority or body corporate; or 
+ 
+(b) 
+to any person who, in the opinion of the Authority, is 
+providing an essential community or tradesman service 
+in a locality and is unable to obtain suitable 
+accommodation in that locality from any source other 
+than the Authority. 
+ 
+[Section 28 amended: No. 28 of 2006 s. 332.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part III 
+Acquisition, development and disposal of property 
+Division 3 
+Letting or leasing of houses 
+s. 29 
+ 
+ 
+page 22 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+29. 
+Terms and conditions 
+ 
+(1) 
+A house or house and land may be let under this Division on a 
+weekly or such other periodic tenancy as the Authority thinks fit 
+or may be leased under this Division for such period as the 
+Authority thinks fit. 
+ 
+(2) 
+The terms, covenants and conditions of a tenancy or lease under 
+this Division shall be such terms, covenants and conditions as 
+the Authority thinks fit and shall be set out in a tenancy 
+agreement in an approved form. 
+ 
+[Section 29 amended: No. 28 of 2006 s. 332.] 
+30. 
+Determination of rent 
+ 
+(1) 
+The amounts of rent to be paid by tenants under this Division 
+shall be such amounts as are from time to time determined by 
+the Authority and approved by the Minister. 
+ 
+(2) 
+A determination under subsection (1) may provide for — 
+ 
+(a) 
+the payment of different rents in respect of different 
+houses or different classes of houses; 
+ 
+(b) 
+the payment of different rents by tenants of different 
+classes; 
+ 
+(c) 
+the allowance of rebates in such circumstances and 
+subject to such conditions as are specified in the 
+determination. 
+ 
+[Section 30 amended: No. 28 of 2006 s. 332.] 
+31. 
+Credit of rents towards purchase price 
+ 
+(1) 
+Subject to subsection (2) where — 
+ 
+(a) 
+the purchaser of any house and land under Division 4 
+has been a tenant of the house or the house and the land 
+under this Division; or 
+ 
+(b) 
+the spouse, de facto partner or deceased spouse or 
+deceased de facto partner of a purchaser of any house 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Acquisition, development and disposal of property 
+Part III 
+Sale of houses and housing land 
+Division 4 
+s. 32 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 23 
+ 
+Published on www.legislation.wa.gov.au 
+and land under Division 4 has been a tenant of the house 
+or the house and the land under this Division, 
+ 
+ 
+the Authority may credit towards the purchase price of the 
+house and land the rents that have been paid by the purchaser or 
+the spouse, de facto partner or deceased spouse or deceased 
+de facto partner of the purchaser in respect of the house, or the 
+house and the land, or such portion (if any) of those rents as the 
+Authority thinks fit. 
+ 
+(2) 
+Where a person becomes the purchaser of any house and land 
+under Division 4 by exercising an option to purchase contained 
+in a tenancy agreement under this Division the provisions of 
+subsection (1) shall not affect any provision contained in the 
+tenancy agreement providing for the crediting of rents towards 
+the purchase price of the house and land. 
+ 
+(3) 
+In this section rents includes amounts paid by a tenant of a 
+house or house and land for the purpose of the repair, 
+renovation, upkeep or improvement of the house or house and 
+land. 
+ 
+[Section 31 amended: No. 28 of 2003 s. 85; No. 28 of 2006 
+s. 332.] 
+Division 4 — Sale of houses and housing land 
+32. 
+Application of this Division 
+ 
+(1) 
+This Division applies to the sale by the Authority of a house and 
+land held by the Authority or land held by the Authority on 
+which a house is to be erected. 
+ 
+(2) 
+A reference in subsection (1) to a house is a reference to a house 
+that is intended to be used by the purchaser as a home for 
+himself and his family (if any). 
+ 
+[Section 32 amended: No. 28 of 2006 s. 332.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part III 
+Acquisition, development and disposal of property 
+Division 4 
+Sale of houses and housing land 
+s. 33 
+ 
+ 
+page 24 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+33. 
+Terms and conditions of sale 
+ 
+(1) 
+The Authority may by public auction or private contract sell 
+land or a house and land under this Division — 
+ 
+(a) 
+for cash; or 
+ 
+(b) 
+in the case of — 
+ 
+(i) 
+the sale of land; or 
+ 
+(ii) 
+the sale of a house and land to an eligible person, 
+ 
+ 
+on such terms of payment as the Authority thinks fit. 
+ 
+(2) 
+A sale under this Division may be made at such price and 
+subject to such conditions, restrictions, exceptions and 
+reservations as the Authority thinks fit. 
+ 
+(3) 
+If a sale under this Division is made on terms or subject to 
+conditions, restrictions, exceptions or reservations those terms, 
+conditions, restrictions, exceptions or reservations shall be set 
+out in a contract of sale in an approved form. 
+ 
+(4) 
+The Authority may, by determination approved by the Minister 
+and published in the Government Gazette, fix a standard rate of 
+interest to apply to contracts of sale in respect of sales on terms 
+under this Division. 
+ 
+(5) 
+Different standard rates of interest may be fixed under 
+subsection (4) in respect of different classes of contracts of sale. 
+ 
+(6) 
+The interest rate specified in a contract of sale in respect of a 
+sale on terms under this Division shall be the standard rate of 
+interest most recently published under subsection (4) in respect 
+of contracts of sale of that class but the contract may provide for 
+the interest rate to vary in accordance with determinations 
+published from time to time under that subsection. 
+ 
+(7) 
+In subsection (6) interest rate in relation to a contract of sale 
+means the rate of interest payable on the balance of the purchase 
+money for the time being remaining unpaid under that contract 
+of sale. 
+ 
+[Section 33 amended: No. 28 of 2006 s. 332.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Acquisition, development and disposal of property 
+Part III 
+Sale of houses and housing land 
+Division 4 
+s. 34 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 25 
+ 
+Published on www.legislation.wa.gov.au 
+34. 
+Limit on amount of unpaid purchase money 
+ 
+(1) 
+The balance of the purchase money for the time being remaining 
+unpaid under a contract of sale in respect of a sale under this 
+Division shall not exceed such sum as is determined by the 
+Minister for the purposes of this subsection by notice published 
+in the Government Gazette. 
+ 
+(2) 
+For the purposes of subsection (1) the Minister may determine 
+different sums in respect of land in different areas of the State. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part IV 
+Provision by the Authority of financial assistance for housing 
+Division 1 
+Loans 
+s. 35 
+ 
+ 
+page 26 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Part IV — Provision by the Authority of financial 
+assistance for housing 
+ 
+[Heading amended: No. 28 of 2006 s. 328.] 
+Division 1 — Loans 
+35. 
+Reference to house 
+ 
+ 
+A reference in this Division to a house in relation to the making 
+of a loan is a reference to a house that is, or is intended to be, 
+used by the person to whom the loan is to be made as a home 
+for himself and his family (if any). 
+36. 
+Loans to assist eligible persons 
+ 
+(1) 
+Subject to this Act the Authority may make a loan to any 
+eligible person in order to assist the eligible person — 
+ 
+(a) 
+to erect, complete, enlarge or improve a house on land 
+owned by him; or 
+ 
+(b) 
+to purchase land and erect a house thereon; or 
+ 
+(c) 
+to purchase a house and the land on which it is erected; 
+or 
+ 
+(d) 
+to purchase a partially erected house and the land on 
+which it is being erected and complete the house; or 
+ 
+(e) 
+to discharge any mortgage or liability already existing 
+on land owned by him and on which a house is erected, 
+or is being erected or is to be erected. 
+ 
+(2) 
+A reference in subsection (1) to land owned by an eligible 
+person is a reference to land of which the eligible person is the 
+beneficial owner in possession and includes — 
+ 
+(a) 
+Crown land (including any land held by the Authority) 
+or endowment lands of The University of Western 
+Australia, or of the trustees of the Public Education 
+Endowment or of any local government being land set 
+aside for residential purposes and held by the eligible 
+person for his own benefit under a lease or agreement; 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Provision by the Authority of financial assistance for housing 
+Part IV 
+Loans 
+Division 1 
+s. 37 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 27 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+Residential Leases, Miners’ Homestead Leases and 
+Residence Areas. 
+ 
+[Section 36 amended: No. 14 of 1996 s. 4; No. 28 of 2006 
+s. 332.] 
+37. 
+Loans to persons generally to purchase land from Authority 
+ 
+ 
+Subject to this Act the Authority may make a loan to any person 
+in order to assist the person to purchase from the Authority land 
+on which to erect a house. 
+ 
+[Section 37 amended: No. 28 of 2006 s. 332.] 
+38. 
+Loans to persons generally to improve houses 
+ 
+(1) 
+Subject to this Act the Authority may make a loan to any person 
+to assist the person to make alterations or additions to a house so 
+that the house may be brought into conformity with the 
+building, health or other local laws or standards of a local 
+government or with the Water Services Act 2012 or to improve 
+the standard of comfort or convenience of the house. 
+ 
+(2) 
+For the purpose of this section — 
+ 
+additions include the installation or improvement of water 
+supply, sewerage or drainage systems and all necessary fittings. 
+ 
+(3) 
+No loan shall be made under this section other than to a person 
+who satisfies the Authority that his financial position justifies 
+the assistance applied for. 
+ 
+[Section 38 amended: No. 73 of 1995 s. 188; No. 14 of 1996 
+s. 4; No. 28 of 2006 s. 332; No. 25 of 2012 s. 218.] 
+39. 
+Method of making loan 
+ 
+ 
+A loan under this Division may be made in one sum or in 
+progress payments from time to time at the discretion of the 
+Authority. 
+ 
+[Section 39 amended: No. 28 of 2006 s. 332.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part IV 
+Provision by the Authority of financial assistance for housing 
+Division 1 
+Loans 
+s. 40 
+ 
+ 
+page 28 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+40. 
+Limit on amount to be lent 
+ 
+(1) 
+The total amount lent to a person under this Division and for the 
+time being remaining owing shall not exceed such sum as is 
+determined by the Minister for the purposes of this subsection 
+by notice published in the Government Gazette. 
+ 
+(2) 
+For the purposes of subsection (1) the Minister may 
+determine — 
+ 
+(a) 
+different sums in respect of land in different areas of the 
+State; 
+ 
+(b) 
+different sums in respect of loans for different purposes. 
+41. 
+Security for repayment of loan 
+ 
+(1) 
+The repayment of every loan made under this Division together 
+with all interest and other money incidental to that loan or 
+properly charged against the borrower in respect thereof shall be 
+secured by — 
+ 
+(a) 
+a first or second mortgage in an approved form to the 
+Authority, of the borrower’s estate and interest in the 
+land on which the house to which the loan relates is 
+erected, or is being erected or is to be erected and in the 
+improvements (if any) already thereon and the 
+improvements (if any) that are to be made thereon with 
+the aid of the loan; and 
+ 
+(b) 
+such additional or collateral security (if any) as to the 
+Authority may seem fit in such form as the Authority 
+may require. 
+ 
+(2) 
+The borrower may execute a mortgage or other instrument of 
+security securing a loan under this Division notwithstanding 
+anything to the contrary in any enactment or law, or in the lease, 
+agreement or occupation certificate under which he holds the 
+land that is to be the subject of that mortgage or other 
+instrument. 
+ 
+[Section 41 amended: No. 28 of 2006 s. 332.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Provision by the Authority of financial assistance for housing 
+Part IV 
+Loans 
+Division 1 
+s. 42 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 29 
+ 
+Published on www.legislation.wa.gov.au 
+42. 
+Interest on loans 
+ 
+(1) 
+The Authority may, by determination approved by the Minister 
+and published in the Government Gazette, fix a standard rate of 
+interest to apply to loans under this Division. 
+ 
+(2) 
+Different standard rates of interest may be fixed under 
+subsection (1) in respect of different classes of loans. 
+ 
+(3) 
+The interest rate specified in a mortgage or other instrument of 
+security securing a loan under this Division shall be the standard 
+rate of interest most recently published under subsection (1) in 
+respect of loans of that class but the mortgage or other 
+instrument of security may provide for the interest rate to vary 
+in accordance with determinations published from time to time 
+under that subsection. 
+ 
+(4) 
+In subsection (3) interest rate in relation to a loan means the 
+rate of interest payable on the balance of the amount for the time 
+being advanced and remaining owing under the loan. 
+ 
+[Section 42 amended: No. 28 of 2006 s. 332.] 
+43. 
+Normal legal relationships to apply 
+ 
+ 
+The rights, powers and remedies of the Authority in relation to 
+loan transactions under this Division shall be those rights, 
+powers and remedies given by or under the mortgage or other 
+instrument of security together with such rights, powers and 
+remedies as are normally applicable to such transactions at law 
+or in equity. 
+ 
+[Section 43 amended: No. 28 of 2006 s. 332.] 
+44. 
+Protection of Authority’s interest 
+ 
+ 
+The Authority shall, whilst a loan under this Division is secured 
+by a mortgage of any land, be entitled, subject to the rights or 
+any prior mortgagee, to hold the documents of title to that land. 
+ 
+[Section 44 amended: No. 28 of 2006 s. 332.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part IV 
+Provision by the Authority of financial assistance for housing 
+Division 2 
+Guarantees and subsidies 
+s. 45 
+ 
+ 
+page 30 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+45. 
+Authority to obtain reports as to expenditure of loans 
+ 
+ 
+The Authority from time to time shall obtain reports from the 
+inspectors and valuers of the Authority as to the manner in 
+which moneys lent under this Division have been expended and 
+used by the respective borrowers, and as to the state and 
+condition of the improvements for the purpose of which those 
+moneys have respectively been lent, and generally as to the state 
+and condition of the properties in respect of which those moneys 
+have been lent. 
+ 
+[Section 45 amended: No. 28 of 2006 s. 332.] 
+Division 2 — Guarantees and subsidies 
+46. 
+Guarantee by Authority in certain cases 
+ 
+(1) 
+Where an eligible person desires to — 
+ 
+(a) 
+erect a house; or 
+ 
+(b) 
+complete a partially erected house; or 
+ 
+(c) 
+purchase a new house, 
+ 
+ 
+and is able without borrowing to pay so much of the cost of 
+erecting the house as the Authority approves but is unable to 
+borrow, without assistance under this section from the 
+Authority, sufficient money in order to enable him to pay the 
+balance of the cost, the Authority may assist him by guarantee 
+in order to enable him to do so. 
+ 
+(2) 
+In this section — 
+ 
+(a) 
+a reference to a house or new house is a reference to a 
+house that is or is intended to be used by the person to 
+whom the assistance is to be given as a home for himself 
+and his family (if any) but does not include a reference 
+to a house of which the value (exclusive of the value of 
+the land on which it is or is to be erected) exceeds such 
+sum as is determined by the Minister for the purposes of 
+this paragraph by notice published in the Government 
+Gazette; 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Provision by the Authority of financial assistance for housing 
+Part IV 
+Guarantees and subsidies 
+Division 2 
+s. 47 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 31 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+new house has the meaning given to that term in 
+section 3 of the Housing Loan Guarantee Act 1957 3. 
+ 
+(3) 
+For the purposes of subsection (2)(a) the Minister may 
+determine different sums in respect of houses in different areas 
+of the State. 
+ 
+[Section 46 amended: No. 28 of 2006 s. 332.] 
+47. 
+Payment of subsidies on account of loans made to eligible 
+persons 
+ 
+(1) 
+For the purpose of assisting eligible persons in obtaining houses 
+and land by subsidising the rate or amounts of interest payable 
+in respect of loans made to them by approved lending 
+institutions, the Authority may, with the approval of the 
+Minister — 
+ 
+(a) 
+make payments, on such terms and conditions as the 
+Minister approves, to approved lending institutions that 
+make loans to approved persons on the security of 
+freehold or leasehold property by way of mortgage; 
+ 
+(b) 
+enter into agreements with approved lending institutions 
+in order to facilitate and regulate the making of 
+payments under paragraph (a) and to ensure compliance 
+with the terms and conditions approved by the Minister 
+pursuant to that paragraph. 
+ 
+(2) 
+In this section — 
+ 
+approved lending institution means an institution, body or 
+person that is approved in writing by the Minister for the 
+purposes of this section; 
+ 
+approved person means an eligible person approved in writing 
+by the Authority for the purposes of this section. 
+ 
+[Section 47 amended: No. 28 of 2006 s. 332.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part V 
+Arrangements and agreements as to housing finance 
+Division 1 
+Arrangements with the Commonwealth 
+s. 48 
+ 
+ 
+page 32 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Part V — Arrangements and agreements as to housing 
+finance 
+Division 1 — Arrangements with the Commonwealth 
+48. 
+Terms used 
+ 
+ 
+In this Division — 
+ 
+Commonwealth Housing Act means any Act of the Parliament 
+of the Commonwealth relating to financial assistance to the 
+States, or to States including this State, for housing purposes; 
+ 
+Housing Agreement means any agreement made and entered 
+into between the Commonwealth and this State for housing 
+purposes including an agreement to which the other States, or 
+any of them are parties; 
+ 
+housing purposes includes — 
+ 
+(a) 
+assistance to persons to enable them to meet their 
+housing requirements; and 
+ 
+(b) 
+betterment of housing conditions; and 
+ 
+(c) 
+promotion of social welfare in relation to housing. 
+49. 
+Financial assistance from Commonwealth: powers of 
+Minister and Authority 
+ 
+(1) 
+The Minister and the Authority subject to the Minister are 
+hereby respectively authorised to do all acts and things 
+necessary or convenient for the purpose of enabling the State to 
+participate in any scheme or arrangement for the granting of 
+financial assistance by the Commonwealth for housing 
+purposes. 
+ 
+(2) 
+Without limiting the generality of subsection (1) — 
+ 
+(a) 
+the Minister and the Authority, on behalf of the State, 
+are hereby respectively invested with such powers, 
+functions, duties and responsibilities as are necessary or 
+convenient for — 
+ 
+(i) 
+enabling the State, and the Minister and the 
+Authority on behalf of the State, to obtain such 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Arrangements and agreements as to housing finance 
+Part V 
+Arrangements with the Commonwealth 
+Division 1 
+s. 50 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 33 
+ 
+Published on www.legislation.wa.gov.au 
+grants, assistance and benefits as are provided or 
+capable of being provided under a 
+Commonwealth Housing Act or a Housing 
+Agreement; and 
+ 
+(ii) 
+enabling the State, and the Minister and the 
+Authority, to fulfil such conditions and comply 
+with such other requirements as are necessary for 
+obtaining the grants, assistance and benefits 
+referred to in subparagraph (i); 
+ 
+(b) 
+the Authority, on behalf of the State, shall maintain any 
+account necessary to comply with conditions imposed 
+by, and fulfil objects and purposes set out in, a 
+Commonwealth Housing Act or in a Housing 
+Agreement and may pay moneys into, expend and 
+advance moneys from, and generally operate any such 
+account so as to comply with those conditions and fulfil 
+those objects and purposes. 
+ 
+[Section 49 amended: No. 28 of 2006 s. 332.] 
+50. 
+Housing assistance under agreements 
+ 
+(1) 
+Without limiting the generality of section 49 the Minister and 
+the Authority, subject to the Minister, are hereby respectively 
+authorised to administer any Housing Agreement for and on 
+behalf of the State. 
+ 
+(2) 
+The authority conferred by subsection (1) extends to the doing 
+of any act or thing before the coming into operation of a 
+Housing Agreement but in anticipation of and for the eventual 
+purposes of that agreement. 
+ 
+(3) 
+Subject to section 51, for the purposes of the administration of 
+any Housing Agreement all the powers, functions, duties, 
+authorities and responsibilities of the Authority as provided in 
+this Act or the Government Employees’ Housing Act 1964 shall 
+apply and extend to the Authority, and all the provisions of 
+those Acts, so far as they are applicable or can with necessary 
+adaptations and modifications be made applicable, shall apply in 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part V 
+Arrangements and agreements as to housing finance 
+Division 2 
+Agreements with lending institutions 
+s. 51 
+ 
+ 
+page 34 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+all respects and for all purposes in relation to projects for 
+housing purposes provided for and mentioned in that agreement 
+and undertaken by the State pursuant to that agreement. 
+ 
+[Section 50 amended: No. 28 of 2006 s. 329 and 332.] 
+51. 
+Regulations as to administration of agreements 
+ 
+(1) 
+Where any act, matter or thing required or authorised by any 
+provision of a Housing Agreement to be done by or on behalf of 
+the State for housing purposes cannot conveniently be done 
+under the provisions of this Act, the Governor may make 
+regulations for authorising the doing of such act, matter or thing. 
+ 
+(2) 
+Regulations made under subsection (1) shall be valid and have 
+effect notwithstanding that they are inconsistent with or 
+repugnant to a provision contained elsewhere in this Act. 
+Division 2 — Agreements with lending institutions 
+52. 
+Terms used and effect 
+ 
+(1) 
+In this Division — 
+ 
+home finance moneys means — 
+ 
+(a) 
+any moneys made available to the State by the 
+Commonwealth pursuant to a Commonwealth Housing 
+Act or a Housing Agreement for the purpose of 
+providing finance to assist persons to erect or purchase 
+homes for themselves and their families (if any); or 
+ 
+(b) 
+any moneys set aside by the Authority, out of any funds 
+available to it, for the purpose of providing finance to 
+assist persons to erect or purchase homes for themselves 
+and their families (if any); 
+ 
+instrument of constitution means the Act or other instrument by 
+which, a lending institution is constituted and by authority of, or 
+subject to, which, the institution carries on its business, and 
+includes rules, local laws, by-laws, regulations, and other 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Arrangements and agreements as to housing finance 
+Part V 
+Agreements with lending institutions 
+Division 2 
+s. 53 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 35 
+ 
+Published on www.legislation.wa.gov.au 
+subordinate authorisations effective under the Act or other 
+instrument; 
+ 
+lending institution means — 
+ 
+[(a) 
+deleted] 
+ 
+(b) 
+a lending authority of the State; or 
+ 
+(c) 
+a body approved by the Minister as a body to which 
+loans may be made under this Division; 
+ 
+loan agreement means an agreement between the State and a 
+lending institution in relation to a loan from home finance 
+moneys for on-lending by the institution to assist borrowers to 
+erect or purchase homes for themselves and their families (if 
+any), and the terms Commonwealth Housing Act and Housing 
+Agreement have the meanings respectively given to them in 
+Division 1. 
+ 
+(2) 
+Nothing in this Division authorises the making of a loan from 
+home finance moneys referred to in paragraph (a) of the definition 
+of that term in subsection (1) other than to an institution to which 
+such a loan may be made under the terms of the relevant 
+Commonwealth Housing Act or Housing Agreement. 
+ 
+[Section 52 amended: No. 14 of 1996 s. 4; No. 10 of 1998 
+s. 9(2); No. 26 of 1999 s. 87; No. 12 of 2001 s. 51; No. 17 of 
+2005 s. 28(2); No. 28 of 2006 s. 332.] 
+53. 
+Power to make loan agreements 
+ 
+ 
+Power to enter into and to carry out loan agreements with the 
+State is conferred by this Act on a lending institution, 
+notwithstanding that the power is not conferred by the 
+instrument of constitution of the lending institution, and 
+notwithstanding any provision of the instrument of constitution 
+to the contrary. 
+54. 
+Terms and conditions of agreement 
+ 
+(1) 
+The State and a lending institution may agree to the inclusion in 
+a loan agreement of such terms and conditions as they think fit, 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part V 
+Arrangements and agreements as to housing finance 
+Division 2 
+Agreements with lending institutions 
+s. 55 
+ 
+ 
+page 36 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+but the provisions of section 55 apply to, and are included by 
+virtue of this section in, every loan agreement entered into 
+before or after the coming into operation of this Act, whether 
+those provisions are or are not expressly included by the 
+agreement in it, or are expressly excluded by the agreement 
+from it. 
+ 
+(2) 
+Without limiting the generality of subsection (1), the conditions 
+which may be included in a loan agreement include 
+conditions — 
+ 
+(a) 
+fixing or limiting the rate of interest payable by 
+borrowers in respect of moneys advanced to them by the 
+lending institution; and 
+ 
+(b) 
+fixing or limiting the term or period of years for which 
+any advance may be made to a borrower by the lending 
+institution; and 
+ 
+(c) 
+prohibiting the lending institution from making any 
+advance to a borrower where the value of the house, or 
+of the house and land, in respect of which the advance is 
+sought, exceeds the amounts respectively determined 
+from time to time by the Minister; and 
+ 
+(d) 
+prohibiting the lending institution from making any 
+advance to a borrower whose income exceeds the 
+amount determined from time to time by the Minister. 
+55. 
+Floating security and charge 
+ 
+(1) 
+Subject to sections 56 and 57 where a lending institution makes 
+a loan agreement the State has, by virtue of this Act and 
+notwithstanding the provisions of any other Act or delegated 
+legislation, or of the instrument of constitution of the lending 
+institution, as floating security for the due observance by the 
+lending institution of the terms and conditions of the loan 
+agreement, a floating charge on the whole of the undertaking 
+and other property and assets, present and future, of the lending 
+institution. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Arrangements and agreements as to housing finance 
+Part V 
+Agreements with lending institutions 
+Division 2 
+s. 55 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 37 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(2) 
+A floating charge created by this section has priority to all other 
+charges, whether they arose or were created before, or arise or 
+are created after the coming into operation of this Act. 
+ 
+(3) 
+Any amount owing under a loan agreement by a lending 
+institution to the State is a debt owing to the Crown. 
+ 
+(4) 
+The floating security and charge and the debt owing to the 
+Crown are declared to be excluded matters for the purposes of 
+section 5F of the Corporations Act 2001 of the Commonwealth 
+in relation to Chapter 5 of that Act, to the extent to which 
+subsections (1), (2) and (3) of this section provide for them in a 
+way that would be inconsistent with that Chapter but for this 
+declaration and section 5F of that Act. 
+ 
+(5) 
+Unless and until — 
+ 
+(a) 
+proceedings are commenced for winding up of the 
+lending institution, whether — 
+ 
+(i) 
+under Chapter 5 of the Corporations Act 2001 of 
+the Commonwealth; or 
+ 
+[(ii) 
+see Act No. 17 of 2005 s. 28(3) and No. 19 of 
+2010 s. 51 item No. 31] 
+ 
+(iii) 
+by such other procedure as is provided for the 
+winding up of the lending institution; 
+ 
+ 
+or 
+ 
+(b) 
+the State, pursuant to the provisions, if any, of the loan 
+agreement in respect of which the security and charge 
+exist, directs otherwise, 
+ 
+ 
+the floating security and charge created by this section do not in 
+any way preclude the lending institution from, or limit the 
+lending institution in, carrying on business in the ordinary 
+course as if the security did not exist and the charge had not 
+been created. 
+ 
+[Section 55 amended: No. 10 of 1982 s. 28; No. 12 of 2001 
+s. 49; No. 20 of 2003 s. 30; No. 17 of 2005 s. 28(3); No. 19 of 
+2010 s. 51.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part V 
+Arrangements and agreements as to housing finance 
+Division 2 
+Agreements with lending institutions 
+s. 56 
+ 
+ 
+page 38 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+56. 
+Lending institution may give securities 
+ 
+(1) 
+Where a lending institution makes or has made a loan 
+agreement, it may, with the consent of the Treasurer and the 
+Minister, execute such securities over so much of its property 
+and assets both real and personal as create a charge thereon and 
+which in the opinion of the Treasurer secure the due observance 
+by the lending institution of the terms and conditions of the loan 
+agreement. 
+ 
+(2) 
+Where a lending institution makes or has made a loan agreement 
+and, pursuant to subsection (1), executes in relation to that 
+agreement such securities as are referred to in that subsection — 
+ 
+(a) 
+the provisions of section 55 do not have effect or cease 
+to have effect, as the case requires, so as to create any 
+floating charge or security by virtue of the making of 
+that agreement; and 
+ 
+(b) 
+the Treasurer may, on the recommendation of the 
+Minister, from time to time release from the charge such 
+securities as are, in his opinion, no longer necessary to 
+secure the due observance by the lending institution of 
+the terms and conditions of the loan agreement. 
+ 
+(3) 
+Any securities referred to in subsection (1) shall be, 
+notwithstanding the provisions of any other Act and 
+notwithstanding the existence on the property and assets of any 
+other charge or encumbrance, by virtue of this subsection, a first 
+charge on so much of the property and assets of the lending 
+institution as is from time to time the subject of those securities. 
+57. 
+Property and assets of lending institution may be released 
+ 
+ 
+Where — 
+ 
+(a) 
+a lending institution has, at any time before or after the 
+coming into operation of this Act, made a loan 
+agreement; and 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Arrangements and agreements as to housing finance 
+Part V 
+Agreements with lending institutions 
+Division 2 
+s. 58 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 39 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+the lending institution has not, in relation to that loan 
+agreement, executed securities of the kind described in 
+section 56(1), 
+ 
+ 
+the Treasurer may, at the request of the lending institution and 
+on the recommendation of the Minister, release from the 
+floating charge and security created by section 55 on the making 
+of the loan agreement, such of the property and assets of the 
+lending institution as are, in his opinion, no longer necessary to 
+secure the due observance by the lending institution of the terms 
+and conditions of the loan agreement. 
+58. 
+Power of inspection of affairs of lending institution 
+ 
+(1) 
+Where a lending institution is a party to a loan agreement the 
+appropriate Minister of the State may, whenever he thinks fit, 
+appoint a person to examine the affairs of the lending institution 
+and to report to the Minister on the result of the examination. 
+ 
+(2) 
+For the purpose of enabling him to make the examination, a 
+person so appointed has, and if necessary may exercise, the 
+powers conferred on a Royal Commission by the Royal 
+Commissions Act 1968. 
+ 
+(3) 
+An appointment in writing purporting to have been made under 
+this section and purporting to have been signed by a Minister is 
+sufficient authority for a person so appointed to exercise the 
+functions and powers of examination. 
+59. 
+Special powers of lending institutions to make advances of 
+moneys, other than by way of mortgage 
+ 
+ 
+Notwithstanding anything to the contrary contained in any 
+Act or delegated legislation or the instrument of constitution of 
+a lending institution, the lending institution may make advances 
+to a borrower other than upon security of freehold or leasehold 
+property by way of mortgage where — 
+ 
+(a) 
+the moneys being advanced to the borrower have been 
+loaned to the lending institution under a loan agreement; 
+and 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part V 
+Arrangements and agreements as to housing finance 
+Division 2 
+Agreements with lending institutions 
+s. 59 
+ 
+ 
+page 40 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+the moneys being advanced to the borrower will be used 
+by him to purchase a house erected upon, or to erect a 
+house upon, land which at the time the advance is made 
+is held by the Authority. 
+ 
+[Section 59 amended: No. 28 of 2006 s. 332.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Specialized housing and community facilities 
+Part VI 
+ 
+ 
+s. 60 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 41 
+ 
+Published on www.legislation.wa.gov.au 
+Part VI — Specialized housing and community 
+facilities 
+60. 
+Authority may provide specialized housing 
+ 
+(1) 
+For the purposes of this Act the Authority may — 
+ 
+(a) 
+erect, acquire or take leases of, and furnish and equip 
+specialized housing for the purpose of housing persons, 
+including students and aged and infirm persons, whose 
+housing requirements are not, in the opinion of the 
+Authority, otherwise adequately provided for under the 
+provisions of this Act; 
+ 
+(b) 
+let or lease residential units in specialized housing to 
+persons at such rentals, on such terms for such periods 
+and subject to such covenants and conditions as the 
+Authority considers fit and proper; 
+ 
+(c) 
+provide, in relation to specialized housing, such 
+amenities and facilities, separate or communal as, in the 
+opinion of the Authority, are necessary or desirable for 
+the comfort, health and convenience, or will serve a 
+beneficial purpose in connection with the requirements 
+of the persons to whom residential units in specialized 
+housing are let or leased; 
+ 
+(d) 
+provide for the proper conduct, management, control 
+and supervision of specialized housing, including the 
+provision of canteens and dining rooms and the 
+employment of caretakers, supervisors and other persons 
+necessary for the proper conduct, management, control 
+and supervision of specialized housing; 
+ 
+(e) 
+enter into arrangements with a local government or with 
+any person approved by the Minister under which the 
+local government or person shall undertake the conduct, 
+management, control and supervision of specialized 
+housing. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part VI 
+Specialized housing and community facilities 
+ 
+ 
+s. 61 
+ 
+ 
+page 42 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(2) 
+In subsection (1) specialized housing means a building or group 
+of buildings which contains a number of separate residential 
+units suitable for the housing of persons including students and 
+aged and infirm persons and which is designed so as to provide 
+living amenities and facilities available for use in common by 
+persons residing in those residential units. 
+ 
+[Section 60 amended: No. 14 of 1996 s. 4; No. 28 of 2006 
+s. 332.] 
+61. 
+Community facilities 
+ 
+(1) 
+In order to promote the establishment and growth of a 
+community in any area and to meet health, social, educational, 
+and recreational needs of the members of that community the 
+Authority may, with the consent of the Minister, acquire land, or 
+set aside land held by the Authority, for the purpose of 
+providing, or providing sites for, community facilities and 
+amenities and may, with the consent of the Minister — 
+ 
+(a) 
+erect on the land, and furnish and equip, any buildings 
+that the Authority considers necessary or desirable 
+having regard to the purpose for which the land was 
+acquired or set aside or enter into arrangements with a 
+public authority, or approved person for the erection, 
+furnishing and equipping of such a building; 
+ 
+(b) 
+enter into arrangements with a public authority or 
+approved person for the conduct, management, control, 
+maintenance and supervision of the land and any 
+building erected on the land and health, social, 
+educational and recreational activities to be carried on 
+on the land or in a building erected on the land; 
+ 
+(c) 
+sell, let or lease any of the land, or let or lease any 
+building erected on the land, for the purpose for which 
+the land was acquired or set aside; 
+ 
+(d) 
+surrender any of the land to Her Majesty for the purpose 
+for which it was acquired or set aside. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Specialized housing and community facilities 
+Part VI 
+ 
+ 
+s. 61 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 43 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(2) 
+In subsection (1) — 
+ 
+approved person means a person approved by the Minister; 
+ 
+community facilities and amenities includes gardens, parks, 
+public open spaces, places of recreation, shops, offices, theatres, 
+religious buildings, infant health centres, pre-school centres and 
+care centres for children, meeting halls, schools, kindergartens, 
+club and meeting rooms, libraries, swimming and bathing 
+facilities, health centres, hospitals and other public utilities, and 
+business or social facilities. 
+ 
+(3) 
+The Minister shall not give his consent to the exercise by the 
+Authority of its powers under subsection (1) to erect, furnish 
+and equip any building unless he is satisfied that an opportunity 
+has been given to the private sector to erect, furnish and equip 
+the building and that that sector is not willing to erect, furnish 
+and equip the building or is not willing to do so otherwise than 
+on terms that are unsuitable. 
+ 
+[Section 61 amended: No. 28 of 2006 s. 332.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part VIIA 
+Housing on Aboriginal land 
+Division 1 
+Preliminary matters 
+s. 62A 
+ 
+ 
+page 44 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Part VIIA — Housing on Aboriginal land 
+ 
+[Heading inserted: No. 6 of 2010 s. 9.] 
+Division 1 — Preliminary matters 
+ 
+[Heading inserted: No. 6 of 2010 s. 9.] 
+62A. 
+Terms used 
+ 
+ 
+In this Part — 
+ 
+AAPA means The Aboriginal Affairs Planning Authority 
+continued in existence under the AAPA Act section 8(1); 
+ 
+AAPA Act means the Aboriginal Affairs Planning Authority 
+Act 1972; 
+ 
+Aboriginal entity means any of these entities — 
+ 
+(a) 
+AAPA; 
+ 
+(b) 
+ALT; 
+ 
+(c) 
+a corporation registered under the Corporations 
+(Aboriginal and Torres Strait Islander) Act 2006 
+(Commonwealth); 
+ 
+(d) 
+an incorporated association under the Associations 
+Incorporation Act 2015 the membership of which is 
+wholly or principally composed of persons of Aboriginal 
+descent as defined in the AAPA Act section 4; 
+ 
+(e) 
+an entity prescribed by the regulations for this definition; 
+ 
+Aboriginal land means — 
+ 
+(a) 
+Crown land; or 
+ 
+(b) 
+freehold land that is owned by AAPA, ALT or the State, 
+ 
+over which an Aboriginal entity has power to grant a lease; 
+ 
+ALT means the Aboriginal Lands Trust established by the 
+AAPA Act section 20(1); 
+ 
+housing management agreement means an agreement entered 
+into under section 62B(1); 
+ 
+lease includes a sublease; 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Housing on Aboriginal land 
+Part VIIA 
+Housing management agreements 
+Division 2 
+s. 62B 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 45 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+nominated house, in relation to a housing management 
+agreement, has the meaning given in section 62D(2); 
+ 
+nominated lot, in relation to a housing management agreement, 
+has the meaning given in section 62D(1); 
+ 
+residential tenancy agreement has the meaning given in the 
+Residential Tenancies Act 1987 section 3. 
+ 
+[Section 62A inserted: No. 6 of 2010 s. 9; amended: No. 30 of 
+2015 s. 232.] 
+Division 2 — Housing management agreements 
+ 
+[Heading inserted: No. 6 of 2010 s. 9.] 
+62B. 
+Authority may enter into housing management agreement 
+ 
+(1) 
+The Authority may enter into a housing management agreement 
+in respect of Aboriginal land with an Aboriginal entity. 
+ 
+(2) 
+The purpose of a housing management agreement is to enable 
+the Authority to control and manage, on behalf of the 
+Aboriginal entity, the letting and leasing of housing on the 
+Aboriginal land. 
+ 
+(3) 
+This Part does not require the Authority to enter into a housing 
+management agreement with an Aboriginal entity. 
+ 
+[Section 62B inserted: No. 6 of 2010 s. 9.] 
+62C. 
+Wishes of Aboriginal inhabitants to be ascertained 
+ 
+ 
+The Authority cannot — 
+ 
+(a) 
+enter into a housing management agreement; or 
+ 
+(b) 
+list under section 62D a lot or house as a lot or house in 
+relation to which a housing management agreement 
+applies, 
+ 
+ 
+unless the Authority is satisfied that doing so would accord with 
+the wishes of the Aboriginal inhabitants of the Aboriginal land 
+to the extent those wishes can be ascertained and are practicable. 
+ 
+[Section 62C inserted: No. 6 of 2010 s. 9.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part VIIA 
+Housing on Aboriginal land 
+Division 2 
+Housing management agreements 
+s. 62D 
+ 
+ 
+page 46 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+62D. 
+Lots and houses to which housing management agreement 
+applies 
+ 
+(1) 
+A housing management agreement applies in relation to a lot (a 
+nominated lot) that is listed in the housing management 
+agreement for the period specified for the lot in the housing 
+management agreement. 
+ 
+(2) 
+A housing management agreement applies in relation to a house 
+(a nominated house) that — 
+ 
+(a) 
+is on a nominated lot; and 
+ 
+(b) 
+is listed in the housing management agreement, 
+ 
+ 
+for the period specified for the house in the housing 
+management agreement. 
+ 
+(3) 
+A housing management agreement must provide for these 
+matters — 
+ 
+(a) 
+a lot to be added to, or removed from, the list referred to 
+in subsection (1); 
+ 
+(b) 
+a house to be added to, or removed from, the list referred 
+to in subsection (2)(b); 
+ 
+(c) 
+a period referred to in subsection (1) or (2) to be varied. 
+ 
+[Section 62D inserted: No. 6 of 2010 s. 9.] 
+62E. 
+Rent for nominated lots and nominated houses 
+ 
+(1) 
+In this section — 
+ 
+rent has the meaning given in the Residential Tenancies 
+Act 1987 section 3. 
+ 
+(2) 
+Rent for the let or lease of a nominated lot or nominated house 
+is payable to the Authority. 
+ 
+(3) 
+The amount of rent payable is the amount determined by the 
+Authority and approved by the Minister. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Housing on Aboriginal land 
+Part VIIA 
+Housing management agreements 
+Division 2 
+s. 62F 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 47 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(4) 
+A determination under subsection (3) may provide for all or any 
+of these matters — 
+ 
+(a) 
+the payment of different rents in respect of different 
+nominated lots or nominated houses or different classes 
+of nominated lots or nominated houses; 
+ 
+(b) 
+the payment of different rents by tenants of different 
+classes; 
+ 
+(c) 
+the allowance of rebates in the circumstances and 
+subject to the conditions specified in the determination. 
+ 
+[Section 62E inserted: No. 6 of 2010 s. 9.] 
+62F. 
+Other terms of housing management agreement 
+ 
+ 
+A housing management agreement must provide for these 
+matters — 
+ 
+(a) 
+the Authority to determine, subject to this Part and the 
+Residential Tenancies Act 1987 as applied by 
+section 62G(1), the terms of a residential tenancy 
+agreement in respect of a nominated lot or nominated 
+house; 
+ 
+(b) 
+the Authority to decide, having regard to the wishes of 
+the Aboriginal inhabitants of the Aboriginal land to the 
+extent those wishes can be ascertained and are 
+practicable, to whom a nominated lot or nominated 
+house can be let or leased; 
+ 
+(c) 
+the Authority to execute, on behalf of the Aboriginal 
+entity as lessor, a residential tenancy agreement in 
+respect of a nominated lot or nominated house; 
+ 
+(d) 
+the period for which the housing management agreement 
+has effect; 
+ 
+(e) 
+the early termination of the housing management 
+agreement, but only if the parties to the agreement agree 
+to the early termination; 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part VIIA 
+Housing on Aboriginal land 
+Division 2 
+Housing management agreements 
+s. 62G 
+ 
+ 
+page 48 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(f) 
+the variation of the housing management agreement, but 
+only if the parties to the agreement agree to the 
+variation; 
+ 
+(g) 
+the effect of early termination or variation of the housing 
+management agreement on a residential tenancy 
+agreement executed by the Authority under the housing 
+management agreement; 
+ 
+(h) 
+any other matters prescribed by the regulations for this 
+section. 
+ 
+[Section 62F inserted: No. 6 of 2010 s. 9.] 
+62G. 
+Application of Residential Tenancies Act 1987 
+ 
+(1) 
+Subject to this Part and the housing management agreement, the 
+Residential Tenancies Act 1987 applies in relation to the let or 
+lease of a nominated lot or nominated house as if — 
+ 
+(a) 
+the nominated lot or nominated house were residential 
+premises as defined in section 3 of that Act; and 
+ 
+(b) 
+the Authority were the lessor, as defined in section 3 of 
+that Act, of those premises. 
+ 
+(2) 
+However, the Authority is not to be treated as the lessor of a 
+nominated lot or nominated house for any other purpose. 
+ 
+[Section 62G inserted: No. 6 of 2010 s. 9; amended: No. 60 of 
+2011 s. 100.] 
+62H. 
+No interest in land created, property acquired or 
+compensation payable 
+ 
+(1) 
+A housing management agreement does not create any interest 
+in Aboriginal land in favour of the Authority. 
+ 
+(2) 
+A housing management agreement is not an acquisition of 
+property. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Housing on Aboriginal land 
+Part VIIA 
+Housing management agreements 
+Division 2 
+s. 62I 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 49 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(3) 
+Compensation is not payable under any written law to an 
+Aboriginal entity or other person because — 
+ 
+(a) 
+an Aboriginal entity enters into a housing management 
+agreement; or 
+ 
+(b) 
+the Authority does anything that it is required or 
+permitted to do under a housing management agreement. 
+ 
+[Section 62H inserted: No. 6 of 2010 s. 9.] 
+62I. 
+No fees or charges payable in respect of housing 
+management agreement 
+ 
+ 
+A party to a housing management agreement cannot require the 
+payment of a fee or charge for — 
+ 
+(a) 
+entering into the housing management agreement; or 
+ 
+(b) 
+doing anything that the party is required or permitted to 
+do under the housing management agreement. 
+ 
+[Section 62I inserted: No. 6 of 2010 s. 9.] 
+62J. 
+Authority may act through agent 
+ 
+(1) 
+The Authority may enter into an agreement (an agency 
+agreement) with a person or body under which the person or 
+body is authorised to exercise as the Authority’s agent all or any 
+of the powers conferred on the Authority under a housing 
+management agreement. 
+ 
+(2) 
+The powers conferred on the Authority’s agent under the agency 
+agreement are exercisable by the Authority’s agent in 
+accordance with this Act, the housing management agreement 
+and the agency agreement. 
+ 
+(3) 
+The agency agreement may provide for the payment of a fee by 
+the Authority to the Authority’s agent or another person for 
+anything that the Authority’s agent is required or permitted to 
+do under the agency agreement. 
+ 
+[Section 62J inserted: No. 6 of 2010 s. 9.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part VIIA 
+Housing on Aboriginal land 
+Division 3 
+Miscellaneous matters 
+s. 62K 
+ 
+ 
+page 50 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+62K. 
+Delegation: powers and duties in relation to housing 
+management agreement 
+ 
+(1) 
+The Authority may delegate under this section to an officer of 
+the Authority any power or duty of the Authority under any of 
+these provisions — 
+ 
+(a) 
+another provision of this Division; 
+ 
+(b) 
+a provision of a housing management agreement; 
+ 
+(c) 
+a provision of a residential tenancy agreement in respect 
+of a nominated lot or nominated house; 
+ 
+(d) 
+a provision of the Residential Tenancies Act 1987 as 
+applied by section 62G(1). 
+ 
+(2) 
+The delegation must be in writing executed by the Authority. 
+ 
+(3) 
+An officer to whom a power or duty is delegated under this 
+section cannot delegate that power or duty. 
+ 
+(4) 
+An officer exercising or performing a power or duty that has 
+been delegated to the officer under this section is taken to do so 
+in accordance with the terms of the delegation unless the 
+contrary is shown. 
+ 
+(5) 
+This section does not limit the ability of the Authority to 
+perform a function through an officer of the Authority or an 
+agent. 
+ 
+[Section 62K inserted: No. 6 of 2010 s. 9.] 
+Division 3 — Miscellaneous matters 
+ 
+[Heading inserted: No. 6 of 2010 s. 9.] 
+62L. 
+Approval of Minister for Indigenous Affairs, AAPA or ALT 
+not required 
+ 
+(1) 
+In this section — 
+ 
+Minister for Indigenous Affairs means the Minister to whom 
+the administration of the AAPA Act is committed. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Housing on Aboriginal land 
+Part VIIA 
+Miscellaneous matters 
+Division 3 
+s. 62M 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 51 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(2) 
+Subsection (3) applies despite — 
+ 
+(a) 
+the AAPA Act and any other written law; and 
+ 
+(b) 
+the terms and conditions of the grant of any interest, 
+licence, right, title or estate under any written law by — 
+ 
+(i) 
+the Minister for Indigenous Affairs; or 
+ 
+(ii) 
+AAPA; or 
+ 
+(iii) 
+ALT. 
+ 
+(3) 
+The prior approval or consent of the Minister for Indigenous 
+Affairs, AAPA or ALT is not required for a person — 
+ 
+(a) 
+to enter into — 
+ 
+(i) 
+a housing management agreement; or 
+ 
+(ii) 
+a residential tenancy agreement in respect of a 
+nominated lot or nominated house; 
+ 
+ 
+or 
+ 
+(b) 
+to do anything the person is required or permitted to do 
+under an agreement referred to in paragraph (a). 
+ 
+[Section 62L inserted: No. 6 of 2010 s. 9.] 
+62M. 
+Application of Land Administration Act 1997 
+ 
+(1) 
+In this section — 
+ 
+reserved Aboriginal land means Aboriginal land that is Crown 
+land reserved for the purpose of the use and benefit of 
+Aboriginal inhabitants (however that purpose is described). 
+ 
+(2) 
+This Part does not affect the application of the Land 
+Administration Act 1997 in relation to Aboriginal land that is 
+Crown land. 
+ 
+(3) 
+To avoid doubt, it is declared that the letting and leasing of 
+housing on reserved Aboriginal land is, and always has been, 
+consistent with the purpose for which that land is reserved. 
+ 
+[Section 62M inserted: No. 6 of 2010 s. 9.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part VII 
+Finance 
+ 
+ 
+s. 62 
+ 
+ 
+page 52 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Part VII — Finance 
+62. 
+Funds 
+ 
+(1) 
+The funds necessary for the effectual execution of this Act shall 
+be such moneys as are from time to time appropriated by 
+Parliament and such moneys as the Authority may borrow or 
+lawfully receive under and subject to the provisions of this Act. 
+ 
+(2) 
+All such moneys are — 
+ 
+(a) 
+to be credited to an agency special purpose account 
+called the Housing Authority Account established under 
+section 16 of the Financial Management Act 2006; and 
+ 
+(b) 
+to be applied to the purposes of this Act. 
+ 
+(3) 
+Subsection (2) does not affect the operation of any provision of 
+a Commonwealth Housing Act or a Housing Agreement, within 
+the meaning of Part V of this Act, requiring separate accounts to 
+be kept in respect of moneys received and transactions entered 
+into in accordance with that Act or Agreement. 
+ 
+(4) 
+The interest on and contributions, at a rate to be fixed by the 
+Treasurer, to the sinking fund for the redemption of moneys 
+appropriated by Parliament to the purposes of this Act from the 
+Consolidated Account shall be paid by the Authority to the 
+Treasurer from the Account half-yearly and shall be applied by 
+the Treasurer to recoup the Consolidated Account in respect of 
+such interest and contributions. 
+ 
+(5) 
+Where a sinking fund is created for the redemption of moneys 
+borrowed by the Authority under section 63, the Authority shall, 
+from moneys standing to the credit of the Account — 
+ 
+(a) 
+pay the interest on those moneys; and 
+ 
+(b) 
+set aside contributions to that sinking fund at a rate to be 
+fixed by the Treasurer. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Finance 
+Part VII 
+ 
+ 
+s. 63 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 53 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(6) 
+Where moneys borrowed by the Authority under section 63 are 
+repayable by instalments, periodical instalments of principal and 
+interest shall be paid by the Authority from moneys standing to 
+the credit of the Account. 
+ 
+(7) 
+Moneys to the credit of a sinking fund created for the purpose of 
+the redemption of moneys borrowed by the Authority under 
+section 63 shall, until such time as they are required for that 
+purpose, be invested by the Treasurer in such securities as he 
+may think fit. 
+ 
+(8) 
+Moneys to the credit of the Account not immediately required 
+for the purposes of this Act may be invested by the Treasurer on 
+behalf of the Authority in such securities as he may think fit. 
+ 
+[Section 62 amended: No. 6 of 1993 s. 11 and 14(3); No. 49 of 
+1996 s. 64; No. 28 of 2006 s. 330 and 332; No. 77 of 2006 s. 4 
+and Sch. 1 cl. 87(5) and (6); No. 46 of 2009 s. 17.] 
+63. 
+Power to raise money 
+ 
+(1) 
+The Authority may from time to time, with the approval of the 
+Governor, given on the recommendation of the Minister and the 
+Treasurer — 
+ 
+(a) 
+borrow and reborrow moneys by the creation and issue 
+and sale of debentures and of inscribed stock for the 
+purpose of raising the funds of the Authority for the 
+effectual execution of this Act; 
+ 
+(b) 
+create and issue debentures and inscribed stock in 
+exchange for the debentures issued in respect of moneys 
+previously borrowed by the Authority and not repaid; 
+ 
+(c) 
+create and issue and sell any debentures and inscribed 
+stock for the purpose of raising money for redeeming 
+any outstanding loans and paying any expenses incurred 
+in the creation and issue of debentures and inscribed 
+stock and otherwise carrying out the provisions of 
+this Act; 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part VII 
+Finance 
+ 
+ 
+s. 63 
+ 
+ 
+page 54 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(d) 
+effect any conversion authorised by this section either by 
+arrangement with the holders of existing debentures or 
+registered owners of inscribed stock, or by the purchase 
+of the debentures or inscribed stock out of moneys 
+raised by the sale of debentures and inscribed stock, or 
+partly in one way and partly in the other. 
+ 
+(2) 
+The Minister and the Treasurer shall not make a 
+recommendation under subsection (1) unless a proposal 
+showing the term and particulars of the proposed loan, the rate 
+of interest to be paid thereon, the manner in which the loan is to 
+be repaid and the purposes to which the moneys borrowed are to 
+be applied has been submitted to them by the Authority and 
+approved by them. 
+ 
+(3) 
+Any moneys borrowed by the Authority under this section — 
+ 
+(a) 
+may be raised as one loan or as several loans; and 
+ 
+(b) 
+may be raised — 
+ 
+(i) 
+by the creation and issue of debentures; or 
+ 
+(ii) 
+by the creation and issue of inscribed stock; or 
+ 
+(iii) 
+partly as provided by subparagraph (i) and partly 
+as provided by subparagraph (ii). 
+ 
+(4) 
+For the purpose of making provision to repay either the whole 
+or any part of any loan raised by the Authority under this 
+section the Authority may, under and subject to this section, 
+borrow the moneys necessary for that purpose before the loan or 
+part of it becomes repayable. 
+ 
+(5) 
+The due repayment of all moneys borrowed by the Authority 
+under this section and the payment of all interest thereon are 
+hereby guaranteed by the Government of the State. 
+ 
+(6) 
+Any sums required by the Treasurer for fulfilling any guarantee 
+given by this Act shall be charged to the Consolidated Account 
+which is hereby to the necessary extent appropriated 
+accordingly, and any sums received or recovered by the 
+Treasurer from the Authority or otherwise in respect of a sum so 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Finance 
+Part VII 
+ 
+ 
+s. 64 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 55 
+ 
+Published on www.legislation.wa.gov.au 
+charged by the Treasurer shall be credited to the Consolidated 
+Account. 
+ 
+[Section 63 amended: No. 98 of 1985 s. 3; No. 6 of 1993 s. 11; 
+No. 49 of 1996 s. 64; No. 28 of 2006 s. 332; No. 77 of 2006 
+s. 4.] 
+64. 
+Provisions as to debentures and inscribed stock 
+ 
+(1) 
+Debentures or inscribed stock shall not be issued by the 
+Authority otherwise than — 
+ 
+(a) 
+in a form authorised by the Treasurer; or 
+ 
+(b) 
+as may be prescribed. 
+ 
+(2) 
+Interest secured by any debenture is payable half yearly or on 
+such other dates as are specified in the debenture at the rate and 
+in the manner therein specified. 
+ 
+(3) 
+No notice of any trust, express, implied or constructive, shall be 
+received by the Authority or by an officer of the Authority in 
+relation to a debenture or any inscribed stock issued pursuant to 
+this Act, and the Authority or the officer is not bound to see to 
+the execution of any trust to which a debenture or inscribed 
+stock may be subject. 
+ 
+(4) 
+A person advancing money to the Authority and receiving in 
+consideration of the advance a debenture or inscribed stock 
+issued under this Act is not bound to inquire into the application 
+of the money advanced and is not in any way responsible for the 
+non-application or misapplication thereof. 
+ 
+(5) 
+The Authority may pay brokerage in relation to any loan in 
+respect of which a debenture or inscribed stock is issued. 
+ 
+(6) 
+The Authority shall cause a register of debentures to be kept and 
+within a reasonable time after the issue of a debenture shall 
+cause to be made an entry in the register specifying the date, 
+terms and amount of the debenture and, in the case of a 
+debenture other than a bearer debenture, the holder of the 
+debenture. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part VII 
+Finance 
+ 
+ 
+s. 65 
+ 
+ 
+page 56 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(7) 
+Regulations made under this Act may make provision for the 
+creation and issue of inscribed stock and in relation to the 
+transfer or transmission of, and dealings in, inscribed stock. 
+ 
+[Section 64 inserted: No. 62 of 1983 s. 5; amended: No. 28 of 
+2006 s. 332.] 
+65. 
+Application of Financial Management Act 2006 and Auditor 
+General Act 2006 
+ 
+ 
+The provisions of the Financial Management Act 2006 and the 
+Auditor General Act 2006 regulating the financial 
+administration, audit and reporting of statutory authorities apply 
+to and in respect of the Authority and its operations. 
+ 
+[Section 65 inserted: No. 98 of 1985 s. 3; amended: No. 28 of 
+2006 s. 332; No. 77 of 2006 Sch. 1 cl. 87(7).] 
+[66-67.  Deleted: No. 98 of 1985 s. 3.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Miscellaneous 
+Part VIII 
+ 
+ 
+s. 68 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 57 
+ 
+Published on www.legislation.wa.gov.au 
+Part VIII — Miscellaneous 
+68. 
+Power to extend time 
+ 
+ 
+The Authority may, in cases of hardship, extend the due date for 
+the payment of any moneys payable to the Authority by a 
+purchaser, tenant, mortgagor or other debtor, for such time, and 
+upon such terms and conditions, as the Authority with the 
+approval of the Minister may determine. 
+ 
+[Section 68 amended: No. 28 of 2006 s. 332.] 
+69. 
+Protection from personal liability 
+ 
+(1) 
+An action in tort does not lie against a person other than the 
+Authority for anything that the person has done, in good faith, in 
+the performance or purported performance of a function under 
+this Act. 
+ 
+(2) 
+The protection given by subsection (1) applies even though the 
+thing done as described in that subsection may have been 
+capable of being done whether or not this Act had been enacted. 
+ 
+(3) 
+Despite subsection (1), neither the Authority nor the Crown is 
+relieved of any liability that it might have for another person 
+having done anything as described in that subsection. 
+ 
+(4) 
+In this section, a reference to the doing of anything includes a 
+reference to an omission to do anything. 
+ 
+[Section 69 inserted: No. 28 of 2006 s. 331.] 
+70. 
+Regulations generally 
+ 
+(1) 
+The Governor may make such regulations, not inconsistent with 
+this Act, as he considers necessary or convenient for giving 
+effect to the objects and purposes of this Act or for facilitating 
+the operation of this Act and of the Authority under this Act. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part VIII 
+Miscellaneous 
+ 
+ 
+s. 71 
+ 
+ 
+page 58 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(2) 
+A regulation may be made under this Act — 
+ 
+(a) 
+so as to apply generally or in a particular class of case, 
+or particular classes of cases, at all times or at a 
+specified time or specified times; 
+ 
+(b) 
+so as to require a matter affected by it to be in 
+accordance with a specified requirement, or as approved 
+by, or to the satisfaction of, the Authority or a specified 
+person or body, or class of person or body, and so as to 
+delegate to or confer upon the Authority or a specified 
+person or body, or class of person or body, a 
+discretionary authority; 
+ 
+(c) 
+so as to provide that in specified cases, or a specified 
+class of case, or specified classes of cases, whether on 
+specified conditions or unconditionally, persons or 
+things or a class or classes of persons or things may be 
+exempted from any provisions of the regulations either 
+wholly or to such extent as is specified; 
+ 
+(d) 
+so as to impose a penalty not exceeding $100 for a 
+breach of any regulation. 
+ 
+[Section 70 amended: No. 28 of 2006 s. 332.] 
+71. 
+Regulations as to fees 
+ 
+ 
+Without limiting the generality of section 70 the Governor may 
+make regulations prescribing the fees to be paid — 
+ 
+(a) 
+in respect of applications made under this Act; 
+ 
+(b) 
+for any valuation, inspection, report, plan or 
+specification prepared or made for the purposes of this 
+Act; 
+ 
+(c) 
+for the preparation by the Authority of tenancy 
+agreements, contracts of sale, transfers, mortgages, 
+discharges, releases and other instruments for the 
+purposes of this Act; 
+ 
+(d) 
+for the production by the Authority of documents of title 
+to property and other instruments; 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Miscellaneous 
+Part VIII 
+ 
+ 
+s. 72 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 59 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(e) 
+for or with respect to the management, use, control, 
+regulation and inspection of houses and other buildings 
+and land maintained or caused to be maintained by the 
+Authority, 
+ 
+ 
+and providing for the payment and recovery of such fees. 
+ 
+[Section 71 amended: No. 28 of 2006 s. 332.] 
+72. 
+Payment of fees and duties 
+ 
+ 
+The Authority may pay registration fees and duty under the 
+Duties Act 2008 in relation to a sale made under Division 4 of 
+Part III or a loan made under Division 1 of Part IV on behalf of 
+the person to whom the sale or loan is made and may recover 
+the amount so paid from him. 
+ 
+[Section 72 amended: No. 28 of 2006 s. 332; No. 12 of 2008 
+Sch. 1 cl. 17(2).] 
+73. 
+Addition of certain amounts to balance of contract price 
+or loan 
+ 
+(1) 
+The Authority may add to the balance owing under a contract of 
+sale under Division 4 of Part III or under a loan under 
+Division 1 of Part IV — 
+ 
+(a) 
+any amount payable to the Authority by the person to 
+whom the sale or loan was made in respect of 
+application, valuation, document preparation and other 
+fees and expenses in connection with the sale or loan; 
+ 
+(b) 
+any amount paid by the Authority pursuant to section 72 
+in relation to the sale or loan. 
+ 
+(2) 
+An amount may be added pursuant to subsection (1) to the 
+balance owing under a contract of sale or loan notwithstanding 
+that the total amount so owing will thereby exceed the sum 
+determined pursuant to section 34 or 40, whichever is 
+applicable, in respect of a contract of sale or loan of that kind. 
+ 
+[Section 73 amended: No. 28 of 2006 s. 332.] 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part IX 
+Saving and transitional provisions 
+ 
+ 
+s. 74 
+ 
+ 
+page 60 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Part IX — Saving and transitional provisions 
+74. 
+Continuity of status and operation 
+ 
+ 
+Unless the contrary intention appears in this Act — 
+ 
+(a) 
+all persons, things and circumstances appointed or 
+created by or under the repealed Act or existing or 
+continuing under the repealed Act immediately before 
+the coming into operation of this Act shall under and 
+subject to this Act continue to have the same status, 
+operation and effect as they would have had if that Act 
+had not been repealed; 
+ 
+(b) 
+in particular and without affecting the generality of 
+paragraph (a), the repeal effected by section 3 shall not 
+disturb the continuity of status, operation or effect of any 
+appointment, notice, certificate, contract, agreement, 
+debenture, charge, security, tenancy agreement, 
+authorisation, consent, approval, refusal, declaration, 
+determination, recommendation, request, appeal, 
+register, guarantee, deposit, insurance policy, 
+appraisement, re-appraisement, valuation, delegation, 
+estate, interest, notification, confirmation, validation, 
+extension of time, proceeding, liability or right made, 
+given, entered into, issued, granted, effected, 
+maintained, lodged, incurred or acquired or existing or 
+continuing by or under the repealed Act before the 
+coming into operation of this Act. 
+75. 
+Membership of Commission 
+ 
+ 
+Notwithstanding section 74 a person holding office as a member 
+of the Commission under section 9(1)(b) of the repealed Act 
+immediately before the coming into operation of this Act shall, 
+by virtue of the coming into operation of this Act, vacate that 
+office but, subject to this Act, such a person shall be eligible for 
+reappointment as a member of the Commission as constituted 
+under this Act. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Saving and transitional provisions 
+Part IX 
+ 
+ 
+s. 76 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 61 
+ 
+Published on www.legislation.wa.gov.au 
+76. 
+Continuation of provisions relating to earlier Acts and 
+bodies 
+ 
+ 
+Without limiting the generality of section 74 and 
+notwithstanding section 3 — 
+ 
+(a) 
+the provisions of subsections (3) and (4) of section 16 of 
+the repealed Act shall continue to apply to and in respect 
+of advances referred to in subsection (3) of that section; 
+ 
+(b) 
+the Commission shall continue to have the powers, 
+functions and duties conferred or imposed on it by 
+subsections (1) and (2) of section 21A of the repealed 
+Act and the provisions of subsection (3) of that section 
+continue to apply to the exercise of those powers and 
+functions and the carrying out of those duties. 
+77. 
+Contracts of sale, mortgages and tenancies 
+ 
+ 
+Contracts of sale, mortgages and tenancy agreements entered 
+into under the repealed Act and subsisting at the coming into 
+operation of this Act shall be deemed to be contracts of sale, 
+mortgages and tenancy agreements, respectively, pursuant to 
+this Act but — 
+ 
+(a) 
+the amount of the moneys, including interest (if any), 
+owing under such a contract of sale or mortgage and the 
+times at which and amounts in which those moneys shall 
+be paid or repaid; and 
+ 
+(b) 
+the rents and other amounts (if any) payable under such 
+a tenancy agreement; and 
+ 
+(c) 
+the proceedings that may be taken by, and the other 
+rights, remedies and obligations of, the Commission and 
+the other party or parties to such a contract of sale, 
+mortgage or tenancy agreement, 
+ 
+ 
+shall be determined in accordance with the provisions of the 
+contract of sale, mortgage or tenancy agreement and of the 
+repealed Act and the regulations thereunder. 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+Part IX 
+Saving and transitional provisions 
+ 
+ 
+s. 78 
+ 
+ 
+page 62 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+78. 
+Perpetual leases 
+ 
+ 
+Notwithstanding section 3 the provisions of the repealed Act 
+and the regulations thereunder shall continue to apply to and in 
+relation to perpetual leases granted under Part V of the repealed 
+Act and subsisting at the coming into operation of this Act. 
+79. 
+References 
+ 
+ 
+Where in any Act, regulation, rule, local law, by-law, 
+proclamation, Order in Council or other document or instrument 
+there is — 
+ 
+(a) 
+a reference to the Commission constituted under the 
+repealed Act; 
+ 
+(b) 
+a reference that, before the coming into operation of this 
+Act, was deemed to be a reference to the Commission 
+constituted under the repealed Act, 
+ 
+ 
+that reference shall, unless because of the context or of the 
+provisions of this Part it would be incorrect so to do, be read and 
+construed as reference to the Commission as preserved and 
+continued under this Act. 
+ 
+[Section 79 amended: No. 14 of 1996 s. 4.] 
+80. 
+Construction 
+ 
+ 
+This Part shall be construed as being in addition to the 
+provisions of the Interpretation Act 1918 4, and unless the 
+contrary intention appears, shall not be construed as limiting or 
+otherwise affecting the operation of those provisions to and in 
+relation to the repeal effected by section 3. 
+[Schedule deleted: No. 62 of 1983 s. 6.] 
+ 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 63 
+ 
+Published on www.legislation.wa.gov.au 
+Notes 
+1 
+This is a compilation of the Housing Act 1980 and includes the amendments made 
+by the other written laws referred to in the following table.  The table also contains 
+information about any reprint. 
+Compilation table 
+Short title 
+Number 
+and year 
+Assent 
+Commencement 
+Housing Act 1980 
+58 of 1980 
+24 Nov 1980 1 Jan 1981 (see s. 2 and Gazette 
+24 Dec 1980 p. 4349) 
+Companies 
+(Consequential 
+Amendments) Act 1982 
+s. 28 
+10 of 1982 
+14 May 1982 1 Jul 1982 (see s. 2(1) and 
+Gazette 25 Jun 1982 p. 2079) 
+Housing Amendment 
+Act 1983 5 
+62 of 1983 
+13 Dec 1983 Act other than s. 4:  
+13 Dec 1983 (see s. 2(1)); 
+s. 4: 1 Jan 1984 (see s. 2(2)) 
+Acts Amendment 
+(Financial Administration 
+and Audit) Act 1985 s. 3 
+98 of 1985 
+4 Dec 1985 
+1 Jul 1986 (see s. 2 and Gazette 
+30 Jun 1986 p. 2255) 
+Financial Administration 
+Legislation Amendment 
+Act 1993 s. 11 and 14(3)  
+6 of 1993 
+27 Aug 1993 1 Jul 1993 (see s. 2(1)) 
+Acts Amendment (Public 
+Sector Management) 
+Act 1994 s. 19 
+32 of 1994 
+29 Jun 1994 
+1 Oct 1994 (see s. 2 and 
+Gazette 30 Sep 1994 p. 4948) 
+Planning Legislation 
+Amendment Act 
+(No. 2) 1994 s. 46(7) 
+84 of 1994 
+13 Jan 1995 
+1 Mar 1995 (see s. 2 and 
+Gazette 21 Feb 1995 p. 567) 
+Water Agencies 
+Restructure (Transitional 
+and Consequential 
+Provisions) Act 1995 
+s. 188 
+73 of 1995 
+27 Dec 1995 1 Jan 1996 (see s. 2(2) and 
+Gazette 29 Dec 1995 p. 6291)  
+Local Government 
+(Consequential 
+Amendments) Act 1996 
+s. 4 
+14 of 1996 
+28 Jun 1996 
+1 Jul 1996 (see s. 2) 
+Statutory Corporations 
+(Liability of Directors) 
+Act 1996 s. 3 
+41 of 1996 
+10 Oct 1996 1 Dec 1996 (see s. 2 and 
+Gazette 12 Nov 1996 p. 6301) 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+page 64 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Short title 
+Number 
+and year 
+Assent 
+Commencement 
+Financial Legislation 
+Amendment Act 1996 s. 64 
+49 of 1996 
+25 Oct 1996 25 Oct 1996 (see s. 2(1)) 
+Transfer of Land 
+Amendment Act 1996 
+s. 153(1) 
+81 of 1996 
+14 Nov 1996 14 Nov 1996 (see s. 2(1)) 
+Acts Amendment (Land 
+Administration) Act 1997 
+Pt. 33 
+31 of 1997 
+3 Oct 1997 
+30 Mar 1998 (see s. 2 and 
+Gazette 27 Mar 1998 p. 1765) 
+Statutes (Repeals and 
+Minor Amendments) 
+Act (No. 2) 1998 s. 9(2) 
+10 of 1998 
+30 Apr 1998 30 Apr 1998 (see s. 2(1)) 
+Reprint of the Housing Act 1980 as at 27 May 1999 (includes amendments listed above) 
+Acts Amendment and 
+Repeal (Financial Sector 
+Reform) Act 1999 s. 87 
+26 of 1999 
+29 Jun 1999 
+1 Jul 1999 (see s. 2 and Gazette 
+30 Jun 1999 p. 2905) 
+Building Societies 
+Amendment Act 2001 s. 49 
+and 51 
+12 of 2001 
+13 Jul 2001 
+13 Jul 2001 (see s. 2) 
+Corporations 
+(Consequential 
+Amendments) Act 
+(No. 2) 2003 Pt. 10 
+20 of 2003 
+23 Apr 2003 15 Jul 2001 (see s. 2(1) and 
+Cwlth Gazette 13 Jul 2001 
+No. S285) 
+Acts Amendment 
+(Equality of Status) 
+Act 2003 Pt. 29 
+28 of 2003 
+22 May 2003 1 Jul 2003 (see s. 2 and Gazette 
+30 Jun 2003 p. 2579) 
+Housing Societies Repeal 
+Act 2005 s. 28 
+17 of 2005 
+5 Oct 2005 
+10 Jul 2010 (see s. 2(3) and 
+Gazette 9 Jul 2010 p. 3239) 
+Planning and 
+Development 
+(Consequential and 
+Transitional Provisions) 
+Act 2005 s. 15 
+38 of 2005 
+12 Dec 2005 9 Apr 2006 (see s. 2 and 
+Gazette 21 Mar 2006 p. 1078) 
+Machinery of 
+Government 
+(Miscellaneous 
+Amendments) Act 2006 
+Pt. 10 Div. 4 6 
+28 of 2006 
+26 Jun 2006 
+1 Jul 2006 (see s. 2 and Gazette 
+27 Jun 2006 p. 2347) 
+Reprint 2:  The Housing Act 1980 as at 18 Aug 2006 (includes amendments listed above 
+except those in the Housing Societies Repeal Act 2005) 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 65 
+ 
+Published on www.legislation.wa.gov.au 
+Short title 
+Number 
+and year 
+Assent 
+Commencement 
+Land Information 
+Authority Act 2006 s. 137 
+60 of 2006 
+16 Nov 2006 1 Jan 2007 (see s. 2(1) and 
+Gazette 8 Dec 2006 p. 5369) 
+Financial Legislation 
+Amendment and Repeal 
+Act 2006 s. 4 and 
+Sch. 1 cl. 87 
+77 of 2006  
+21 Dec 2006 1 Feb 2007 (see s. 2(1) and 
+Gazette 19 Jan 2007 p. 137) 
+Duties Legislation 
+Amendment Act 2008 
+Sch. 1 cl. 17 
+12 of 2008 
+14 Apr 2008 1 Jul 2008 (see s. 2(d)) 
+Statutes (Repeals and 
+Minor Amendments) 
+Act 2009 s. 17 
+46 of 2009 
+3 Dec 2009 
+4 Dec 2009 (see s. 2(b)) 
+Aboriginal Housing 
+Legislation Amendment 
+Act 2010 Pt. 2 
+6 of 2010 
+25 May 2010 1 Jul 2010 (see s. 2(b) and 
+Gazette 22 Jun 2010 p. 2767) 
+Standardisation of 
+Formatting Act 2010 
+s. 51 7 
+19 of 2010 
+(as amended 
+by No. 17 of 
+2014 
+s. 39(4)) 
+28 Jun 2010 
+it. 31 the amendment to s. 5(1): 
+11 Sep 2010 (see s. 2(b) and 
+Gazette 10 Sep 2010 p. 4341); 
+it. 31 the amendment to s. 55(5) 
+other than the amendment to 
+delete “or on termination” and 
+insert “or (ii) on termination”: 
+11 Sep 2010 (see s. 2(b) and 
+Gazette 10 Sep 2010 p. 4341) 
+Public Sector Reform 
+Act 2010 s. 89 
+39 of 2010 
+1 Oct 2010 
+1 Dec 2010 (see s. 2(b) and 
+Gazette 5 Nov 2010 p. 5563) 
+Reprint 3:  The Housing Act 1980 as at 10 Dec 2010 (includes amendments listed above) 
+Residential Tenancies 
+Amendment Act 2011 Pt. 5 
+Div. 2 
+60 of 2011 
+14 Dec 2011 1 Jul 2013 (see s. 2(b) and 
+Gazette 3 May 2013 p. 1735) 
+Water Services 
+Legislation Amendment 
+and Repeal Act 2012 
+s. 218 
+25 of 2012 
+3 Sep 2012 
+18 Nov 2013 (see s. 2(b) and 
+Gazette 14 Nov 2013 p. 5028) 
+Statutes (Repeals and 
+Minor Amendments) 
+Act 2014 s. 26 
+17 of 2014 
+2 Jul 2014 
+6 Sep 2014 (see s. 2(b) and 
+Gazette 5 Sep 2014 p. 3213) 
+Associations 
+Incorporation Act 2015 
+s. 232 
+30 of 2015 
+2 Nov 2015 
+1 Jul 2016 (see s. 2(b) and 
+Gazette 24 Jun 2016 p. 2291-2) 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+page 66 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+Short title 
+Number 
+and year 
+Assent 
+Commencement 
+Public Health 
+(Consequential Provisions) 
+Act 2016 s. 101 and Pt. 5 
+Div. 9 
+19 of 2016 
+25 Jul 2016 
+s. 101: 24 Jan 2017 (see 
+s. 2(1)(c) and Gazette 
+10 Jan 2017 p. 165); 
+Pt. 5 Div. 9: 20 Sep 2017 (see 
+s. 2(1)(c) and Gazette 
+19 Sep 2017 p. 4880) 
+Reprint 4: The Housing Act 1980 as at 2 Sep 2016 (includes amendments listed above 
+except the Public Health (Consequential Provisions) Act 2016) 
+2 
+The body preserved and continued by this Act is now called the “Housing 
+Authority” (see s. 6). 
+3 
+Repealed by the Housing Societies Repeal Act 2005. 
+4 
+Repealed by the Interpretation Act 1984 s. 77(1). 
+5 
+The Housing Amendment Act 1983 s. 4(2) is a transitional provision that is of no 
+further effect. 
+6 
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 10 
+Div. 6 reads as follows: 
+ 
+Division 6 — Transitional matters 
+336. 
+Financial reporting 
+ 
+(1) 
+Despite the continuation of the former bodies as part of the 
+Housing Authority, section 65A of the Financial Administration 
+and Audit Act 1985 applies in relation to the preparation and 
+submission of a final report in respect of the former body as if — 
+ 
+(a) 
+at commencement, it were abolished; 
+ 
+(b) 
+references in that section to a department were references 
+to the former body; and 
+ 
+(c) 
+references in that section to provisions of sections 62 to 
+65 of the Financial Administration and Audit Act 1985 
+were references to the equivalent provisions of 
+sections 66 to 70 of that Act, 
+ 
+ 
+except that — 
+ 
+(d) 
+the period to which the final report is to relate is the final 
+period; and 
+ 
+(e) 
+the references in sections 66(1), 68 and 70(1) to the end 
+of the financial year are to be read as references to the 
+end of the final period. 
+ 
+(2) 
+If at commencement, any duty imposed by Part II Division 14 of 
+the Financial Administration and Audit Act 1985 on the 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 67 
+ 
+Published on www.legislation.wa.gov.au 
+accountable authority of the former body has not been complied 
+with in relation to the former body for any financial year that 
+expired before commencement, that duty subsists and is to be 
+performed by the reporting officer as if the reporting officer were 
+the accountable authority. 
+ 
+(3) 
+The time within which the reporting officer is to perform a duty 
+referred to in subsection (2) is extended until the end of the day 
+that is 2 months after the day on which the reporting officer is 
+appointed, but this subsection does not prevent the time from 
+being extended again under section 70 of the Financial 
+Administration and Audit Act 1985. 
+ 
+(4) 
+The Housing Authority is to give the reporting officer access to all 
+records necessary for the purposes of this section. 
+ 
+(5) 
+In this section — 
+ 
+final period means the period starting at the beginning of the 
+1 July immediately before commencement and ending 
+immediately before commencement; 
+ 
+reporting officer means the person appointed under 
+section 65A(2) of the Financial Administration and Audit 
+Act 1985 as applied because of subsection (1). 
+337. 
+References to former bodies 
+ 
+ 
+After commencement, a reference to the former body in an 
+instrument or other document is to be taken to be a reference to the 
+Housing Authority unless the contrary intention appears or the 
+context otherwise requires. 
+338. 
+Government Employees’ Housing Act 1964 
+ 
+(1) 
+The Government Employees’ Housing Fund referred to in 
+section 24(1) of the Government Employees’ Housing Act 1964 as 
+in force after commencement is a continuation of the Government 
+Employees’ Housing Authority Fund referred to in that section as 
+in force before commencement. 
+ 
+(2) 
+After commencement, a reference to the Government Employees’ 
+Authority Housing Fund in an instrument or other document is to 
+be taken to be a reference to the Government Employees’ Housing 
+Fund referred to in section 24(1) of the Government Employees’ 
+Housing Act 1964 as in force after commencement unless the 
+contrary intention appears or the context otherwise requires. 
+339. 
+Housing Act 1980 
+ 
+(1) 
+After commencement, a reference to The State Housing 
+Commission in an instrument or other document is to be taken to 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+page 68 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+be a reference to the Housing Authority unless the contrary 
+intention appears or the context otherwise requires. 
+ 
+(2) 
+The office of chief executive officer of the Housing Authority is a 
+continuation of the office of general manager of The State 
+Housing Commission referred to in the Housing Act 1980 as in 
+force before commencement. 
+ 
+(3) 
+The Housing Authority Fund referred to in section 62(2) of the 
+Housing Act 1980 as in force after commencement is a 
+continuation of The State Housing Commission Fund referred to 
+in that subsection as in force before commencement. 
+ 
+(4) 
+After commencement, a reference to The State Housing 
+Commission Fund in an instrument or other document is to be 
+taken to be a reference to the Housing Authority Fund referred to 
+in section 62(2) of the Housing Act 1980 as in force after 
+commencement unless the contrary intention appears or the 
+context otherwise requires. 
+ 
+(5) 
+Section 69 of the Housing Act 1980, as in force before 
+commencement, continues to apply in relation to things done or 
+omitted to be done and agreements entered into before 
+commencement. 
+340. 
+Interpretation 
+ 
+ 
+In this Division — 
+ 
+commencement means the time at which section 314 comes into 
+operation; 
+ 
+former body means — 
+ 
+(a) 
+the Country Housing Authority established by section 4 
+of the Country Housing Act 1998 as in force before 
+commencement; 
+ 
+(b) 
+the Government Employees’ Housing Authority 
+established by section 8 of the Government Employees’ 
+Housing Act 1964 as in force before commencement; 
+ 
+Housing Authority means the Housing Authority referred to in 
+section 6(4) of the Housing Act 1980 as in force after 
+commencement. 
+ 
+7 
+The Standardisation of Formatting Act 2010 s. 51 Table in item 31 in the row 
+relating to s. 55(5) had not come into operation when it was deleted by the Statutes 
+(Repeals and Minor Amendments) Act 2014 s. 39(4). 
+ 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+Defined terms 
+ 
+ 
+As at 20 Sep 2017 
+Version 04-c0-01 
+page 69 
+ 
+Published on www.legislation.wa.gov.au 
+Defined terms 
+ 
+[This is a list of terms defined and the provisions where they are defined.  
+The list is not part of the law.] 
+Defined term 
+Provision(s) 
+AAPA .............................................................................................................. 62A 
+AAPA Act ........................................................................................................ 62A 
+Aboriginal entity .............................................................................................. 62A 
+Aboriginal land ................................................................................................ 62A 
+Account ............................................................................................................ 5(1) 
+additions ......................................................................................................... 38(2) 
+agency agreement .........................................................................................62J(1) 
+ALT ................................................................................................................. 62A 
+approved form .................................................................................................. 5(1) 
+approved lending institution .......................................................................... 47(2) 
+approved person .................................................................................. 47(2), 61(2) 
+Authority .......................................................................................................... 5(1) 
+Commonwealth Housing Act ................................................................... 48, 52(1) 
+community facilities and amenities................................................................ 61(2) 
+Crown land ....................................................................................................... 5(1) 
+document..................................................................................................... 11B(4) 
+eligible person .................................................................................................. 5(2) 
+employing authority .................................................................................... 18A(4) 
+former body ..................................................................................................... 6(5) 
+home finance moneys .................................................................................... 52(1) 
+house ................................................................................................................ 5(1) 
+Housing Agreement ................................................................................. 48, 52(1) 
+housing management agreement ...................................................................... 62A 
+housing purposes................................................................................................. 48 
+information ................................................................................................. 11B(4) 
+instrument of constitution .............................................................................. 52(1) 
+interest rate .......................................................................................... 33(7), 42(4) 
+land .................................................................................................................. 5(1) 
+lease ................................................................................................................. 62A 
+lending institution .......................................................................................... 52(1) 
+loan .................................................................................................................. 5(1) 
+loan agreement ............................................................................................... 52(1) 
+merger time ...................................................................................................... 6(5) 
+Minister for Indigenous Affairs ................................................................... 62L(1) 
+mortgage .......................................................................................................... 5(1) 
+new house ................................................................................................. 46(2)(b) 
+nominated house ................................................................................ 62A, 62D(2) 
+nominated lot ..................................................................................... 62A, 62D(1) 
+officer of the Authority .................................................................................... 5(1) 
+owner ............................................................................................................... 5(1) 
+
+--------------------------------------------------------------------------------
+Housing Act 1980 
+ 
+ 
+ 
+ 
+Defined terms 
+ 
+ 
+page 70 
+Version 04-c0-01 
+As at 20 Sep 2017 
+ 
+Published on www.legislation.wa.gov.au 
+public authority ................................................................................................ 5(1) 
+Public Service ............................................................................................. 18A(4) 
+purchase ........................................................................................................... 5(1) 
+rent ............................................................................................................... 62E(1) 
+rents ............................................................................................................... 31(3) 
+repealed Act ..................................................................................................... 5(1) 
+reserved Aboriginal land .............................................................................62M(1) 
+residential tenancy agreement .......................................................................... 62A 
+section .............................................................................................................. 5(1) 
+sell .................................................................................................................... 5(1) 
+specialized housing ........................................................................................ 60(2) 
+street ................................................................................................................. 5(1) 
+subdivided land .............................................................................................. 24(2) 
+subsection ........................................................................................................ 5(1) 
+tenancy agreement ........................................................................................... 5(1) 
+tenant ............................................................................................................... 5(1) 
+Treasurer .......................................................................................................... 5(1) 
+ 
+ 
+
+--------------------------------------------------------------------------------

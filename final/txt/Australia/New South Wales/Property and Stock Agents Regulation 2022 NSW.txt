@@ -1,0 +1,3740 @@
+Property and Stock Agents Regulation 2022
+[2022-501]
+New South Wales
+New South Wales
+Status Information
+Currency of version
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Legislation on this site is usually updated within 3 working days after a change to the legislation.
+Provisions in force
+The provisions displayed in this version of the legislation have all commenced.
+Notes—
+•
+Does not include amendments by
+Strata Schemes Legislation Amendment Act 2025 No 14 (not commenced)
+•
+Staged repeal status
+This legislation is currently due to be automatically repealed under the Subordinate Legislation Act 1989
+on 1 September 2027
+Authorisation
+This version of the legislation is compiled and maintained in a database of legislation by the Parliamentary
+Counsel's Office and published on the NSW legislation website, and is certified as the form of that legislation that
+is correct under section 45C of the Interpretation Act 1987.
+File last modified 4 April 2025
+Certified by the NSW Parliamentary Counsel as being published on www.legislation.nsw.gov.au
+Page 1 of 89
+
+--------------------------------------------------------------------------------
+Property and Stock Agents Regulation 2022
+New South Wales
+New South Wales
+Contents
+Part 1 Preliminary.......................................................................................................................6
+1 Name of Regulation ...........................................................................................................................6
+2 Commencement ................................................................................................................................6
+3 Definitions ......................................................................................................................................... 6
+Part 2 Conduct of agency business ..................................................................................7
+Division 1 Functions of agents and assistant agents ............................................7
+4 Real estate agent functions—the Act, s 3A........................................................................................7
+5 Functions real estate agents and assistant real estate agents may exercise—the Act, s 10A ...........8
+6 Functions stock and station agents and assistant stock and station agents may exercise—the Act, s
+10A
+............................................................................................................................................................... 8
+7 Functions strata managing agents and assistant strata managing agents may exercise—the Act, s 10A
+............................................................................................................................................................... 9
+Division 2 General conduct requirements ....................................................................9
+8 Rules of conduct—the Act, s 37 .........................................................................................................9
+9 Contents of agency agreements—the Act, s 55...............................................................................10
+10 Service of agency agreements—the Act, s 55 .................................................................................11
+11 Provision of financial and investment advice—the Act, s 46............................................................12
+12 Professional indemnity insurance—the Act, s 22 .............................................................................13
+Part 3 Auctions ...........................................................................................................................14
+13 Definitions ....................................................................................................................................... 14
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 2 of 89
+
+--------------------------------------------------------------------------------
+14 Making Bidders Records—the Act, s 68 ...........................................................................................15
+15 Bidders Record exemptions—the Act, s 4 ........................................................................................16
+16 Keeping Bidders Records—the Act, ss 68 and 104...........................................................................16
+17 Proof of identity for Bidders Records—the Act, ss 68 and 69...........................................................16
+18 Conditions of sale by auction—the Act, s 77....................................................................................18
+19 Notification of auction conditions—the Act, s 77 .............................................................................19
+20 Warnings about bidders’ obligations—the Act, ss 66, 78 and 83.....................................................20
+Part 4 Trust money ...................................................................................................................21
+21 Provision of unique identifying number when opening a trust account—the Act, ss 86 and 91.......21
+22 Receipts for trust money—the Act, s 86 ..........................................................................................22
+23 Receipts for trust money—additional requirements for strata managing agents—the Act, s 86 .....23
+24 Banking of trust money—the Act, s 86 ............................................................................................23
+25 Payment of trust money by cheque or electronic funds transfer—the Act, s 86..............................24
+26 Trust deposits—the Act, s 86 ...........................................................................................................25
+27 Record of trust account transactions—the Act, s 86........................................................................26
+28 Journal—the Act, s 86 ......................................................................................................................27
+29 Trust account ledger—the Act, s 86.................................................................................................27
+30 Trust account ledger trial balance—the Act, s 86 ............................................................................28
+31 Records of trust money to be kept by licensees—the Act, s 86 .......................................................29
+32 Records—additional requirements for strata managing agents—the Act, s 86................................29
+33 Computer systems control—the Act, s 86........................................................................................30
+34 Computer systems back-up requirements—the Act, s 86................................................................31
+35 Exemptions—the Act, ss 90 and 91 .................................................................................................31
+Part 5 Records—the Act, ss 104 and 230 ....................................................................32
+36 Records and book entries to be in English language .......................................................................32
+37 Records of property reports to be kept by real estate agents .........................................................32
+38 Records of purchased livestock to be kept by stock and station agents..........................................33
+39 Records of livestock sales to be kept by stock and station agents ..................................................34
+40 Copy of accounts to be kept as record by strata managing agent ..................................................35
+41 Records to be prepared by strata managing agent .........................................................................35
+42 Contents of record to be prepared by strata managing agent.........................................................36
+43 Managing agent to permit strata and association committees to inspect records ..........................37
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 3 of 89
+
+--------------------------------------------------------------------------------
+Part 6 Exemptions.....................................................................................................................37
+44 Licensee in charge of business—the Act, s 31.................................................................................37
+45 Sharing of commission—the Act, ss 3 and 4....................................................................................38
+46 Subagency agreements—the Act, s 34............................................................................................39
+47 Disclosure of material facts—residential tenancy agreements—the Act, s 4...................................39
+48 Agency agreements—the Act, ss 4 and 230 ....................................................................................39
+49 Proposed contract for sale of residential property—the Act, s 63....................................................39
+50 Exemption for certain visitor information centres or short-term accommodation booking agents—the
+Act, s 4
+............................................................................................................................................................. 40
+51 Persons acting as travel agents—the Act, s 4..................................................................................40
+52 Persons acting on behalf of government departments and certain statutory bodies—the Act, s 5
+............................................................................................................................................................. 41
+52AA Landcom—the Act, ss 4 and 230.................................................................................................41
+Part 7 Miscellaneous ...............................................................................................................42
+52A Certificate of registration longer than 4 years—the Act, s 26AA ...................................................42
+53 Notice of change of registered office—the Act, s 28........................................................................42
+54 Meaning of “Operating Account”—the Act, s 123 ............................................................................42
+55 Requests for itemised account—the Act, ss 36 and 101..................................................................42
+56 Levies—the Act, s 169 .....................................................................................................................43
+57 Complaints and discipline—the Act, s 192.......................................................................................43
+58 The Register—the Act, s 220 ...........................................................................................................44
+59 Application of Licensing and Registration (Uniform Procedures) Act 2002—the Act, s 17 ...............45
+60 Misrepresentation by licensee or registered person by failing to disclose material facts—the Act, ss 4
+and 52
+............................................................................................................................................................. 46
+61 Fees and Compensation Fund contributions—the Act, ss 17A and 230 ...........................................47
+62 Secretary’s power to waive, reduce, postpone or refund fees—the Act, s 230................................48
+63 Partial refund of application fees for certain licences and certificates—the Act, s 230....................48
+64 Savings............................................................................................................................................ 49
+Schedule 1 General rules of conduct applying to all agents and assistant
+agents
+............................................................................................................................................................. 49
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 4 of 89
+
+--------------------------------------------------------------------------------
+Schedule 2 Rules specific to real estate agents and assistant real estate
+agents
+............................................................................................................................................................. 53
+Schedule 3 Rules specific to stock and station agents and assistant
+stock and station agents
+............................................................................................................................................................. 62
+Schedule 4 Rules specific to strata managing agents and assistant
+strata managing agents
+............................................................................................................................................................. 67
+Schedule 5 Terms applying to all agency agreements........................................69
+Schedule 6 Terms specific to agency agreement for sale of residential
+property
+............................................................................................................................................................. 71
+Schedule 7 Terms specific to buyer’s agent agency agreement ...................73
+Schedule 8 Terms specific to agency agreement for sale of rural land ....73
+Schedule 9 Terms specific to agency agreement for sale of business.......76
+Schedule 10 Terms specific to agency agreement for management of
+residential property or rural land
+............................................................................................................................................................. 77
+Schedule 11 Terms specific to agency agreement for leasing of
+residential property or rural land
+............................................................................................................................................................. 78
+Schedule 12 Terms specific to agency agreement for management of
+strata or community title land
+............................................................................................................................................................. 78
+Schedule 13 Penalty notice offences.............................................................................80
+Schedule 14 Fees and Compensation Fund contributions ................................84
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 5 of 89
+
+--------------------------------------------------------------------------------
+Property and Stock Agents Regulation 2022
+New South Wales
+New South Wales
+Part 1 Preliminary
+1
+Name of Regulation
+This Regulation is the Property and Stock Agents Regulation 2022.
+2
+Commencement
+This Regulation commences on 1 September 2022.
+Note—
+This Regulation replaces the Property and Stock Agents Regulation 2014, which is repealed on 1 September
+2022 by the Subordinate Legislation Act 1989, section 10(2).
+3
+Definitions
+In this Regulation—
+affiliate, in relation to an entity (the first entity), means—
+(a) another entity controlled, within the meaning of the Corporations Act, section 50AA,
+by the first entity, or
+(b) if the first entity is a body corporate—an entity that is a related entity of the first
+entity.
+Bidders Record, for Part 3—see section 13.
+buyer’s agent means—
+(a) a real estate agent acting for a buyer, or a prospective buyer, of land, and
+(b) an assistant real estate agent acting, to the extent permitted under the Act and this
+Regulation, for a buyer, or a prospective buyer, of land.
+commercial property agency work means selling, purchasing, exchanging, leasing,
+managing or otherwise dealing with property other than residential property or rural land.
+entity has the same meaning as in the Corporations Act, section 9.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 6 of 89
+
+--------------------------------------------------------------------------------
+fee unit—see Schedule 14, Part 2.
+licensee in charge—means the holder of a class 1 licence employed under the Act,
+section 31 to be in charge of a business.
+property, for Part 3—see section 13.
+related entity has the same meaning as in the Corporations Act, section 9.
+residential tenancy agreement has the same meaning as in the Residential Tenancies
+Act 2010.
+the Act means the Property and Stock Agents Act 2002.
+transitional assistant stock and station agent certificate means a certificate of
+registration to which the Act, Schedule 1, clause 37(3) applies.
+trust money has the same meaning as in the Act, Part 7.
+vendor bid, for Part 3—see section 13.
+Note—
+The Act and the Interpretation Act 1987 contain definitions and other provisions that affect the interpretation
+and application of this Regulation.
+Part 2 Conduct of agency business
+Division 1 Functions of agents and assistant agents
+4
+Real estate agent functions—the Act, s 3A
+(1) For the Act, section 3A(1), definition of real estate agent functions, the functions—
+(a) include acting as an auctioneer or agent in relation to a parcel of rural land with
+an area of 20 hectares or less, and
+(b) do not include a person undertaking commercial property agency work on behalf
+of—
+(i) an affiliate of the person, or
+(ii) an entity that owns, whether or not together with an affiliate of the entity, a
+major property holding.
+(2) In this section—
+major property holding means property that has—
+(a) an aggregate market value of $40,000,000 or more, or
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 7 of 89
+
+--------------------------------------------------------------------------------
+(b) an aggregate gross floor area of 20,000m2 or more.
+5
+Functions real estate agents and assistant real estate agents may exercise—the Act, s
+10A
+(1) A real estate agent who holds a class 1 or class 2 licence may exercise all real estate
+agent functions.
+(2) Despite subsection (1), a real estate agent may not authorise the withdrawal of
+money from a trust account unless the real estate agent is the licensee in charge of
+the business to which the trust account relates.
+(3) An assistant real estate agent—
+(a) may exercise all real estate agent functions other than the functions described in
+the Act, section 3A(2), definition of real estate sale or leasing functions,
+paragraphs (a) and (b), but
+(b) may not, in the person’s capacity as an assistant real estate agent—
+(i) enter into a contract for the sale of land, or
+(ii) enter into an agency agreement or a franchising agreement, or
+(iii) authorise the withdrawal of money from a trust account.
+6
+Functions stock and station agents and assistant stock and station agents may
+exercise—the Act, s 10A
+(1) A stock and station agent who holds a class 1 or class 2 licence may exercise all stock
+and station agent functions.
+(2) Despite subsection (1), a stock and station agent may not authorise the withdrawal of
+money from a trust account unless the stock and station agent is the licensee in
+charge of the business to which the trust account relates.
+(3) An assistant stock and station agent—
+(a) may exercise all stock and station agent functions other than the function
+described in the Act, section 3A(2), definition of real estate sale or leasing
+functions, paragraph (b), but
+(b) may not, in the person’s capacity as an assistant stock and station agent—
+(i) enter into a contract for the sale of land, or
+(ii) enter into an agency agreement, other than an agency agreement relating
+only to the sale or purchase of livestock, or
+(iii) enter into a franchising agreement, or
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 8 of 89
+
+--------------------------------------------------------------------------------
+(iv) authorise the withdrawal of money from a trust account.
+(4) In this section—
+stock and station agent functions means the functions referred to in the Act,
+section 3(1), definition of stock and station agent.
+7
+Functions strata managing agents and assistant strata managing agents may
+exercise—the Act, s 10A
+(1) A strata managing agent who holds a class 1 or class 2 licence may exercise all strata
+managing agent functions.
+(2) Despite subsection (1), a strata managing agent may not authorise the withdrawal of
+money from a trust account unless the strata managing agent is the licensee in
+charge of the business to which the trust account relates.
+(3) An assistant strata managing agent may exercise all strata managing agent functions,
+but may not in the person’s capacity as an assistant strata managing agent—
+(a) enter into an agency agreement or a franchising agreement, or
+(b) authorise the withdrawal of money from a trust account, or
+(c) affix the seal of the owners corporation.
+(4) In this section—
+strata managing agent functions means the functions referred to in the Act,
+section 3B(1), definition of strata managing agent.
+Division 2 General conduct requirements
+8
+Rules of conduct—the Act, s 37
+(1) The rules set out in Schedules 1–4 are prescribed for the Act, section 37 as rules of
+conduct to be observed in the course of the carrying on of business or the exercise of
+functions under a licence or certificate of registration.
+(2) Schedules 1–4 apply as follows—
+(a) Schedule 1 applies to all agents and assistant agents,
+(b) Schedule 2, Part 1 applies to real estate agents and assistant real estate agents
+who exercise—
+(i) real estate sale or leasing functions in relation to the sale or purchase of land,
+or
+(ii) business agent functions,
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 9 of 89
+
+--------------------------------------------------------------------------------
+(c) Schedule 2, Part 2 applies to real estate agents and assistant real estate agents
+who exercise—
+(i) real estate sale or leasing functions in relation to the lease of land, or
+(ii) on-site residential property manager functions,
+(d) Schedule 3 applies to stock and station agents and assistant stock and station
+agents,
+(e) Schedule 4 applies to strata managing agents and assistant strata managing
+agents.
+(3) A reference to a business in Schedule 1 includes a reference to a professional
+practice.
+(4) A reference to an agent in Schedules 1–4 includes a reference to an assistant agent
+to whom the Schedule applies.
+9
+Contents of agency agreements—the Act, s 55
+(1) For the Act, section 55(2), an agency agreement must comply with the requirements
+of Schedules 5–12 as to the terms, conditions and other provisions an agency
+agreement must or must not contain.
+(2) Schedules 5–12 apply as follows—
+(a) Schedule 5 applies to all agency agreements,
+(b) Schedule 6 applies to an agency agreement under which the agent will act for the
+seller on the sale of residential property,
+(c) Schedule 7 applies to an agency agreement under which the agent will act as a
+buyer’s agent on the purchase of land,
+(d) Schedule 8 applies to an agency agreement under which the agent will act for the
+seller on the sale of rural land,
+(e) Schedule 9 applies to an agency agreement under which the agent will act for the
+seller on the sale of a business or professional practice,
+(f) Schedule 10 applies to an agency agreement under which the agent will provide
+property management services in relation to the leasing of residential property or
+rural land,
+(g) Schedule 11 applies to an agency agreement under which the agent will act for
+the owner of residential property or rural land in relation to the entering into of a
+lease of the residential property or rural land,
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 10 of 89
+
+--------------------------------------------------------------------------------
+(h) Schedule 12 applies to an agency agreement under which the agent will exercise
+the functions of a strata managing agent.
+(3) An agency agreement—
+(a) must not contain a term, condition or other provision that is inconsistent with a
+term, condition or other provision the agency agreement is required to contain by
+this section, but
+(b) is not otherwise limited by this section in relation to the terms, conditions and
+other provisions it may contain.
+(4) Subsection (1) does not apply to an agency agreement entered into before the
+commencement of the Act on 1 September 2003.
+(5) An agency agreement entered into before the commencement of the Act must contain
+the terms it was required to contain under the Property, Stock and Business Agents
+Act 1941, section 42AA at the time the agreement was entered into.
+(6) A reference to property in Schedules 5–12, other than as a reference to residential
+property, includes a reference to land.
+(7) A reference to a business in Schedule 9 includes a reference to a professional
+practice.
+10
+Service of agency agreements—the Act, s 55
+(1) For the Act, section 55(3), each of the following methods of service is prescribed as a
+means by which a copy of an agency agreement may be served on an individual—
+(a) delivering it personally to the individual,
+(b) leaving it at the individual’s place of residence, or at an address provided in the
+agency agreement as the individual’s address for service, with a person—
+(i) who apparently resides there, and
+(ii) who has apparently reached the age of 16 years,
+(c) sending it by post to the individual—
+(i) at the individual’s residential address or postal address as disclosed in the
+agency agreement, or
+(ii) at an address provided in the agency agreement as the individual’s address
+for service,
+(d) transmitting it electronically to an email address provided in the agency
+agreement as the individual’s address for electronic service.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 11 of 89
+
+--------------------------------------------------------------------------------
+(2) For the Act, section 55(3), each of the following methods of service is prescribed as a
+means by which a copy of an agency agreement may be served on a body corporate—
+(a) delivering it personally to—
+(i) the secretary of the body corporate, or
+(ii) another person involved in the management of the body corporate,
+(b) leaving it at the body corporate’s principal place of business with a person—
+(i) who is apparently employed there, and
+(ii) who has apparently reached the age of 16 years,
+(c) sending it by post to the body corporate at the address of its principal place of
+business or postal address, as disclosed in the agency agreement,
+(d) transmitting it electronically to an email address disclosed in the agency
+agreement.
+11
+Provision of financial and investment advice—the Act, s 46
+(1) This section applies to financial or investment advice—
+(a) intended to influence the person to whom the advice is given in making a decision
+about a particular financial or investment decision in connection with the sale or
+purchase of land, or
+(b) that could reasonably be regarded as being intended to have the influence
+referred to in paragraph (a).
+(2) For the Act, section 46, a real estate agent who provides financial or investment
+advice to a person must provide the following warnings and information to the
+person—
+(a) a warning that the advice is general advice and the preparation of the advice has
+not taken into account—
+(i) the individual circumstances of the person, or
+(ii) the person’s objectives, financial situation or needs,
+(b) for advice provided in connection with the purchase of land—a warning that an
+intending purchaser should assess the suitability of an investment in the property
+in light of the purchaser’s own needs and circumstances, which the purchaser can
+do—
+(i) personally, or
+(ii) by consulting an appropriately licensed financial adviser,
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 12 of 89
+
+--------------------------------------------------------------------------------
+(c) information that discloses the existence and nature of conflicts of interest the
+agent may have in connection with the provision of the advice, for example,
+entitlement to commission or referral fees.
+Note—
+The Act, section 46 provides that a real estate agent who fails to comply with a requirement to provide
+information or warning specified in the regulations is guilty of an offence.
+12
+Professional indemnity insurance—the Act, s 22
+(1) A licensee must be insured under a policy of professional indemnity insurance in force
+in relation to the licensee, or the licensee’s employer, that complies with the
+requirements of this section.
+Note—
+Under the Act, section 22, it is a condition of a licensee’s licence that the licensee be insured as required by
+this section.
+(2) The policy must provide cover for the following types of civil liability arising in the
+conduct of an agency business—
+(a) liability arising from acts or omissions of the licensee that constitute—
+(i) negligence, or
+(ii) misleading or deceptive conduct, or
+(iii) breach of professional duty, or
+(iv) unintentional defamation, or
+(v) unintentional interference with intellectual property rights,
+(b) vicarious liability arising from acts or omissions of an employee, agent or other
+person engaged in the agency business that constitute—
+(i) negligence, or
+(ii) misleading or deceptive conduct, or
+(iii) breach of professional duty, or
+(iv) defamation for which the claimant is not at fault, or
+(v) interference with intellectual property rights for which the claimant is not at
+fault, or
+(vi) fraud or dishonesty by the employee, agent or other person for which the
+claimant is not at fault.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 13 of 89
+
+--------------------------------------------------------------------------------
+(3) The policy must provide cover of at least—
+(a) $1 million for any one claim, and
+(b) $3 million in the aggregate for all claims made during the period of insurance.
+(4) The amounts referred to in subsection (3) are inclusive of all costs incurred or payable
+by the claimant in connection with the claim, including legal costs.
+(5) A licensee is required to be insured under this section only if the licensee engages in
+activities for which a licence is required under the Act.
+(6) A licensee is not required to be insured under this section in relation to civil liability
+arising in the conduct of either of the following activities—
+(a) commercial property agency work in relation to property with a value greater than
+$10 million,
+(b) if the licensee is a corporation—commercial property agency work carried out by
+the licensee on behalf of an affiliate that has indemnified the licensee against
+claims in accordance with this section.
+(7) An indemnity provided to a licensee by its affiliate must cover—
+(a) claims arising from a type of civil liability referred to in this section, and
+(b) an amount equivalent to the amount of cover that is otherwise required for claims
+under this section.
+(8) In this section—
+agency business means a business referred to in the Act, section 8(1).
+civil liability includes liability for personal injury.
+employer, of a licensee, means a person who employs or otherwise engages the
+licensee to perform services for which a licence is required under the Act.
+Part 3 Auctions
+13
+Definitions
+In this Part—
+Bidders Record has the same meaning as in the Act, section 68.
+property means residential property or rural land.
+vendor bid means a bid made by or on behalf of the seller.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 14 of 89
+
+--------------------------------------------------------------------------------
+14
+Making Bidders Records—the Act, s 68
+(1) The Bidders Record for an auction of property must record the following—
+(a) the date and place of the auction,
+(b) the address of the property,
+(c) the name and licence number of the auctioneer conducting the auction,
+(d) the name of the owner of the property at the time of the auction,
+(e) the name and licence number of the selling agent for the auction,
+(f) if the property is sold at the auction—which of the persons named in the Bidders
+Record is the successful bidder and the sale price,
+(g) if the property is not sold at the auction—the highest bid accepted, and the
+vendor bid, if any, at the auction.
+Note—
+A Bidders Record made by a licensee is one of the licensee’s records for the Act, Part 8.
+(2) If a person who is registering to bid on behalf of another person will be bidding for the
+other person as a buyer’s agent, the Bidders Record—
+(a) must record the agent’s licence number, and
+(b) may record the address of the agent’s registered office as the agent’s address.
+(3) An agent who makes a Bidders Record must ensure only the following persons make
+entries in the Bidder’s Record—
+(a) the agent who makes the Bidders Record,
+(b) an employee of the agent acting on behalf of the agent.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+(4) If more than 1 property is to be offered for sale at an auction sale, a single Bidders
+Record may be made to apply to 2 or more of the properties to be offered for sale.
+(5) If a single Bidders Record is made to apply to 2 or more properties—
+(a) the details of a person who will be entitled to bid at the auction of any of the
+properties are only required to be entered in the Bidders Record once, and
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 15 of 89
+
+--------------------------------------------------------------------------------
+(b) the details required by subsections (1) and (2) must be recorded separately in
+relation to each of the properties in the Bidders Record.
+15
+Bidders Record exemptions—the Act, s 4
+(1) If a person is registering to bid on behalf of a body corporate, the following
+exemptions apply—
+(a) an exemption from the requirement under the Act, section 68(2)(b) that the
+relevant details of the person bidding include the number or other identifier of
+proof of identity of the body corporate,
+(b) an exemption from the requirement under the Act, section 69(1)(b) that the letter
+of authority to bid on behalf of a body corporate specify the number or other
+identifier of proof of identity for the body corporate, if the letter of authority
+specifies the Australian Business Number of the body corporate.
+(2) If a person who is registering to bid on behalf of another person will be bidding for the
+other person under a power of attorney, there is an exemption from the requirement
+under the Act, section 68(2)(b) that the relevant details of the person bidding include
+the specified details of the other person.
+(3) If a person who is registering to bid on behalf of another person will be bidding in the
+capacity of a buyer’s agent, there is an exemption from the Act, section 69(1)(b), if
+details of the person on behalf of whom the agent is to bid are established by the
+production of a copy of the agency agreement under which the agent will be bidding.
+16
+Keeping Bidders Records—the Act, ss 68 and 104
+(1) A licensee who acts on the sale of property by auction must make and keep as part of
+the records the licensee is required to make by the Act, section 104, a record of the
+following in relation to the licensee who made the Bidders Record for the auction—
+(a) the name of the licensee,
+(b) the business address of the licensee,
+(c) licence number of the licensee.
+(2) If a licensee keeps a Bidders Record in electronic form, the licensee must also keep,
+as part of the licensee’s records about the auction sales to which the Bidders Record
+relates, a record of details to enable the Bidders Record to be located and accessed in
+the licensee’s electronic records.
+17
+Proof of identity for Bidders Records—the Act, ss 68 and 69
+(1) The following forms of proof of identity may be used for a person for the purposes of
+an entry in a Bidders Record—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 16 of 89
+
+--------------------------------------------------------------------------------
+(a) a card or document—
+(i) issued—
+(A) by the government or a statutory authority of the Commonwealth, New
+South Wales or another State or a Territory, or
+(B) by an authorised deposit-taking institution, and
+(ii) that shows—
+(A) the name and address of the person, or
+(B) the name of the person, if it is accompanied by a statutory declaration by
+the person as to the person’s address,
+(b) a combination of cards or documents—
+(i) that show the name and address of the person, and
+(ii) one of which is issued by—
+(A) the government or a statutory authority of the Commonwealth, New South
+Wales or another State or a Territory, or
+(B) by an authorised deposit-taking institution,
+(c) a passport or motor vehicle driver’s licence issued under the law of a jurisdiction
+outside Australia that shows the person’s name, together with—
+(i) a card or document that shows the person’s address and is issued by an
+organisation or entity other than the person, or
+(ii) a statutory declaration by the person as to the person’s address.
+(2) If the relevant details of a person are entered in the Bidders Record for an auction of
+property before the day of the auction or otherwise than at the place the auction is
+held, the person must not be provided, at the auction, with the identifying number
+allocated for the purposes of identification at the auction unless the person’s identity
+is established by a proof of identity that may be used for the purposes of an entry in
+the Bidders Record under the Act, section 69.
+(3) An agent or employee of an agent who provides an identifying number to a person in
+contravention of subsection (2) is guilty of an offence.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 17 of 89
+
+--------------------------------------------------------------------------------
+18
+Conditions of sale by auction—the Act, s 77
+(1) The following conditions are prescribed as applicable to the sale by auction of land or
+livestock—
+(a) the vendor’s reserve price must be given in writing to the auctioneer before the
+auction commences unless the auction relates solely to livestock,
+(b) a vendor bid must not be made unless the auctioneer has, before the
+commencement of the auction, announced clearly and precisely the number of
+vendor bids that may be made,
+(c) the highest bidder is the purchaser, subject to any reserve price,
+(d) if there is a disputed bid—
+(i) the auctioneer is the sole arbitrator, and
+(ii) the auctioneer’s decision is final,
+(e) the auctioneer may refuse to accept a bid that, in the auctioneer’s opinion, is not
+in the best interests of the vendor,
+(f) a bidder is taken to be bidding on the bidder’s own behalf unless, before bidding,
+the bidder has given to the auctioneer a copy of a written authority to bid for or on
+behalf of another person,
+(g) a bid must not be made or accepted after the fall of the hammer,
+(h) as soon as practicable after the fall of the hammer the purchaser must sign the
+agreement for sale, if any.
+(2) The following conditions, in addition to the conditions prescribed by subsection (1),
+are prescribed as applicable to the sale by auction of residential property or rural
+land—
+(a) all bidders must be registered in the Bidders Record and display the identifying
+number allocated to the person when making a bid,
+(b) subject to the condition prescribed by subsection (3)(a)—
+(i) the auctioneer may make only 1 vendor bid at an auction for the sale of
+residential property or rural land, and
+(ii) no other vendor bid may be made by the auctioneer or another person,
+(c) immediately before making a vendor bid the auctioneer must announce that the
+bid is made on behalf of the seller or announce “vendor bid”.
+(3) The following conditions, in addition to the conditions prescribed by subsections (1)
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 18 of 89
+
+--------------------------------------------------------------------------------
+and (2), are prescribed as applicable to the sale by auction of co-owned residential
+property or rural land or the sale of co-owned residential property or rural land by a
+seller as executor or administrator—
+(a) more than 1 vendor bid may be made to purchase the interest of a co-owner,
+(b) a bid by or on behalf of an executor or administrator may be made to purchase in
+that capacity,
+(c) before the commencement of the auction, the auctioneer must announce that bids
+to purchase the interest of another co-owner or to purchase as executor or
+administrator may be made by or on behalf of the seller,
+(d) before the commencement of the auction, the auctioneer must announce the
+bidder registration number of all co-owners, executors or administrators or a
+person registered to bid on behalf of a co-owner, executor or administrator.
+(4) The following condition, in addition to the conditions prescribed by subsection (1), is
+prescribed as applicable to the sale by auction of livestock—
+The purchaser of livestock must pay the stock and station agent who conducted the
+auction, or under whose immediate and direct supervision the auction was conducted,
+or the vendor, the full amount of the purchase price—
+(a) if the amount can reasonably be determined immediately after the fall of the
+hammer—before the close of the next business day following the auction, or
+(b) if the amount cannot reasonably be determined immediately after the fall of the
+hammer—before the close of the next business day following determination of the
+amount, or
+(c) if some other time for payment is specified in a written agreement between the
+purchaser and the agent, or the purchaser and the vendor, made before the fall of
+the hammer—before or at the time specified in the agreement.
+19
+Notification of auction conditions—the Act, s 77
+(1) A stock and station agent or real estate agent who offers land or livestock for sale by
+auction must notify the conditions of the sale using a notice—
+(a) written or printed in English, and
+(b) that sets out the conditions of the sale clearly and legibly, and
+(c) that is exhibited in a conspicuous position before and during the auction so as to
+be clearly visible to, and available for inspection by, a person attending the
+auction.
+(2) Subsection (3) applies to an auction if—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 19 of 89
+
+--------------------------------------------------------------------------------
+(a) the auction—
+(i) is for the sale of land or livestock comprising more than 1 lot and is conducted
+by a stock and station agent or real estate agent, or
+(ii) is for the sale of livestock comprising more than 1 lot and is conducted by an
+assistant stock and station agent, and
+(b) 1 or more of the conditions of sale for 1 or more of the lots are different from the
+conditions of sale for all or most of the other lots.
+(3) The agent or assistant stock and station agent may notify the different conditions by
+reciting the conditions aloud clearly and precisely immediately before offering each
+relevant lot for sale at the auction.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+20
+Warnings about bidders’ obligations—the Act, ss 66, 78 and 83
+(1) The notice required to be given by the Act, section 66(4) must be in the following
+form—
+Penalty for dummy bidding
+It is an offence against the Property and Stock Agents Act 2002 for a person to do one
+or more of the following—
+(a) make a bid as the seller,
+(b) make a bid on behalf of the seller unless the person is the auctioneer,
+(c) procure another person to make a bid on behalf of the seller.
+A bid made with the dominant purpose of benefiting the seller constitutes a bid made
+on behalf of the seller.
+A bid may be found to be a bid made on behalf of the seller even though the seller did
+not—
+(a) request the bid, or
+(b) know about the bid.
+Severe penalties may be imposed on persons convicted of dummy bidding.
+(2) The notice required to be given by the Act, section 78(3) must be in the following
+form—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 20 of 89
+
+--------------------------------------------------------------------------------
+Penalty for collusive practices
+It is an offence against the Property and Stock Agents Act 2002 for a person to do one
+or more of the following as a result of a collusive practice, or to induce or attempt to
+induce another person by a collusive practice to do one or more of the following—
+(a) to abstain from bidding,
+(b) to bid to a limited extent only,
+(c) to do another act or thing that might prevent free and open competition.
+Severe penalties may be imposed on persons convicted of collusive practices.
+(3) The notice required to be given by the Act, section 83(2) must be in the following
+form—
+Successful bidders
+The actual successful bidder at an auction sale must give to the auctioneer or an
+employee of the auctioneer—
+(a) the bidder’s name, or
+(b) the name of the person on behalf of whom the successful bid was made.
+(4) Each notice—
+(a) must have its contents clearly and legibly written or printed in English, and
+(b) must be exhibited in a conspicuous position before and during the auction so as to
+be clearly visible to, and available for inspection by, a person attending the
+auction.
+(5) A notice may be combined with the notice of auction conditions referred to in section
+19.
+Part 4 Trust money
+21
+Provision of unique identifying number when opening a trust account—the Act, ss 86
+and 91
+(1) A licensee must, when applying to open a trust account at an authorised deposit-
+taking institution, provide the authorised deposit-taking institution with a unique
+identifying number obtained from the Department.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 21 of 89
+
+--------------------------------------------------------------------------------
+(2) The authorised deposit-taking institution must use the unique identifying number
+when lodging monthly returns in accordance with the Act, section 91(1)–(3).
+22
+Receipts for trust money—the Act, s 86
+(1) A licensee must, immediately on receiving trust money, prepare or cause to be
+prepared a receipt for the trust money.
+(2) When the receipt is prepared—
+(a) from the trust receipt book—a copy of the entries made on the receipt must be
+made simultaneously on the machine-numbered duplicate form provided in the
+book, or
+(b) otherwise than from a trust receipt book—a copy of the entries made on the
+receipt must be made simultaneously in the record required to be kept by section
+27.
+(3) The following particulars must be shown on the receipt—
+(a) the date of issue,
+(b) the number of the receipt in numerical sequence,
+(c) the name of the licensee and the words “Trust Account”,
+(d) the name of the person from whom the payment was received,
+(e) the name and ledger reference number of the person on behalf of whom the
+payment was made,
+(f) particulars sufficient to identify the transaction in relation to which the money was
+paid,
+(g) the amount of money received,
+(h) whether, or the extent to which, the money was paid in cash, by cheque, by
+electronic funds transfer or otherwise.
+(4) When a receipt is issued by a licensee for rent collected, the receipt must also show—
+(a) the date to which rent has been calculated, and
+(b) the position of the rental account at that date.
+(5) Receipts must be prepared in the numerical order of the series to which they belong.
+(6) The original of a receipt must be issued, on demand, to the person from whom the
+trust money is received.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 22 of 89
+
+--------------------------------------------------------------------------------
+(7) A licensee must keep the following—
+(a) an original receipt that is not issued to the person from whom the trust money is
+received,
+(b) an original receipt that is cancelled after it is prepared,
+(c) duplicate receipts, unless an electronic record of receiving the money was made
+as soon as practicable after the money was received.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+23
+Receipts for trust money—additional requirements for strata managing agents—the
+Act, s 86
+If a strata managing agent issues a receipt for a payment received when acting as a
+strata managing agent, the agent must also show the following particulars on the
+receipt—
+(a) if the payment is in relation to a contribution referred to in the Strata Schemes
+Management Act 2015, Part 5, Division 2 or the Community Land Management Act
+2021, Part 5, Division 2—
+(i) the fact it is made in relation to the contribution, and
+(ii) a statement identifying the lot number, land or premises in relation to which the
+liability to make the contribution is imposed, and
+(iii) if the contribution is a regular periodic contribution—the period in relation to
+which it is made,
+(b) if the payment was received in relation to more than one matter—the apportionment
+of the payment between the matters,
+(c) if the receipt is issued from a general trust receipt book—the name of the owners
+corporation or association for or on behalf of which the payment is received.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+24
+Banking of trust money—the Act, s 86
+A licensee who receives trust money must pay it into the licensee’s trust account—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 23 of 89
+
+--------------------------------------------------------------------------------
+(a) before the end of the next business day after the day of its receipt, if practicable, or
+(b) if not practicable, as soon as practicable after that day.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+25
+Payment of trust money by cheque or electronic funds transfer—the Act, s 86
+(1) Trust money must be drawn from a licensee’s trust account in accordance with this
+section.
+(2) Trust money must not be drawn from a licensee’s trust account other than—
+(a) by cheque, or
+(b) by electronic funds transfer.
+(3) Each cheque must—
+(a) be machine-numbered in series, and
+(b) be marked “not negotiable”, and
+(c) not be payable to cash, and
+(d) be signed by the licensee in charge of the business.
+(4) The licensee must ensure—
+(a) cheques are drawn in the numerical order of the series to which they belong, and
+(b) for each cheque, a record is kept of the following—
+(i) the number and date of issue of the cheque,
+(ii) the name of the payee,
+(iii) the amount of the cheque,
+(iv) details identifying the ledger account to be debited and the name and ledger
+reference number of the person on behalf of whom the cheque was drawn,
+(v) the invoice number applicable to the cheque, if available to the licensee,
+(vi) the reason for which the cheque was drawn.
+(5) A licensee is taken to comply with subsection (4) if—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 24 of 89
+
+--------------------------------------------------------------------------------
+(a) the licensee maintains an accounting system that causes the particulars required
+by subsection (4) to be entered directly in the cash book required to be kept under
+section 27, and
+(b) the particulars are entered at the same time as, and in the same operation as, the
+cheque is drawn.
+(6) The licensee must ensure, for each electronic funds transfer, a record is kept of the
+following—
+(a) the name of the person effecting the transfer,
+(b) the reference number or other particulars sufficient to identify the transfer,
+(c) the date of the transfer,
+(d) the name of the payee,
+(e) the amount transferred to or from each ledger account,
+(f) details identifying the ledger accounts to be debited and the name and ledger
+reference number of the person on behalf of whom the transfer was made,
+(g) particulars of the reason for the transfer.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+26
+Trust deposits—the Act, s 86
+(1) If a licensee makes a deposit of money to the licensee’s trust account, the licensee
+must ensure—
+(a) the relevant deposit book or other written deposit record is produced to the
+authorised deposit-taking institution when the deposit is made, and
+(b) the following particulars are entered in the book or record—
+(i) the date of the deposit,
+(ii) the amount of the deposit,
+(iii) whether the deposit consists of cheques, notes or coins,
+(iv) if cheques are included in the deposit—
+(A) the name of the drawer, and
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 25 of 89
+
+--------------------------------------------------------------------------------
+(B) the name and branch of the authorised deposit-taking institution on which
+the cheque is drawn, and
+(C) the amount of each cheque,
+(c) a duplicate of the particulars of each deposit is kept by the licensee.
+(2) This section does not apply to a deposit of money made directly to a licensee’s trust
+account, electronically or otherwise.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+27
+Record of trust account transactions—the Act, s 86
+(1) A licensee must keep a record of daily receipts and payments of money into and out
+of the licensee’s trust account.
+(2) The record must be in the form of a cash book in which the pages are consecutively
+numbered and show—
+(a) the consecutive numbers of receipts issued or cancelled, and
+(b) the consecutive numbers of cheques drawn or cancelled, and
+(c) for money received or disbursed by electronic funds transfer—the consecutive
+reference numbers or other means of identification of the transfers.
+(3) When money required to be paid into the trust account is received, the licensee must
+enter into the record—
+(a) the particulars required by section 22(3)(a), (b) and (d)–(h) to be shown on a
+receipt for the money, and
+(b) the date of the deposit of the money to the trust account, and
+(c) the amount of the deposit.
+(4) When money is paid out of the trust account, the licensee must enter into the record
+the particulars—
+(a) required by section 25(4) to be recorded for a cheque, or
+(b) required by section 25(6) to be recorded for an electronic funds transfer.
+(5) At the end of each named month, the licensee must—
+(a) balance the cash book or other record and—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 26 of 89
+
+--------------------------------------------------------------------------------
+(i) carry forward the balance to the commencement of the next month, or
+(ii) carry forward the balance to a ledger account provided for the purpose, and
+(b) prepare a statement reconciling the balance of the licensee’s trust account with
+the balance of the related cash book or other record.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+28
+Journal—the Act, s 86
+(1) A licensee must record in a journal, maintained exclusively for the licensee’s trust
+account, all transfers between accounts in the trust account ledger that are not
+effected by cheque or electronic funds transfer.
+(2) The recording must include the following—
+(a) the date of the transfer,
+(b) the amount transferred to and from each ledger account,
+(c) the names of all ledger accounts to be debited or credited,
+(d) the relevant reference number or other identification,
+(e) sufficient particulars to identify the transfer and the reason for the transfer.
+(3) Each transfer, when entered in the journal, must be numbered consecutively.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+29
+Trust account ledger—the Act, s 86
+(1) A licensee must maintain a separate ledger account for trust money received on
+behalf of or paid to each person on behalf of whom the licensee acts.
+(2) Each ledger account must include—
+(a) the name of the person on behalf of whom the licensee acts, and
+(b) a reference number or other identification, and
+(c) particulars of each transaction affecting the trust money.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 27 of 89
+
+--------------------------------------------------------------------------------
+(3) The particulars of a transaction must include the following—
+(a) the date of the transaction,
+(b) a description of the transaction,
+(c) particulars sufficient to identify the trust record originating the transaction,
+(d) the amount of the transaction,
+(e) the resulting current balance of account arising from the transaction.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+30
+Trust account ledger trial balance—the Act, s 86
+(1) A licensee must, within 21 days after the end of each named month, prepare a trial
+balance statement of all ledger accounts current as at the end of the month.
+(2) The trial balance statement must—
+(a) specify the month to which it refers and the date of its preparation, and
+(b) list each ledger account that does not have a zero balance at the end of the
+month by stating—
+(i) the name of the person on behalf of whom the agent acts, and
+(ii) the reference number or other identification, and
+(iii) the balance of the account at the end of the month, and
+(c) show the total of the ledger account balances at the end of the month, and
+(d) show a comparison between—
+(i) the total, and
+(ii) the balance in the cash book reconciled with the balance in the trust account
+as required by section 27(5)(b).
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 28 of 89
+
+--------------------------------------------------------------------------------
+31
+Records of trust money to be kept by licensees—the Act, s 86
+(1) A licensee must keep the records required by this Part in a form from which the
+information can be produced on demand in permanent legible form in English.
+(2) The records must be kept—
+(a) at the licensee’s registered office, or
+(b) if the licensee’s business is conducted at more than 1 place of business—at the
+place of business where the business to which the records relate was conducted.
+(3) If a computer system is used for the purpose of recording information that is
+reproduced in the records required by this Part, the licensee must keep the computer
+system records required by section 33 at the licensee’s registered office.
+(4) A licensee must, within 21 days after the end of each month—
+(a) compile, with the records kept by the licensee under this Part, the original, or a
+true copy, of each trial balance statement prepared by the licensee in accordance
+with section 30 for the month, and
+(b) maintain a summary of the total of the trust money disclosed in the trial balance
+statements for the month.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+32
+Records—additional requirements for strata managing agents—the Act, s 86
+(1) A strata managing agent must also keep either—
+(a) a single trust account ledger in a form permitting each account for an owners
+corporation or association for or on behalf of which the agent holds money to be
+physically removed from the ledger, or
+(b) a separate trust account ledger for each owners corporation or association for or
+on behalf of which the agent holds money.
+(2) A strata managing agent must ensure each ledger kept for an owners corporation or
+association contains sufficient information to identify the owners corporation or
+association for which it is kept.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 29 of 89
+
+--------------------------------------------------------------------------------
+(b) otherwise—20 penalty units.
+33
+Computer systems control—the Act, s 86
+(1) This section applies if a licensee maintains records for the purposes of this Part using
+a computer system.
+(2) The licensee must maintain a record of all changes, including creation, amendment or
+deletion, to the following information—
+(a) the name of a person on behalf of whom the licensee acts,
+(b) the address of a person on behalf of whom the licensee acts,
+(c) the code reference number, if any, of a person on behalf of whom the licensee
+acts,
+(d) an agency description,
+(e) a trust account number.
+(3) The record must—
+(a) disclose the details of the information before and after the change, and
+(b) be compiled in chronological sequence.
+(4) The licensee must ensure, in relation to a journal—
+(a) the entries balance before being made in the ledger, and
+(b) journal reference numbers are allocated in sequence under program control.
+(5) The licensee must ensure, in relation to a ledger, that no program—
+(a) is capable of accepting the entry of a transaction resulting in a debit balance to an
+account unless a contemporaneous record of the transaction is made in a way that
+enables the production in permanent legible form, on demand, of a separate
+chronological report of all occurrences of this kind, and
+(b) enables the deletion of an account unless—
+(i) the balance of the account is zero, and
+(ii) the account, when deleted, is kept as it was immediately before deletion, in a
+form from which the information can be produced on demand in permanent
+legible form in English.
+(6) The licensee must also ensure the following—
+(a) entries in a record produced in visible form appear in chronological sequence,
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 30 of 89
+
+--------------------------------------------------------------------------------
+(b) a report, or each page of or entry in a report, is numbered sequentially under
+program control in a way that enables the completeness of the records required by
+this Part to be conveniently verified,
+(c) no amendment to the particulars of a transaction already recorded can be made
+other than by a separate transaction effecting the amendment,
+(d) each program requires the mandatory input of data for all data entry fields
+relating to information required to be recorded by this Part.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+34
+Computer systems back-up requirements—the Act, s 86
+The licensee must ensure, in relation to the records referred to in section 33—
+(a) the following occurs—
+(i) the records are backed up using electronic means other than cloud technology at
+least once each month,
+(ii) the most recent back-up copy is kept in a separate location to the original records
+to ensure the back-up copy is not affected by fire or a power or disk failure or
+other incident that affects the original records, or
+(b) the records are backed up using cloud technology through the internet at least once
+each month.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+35
+Exemptions—the Act, ss 90 and 91
+The Act, sections 90 and 91 do not apply to—
+(a) a separate trust account kept on the instructions of a client of a licensee or firm of
+licensees for the exclusive benefit of the client, or
+(b) a separate trust account opened by a licensee for the exclusive benefit of both the
+vendor and the purchaser of land.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 31 of 89
+
+--------------------------------------------------------------------------------
+Part 5 Records—the Act, ss 104 and 230
+36
+Records and book entries to be in English language
+A licensee must ensure the following are in English—
+(a) all written records required to be made or produced by the licensee by the Act and
+this Regulation,
+(b) all entries in books of account required to be kept by the licensee by the Act and this
+Regulation.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+37
+Records of property reports to be kept by real estate agents
+(1) A licensee acting on behalf of a person (the client) on the sale of a residential
+property must make a written record of all reports of which the licensee is aware in
+relation to—
+(a) a building inspection of the property, or
+(b) an inspection to detect whether or not the property is affected by termites or
+other pests, or
+(c) an inspection of documents relating to the property under the Strata Schemes
+Management Act 2015, section 182, or
+(d) a certificate as to financial matters under the Strata Schemes Management Act
+2015, section 184, or
+(e) an inspection of documents relating to the property under the Community Land
+Management Act 2021, Part 10, Division 2.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+(2) The licensee must disclose the records made under this section to a person
+requesting a copy of the contract for the sale of the residential property.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 32 of 89
+
+--------------------------------------------------------------------------------
+(b) otherwise—20 penalty units.
+(3) The record must contain the following particulars—
+(a) the date on which the property or documents relating to the property were
+inspected for the purposes of the report,
+(b) whether the person who requested the preparation of the report is the client, a
+prospective purchaser of the property or the licensee,
+(c) the name, business address and telephone number of the person who prepared
+the report,
+(d) whether the report is or is not available for repurchase by another person
+requesting a copy of the contract for the sale of the property,
+(e) whether the person who prepared the report is insured under a policy of
+professional indemnity insurance.
+(4) A licensee is not required to make a record of particulars referred to in subsection (3)
+that are not known to, or cannot be reasonably obtained by, the licensee.
+(5) For this section, or any other law, a licensee is taken to have the authority to make
+the disclosures required for this section.
+38
+Records of purchased livestock to be kept by stock and station agents
+(1) A stock and station agent who buys livestock as an agent, whether or not by auction,
+must keep a written record of livestock purchases at the agent’s registered office.
+(2) The stock and station agent must record the following particulars immediately after
+purchasing livestock—
+(a) the date and place of purchase,
+(b) the mode of purchase,
+(c) the person for whom the livestock was purchased,
+(d) the person from whom the livestock was purchased,
+(e) the total number of livestock purchased,
+(f) if the livestock was sold by auction—
+(i) the lot number or numbers, and
+(ii) the name supplied under the Act, section 83 as the name of the purchaser of
+each lot of livestock,
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 33 of 89
+
+--------------------------------------------------------------------------------
+(g) the price for which the livestock was purchased per kilogram of live weight or per
+head,
+(h) if the livestock was purchased on a live weight basis—the details of the live weight
+weighing,
+(i) the total price for which the livestock was purchased,
+(j) a description of the livestock sufficient to identify the livestock.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+39
+Records of livestock sales to be kept by stock and station agents
+(1) A stock and station agent who sells livestock as an agent, whether or not by auction,
+or who offers livestock for sale by auction as an agent must keep a written record of
+the sales at the agent’s registered office.
+(2) A stock and station agent must, immediately after being engaged to sell livestock as
+an agent, record the following particulars for the livestock—
+(a) the name of the owner of the livestock,
+(b) the number of livestock to be sold,
+(c) a description of the livestock sufficient to identify the livestock.
+(3) If the livestock is to be sold by auction—
+(a) a record must be made for each lot of livestock, and
+(b) the lot number must be included in the record.
+(4) A stock and station agent must, immediately after selling livestock as an agent,
+record the following particulars for the livestock—
+(a) the date and place of the sale,
+(b) the name of the purchaser or, if the stock was sold by auction, the name supplied
+under the Act, section 83 as the name of the purchaser and the lot number,
+(c) the price for which the livestock was sold per kilogram of live weight or per head,
+(d) if the livestock was sold on a live weight basis—the details of the live weight
+weighing,
+(e) the total price for which the livestock was sold.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 34 of 89
+
+--------------------------------------------------------------------------------
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+40
+Copy of accounts to be kept as record by strata managing agent
+(1) This section applies to a strata managing agent given 1 of the following notices
+requiring the agent to deliver certain records or books of account kept by the agent—
+(a) a notice under the Strata Schemes Management Act 2015, section 61,
+(b) a notice under the Community Land Management Act 2021, section 65.
+(2) The strata managing agent must, before delivering the records or books of account—
+(a) prepare and keep a true copy of the records or books of account the subject of the
+notice, and
+(b) certify in writing on the copy that the copy is a true copy of the records or books
+of account.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+41
+Records to be prepared by strata managing agent
+(1) This section applies to a strata managing agent who holds or ceases to hold the
+money in an administrative fund, or a capital works fund, established by—
+(a) an owners corporation under the Strata Schemes Management Act 2015, Part 5,
+Division 1, or
+(b) an association under the Community Land Management Act 2021, Part 5, Division
+1.
+(2) The agent must prepare and sign a record relating to the management of each fund
+during the period since the agent—
+(a) last started acting as managing agent for the owners corporation or association,
+or
+(b) last prepared a record under this section for the owners corporation or
+association.
+(3) A copy of each record must be provided to the treasurer of the owners corporation or
+association at the following times—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 35 of 89
+
+--------------------------------------------------------------------------------
+(a) if the agent ceases to act as managing agent for the owners corporation or
+association—within 14 days after termination of the agency agreement,
+(b) otherwise—at least once in every 3 month period.
+(4) Each record, other than a record resulting from the termination of an agency
+agreement, must be completed no earlier than 1 month before a copy is provided to
+the treasurer.
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+42
+Contents of record to be prepared by strata managing agent
+(1) Each record required to be prepared by a strata managing agent under section 41
+must—
+(a) state the name and address of the owners corporation or association for whom the
+record is prepared, and
+(b) specify the period in relation to which the record is prepared, and
+(c) state the date of the record, and
+(d) if the record is required because of the termination of an agency
+agreement—reconcile all receipts and payments with the statements from the
+relevant authorised deposit-taking institution up to the time of termination.
+(2) Each record must also contain the following particulars for each fund of the owners
+corporation or association to which the record relates, for the period to which it
+relates—
+(a) the amount of contribution to the fund levied for each lot in the scheme,
+(b) the amount of contribution to the fund paid in relation to each lot,
+(c) the amount of contribution to the fund levied in relation to each lot but not paid as
+at the date of the record,
+(d) the amount of money received into the fund otherwise than as a contribution and
+a description of the sources of the money,
+(e) the amount of money—
+(i) actually expended from the fund on behalf of the owners corporation or
+association, and
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 36 of 89
+
+--------------------------------------------------------------------------------
+(ii) due to be paid from the fund but not actually paid as at the date of the record,
+(f) the amount of money expected to become due and payable from the fund by the
+owners corporation or association before the next record is prepared,
+(g) the amount of money standing to the credit of the fund in an authorised deposit-
+taking institution and the name of the account at the authorised deposit-taking
+institution,
+(h) the amount of money standing to the credit of the fund invested other than in an
+authorised deposit-taking institution and, if so, where it is invested,
+(i) the total amount of money standing to the credit of the fund.
+43
+Managing agent to permit strata and association committees to inspect records
+(1) A strata managing agent must permit, on demand made at a reasonable time, a
+member of the strata committee of an owners corporation or the association
+committee of an association for which the agent acts as managing agent to inspect
+the records or books of account of the owners corporation or association.
+(2) Within 14 days of being appointed by an owners corporation or association to act as
+managing agent, a strata managing agent must give to the owners corporation or
+association a written authority that complies with subsection (3).
+Maximum penalty—
+(a) for a corporation—40 penalty units, or
+(b) otherwise—20 penalty units.
+(3) The written authority must direct the authorised deposit-taking institution or another
+person or body with which the money of the corporation or association is invested to
+disclose to a member of the strata committee or association committee, at the
+request of the member, information relating to the money.
+(4) If a strata managing agent does not comply with subsection (2), the authorised
+deposit-taking institution or other person or body with which money of the owners
+corporation or association is or has been invested may disclose to a member of the
+strata committee or association committee, at the request of the member, information
+relating to the money as though subsection (2) had been complied with.
+Part 6 Exemptions
+44
+Licensee in charge of business—the Act, s 31
+(1) The Secretary must take the matters specified in subsection (2) into account when
+considering whether to grant an exemption from the Act, section 31(4) to authorise
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 37 of 89
+
+--------------------------------------------------------------------------------
+the licensee in charge of a business to exercise functions or provide services on behalf
+of 2 or more licensees not in partnership with one another.
+(2) The Secretary must take the following matters into account—
+(a) the reasons the exemption is needed,
+(b) the licensee’s previous experience as a licensee in charge,
+(c) the licensee’s capacity to properly supervise the conduct of business of more than
+1 licensee,
+(d) the fiduciary safeguards and office systems proposed to be established to provide
+for accountability to the licensee in charge,
+(e) whether separate trust accounts are in place for the deposit of trust money
+received in connection with the business of each licensee for whom the licensee
+proposes to act,
+(f) the licensee’s capacity to comply with guidelines issued by the Secretary under
+the Act, section 32(4),
+(g) the licensee’s record in relation to compliance with the conditions of a licence or
+certificate of registration,
+(h) the licensee’s record in relation to compliance with the provisions of the Act and
+the regulations under the Act,
+(i) employer references in relation to the licensee’s experience as a licensee in
+charge.
+45
+Sharing of commission—the Act, ss 3 and 4
+(1) A licensee is exempt from the Act, section 33—
+(a) if—
+(i) the transaction relates only to livestock, and
+(ii) the person with whom the licensee enters into an arrangement or acts in
+conjunction with in relation to the transaction is a person whose principal place
+of business is a State or Territory under the law of which a person is not
+required to be licensed, registered or otherwise authorised to act as an agent
+in connection with a transaction of that kind, or
+(b) if the person with whom the licensee enters into an arrangement or acts in
+conjunction with is a person who is licensed, registered or otherwise authorised
+under the law of a place outside Australia to act as agent in connection with the
+transaction.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 38 of 89
+
+--------------------------------------------------------------------------------
+(2) For the Act, section 3(1), definition of corresponding Act, each of the following Acts
+is declared to be a corresponding Act—
+(a) the Agents Act 2003 of the Australian Capital Territory,
+(b) the Agents Licensing Act 1979 of the Northern Territory,
+(c) the Property Occupations Act 2014 of Queensland,
+(d) the Land Agents Act 1994 of South Australia,
+(e) the Property Agents and Land Transactions Act 2016 of Tasmania,
+(f) the Estate Agents Act 1980 of Victoria,
+(g) the Real Estate and Business Agents Act 1978 of Western Australia.
+46
+Subagency agreements—the Act, s 34
+Each of the following classes of agreement is exempt from the Act, section 34—
+(a) agreements between licensees who are members of a multiple listing organisation,
+(b) agreements between licensees who are parties to a franchise agreement,
+(c) agreements for services relating only to livestock.
+47
+Disclosure of material facts—residential tenancy agreements—the Act, s 4
+Real estate agents and assistant real estate agents are exempt from the Act, section
+52(1)(b) in relation to entering into residential tenancy agreements.
+48
+Agency agreements—the Act, ss 4 and 230
+(1) An agreement for the performance of services that relate only to livestock is exempt
+from the Act, section 55.
+(2) A licensee is exempt from the Act, section 55 in relation to services performed by the
+licensee as—
+(a) a strata managing agent under the Strata Schemes Management Act 2015,
+section 237, or
+(b) a managing agent under the Community Land Management Act 2021, section
+196.
+49
+Proposed contract for sale of residential property—the Act, s 63
+The Act, section 63 does not apply to a real estate agent if—
+(a) the agent offers residential property for sale under an agreement between the agent
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 39 of 89
+
+--------------------------------------------------------------------------------
+and another licensee to share commission, fees, gains or rewards in relation to the
+sale, and
+(b) the other licensee—
+(i) has entered into an agency agreement with the vendor of the property, and
+(ii) complies with the Act, section 63 in relation to the property.
+50
+Exemption for certain visitor information centres or short-term accommodation
+booking agents—the Act, s 4
+(1) This section applies to a person who—
+(a) deals only with licences of land—
+(i) for a period of 2 months or less, and
+(ii) other than for residential purposes, and
+(b) introduces, or arranges for the introduction of, a prospective licensee of land to—
+(i) the owner of land, or
+(ii) the agent of the owner of land, and
+(c) does not accept money for doing so from a licensee of land or prospective licensee
+of land, and
+(d) does not otherwise introduce, or arrange for the introduction of, a prospective
+purchaser, lessee or licensee of land to—
+(i) a licensee under the Act, or
+(ii) the owner of land, or
+(iii) the agent of the owner of land.
+(2) The person is exempt from the Act in relation to acts or omissions by the person in the
+person’s capacity as agent in relation to the introduction, or arranging for the
+introduction, of a prospective licensee of land to—
+(a) a licensee under the Act, or
+(b) the owner of land, or
+(c) the agent of the owner of land.
+51
+Persons acting as travel agents—the Act, s 4
+(1) A person who carries on business as a travel agent is exempt from the Act in relation
+to the person’s acts or omissions when carrying on business as a travel agent.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 40 of 89
+
+--------------------------------------------------------------------------------
+(2) A person carries on business as a travel agent if the person carries on a business
+involving the following, whether or not in the course of, or as incidental to, or in
+connection with, another business—
+(a) selling tickets entitling another person to travel on, or otherwise arranging a right
+of passage for another person on, a conveyance,
+(b) selling, or arranging or making available, rights of passage to, and hotel or other
+accommodation at, one or more places—
+(i) which are within or outside New South Wales, or
+(ii) some of which are within, and others of which are outside, New South Wales,
+(c) purchasing for resale the right of passage on a conveyance,
+(d) the making, by a person who carries on an activity referred to in paragraph (a), (b)
+or (c), of a travel related arrangement, either separately from or in conjunction
+with the activity.
+(3) A person also carries on business as a travel agent if the person holds out or
+advertises that the person is willing to carry on an activity referred to in subsection
+(2).
+(4) In this section—
+travel related arrangement means an arrangement commonly made in connection
+with an activity referred to in subsection (2)(a), (b) or (c).
+Example—
+car hire
+52
+Persons acting on behalf of government departments and certain statutory
+bodies—the Act, s 5
+(1) For the Act, section 5(1), a person who is authorised to act on behalf of the following
+is prescribed as a person who is not required to hold a licence under the Act—
+(a) a government department of the State of New South Wales or the Commonwealth,
+(b) a statutory body representing the Crown in right of the State or the
+Commonwealth.
+(2) The exemption applies only in relation to functions exercised by the person while
+acting on behalf of the department or statutory body.
+52AA
+Landcom—the Act, ss 4 and 230
+Landcom is exempt from following provisions of the Act—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 41 of 89
+
+--------------------------------------------------------------------------------
+(a) section 14, other than section 14(2)(e),
+(b) section 15,
+(c) section 29,
+(d) section 33,
+(e) Part 8, Divisions 2 and 3,
+(f) Part 9.
+Part 7 Miscellaneous
+52A
+Certificate of registration longer than 4 years—the Act, s 26AA
+(1) For the Act, section 26AA(7), definition of exceptional circumstances, the following
+exceptional circumstances are prescribed—
+(a) a real risk to the effective functioning of the property and stock agents industry,
+(b) an event that has substantially disrupted the ability of the holder of a certificate of
+registration to complete the qualifications for the issue of a class 2 licence within
+the last 12 months before the expiry of the holder’s certificate of registration.
+(2) In this section—
+event includes the following—
+(a) a medical condition of the holder,
+(b) an exclusion of the holder from participation in the property and stock agents
+industry that is beyond the holder’s control,
+(c) a disruption to the holder’s domestic arrangements.
+holder, of a certificate of registration, includes a former holder.
+53
+Notice of change of registered office—the Act, s 28
+For the Act, section 28(4), 14 days is prescribed as the time within which notice of a
+change in the location of the registered office must be lodged.
+54
+Meaning of “Operating Account”—the Act, s 123
+For the Act, section 123, definition of Operating Account, the Compensation Fund is
+prescribed.
+55
+Requests for itemised account—the Act, ss 36 and 101
+(1) A request for an itemised account under the Act, section 36(3) or 101(1) may be
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 42 of 89
+
+--------------------------------------------------------------------------------
+served on a licensee by—
+(a) delivering it personally to the licensee, or
+(b) leaving it for the licensee at a place of business of the licensee, or
+(c) sending it by post to the licensee at the address of a place of business of the
+licensee, or
+(d) transmitting it electronically to the email address specified by the licensee as an
+address to which electronic transmissions to the licensee may be sent.
+(2) An itemised account requested under the Act, section 36(3) or 101(1) may be
+provided to the person who made the request by—
+(a) delivering it personally to the person, or
+(b) leaving it for the person—
+(i) at an address specified as the person’s address in the request, or
+(ii) if an address is not specified in the request—at an address specified as the
+person’s address in an agency agreement, or
+(c) sending it by post to the person—
+(i) at an address specified as the person’s address in the request, or
+(ii) if an address is not specified in the request—at an address specified as the
+person’s address in an agency agreement, or
+(d) transmitting it electronically to the email address specified by the person as an
+address to which electronic transmissions to the person may be sent.
+56
+Levies—the Act, s 169
+A notice to a licensee to pay a levy imposed under the Act, section 169(1) must be signed
+by the Secretary and contain the following particulars—
+(a) the amount of the levy payable by the licensee,
+(b) the date by which, and way in which, the levy is payable,
+(c) a note as to the consequences of a failure by a licensee to pay the levy as set out in
+the Act, section 169(4),
+(d) the date on which the notice was signed by the Secretary.
+57
+Complaints and discipline—the Act, s 192
+(1) For the Act, section 192, the following provisions of the Act are prescribed as
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 43 of 89
+
+--------------------------------------------------------------------------------
+provisions that remain applicable to a suspended licence or certificate of registration—
+(a) section 74,
+(b) section 100,
+(c) section 107,
+(d) section 111, except when a receiver or manager has been appointed,
+(e) section 179,
+(f) section 184,
+(g) section 211,
+(h) section 212.
+(2) For the Act, section 192, the following provisions of this Regulation are prescribed as
+provisions that remain applicable to a suspended licence or certificate of registration—
+(a) section 43,
+(b) section 55.
+58
+The Register—the Act, s 220
+(1) The Secretary must enter and keep in the Register details of the following particulars
+in relation to each licence or certificate of registration issued under the Act—
+(a) the name and business address of the person to whom the licence or certificate of
+registration is issued,
+(b) the kind of licence or certificate of registration issued as described in the Act,
+section 17,
+(c) the number of the licence or certificate of registration,
+(d) the date of issue and expiry of the licence or certificate of registration,
+(e) for a licence issued to a member of a partnership—the name and business
+address of each licensed member of the partnership,
+(f) for a corporation licence—the name and business address of each director of the
+corporation,
+(g) the cancellation or a current suspension of the licence or certificate of registration,
+(h) a condition of the licence or certificate of registration under the Act, section
+20(1)(a) or (d),
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 44 of 89
+
+--------------------------------------------------------------------------------
+(i) the accreditation of the licensee as an auctioneer under the Act, section 21,
+(j) action taken under the Act, Part 12 against the holder of the licence or certificate
+of registration that resulted in an adverse finding against the person, together
+with details of the disciplinary action, if any, taken against the person as a result
+of the adverse finding,
+(k) proceedings for an offence under the Act or the regulations under the Act taken
+against the holder of the licence or certificate of registration that resulted in a
+conviction for the offence, together with details of the penalty, if any, imposed for
+the offence,
+(l) current undertakings given under the Act by the holder of the licence or certificate
+of registration,
+(m) the appointment of a manager or receiver under the Act in relation to the
+licensee,
+(n) the number of payments made from the Compensation Fund under the Act, Part
+10 in relation to a failure to account on the part of the licensee,
+(o) the suspension of the licence or certificate of registration under the Fair Trading
+Act 1987, section 79A,
+(p) action in the nature of disciplinary action taken under other legislation
+administered by the Minister against the holder of the licence or certificate of
+registration that resulted in an adverse finding against the person, together with
+details of the action, if any, taken against the person as a result of the adverse
+finding.
+(2) The Secretary must also enter and keep in the Register details of applications for
+licences or certificates of registration that are refused on the grounds the applicant is
+not a fit and proper person to hold a licence or a certificate of registration.
+(3) Details entered in the Register—
+(a) under subsection (1)(j) or (k) must be removed from the Register on the expiration
+of the period of 10 years after the action or conviction to which they relate, and
+(b) under subsection (2) in relation to a person must be removed from the Register if
+the person is subsequently issued a licence or certificate of registration.
+59
+Application of Licensing and Registration (Uniform Procedures) Act 2002—the Act, s 17
+The Licensing and Registration (Uniform Procedures) Act 2002, Part 2 applies in relation to
+a licence or certificate of registration subject to the following limitations and
+modifications—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 45 of 89
+
+--------------------------------------------------------------------------------
+(a) an application for the grant of a licence or certificate of registration may only be made
+by an individual unless the licence is a corporation licence,
+(b) an application for the grant of a corporation licence may only be made by a
+corporation,
+(c) an application for the grant of a certificate of registration may be made by an
+individual aged 16 years or more.
+60
+Misrepresentation by licensee or registered person by failing to disclose material
+facts—the Act, ss 4 and 52
+(1) For the Act, section 52(1)(b), the following kinds of material facts are prescribed—
+(a) within the last 5 years the property has been subject to flooding from a natural
+weather event or bush fire,
+(b) the property is subject to significant health or safety risks,
+(c) the property is listed on the register of residential premises that contain loose-fill
+asbestos insulation required to be maintained under the Home Building Act 1989,
+Part 8, Division 1A,
+(d) within the last 5 years the property was the scene of a crime of murder or
+manslaughter,
+(e) within the last 2 years the property has been used for the purposes of the
+manufacture, cultivation or supply of a prohibited drug or prohibited plant within
+the meaning of the Drug Misuse and Trafficking Act 1985,
+(f) the property is, or is part of, a building that contains external combustible
+cladding—
+(i) to which there is a notice of intention to issue a fire safety order or a fire safety
+order has been issued requiring rectification of the building regarding the
+external combustible cladding, or
+(ii) to which there is a notice of intention to issue a building product rectification
+order or a building product rectification order has been issued requiring
+rectification of the building regarding external combustible cladding,
+(g) the property is, or is part of, a building where a development application or
+complying development certificate application has been lodged under the
+Environmental Planning and Assessment Act 1979 for rectification of the building
+regarding external combustible cladding,
+(h) one or more of the following orders, within the meaning of the Residential
+Apartment Buildings (Compliance and Enforcement Powers) Act 2020, is in force in
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 46 of 89
+
+--------------------------------------------------------------------------------
+relation to the property—
+(i) a building work rectification order,
+(ii) a prohibition order,
+(iii) a stop work order.
+(2) In this section—
+building product rectification order has the same meaning as in the Building
+Products (Safety) Act 2017.
+external combustible cladding and fire safety order have the same meanings as
+in the Environmental Planning and Assessment (Development Certification and Fire
+Safety) Regulation 2021.
+61
+Fees and Compensation Fund contributions—the Act, ss 17A and 230
+(1) The application fees payable for the Act are listed in Schedule 14, Part 1, Column 1.
+(2) The amount of each application fee must be calculated by adding together the various
+components set out in Schedule 14, Part 1, Columns 2 and 3 for the fee.
+(3) An amount specified in relation to an application fee in Schedule 14, Part 1, Column 3
+under the heading Processing component is taken to be a fee to cover the costs
+incurred by the Secretary in processing the application.
+Note—
+This amount is consequently a processing fee for the purposes of the Licensing and Registration (Uniform
+Procedures) Act 2002, Part 2. If an application is refused or withdrawn, the applicant is entitled to a refund
+of all fees paid, other than the processing fee—see that Act, section 22.
+(4) The amount specified in relation to an application fee in Schedule 14, Part 1, Column 4
+under the heading Compensation Fund contribution is prescribed as the amount of
+the contribution to the Compensation Fund payable by the applicant for the relevant
+licence.
+(5) The amount specified in relation to an application fee in Schedule 14, Part 1, Column 5
+under the heading Total is the total of—
+(a) the application fees payable by the applicant for the application, and
+(b) the contribution to the Compensation Fund payable by the applicant for the
+application, if any.
+(6) An applicant for the grant, renewal or restoration of 2 or more licences, or an
+applicant for the grant of a licence who is already a licensee, is not liable to pay fees
+or a Compensation Fund contribution for more than 1 of the licences that are granted,
+renewed or restored to expire at the same time.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 47 of 89
+
+--------------------------------------------------------------------------------
+62
+Secretary’s power to waive, reduce, postpone or refund fees—the Act, s 230
+The Secretary may waive, reduce, postpone or refund, in whole or part, a fee payable or
+paid under the Act or this Regulation if the Secretary is satisfied it is appropriate
+because—
+(a) the person who is to pay or has paid the fee is suffering financial hardship, or
+(b) special circumstances exist.
+Example of ‘special circumstances’—
+circumstances involving a natural disaster or recovery from a natural disaster
+63
+Partial refund of application fees for certain licences and certificates—the Act, s 230
+(1) This section applies to an application fee for a licence or a transitional assistant stock
+and station agent certificate with a term of 3 or 5 years, paid by or on behalf of a
+person who—
+(a) has surrendered or requested the cancellation of the licence or certificate, or
+(b) if the fee was paid by or on behalf of an individual—has died.
+(2) A person may apply to the Secretary for a refund of the application fee if the person—
+(a) paid the application fee, or
+(b) is applying for or on behalf of the person who paid the application fee, or
+(c) is the legal representative of a deceased individual who paid the application fee.
+(3) A person is not entitled to make an application under this section if the licence or
+certificate was surrendered or cancelled as a result of disciplinary or enforcement
+action.
+(4) A person who makes an application under subsection (2) is—
+(a) for a licence or certificate with a term of 3 years—entitled to a refund of one-third
+of the fixed component of the application fee paid for each complete year
+remaining for the licence or certificate, or
+(b) for a licence or certificate with a term of 5 years—entitled to a refund of one-fifth
+of the fixed component of the application fee paid for each complete year
+remaining for the licence or certificate.
+(5) In this section—
+application fee means the following—
+(a) an application fee for the grant of a class 1 licence, class 2 licence or corporation
+licence,
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 48 of 89
+
+--------------------------------------------------------------------------------
+(b) an application fee for the renewal of a class 1 licence, class 2 licence, corporation
+licence or a transitional assistant stock and station agent certificate,
+(c) an application fee for the restoration of a class 1 licence, class 2 licence,
+corporation licence or a transitional assistant stock and station agent certificate.
+fixed component, of an application fee, is the amount set out in Schedule 14, Part 1,
+Column 2 in relation to the fee.
+64
+Savings
+An act, matter or thing that, immediately before the repeal of the Property and Stock
+Agents Regulation 2014, had effect under that Regulation continues to have effect under
+this Regulation.
+Schedule 1 General rules of conduct applying to all agents and
+assistant agents
+section 8
+1
+Knowledge of Act and regulations
+An agent must have a knowledge and understanding of the following as necessary to
+enable the agent to exercise the agent’s functions lawfully—
+(a) the Act and the regulations under the Act,
+(b) other laws relevant to the category of licence or certificate of registration held by the
+agent, including laws relating to the following—
+(i) residential tenancy,
+(ii) fair trading,
+(iii) competition and consumer protection,
+(iv) anti-discrimination,
+(v) privacy.
+2
+Fiduciary obligations
+An agent must comply with the fiduciary obligations arising as an agent.
+3
+Honesty, fairness and professionalism
+(1) An agent must act honestly, fairly and professionally with all parties in a transaction.
+(2) An agent must not mislead or deceive a party in negotiations or a transaction.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 49 of 89
+
+--------------------------------------------------------------------------------
+4
+Skill, care and diligence
+An agent must exercise reasonable skill, care and diligence.
+5
+High pressure tactics, harassment or unconscionable conduct
+An agent must not engage in high pressure tactics, harassment or harsh or
+unconscionable conduct.
+6
+To act in client’s best interests
+An agent must act in the client’s best interests at all times unless to do so is—
+(a) contrary to the Act or regulations under the Act, or
+(b) otherwise unlawful.
+7
+Confidentiality
+An agent must not use or disclose confidential information obtained while acting on behalf
+of a client or dealing with a customer, unless—
+(a) the client or customer authorises the use or disclosure, or
+(b) the agent is permitted or compelled by law to use or disclose the information.
+8
+To act in accordance with client authority
+(1) An agent must not act as an agent, or represent that the agent is acting as an agent,
+on behalf of a person without the person’s written authority.
+(2) This section does not apply to a sale solely of livestock.
+9
+To act in accordance with client’s instructions
+An agent must act in accordance with a client’s instructions unless to do so is—
+(a) contrary to the Act or regulations under the Act, or
+(b) otherwise unlawful.
+10
+Licensee must ensure employees comply with the Act and regulations
+An agent who is the licensee in charge of a business must take reasonable steps to ensure
+other licensees or registered persons employed in the business comply with the Act and
+regulations under the Act.
+11
+Conflicts of interest
+An agent must not accept an appointment to act, or continue to act, as an agent if doing
+so places the agent’s interests in conflict with a client’s interests.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 50 of 89
+
+--------------------------------------------------------------------------------
+12
+Referral to service provider
+(1) An agent who refers a person to a service provider must not falsely represent to the
+person that the service provider is independent of the agent.
+(2) For this section, a service provider is independent of an agent if—
+(a) the agent receives no rebate, discount, commission or benefit for referring a client
+or customer to the service provider, and
+(b) the agent does not have a personal or commercial relationship with the service
+provider.
+(3) The following are examples of a personal or commercial relationship—
+(a) a family relationship,
+(b) a business relationship,
+(c) a fiduciary relationship,
+(d) a relationship in which one person is accustomed, or obliged, to act in accordance
+with the directions, instructions or wishes of the other person.
+(4) If the service provider is not independent of the agent, the agent must disclose to the
+person—
+(a) the nature of all relationships, whether personal or commercial, the agent has with
+the service provider, and
+(b) the nature and value of all rebates, discounts, commissions or benefits the agent
+may receive, or expects to receive, by referring the client or customer to the
+service provider.
+13
+Licensee not to recommend engagement of services of solicitor or licensed
+conveyancer acting for other party
+(1) An agent must not recommend that a person engage the services of a solicitor or
+licensed conveyancer, or a firm of solicitors or licensed conveyancers, if the agent
+knows the solicitor or licensed conveyancer, or the firm, acts or will be acting for the
+other party to the agreement.
+(2) Subsection (1) does not prevent an agent recommending that a person engage the
+services of a solicitor or licensed conveyancer, or a firm of solicitors or licensed
+conveyancers, if no other solicitor, licensed conveyancer or firm is available.
+Example—
+in a remote location
+(3) If no other solicitor, licensed conveyancer or firm is available, the agent must, in
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 51 of 89
+
+--------------------------------------------------------------------------------
+recommending the engagement of the solicitor, licensed conveyancer or firm, advise
+the person that the solicitor, licensed conveyancer or firm is or will be acting for the
+other party.
+14
+Inducements
+An agent must not offer to provide to a person a gift, favour or benefit, whether monetary
+or otherwise, to induce a third person to engage the services of the agent as agent.
+15
+Insertion of material particulars in documents
+An agent must not submit or tender a document to a person for signature, or cause or
+permit a document to be submitted or tendered to a person for signature, unless at the
+time of submission or tendering of the document all material particulars have been
+inserted in the document.
+16
+Duty to provide copy of signed documents
+An agent who submits or tenders a document to a person for signature, or who causes or
+permits a document to be submitted or tendered to a person for signature, must give a
+copy of the document to the person immediately after the person has signed the
+document.
+17
+Representations about the Act or regulations
+(1) An agent must not falsely represent to a person the nature or effect of a provision of
+the Act or regulations under the Act.
+(2) An agent must not falsely represent to a person, either expressly or impliedly,
+whether in writing or otherwise, that a particular form of agency agreement or a term
+of an agency agreement is required by the Act or regulations under the Act.
+18
+Agency agreements must comply with regulations
+An agent must not enter into an agency agreement unless the agreement complies with
+the applicable requirements of this Regulation relating to agency agreements.
+19
+Agent to pay rental income monthly to landlord
+An agent must pay rental money for each calendar month, less authorised expenses,
+owing to a landlord under a residential tenancy agreement at the end of each calendar
+month, unless instructed otherwise by the landlord.
+20
+Licensees and certificate holders not to receive certain gifts or benefits over certain
+amount
+The amount prescribed for the Act, section 53F(2)(d) is $60.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 52 of 89
+
+--------------------------------------------------------------------------------
+21
+Rental money and sales money to be in separate trust accounts
+An agent who is the licensee in charge of a business must ensure—
+(a) there are separate trust accounts for rental money and sales money, and
+(b) money from rentals and sales is paid into the appropriate accounts.
+22
+(Repealed)
+Schedule 2 Rules specific to real estate agents and assistant real
+estate agents
+section 8
+Part 1 Real estate and business sales
+Division 1 Application
+1
+Application of Part
+This Part applies to real estate agents and assistant real estate agents who exercise—
+(a) real estate sale or leasing functions in relation to the sale or purchase of land, or
+(b) business agent functions.
+Division 2 Agents acting for vendors
+2
+Preliminary physical inspection of property or business for sale must be conducted by
+agent
+An agent must not act on behalf of a vendor of a property or business unless the agent
+has conducted a preliminary physical inspection of the property or business.
+3
+Sales inspection report required for property or business
+(1) On completion of the inspection required by this Schedule, section 2, an agent for a
+vendor must prepare and give to the vendor a sales inspection report for the property
+or business.
+(2) The report must be signed by the agent and include the following—
+(a) the name and address of the vendor,
+(b) the date of preparation of the report,
+(c) the agent’s name, business address and telephone number,
+(d) a description of the property or business, including—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 53 of 89
+
+--------------------------------------------------------------------------------
+(i) the address of the property or business, and
+(ii) other details that may be necessary to enable the property or business to be
+readily identified, including, for a business, the business name and its
+Australian Business Number, if relevant,
+(e) for the sale of a property—a description of the fittings and fixtures to be included
+in the sale,
+(f) for the sale of a business—
+(i) a description of inclusions to be included in the sale, including goodwill, plant,
+fittings, stock in inventory and work in progress, and
+(ii) details of encumbrances affecting the inclusions,
+(g) the terms and conditions of sale known to the agent, including whether or not
+vacant possession is to be given,
+(h) the agent’s recommendation as to the most suitable method of sale of the
+property or business,
+(i) the agent’s estimate of the selling price or price range for the property or business,
+(j) details of covenants, easements, defects, local government notices or orders
+affecting the property or business known to the agent,
+(k) details of special instructions about the marketing and showing of the property or
+business, if any,
+(l) the following details relating to the solicitor of the vendor—
+(i) name and business address,
+(ii) telephone number,
+(iii) address for service of documents.
+4
+Confirmation of specific instructions—sale of business
+Before or at the time of entering into an agency agreement under which an agent will act
+for the vendor on the sale of a business, the agent must prepare for inclusion in the
+agency agreement written confirmation of the specific instructions about the following
+given to the agent by the vendor before the agreement is entered into—
+(a) inclusions to be included in the sale, including goodwill, plant, fittings, stock in
+inventory and work in progress, together with details of encumbrances affecting the
+inclusions,
+(b) arrangements for the transfer of liabilities for the leasing or hire purchase of the
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 54 of 89
+
+--------------------------------------------------------------------------------
+inclusions to the purchaser,
+(c) the marketing of the business,
+(d) the entitlement of prospective purchasers to inspect the premises of the business and
+the circumstances under which an inspection can be made,
+(e) the entitlement of prospective purchasers to inspect records, books of account and
+other documents concerning the business and the circumstances under which an
+inspection can be made.
+5
+Vendor to be informed of offer
+(1) The agent for the vendor must, unless the vendor has provided written instructions to
+the contrary, inform the vendor of all offers of purchase as soon as practicable after
+receiving each offer up until exchange of contracts has taken place.
+(2) If the agent is not going to inform the vendor of an offer, the agent must inform the
+person who made the offer that the offer will not be submitted to the vendor.
+(3) The agent may inform the vendor of an offer orally or in writing and must identify the
+party by whom the offer is made.
+(4) If the vendor is informed orally, the agent must provide written confirmation of the
+information.
+(5) This section does not apply to bids made during an auction.
+6
+Information to be given when expression of interest deposit paid
+(1) This section applies if a person intends to pay an expression of interest deposit,
+before the exchange of contracts, for the proposed purchase of a property or business.
+(2) The agent for the vendor must inform the person of the following, in writing, before
+the person pays the expression of interest deposit—
+(a) the vendor has no obligation to sell the property or business,
+(b) the person has no obligation to buy the property or business,
+(c) the deposit is refundable if a contract for the sale of the property or business is
+not entered into.
+(3) The agent must not accept the expression of interest deposit from the person unless
+the person has provided the agent with a written statement that—
+(a) is signed by the person, and
+(b) states that the person—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 55 of 89
+
+--------------------------------------------------------------------------------
+(i) has been given the information specified in subsection (2) by the agent, and
+(ii) understands the information.
+(4) The agent must promptly inform the vendor when an expression of interest deposit
+has been paid.
+(5) The agent must also—
+(a) promptly inform the person if a subsequent offer is made to purchase the property
+or business on which the expression of interest deposit has been paid, and
+(b) advise the person that the person has the right to make further offers up until
+exchange of contracts has taken place, and
+(c) refund the deposit to the person within 14 days if another person enters into a
+contract for the sale of the property or business.
+7
+Notifying managing agent of appointment to sell residential property or business
+If an agent accepts an appointment to sell residential property or a business that is
+leased, the agent must immediately give written notice of the appointment to any agent
+responsible for managing the property or business.
+8
+Agent must not accept payment for referral
+An agent for a vendor must not demand or accept a fee or other valuable consideration
+for referring the vendor to a buyer’s agent.
+Division 3 Agents acting for buyers
+9
+Statement of property details
+At the time of entering into an agency agreement with a person on behalf of whom an
+agent is to act as a buyer’s agent, the agent must prepare and give to the person a
+statement of property details signed by the agent and specifying the following—
+(a) details known to the agent of the type of property to be purchased,
+(b) details of special instructions about the property to be purchased, including an
+instruction that vacant possession is required for a rented property.
+Note—
+These details can be changed by agreement between the parties or as provided by the agency agreement.
+10
+Person on behalf of whom agent is acting as buyer’s agent to be informed of
+negotiations
+(1) An agent acting as a buyer’s agent for a person must keep the person informed of
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 56 of 89
+
+--------------------------------------------------------------------------------
+each stage of the negotiation of a purchase price as instructed by the person.
+(2) This section does not apply to bids made during an auction.
+11
+Buyer’s agent to obtain best possible purchase price
+An agent acting as a buyer’s agent must use the agent’s best efforts to obtain the best
+possible purchase price for the buyer.
+12
+Buyer’s agent not to exceed maximum purchase price fixed by client in negotiations or
+at auction
+(1) In negotiations for the purchase of a property, an agent acting as a buyer’s agent for
+a person (the client) must not exceed the maximum price fixed by the client
+without—
+(a) the express written authorisation of the client, or
+(b) the express written authorisation of a person authorised by the client.
+(2) If the bidding at an auction exceeds the maximum price fixed by the client, the
+buyer’s agent must not continue bidding without—
+(a) the express written authorisation of the client, or
+(b) the express written authorisation of a person authorised by the client.
+13
+Information to be given when expression of interest deposit paid
+(1) This section applies if an agent acting as a buyer’s agent for a person intends to pay
+an expression of interest deposit on the person’s behalf, before the exchange of
+contracts, for the proposed purchase of a property.
+(2) The agent must inform the person of the following in writing—
+(a) the vendor has no obligation to sell the property,
+(b) the person has no obligation to buy the property,
+(c) the deposit is refundable if a contract for the sale of the property is not entered
+into.
+(3) The agent must not pay the expression of interest deposit on the person’s behalf
+unless the person has provided the agent with a written statement that—
+(a) is signed by the person, and
+(b) states that the person—
+(i) has been given the information specified in subsection (2) by the agent, and
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 57 of 89
+
+--------------------------------------------------------------------------------
+(ii) understands the information.
+(4) The agent must also promptly inform the person if the agent becomes aware of a
+subsequent offer to purchase the property on which the expression of interest deposit
+has been paid.
+14
+Agent must not accept payment for referral
+An agent acting as a buyer’s agent for a person must not demand or accept a fee or other
+valuable consideration for referring the person to a selling agent.
+Division 4 Agents generally
+15
+Bidding on behalf of telephone bidder
+An agent must not bid at an auction on behalf of a person who is giving instructions to the
+agent by telephone unless the written authority for the agent to bid on behalf of the
+person contains an acknowledgment that the person has been given a copy of the
+conditions that apply to the sale.
+16
+Setting aside minimum or reserve price at auction
+If the bidding at an auction does not reach the minimum or reserve price fixed for the
+property or business by the vendor, the agent conducting the auction must not set aside
+the price without—
+(a) the express permission of the vendor, or
+(b) the express permission of a person authorised to give permission by the vendor.
+17
+Agent participating in exchange of contracts for residential property or business
+If an agent participates in the exchange or making of a contract for the sale of residential
+property or a business, the agent must serve a copy of the contract on the following
+within 2 business days—
+(a) each party to the contract, unless paragraph (b) requires the agent to serve a copy of
+the contract on a solicitor or conveyancer acting for the party,
+(b) if either of the following applies—the solicitor or conveyancer acting for a party to the
+contract—
+(i) the party has notified the agent that a solicitor or conveyancer is acting for the
+party,
+(ii) it is apparent from the contract that a solicitor or conveyancer is acting for the
+party.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 58 of 89
+
+--------------------------------------------------------------------------------
+Part 2 Property management
+18
+Application of Part
+This Part applies to real estate agents and assistant real estate agents who exercise—
+(a) real estate sale or leasing functions in relation to the lease of land, or
+(b) on-site residential property manager functions.
+19
+Inspection report
+(1) An agent must, as soon as practicable after entering into an agency agreement in
+relation to the management of a property, prepare and give to the owner of the
+property an inspection report for the property.
+(2) The inspection report must be signed by the agent and include the following—
+(a) the name and address of the owner,
+(b) the address of the property,
+(c) the date of preparation of the report,
+(d) the agent’s name, licence number and business address,
+(e) a description of the exterior and interior condition of the property, including
+fittings, fixtures, improvements and anything provided with the property,
+(f) details of work still to be completed by the owner on the property.
+20
+Inspection of property for rent
+(1) An agent must accompany a prospective tenant on an inspection of a property.
+(2) An agent must not give the keys to a property to a prospective tenant, even for a
+short time.
+(3) Subsections (1) and (2) do not apply if written authorisation is given by—
+(a) the owner, and
+(b) if the property is currently let—the tenant.
+21
+Maintenance of or repairs to rental property
+(1) An agent managing a rental property must—
+(a) promptly respond to a request by a tenant for maintenance of, or repairs to, the
+property, and
+(b) subject to the instructions of the owner, promptly attend to the request.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 59 of 89
+
+--------------------------------------------------------------------------------
+(2) If the owner has instructed that a repair is not to be carried out, the agent must
+inform the owner if the owner’s failure to carry out the repair constitutes a breach of a
+tenancy agreement in force in relation to the property.
+22
+Breach of tenancy agreement
+An agent managing a rental property must immediately give the owner written notice if
+the agent becomes aware of a tenant’s breach of the tenancy agreement.
+23
+Notifying tenant of appointment to sell
+(1) This section applies if an agent managing a rental property is aware—
+(a) the property is listed for sale, or
+(b) a real estate agent has been appointed to act on the sale of the property.
+(2) The agent must immediately give the tenant written notice of—
+(a) the intended sale of the property, or
+(b) the appointment of the real estate agent for the sale of the property and the
+name and contact details of the agent.
+24
+Final inspection of property
+(1) An agent must take all reasonable steps to ensure a final inspection of the property,
+on vacation of the property, is conducted in the presence of the tenant unless
+otherwise authorised by the tenant.
+(2) Reasonable steps by an agent include—
+(a) contacting the tenant to discuss suitable times for the inspection, and
+(b) arranging to meet the tenant at a particular time and place, and
+(c) meeting the tenant at the arranged time and place.
+25
+Obtaining tenant’s signature for rental bond refund
+An agent must not solicit or obtain the signature of a tenant to a document relating to the
+refund of a rental bond before the termination of the tenancy, unless—
+(a) the document directs the bond to be repaid in full to the tenant, or
+(b) the document directs the bond to be transferred to another tenancy in accordance
+with the tenant’s directions.
+26
+Confirmation of specific instructions—property management services
+(1) Before or at the time of entering into an agency agreement under which an agent will
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 60 of 89
+
+--------------------------------------------------------------------------------
+provide property management services in relation to the leasing of residential
+property or rural land, the agent must prepare written confirmation of the matters
+referred to in subsection (2) for inclusion in the agency agreement.
+(2) The written confirmation must state the extent of the agent’s authority to exercise the
+following functions in relation to the management of the property or land and the
+limitations, if any, on the agent’s authority to exercise the functions—
+(a) obtaining references from prospective tenants, arranging inspections of the
+property or land by prospective tenants and choosing a tenant,
+(b) entering into and signing a residential tenancy agreement, or a leasing agreement
+for rural land, including specifying the term for which the property or land may be
+let under the agreement,
+(c) undertaking inspections of the property or land,
+(d) effecting repairs to and maintaining the property or land, or engaging an
+appropriately qualified tradesperson for this purpose, including details of
+limitations on expenditure that may be incurred by the agent without obtaining
+the approval of the owner,
+(e) paying disbursements and expenses incurred in connection with the agent’s
+management of the property or land,
+(f) collecting rent,
+(g) receiving, claiming and disbursing rental bond money,
+(h) serving notices—
+(i) for breach of the residential tenancy agreement or the leasing agreement for
+rural land, or
+(ii) to terminate the residential tenancy agreement or the leasing agreement for
+rural land,
+(i) undertaking the necessary steps to obtain vacant possession and recover money
+owing to the owner in relation to the tenancy of the property or land,
+(j) representing the owner in tribunal or court proceedings in relation to the tenancy
+of the property or land,
+(k) paying accounts for amounts owing in relation to the property or land, including
+the following—
+(i) water rates and charges,
+(ii) council rates,
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 61 of 89
+
+--------------------------------------------------------------------------------
+(iii) insurance premiums,
+(iv) maintenance expenses,
+(v) owners corporation levies,
+(l) advertising the property or land for letting or re-letting,
+(m) reviewing the rent at the end of a tenancy.
+27
+Confirmation of specific instructions—leasing of property or land
+(1) Before or at the time of entering into an agency agreement under which an agent will
+act for the owner of residential property or rural land in relation to the entering into of
+a lease of the property or land, the agent must prepare written confirmation of the
+matters referred to in subsection (2) for inclusion in the agency agreement.
+(2) The written confirmation must state the extent of the agent’s authority to exercise the
+following functions in relation to the entering into of the lease of the property or land
+and the limitations, if any, on the agent’s authority to exercise the functions—
+(a) obtaining references from prospective tenants, arranging inspections of the
+property or land by prospective tenants and choosing a tenant,
+(b) entering into and signing a residential tenancy agreement or a leasing agreement
+for rural land,
+(c) undertaking an initial inspection of the property or land,
+(d) collecting the initial rent payment,
+(e) receiving and disbursing rental bond money,
+(f) advertising the property or land for letting.
+Schedule 3 Rules specific to stock and station agents and assistant
+stock and station agents
+section 8
+Part 1 Sales
+1
+Preliminary physical inspection of property to be conducted by agent
+(1) An agent must not act on behalf of a vendor on the sale of a property, including
+livestock included in the sale, unless the agent has conducted a preliminary physical
+inspection of the property.
+(2) This section does not apply to a sale solely of livestock.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 62 of 89
+
+--------------------------------------------------------------------------------
+2
+Sales inspection report required for property
+(1) On completion of the inspection required by this Schedule, section 1, an agent for a
+vendor must prepare and give to the vendor a sales inspection report for the property.
+(2) The report must be signed by the agent and specify the following—
+(a) the name and address of the vendor,
+(b) the date of preparation of the report,
+(c) the agent’s name, business address and telephone number,
+(d) a description of the property, including—
+(i) the address of the property and other details that may be necessary to enable
+the property to be readily identified, and
+(ii) the size of the property in hectares,
+(e) a description of the services provided to the property or located close to the
+property, including, for example, power, telephone, internet services, mail
+services, airstrips, schools and rail services,
+(f) information about the following in relation to the property—
+(i) details of the type of land or country, including the topography, soils, timber,
+arable areas and pasture development,
+(ii) water, including irrigation, dams and rainfall,
+(iii) production capacity,
+(g) a description of fittings and fixtures to be included in the sale of the property,
+(h) a description of items included in the sale, including houses and other
+accommodation, grain storage, woolsheds, sheep and cattle yards and plant and
+equipment,
+(i) a description of other items to be included in the sale, including livestock,
+(j) the terms and conditions of sale known to the agent, including whether or not
+vacant possession is to be given,
+(k) the agent’s recommendation as to the most suitable method of sale of the
+property,
+(l) the agent’s estimate of the selling price or price range for the property,
+(m) details of covenants, easements, defects, local government notices or orders
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 63 of 89
+
+--------------------------------------------------------------------------------
+affecting the property known to the agent,
+(n) details of special instructions about the marketing and showing of the property, if
+any,
+(o) the following details relating to the solicitor of the vendor—
+(i) name and business address,
+(ii) telephone number,
+(iii) address for service of documents.
+3
+Vendor to be informed of offer
+(1) The agent must, unless the vendor provides written instructions to the contrary,
+inform the vendor of all offers of purchase as soon as practicable after receiving each
+offer up until exchange of contracts has taken place.
+(2) If the agent is not going to inform the vendor of an offer, the agent must inform the
+person who made the offer that the offer will not be submitted to the vendor.
+(3) The agent may inform the vendor of an offer orally or in writing and must identify the
+party by whom the offer is made.
+(4) If the vendor is informed orally, the agent must provide written confirmation of the
+information.
+(5) This section does not apply to bids made during an auction.
+4
+Information to be given when expression of interest deposit paid
+(1) This section applies if a person intends to pay an expression of interest deposit,
+before the exchange of contracts, for the proposed purchase of a property.
+(2) The agent for the vendor must inform the person of the following, in writing, before
+the person pays the expression of interest deposit—
+(a) the vendor has no obligation to sell the property,
+(b) the person has no obligation to buy the property,
+(c) the deposit is refundable if a contract for the sale of the property is not entered
+into.
+(3) The agent must not accept the expression of interest deposit from the person unless
+the person has provided the agent with a written statement that—
+(a) is signed by the person, and
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 64 of 89
+
+--------------------------------------------------------------------------------
+(b) states that the person—
+(i) has been given the information specified in subsection (2) by the agent, and
+(ii) understands the information.
+(4) The agent must promptly inform the vendor when an expression of interest deposit
+has been paid.
+(5) The agent must also—
+(a) promptly inform the person if a subsequent offer is made to purchase the property
+on which the expression of interest deposit has been paid, and
+(b) advise the person they have the right to make further offers up until exchange of
+contracts has taken place, and
+(c) refund the deposit to the person within 14 days if another person enters into a
+contract for the sale of the property.
+5
+Agent must not accept payment for referral
+An agent for a vendor must not demand or accept a fee or other valuable consideration
+for referring the vendor to a buyer’s agent.
+6
+Bidding on behalf of telephone bidder
+An agent must not bid at an auction on behalf of a person who is giving instructions to the
+agent by telephone unless the written authority for the agent to bid on behalf of the
+person contains an acknowledgment that the person has been given a copy of the
+conditions that apply to the sale.
+7
+Setting aside minimum or reserve price at auction
+If the bidding at an auction does not reach the minimum or reserve price fixed for the
+property by the vendor, the agent conducting the auction must not set aside the price
+without—
+(a) the express permission of the vendor, or
+(b) the express permission of a person authorised to give permission by the vendor.
+8
+Theft of livestock
+An agent who suspects, at an auction for the sale of livestock or at another time, that
+livestock may have been stolen or otherwise unlawfully obtained must inform a police
+officer of the cause of the suspicion as soon as reasonably practicable.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 65 of 89
+
+--------------------------------------------------------------------------------
+Part 2 Property management
+9
+Inspection report
+(1) An agent must, as soon as practicable after entering into an agency agreement in
+relation to the management of a property, prepare and give to the owner an
+inspection report for the property.
+(2) The inspection report must be signed by the agent and include the following—
+(a) the name and address of the owner,
+(b) the address of the property,
+(c) the date of preparation of the report,
+(d) the agent’s name, licence number and business address,
+(e) a description of the exterior and interior condition of the property, including
+fittings, fixtures, improvements and anything provided with the property,
+(f) details of work still to be completed by the owner on the property.
+10
+Inspection of property for rent
+(1) An agent must accompany a prospective tenant on an inspection of the property.
+(2) An agent must not give the keys to a property to a prospective tenant, even for a
+short time.
+(3) Subsections (1) and (2) do not apply if written authorisation is given by—
+(a) the owner, and
+(b) if the property is currently let—the tenant.
+11
+Maintenance of or repairs to rental property
+(1) An agent managing a rental property must—
+(a) promptly respond to a request by a tenant for maintenance of, or repairs to, the
+property, and
+(b) subject to the instructions of the owner, promptly attend to the request.
+(2) If the owner has instructed that a repair is not to be carried out, the agent must
+inform the owner if the owner’s failure to carry out the repair constitutes a breach of a
+tenancy agreement in force in relation to the property.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 66 of 89
+
+--------------------------------------------------------------------------------
+12
+Breach of tenancy agreement
+An agent managing a rental property must immediately give the owner written notice if
+the agent becomes aware of a tenant’s breach of the tenancy agreement.
+13
+Notifying tenant of appointment to sell
+(1) This section applies if an agent managing a rental property is aware—
+(a) the property is listed for sale, or
+(b) an agent has been appointed to act on the sale of the property.
+(2) The agent must immediately give the tenant written notice of—
+(a) the intended sale of the property, or
+(b) the appointment of the agent for the sale of the property and the name and
+contact details of the agent.
+14
+Final inspection of property
+(1) An agent must take all reasonable steps to ensure a final inspection of the property,
+on vacation of the property, is conducted in the presence of the tenant unless
+otherwise authorised by the tenant.
+(2) Reasonable steps by an agent include—
+(a) contacting the tenant to discuss suitable times for the inspection, and
+(b) arranging to meet the tenant at a particular time and place, and
+(c) meeting the tenant at the arranged time and place.
+Schedule 4 Rules specific to strata managing agents and assistant
+strata managing agents
+section 8
+1
+Co-operation about records, access and transfer
+(1) If an agent is acting on behalf of a person in the management of a property and is
+advised by another agent that the other agent (the new agent) has been engaged to
+act on behalf of the person in the management of the property, the agent must co-
+operate with the new agent—
+(a) in relation to access to the records of the person, including by making the records
+reasonably available, according to law, and
+(b) by facilitating the transfer of management functions between the agent and the
+new agent.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 67 of 89
+
+--------------------------------------------------------------------------------
+(2) Subsection (3) applies if an agent is acting on behalf of an owners corporation or
+association in the management of a property and is advised by the owners corporation
+or association that—
+(a) the agent is no longer to act on behalf of the owners corporation or association,
+and
+(b) no other agent is being appointed.
+(3) The agent must co-operate with the owners corporation or association—
+(a) in relation to access to the records of the owners corporation or association,
+including by making the records reasonably available, according to law, and
+(b) by facilitating the transfer of management functions between the agent and the
+owners corporation or association.
+2
+Confirmation of specific instructions—strata managing agent
+(1) Before or at the time of entering into an agency agreement under which an agent will
+exercise the functions of a strata managing agent, the agent must prepare written
+confirmation of the matters referred to in subsection (2) for inclusion in the agency
+agreement.
+(2) The written confirmation must state the extent of the agent’s authority to exercise the
+following functions and the limitations, if any, on the agent’s authority to exercise the
+functions—
+(a) undertaking the financial management of funds and books of account,
+(b) holding documents and maintaining records relating to the scheme, including the
+strata roll and notices and minutes of meetings,
+(c) arranging building inspections and reports,
+(d) effecting repairs to and maintaining common property, or engaging an
+appropriately qualified tradesperson for this purpose, including details of
+limitations on expenditure that may be incurred by the agent without obtaining
+the approval of the person on behalf of whom the agent is acting,
+(e) paying disbursements and expenses incurred in connection with the agent’s
+management of the scheme,
+(f) arranging insurance cover for the scheme,
+(g) serving notices to comply with a by-law,
+(h) managing the capital works fund and the administrative fund,
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 68 of 89
+
+--------------------------------------------------------------------------------
+(i) undertaking steps necessary to recover money owing in relation to levies,
+(j) representing the owners corporation or association in tribunal or court
+proceedings,
+(k) paying accounts in relation to the scheme, including accounts for water charges,
+council rates and maintenance,
+(l) arranging and undertaking administrative duties in relation to annual general
+meetings and other general meetings.
+Schedule 5 Terms applying to all agency agreements
+section 9
+1
+Identification of property, business or professional practice
+(1) The agency agreement must—
+(a) specify the address of the property, business or professional practice to which the
+agency agreement applies, or
+(b) contain another description of the property, business or professional practice to
+clearly identify the property, business or professional practice.
+(2) This section does not apply to an agency agreement to act as a buyer’s agent.
+2
+Names of parties to agreement
+The agency agreement must specify the names of each of the parties to the agency
+agreement, including the licensee.
+3
+Information identifying parties
+The agency agreement must specify—
+(a) the address of the person on behalf of whom the licensee is acting, and
+(b) the licensee’s licence number, and
+(c) the business name, if any, under which the licensee conducts business.
+4
+Authority of person on behalf of whom agent will act to enter into agreement
+The agency agreement must contain a statement to the effect that the person on behalf
+of whom the licensee is acting warrants that the person has authority to enter into the
+agency agreement.
+5
+Authorisation for licensee to act on behalf of person
+The agency agreement must contain a term containing particulars of the extent of the
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 69 of 89
+
+--------------------------------------------------------------------------------
+authority of the licensee to act as an agent on behalf of the person on behalf of whom the
+licensee is acting in providing services under the agency agreement.
+6
+Duration of agreement
+The agency agreement must contain a term indicating—
+(a) the period for which the agency agreement remains in force, or
+(b) that the agency agreement remains in force until terminated.
+7
+Termination of agreement
+If the agency agreement provides for its termination by a party to the agency agreement,
+the agreement must indicate how and when it may be terminated.
+8
+Reimbursement of licensee
+(1) If the licensee is to be entitled to a sum or reimbursement for expenses or charges
+incurred by the licensee in connection with services provided under the agency
+agreement, the agreement must include a term that—
+(a) states the licensee has this entitlement, and
+(b) describes the services to which the entitlement relates, and
+(c) specifies the amount to which the licensee is entitled and when it is payable, and
+(d) states the services and amounts may not be varied except with the written
+agreement of the person on behalf of whom the licensee is acting.
+(2) Subsection (1)(d) does not apply to an agency agreement for the exercise of the
+functions of a strata managing agent.
+9
+Remuneration
+(1) The agency agreement must include a term specifying—
+(a) the circumstances in which the licensee is entitled to remuneration, by
+commission or otherwise, for services performed under the agency agreement,
+and
+(b) the amount of the remuneration or the way in which it is to be calculated, and
+(c) when the remuneration is payable.
+(2) If the agency agreement relates to the sale or purchase of residential property and
+provides for payment of commission to the licensee calculated as a percentage of the
+sale or purchase price, the term must also specify the amount of the remuneration to
+which the licensee may be entitled calculated on the basis of a specified estimated
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 70 of 89
+
+--------------------------------------------------------------------------------
+sale or purchase price for the property.
+Schedule 6 Terms specific to agency agreement for sale of residential
+property
+section 9
+1
+Exclusive agency and sole agency agreements
+(1) If the agency agreement is an exclusive agency agreement the agreement must
+include the following statement—
+IMPORTANT—This is an exclusive agency agreement. This means you may have to pay
+the agent commission even if—
+(a) you or another agent sells the property, or
+(b) another agent introduces a buyer who later buys the property.
+(2) If the agency agreement is a sole agency agreement the agreement must include the
+following statement—
+IMPORTANT—This is a sole agency agreement. This means you may have to pay the
+agent commission even if—
+(a) another agent sells the property, or
+(b) another agent introduces a buyer who later buys the property.
+(3) An agency agreement is an exclusive agency agreement if the agreement provides
+for the agent to be entitled to commission on the happening of an event—
+(a) whether or not the agent is the effective cause of the happening of the event, and
+(b) whether or not the client is the effective cause of the happening of the event.
+(4) An agency agreement is a sole agency agreement if the agreement provides for
+the agent to be entitled to commission on the happening of an event, whether or not
+the agent is the effective cause of the happening of the event, unless the client is the
+effective cause of the happening of the event.
+(5) A statement required by this section to be included in an agency agreement—
+(a) must be included in the agreement immediately following the term required by
+Schedule 5, section 9, and
+(b) must be no less prominent than the term.
+2
+Warning about other agency agreements
+(1) The agency agreement must include the following statement—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 71 of 89
+
+--------------------------------------------------------------------------------
+WARNING—Have you signed an agency agreement for the sale of this property with
+another agent? If you have, and if either this agreement or the other agreement you
+have signed is a sole agency agreement or an exclusive agency agreement, you may
+have to pay 2 commissions.
+(2) A statement required by this section to be included in an agency agreement—
+(a) must be included in the agreement—
+(i) immediately following the term required by Schedule 5, section 9, or
+(ii) immediately following the statement required by this Schedule, section 1, and
+(b) must be no less prominent than the term or statement.
+3
+Warning if agreement includes term that commission is payable
+(1) If the agency agreement includes a term that a commission is payable even if the sale
+of the property is not completed, the agency agreement must include the following
+statement—
+WARNING—The term immediately above provides that a commission is payable under
+this agreement even if the sale of the property is not completed.
+(2) The statement—
+(a) must be included in the agreement immediately following the term, and
+(b) must be no less prominent than the term.
+4
+Fixed term agency agreements
+(1) If the agency agreement is for a fixed term of more than 90 days, the agreement must
+include a term that entitles the person on behalf of whom the agent is acting to
+terminate the agreement, without penalty, by giving 30 days’ written notice to the
+agent at any time after the end of the first 90 days of the term.
+(2) This section does not apply to an agency agreement on the sale of residential
+property if the contract for sale provides for the construction by the seller of a
+dwelling on the land.
+5
+Price at which property is to be offered
+If the agency agreement provides for residential property to be offered for sale by private
+treaty, the agreement must specify the price at which the property is to be offered.
+6
+Providing person on behalf of whom agent is acting with consumer guide
+The agency agreement must include a provision that states—
+(a) whether or not the agent provided the person on behalf of whom the agent is acting
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 72 of 89
+
+--------------------------------------------------------------------------------
+with a copy of the approved guide mentioned in the Act, section 56 before the
+agreement was entered into, and
+(b) if the guide was provided—the date it was provided.
+7
+Cooling-off period
+(1) The agency agreement must include the following statement—
+COOLING-OFF PERIOD—You (the vendor) have a cooling-off period for this agreement.
+If you do not wish to continue with this agreement, you can cancel it until 5pm on—
+(a) the next business day, or
+(b) for an agreement signed on a Friday—the Saturday immediately after.
+(2) A statement required by this section to be included in an agency agreement—
+(a) must be included in the agreement close to the place where the person on behalf
+of whom the agent is acting signs the agreement, and
+(b) must be no less prominent than the other terms of the agreement.
+8
+Sales inspection report to form part of agreement
+The agency agreement must include a copy of the sales inspection report prepared and
+given by the agent, under Schedule 2, section 3, to the person on behalf of whom the
+agent is acting.
+Schedule 7 Terms specific to buyer’s agent agency agreement
+section 9
+1
+Property details
+The agency agreement must include a copy of the statement prepared and given by the
+agent, under Schedule 2, section 9, to the person on behalf of whom the agent is acting.
+2
+Purchase price range
+The agency agreement must specify a price or price range as the maximum price or the
+price range that the person on behalf of whom the agent is acting is prepared to pay for a
+property.
+Schedule 8 Terms specific to agency agreement for sale of rural land
+section 9
+1
+Exclusive agency and sole agency agreements
+(1) If the agency agreement is an exclusive agency agreement the agreement must
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 73 of 89
+
+--------------------------------------------------------------------------------
+include the following statement—
+IMPORTANT—This is an exclusive agency agreement. This means you may have to pay
+the agent commission even if—
+(a) you or another agent sells the property, or
+(b) another agent introduces a buyer who later buys the property.
+(2) If the agency agreement is a sole agency agreement the agreement must include the
+following statement—
+IMPORTANT—This is a sole agency agreement. This means you may have to pay the
+agent commission even if—
+(a) another agent sells the property, or
+(b) another agent introduces a buyer who later buys the property.
+(3) An agency agreement is an exclusive agency agreement if the agreement provides
+for the agent to be entitled to commission on the happening of an event—
+(a) whether or not the agent is the effective cause of the happening of the event, and
+(b) whether or not the client is the effective cause of the happening of the event.
+(4) An agency agreement is a sole agency agreement if the agreement provides for
+the agent to be entitled to commission on the happening of an event, whether or not
+the agent is the effective cause of the happening of the event, unless the client is the
+effective cause of the happening of the event.
+(5) A statement required by this section to be included in an agency agreement—
+(a) must be included in the agreement immediately following the term required by
+Schedule 5, section 9, and
+(b) must be no less prominent than the term.
+2
+Warning about other agency agreements
+(1) The agency agreement must include the following statement—
+WARNING—Have you signed an agency agreement for the sale of this property with
+another agent? If you have, and if either this agreement or the other agreement you
+have signed is a sole agency agreement or an exclusive agency agreement, you may
+have to pay 2 commissions.
+(2) A statement required by this section to be included in an agency agreement—
+(a) must be included in the agreement—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 74 of 89
+
+--------------------------------------------------------------------------------
+(i) immediately following the term required by Schedule 5, section 9, or
+(ii) immediately following the statement required by this Schedule, section 1, and
+(b) must be no less prominent than the term or statement.
+3
+Warning if agreement includes term that commission is payable
+(1) If the agency agreement includes a term that a commission is payable even if the sale
+of the property is not completed, the agency agreement must include the following
+statement—
+WARNING—The term immediately above provides that a commission is payable under
+this agreement even if the sale of the property is not completed.
+(2) The statement—
+(a) must be included in the agreement immediately following the term, and
+(b) must be no less prominent than the term.
+4
+Price at which property is to be offered
+If the agency agreement provides for the property to be offered for sale by private treaty,
+the agency agreement must specify the price at which the property is to be offered.
+5
+Cooling-off period
+(1) The agency agreement must include the following statement—
+COOLING-OFF PERIOD—You (the vendor) have a cooling-off period for this agreement.
+If you do not wish to continue with this agreement, you can cancel it until 5pm on—
+(a) the next business day, or
+(b) for an agreement signed on a Friday—the Saturday immediately after.
+(2) A statement required by this section to be included in an agency agreement—
+(a) must be included in the agreement close to the place where the person on behalf
+of whom the agent is acting signs the agreement, and
+(b) must be no less prominent than the other terms of the agreement.
+6
+Sales inspection report to form part of agreement
+The agency agreement must include a copy of the sales inspection report prepared and
+given by the agent, under Schedule 3, section 2, to the person on behalf of whom the
+agent is acting.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 75 of 89
+
+--------------------------------------------------------------------------------
+Schedule 9 Terms specific to agency agreement for sale of business
+section 9
+1
+Exclusive agency and sole agency agreements
+(1) If the agency agreement is an exclusive agency agreement the agreement must
+include the following statement—
+IMPORTANT—This is an exclusive agency agreement. This means you may have to pay
+the agent commission even if—
+(a) you or another agent sells the business, or
+(b) another agent introduces a buyer who later buys the business.
+(2) If the agency agreement is a sole agency agreement the agreement must include the
+following statement—
+IMPORTANT—This is a sole agency agreement. This means you may have to pay the
+agent commission even if—
+(a) another agent sells the business, or
+(b) another agent introduces a buyer who later buys the business.
+(3) An agency agreement is an exclusive agency agreement if the agreement provides
+for the agent to be entitled to commission on the happening of an event—
+(a) whether or not the agent is the effective cause of the happening of the event, and
+(b) whether or not the client is the effective cause of the happening of the event.
+(4) An agency agreement is a sole agency agreement if the agreement provides for
+the agent to be entitled to commission on the happening of an event, whether or not
+the agent is the effective cause of the happening of the event, unless the client is the
+effective cause of the happening of the event.
+(5) A statement required by this section to be included in an agency agreement—
+(a) must be included in the agreement immediately following the term required by
+Schedule 5, section 9, and
+(b) must be no less prominent than the term.
+2
+Warning about other agency agreements
+(1) The agency agreement must include the following statement—
+WARNING—Have you signed an agency agreement for the sale of this business with
+another agent? If you have, and if either this agreement or the other agreement you
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 76 of 89
+
+--------------------------------------------------------------------------------
+have signed is a sole agency agreement or an exclusive agency agreement, you may
+have to pay 2 commissions.
+(2) A statement required by this section to be included in an agency agreement—
+(a) must be included in the agreement—
+(i) immediately following the term required by Schedule 5, section 9, or
+(ii) immediately following the statement required by this Schedule, section 1, and
+(b) must be no less prominent than the term or statement.
+3
+Warning if agreement includes term that commission is payable
+(1) If the agency agreement includes a term that a commission is payable even if the sale
+of the business is not completed, the agency agreement must include the following
+statement—
+WARNING—The term immediately above provides that a commission is payable under
+this agreement even if the sale of the business is not completed.
+(2) The statement—
+(a) must be included in the agreement immediately following the term, and
+(b) must be no less prominent than the term.
+4
+Sales inspection report to form part of agreement
+The agency agreement must include a copy of the sales inspection report prepared and
+given by the agent, under Schedule 2, section 3, to the person on behalf of whom the
+agent is acting.
+5
+Confirmation of instructions to form part of agreement
+The agency agreement must include the written confirmation, prepared by the agent for
+the purposes of Schedule 2, section 4, of the specific instructions given to the agent by
+the vendor before entering into the agreement.
+Schedule 10 Terms specific to agency agreement for management of
+residential property or rural land
+section 9
+1
+Extent of agent’s authority
+The agency agreement must include the written confirmation, prepared by the agent for
+the purposes of Schedule 2, section 26, of the extent of the agent’s authority to exercise
+functions in relation to the management of the property or land and the limitations, if any,
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 77 of 89
+
+--------------------------------------------------------------------------------
+on the agent’s authority to exercise the functions.
+2
+Accounting to person on behalf of whom agent is acting in relation to money received
+The agency agreement must specify the following in relation to money received by the
+agent on behalf of the person for whom the agent is acting—
+(a) the way in which the agent is required to account to the person,
+(b) the frequency with which the agent is required to account to the person.
+Schedule 11 Terms specific to agency agreement for leasing of
+residential property or rural land
+section 9
+1
+Extent of agent’s authority
+The agency agreement must include the written confirmation, prepared by the agent for
+the purposes of Schedule 2, section 27, of the extent of the agent’s authority to exercise
+functions in relation to the entering into of the lease and the limitations, if any, on the
+agent’s authority to exercise the functions.
+2
+Details about period of tenancy, rent and bond
+The agency agreement must specify the following—
+(a) the period of the tenancy,
+(b) the amount of the rent to be paid,
+(c) the rent payment period,
+(d) the amount of the bond to be paid.
+Schedule 12 Terms specific to agency agreement for management of
+strata or community title land
+section 9
+1
+Extent of agent’s authority
+The agency agreement must include the written confirmation, prepared by the agent for
+the purposes of Schedule 4, section 2, of the extent of the agent’s authority to exercise
+the functions of a strata managing agent and the limitations, if any, on the agent’s
+authority to exercise the functions.
+2
+Effect of statutory appointment of managing agent
+The agency agreement must include a term or terms to the effect of the following—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 78 of 89
+
+--------------------------------------------------------------------------------
+(a) the agent does not have, and may not exercise, the functions of the owners
+corporation or association that are conferred on another agent appointed for the
+owners corporation or association for the time being under—
+(i) the Strata Schemes Management Act 2015, section 237, or
+(ii) the Community Land Management Act 2021, section 196,
+(b) the agency agreement is terminated if—
+(i) another agent is appointed under the Strata Schemes Management Act 2015,
+section 237 or the Community Land Management Act 2021, section 196, and
+(ii) the other agent is appointed to exercise all the functions of the owners corporation
+or association,
+(c) the agent is not entitled to remuneration in the form of commission or otherwise in
+relation to the period after termination of the agency agreement as referred to in
+paragraph (b),
+(d) the agent is not entitled to a payment, in the nature of a penalty or otherwise,
+because of the termination of the agency agreement as referred to in paragraph (b).
+3
+Renewal of agreement for fixed term
+(1) If the agency agreement is for a fixed term, it must not contain a provision that
+operates to renew the agreement for a subsequent fixed term of more than 3 months
+unless the agreement also provides for the person on behalf of whom the agent is
+acting to be able to terminate the agreement, without penalty, by giving 3 months’
+notice of termination during the subsequent fixed term.
+(2) Subsection (1) does not prevent the person on behalf of whom the agent is acting
+from agreeing in writing to the renewal of the agreement for a further fixed term.
+4
+Accounting to person on behalf of whom agent is acting in relation to money received
+The agency agreement must specify the following in relation to money received by the
+agent on behalf of the person for whom the agent is acting—
+(a) the way in which the agent is required to account to the person,
+(b) the frequency with which the agent is required to account to the person.
+5
+Indemnification of strata managing agent prohibited
+An agency agreement under which the agent will exercise the functions of a strata
+managing agent must not contain a term that indemnifies the agent against a liability to
+pay a fine arising under the Strata Schemes Management Act 2015, section 57(1).
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 79 of 89
+
+--------------------------------------------------------------------------------
+6
+No commission or expenses for work not done
+(1) The agency agreement must not contain a provision that permits the agent to require
+the person for whom the agent is acting, or another person, to pay a commission to
+the agent in relation to a prescribed purchase of insurance.
+(2) The agency agreement must contain a provision that prohibits the agent requiring the
+person for whom the agent is acting, or another person, to pay a commission to the
+agent in relation to a prescribed purchase of insurance.
+(3) In this section—
+prescribed purchase of insurance means a purchase of an insurance policy where
+the person for whom the agent is acting obtained the quotation for the insurance
+policy and arranged the purchase of the insurance policy without the assistance of the
+agent.
+Schedule 13 Penalty notice offences
+1
+Application of Schedule
+(1) For the Act, section 216—
+(a) each offence created by a provision specified in this Schedule is an offence for
+which a penalty notice may be issued, and
+(b) the amount payable for the penalty notice is the amount specified opposite the
+provision.
+(2) If the provision is qualified by words that restrict its operation to limited kinds of
+offences or to offences committed in limited circumstances, the penalty notice may be
+issued only for—
+(a) the limited kind of offence, or
+(b) an offence committed in those limited circumstances.
+Column 1
+Column 2
+Column 3
+Provision
+Penalty—individual
+Penalty—corporation
+Offences under the Act
+Section 8(1)
+$1,100
+—
+Section 9(1)
+—
+$2,200
+Section 10(1)
+$1,100
+—
+Section 11(1)
+$550
+—
+Section 11(2)
+$550
+—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 80 of 89
+
+--------------------------------------------------------------------------------
+Section 12
+$550
+—
+Section 28(4)
+$550
+—
+Section 29(1)
+$550
+—
+Section 29(2)
+$550
+—
+Section 29(3)
+$550
+—
+Section 30(1)
+$550
+—
+Section 30(5)
+$550
+—
+Section 31(1)
+$1,100
+—
+Section 31(2)
+—
+$2,200
+Section 31(3)
+$1,100
+$2,200
+Section 31(4)
+$1,100
+—
+Section 32(2)
+$1,100
+—
+Section 32(4)
+$1,100
+$2,200
+Section 33(1)
+$550
+$1,100
+Section 34(3)
+$550
+—
+Section 35(1)
+$1,100
+—
+Section 35(2)
+$1,100
+—
+Section 37(2)
+$1,100
+$2,200
+Section 39(1)
+$550
+—
+Section 40
+$1,100
+—
+Section 42(1)
+$550
+—
+Section 42(3)
+$550
+—
+Section 43(1)
+$550
+—
+Section 44
+$550
+—
+Section 45
+$550
+—
+Section 46(2)
+$2,200
+—
+Section 47(1)
+$2,200
+—
+Section 48(2)
+$1,100
+$2,200
+Section 49(1)
+$2,200
+—
+Section 49(2)
+$2,200
+—
+Section 50(1)
+$1,100
+—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 81 of 89
+
+--------------------------------------------------------------------------------
+Section 50(2)
+$1,100
+—
+Section 52(1)
+$2,200
+—
+Section 55(4)
+$1,100
+$2,200
+Section 56(1)
+$550
+—
+Section 58(1)
+$1,100
+$2,200
+Section 58(2)
+$1,100
+$2,200
+Section 63(2)
+$1,100
+—
+Section 66(1)
+$2,200
+—
+Section 67(1)
+$1,100
+—
+Section 68(1)
+$1,100
+—
+Section 68(4)
+$1,100
+—
+Section 69(1)
+$1,100
+—
+Section 69(3)
+$1,100
+—
+Section 70(1)
+$1,100
+—
+Section 71(2)
+$550
+—
+Section 72A(6)
+$2,200
+—
+Section 73(1)
+$2,200
+—
+Section 73(2)
+$2,200
+—
+Section 73(3)
+$2,200
+—
+Section 73A(1)
+$2,200
+—
+Section 73B(1)
+$2,200
+—
+Section 74(2)
+$2,200
+—
+Section 78(1)
+$1,100
+$2,200
+Section 78(2)
+$1,100
+$2,200
+Section 78(3)
+$550
+—
+Section 79(1)
+$550
+$1,100
+Section 79(2)
+$550
+$1,100
+Section 80
+$550
+—
+Section 81(2)
+$550
+—
+Section 82(2)
+$550
+—
+Section 83(1)
+$550
+—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 82 of 89
+
+--------------------------------------------------------------------------------
+Section 83(2)
+$550
+—
+Section 86(1)
+$1,100
+—
+Section 86(2)
+—
+$1,100
+Section 86(3)
+$1,100
+—
+Section 86(4)
+$1,100
+—
+Section 86(5)
+$1,100
+—
+Section 89
+$1,100
+—
+Section 90(1)
+—
+$1,100
+Section 91(1)
+—
+$1,100
+Section 91(2)
+—
+$1,100
+Section 91(3)
+—
+$1,100
+Section 92
+—
+$1,100
+Section 93
+—
+$1,100
+Section 94
+—
+$1,100
+Section 102(1)
+$2,200
+—
+Section 102(2)
+$2,200
+—
+Section 104(1)
+$550
+—
+Section 104(2)
+$550
+—
+Section 104(3)
+$550
+—
+Section 110(1)(a)
+$1,100
+—
+Section 110(1)(b)
+$1,100
+—
+Section 110(1)(c)
+$1,100
+—
+Section 110(1)(d)
+$1,100
+—
+Section 110(3)
+$110
+—
+Section 111(1)
+$550
+$1,100
+Section 111(3)
+$550
+$1,100
+Section 119(1)
+—
+$5,500
+Section 119(3)
+$1,100
+—
+Section 120
+$1,100
+—
+Section 137
+$1,100
+—
+Section 143(1)
+$1,100
+—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 83 of 89
+
+--------------------------------------------------------------------------------
+Section 145(a)
+$1,100
+—
+Section 145(b)
+$1,100
+—
+Section 145(c)
+$1,100
+—
+Section 145(d)
+$1,100
+—
+Section 145(e)
+$1,100
+—
+Section 145(f)
+$1,100
+—
+Section 163(2)
+$550
+—
+Section 164
+$1,100
+—
+Section 184(2)(a)
+$550
+—
+Section 184(2)(b)
+$550
+—
+Section 185
+$550
+—
+Section 202
+$1,100
+$2,200
+Section 203
+$550
+$1,100
+Section 207(a)
+$2,200
+—
+Section 207(b)
+$2,200
+—
+Section 207(c)
+$2,200
+—
+Section 219(1)
+$550
+—
+Offences under this Regulation
+Each provision of this Regulation
+that creates an offence
+$550
+$1,100
+Schedule 14 Fees and Compensation Fund contributions
+section 61
+Part 1 Fees and Compensation Fund contributions payable
+Item
+Column 1
+Column 2
+Column 3
+Column 4
+Column 5
+Type of fee
+Fixed
+component (in
+fee units)
+Processing
+component (in
+fee units)
+Compensation
+Fund
+contribution (in
+fee units)
+Total (in fee units)
+1
+Application for grant
+of class 1 licence—
+(a) for 1 year
+2.35
+4.26
+0.72
+7.33
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 84 of 89
+
+--------------------------------------------------------------------------------
+(b) for 3 years
+7.05
+4.26
+2.16
+13.47
+(c) for 5 years
+11.75
+4.26
+3.60
+19.61
+2
+Application for
+renewal of class 1
+licence—
+(a) for 1 year
+2.35
+1.42
+0.72
+4.49
+(b) for 3 years
+7.05
+1.42
+2.16
+10.63
+(c) for 5 years
+11.75
+1.42
+3.60
+16.77
+3
+Application for
+restoration of class 1
+licence—
+(a) for 1 year
+2.35
+2.84
+0.72
+5.91
+(b) for 3 years
+7.05
+2.84
+2.16
+12.05
+(c) for 5 years
+11.75
+2.84
+3.60
+18.19
+4
+Application for grant
+of class 2 licence—
+(a) for 1 year
+2.35
+2.13
+0.36
+4.84
+(b) for 3 years
+7.05
+2.13
+1.08
+10.26
+(c) for 5 years
+11.75
+2.13
+1.80
+15.68
+5
+Application for
+renewal of class 2
+licence—
+(a) for 1 year
+2.35
+0.71
+0.36
+3.42
+(b) for 3 years
+7.05
+0.71
+1.08
+8.84
+(c) for 5 years
+11.75
+0.71
+1.80
+14.26
+6
+Application for
+restoration of class 2
+licence—
+(a) for 1 year
+2.35
+1.42
+0.36
+4.13
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 85 of 89
+
+--------------------------------------------------------------------------------
+(b) for 3 years
+7.05
+1.42
+1.08
+9.55
+(c) for 5 years
+11.75
+1.42
+1.80
+14.97
+7
+Application for grant
+of corporation
+licence—
+(a) for 1 year
+2.35
+6.39
+1.44
+10.18
+(b) for 3 years
+7.05
+6.39
+3.24
+16.68
+(c) for 5 years
+11.75
+6.39
+5.40
+23.54
+8
+Application for
+renewal of
+corporation licence—
+(a) for 1 year
+2.35
+2.13
+1.44
+5.92
+(b) for 3 years
+7.05
+2.13
+3.24
+12.42
+(c) for 5 years
+11.75
+2.13
+5.40
+19.28
+9
+Application for
+restoration of
+corporation licence—
+(a) for 1 year
+2.35
+4.26
+1.44
+8.05
+(b) for 3 years
+7.05
+4.26
+3.24
+14.55
+(c) for 5 years
+11.75
+4.26
+5.40
+21.41
+10
+Application for grant
+of certificate of
+registration
+1.88
+0.88
+Nil
+2.76
+11
+Application for
+renewal of
+transitional assistant
+stock and station
+agent certificate—
+(a) for 1 year
+0.47
+0.44
+Nil
+0.91
+(b) for 3 years
+1.41
+0.44
+Nil
+1.85
+(c) for 5 years
+2.35
+0.44
+Nil
+2.79
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 86 of 89
+
+--------------------------------------------------------------------------------
+12
+Application for
+restoration of
+transitional assistant
+stock and station
+agent certificate—
+(a) for 1 year
+0.47
+0.88
+Nil
+1.35
+(b) for 3 years
+1.41
+0.88
+Nil
+2.29
+(c) for 5 years
+2.35
+0.88
+Nil
+3.23
+13
+Application for
+licence to include
+accreditation as an
+auctioneer
+Nil
+0.71
+Nil
+0.71
+14
+Application to
+combine more than
+1 licence
+Nil
+0.44
+Nil
+0.44
+15
+Application for a
+grant under the Act,
+section 26AA(1)—
+(a) for a grant of a
+certificate of
+registration
+under section
+26AA(1)(a)
+1.88
+0.88
+Nil
+2.76
+(b) for a grant of an
+extension to a
+certificate of
+registration
+under section
+26AA(1)(b)
+0.47
+0.44
+Nil
+0.91
+(c) for a grant of a
+restoration to a
+certificate of
+registration
+under section
+26AA(1)(c)
+0.47
+0.44
+Nil
+0.91
+Part 2 Adjustment of fees and contributions for inflation
+1
+Definitions
+In this Part—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 87 of 89
+
+--------------------------------------------------------------------------------
+CPI number means the Consumer Price Index (All Groups Index) for Sydney published by
+the Australian Bureau of Statistics in the latest published series of that index.
+financial year means a period of 12 months commencing on 1 July.
+2
+Calculation of fee unit for purposes of Regulation
+(1) For the purposes of this Regulation, a fee unit is—
+(a) in the financial year 2022–23—$107.47, and
+(b) in each subsequent financial year—the amount calculated as follows—
+where—
+A is the CPI number for the March quarter in the financial year immediately
+preceding the financial year for which the amount is calculated.
+B is the CPI number for the March quarter of 2019.
+(2) The amount of a fee unit is to be rounded to the nearest cent and an amount of 0.5
+cent is to be rounded down.
+(3) However, if the amount of a fee unit calculated for a financial year is less than the
+amount that applied for the previous financial year, then the amount for the previous
+financial year applies instead.
+Editorial note.
+Fee unit amount calculated under this section—
+Financial year
+Fee unit amount
+2023–24
+$115.29
+2024–25
+$119.64
+3
+Rounding of fee amounts and contributions
+(1) The amount of a fee or contribution calculated by reference to a fee unit, including
+the amount of a component of a fee, is to be rounded to the nearest dollar.
+(2) An amount of 50 cents is to be rounded down.
+4
+Notice of indexed fees and contributions
+(1) As soon as practicable after the CPI number for the March quarter is first published by
+the Australian Statistician, the Secretary is required to—
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 88 of 89
+
+--------------------------------------------------------------------------------
+(a) notify the Parliamentary Counsel of the amount of the fee unit for the next
+financial year so notice of the amount can be published on the NSW legislation
+website, and
+(b) give public notice on an appropriate government website of the actual amounts of
+the fees and contributions applying in each financial year resulting from the
+application of the amount of a fee unit calculated under this Part.
+(2) This Part operates to change an amount of a fee or contribution that is calculated by
+reference to a fee unit and that change is not dependent on the notification or other
+notice required by this section.
+Property and Stock Agents Regulation 2022 [NSW]
+Current version for 4 April 2025 to date (accessed 8 April 2025 at 19:30)
+Page 89 of 89
+
+--------------------------------------------------------------------------------

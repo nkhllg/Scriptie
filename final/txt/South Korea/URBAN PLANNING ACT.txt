@@ -1,0 +1,2255 @@
+ 
+법령, 판례 등 모든 법령정보를 한 번에 검색 OK !
+URBAN PLANNING ACT
+[Enforcement Date 01. Jul, 2000.] [Act No.6243, 28. Jan, 2000., Whole Amendment]
+ ()null
+법제처 국가법령정보센터
+www.law.go.kr
+2025.04.05
+
+--------------------------------------------------------------------------------
+법제처                                                            1                                                       국가법령정보센터
+「URBAN PLANNING ACT」
+URBAN PLANNING ACT
+[Enforcement Date 01. Jul, 2000.] [Act No.6243, 28. Jan, 2000., Whole Amendment]
+ 
+            CHAPTER Ⅰ  GENERAL PROVISIONS
+ 
+Article 1 (Purpose)
+The purpose of this Act is to ensure public peace and order, to advance public well-being,
+and to improve the quality of the lives of the residents by prescribing the necessary
+matters concerning the formulation and execution of urban plans for development,
+improvement, management, and preservation, etc. of urban communities.
+ 
+Article 2 (Fundamental Ideology of Urban Planning) (1) Urban planning shall be formulated
+and executed so that the residential function, the commercial function, and the industrial
+function, etc. of an urban community may be in harmony with each other and the
+residents may live comfortably and safely.
+(2)  The  State,  local  government  and  residents  shall  put  their  efforts  together  for
+environmentally  sound  and  sustainable  development  of  an  urban  community.
+ 
+Article 3 (Definitions)
+For the purpose of this Act,
+1. the term “fundamental urban planning” means comprehensive planning that presents
+the fundamental spatial organization and a longterm developmental direction for an
+urban community, which becomes a guideline in the formulation of urban planning;
+2.  the  term  “metropolitan  planning”  means  planning  that  presents  the  long-term
+developmental direction for a metropolitan area that is so designated under the
+provisions of Article 11;
+3. the term “urban planning” means the following planning for land use, transportation,
+environment, safety, industry, information communication, sanitation, public welfare,
+security, culture, etc. that is formulated for the sake of development, improvement,
+management, and preservation of an urban community:
+(a) planning for designation or change of urban planning zones;
+(b) planning for designation or change of areas and districts;
+
+--------------------------------------------------------------------------------
+법제처                                                            2                                                       국가법령정보센터
+「URBAN PLANNING ACT」
+(c) planning for designation or change of development restriction zones and street creation
+regulation zones;
+(d) planning for installation, maintenance, or improvement of the urban infrastructure;
+(e) planning for urban development projects or urban redevelopment projects; and
+(f) planning for designation or change of district unit planning zones and planning for
+district units;
+4. the term “district unit planning” means urban planning for parts of urban planning zones
+that is formulated in order to rationalize land use, improve the function and appearance
+of the urban community, and ensure a satisfactory environment;
+5. the term “urban planning zone” means a target area for formulation of urban planning,
+which is a zone so designated under the provisions of Article 30;
+6. the term “urban infrastructure” means the facilities referred to in the following items that
+may be installed by decision through urban planning and are determined by the
+Presidential Decree:
+(a) transportation facilities such as roads, railways, harbors and bays, airports, and parking
+lots;
+(b) urban space facilities such as public squares, parks, and greens;
+(c) distribution and supply facilities such as distribution service accomodations, water,
+electricity and gas service lines, broadcasting and communication facilities, and common
+ditches;
+(d) public and cultural facilities such as schools, athletic fields, public office buildings, and
+cultural centers;
+(e) disaster preventive facilities such as reservoirs for controlling the level of running water
+and fire preventive facilities; and
+(f) health and hygiene facilities such as sewerage, crematoria, public cemeteries, and waste
+disposal facilities;
+7. the term “facilities under urban planning” means the facilities, from among the urban
+infrastructure, that are determined through urban planning under the provisions of
+Article 24;
+8. the term “metropolitan facilities” means the facilities referred to in the following items
+which constitute urban infrastructure requiring a maintenance system over a wide area
+and determined by the Presidential Decree:
+
+--------------------------------------------------------------------------------
+법제처                                                            3                                                       국가법령정보센터
+「URBAN PLANNING ACT」
+(a)  facilities  that  extend  over  the  jurisdictional  area  of  at  least  two  of  the  Special
+Metropolitan City, Metropolitan Cities, Shis, or Kuns (excluding any Gun that is located
+within the jurisdictional area of a Metropolitan City; the same shall apply hereinafter); and
+(b) facilities that are used jointly by at least two of the Special Metropolitan City,
+Metropolitan Cities, Shis or Kuns;
+9. the term “common ditch” means facilities that are installed underground in order to aim
+for improvement of the appearance of an urban community, preservation of the road
+structure, and the unhindered passage of traffic by collectively accommodating the
+underground structures (service lines for electricity, gas, water, etc., communications
+facilities, sewerage system, etc.);
+10. the term “projects for facilities under urban planning” means projects for installing,
+maintaining, or improving the facilities under urban planning;
+11. the term “urban development projects” means the urban development projects referred
+to in the Urban Development Act;
+12. the term “urban redevelopment projects” means the urban redevelopment projects
+referred to in the Urban Redevelopment Act;
+13. the term “urban planning projects” means projects for facilities under urban planning,
+urban development projects, and urban redevelopment projects that are projects for
+implementation of urban planning;
+14. the term “implementer of an urban planning project” means a person who implements
+an urban planning project under the provisions of this Act or other Acts;
+15. the term “public facilities” means roads, parks, and other facilities for public use that
+are determined by the Presidential Decree; and
+16. the term “state planning” mean the planning that is formulated by the central
+administrative agencies according to the provisions of Acts and includes matters to be
+decided by urban planning.
+ 
+Article 4 (Comprehensive Countermeasure for Growth of Urban Communities) (1) The
+Minister of Construction and Transportation shall present a policy direction for the
+balanced and sustainable growth of the urban community areas nationwide and devise a
+countermeasure which combines the state policies therefor (hereinafter referred to as a
+“comprehensive countermeasure for growth of urban communities”) for every five years
+under the conditions as prescribed by the Presidential Decree.
+
+--------------------------------------------------------------------------------
+법제처                                                            4                                                       국가법령정보센터
+「URBAN PLANNING ACT」
+(2) The comprehensive countermeasure for growth of urban communities shall include the
+matters referred to in the following subparagraphs:
+1. Matters concerning balanced growth of the urban community areas;
+2. Matters concerning environmentally sound and sustainable growth of urban community
+areas;
+3. Matters concerning the basic direction of urban development;
+4. Matters concerning control of expansion of the spheres of big cities;
+5. Matters concerning growth of small and medium-sized cities; and
+6. Other matters determined by the Presidential Decree.
+(3) In formulating the comprehensive countermeasure for growth of urban communities,
+the Minister of Construction and Transportation shall beforehand take the opinions of the
+head of the relevant central administrative agency and the Special Metropolitan City
+Mayor, Metropolitan City Mayor, or Do governor concerned (hereinafter referred to as the
+“Mayor/Do governor”).
+(4)  The  comprehensive  countermeasure  for  growth  of  urban  communities  shall  be
+confirmed by the Minister of Construction and Transportation after it passes through
+deliberation of the Central Urban Planning Committee which is referred to in Article 77 and
+deliberation of the State Council.
+(5)  When  the  comprehensive  countermeasure  for  growth  of  urban  communities  is
+confirmed, the Minister of Construction and Transportation shall inform the head of the
+relevant central administrative agency and the Mayor/Do governor or head of Si or Gun
+concerned (excluding the head of any Gun that is located within the jurisdictional area of a
+Metropolitan City; the same shall apply hereinafter) without any delay.
+(6) The head of the relevant central administrative agency and the Mayor/ Do governor or
+head of Si or Gun concerned shall actively cooperate for the unhindered implementation of
+the comprehensive countermeasure for growth of urban communities.
+ 
+Article 5 (Designation of and Support for Model Urban Communities) (1) When such a
+measure as follows is necessary in order to facilitate sustainable growth of the urban
+communities in an individualistic manner that makes most out of their economic, social
+and cultural characteristics, the Minister of Construction and Transportation may, either
+directly or upon a request of the head of the relevant central administrative agency or the
+Mayor/Do governor concerned, designate the model urban communities (including model
+
+--------------------------------------------------------------------------------
+법제처                                                            5                                                       국가법령정보센터
+「URBAN PLANNING ACT」
+districts and model complexes) for ecosystem, information communication, science, culture,
+tourism and other fields as determined by the Presidential Decree.
+(2) The Minister of Construction and Transportation, the head of the relevant central
+administrative agency, or the Mayor/Do governor concerned may provide necessary
+support such as budget, manpower, etc. for the model urban communities that are so
+designated under the provisions of paragraph (1).
+(3) The Minister of Construction and Transportation may request the head of the relevant
+central administrative agency or the Mayor/Do governor concerned for submission of
+materials  that  are  necessary  for  designation  of  and  support  for  the  model  urban
+communities.
+(4) Matters necessary with regard to the criteria and procedures for the designation of and
+support for the model urban communities shall be determined by the Presidential Decree.
+ 
+            CHAPTER Ⅱ  FUNDAMENTAL URBAN PLANNING
+ 
+Article 6 (Holder of Authority to Formulate and Areas Targeted for Fundamental Urban
+Planning) (1) The Special Metropolitan City Mayor, Metropolitan City Mayors, and the
+heads of Shis shall formulate the fundamental urban planning for the area under their
+jurisdiction: Provided, That this shall not apply if metropolitan planning is already in place
+and in the case of Shis as determined by the Presidential Decree.
+(2) The heads of Kuns may formulate fundamental urban planning for areas under their
+jurisdiction when such a measure is recognized to be necessary. In such a case the Minister
+of Construction and Transportation shall be conferred with beforehand.
+(3) The Special Metropolitan City Mayor, Metropolitan City Mayors, and the heads of Shis
+or Kuns may formulate fundamental urban planning for part of the areas under their
+jurisdiction or formulate fundamental urban planning that includes the jurisdictional area of
+nearby Special Metropolitan City, Metropolitan City, Si or Gun when such act is recognized
+to be necessary in consideration of the regional conditions.
+(4) When the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a
+Si or Gun intends to formulate fundamental urban planning that includes the jurisdictional
+area of nearby Special Metropolitan City, Metropolitan City, Si or Gun under the provisions
+of paragraph (3), he shall beforehand confer with the Special Metropolitan City Mayor, the
+Metropolitan City Mayor or the head of Si or Gun concerned.
+
+--------------------------------------------------------------------------------
+법제처                                                            6                                                       국가법령정보센터
+「URBAN PLANNING ACT」
+Article 7 (Contents of Fundamental Urban Planning) (1) Fundamental urban planning shall
+determine the policy direction for units of twenty years for the matters referred to in the
+following subparagraphs:
+1. Matters concerning the characteristics, directing posts and planned goals of an urban
+community;
+2. Matters concerning the spatial organization, establishment of the residential spheres,
+and distribution of the population of an urban community;
+3.  Matters  concerning  the  use  and  development  of  land  and  preservation  of  the
+environment  of  an  urban  community;
+4. Matters concerning the urban infrastructure;
+5. Matters concerning the parks and greens of an urban community; and
+6. Other matters determined by the Presidential Decree.
+(2)  Fundamental  urban  planning  that  is  being  formulated  for  an  area  for  which
+metropolitan planning is in place shall be in agreement with the metropolitan planning
+concerned, and the metropolitan planning shall take precedence when the contents of the
+fundamental urban planning differ from the contents of the metropolitan planning.
+(3) The formulation criteria and formulation methods for fundamental urban planning shall
+be determined by the Minister of Construction and Transportation.
+ 
+Article 8 (Foundational Investigation for Formulation of Fundamental Urban Planning) (1)
+When the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si
+or Gun intends to formulate fundamental urban planning, he shall investigate or measure
+beforehand the matters that are necessary in connection with formulation of the
+fundamental urban planning concerned, from among the population, economy, society,
+culture, transportation, environment, land use and other matters determined by the
+Presidential Decree, under the conditions as prescribed by the Presidential Decree.
+(2) The Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or
+Gun shall investigate and analyze the population, economy, society, culture, transportation,
+environment, land use and other matters determined by the Presidential Decree for the
+area for which fundamental urban planning has been set in place and report thereon to
+the Minister of Construction and Transportation at interval of a specified time period
+determined by the Ordinance of the Ministry of Construction and Transportation.
+
+--------------------------------------------------------------------------------
+법제처                                                            7                                                       국가법령정보센터
+「URBAN PLANNING ACT」
+(3) When it is recognized, as a result of an analysis of the reported contents referred to in
+paragraph (2), that modification of fundamental urban planning is unavoidable, the
+Minister of Construction and Transportation may order the Special Metropolitan City
+Mayor, a Metropolitan City Mayor, or the head of Si or Gun to take measures for
+modification of the fundamental urban planning.
+ 
+Article 9 (Holding of Public Hearing and Taking Opinion of Local Assembly) (1) When the
+Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or Gu
+intends to formulate fundamental urban planning, he shall hold a public hearing and take
+the opinions of the residents and the relevant experts, and the opinions presented at the
+public hearing shall be reflected in the fundamental urban planning when they are
+recognized to be reasonable.
+(2) When fundamental urban planning is being formulated, the Special Metropolitan City
+Mayor, a Metropolitan City Mayor, or the head of Si or Gun shall beforehand listen to the
+opinion of the council of the Special Metropolitan City, Metropolitan City, Si or Gun
+concerned.
+(3) Matters necessary with regard to holding a public hearing as referred to in paragraph
+(1) shall be determined by the Presidential Decree.
+ 
+Article 10 (Approval of Fundamental Urban Planning) (1) When the Special Metropolitan City
+Mayor, a Metropolitan City Mayor, or the head of a Si or Gun has formulated the
+fundamental urban planning, he shall obtain approval of the Minister of Construction and
+Transportation. The same shall also apply when the approved fundamental urban planning
+is modified.
+(2) When the Minister of Construction and Transportation intends to approve fundamental
+urban planning under the provisions of paragraph (1), he shall confer with the head of the
+relevant central administrative agency and thereafter pass it through deliberation of the
+Central Urban Planning Committee.
+(3) The head of the central administrative agency who receives a request for conference
+under the provisions of paragraph (2) shall present his opinions to the Minister of
+Construction and Transportation within thirty days after the date on which the request is
+received, unless there is a special circumstance.
+(4) When fundamental urban planning is approved, the Minister of Construction and
+Transportation  shall  send  relevant  documents  to  the  head  of  the  relevant  central
+
+--------------------------------------------------------------------------------
+법제처                                                            8                                                       국가법령정보센터
+「URBAN PLANNING ACT」
+administrative agency and the Special Metropolitan City Mayor, Metropolitan City Mayor,
+or  head  of  a  Si  or  Gun  concerned,  and  the  Special  Metropolitan  City  Mayor,  the
+Metropolitan City Mayor, or the head of Si or Gun who receives the relevant documents
+shall immediately give a public announcement and have them exhibited to the general
+public.
+(5) The Special Metropolitan City Mayor, the Metropolitan City Mayor, and the head of Si
+and Gun shall examine every five years as to whether their fundamental urban planning is
+reasonable and reflect the results in the fundamental urban planning.
+ 
+            CHAPTER Ⅲ  METROPOLITAN PLANNING
+ 
+Article 11 (Designation of Metropolitan Area) (1) If such a measure as follows is recognized
+to be necessary in order to mutually link the spatial organization and function of at least
+two urban communities, preserve the environment, and maintain the metropolitan facilities
+in a systematic manner, the Minister of Construction and Transportation may designate all
+or part of the jurisdictional areas of at least two of closely located Special Metropolitan
+City, Metropolitan Cities, Shis and Kuns as a metropolitan area under the conditions as
+prescribed by the Presidential Decree.
+(2) The Mayors/Do governors and the heads of Shis or Kuns may request the Minister of
+Construction and Transportation for designation of a metropolitan area.
+(3)  When  the  Minister  of  Construction  and  Transportation  intends  to  designate  a
+metropolitan area, he shall listen to the opinions of the relevant Mayor/Do governor or
+head of Si or Gun and pass it through deliberation of the Central Urban Planning
+Committee. The same shall also apply when a change to the designated metropolitan area
+is intended.
+(4) When the Minister of Construction and Transportation has designated a metropolitan
+area, he shall immediately inform the relevant Mayor/Do governor or head of Si or Gun of
+this fact of designation.
+ 
+Article 12 (Holder of Authority to Formulate Metropolitan Planning) (1) The Minister of
+Construction and Transportation or the Mayor/Do governor shall formulate metropolitan
+planning according to the categories referred to in the following subparagraphs:
+
+--------------------------------------------------------------------------------
+법제처                                                            9                                                       국가법령정보센터
+「URBAN PLANNING ACT」
+1. If the metropolitan area belongs to the jurisdictional area of the same  Do, the
+competent Do governor shall formulate;
+2. If the metropolitan area extends over the jurisdictional areas of at least two of the
+Special Metropolitan City, Metropolitan Cities, and Dos (hereinafter referred to as the
+“Cities/Dos”), the competent Mayors/Do governors shall jointly formulate; and
+3. If formulation of metropolitan planning is necessary in connection with the state
+planning, or if there is no application from the competent Mayors/Do governors for
+approval of metropolitan planning as referred to in Article 16 (1) until three years have
+passed since the date on which the metropolitan area was designated, the Minister of
+Construction and Transportation shall formulate.
+(2) If there is such a request from Mayors and/or Do governors, or when it is otherwise
+recognized to be necessary, the Minister of Construction and Transportation may formulate
+metropolitan planning jointly with the competent Mayors/Do governors, notwithstanding
+the provisions of paragraph (1).
+ 
+Article 13 (Contents of Metropolitan Planning) (1) Metropolitan planning shall determine the
+policy direction for units of twenty years for the matters, from among the matters referred
+to in the following subparagraphs, that are necessary in order to achieve the objectives of
+the designation of the metropolitan area concerned:
+1. Matters concerning the spatial organization and functional division of a metropolitan
+area;
+2. Matters concerning the system for management of the greens and conservation of the
+environment of a metropolitan area;
+3. Matters concerning the arrangement, scale, and installation of the metropolitan facilities;
+and
+4. Other matters concerning the mutual functional linkage of the urban communities
+belonging to one metropolitan area that are determined by the Presidential Decree.
+(2) The formulation criteria and the formulation methods for metropolitan planning shall
+be determined by the Minister of Construction and Transportation.
+ 
+Article 14 (Foundational Investigation and Public Hearing for Formulation of Metropolitan
+Planning)
+Provisions of Articles 8 and 9 shall apply mutatis mutandis when metropolitan planning is
+being formulated.
+
+--------------------------------------------------------------------------------
+법제처                                                            10                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Article 15 (Taking Opinions of Local Governments) (1) When the Mayors/Do governors intend
+to formulate metropolitan planning, they shall hear the opinions of the assemblies of the
+relevant Cities and Do and the heads of the relevant Si and Gun beforehand.
+(2)  When  the  Minister  of  Construction  and  Transportation  intends  to  formulate
+metropolitan planning, he shall send a proposal for metropolitan planning to the relevant
+Mayor/Do governor, and the relevant Mayor/Do governor shall hear the opinions of the
+council of the City/Do concerned and the head of the relevant Si or Gun and send the
+results thereof to the Minister of Construction and Transportation.
+ 
+Article 16 (Approval of Metropolitan Planning) (1) When the Mayor/Do governor has
+formulated metropolitan planning, he shall obtain approval of the Minister of Construction
+and Transportation. The same shall also apply when modification of the approved
+metropolitan planning is intended.
+(2) When the Minister of Construction and Transportation intends to approve metropolitan
+planning under the provisions of paragraph (1) or formulate metropolitan planning directly
+(including  joint  formulation),  he  shall  confer  with  the  head  of  the  relevant  central
+administrative agency and thereafter pass it through deliberation of the Central Urban
+Planning Committee.
+(3) The head of the central administrative agency who receive a request for conference
+under the provisions of paragraph (2) shall present his opinions to the Minister of
+Construction and Transportation within thirty days after the date on which the request is
+received, unless there is a special circumstance.
+(4) When the Minister of Construction and Transportation has formulated directly or
+approved of metropolitan planning, he shall send relevant documents to the head of the
+relevant central administrative agency and the Mayor/Do governor concerned, and the
+Mayor/Do governor who receives the relevant documents shall immediately give a public
+announcement and have them exhibited to the general public.
+(5) Matters necessary with regard to the formulation and execution of metropolitan
+planning, in addition to the items prescribed in paragraphs (1) through (4), shall be
+determined by the Presidential Decree.
+ 
+Article 17 (Adjustment of Metropolitan Planning) (1) Those who jointly formulate
+metropolitan planning under the provisions of Article 12 (1) 2 may jointly apply to the
+
+--------------------------------------------------------------------------------
+법제처                                                            11                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Minister of Construction and Transportation for adjustment when an agreement is not
+reached regarding the contents thereof.
+(2) When the Minister of Construction and Transportation receives an application for
+adjustment as referred to in paragraph (1), he shall adjust the contents of the metropolitan
+planning upon deliberation of the Central Urban Planning Committee. In this case, those
+who have made the application for adjustment may present themselves at the meeting of
+the Central Urban Planning Committee to state their opinions.
+(3) A person who applies for adjustment under the provisions of paragraph (1) shall reflect
+the results of the adjustment made by the Minister of Construction and Transportation in
+the metropolitan planning.
+ 
+            CHAPTER Ⅳ  URBAN PLANNING
+               SECTION 1  Formulation Procedures for Urban Planning
+ 
+Article 18 (Holder of Authority to Prepare Urban Planning) (1) Urban planning shall be
+prepared by the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head
+of a Si or Gun who has jurisdiction over the urban planning zone concerned: Provided,
+That for the cases that are connected with the state planning, the Minister of Construction
+and Transportation may, either directly or upon a request from the head of the relevant
+central administrative agency, prepare urban planning after listening to the opinions of the
+competent Mayor/Do governor or head of Si or  Gun, and the Do governor may, either
+directly or upon a request from the heads of the relevant Si and  Gun, prepare urban
+planning after listening to the opinions of the competent heads of Si and Gun when an
+agreement regarding drafting of urban planning that is connected with metropolitan
+planning is not reached between the heads of the relevant Si and Gun.
+(2) If an urban planning zone for which preparation of urban planning is intended extends
+over at least two of the Special Metropolitan City, Metropolitan Cities, Shis, and Kuns, the
+relevant Special Metropolitan City Mayor, Metropolitan City Mayors, and heads of Shis or
+Kuns shall confer with each other to jointly prepare urban planning or determine a person
+to prepare it.
+(3) If the conference referred to in paragraph (2) is not realized, the competent Do
+governor, when the zone for which preparation of urban planning is intended belongs to
+
+--------------------------------------------------------------------------------
+법제처                                                            12                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+the jurisdictional area of one same  Do, or the Minister of Construction and Transportation,
+when the zone extends over the jurisdictional areas of at least two Cities/Dos, shall
+designate the person to prepare it and give notice thereof.
+ 
+Article 19 (Preparation of Urban Planning) (1) Urban planning shall be in agreement with
+fundamental urban planning or metropolitan planning.
+(2) When the Minister of Construction and Transportation, the Mayor/ Do governor, or the
+head of a Si or Gun is preparing urban planning, he shall prepare urban planning scheme
+protocol (referring to a scheme drawing and planning protocol; hereinafter the same shall
+apply) and a written explanation for planning (including the foundational investigation
+results, a plan for raising the funds, the results of examining environmental issues, etc;
+hereinafter the same shall apply).
+(3) The preparation criteria and preparation method for urban planning scheme protocol
+and written explanation for planning shall be determined by the Minister of Construction
+and Transportation.
+ 
+Article 20 (Proposal for Preparation of Urban Planning) (1) The residents may propose to the
+Special Metropolitan City Mayor, a Metropolitan City Mayor or the head of a Si or Gun for
+preparation of urban planning concerning the matters referred to in the following
+subparagraphs. In such a case urban planning scheme protocol and a written explanation
+for planning shall be attached to the proposal:
+1. Matters concerning installation, maintenance and improvement of the facilities under
+urban planning; and
+2. Matters concerning the designation and change of a district unit planning zone and
+formulation of district unit planning.
+(2) The Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or
+Gun who receives a proposal for preparation of urban planning under the provisions of
+paragraph (1) shall inform the proposal maker with the results of its settlement.
+(3) The Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or
+Gun may confer with the proposal maker and allot to the proposal maker the expenses
+necessary for preparation and determination of the urban planning that is proposed under
+the provisions of paragraph (1).
+
+--------------------------------------------------------------------------------
+법제처                                                            13                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Article 21 (Foundational Investigation for Preparation of Urban Planning)
+The provisions of Article 8 shall apply mutatis mutandis to the case of preparing urban
+planning.
+ 
+Article 22 (Seeking Opinions of Residents and Local Council) (1) When the Minister of
+Construction and Transportation, the Mayor/ Do governor, or the head of a Si or Gun is
+preparing urban planning under the provisions of Article 19, he shall take the opinions of
+the residents and, if those opinions are recognized to be reasonable, reflect them in the
+urban planning proposal: Provided, That this shall not apply for matters that require
+secrecy for national defense reasons (limited to those concerning which there is such a
+request from the Minister of National Defense) or for the trivial matters that are so
+determined by the Presidential Decree.
+(2) When the Minister of Construction and Transportation or a Do governor intends to
+prepare urban planning under the provisions of the proviso of Article 18 (1), he shall send
+the urban planning proposal to the relevant Special Metropolitan City Mayor, Metropolitan
+City Mayors, and heads of Si and  Gun, with a clear statement of the deadline for taking
+the opinions of the residents attached thereto.
+(3) The Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or
+Gun who receives an urban planning proposal under the provisions of paragraph (2) shall
+take the opinions of the residents on the urban planning proposal in question within the
+stated deadline and submit the results thereof to the Minister of Construction and
+Transportation or to the Do governor.
+(4) Matters necessary with regard to taking the opinions of the residents as referred to in
+paragraph (1) shall be determined by the Municipal Ordinance of the local government
+concerned and in accordance with the criteria determined by the Presidential Decree.
+(5) When the Minister of Construction and Transportation, the Mayor/ Do governor, or the
+head of a Si or Gun intends to prepare urban planning, he shall listen to the opinions of
+the applicable local council on the matters determined by the Presidential Decree.
+(6) Provisions of paragraphs (2) and (3) shall apply mutatis mutandis in cases where the
+opinions of a local council are taken by the Minister of Construction and Transportation or
+a Do governor under the provisions of paragraph (5). In such a case the term “residents”
+shall be considered as “local council”.
+
+--------------------------------------------------------------------------------
+법제처                                                            14                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Article 23 (Holder of Authority to Decide on Urban Planning)
+Decisions on urban planning shall be made directly by the Mayor/Do governor or through
+an application from the head of a Si or Kun: Provided, That decisions on the urban planing
+referred to in the following subparagraphs shall be made by the Minister of Construction
+and Transportation:
+1. Urban planning prepared by the Minister of Construction and Transportation under the
+provisions of the proviso of Article 18 (1);
+2. Urban planning on the designation and changes of urban planning zones referred to in
+Article 30;
+3. Urban planning on the designation and changes of development restriction zones
+referred to in Article 34; and
+4. Urban planning on the designation and changes of street creation regulation zones
+referred to in Article 35.
+ 
+Article 24 (Decisions on Urban Planning) (1) When the Mayor/Do governor intends to make a
+decision on urban planning, he shall confer beforehand with the head of the relevant
+administrative agency, and the Minister of Construction and Transportation shall confer
+beforehand with the head of the relevant central administrative agency. In such a case, the
+head of the agency who receives a request for conference shall present his opinions within
+thirty days after the date on which he receives such a request.
+(2) When the Mayor/Do governor intends to make a decision on or a change in urban
+planning  that  is  prepared  and  determined  by  the  Minister  of  Construction  and
+Transportation under the provisions of the proviso of Article 18 (1) or in urban planning
+that is related with important matters determined by the Presidential Decree, he shall
+confer beforehand with the Minister of Construction and Transportation.
+(3) When the Minister of Construction and Transportation or the Mayor/ Do governor
+intends to make a decision on urban planning, he shall be subject to deliberation of the
+Central Urban Planning Committee or the urban planning committee of a Si or Gun that is
+referred to in Article 85: Provided, That in the case of a decision on district unit planning
+that includes the matters referred to in Article 43 (1) 4 or 5, opinions of the construction
+committee, which is set up under the provisions of Article 4 of the Building Act under the
+Mayor/Do governor concerned, shall be heard beforehand under conditions as prescribed
+by the Presidential Decree.
+
+--------------------------------------------------------------------------------
+법제처                                                            15                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+(4) When the Minister of Construction and Transportation or the Mayor/ Do governor
+recognizes that secrecy is required for national defense reasons (limited to when there is
+such a request from the Minister of National Defense), he may omit the procedures
+referred to in paragraphs (1) through (3) for all or part of the urban planning.
+(5) Provisions of paragraphs (1) through (4) shall apply mutatis mutandis in cases where a
+change in the already decided urban planning is intended: Provided, that this shall not
+apply if trivial matters that are so determined by the Presidential Decree are being
+changed.
+(6) When the Minister of Construction and Transportation or the Mayor/ Do governor has
+made a decision on urban planning, he shall announce it and have it exhibited to the
+general public in accordance with the Presidential Decree. In such a case, for urban
+planning that is decided by the Minister of Construction and Transportation or a Do
+governor, relevant documents shall be sent to the relevant Special Metropolitan City
+Mayor, Metropolitan City Mayor or head of Si or Gun for exhibition to the general public.
+ 
+Article 25 (Effect of Decision on Urban Planning) (1) A decision on urban planning shall
+become effective five days after the date of the announcement referred to in Article 24 (6).
+(2) A person who has already commenced a project or construction (referring to a person
+who commences a project or construction after obtaining the permission, authorization, or
+approval, etc. if permission, authorization, or approval, etc. is necessary under the
+provisions of this Act or other Acts) at the time when a decision on urban planning is
+made may continue that project or construction notwithstanding the decision on urban
+planning in question: Provided, That if the decision on urban planning is connected with
+the designation of a development restriction zone or street creation regulation zone, the
+project or construction may be continued after first reporting to the Special Metropolitan
+City Mayor, Metropolitan City Mayor, or head of Si or Gun in accordance with the
+provisions of the Presidential Decree.
+ 
+Article 26 (Announcement of Topographical Blueprint concerning Urban Planning) (1) When
+there is an announcement of a decision on urban planning as referred to in Article 24 (6),
+the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or Gun
+shall prepare, in accordance with the provisions of the Presidential Decree, a blueprint that
+elucidates the matters under urban planning on a topographical map that indicates land
+
+--------------------------------------------------------------------------------
+법제처                                                            16                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+registration for the land within the urban planning zone concerned (hereinafter referred to
+as a “topographical blueprint”).
+(2) When the head of a Si or Gun has prepared a topographical blueprint under the
+provisions of paragraph (1), he shall obtain approval therefor from the Do governor
+concerned. In such a case the Do governor who receives an application for approval of a
+topographical blueprint shall compare the topographical blueprint with the urban planning
+that is decided and announced and, if no error is recognized to exist, approve the
+topographical blueprint within the time period determined by the Presidential Decree.
+(3) When the Minister of Construction and Transportation or a Do governor has directly
+prepared  urban  planning,  he  may  listen  to  the  opinions  of  the  relevant  Special
+Metropolitan City Mayor, Metropolitan City Mayor, or head of Si or Gun and himself
+prepare a topographical blueprint, notwithstanding the provisions of paragraphs (1) and
+(2).
+(4) When the Minister of Construction and Transportation or a Do governor has prepared a
+topographical blueprint directly or approved a topographical blueprint, he shall announce
+this in accordance with the provisions of the Presidential Decree and send the relevant
+documents to the relevant Special Metropolitan City Mayor, Metropolitan City Mayor, or
+head of Si or  Gun, and the Special Metropolitan City Mayor, Metropolitan City Mayor, or
+head of Si or Gun who receives the relevant documents shall have them exhibited to the
+general public.
+(5) If a decision on urban planning is announced using a topographical map that indicates
+land registration at a scale of at least that which is determined by the Presidential Decree,
+announcement of the decision on urban planning, without preparation of a separate
+topographical blueprint, may substitute the decision referred to in paragraph (4). In this
+case, such a fact shall be specified in the announced contents of the decision on urban
+planning.
+ 
+Article 27 (Lapse of Decision on Urban Planning) (1) If there is no announcement of a
+topographical blueprint as referred to in Article 26 (4) by the time two years have passed
+since the date of the announcement of a decision on urban planning (excluding any case
+of substitution of a topographical blueprint under the provisions of Article 26 (5)), the
+decision on urban planning shall lose its effect on the day after the day when two years
+have elapsed.
+
+--------------------------------------------------------------------------------
+법제처                                                            17                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+(2) When a decision on urban planning loses its effect under the provisions of paragraph
+(1), the Minister of Construction and Transportation or the Mayor/Do governor shall
+immediately  announce  the  fact  thereof  in  accordance  with  the  provisions  of  the
+Presidential  Decree.
+ 
+Article 28 (Reorganization of Urban Planning)
+The Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or
+Gun shall generally re-examine the reasonableness of the urban planning for the urban
+planning zone under his jurisdiction and reorganize it every five years in accordance with
+the provisions of the Presidential Decree.
+ 
+Article 29 (Special Case of Preparation of Urban Planning) (1) When the Minister of
+Construction and Transportation, the Mayor/ Do governor, or the head of a Si or Gun
+recognizes a necessity for preparation of urban planning at the earliest possible moment,
+he may prepare urban planning together with the fundamental urban planning or
+metropolitan planning at the same time as when it is being formulated.
+(2) If the Minister of Construction and Transportation, the Mayor/Do governor, or the head
+of a Si or Gun recognizes such a necessity, when he prepares urban planning, he may
+confer with the head of the relevant central administrative agency or the head of the
+relevant administrative agency on matters for which a conference is necessary under the
+provisions of Article 24 (1). In such a case, when the head of a Si or Gun applies to the Do
+governor concerned for a decision on the urban planning concerned, results of conferring
+with the head of the relevant central administrative agency shall be attached thereto.
+(3) For those matters for which there has already been a conference under the provisions
+of paragraph (2), the conference referred to in Article 24 (1) may be omitted.
+ 
+            SECTION 2  Urban Planning Zone
+ 
+Article 30 (Designation of Urban Planning Zone) (1) The Minister of Construction and
+Transportation may, by means of a decision on urban planning, designate as urban
+planning zones the zones, from among the zones referred to in the following
+subparagraphs, for which formulation and implementation of urban planning is necessary:
+
+--------------------------------------------------------------------------------
+법제처                                                            18                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+1. The jurisdictional area of the Special Metropolitan City, a Metropolitan City, or a  Si;
+2. The jurisdictional area of a Eup that is located within the jurisdictional area of a  Gun;
+and
+3. Areas other than those referred to in subparagraphs 1 and 2 for which formulation and
+implementation of urban planning are recognized as necessary by the Minister of
+Construction and Transportation either directly or through a request of the relevant
+Mayor/Do governor (limited to the cases connected with metropolitan planning) or the
+head of the relevant Si or Gun.
+(2) When the Minister of Construction and Transportation recognizes it as unavoidable due
+to the given conditions, etc. of a region, he may have a part of the jurisdictional area of
+the nearby Special Metropolitan City, Metropolitan City,  Si, or Gun included in the urban
+planning for another Special Metropolitan City, Metropolitan City,  Si, or Eup.
+(3) In such a case as one referred to in paragraph (2), the Minister of Construction and
+Transportation shall confer beforehand with the relevant Special Metropolitan City Mayor,
+Metropolitan City Mayor, or head of Si or Kun: Provided, That this shall not apply if the
+relevant Special Metropolitan City Mayor, Metropolitan City Mayor, or head of Si or Gun
+has conferred beforehand and requested for designation of an urban planning zone.
+(4) From the plans for utilization of the national territory referred to in Article 7 of the Act
+on the Utilization and Management of the National Territory, their preparation criteria
+related with urban areas shall apply mutatis mutandis with regard to the designation of
+urban planning zones referred to in paragraph (1).
+ 
+Article 31 (Legal Fiction, etc. of Decision on Urban Area) (1) When urban planning related
+with the designation of an urban planning zone is decided and announced, the urban
+planning zone concerned shall be considered to be announced and decided as an urban
+area referred to in the plans for utilization of the national territory under the provisions of
+Article 8 of the Act on the Utilization and Management of the National Territory, and when
+there is an announcement of a topographical blueprint for the urban planning zone
+concerned, it shall be considered the notice of a topographical map referred to in Article
+12 of the Act on the Utilization and Management of the National Territory.
+(2) The provisions of Acts referred to in the following subparagraphs shall not apply to
+urban planning zones:
+
+--------------------------------------------------------------------------------
+법제처                                                            19                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+1. Article 50 of the Road Act;
+2. Article 8 of the Motorway Act; and
+3. Article 8 of the Farmland Act: Provided, That this shall not apply for farmlands that are
+located within the greenbelts and are not necessary for a urban planning project.
+ 
+            SECTION 3  Area, District, and Zone
+ 
+Article 32 (Designation of Area) (1) When it is recognized as necessary in order to promote
+economic and efficient utilization of the land within an urban planning zone and
+advancement of public welfare, the Minister of Construction and Transportation or the
+Mayor/Do governor may decide the designation of the areas referred to in the following
+subparagraphs by urban planning:
+1. Residential areas: areas necessary for peace in habitation and protection of the living
+conditions;
+2. Commercial areas: areas necessary for advancement of benefits to commerce and other
+businesses;
+3. Industrial areas: areas necessary for advancement of benefits to the industries; and
+4. Greenbelts: areas where preservation of the greens is necessary for protection of the
+natural environment, farmlands, and forests, for public hygienes, for security, and for
+prevention of disorderly expansion of an urban community.
+(2) The Minister of Construction and Transportation or the Mayor/Do governor may further
+break down and designate the areas referred to in each subparagraph of paragraph (1) in
+accordance with the provisions of the Presidential Decree.
+ 
+Article 33 (Designation of District) (1) When it is recognized as necessary in order to increase
+the order and peace of the public and the function of an urban community, the Minister of
+Construction and Transportation or the Mayor/Do governor may decide the designation of
+the districts referred to in the following subparagraphs by urban planning:
+1. Scenic districts: districts necessary for protection and formation of the scenery of an
+urban community;
+2. Appearance district: districts necessary for maintenance of the appearance of an urban
+community;
+
+--------------------------------------------------------------------------------
+법제처                                                            20                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+3. Height regulation districts (minimum height districts and maximum height districts):
+districts where regulation of the minimum height or the maximum height of the
+buildings is necessary for creation of the urban environment, intensive utilization of land,
+and advancement of an urban community;
+4. Fire prevention districts: districts necessary for prevention of the fire risks of an urban
+community;
+5. Disaster prevention districts; districts necessary for prevention of storm and flood
+damages, landslides, cave-in of ground, and other disasters:
+6. Preservation districts: districts necessary for protection and preservation of cultural
+properties, major facilities, and areas the value of whose preservation is great for cultural
+or ecological reasons;
+7. Facilities protection districts: districts necessary for protection of school facilities, public
+use facilities, harbors, or airports, for raising the efficiency of their operational function,
+and for safe flight of aircrafts, etc.;
+8.  Settlement  districts:  districts  for  keeping  settlement  within  the  greenbelts  or
+development  restriction  zones  in  good  order;
+9. Development promotion districts: districts that have a necessity for concentrated
+development of their residential function, commercial function, or industrial function; and
+10. Other districts determined by the Presidential Decree.
+(2) When such a measure is recognized to be necessary, the Minister of Construction and
+Transportation or the Mayor/Do governor may further break down and designate the
+districts referred to in each subparagraph of paragraph (1) in accordance with the
+provisions of the Presidential Decree.
+(3) When such a measure is necessary due to the given conditions of an area, the
+Mayor/Do governor may decide by urban planning the designation of other districts in
+addition to the districts referred to in each subparagraph of paragraph (1) in accordance
+with the provisions of the Municipal Ordinance of the City or Do concerned. In such a case,
+he shall confer beforehand with the Minister of Construction and Transportation regarding
+the names of the districts, designation purposes, and prohibition and restriction of
+construction and other acts within the districts concerned.
+ 
+Article 34 (Designation of Development Restriction Zone)
+
+--------------------------------------------------------------------------------
+법제처                                                            21                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Matters regarding designation or change of development restriction zones shall be
+determined separately by Act.
+ 
+Article 35 (Designation of Street Creation Regulation Zone) (1) If a deferment of creation of
+streets for a specified time period determined by the Presidential Decree is recognized to
+be necessary in order to prevent disorderly creation of streets and promote development
+of an urban community in a planned manner and by stages, the Minister of Construction
+and Transportation may decide on the designation of a street creation regulation zone by
+urban planning.
+(2) A decision on urban planning in connection with the designation of a street creation
+regulation zone shall lose its effect as of the day following the day on which the period of
+deferment of street creation referred to in paragraph (1) expires. In such a case, the
+Minister of Construction and Transportation shall announce the fact thereof in accordance
+with the provisions of the Presidential Decree.
+ 
+            SECTION 4  Facilities under Urban Planning
+ 
+Article 36 (Installation and Management of Facilities under Urban Planning) (1) When
+installation of urban infrastructure above the ground, above the water, in the air, in the
+water, or under the ground within an urban planning zone, the category, name, location,
+and scale, etc. of the facilities shall be determined beforehand by urban planning: Provided,
+That this shall not apply to the urban infrastructure determined by the Presidential Decree.
+(2) In connection with the installation of facilities under urban planning, if procedures
+relevant to the installation of the facilities concerned are prescribed in other Acts, they may
+be installed in accordance with the provisions of those other Acts.
+(3) Matters necessary with regard to determination, structure, and installation criteria, etc.
+of facilities under urban planning shall be determined by the Ordinance of the Ministry of
+Construction and Transportation: Provided, That if there are special provisions in other
+Acts, those Acts shall apply.
+(4) Unless there are special provisions in this Act or other Acts regarding management of
+the facilities under urban planning which are installed under the provisions of paragraph
+(1), matters regarding it shall be determined by the Presidential Decree, if management is
+by the State, or by the Municipal Ordinance of a local government, if management is by
+
+--------------------------------------------------------------------------------
+법제처                                                            22                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+the local government.
+ 
+Article 37 (Installation and Management of Common Ditch) (1) If a common ditch is installed
+within an urban planning zone, all facilities that should be housed in the common ditch
+concerned shall be housed in that common ditch, without exception.
+(2) If a common ditch is being installed, the implementer of a project for facilities under
+urban planning referred to in Article 59 (excluding anyone who is not an administrative
+authority) may allot the expenses required for installation of the common ditch to a person
+who has a duty, under the provisions of other Acts, to install the facilities that should be
+housed in that joint ditch.
+(3) When a person who did not share the expenses for installation of a common ditch
+(including anyone who fails to fully pay his share of expenses) intends to occupy or use the
+common ditch, he shall procure permission of the Special Metropolitan City Mayor,
+Metropolitan City Mayor, or head of Si or Gun who manages that common ditch.
+(4) A person who occupies or uses a common ditch under the provisions of paragraph (3)
+shall pay an occupation fee or use fee determined by the Municipal Ordinance of the local
+government concerned.
+(5) Matters necessary with regard to housing of the facilities that shall be housed in a
+common  ditch  under  the  provisions  of  paragraph  (1)  shall  be  determined  by  the
+Presidential  Decree.
+(6) Ratio and methods for sharing expenses as referred in paragraph (2) and matters
+necessary with regard to management, etc. of a common ditch shall be determined by the
+Presidential Decree.
+ 
+Article 38 (Installation and Management, etc. of Metropolitan Facilities) (1) Installation and
+management of metropolitan facilities shall be subject to the provisions of Article 36:
+Provided, That the relevant Special Metropolitan City Mayor, Metropolitan City Mayors, and
+heads of Shis or Kuns may install and manage them by entering into an agreement or
+forming a consultative committee, etc.
+(2) When an agreement or formation of a consultative committee, etc. as referred to in
+paragraph (1) fails to be effected between the heads of Shis or Kuns, if the Shis or Kuns in
+question belong to the same  Do, the competent Do governor may install and manage the
+metropolitan facilities.
+
+--------------------------------------------------------------------------------
+법제처                                                            23                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+(3) Notwithstanding the provisions of paragraphs (1) and (2), metropolitan facilities that are
+installed by the state planning may be installed and managed by a corporation that is
+established under the provisions of other Acts for the business purpose or business line of
+installing and managing the metropolitan facilities concerned.
+(4) A local government, if it intends to install within the jurisdictional area of another local
+government metropolitan facilities that generate extreme environmental pollution or raise
+concern for markedly atrophying development of the area concerned, shall conduct a
+project for prevention of environmental pollution or a project for improvement of benefits
+to the residents of the area concerned together with the local government concerned or
+provide the financial support necessary therefor to the local government concerned in
+accordance with the provisions of the Presidential Decree: Provided, That if there are
+special provisions in other Acts, those other Acts shall apply.
+ 
+Article 39 (Criteria for Installation of Facilities under Urban Planning in Air or under Ground
+and Compensation Therefor)
+In installing facilities under urban planning in the air, under water, above water, or under
+the ground, matters regarding compensation, etc. for persons whose exercise of property
+rights for land or a building is restricted due to criteria for their height or depth and their
+installation shall be determined separately by Act.
+ 
+Article 40 (Request for Purchase of Site for Facilities under Urban Planning) (1) If a project for
+facilities under urban planning that is related with the installation of the facilities under
+urban planning concerned is not enforced within ten years from the date of announcement
+of the decision on urban planning for the facilities under urban planning (hereinafter
+referred to as the “decision on facilities under urban planning”) (excluding the cases where
+the authorization of implementation plan referred to in Article 61 or a procedure
+corresponding thereto has been carried out; the same shall apply hereinafter), the owner of
+land the land category of which is building lot (including any buildings and fixtures on the
+land in question; the same shall apply hereafter within this Article), from among the land
+that is set aside as a site for the facilities under urban planning concerned, may request
+the Special Metropolitan City Mayor, Metropolitan City Mayor, or head of Si or Gun (in
+case of parks, referring to the administrative agencies for parks referred to in Article 5 (1)
+of the Urban Park Act and in case of greens, referring to the administrative agencies for
+
+--------------------------------------------------------------------------------
+법제처                                                            24                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+greens referred to in Article 11 (1) of the Urban Park Act; the same shall apply hereafter
+within this Article) in accordance with the provisions of the Presidential Decree to purchase
+the land concerned.
+(2) When the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a
+Si or Gun purchases the land for which there has been a request for purchase under the
+provisions of paragraph (1), payment of the price shall be in cash, but payment may be
+made by issuing bonds (hereinafter referred to as “bonds for facilities under urban
+planning”) if the case falls under one of the following subparagraphs:
+1. Where the land owner wants it; or
+2. Where the purchase price of land that is determined by the Presidential Decree and
+belongs to an absent real property owner or is notfor-business-use exceeds a specified
+amount determined by the Presidential Decree, and the payment is for that excess
+amount.
+(3) Bonds for facilities under urban planning shall have a term of maturity of no more than
+ten years and an interest rate that is determined in consideration of the interest rates for
+one year time deposits at financial institutions, and more definite term of maturity and
+interest rate shall be determined by the Municipal Ordinance of the Special Metropolitan
+City, a Metropolitan City, a  Si, or a Gun.
+(4) Unless there are special provisions in this Act, provisions of the Act on Special Cases
+concerning the Acquisition of Lands for Public Use and the Compensation for Their Loss
+shall apply mutatis mutandis with regard to the purchase price, purchase procedures, etc.
+of land the purchase of which is requested.
+(5) Unless there are special provisions in this Act, procedures and other necessary matters
+for issuing the bonds for facilities under urban planning shall be subject to the Local
+Finance Act.
+(6) The Special Metropolitan City Mayor, a Metropolitan City Mayor, the head of a Si or
+Gun shall decide on the purchase and give a notice thereof to the land owner within two
+years after the date on which there was a request for purchase referred to in paragraph (1),
+and the land that is decided for purchase shall be purchased within two years after the
+date on which the notice of the decision for purchase was given.
+(7) The owner of land for which purchase is requested under the provisions of paragraph
+(1) may install buildings or fixtures determined by the Presidential Decree after obtaining
+
+--------------------------------------------------------------------------------
+법제처                                                            25                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+permission  referred  to  in  Article  46,  if  his  case  falls  under  one  of  the  following
+subparagraphs.  In  such  a  case,  provisions  of  Articles  49  and  50  shall  not  apply:
+1. A case where the Special Metropolitan City Mayor, Metropolitan City Mayor, or head of
+Si or Gun has decided not to purchase under the provisions of paragraph (6); or
+2. A case where the Special Metropolitan City Mayor, Metropolitan City Mayor, or head of
+Si or Gun fails to purchase the land in question by the time two years have passed since
+the day on which notice of decision to purchase was given under the provisions of
+paragraph (6).
+ 
+Article 41 (Lapse of Decision on Facilities under Urban Planning) (1) If the project for facilities
+under urban planning in connection with the installation of the facilities for which the
+decision on facilities under urban planning has been announced is not implemented by the
+time by the time twenty years have passed since the date of the announcement of the
+decision, the decision on the facilities under urban planning concerned shall lose its effect
+on the day after the day when twenty years have elapsed.
+(2) When a decision on facilities under urban planning loses its effect under the provisions
+of paragraph (1), the Mayor/Do governor shall immediately announce the fact thereof in
+accordance with the provisions of the Presidential Decree.
+ 
+            SECTION 5  District Unit Planning
+ 
+Article 42 (Designation, etc. of District Unit Planning Zone) (1) When such a measure is
+necessary in order to rationalize and concretize the land use within an urban planning
+zone, to improve the function and appearance of an urban community, and to ensure a
+healthy environment, the Minister of Construction and Transportation or the Mayor/Do
+governor may decide by urban planning on the designation of the zones referred to in the
+following subparagraphs as district unit planning zones:
+1. Districts designated under the provisions of Article 33;
+2. Urban development zones which are so designated under the provisions of Article 3 of
+the Urban Development Act;
+3. Redevelopment areas which are so designated under the provisions of Article 4 of the
+Urban Redevelopment Act;
+
+--------------------------------------------------------------------------------
+법제처                                                            26                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+4. Housing site preparation project zones referred to in Article 33 of the Housing
+Construction Promotion Act;
+5. Prearranged areas for housing development which are so designated under the
+provisions of Article 3 of the Housing Site Development Promotion Act;
+6. Districts for improvement of living conditions which are so designated under the
+provisions of Article 3 of the Act on Temporary Measures for the Improvement of
+Dwelling and Other Living Conditions for Low-Income Urban Residents;
+7. National industrial complexes, local industrial complexes, and agricultural and industrial
+complexes which are so designated under the provisions of Articles 6 through 8 of the
+Industrial Sites and Development Act (excluding facility sites falling under subparagraph 6
+(a) of Article 2 of the same Act);
+8. Special tourist zones which are so designated under the provisions of Article 67 of the
+Tourism Promotion Act;
+9. Areas, from among the zones that are released from the designation of development
+restriction zones, street creation regulation zones, greenbelts or parks and the zones that
+are newly incorporated in urban planning zones, where planned development or
+management is necessary; and
+10. Other areas determined by the Presidential Decree that are necessary for improvement
+of the function and the appearance of an urban community and for ensuring its healthy
+environment.
+(2) When ten years have passed since the completion of a project that was being
+implemented in a zone, etc., from among urban planning zones, that is referred to in
+paragraph (1) 3 through 6, the Minister of Construction and Transportation or the
+Mayor/Do governor shall designate it as a district unit planning zone: Provided, That this
+shall not apply when a plan for land use and construction is already formulated for the
+zone etc. in question pursuant to the Act concerned.
+(3) The provisions of Articles 53 through 55 of this Act and Articles 32, 33, 51, 53, and 67
+of the Building Act may be eased within the limits determined by the Presidential Decree
+for their application in a district unit planning zone as prescribed by the district unit
+planning.
+ 
+Article 43 (Contents of District Unit Planning) (1) From among the matters referred to in the
+following subparagraphs, those necessary for achieving the objectives of designating a
+
+--------------------------------------------------------------------------------
+법제처                                                            27                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+district unit planning zone shall be included in the district unit planning:
+1. Subdivision of the areas and districts determined by the Presidential Decree;
+2. The arrangement and scale of the urban infrastructures determined by the Presidential
+Decree;
+3. The scale and plans for the formation of a block (referring to a body of area surrounded
+by roads) and a marked plot (referring to a body of land that is partitioned off for
+planned development or maintenance);
+4. Limitations on the use of buildings, etc., building-to-land ratio and floor-area-to-land
+ratio of buildings, and the maximum and minimum limits on their height;
+5. The arrangement, shapes, and colors of buildings and plans on the line of construction;
+6. Scenery plans;
+7. Traffic management plans; and
+8. Other matters necessary for rationalization of land use, improvement of the function of
+an urban community, etc. that are determined by the Ordinance of the Ministry of
+Construction and Transportation.
+(2) District unit planning shall allow appropriate harmony between the processing, supply,
+and accommodation capacities of the facilities under urban planning that are determined
+by the Presidential Decree, such as roads, waterworks, sewerage, etc., and the total floor
+area of the buildings within the district unit planning zone.
+(3) The preparation criteria and preparation methods for district unit planning shall be
+determined by the Minister of Construction and Transportation.
+ 
+Article 44 (Lapse of Decision on Urban Planning Connected with Designation of District Unit
+Planning Zone) (1) If district unit planning for a district unit planning zone is not
+determined and announced by the time three years have passed since the date of the
+announcement of the decision on urban planning for the designation of the district unit
+planning zone concerned, the decision on urban planning for the designation of the
+district unit planning zone concerned shall lose its effect on the day after the day when
+three years have elapsed.
+(2) When the designation of a district unit planning zone loses its effect under the
+provisions of paragraph (1), the Mayor/Do governor shall immediately announce the fact
+thereof in accordance with the provisions of the Presidential Decree.
+
+--------------------------------------------------------------------------------
+법제처                                                            28                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Article 45 (Construction within District Unit Planning Zone)
+When construction of a building is intended in a district unit planning zone, it shall be
+constructed to conform to the district unit planning: Provided, That this shall not apply if
+no district unit planning is in place, or if the building is constructed in phases within the
+limits of the district urban planning.
+ 
+            CHAPTER Ⅴ  PERMISSION FOR ACT OF DEVELOPMENT
+ 
+Article 46 (Permission for Act of Development) (1) A person who intends to perform an act
+falling under one of the following subparagraphs and determined by the Presidential
+Decree (hereinafter referred to as an “act of development”) within an urban planning zone
+but not by an urban planning project shall obtain permission of the Special Metropolitan
+City Mayor, Metropolitan City Mayor or head of Si or Gun (hereinafter referred to as
+“permission for act of development”): Provided, That creation of forest paths and erosion
+prevention projects, from among the acts of development as referred to in subparagraphs
+2 and 3, shall be in accordance with the provisions of the Forestry Act and the Works
+against Land Erosion or Collapse Act, respectively:
+1. Construction of buildings or installation of fixtures;
+2. Changing form and quality of land (excluding changes to form and quality of land for
+farming);
+3. Quarrying;
+4. Partition of land (excluding the sites referred to in Article 49 of the Building Act where
+buildings are standing); or
+5. Act of leaving objects stacked up within a greenbelt area for at least one month.
+(2) Provisions of paragraph (1) shall apply mutatis mutandis in the cases where changes are
+made to the matters for which permission for act of development is obtained: Provided,
+That this shall not apply if trivial matters determined by the Presidential Decree are being
+changed.
+(3) Notwithstanding the provisions of paragraph (1), an act falling under one of the
+following subparagraphs may be performed without obtaining permission for act of
+development: Provided, That the performance of an act referred to in subparagraph 1 shall
+be reported to the Special Metropolitan City Mayor, Metropolitan City Mayor, or head of Si
+
+--------------------------------------------------------------------------------
+법제처                                                            29                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+or Gun within one month:
+1. Emergency measures for disaster relief or controlling a calamity;
+2. Reconstruction, enlargement, or rebuilding of a building that may be set up by reporting
+under the provisions of the Building Act and any change in the form and quality of land
+to the extent necessary therefor (limited to the sites for facilities under urban planning
+where the project for facilities under urban planning is not yet being implemented); and
+3. Other trivial acts determined by the Presidential Decree.
+ 
+Article 47 (Procedures, etc. for Permission for Act of Development) (1) A person who intends
+to perform an act of development shall submit an application to the holder of the right to
+give permission for act of development, with the plans on the installation of public facilities
+that accompany the act of development concerned (limited to the cases where the
+reversion of public facilities, etc. as referred to in Article 52 is accompanying; the same
+shall apply hereafter within this Article), prevention of dangers and perils, prevention of
+environmental pollution, landscape architecture, etc. attached thereto.
+(2) If such a measure is recognized to be necessary, the Special Metropolitan City Mayor, a
+Metropolitan City Mayor, or the head of a Si or Gun may grant permission for act of
+development on the conditions that such measures as installation of public facilities,
+prevention  of  harms  and  perils,  prevention  of  environmental  pollution,  landscape
+architecture,  etc.  be  taken  subsequently  to  the  act  of  development  concerned  in
+accordance  with  the  provisions  of  the  Presidential  Decree.
+(3) When the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a
+Si or Gun refuses to accept an application for permission for an act of development, he
+shall without any delay inform the applicant the grounds therefor.
+(4) In cases that are determined by the Presidential Decree where such a measure is
+recognized to be necessary for installation of public facilities, prevention of harms and
+perils, prevention of environmental pollution, landscape architecture, etc., the Special
+Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or Gun may
+require  the  person  who  receives  permission  for  an  act  of  development  to  deposit
+performance  guarantee  money  in  order  to  secure  his  performance.
+(5) Matters necessary with regard to calculation, deposit method, etc. of the deposit money
+referred to in paragraph (4) shall be prescribed by the Presidential Decree.
+
+--------------------------------------------------------------------------------
+법제처                                                            30                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+(6) The Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or
+Gun may order a person who performs an act of development without first obtaining
+permission for the act of development or who performs an act of development contrary to
+the permitted details to restore the land to its original state.
+(7) When a person who receives an order to restore to original state as referred to in
+paragraph (6) fails to restore, the Special Metropolitan City Mayor, Metropolitan City
+Mayor, or head of Si or Gun may effect the restoration by execution by proxy. In such a
+case, provisions of the Administrative Vicarious Execution Act shall apply mutatis mutandis
+with regard to the share of expenses and procedures, etc. for the execution by proxy.
+ 
+Article 48 (Legal Fiction of Relevant Authorization, Permission, etc.) (1) In connection with the
+matters for which the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the
+head of a Si or Gun has conferred with the head of the relevant administrative agency
+about authorization, permission, approval, license, consultation, cancellation, examination,
+etc. (hereinafter referred to as “authorization or permission, etc.”) under the provisions of
+paragraph (3) in granting permission for an act of development, the authorization or
+permission, etc. in question shall be considered to have been received:
+1. License to reclaim public waters referred to in Article 9 of the Public Waters Reclamation
+Act, authorization of implementation plan referred to in Article 15 of the same Act;
+2. Occupation or use permission referred to in Article 5 of the Public Waters Management
+Act, authorization of implementation plan referred to in Article 8 of the same Act;
+3. Authorization of mining plan referred to in Article 47 of the Mining Industry Act;
+4. Approval referred to in Article 20 of the Rearrangement of Agricultural and Fishing
+Villages Act for use of agricultural infrastructure for a different purpose;
+5. Permission or consultation for diversion of use of farmland referred to in Article 36 of
+the Farmland Act;
+6. Permission for execution of roadworks referred to in Article 34 of the Road Act,
+permission for occupation and use of roads referred to in Article 40 of the same Act;
+7. Permission referred to in Article 16 (2) of the Burial and Graveyard, etc. Act to rebury the
+remains of a dead with no known burier or relative;
+8. Permission to open up private roads as referred to in Article 4 of the Private Road Act;
+9. Permission for change of form and quality of land as referred to in Article 14 of the
+Work against Land Erosion or Collapse Act, cancellation of the designation of an erosion
+
+--------------------------------------------------------------------------------
+법제처                                                            31                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+control area as referred to in Article 20 of the same Act;
+10. Permission or conference for diversion of a conserved forest as referred to in Article 18
+of the Forestry Act, permission for cutting of standing timber as referred to in Article 90
+of the same Act, quarrying permission referred to in Article 90-2 of the same Act, or
+permission for gathering earth and sand as referred to in Article 90-6 of the same Act;
+11. Permission for execution of a small river related construction as referred to in Article 10
+of the Small River Maintenance Act, permission for occupation of a small river as referred
+to in Article 14 of the same Act;
+12. Authorization for installation of exclusive waterworks referred to in Article 36 of the
+Water Supply and Waterworks Installation Act and referred to in Article 38 of the same
+Act;
+13. Approval referred to in Article 17 of the Coast Management Act for a plan for
+implementation of a coastal maintenance project;
+14. Approval of business plan referred to in Article 12 of the Installation and Utilization of
+Sports Facilities Act;
+15. Permission for conversion of grassland as referred to in Article 23 of the Grassland Act;
+16. Examination of the use of survey results as referred to in Article 25 of the Land Survey
+Act;
+17. Permission for execution of construction works relating to public sewerage, as referred
+to in Article 13 of the Sewerage Act; and
+18. Permission for execution of a riparian work as referred to in Article 30 of the River Act,
+permission for river occupancy referred to in Article 33 of the same Act.
+(2) A person who intends to be granted the legal fiction of authorization or permission,
+etc. as referred to in paragraph (1) shall submit the relevant documents determined by the
+applicable Acts together with the application for permission of an act of development at
+the same time.
+(3) When there are matters that fall under any subparagraph of paragraph (1) in the course
+of granting permission for an act of development, the Special Metropolitan City Mayor, a
+Metropolitan City Mayor, or the head of a Si or Gun shall confer beforehand with the
+heads of the relevant administrative agencies.
+ 
+Article 49 (Criteria for Permission for Act of Development) (1) The Special Metropolitan City
+Mayor, a Metropolitan City Mayor, or the head of a Si or Gun shall grant permission for an
+
+--------------------------------------------------------------------------------
+법제처                                                            32                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+act of development only if the contents of the application for permission for an act of
+development conform to the criteria referred to in the following subparagraphs:
+1. That they run counter to the contents of urban planning; and
+2. That they do not cause any impediment to the implementation of an urban planning
+project.
+(2) For areas, from among the areas referred to in the following subparagraphs, where
+such  a  measure  as  follows  is  recognized  to  be  especially  necessary,  the  Special
+Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or Gun may
+restrict permission for acts of development for one time only, for a duration of no more
+than three years, upon deliberation of the local urban planning committee referred to in
+Article 85 and in accordance with the provisions of the by the Municipal Ordinance of the
+local government concerned:
+1. Areas of greenbelts where trees are being raised in groups or where birds and animals,
+etc. live in groups, or areas that present a necessity to be preserved as superior quality
+farmlands;
+2. Areas where exist concerns that the surrounding environment, scenery, and appearance,
+etc. may be greatly polluted or damaged through acts of development; and
+3. Areas that are newly incorporated into an urban planning zone and for which urban
+planning is being prepared, where, thus, a great change in the criteria for permission for
+acts of development is expected if the urban planning in question is decided.
+(3) When the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a
+Si or Gun intends to restrict permission for acts of development under the provisions of
+paragraph (2), he shall announce beforehand the restriction areas, grounds for restriction,
+acts subject to restriction, and the duration of restriction.
+(4) When the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a
+Si or Gun intends to grant permission for an act of development, he shall listen to the
+opinions of the implementers of the urban planning projects being implemented within the
+area  concerned  on  whether  the  act  of  development  concerned  would  cause  any
+impediment  to  the  implementation  of  those  urban  planning  projects.
+(5) Detailed matters necessary with regard to the criteria, procedures, etc. for permission
+for acts of development shall be determined by the Municipal Ordinance of the local
+government concerned within the scope determined by the Presidential Decree.
+
+--------------------------------------------------------------------------------
+법제처                                                            33                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Article 50 (Act of Development on Site for Facilities under Urban Planning) (1) The Special
+Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or Gun shall not
+permit construction of a building or installation of a fixture that is not part of facilities
+under urban planning on land or public waters that has been determined as the place for
+installation of the facilities under urban planning in question.
+(2) On a site for facilities under urban planning, from among the facilities under urban
+planning the project for whose installation is not implemented by the time two years have
+passed since the date of the announcement of the decision on the urban planning, for
+which the plan for phased implementation has not yet been formulated under the
+provisions of Article 58 or which has not been included in the plan for implementation of
+phase one out of the plan for phased implementation under the same Article (referring to
+the first plan for phased implementation if the plan for phased implementation has been
+modified), the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of
+a Si or Gun may grant permission for the acts of development referred to in the following
+subparagraphs, notwithstanding the provisions of paragraph (1):
+1. Construction of a temporary structure and a change in the form and quality of land
+within the limit that such a change is necessary therefore;
+2. Installation of a fixture which does not cause any impediment to installation of the
+facilities under urban planning and a change in the form and quality of land within the
+limit that such a change is necessary therefor; and
+3. Reconstruction or rebuilding of a building and a change in the form and quality of land
+within the limit that such a change is necessary therefore (excluding the cases that fall
+under Article 46 (3) 2).
+(3) When a project for installation of facilities under urban planning is being implemented
+on land for which construction of a temporary structure or installation of a fixture has been
+permitted under the provisions of paragraph (2) 1 or 2, the Special Metropolitan City
+Mayor, a Metropolitan City Mayor, or the head of a Si or Gun shall order necessary
+measures for restoration of the land to its original state, such as removal of the structure
+or  fixture  at  no  compensation  by  three  months  before  the  expected  date  of
+implementation: Provided, That this shall not apply if the absence of any necessity for
+restoration is recognized.
+
+--------------------------------------------------------------------------------
+법제처                                                            34                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+(4) When a person who receives an order to restore to the original state as referred to in
+paragraph (3) fails to restore, the Special Metropolitan City Mayor, a Metropolitan City
+Mayor, or the head of a Si or Gun may effect the restoration by execution by proxy. In
+such a case, provisions of the Administrative Vicarious Execution Act shall apply mutatis
+mutandis with regard to the share of expenses and procedures, etc. for the execution by
+proxy.
+ 
+Article 51 (Completion Inspection) (1) When a person who has received permission for act of
+development for the acts referred to in Article 46 (1) 1 through 4 completes the act of
+development, he shall receive a completion inspection of the Special Metropolitan City
+Mayor, a Metropolitan City Mayor, or the head of Si or Gun in accordance with the
+provisions of the Ordinance of the Ministry of Construction and Transportation.
+(2) In the course of giving a completion inspection for an act of development under the
+provisions  of  paragraph  (1),  in  connection  with  the  matters  for  which  the  Special
+Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or Gun has
+conferred with the head of the relevant administrative agency under the provisions of
+paragraph (4) about completion inspection or completion authorization, etc. subsequent to
+the authorization or permission, etc. for which legal fiction was granted under the
+provisions of Article 48, the completion inspection or completion authorization, etc. in
+question shall be considered to have been received.
+(3) A person who intends to be granted the legal fiction of completion inspection or
+completion authorization, etc. under paragraph (2) shall submit the relevant documents
+determined by the applicable Act together with the application for completion inspection
+referred to in paragraph (1) at the same time.
+(4) When there are matters that are subject to completion inspection or completion
+authorization, etc. subsequent to the authorization or permission, etc. for which legal
+fiction was granted under the provisions of Article 48 in the course of giving a completion
+inspection  referred  to  in  paragraph  (1),  the  Special  Metropolitan  City  Mayor,  a
+Metropolitan City Mayor, or the head of a Si or Gun shall confer beforehand with the head
+of the relevant administrative agency.
+ 
+Article 52 (Reversion of Public Facilities, etc.) (1) If a person who is granted permission for an
+act of development is an administrative authority, when the person who is granted
+
+--------------------------------------------------------------------------------
+법제처                                                            35                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+permission for an act of development newly installs public facilities or installs public
+facilities that are substituted for the existing public facilities, the newly installed public
+facilities shall revert, at no cost, to the managing authority that is to manage the facilities,
+and the existing public facilities shall revert, at no cost, to the person who received
+permission for the act of development, notwithstanding the provisions of the State
+Properties Act and the Local Finance Act.
+(2)  If  the  person  who  is  granted  permission  for  the  act  of  development  is  not  an
+administrative authority, the public facilities that are newly installed by the person who is
+granted permission for the act of development shall revert, at no cost, to the managing
+authority that is to manage the facilities, and the public facilities whose use is to be
+discontinued because of the act of development may be transferred, at no cost, to the
+person who received permission for the act of development to the extent that they are
+reasonable  for  the  installation  expenses  for  the  newly  installed  public  facilities,
+notwithstanding the provisions of the State Properties Act and the Local Finance Act.
+(3) When the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a
+Si or Gun intends to grant permission for an act of development which includes matters
+relating to reversion of public facilities referred to in paragraphs (1) and (2), he shall
+beforehand listen to the opinions of the managing authority for the public facilities
+concerned: Provided, That if no managing authority has been designated, the opinion of
+the managing authority shall be taken after the managing authority is designated and
+before completion, and if the managing authority is not clear, the Minister of Construction
+and Transportation and the Minister of Finance and Economy shall be considered to be the
+managing authority for the cases of roads, rivers, and ditches, etc. and for the cases of all
+other properties, respectively.
+(4) If the Special Metropolitan City Mayor, a Metropolitan City Mayor, the head of a Si or
+Gun has granted permission for an act of development after listening to the opinions of
+the managing authority under the provisions of paragraph (3), the person who is granted
+the permission for the act of development may perform the act of development with the
+assumption that the authorization or permission, etc. referred to in the relevant Acts has
+been received in connection with occupation and use of the public facilities included in the
+permission. In such a case, occupation fees and use fees for occupation or use of the
+public facilities concerned shall be considered exempt.
+
+--------------------------------------------------------------------------------
+법제처                                                            36                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+(5) If the person who received permission for an act of development is an administrative
+authority, he shall notify the managing authority for the facilities concerned with the kinds
+of the public facilities and the particulars of the land at the end of the completion
+inspection after completion of the act of development. In such a case, the public facilities
+shall be considered to be reverted to the managing authority that is to manage the
+facilities concerned and the person who was granted permission for the act of permission
+on the day of the notification.
+(6)  If  the  person  who  received  permission  for  an  act  of  development  is  not  an
+administrative authority, the person who received permission for the act of development
+shall notify the managing authority for the facilities in question with the kinds thereof and
+the particulars of the land before completion of the act of development connected with
+the public facilities that will revert to the managing authority or transferred to him under
+paragraph (2), and the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the
+head of a Si or Gun who has given a completion inspection shall notify the managing
+authority for the facilities in question with the details thereof. In such a case the public
+facilities shall be considered reverted or transferred to the managing authority which will
+manage  the  facilities  and  to  the  person  who  received  permission  for  the  act  of
+development,  respectively,  through  receipt  of  the  completion  inspection.
+(7) In the course of registering the public facilities referred to in paragraphs (1) through (6),
+documents that prove the grounds for registration referred to in Article 41 of the
+Registration of Real Estate Act shall be substituted by the documents that prove the
+receipt of the completion inspection referred to in Article 51 (1).
+(8) If the person who received permission for an act of development is an administrative
+authority, the person who received permission for the act of development may not use the
+proceeds arising from the disposal of the public facilities reverted to him under the
+provisions of paragraph (1) for a purpose other than the urban planning project.
+ 
+            CHAPTER Ⅵ  RESTRICTION ON ACTS IN AREA, DISTRICT, AND ZONE
+ 
+Article 53 (Restriction on Construction in Area or District) (1) Matters regarding the restriction
+of the uses, kinds and scales of buildings in an area which is so designated under the
+provisions of Article 32 shall be prescribed by the Presidential Decree.
+
+--------------------------------------------------------------------------------
+법제처                                                            37                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+(2) Unless there are special provisions in this Act or in other Acts, matters regarding the
+restriction on the uses, kinds, and scales of buildings in a district which is so designated
+under the provisions of Article 33 may be prescribed by the Municipal Ordinance of the
+Special Metropolitan City, a Metropolitan City, Si or Gun in accordance with the standards
+determined by the Presidential Decree.
+(3) The restriction on the uses, kinds, and scales of buildings referred to in paragraphs (1)
+and (2) shall be appropriate for the objectives of designation of the area and district
+concerned.
+ 
+Article 54 (Building-to-Land Ratio in Area) (1) The maximum limit for the ratio (hereinafter
+referred to as the “building-to-land ratio”) of the building area (the total of the area of all
+buildings if there are at least two buildings on the plot) to the plottage within an area
+which is so designated under the provisions of Article 32 shall be determined by the
+Municipal Ordinance of the Special Metropolitan City, Metropolitan City,  Si, or Gun within
+the limits referred to in the following subparagraphs and in accordance with the standards
+determined by the Presidential Decree:
+1. Residential area: no more than seventy percent;
+2. Commercial area: no more than ninety percent;
+3. Industrial area: no more than seventy percent (no more than eighty percent for an
+industrial complex referred to in subparagraph 5 of Article 2 of the Industrial Sites and
+Development Act);
+4. Greenbelt area: no more than twenty percent; and
+5. Other areas: no more than sixty percent.
+(2) Standards for the building-to-land ratio in an area that has been further broken down
+under the provisions of Article 32 (2) shall be separately determined by the Presidential
+Decree within the limits referred to in each subparagraph of paragraph (1).
+(3) In such cases as those determined by the Presidential Decree where there is a necessity
+for prevention of overpopulation of an urban community or a necessity for increasing the
+degree of land use, the buildingto-land ratio may be determined separately by the
+Municipal Ordinance of the Special Metropolitan City, Metropolitan City,  Si, or  Gun,
+notwithstanding the provisions of paragraph (1).
+ 
+
+--------------------------------------------------------------------------------
+법제처                                                            38                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Article 55 (Floor-Area-to-Land Ratio in Area) (1) The maximum limit for the ratio (hereinafter
+referred to as the “floorarea-to-land ratio”) of the total floor area of a building (the total of
+the floor area of all buildings if there are at least two buildings on the plot) to the plottage
+within an area which is so designated under the provisions of Article 32 shall be
+determined by the Municipal Ordinance of the Special Metropolitan City, Metropolitan City,
+Si, or Gun within the limits referred to in the following subparagraphs and in accordance
+with the standards determined by the Presidential Decree:
+1. Residential area: no more than seven hundred percent;
+2. Commercial area: no more than one thousand five hundred percent;
+3. Industrial area: no more than four hundred percent;
+4. Greenbelt area: no more than two hundred percent; and
+5. Other areas: no more than two hundred percent.
+(2) Standards for the floor-area-to-land ratio in an area that has been further broken down
+under the provisions of Article 32 (2) shall be separately determined by the Presidential
+Decree within the limits referred to in each subparagraph of paragraph (1).
+(3) If there is a park, public square, road, river, or other type of vacant lot near a building,
+or if such is being installed there, the floor-areatoland ratio may be determined separately
+by the Municipal Ordinance of the Special Metropolitan City, Metropolitan City,  Si, or Gun
+in  accordance  with  the  provisions  of  the  Presidential  Decree,  notwithstanding  the
+provisions  of  paragraph  (1).
+ 
+Article 56 (Restriction on Acts, etc. in Development Restriction Area)
+Matters regarding the restriction on acts in a development restriction area and other
+manners of managing a development restriction area shall be determined separately by
+Act.
+ 
+Article 57 (Restriction on Acts in Street Creation Regulation Area) (1) Urban planning projects
+within a street creation regulation area which is so designated under the provisions of
+Article 35 (hereinafter referred to as a “street creation regulation area”) may be
+implemented only if they are projects determined by the Presidential Decree.
+(2) Unless by an urban planning project, only the acts falling under one of the following
+subparagraphs may be performed in a street creation regulation area by obtaining
+permission of the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head
+
+--------------------------------------------------------------------------------
+법제처                                                            39                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+of a Si or Kun:
+1. An act of constructing a building for agricultural, forestry, or fishing purposes that meets
+the category and scale determined by the Presidential Decree, or other acts determined
+by the Presidential Decree; and
+2. An act of cutting of standing timber, planting trees, taking care of trees, gathering earth
+and sand, and other trivial acts determined by the Presidential Decree.
+(3) When the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a
+Si or Gun intends to grant permission referred to in paragraph (2), he shall confer
+beforehand  with  the  holder  of  the  authority  for  permission  referred  to  in  each
+subparagraph of paragraph (5), the manager of the public facilities connected with the act
+subject to that permission, or the person who will manage the public facilities being
+installed by the act.
+(4) Provisions of Article 47 (6) and (7) shall apply mutatis mutandis to a person who
+performs such an act as construction of a building or change of the form and quality of
+land in a street creation regulation area without obtaining the permission referred to in
+paragraph (2).
+(5) If permission referred to in paragraph (2) is granted, permission referred to in the
+following subparagraphs shall be considered to be granted:
+1. Permission for diversion of a conserved forest referred to in Article 18 (1) of the Forestry
+Act;
+2. Permission for cutting standing timber referred to in Article 90 of the Forestry Act;
+3. Permission for quarrying referred to in Article 90-2 of the Forestry Act; and
+4. Permission for gathering earth and sand referred to in Article 90-6 of the Forestry Act.
+(6) The criteria and application procedures for the permission referred to in paragraph (2)
+and other necessary matters shall be determined by the Presidential Decree.
+ 
+            CHAPTER Ⅶ  IMPLEMENTATION OF PROJECT FOR FACILITIES UNDER URBAN
+PLANNING
+ 
+Article 58 (Formulation of Plan for Phased Implementation) (1) The Special Metropolitan City
+Mayor, a Metropolitan City Mayor, or the head of a Si or Gun shall formulate a plan for
+phased implementation for facilities under urban planning which includes a plan for raising
+
+--------------------------------------------------------------------------------
+법제처                                                            40                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+funds and plan for compensation, etc. within two years from the day on which the decision
+of the facilities under urban planning becomes effective and in accordance with the
+provisions of the Presidential Decree.
+(2)  If  urban  planning  is  prepared  directly  by  the  Minister  of  Construction  and
+Transportation or a Do governor, the Minister of Construction and Transportation or the
+Do governor may formulate a plan for phased implementation and forward it to the
+applicable Special Metropolitan City Mayor, Metropolitan City Mayor, or head of Si or Gun.
+(3) A plan for phased implementation shall be formulated by dividing it into the plan for
+implementation of phase one and the plan for implementation of phase two, and a project
+for facilities under urban planning that is to be implemented within three years and a
+project for facilities under urban planning that is to be implemented after three years shall
+be included in the plan for implementation of phase one and the plan for implementation
+of phase two, respectively.
+(4) When the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a
+Si or Gun formulates or receives a plan for phased implementation under the provisions of
+paragraph (1) or (2), he shall immediately make a public announcement thereof in
+accordance with the provisions of the Presidential Decree.
+(5) Provisions of paragraphs (1) through (4) shall apply mutatis mutandis in cases where a
+publicly announced plan for phased implementation is being modified: Provided, That this
+shall not apply if trivial details determined by the Presidential Decree are being modified.
+ 
+Article 59 (Implementer of Project for Facilities under Urban Planning) (1) Unless there are
+special provisions in this Act or other Acts, the Special Metropolitan City Mayor, a
+Metropolitan City Mayor, or the head of a Si or Gun shall implement the project for
+facilities under urban planning within his jurisdictional area.
+(2) When a project for facilities under urban planning is to be implemented over the
+jurisdictional area of at least two of the Special Metropolitan City, Metropolitan Cities, Shis,
+or Kuns, the relevant Special Metropolitan City Mayor, Metropolitan City Mayors, or heads
+of Shis or Kuns shall determine the implementer after conferring with each other.
+(3) If the conference referred to in paragraph (2) is not realized, the provisions of Article 18
+(3) shall apply mutatis mutandis with regard to designation of the implementer.
+(4) When the state planning is involved or when such a measure as below is otherwise
+recognized to be especially necessary, the Minister of Construction and Transportation may
+
+--------------------------------------------------------------------------------
+법제처                                                            41                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+directly implement a project for facilities under urban planning after listening to the
+opinions of the relevant Special Metropolitan City Mayor, Metropolitan City Mayor, or head
+of Si or Gun notwithstanding the provisions of paragraphs (1) through (3), and when
+metropolitan  planning  is  involved  or  when  such  a  measure  as  below  is  otherwise
+recognized to be especially necessary, a Do governor may directly implement a project for
+facilities under urban planning after listening to the opinions of the head of the relevant Si
+or Gun.
+(5) A person other than those who may become implementers under the provisions of
+paragraphs (1) through (4) may implement a project for facilities under urban planning by
+receiving designation of implementer from the competent Special Metropolitan City Mayor,
+Metropolitan City Mayor or head of Si or Gun in accordance with the provisions of the
+Presidential Decree.
+(6) When the Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a
+Si or Gun has designated the implementer of an urban planning project under the
+provisions of paragraph (2) or (5), he shall announce the details of the designation in
+accordance with the Ordinance of the Ministry of Construction and Transportation.
+ 
+Article 60 (Installment Implementation of Project for Facilities under Urban Planning)
+The implementer of a project for facilities under urban planning may implement the
+project for facilities under urban planning by dividing the area targeted for implementation
+of the project into at least two parts when such a measure is recognized to be necessary
+for efficient promotion of the project.
+ 
+Article 61 (Preparation and Authorization of Implementation Plan) (1) The implementer of a
+project for facilities under urban planning shall prepare an implementation plan concerning
+the project for facilities under urban planning in question (hereinafter referred to as an
+“implementation plan”) in accordance with the provisions of the Presidential Decree.
+(2) When the implementer of a project for facilities under urban planning (excluding the
+Minister of Construction and Transportation and Mayors/ Do governors) has prepared the
+implementation plan under the provisions of paragraph (1), he shall obtain authorization of
+the Mayor/Do governor.
+(3) Provisions of paragraph (2) shall apply mutatis mutandis in cases of modification or
+cancellation of an authorized implementation plan: Provided, That this shall not apply if
+
+--------------------------------------------------------------------------------
+법제처                                                            42                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+trivial  details  determined  by  the  Ordinance  of  the  Ministry  of  Construction  and
+Transportation  are  being  modified  or  cancelled.
+(4) The blueprint and specifications, financial plans, and duration of implementation
+necessary for implementation of the project and other matters determined by the
+Presidential Decree shall be clearly stated in or attached to an implementation plan.
+ 
+Article 62 (Public Exhibition, etc. of Documents) (1) When the Mayor/Do governor intends to
+grant authorization for an implementation plan under the provisions of Article 61 (2), he
+shall in advance make a public announcement thereof in accordance with the provisions of
+the Presidential Decree and have copies of the relevant documents exhibited to the
+general public for at least fourteen days.
+(2) The owner of land or a building, etc. within the implementation district of a project for
+facilities under urban planning or a person whose interest therein is involved may submit a
+written opinion to the Mayor/ Do governor or the implementer of the project for facilities
+under urban planning during the public exhibition period referred to in paragraph (1), and
+the Mayor/Do governor or the implementer of the project for facilities under urban
+planning shall reflect the submitted suggestions in the implementation plan when they are
+recognized to be reasonable.
+(3) Provisions of paragraphs (1) and (2) shall apply mutatis mutandis with regard to the
+cases where the Minister of Construction and Transportation or the Mayor/Do governor
+prepares an implementation plan.
+ 
+Article 63 (Announcement of Implementation Plan)
+When the Minister of Construction and Transportation or the Mayor/Do governor prepares
+or grants authorization of an implementation plan under the provisions of Article 61, he
+shall announce the contents thereof in accordance with the provisions of the Presidential
+Decree.
+ 
+Article 64 (Legal Fiction of Relevant Authorization or Permission, etc.) (1) In connection with
+the matters for which the Minister of Construction and Transportation or the Mayor/Do
+governor has conferred with the head of the relevant administrative agency about
+authorization or permission, etc. referred to in the following subparagraphs under the
+provisions of paragraph (3) in the course of preparation or granting authorization of an
+implementation plan referred to in Article 61, the authorization or permission, etc. in
+
+--------------------------------------------------------------------------------
+법제처                                                            43                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+question shall be considered to have been granted, and where the implementation plan
+has been announced under Article 63, authorization or permission, etc. pursuant to related
+Acts shall be considered to have been announced or publicly notified, etc.:
+1. Construction permission referred to in Article 8 of the Building Act, construction report
+referred to in Article 9 of the same Act, temporary building permission or report referred
+to in Article 15 of the same Act;
+2. Approval of establishment of a factory referred to in Article 13 of the Industrial
+Placement and Factory Construction Act;
+3. License to reclaim public waters referred to in Article 9 of the Public Waters Reclamation
+Act, authorization of implementation plan referred to in Article 15 of the same Act,
+consultation or approval referred to in Article 38 of the same Act;
+4. Occupation or use permission referred to in Article 5 of the Public Waters Management
+Act, authorization of implementation plan referred to in Article 8 of the same Act;
+5. Authorization of mining plan referred to in Article 47 of the Mining Industry Act;
+6. Permission of use and benefit referred to in Article 24 of the State Properties Act;
+7. Approval referred to in Article 20 of the Rearrangement of Agricultural and Fishing
+Villages Act for use of agricultural infrastructure for a different purpose;
+8. Permission or consultation for diversion of use of farmland referred to in Article 36 of
+the Farmland Act;
+9. Permission for execution of roadworks referred to in Article 34 of the Road Act,
+permission for occupation and use of roads referred to in Article 40 of the same Act;
+10. Permission referred to in Article 16 (2) of the Burial and Graveyard, etc. Act to rebury
+the remains of a dead with no known burier or relative;
+11. Permission to open up private roads as referred to in Article 4 of the Private Road Act;
+12. Permission for change of form and quality of land as referred to in Article 14 of the
+Work against Land Erosion or Collapse Act, and cancellation of the designation of an
+erosion control area as referred to in Article 20 of the same Act;
+13. Permission or conference for diversion of a conserved forest as referred to in Article 18
+of the Forestry Act, permission for cutting of standing timber as referred to in Article 90
+of the same Act, quarrying permission referred to in Article 90-2 of the same Act, or
+permission for gathering earth and sand as referred to in Article 90-6 of the same Act;
+
+--------------------------------------------------------------------------------
+법제처                                                            44                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+14. Permission for execution of a small river related construction as referred to in Article 10
+of the Small River Maintenance Act, and permission for occupation of a small river as
+referred to in Article 14 of the same Act;
+15. Authorization for waterworks enterprise referred to in Articles 12 and 33-2 of the Water
+Supply and Waterworks Installation Act, and authorization for installation of exclusive
+waterworks referred to in Articles 36 and 38 of the same Act;
+16. Approval referred to in Article 17 of the Coast Management Act for a plan for
+implementation of a coastal maintenance project;
+17. Consultation about energy use program referred to in Article 8 of the Energy Use
+Rationalization Act;
+18. Registration of opening of a superstore as referred to in Article 8 of the Distribution
+Industry Development Act;
+19. Permission for use or benefit referred to in Article 82 (1) 1 of the Local Finance Act;
+20. Commencement, modification, or completion report referred to in Article 24 of the
+Cadastral Act;
+21. Consultation concerning the feasibility of integrated energy supply as referred to in
+Article 4 of the Integrated Energy Supply Act;
+22. Recognition of business plan referred to in Article 12 of the Installation and Utilization
+of Sports Facilities Act;
+23. Permission for conversion of grassland as referred to in Article 23 of the Grassland Act;
+24. Examination of the use of survey results as referred to in Article 25 of the Land Survey
+Act;
+25. Permission for execution of construction works relating to public sewerage, as referred
+to in Article 13 of the Sewerage Act;
+26. Permission for execution of a riparian work as referred to in Article 30 of the River Act,
+and permission for river occupancy referred to in Article 33 of the same Act; and
+27. Permission for execution of harbor-related construction referred to in Article 9 (2) of
+the Harbor Act, and approval for an implementation plan referred to in Article 10 (2) of
+the same Act.
+(2) A person who intends to be granted the legal fiction of authorization or permission,
+etc. as referred to in paragraph (1) shall submit the relevant documents determined by the
+applicable Acts together with the application for authorization of an implementation plan
+
+--------------------------------------------------------------------------------
+법제처                                                            45                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+at the same time.
+(3) When there are matters that fall under any subparagraph of paragraph (1) in the course
+of preparing or granting authorization for an implementation plan, the Minister of
+Construction and Transportation or the Mayor/Do governor shall confer beforehand with
+the head of the relevant administrative agency.
+ 
+Article 65 (Inspection, etc. of Relevant Documents)
+When such a measure as below is necessary for implementation of a project for facilities
+under urban planning, the implementer of the project for facilities under urban planning
+may request a registry office or the head of the relevant administrative agency for
+inspection of necessary documents or for issue of their transcription, certified copy, or
+abstract, at no charge.
+ 
+Article 66 (Service of Documents) (1) When the implementer of a project for facilities under
+urban planning is unable to deliver documents due to an ambiguity in the domicile or
+temporary domicile of the persons whose interests are involved or other circumstances, he
+may make a public announcement, in accordance with the provisions of the Presidential
+Decree, in lieu of the service of those documents.
+(2) Service by publication of documents as referred to in paragraph (1) shall be in
+accordance  with  the  examples  of  service  by  publication  as  referred  to  in  the  Civil
+Procedure  Act.
+ 
+Article 67 (Expropriation and Use of Land, etc.) (1) The implementer of a project for facilities
+under urban planning may expropriate or use the objects or rights referred to in the
+following subparagraphs which are necessary for the project for facilities under urban
+planning in the urban planning zone:
+1. Land, a building, or an object affixed to that land; and
+2. Rights to land, a building, or an object affixed to that land, other than ownership.
+(2) If a part of land parcel is expropriated or used for a project for facilities under urban
+planning in such a manner that makes it impossible for the remainder of the land to be
+put to its customary use or used as a housing site, the owner of the land may request the
+implementer of the project for facilities under urban planning to expropriate or use the
+remaining land.
+
+--------------------------------------------------------------------------------
+법제처                                                            46                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+(3) When such a measure as follows is especially necessary for implementation of a project
+for facilities under urban planning, the implementer thereof may make a one-time use of
+land, buildings, or objects affixed to that land near the facilities under urban planning or
+the rights, other than those of ownership, to land, buildings or objects affixed to that land.
+ 
+Article 68 (Application Mutatis Mutandis of Land Expropriation Act) (1) Unless there are
+special provisions in this Act, the provisions of the Land Expropriation Act shall apply
+mutatis mutandis in regard to expropriation or use referred to in Article 67.
+(2) When there is an announcement of an implementation plan referred to in Article 63 in
+the course of applying mutatis mutandis the provisions of the Land Expropriation Act
+under the provisions of paragraph (1), approval of project and the announcement thereof
+as referred to in Articles 14 and 16 of the Land Expropriation Act shall be considered to be
+made: Provided, That an application for adjudication shall be made within the duration of a
+project for facilities under urban planning which is determined by the implementation plan,
+notwithstanding the provisions of Articles 17 and 25 (2) of the Land Expropriation Act.
+ 
+Article 69 (Restriction on Disposal of Stateor Public-Owned Land) (1) State-owned or public-
+owned land within an urban planning zone that is necessary for the project for facilities
+under the urban planning may not be sold or transferred for a purpose other than that
+which is determined by the urban planning concerned.
+(2) An act that is in violation of the provisions of paragraph (1) shall be void.
+ 
+Article 70 (Public Announcement of Completion of Construction) (1) When the construction
+for a project for facilities under urban planning is completed, the implementer of the
+project for facilities under urban planning (excluding the Minister of Construction and
+Transportation and the Mayors/Do governors) shall prepare a written report on completion
+of construction and receive a completion inspection of the Mayor/Do governor in
+accordance with the provisions of the Ordinance of the Ministry of Construction and
+Transportation.
+(2) When the Mayor/Do governor receives a written report on completion of construction
+referred to in paragraph (1), he shall without any delay conduct a completion inspection.
+(3) When the Mayor/Do governor determines, as a result of the completion inspection
+referred to in paragraph (2), that the construction has been completed in accordance with
+the implementation plan, he shall issue a certificate of inspection completion to the
+
+--------------------------------------------------------------------------------
+법제처                                                            47                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+implementer  of  the  project  for  facilities  under  urban  planning  and  give  a  public
+announcement  of  the  completion  of  the  construction.
+(4) When the implementer of a project for facilities under urban planning who is the
+Minister of Construction and Transportation or the Mayor/Do governor has completed the
+construction of the project for facilities under urban planning, he shall give a public
+announcement of the completion of construction.
+(5) In regard to the matters for which the Minister of Construction and Transportation or
+the Mayor/Do governor has conferred with the head of the relevant administrative agency
+under the provisions of paragraph (7) in the course of giving a completion inspection
+under the provisions of paragraph (2) or giving a public announcement of completion of
+construction under the provisions of paragraph (4) about the completion inspection or
+completion authorization, etc. following authorization or permission, etc. the legal fiction of
+which  is  granted  under  the  provisions  of  Article  64,  the  completion  inspection  or
+completion authorization, etc. in question shall be considered to have been granted.
+(6) When the implementer of a project for facilities under urban planning (excluding the
+Minister of Construction and Transportation and the Mayors/Do governors) intends to be
+granted the legal fiction of completion inspection or completion authorization, etc. as
+referred to in paragraph (5), he shall submit the relevant documents determined by the
+applicable Acts together with the application for completion inspection referred to in
+paragraph (1) at the same time.
+(7)  When  there  are  matters  that  fall  under  completion  inspection  or  completion
+authorization, etc. following authorization or permission, etc. the legal fiction of which is
+granted under the provisions of Article 64 in the details of the course of giving completion
+inspection under the provisions of paragraph (2) or giving a public announcement of the
+completion  of  construction  under  the  provisions  of  paragraph  (4),  the  Minister  of
+Construction and Transportation, the Special Metropolitan City Mayor, a Metropolitan City
+Mayor, or the head of a Si or Gun shall confer beforehand with the head of the relevant
+administrative agency.
+ 
+Article 71 (Reversion of Public Facilities, etc.)
+Provisions of Article 52 shall apply mutatis mutandis in cases where public facilities are
+newly installed through a project for facilities under urban planning or where public
+facilities that substitute for the existing public facilities are installed. In such a case, the
+
+--------------------------------------------------------------------------------
+법제처                                                            48                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+phrase “at the end of the completion inspection” as it appears in Article 52 (5) and the
+phrase “documents that prove the receipt of the completion inspection referred to in
+Article 51 (1)” as it appears in Article 52 (7) shall be considered as “at the end of the
+completion  inspection  (if  the  implementer  is  the  Minister  of  Construction  and
+Transportation or the Mayor/Do governor, referring to when a public announcement of
+completion of construction referred to in Article 70 (4) is made)” and “the certificate of
+inspection completion referred to in Article 70 (3) (if the implementer is the Minister of
+Construction and Transportation or the Mayor/Do governor, referring to the public
+announcement of completion of construction referred to in paragraph (4) of the same
+Article)”, respectively.
+ 
+Article 72 (Relation to Other Acts)
+When disposal of a property, from among building lots and buildings created through a
+project for facilities under urban planning, that is under the ownership of the State or a
+local government is intended, it may be disposed of according to the order referred to in
+the following subparagraphs in accordance with the provisions of the Presidential Decree,
+notwithstanding the provisions of the State Properties Act and the Local Finance Act:
+1.  Transfer  to  the  owner  of  land  or  building  that  has  been  expropriated  due  to
+implementation of the project for facilities under urban planning concerned; and
+2. Exchange with land that is necessary for a different urban planning project.
+ 
+            CHAPTER Ⅷ  EXPENSES
+ 
+Article 73 (Principle of Responsibility for Expenses)
+Unless there are special provisions in this Act or in other Acts, the expenses related with
+urban planning and a project for facilities under urban planning shall be borne by the
+national treasury, the local government concerned, or the implementer, if the project is
+being implemented by the State, by the head of a local government, or by a person other
+than administrative authorities, respectively.
+ 
+Article 74 (Responsibility of Local Government for Expenses) (1) When there is the City/ Do,
+Si, or Gun that receives considerable benefits from a project for facilities under urban
+planning implemented by the Minister of Construction and Transportation or the
+
+--------------------------------------------------------------------------------
+법제처                                                            49                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Mayor/Do governor, he may put a burden on the City/ Do,  Si, or Gun receiving those
+benefits for part of the expenses required for the plan for facilities under urban planning
+concerned in accordance with the provisions of the Presidential Decree. In such a case, the
+Minister of the Construction and Transportation shall confer with the Minister of
+Government Administration and Home Affairs before putting a burden of expenses on the
+City/  Do,  Si, or Gun.
+(2) When the Mayor/Do governor intends to put a burden of expenses on the Special
+Metropolitan City, a Metropolitan City,  Si, or Gun that does not belong to his City/Do
+under  the  provisions  of  paragraph  (1),  he  shall  confer  with  the  head  of  the  local
+government  concerned,  but  if  no  conference  is  realized,  he  shall  conform  to  the
+determinations  of  the  Minister  of  Government  Administration  and  Home  Affairs.
+(3) When there is a different local government that receives considerable benefits from a
+project for facilities under urban planning implemented by the head of a Si or  Gun, he
+may put a burden on that different local government receiving benefits for part of the
+expenses required for the project for facilities under urban planning concerned by
+conferring with that other local government and in accordance with the provisions of the
+Presidential Decree.
+(4) When a conference as referred to in paragraph (3) is not realized, determinations of the
+competent Do governor shall be followed if the other local government belongs to the
+same  Do, and determinations of the Minister of Government Administration and Home
+Affairs shall be followed if the other local government belongs to a different City/Do.
+ 
+Article 75 (Responsibility of Public Facilities Manager for Expenses)
+When a manager of public facilities has received considerable benefits from a project for
+facilities under urban planning (limited to the public facilities that are installed and/or
+managed by someone other than the implementer concerned), the implementer of the
+project for facilities under urban planning (limited to an administrative authority) may put a
+burden on that manager of public facilities for part of the expenses required for the
+project for facilities under urban planning concerned by conferring with him and in
+accordance with the provisions of the Presidential Decree. In such a case, when no
+conference is realized, the matter shall be resolved by listening to the opinions of the head
+of the central administrative agency for the public facilities concerned.
+
+--------------------------------------------------------------------------------
+법제처                                                            50                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Article 76 (Subsidy or Loan) (1) All or part of the expenses required for a foundational
+investigation related with fundamental urban planning, metropolitan planning, or urban
+planning that is formulated by an administrative authority may be subsidized from the
+national treasury in accordance with the provisions of the Presidential Decree.
+(2) All or part of the expenses required for a project for facilities under urban planning that
+is being implemented by an administrative authority may be subsidized or loaned from the
+national treasury in accordance with the provisions of the Presidential Decree, and the
+State or a local government may subsidize or give a loan for part of the expenses required
+for a project for facilities under urban planning that is being implemented by someone
+other than administrative authorities in accordance with the provisions of the Presidential
+Decree.
+ 
+            CHAPTER Ⅸ  URBAN PLANNING COMMITTEE
+ 
+Article 77 (Central Urban Planning Committee)
+A  Central  Urban  Planning  Committee  shall  be  established  under  the  Ministry  of
+Construction and Transportation in order to deliberate on matters that belong under the
+authority of the Minister of Construction and Transportation such as comprehensive
+countermeasure for growth of urban communities, fundamental urban planning, and
+metropolitan planning and on matters for which deliberation of the Central Urban Planning
+Committee is required under the provisions of other Acts and to conduct investigations
+and research studies related with urban planning.
+ 
+Article 78 (Organization) (1) The Central Urban Planning Committee shall be composed of
+one each of the chairman and vice chairman and at least twenty but no more than twenty-
+five members.
+(2) The Minister of Construction and Transportation shall become the chairman of the
+Committee, and the Vice Minister of Construction and Transportation shall become the
+vice chairman thereof.
+(3) The committee members shall be appointed or commissioned by the Minister of
+Construction and Transportation from among public officials at the relevant central
+administrative agencies and persons who have extensive knowledge and experience related
+with urban planning, such as that in land use, transportation, and the environment.
+
+--------------------------------------------------------------------------------
+법제처                                                            51                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+(4) The committee members who are not public officials shall be at least seven in number,
+and their terms of office shall be two years.
+(5) Term of office of a substitute member who is filling vacancy shall be the remaining
+term of his predecessor.
+ 
+Article 79 (Official Duties of Chairman, etc.) (1) The chairman of the Central Urban Planning
+Committee shall exercise overall control over the affairs of the Committee and become the
+presiding officer of the Committee.
+(2) The vice chairman of the Committee shall assist the chairman and, if the chairman is
+unable to perform his official duties due to an unavoidable circumstance, perform those
+duties for the chairman.
+(3) If both the chairman and vice chairman are unable to perform their official duties due
+to an unavoidable circumstance, a committee member appointed in advance by the
+chairman shall perform those duties for them.
+ 
+Article 80 (Call of Meeting and Quorum of Voting) (1) A meeting of the Central Urban
+Planning Committee shall be called by the chairman of the Committee when the chairman
+recognizes a necessity therefor.
+(2)  A  meeting  of  the  Central  Urban  Planning  Committee  shall  be  started  with  the
+attendance of a majority of the registered committee members, and a resolution shall be
+passed by a vote in favor by a majority of the committee members in attendance.
+ 
+Article 81 (Subcommittee) (1) The Central Urban Planning Committee may have
+subcommittees for the purpose of settling matters delegated by it.
+(2)  For  the  matters  that  are  especially  designated  by  the  Central  Urban  Planning
+Committee, from among the matters delegated to a subcommittee, deliberation by the
+subcommittee shall be considered deliberation by the Central Urban Planning Committee.
+ 
+Article 82 (Special Counsels) (1) The Central Urban Planning Committee may have special
+counsels for the purpose of investigating and researching important matters related with
+urban planning, etc.
+(2) The special counsels may attend and speak before a meeting when there is such a
+request from the chairman of the Committee and the Committee or a subcommittee.
+
+--------------------------------------------------------------------------------
+법제처                                                            52                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+(3)  The  special  counsels  shall  be  appointed  by  the  Minister  of  Construction  and
+Transportation from among persons with extensive knowledge and experience related with
+urban planning, such as that in land use, transportation, and environment.
+ 
+Article 83 (Secretary and Clerk) (1) The Central Urban Planning Committee shall have a
+secretary and a clerk.
+(2) The secretary and clerk shall be appointed by the chairman of the Committee from
+among public officials under the Ministry of Construction and Transportation.
+(3) The secretary shall be in charge of the administrative affairs of the committee by the
+command of the chairman of the Committee, and the clerk shall assist the secretary.
+ 
+Article 84 (Consultation, etc. of Specialized Institutions) (1) When such a measure as follows is
+recognized as necessary, the Minister of Construction and Transportation may consult with
+specialized institutions that are urban-planning-related about or ask them to investigate or
+research in fundamental urban planning, approval of metropolitan planning, and other
+important matters related with urban planning.
+(2) When the Minister of Construction and Transportation consults or asks for investigation
+or research under the provisions of paragraph (1), the expenses necessary therefore may
+be paid to the specialized institution concerned within the budgetary limits.
+ 
+Article 85 (Local Urban Planning Committee) (1) A Special Metropolitan Planning Committee,
+a Metropolitan Planning Committee, and a Do Urban Planning Committee shall each be
+established in the Cities/Dos, respectively, for the purpose of being in charge of the
+matters referred to in the following subparagraphs:
+1. Deliberation of urban planning decisions regarding which are made by the Mayor/Do
+governor;
+2. If matters, from among the powers of the Minister of Construction and Transportation,
+falling under those which are subject to deliberation by the Central Urban Planning
+Committee are delegated to the Mayor/Do governor, deliberation of those delegated
+matters; and
+3. Consultation to the Mayor/Do governor on matters related with urban planning.
+(2) A Si Urban planning Committee, a Gun Urban Planning Committee, and a Gu Urban
+Planning Committee may each be established in  Si, Gun (including any Gun that is located
+within the jurisdictional area of a Metropolitan City), and Gu (referring to an autonomous
+
+--------------------------------------------------------------------------------
+법제처                                                            53                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Ku), respectively, for the purpose of deliberating or providing consultation on the
+urbanplanning-related matters referred to in the following subparagraphs:
+1. If matters, from among the powers of the Minister of Construction and Transportation or
+the Mayor/Do governor, falling under those which are subject to deliberation by the
+Central Urban Planning Committee or the Special Metropolitan, Metropolitan, or Do
+Urban Planning Committee are delegated or re-delegated to the head of a  Si, Gun
+(including a Gun that is located within the jurisdictional area of a Metropolitan City;
+hereafter in this Article the same shall apply), or Gu (referring to an autonomous  Gu;
+hereinafter the same shall apply), deliberation of those delegated or re-delegated
+matters; and
+2. Consultation to the head of  Si, Gun or Gu on matters related with urban planning.
+ 
+Article 86 (Detailed Regulations of Operation) (1) Matters necessary with regard to the
+operation of the Central Urban Planning Committee shall be determined by the
+Presidential Decree.
+(2) Matters necessary with regard to the establishment and operation of an urban planning
+committee that is established at a local government under the provisions of Article 85
+(hereinafter referred to as a “local urban planning committee”) shall be determined by the
+Municipal Ordinance of the local government concerned within the limits determined by
+the Presidential Decree.
+ 
+Article 87 (Stipend and Travel Expenses for Committee Members, etc.)
+Stipends and travel expenses may be provided to the members or special counsels of the
+Central Urban Planning Committee and local urban planning committees in accordance
+with the provisions of the Presidential Decree or the Municipal Ordinances concerned.
+ 
+Article 88 (Standing Urban Planning Corps)
+A standing urban planning corps may be established under a local urban planning
+committee in accordance with the provisions of the Municipal Ordinance of the local
+government concerned for the purposes of examining the fundamental urban planning,
+metropolitan planning, or urban planning prepared by the head of the local government or
+making, giving, or doing plans, instructions, investigations and research studies related with
+fundamental urban planning, metropolitan planning, urban planning for which the head of
+the local government is making a request.
+
+--------------------------------------------------------------------------------
+법제처                                                            54                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+ 
+            CHAPTER Ⅹ  SUPPLEMENTARY PROVISIONS
+ 
+Article 89 (Entry, etc. onto Land) (1) When such a measure as follows is necessary for a
+foundational investigation related with fundamental urban planning, metropolitan planning,
+or urban planning or for investigation, measurement or implementation related with urban
+planning, the Minister of Construction and Transportation, the Mayor/Do governor, the
+head of a Si or  Gun, or the implementer of a project for facilities under urban planning
+may enter onto another person’s land, make a one-time use of it as a place for storage of
+materials or an emergency pathway, or, when especially necessary, change or remove
+standing timber, earth and rocks, or other obstructions.
+(2) A person who intends to enter onto another person’s land under the provisions of
+paragraph (1) shall obtain permission of the Special Metropolitan City Mayor, Metropolitan
+City Mayor, or head of Si or Gun and give the owner, possessor, or manager of the land a
+notice of the time and location at least three days before the date intended for entry:
+Provided, That the implementer of a project for facilities under urban planning who is an
+administrative  authority  may  enter  onto  another  person’s  land  without  obtaining
+permission.
+(3) A person who intends to use another person’s land as a place for storage of materials
+or an emergency pathway or change or remove standing timber, earth and rocks, or other
+obstructions under the provisions of paragraph (1) shall obtain consent of the owner,
+possessor, or manager of the land.
+(4) In such a case as one referred to in paragraph (3), when the consent could not be
+obtained  due  to  the  absence  of  the  owner,  possessor,  or  manager  of  the  land  or
+obstruction from the site or ambiguities in his domicile or temporary domicile, the
+implementer of a project for facilities under urban planning who is an administrative
+authority shall notify the competent Special Metropolitan City Mayor, Metropolitan City
+Mayor, or head of Si or  Gun, and the implementer of a project for facilities under urban
+planning who is not an administrative authority shall obtain in advance permission of the
+competent Special Metropolitan City Mayor, Metropolitan City Mayor, or head of Si or Gun.
+(5) A person who intends to make a one-time use of land or change or remove an
+obstruction under the provisions of paragraphs (3) and (4) shall give a notice to the owner,
+
+--------------------------------------------------------------------------------
+법제처                                                            55                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+possessor, or manager of the land or obstruction at least three days before the intended
+date for use of the land or change or removal of the obstruction.
+(6) Before the sunrise or after the sunset, one may not enter onto another person’s land
+that is a building site or surrounded by a wall or fence without permission of the possessor
+of that land.
+(7) A possessor of land may not obstruct or refuse an act referred to in paragraph (1)
+without a proper reason therefor.
+(8) A person who intends to perform an act referred to in paragraph (1) shall carry a
+certificate and permit which show his authority and show them to relevant persons.
+(9) Matters necessary with regard to the certificate and permit referred to in paragraph (8)
+shall be prescribed by the Ordinance of the Ministry of Construction and Transportation.
+ 
+Article 90 (Compensation for Loss Sustained from Entry, etc. onto Another Person’s Land) (1)
+With respect to a person who sustains any loss due to an act performed under Article 89
+(1), an administrative authority or implementer of a project for urban planning to which the
+doer belongs shall be liable to compensate for the loss.
+(2) As regards the compensation for loss under paragraph (1), a conference shall be held
+between the person liable to compensate for the loss and the person who sustained the
+loss.
+(3) Where an agreement is not reached or it is impossible to hold a conference under
+paragraph (2), the person liable to compensate for the loss or the person who sustained
+the loss may apply for an adjudication to the competent Land Expropriation Committee.
+(4) The provisions of Articles 73 through 75, 75-2, and 75-3 of the Land Expropriation Act
+shall apply mutatis mutandis to the adjudication of the competent Land Expropriation
+Committee under paragraph (3).
+ 
+Article 91 (Construction, Operation, and Utilization of Urban Planning Information System) (1)
+The Special Metropolitan City Mayor, a Metropolitan City Mayor, or the head of a Si or
+Gun may construct and operate an urban planning information system for efficient
+promotion of urban planning operations.
+(2) Matters necessary with regard to construction and operation of the urban planning
+information system referred to in paragraph (1) and settlement of urban planning
+operations utilizing it shall be prescribed by the Presidential Decree.
+
+--------------------------------------------------------------------------------
+법제처                                                            56                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Article 92 (Supervisory Action against Offenders of Acts, etc.) (1) The Minister of Construction
+and Transportation, the Mayor/Do governor, or the head of a Si or Gun may take a
+necessary action or order a necessary measure, such as revocation of permission or
+authorization, etc. referred to in this Act, suspension of construction, reconstruction or
+removal of a structure, against a person falling under one of the following subparagraphs:
+1. A person who violates this Act or an order or action referred to in this Act;
+2. A person who obtains permission or authorization, etc. referred to in this Act through
+deceit or other illegitimate method; and
+3. If there is a concern that an act of development or the continued implementation of a
+project for facilities under urban planning may cause considerable harm to public interest
+due to a change in the circumstances, the person who received permission for that act of
+development or the implementer of that project for facilities under urban planning.
+(2) When the Minister of Construction and Transportation, the Mayor/ Do governor, or the
+head of a Si or Gun ordered a measure referred to in paragraph (1) 3, he shall compensate
+any loss arising therefrom.
+(3) Provisions of Article 90 (2) through (4) shall apply mutatis mutandis in regard to the
+loss compensation referred to in paragraph (2).
+ 
+Article 93 (Administrative Ruling)
+In connection with an action taken against the implementer of a project for facilities under
+urban planning referred to in this Act, an administrative appeal may be brought under the
+provisions of the Administrative Appeals Act. In such a case, an administrative appeal in
+connection with an action taken against an implementer who is not an administrative
+authority shall be brought to the competent Mayor/Do governor.
+ 
+Article 94 (Succession, etc. to Rights and Responsibilities) (1) The rights and responsibilities of
+a person who has the ownership of or other rights to land or a building within an urban
+planning zone that are related with the urban planning shall be transferred to the
+successor at the same time as a change in the ownership of or other rights to that land or
+building.
+(2) Provisions of this Act or an order referred to in this Act, the procedures thereof, and
+other acts shall have an effect against the successor who as the ownership of or other
+rights to the land or building connected with the acts.
+
+--------------------------------------------------------------------------------
+법제처                                                            57                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Article 95 (Hearing)
+When the Mayor/Do governor or the head of a Si or Gun intends to take an action falling
+under one of the following subparagraphs under the provisions of Article 92 (1), he shall
+hold a hearing:
+1. Revocation of permission for an act of development;
+2. Revocation of the designation of implementer of a project for facilities under urban
+planning which is referred to in Article 59 (5); and
+3. Revocation of authorization of an implementation plan.
+ 
+Article 96 (Report, Inspection, etc.) (1) When the Mayor/Do governor or the head of a Si or
+Gun recognizes that such a measure as follows is necessary, he may order a report or
+submission of materials that are necessary on supervisory grounds from a person who has
+received permission for an act of development or the implementer of a project for facilities
+under urban planning and may have public officials under him inspect the current state of
+the operations related with the act of development.
+(2) Public officials who conduct an inspection of operations under the provisions of
+paragraph (1) shall carry on themselves a certificate indicating their authority and show it
+to the relevant persons.
+(3) Matters necessary with regard to the certificate of authority referred to in paragraph (2)
+shall be prescribed by the Ordinance of the Ministry of Construction and Transportation.
+ 
+Article 97 (Application Mutatis Mutandis to Urban Infrastructure outside Urban Planning
+Zone) (1) If installation and management of urban infrastructure is intended near an urban
+planning zone, provisions of Articles 18 through 29, 31 (2), 36 through 41, 58 through 76,
+89, 90, and 92 through 96 shall apply mutatis mutandis in accordance with the provisions
+of the Presidential Decree.
+(2) When urban planning for urban infrastructure is decided and announced and the
+topographical blueprint therefor is announced by applying the provisions of Article 24 and
+26mutatis  mutandis  under  the  provisions  of  paragraph  (1),  location  approval  and
+consultation referred to in the proviso of Article 20 (1) of the Act on the Utilization and
+Management of the National Territory shall be considered to be made.
+ 
+Article 98 (Assignment and Delegation of Powers) (1) The powers of the Minister of
+Construction and Transportation referred to in this Act may be in part assigned to the
+
+--------------------------------------------------------------------------------
+법제처                                                            58                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+Mayor/Do governor in accordance with the Presidential Decree, and the Mayor/Do
+governor may reassign those assigned powers to the head of  Si, Gun (including Gun that
+is located within the jurisdictional area of a Metropolitan City; the same shall apply
+hereafter within paragraph (2)), or Gu upon obtaining approval of the Minister of
+Construction and Transportation.
+(2) The powers of the Mayor/Do governor referred to in this Act may be assigned to the
+head of  Si,  Gun, or Gu in accordance with the provisions of the Municipal Ordinance of
+the City/Do. In this case, the Mayor/Do governor shall report on the assignment of powers
+to the Minister of Construction and Transportation.
+(3) If powers are assigned or reassigned under the provisions of paragraph (1) or (2), the
+matters, from among the assigned or reassigned matters, for which deliberation of the
+Central Urban Planning Committee or a local urban planning committee is necessary shall
+be put through deliberation of the local urban planning committee that is established at
+the local government to which the agency with the assignment or reassignment belongs,
+and the opinions of the local government to which the agency with the assignment or
+reassignment belongs shall be heard on the matters on which opinions of the local
+government should be heard.
+(4) Clerical works of the Minister of Construction and Transportation, the Mayor/Do
+governor, or the head of Si and Gun that are referred to in this Act may be in part
+delegated to another administrative authority or a person who is not an administrative
+authority in accordance with the provisions of the Presidential Decree or the Municipal
+Ordinance of the local government concerned.
+(5) For application of the penal provisions referred to in the Criminal Act and other Acts, a
+person who, as non-administrative authority, performs the clerical works delegated to him
+under the provisions of paragraph (4) shall be considered a public official.
+ 
+            CHAPTER XI PENAL PROVISIONS
+ 
+Article 99 (Penal Provisions)
+A person who falls under one of the following subparagraphs shall be punished by
+imprisonment for no more than three years or by a fine of no more than thirty million
+won:
+
+--------------------------------------------------------------------------------
+법제처                                                            59                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+1. A person who commits an act of development without obtaining permission or after
+obtaining permission through an illegitimate method in violation of the provisions of
+Article 46 (1); and
+2. A person who commits an act that falls under any subparagraph of Article 57 (2) within
+a street creation regulation zone without obtaining permission.
+ 
+Article 100 (Penal Provisions)
+A person who falls under one of the following subparagraphs shall be punished by
+imprisonment for no more than two years or by a fine of no more than twenty million
+won:
+1. A person who installs urban infrastructure without a decision of urban planning in
+violation of the provisions of Article 36 (1) (including when they are applied mutatis
+mutandis under the provisions of Article 97 (1));
+2. A person who fails to house in a common ditch the facilities that should be housed in a
+common ditch in violation of the provisions of Article 37 (1) (including when they are
+applied mutatis mutandis under the provisions of Article 97 (1)); and
+3. A person who violates a restriction on construction within an area or district referred to
+in Article 53.
+ 
+Article 101 (Penal Provisions)
+A person who violates an action or order of measure referred to in Article 92 (including
+when they are applied mutatis mutandis under the provisions of Article 97 (1)), such as
+revocation of permission or authorization, etc., suspension of construction, reconstruction
+or removal of a structure, shall be punished by imprisonment for no more than one year or
+a fine of no more than ten million won.
+ 
+Article 102 (Penal Provisions)
+When the representative of a corporation or an agent, employee or other employed
+person of a corporation or an individual commits an offense referred to in Articles 99
+through 101, in addition to punishing the offender, the said corporation or individual shall
+also be subject to the punishment by fine referred to in each applicable Article.
+ 
+Article 103 (Fine for Negligence) (1) A person who falls under one of the following
+subparagraphs shall be punished by a fine for negligence of no more than ten million won:
+
+--------------------------------------------------------------------------------
+법제처                                                            60                                                       국가법령정보센
+터
+「URBAN PLANNING ACT」
+1. A person who occupies or uses a common ditch without obtaining permission referred
+to in Article 37 (3) (including when they are applied mutatis mutandis under the
+provisions of Article 97 (1));
+2. A person who refuses or obstructs an act referred to in Article 89 (1) without any proper
+reason therefor (including when they are applied mutatis mutandis under the provisions
+of Article 97 (1));
+3. A person who commits an act referred to in Article 89 (1) without obtaining permission
+or consent referred to in Article 89 (2) through (4) (including when they are applied
+mutatis mutandis under the provisions of Article 97 (1)); and
+4. A person who refuses, obstructs, or evades the investigation referred to in Article 96 (1)
+(including when they are applied mutatis mutandis under the provisions of Article 97 (1)).
+(2) A person who fails to report or submit materials as referred to in Article 96 (1)
+(including when they are applied mutatis mutandis under the provisions of Article 97 (1))
+shall be punished by a fine for negligence of no more than five million won.
+(3) The fine for negligence referred to in paragraphs (1) and (2) shall be assessed and
+collected by the Mayor/Do governor, or the head of a Si or Gun in accordance with the
+provisions of the Presidential Decree.
+(4) A person who protests against the disposition by fine for negligence referred to in
+paragraph (3) may raise a formal objection to the holder of the authority to assess fine for
+negligence within thirty days after he receives the notice of such disposition.
+(5) When a person who is subject to the disposition by a fine for negligence referred to in
+paragraph (3) raises a formal objection under the provisions of paragraph (4), the holder of
+the authority to assess fine for negligence shall without any delay notify the competent
+court of this fact, and the competent court so notified shall hold a trial of negligence fine
+as referred to in the Non-Contentious Case Litigation Procedure Act.
+(6) When a fine for negligence is not paid without any formal objection being raised within
+the time period referred to in paragraph (4), it shall be collected in accordance with the
+examples of disposition on the local taxes in arrears.
+
+--------------------------------------------------------------------------------

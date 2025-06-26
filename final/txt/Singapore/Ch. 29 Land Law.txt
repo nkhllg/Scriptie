@@ -1,0 +1,387 @@
+Ch. 29 Land Law
+SECTION 1 INTRODUCTION
+29.1.1 Land law in Singapore is based on English land law. English land law was received
+here together with other English law and doctrines by virtue of the Second Charter of
+Justice 1826. This provided for the English doctrines of tenure and estates and other real
+property concepts to apply in Singapore. It was, however, applied subject to such local
+modiﬁcations that were considered necessary to prevent any injustice or oppression. In
+this way, English common law rules were adapted to accommodate local religious rules
+as well as local Chinese family customs.
+29.1.2 The Application of English Law Act 1993 continued the application of such English
+law so far as it was part of Singapore law immediately before 12 November 1993 as well
+as clariﬁed its application. One of the ways this was done was by listing the provisions of
+English statutes that still formed part of Singapore law thereby removing doubts about
+the extent of their applicability.
+29.1.3 Early post-1826 statutes made minor changes to the land law in Singapore in a
+piecemeal way but later legislation made more substantial changes.
+29.1.4 The Torrens system of land registration from Australia was implemented locally by
+the Land Titles Ordinance of 1956 and improved upon through subsequent amendments.
+In fact, a leading English land law professor has described it as ‘one of the better variants
+of the Torrens model to be found anywhere in the common law world’. Land in
+Singapore was progressively converted from the older system of registration under the
+Registration of Deeds Act over the years and the project to convert all land to the Torrens
+system was largely completed by 31 December 2002. During the conversion, some
+existing interests took on new qualities. For example, mortgages registered under the
+older system are notiﬁed in the new land title document and deemed by law to be a
+registered mortgage under the Land Titles Act. For practical reasons, the rest of this
+chapter will proceed mainly on the basis of land under the Land Titles Act. Another
+major change was the passing of the Land Titles (Strata) Act of 1967 to facilitate the
+ownership and maintenance of ﬂats and the buildings they are located in. The
+reclamation of land in Singapore was facilitated by amendments to the Foreshores
+Ordinance in 1964 to provide that there shall be no compensation as of right in respect of
+any land or any interest in land aﬀected by the execution of land reclamation works.
+29.1.5 After independence in 1965, despite a recommendation of a Constitutional
+Commission, no constitutional right to property was enacted. In addition, the Land
+Acquisition Act 1966 was passed to facilitate the compulsory acquisition of land for
+public purposes without placing a heavy ﬁnancial burden on Singapore as a newly
+independent and developing country. The previous bill for the Land Acquisition Act 1966
+actually faced constitutional diﬃculties when it was introduced in 1964 because
+Singapore was then part of the Federation of Malaysia and there was a constitutional
+Ch. 29 Land Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+1 of 9
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+right to property in the Federation’s Constitution. The Land Acquisition Act 1966 did not
+follow Western models that compensated based on the potential value of the land and
+instead provided for compensation on the basis of the acquired land’s pre-development
+value. For many years, this value was ﬁxed at no higher than the market value of the
+acquired land as at November 30, 1973. However, the Land Acquisition Act has been
+amended a number of times over the years and in 2007, a major amendment provided
+for compensation based on the prevailing market value of the acquired land.
+29.1.6 In 2001, the Singapore Land Authority was constituted as the statutory authority
+with responsibility for land matters in Singapore. Its wide-ranging functions include
+responsibility for land registration, compulsory acquisition and the administration of
+state land.
+SECTION 2 LAND & LAND USE
+29.2.1 Land may be deﬁned diﬀerently in diﬀerent statutes so it is important to consider
+the context of the matter. The deﬁnition of land may also include other interests (e.g. a
+right to support) in addition to the physical parcel of land.
+29.2.2 English land law rules concerning ﬁxtures applies to land in Singapore as well.
+Consequently, a chattel (i.e. movable property) can become part of the land under certain
+circumstances as in the case of Gebrueder Buehler AG v Peter Chi Man Kwong [1988] 1 MLJ
+356 where equipment installed in a factory was held to become part of the land.
+29.2.3 Recent changes to legislation have provided that the deﬁnition of land in Singapore
+would include so much of subterranean space below the land reasonably necessary for
+its use and enjoyment to a depth of 30 metres below the Singapore Height Datum (a level
+pegged to the historical mean sea level) unless otherwise speciﬁed in the title.
+(1) Government Land Sales Programme
+29.2.4 The Singapore government regularly sells land through the Government Land
+Sales Programme for commercial, hotel, private residential and industrial developments
+by the private sector in line with its planning strategies. The Urban Redevelopment
+Authority is the Singapore government’s main land sales agent but other bodies like the
+Singapore Land Authority and the Jurong Town Corporation also act as land sales agents
+for the government.
+(2) Public housing
+29.2.5 Public housing comes under the purview of the Housing and Development Board, a
+statutory body set up under the Housing and Development Act. It implements the
+housing policies of the Singapore government including the government’s ‘Home
+Ownership Scheme’ which currently has about 80 per cent of the Singapore resident
+population living in HDB sold ﬂats. The HDB also provides ﬂats for rental purposes and a
+very small percentage of the Singapore resident population live in HDB rental ﬂats.
+29.2.6 As HDB ﬂats are subsidised, there are stringent criteria for the purchase or rental
+Ch. 29 Land Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+2 of 9
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+of HDB ﬂats. Depending on the type of ﬂat concerned, the requirements currently include
+Singapore citizenship, family nucleus, age, income and non-ownership of other
+residential property, building or land. There is also an Ethnic Integration Policy
+(implemented to promote racial integration and harmony) as well as a Singapore
+Permanent Resident Quota for permanent resident families buying resale HDB ﬂats. The
+Ethnic Integration Policy prevents the formation of racial enclaves by ensuring a
+balanced ethnic mix among the various ethnic communities while the Singapore
+Permanent Resident Quota prevents similar enclaves among permanent residents. The
+Singapore Permanent Resident Quota also ensures that permanent resident families can
+integrate into the local community for the purposes of social cohesion. HDB ﬂat
+purchasers have many obligations under the terms of their HDB lease. These include the
+requirement for continuous occupation, proper use and the prohibition against
+subletting with prior approval.
+(3) Executive Condominium (EC)
+29.2.7 The Executive Condominium is a hybrid property that comes under the Executive
+Condominium Scheme Act created to satisfy the desire for the ownership of private
+property. The purchaser will get a subsidiary strata certiﬁcate of title just like an owner
+of a private condominium unit. However, there are stringent eligibility conditions (many
+similar to those for HDB ﬂats) for their purchase. After occupying for the minimum
+occupation period of ﬁve years, most of the restrictions are removed and the ﬂat may be
+sold. However, it may only be sold to a Singapore citizen or permanent resident from the
+6th to the 10th year. From the 11th year onwards, it may be sold like any other private
+condominium unit.
+(4) Residential property
+29.2.8 The purchase of residential property that come under the Residential Property is
+basically conﬁned to Singapore citizens and approved purchasers. These include
+residential land, residential houses, strata landed houses (that are not within approved
+condominium developments) and shophouses (for non-commercial use). However, a
+foreign person may purchase certain residential properties without approval including a
+condominium unit, a ﬂat unit and strata landed houses (that are within approved
+condominium developments).
+29.2.9 Singapore companies and Singapore limited liability partnerships where not all
+the directors, members and partners are Singapore citizens are also restricted from
+acquiring residential property aﬀected by the Residential Property Act without the
+relevant approval.
+29.2.10 Purchasers who are not exempted from the Residential Property Act but who are
+housing developers intending to purchase the residential property to develop or
+redevelop may apply for speciﬁc approval (called a qualifying certiﬁcate) to do so under
+section 31 of the Residential Property Act. However, such approval comes with certain
+conditions including the requirement to complete building and selling all the units
+within speciﬁed time periods. There are also provisions for the payment of extension
+Ch. 29 Land Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+3 of 9
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+charges for extending any such period as well for the forfeiture of the security for the
+breach of approval conditions.
+(5) Planning Act, zoning and use
+29.2.11 The control of land use, planning and development comes under the Planning Act
+and the Act provides for a statutory land use plan called the Master Plan that is
+periodically updated. Enacted originally as the Planning Ordinance of 1960, the Act was
+based on the UK Town and Country Planning Act 1947. The latest version of the Master
+Plan is the Master Plan 2014 that was gazetted on 6 June 2014. The Planning Act covers
+activities on land that require permission such as development, conservation or
+subdivision and its reach can be very wide. For example, the display of advertisements in
+any external part of a building not normally used for that purpose involves a material
+change in the use of the building that requires permission under the Act. A development
+charge is payable when planning permission is granted to carry out development
+projects that increase the value of the land e.g. rezoning the land to a higher value use.
+SECTION 3 ESTATES & INTERESTS IN LAND
+29.3.1 Due to the feudal origins of land law that applies in Singapore, all land ultimately
+belongs to the state and other persons can only own an estate or some lesser interest in
+the land. Basically, 5 types of grants of land may be made by the state under the State
+Lands Act:
+1. estates in fee simple;
+2. estates in perpetuity;
+3. leases;
+4. temporary occupation licences; and
+5. tenancy agreements.
+29.3.2 New grants of estates in fee simple (the largest possible English estate of indeﬁnite
+duration) are only made in the limited circumstances allowed e.g. as a regrant after the
+surrender of an existing estate in fee simple for subdivision purposes. An estate in
+perpetuity (a statutory rather than a common law estate) is of unlimited duration like the
+estate in fee simple. However, such estates are subject to a number of covenants and
+conditions e.g. the payment of any applicable rent. The leases created under the State
+Lands Act are also subject to various terms and conditions, many of which are similar to
+those that apply to estates in perpetuity. Temporary occupation licences and tenancy
+agreements are subject to many similar conditions under the State Lands Rules e.g. the
+Collector of Land Revenue may revoke a temporary occupation licence or determine a
+tenancy agreement at any time. However, the temporary occupation licence does not
+create a tenancy or give exclusive right to possession. The main diﬀerences between a
+tenancy agreement with the state and a state lease appears to be the term limit of 3 years
+and the fact that a tenancy agreement is not considered a disposal of land that requires
+the President’s approval.
+29.3.3 In general, smaller estates or interests may be carved out of larger estates e.g. the
+Ch. 29 Land Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+4 of 9
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+owner of an estate in fee simple may grant a lease of 99 years to a lessee. However, the
+creation of some estates or interests may require prior written approval from the
+relevant authority e.g. subdivision approval under the Planning Act is required for the
+creation of certain leases.
+29.3.4 A further point to note is that if the interest created is not registrable (e.g. an
+equitable mortgage) or does not comply with the applicable prescribed form to enable its
+registration (e.g. a lease that is not in the form prescribed under the Land Titles Rules), it
+may then only be notiﬁed on the land register through the registration of a caveat.
+(1) Strata Title
+29.3.5 The Land Titles (Strata) Act facilitates the ownership of ﬂats and communal living.
+Basically, a development or building may be subdivided into strata units that are capable
+of being separately owned (by subsidiary proprietors) as well as common areas called
+common property that are used together with other subsidiary proprietors. A strata unit
+is in eﬀect a deﬁned space that may be below, on or above the surface of the land that is
+marked out on a strata title plan. A legal entity called a management corporation is
+constituted to control as well as maintain the common property. The management
+corporation is funded through contributions made by the subsidiary proprietors who
+hold the common property as tenants in common in proportion to the share value stated
+in their subsidiary strata certiﬁcates of title.
+(2) Abolition of Adverse Possession
+29.3.6 The acquisition of title to land through adverse possession was abolished with
+eﬀect from 1 March 1994 and section 50 of the Land Titles Act provides that no title may
+be acquired by adverse possession except for the limited cases saved by the transitional
+provisions of the Act.
+SECTION 4 SOME INTERESTS IN LAND
+A. Leases, Licences, Easements and Restrictions
+29.4.1 A lease is basically an estate in land whereby a landowner (usually called the
+lessor or the landlord) grants another person (usually called the lessee or the tenant) the
+right to exclusive possession and use of his land in return for a monetary consideration
+called rent. The rights and duties of the two parties would be determined by the
+agreement between them and would usually be reﬂected in a document called a lease or
+tenancy agreement.
+29.4.2 If the term of the lease exceeds 7 years (including the extended term allowed by an
+option to renew), it needs be registered under the Land Titles Act in the prescribed form
+to be eﬀectual – see section 45 of the Land Titles Act.
+29.4.3 If the lease does not exceed 7 years (including the extended term allowed by an
+option to renew), it cannot be registered but it may be notiﬁed through the registration of
+a caveat. This kind of lease will bind a purchaser of the land provided the lessee is in
+Ch. 29 Land Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+5 of 9
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+occupation at the time the purchaser is registered as the proprietor – see section 46(1) (c)
+(vi) of the Land Titles Act.
+29.4.4 A lease that exceeds 7 years not in the prescribed form may also be notiﬁed
+through the registration of a caveat but such a lease can only considered an equitable
+lease based on an enforceable agreement. There are implied powers in favour of lessors
+in registered leases e.g. the power to enter the leased premises twice a year to inspect its
+state of repair and to require the lessee to repair any defect – see section 93(1) (a) of the
+Land Titles Act.
+29.4.5 A licence is not an estate in land and ‘only makes an action lawful which, without
+it, had been unlawful’ according to Vaughan CJ in the famous English case of Thomas v
+Sorrell (1673) Vaugh 330. It can sometimes be diﬃcult to determine whether an occupier
+of land is there as a licensee or a lessee. Generally, it will depend on the relevant
+intention.
+29.4.6 According to section 95(2) of the Land Titles Act, the Registrar of Titles shall not
+notify a licence on the land-register. However, licences relating to the use or enjoyment of
+land that are legally binding on the assignees of the licensor are deemed to be interests in
+land capable of supporting the registration of a caveat.
+29.4.7 An easement is an interest in land that gives a landowner a right or rights over the
+land belonging to another person. A common example is an easement giving a right of
+way. Under the Land Titles Act, an easement is a legal interest that generally has to be
+registered or it will not pass any interest in the land. This may be done through an
+easement in the prescribed form or by appropriate words in the instrument of transfer
+or instrument of lease. Certain easements may also be implied by statute e.g. there are
+implied easements for the passage of water, electricity, drainage, gas and sewerage in
+respect of each lot of land that forms part of the same development under section 98 of
+the Land Titles Act.
+29.4.8 A restrictive covenant or similar burden on the land may be registered as a
+restriction under the Land Tiles Act and notiﬁed on the land-register. However, unlike
+common law restrictive covenants (that have diﬀerent life spans depending on the
+circumstances), a restriction has a life span of 20 years from the entry of the notiﬁcation
+on the land-register unless it has been extended.
+SECTION 5 SECURITY INTERESTS IN LAND
+A. Mortgages and Charges
+29.5.1 The two main security instruments provided by the Land Titles Act are the
+mortgage and the charge. Both have to be in the prescribed form to be registrable.
+Failure to register will mean that they may not be fully eﬀectual.
+29.5.2 Basically the instrument of mortgage secures the payment of a debt but it does not
+operate as a transfer of property like a common law mortgage and only takes eﬀect as a
+Ch. 29 Land Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+6 of 9
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+security. However, the registered mortgagee is given the common law mortgagee’s right
+to foreclose by statute.
+29.5.3 The instrument of charge secures payment of a rentcharge, annuity or other
+periodical sum, or of any money other than a debt. The registered chargee, like the
+registered mortgagee, has a number of rights including the right of entry to possession as
+well as a right of sale.
+29.5.4 Generally, while exercising the power of sale, the mortgagee has a duty to act in
+good faith and to take reasonable steps to obtain the true market value of the mortgaged
+property at the date of the sale – see How Seen Ghee v Development Bank of Singapore Ltd
+[1994] 1 SLR 526.
+29.5.5 The Land Titles Act also provides for the registration of submortgages. A
+submortgage is deﬁned to mean ‘the mortgage of a mortgage and the mortgage of a
+charge’ under section 71 of the Land Titles Act.
+29.5.6 The taking of further advances or further credit is allowed under section 80 of the
+Land Titles Act subject to the conditions provided.
+29.5.7 Equitable security interests like mortgages and charges that are not registrable
+because they do not comply with the prescribed form may be notiﬁed on the land
+register through the registration of caveats.
+29.5.8 With respect to registered mortgages and charges, their priority is determined by
+their date of registration. The priority of unregistered security interests (e.g. an equitable
+mortgage by way of a mortgage executed in escrow) are determined through the date of
+registration of the related caveats.
+SECTION 6 CONTRACTS RELATING TO THE SALE OF LAND
+29.6.1 In general, in a contract for the sale and purchase of property, there must be
+certainty as to the parties, the property as well as the price (otherwise known as the
+three Ps). Section 6(d) of the Civil Law Act requires such sale agreements to be in writing
+(or be the subject of a memorandum or note in writing) and signed by the party to be
+charged in order to be enforceable. The Singapore High Court has recognised electronic
+correspondence to be writing that would satisfy the section – see SM Integrated
+Transware Pte Ltd v Schenker Singapore (Pte) Ltd [2005] SGHC 58.
+29.6.2 In the absence of such an agreement, memorandum or note, it might be possible to
+rely on the equitable doctrine of part performance under the right circumstances – see
+Joseph Mathew v Singh Chiranjeev [2010] 1 SLR 338. On the other hand, as shown in the
+Court of Appeal decision in Ting Siew May v Boon Lay Choo [2014] SGCA 28, an agreement
+may be rendered void or unenforceable by reason of illegality.
+29.6.3 For properties that are being developed or built for sale by property developers,
+there are statutory safeguards to protect purchasers.
+Ch. 29 Land Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+7 of 9
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+29.6.4 The Housing Developers (Control and Licensing) Act governs residential property
+developers while the Sale of Commercial Properties Act deals with developers of non-
+residential property developments.
+29.6.5 Under the Housing Developers (Control and Licensing) Act, the developers of all
+developments of more than four units of housing accommodation are required to be
+licensed. The deﬁnition of housing developer is wide and would include persons who
+ﬁnance the development. Generally, such developers are only allowed to sell units in
+their development upon the grant of certain approvals (including building plan and
+subdivision approvals). The sale must follow terms and conditions in prescribed
+contractual documents that are fair to purchaser and progress payments under the sale
+are required to be paid into special project accounts that are regulated under the rules
+passed pursuant to the Act. There are also provisions on dealing with necessary
+disclosures as well as regulating the developers’ advertisements.
+29.6.6 The Sale of Commercial Properties Act regulates the sale by a property developer
+of units in a non-residential development of more than four units. It also provides for
+standard contractual documents (under the Sale of Commercial Properties Rules) that the
+developer has to follow when selling to a purchaser and no variance is allowed without
+the relevant prior written approval. All terms that are inconsistent with the prescribed
+terms and conditions are null and void to the extent of the inconsistency.
+SECTION 7 REGISTRATION OF TRANSFERS OF INTERESTS IN LAND
+29.7.1 Transactions relating to interests in land under the Land Titles Act are registered
+through prescribed forms. Subsequently, a memorial of the important details is entered
+in the appropriate folio of the land register.
+29.7.2 The Singapore Land Titles Registry has been moving towards a fully electronic
+environment and a computerisation of its records in recent years. It has also
+progressively required more documents to be lodged through the Singapore Land
+Authority’s web-based electronic lodgment system, Singapore Titles Automated
+Registration System (or STARS).
+29.7.3 Changes and improvements to the land registration system in Singapore have not
+gone unnoticed. In the World Bank Doing Business annual reports, Singapore’s global
+ranking in registering properties has been improving over the years. In 2012, Singapore
+was ranked 36th, in 2014, the country was ranked 24th and in 2018, it was ranked 21st.
+29.7.4 Essentially, any person who becomes the registered proprietor of land under the
+Land Titles Act holds the land free from all ‘encumbrances, liens, estates and interests
+whatsoever’, except those that are registered or notiﬁed or those that are provided by
+law e.g. a statutory easement or a statutory charge. Consequently, the title or estate of the
+registered proprietor is often described as paramount or indefeasible. However, there are
+a number of exceptions to indefeasibility e.g. fraud or forgery to which the registered
+proprietor or his agent was a party.
+Ch. 29 Land Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+8 of 9
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------
+29.7.5 Owners of interests in land that do not comply with the prescribed forms or that
+are unregistrable (like beneﬁcial ownership under a trust of land) may notify them on
+the land register by the lodging of caveats. A caveat does not create an interest in land
+but it generally gives that interest notiﬁed by the caveat priority over any other
+unregistered interested not so protected at the time the caveat was entered. The life span
+of a caveat is generally ﬁve years but an extension may be lodged before the ﬁve years
+lapse.
+(1) Assurance fund
+29.7.6 The eﬀect of the various legislative provisions basically means that the Singapore
+Land Authority as the national land registration authority issues and guarantees land
+titles. For landowners unfairly deprived of their rightful interests through the operation
+of the statute, there is possible recourse to compensation under an assurance fund
+established under the Land Titles Act. The fund is ﬁnanced mainly from a portion of the
+fees collected by the Registrar of Titles under the Act. If the assurance fund is inadequate,
+the shortfall may be paid out from the Consolidated Fund.
+Updated as of 5 January 2019
+By: Richard Ming Kirk Tan
+Consultant
+Morgan Lewis Stamford LLC
+Ch. 28 Income Taxation Ch. 30 Bankruptcy and Insolvency
+Print
+106970
+Tags: Property Law
+Ch. 29 Land Law
+https://www.singaporelawwatch.sg/About-Singapore-Law...
+9 of 9
+4/21/25, 21:57
+
+--------------------------------------------------------------------------------

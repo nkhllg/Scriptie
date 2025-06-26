@@ -1,0 +1,5597 @@
+Building Regulations 1992
+(SR 1992/150)
+Building Regulations 1992: revoked (with regulation 3 and Schedule 1 continued in force), on 31
+March 2005, by regulation 8(1) of the Building (Forms) Regulations 2004 (SR 2004/385).
+Catherine A Tizard, Governor-General
+Order in Council
+At Wellington this 8th day of June 1992
+Present:
+Her Excellency the Governor-General in Council
+Pursuant to the Building Act 1991, Her Excellency the Governor-General, acting by
+and with the advice and consent of the Executive Council, hereby makes the follow‐
+ing regulations.
+Contents
+Page
+1
+Title and commencement [Revoked]
+2
+2
+Interpretation [Revoked]
+2
+3
+Building code
+2
+4
+Forms [Revoked]
+2
+5
+Project information memorandum [Revoked]
+3
+6
+Building consent [Revoked]
+3
+Note
+The Parliamentary Counsel Office has made editorial and format changes to this version using the powers
+under subpart 2 of Part 3 of the Legislation Act 2019.
+Note 4 at the end of this version provides a list of the amendments included in it.
+These regulations are administered by the Ministry of Business, Innovation, and Employment.
+Version
+as at 23 December 2023
+1
+
+--------------------------------------------------------------------------------
+7
+Notice that building work is ready for inspection [Revoked]
+3
+8
+Inspection reports by building certifiers [Revoked]
+3
+9
+Charges by Building Industry Authority [Revoked]
+3
+10
+Territorial authority records [Revoked]
+3
+11
+Transitional provisions and savings [Revoked]
+3
+Schedule 1
+The building code
+4
+Schedule 2
+[Revoked]
+100
+1
+Title and commencement
+[Revoked]
+Regulation 1: revoked, on 31 March 2005, by regulation 8(1) of the Building (Forms) Regulations
+2004 (SR 2004/385).
+2
+Interpretation
+[Revoked]
+Regulation 2: revoked, on 31 March 2005, by regulation 8(1) of the Building (Forms) Regulations
+2004 (SR 2004/385).
+3
+Building code
+(1)
+In accordance with Part 6 of the Act, the building code shall be the building
+code set out in Schedule 1.
+(2)
+Except as otherwise provided by the Act, each building shall achieve the per‐
+formance criteria specified in the building code for the classified use of that
+building, and, if the building has more than 1 classified use, any part of it used
+for more than 1 classified use shall achieve the performance criteria for each
+such classified use.
+(3)
+The classified use or uses of a building or part of a building shall be the ones
+that most closely correspond to the intended use or uses of that building or part
+of that building.
+Regulation 3: continued in force, on 31 March 2005, by regulation 8(2)(a) of the Building (Forms)
+Regulations 2004 (SR 2004/385).
+4
+Forms
+[Revoked]
+Regulation 4: revoked for all purposes, on 31 May 2006, by regulation 8(2)(b) of the Building
+(Forms) Regulations 2004 (SR 2004/385).
+r 1
+Building Regulations 1992
+Version as at
+23 December 2023
+2
+
+--------------------------------------------------------------------------------
+5
+Project information memorandum
+[Revoked]
+Regulation 5: revoked, on 31 March 2005, by regulation 8(1) of the Building (Forms) Regulations
+2004 (SR 2004/385).
+6
+Building consent
+[Revoked]
+Regulation 6: revoked, on 31 March 2005, by regulation 8(1) of the Building (Forms) Regulations
+2004 (SR 2004/385).
+7
+Notice that building work is ready for inspection
+[Revoked]
+Regulation 7: revoked, on 31 March 2005, by regulation 8(1) of the Building (Forms) Regulations
+2004 (SR 2004/385).
+8
+Inspection reports by building certifiers
+[Revoked]
+Regulation 8: revoked, on 31 March 2005, by regulation 8(1) of the Building (Forms) Regulations
+2004 (SR 2004/385).
+9
+Charges by Building Industry Authority
+[Revoked]
+Regulation 9: revoked, on 31 March 2005, by regulation 8(1) of the Building (Forms) Regulations
+2004 (SR 2004/385).
+10
+Territorial authority records
+[Revoked]
+Regulation 10: revoked, on 31 March 2005, by regulation 8(1) of the Building (Forms) Regulations
+2004 (SR 2004/385).
+11
+Transitional provisions and savings
+[Revoked]
+Regulation 11: revoked, on 31 March 2005, by regulation 8(1) of the Building (Forms) Regulations
+2004 (SR 2004/385).
+Version as at
+23 December 2023
+Building Regulations 1992
+r 11
+3
+
+--------------------------------------------------------------------------------
+Schedule 1
+The building code
+r 3
+Table of Contents
+General provisions
+A1
+Classified uses
+A2
+Interpretation
+A3
+Building importance levels
+Stability
+B1
+Structure
+B2
+Durability
+Fire safety
+C1
+Objectives of clauses C2 to C6 (protection from fire)
+C2
+Prevention of fire occurring
+C3
+Fire affecting areas beyond the fire source
+C4
+Movement to place of safety
+C5
+Access and safety for firefighting operations
+C6
+Structural stability
+Access
+D1
+Access routes
+D2
+Mechanical installations for access
+Moisture
+E1
+Surface water
+E2
+External moisture
+E3
+Internal moisture
+Safety of users
+F1
+Hazardous agents on site
+F2
+Hazardous building materials
+F3
+Hazardous substances and processes
+F4
+Safety from falling
+F5
+Construction and demolition hazards
+F6
+Visibility in escape routes
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+4
+
+--------------------------------------------------------------------------------
+F7
+Warning systems
+F8
+Signs
+F9
+Means of restricting access to residential pools
+Services and facilities
+G1
+Personal hygiene
+G2
+Laundering
+G3
+Food preparation and prevention of contamination
+G4
+Ventilation
+G5
+Interior environment
+G6
+Airborne and impact sound
+G7
+Natural light
+G8
+Artificial light
+G9
+Electricity
+G10
+Piped services
+G11
+Gas as an energy source
+G12
+Water supplies
+G13
+Foul water
+G14
+Industrial liquid waste
+G15
+Solid waste
+Energy efficiency
+H1
+Energy efficiency
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+5
+
+--------------------------------------------------------------------------------
+Clause A1—Classified Uses
+1.0
+Explanation
+1.0.1 For the purposes of this building code buildings are classified according to
+type, under seven categories.
+1.0.2 A building with a given classified use may have one or more intended uses as
+defined in the Act.
+2.0
+Housing
+2.0.1 Applies to buildings or use where there is self care and service (internal man‐
+agement). There are three types:
+2.0.2 Detached dwellings
+Applies to a building or use where a group of people live as a single household
+or family. Examples: a holiday cottage, boarding house accommodating fewer
+than 6 people, dwelling or hut.
+2.0.3 Multi-unit dwelling
+Applies to a building or use which contains more than one separate household
+or family. Examples: an attached dwelling, flat or multi-unit apartment.
+2.0.4 Group dwelling
+Applies to a building or use where groups of people live as one large extended
+family. Examples: within a commune or marae.
+3.0
+Communal residential
+3.0.1 Applies to buildings or use where assistance or care is extended to the princi‐
+pal users. There are two types:
+3.0.2 Community service
+Applies to a residential building or use where limited assistance or care is
+extended to the principal users. Examples: a boarding house, hall of residence,
+holiday cabin, backcountry hut, hostel, hotel, motel, nurses’ home, retirement
+village, time-share accommodation, a work camp, or camping ground.
+3.0.3 Community care
+Applies to a residential building or use where a large degree of assistance or
+care is extended to the principal users. There are two types:
+(a)
+Unrestrained; where the principal users are free to come and go.
+Examples: a hospital, an old people’s home or a health camp.
+(b)
+Restrained; where the principal users are legally or physically con‐
+strained in their movements. Examples: a borstal or drug rehabilitation
+centre, an old people’s home where substantial care is extended, a prison
+or hospital.
+Schedule 1 clause A1 3.0.2: amended, on 31 October 2008, by regulation 4 of the Building (Building
+Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+6
+
+--------------------------------------------------------------------------------
+4.0
+Communal non-residential
+4.0.1 Applies to a building or use being a meeting place for people where care and
+service is provided by people other than the principal users. There are two
+types:
+4.0.2 Assembly service
+Applies to a building or use where limited care and service is provided.
+Examples: a church, cinema, clubroom, hall, museum, public swimming pool,
+stadium, theatre, or whare runanga (the assembly house).
+4.0.3 Assembly care
+Applies to a building or use where a large degree of care and service is provi‐
+ded. Examples: an early childhood education and care centre, college, day care
+institution, centre for handicapped persons, kindergarten, school or university.
+Schedule 1 clause A1 4.0.3: amended, on 1 December 2008, by section 60(2) of the Education
+Amendment Act 2006 (2006 No 19).
+5.0
+Commercial
+5.0.1 Applies to a building or use in which any natural resources, goods, services or
+money are either developed, sold, exchanged or stored. Examples: an amuse‐
+ment park, auction room, bank, car-park, catering facility, coffee bar, computer
+centre, fire station, funeral parlour, hairdresser, library, office (commercial or
+government), Police station, post office, public laundry, radio station, restaur‐
+ant, service station, shop, showroom, storage facility, television station or
+transport terminal.
+6.0
+Industrial
+6.0.1 Applies to a building or use where people use material and physical effort to:
+(a)
+extract or convert natural resources,
+(b)
+produce goods or energy from natural or converted resources,
+(c)
+repair goods, or
+(d)
+store goods (ensuing from the industrial process).
+Examples: an agricultural building, agricultural processing facility, aircraft
+hangar, factory, power station, sewage treatment works, warehouse or utility.
+7.0
+Outbuildings
+7.0.1 Applies to a building or use which may be included within each classified use
+but are not intended for human habitation, and are accessory to the principal
+use of associated buildings. Examples: a carport, farm building, garage, green‐
+house, machinery room, private swimming pool, public toilet, or shed.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+7
+
+--------------------------------------------------------------------------------
+8.0
+Ancillary
+8.0.1 Applies to a building or use not for human habitation and which may be
+exempted from some amenity provisions, but which are required to comply
+with structural and safety-related aspects of the building code. Examples: a
+bridge, derrick, fence, free-standing outdoor fireplace, jetty, mast, path, plat‐
+form, pylon, retaining wall, tank, tunnel or dam.
+Clause A2—Interpretation
+In this building code unless the context otherwise requires, words shall have
+the meanings given under this clause. Meanings given in the Building Act 1991
+apply equally to the building code.
+access route a continuous route that permits people and goods to move
+between the apron or construction edge of the building to spaces within a
+building, and between spaces within a building
+accessible having features to permit use by people with disabilities
+accessible route an access route usable by people with disabilities. It shall be a
+continuous route that can be negotiated unaided by a wheelchair user. The
+route shall extend from street boundary or carparking area to those spaces
+within the building required to be accessible to enable people with disabilities
+to carry out normal activities and processes within the building
+adequate means adequate to achieve the objectives of the building code
+adjacent building a nearby building, including an adjoining building, whether
+or not erected on other property
+allotment has the meaning ascribed to it by section 4 of the Act as follows:
+meaning of allotment—
+(1)
+In this Act, the term “allotment” means any parcel of land that is a con‐
+tinuous area of land and whose boundaries are shown on a survey plan
+that is:
+(a)
+subject to the Land Transfer Act 1952 and is comprised in one
+certificate of title or for which one certificate of title could be
+issued under that Act; or
+(b)
+not subject to that Act and was acquired by its owner under one
+instrument of conveyance.
+(2)
+For the purpose of subsection (1), the subdivision shown on the survey
+plan referred to in that subsection is:
+(a)
+the subdivision approved by way of a subdivision consent granted
+under the Resource Management Act 1991; or
+(b)
+the subdivision allowed or granted under any other Act.
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+8
+
+--------------------------------------------------------------------------------
+(3)
+For the purposes of subsection (1), an allotment shall be deemed to be a
+continuous area of land notwithstanding that part of it is physically sep‐
+arated from any other part by a road or in any other manner whatsoever,
+unless the division of the allotment into such parts has been allowed by a
+subdivision consent granted under the Resource Management Act 1991
+or a subdivision approval under any former enactment relating to the
+subdivision of land
+alter, in relation to a building, includes to rebuild, re-erect, repair, enlarge and
+extend; and alteration has a corresponding meaning
+amenity means an attribute of a building which contributes to the health, phys‐
+ical independence, and well being of the building’s users but which is not asso‐
+ciated with disease or a specific illness
+approved temperature data means the temperature data contained in A I
+Tomlinson and J Sansom, Temperature Normals for New Zealand for the
+period 1961 to 1990 (NIWA, ISBN 0478083343)
+backcountry hut means a building that—
+(a)
+is located on land that is administered by the Department of Conserva‐
+tion for conservation, recreational, scientific, or other related purposes,
+including any land administered under any of the following:
+(i)
+the Conservation Act 1987:
+(ii)
+the National Parks Act 1980:
+(iii)
+the Reserves Act 1977; and
+(b)
+is intended to provide overnight shelter to any person who may visit and
+who carries his or her own food, bedding, clothing, and outdoor equip‐
+ment; and
+(c)
+contains only basic facilities, which may include (but are not limited to)
+any or all of the following:
+(i)
+sleeping platforms or bunks:
+(ii)
+mattresses:
+(iii)
+food preparation surfaces:
+(iv)
+appliances for heating:
+(v)
+appliances for cooking:
+(vi)
+toilets; and
+(d)
+has been certified by the Director-General as being in a location that
+wheelchair users are unlikely to be able to visit; and
+(e)
+is intended to be able to sleep—
+(i)
+no more than 20 people in its backcountry hut sleeping area; and
+(ii)
+no more than 40 people in total; and
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+9
+
+--------------------------------------------------------------------------------
+(f)
+does not contain any connection, except by radiocommunications, to a
+network utility operator
+backcountry hut sleeping area means the area of a backcountry hut that con‐
+tains sleeping platforms, bunks, or beds that are—
+(a)
+within the same room as a food preparation or eating area; or
+(b)
+in a fully enclosed room that is separate from any food preparation or
+eating area and has—
+(i)
+internal walls that limit the spread of fire; and
+(ii)
+the means of direct egress to outside the hut
+boundary means any boundary that is shown on a survey plan that is approved
+by the Surveyor-General and deposited with the Registrar-General of Land,
+whether or not a new title has been issued
+building has the meaning ascribed to it by section 3 of the Act as follows:
+meaning of building—
+(1)
+In this Act, unless the context otherwise requires, the term “building”
+means any temporary or permanent movable or immovable structure
+(including any structure intended for occupation by people, animals,
+machinery, or chattels); and includes any mechanical, electrical, or other
+systems, and any utility systems, attached to and forming part of the
+structure whose proper operation is necessary for compliance with the
+building code; but does not include:
+(a)
+systems owned or operated by a network utility operator for the
+purpose of reticulation of other property; or
+(b)
+cranes, including any cranes as defined in any regulations in force
+under the Health and Safety in Employment Act 1992; or
+(c)
+cablecars, cableways, ski tows, and other similar stand alone
+machinery systems, whether or not incorporated within any other
+structure; or
+(d)
+any description of vessel, boat, ferry, or craft used in navigation,
+whether or not it has any means of propulsion, and regardless of
+that means; nor does it include—
+(i)
+a barge, lighter, or other like vessel:
+(ii)
+a hovercraft or other thing deriving full or partial support in
+the atmosphere from the reactions of air against the surface
+of the water over which it operates:
+(iii)
+a submarine or other thing used in navigation while totally
+submerged; or
+(e)
+vehicles and motor vehicles (including vehicles and motor
+vehicles as defined in section 2(1) of the Transport Act 1962 and
+section 2(1) of the Transport (Vehicle and Driver Registration and
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+10
+
+--------------------------------------------------------------------------------
+Licensing) Act 1986), but not including vehicles and motor
+vehicles, whether movable or immovable, which are used exclu‐
+sively for permanent or long-term residential purposes; or
+(ea)
+aircraft, including any machine that can derive support in the
+atmosphere from the reactions of the air otherwise than by the
+reactions of the air against the surface of the earth; or
+(f)
+containers as defined in section 2(1) of the Hazardous Substances
+and New Organisms Act 1996; or
+(g)
+magazines as defined in section 2 of the Explosives Act 1957; or
+(h)
+scaffolding used in the course of the construction process; or
+(i)
+falsework used in the course of the construction process.
+(2)
+For the purposes of Part 9 of this Act, a building consent, a code compli‐
+ance certificate, and a compliance schedule the term building also
+includes—
+(a)
+any part of a building; and
+(b)
+any 2 or more buildings which, on completion of any building
+work, are intended to be managed as 1 building with a common
+use and a common set of ownership arrangements.
+(3)
+For the purposes of subclause (2) of this definition, where any utility
+system or any part of any utility system—
+(a)
+is external to the building; and
+(b)
+is also connected to or is intended to be connected to—
+(i)
+a network under the control of a network utility operator; or
+(ii)
+some other facility which is able to provide for the success‐
+ful functioning of the utility system in accordance with its
+intended design—
+that utility system or that part of the utility system shall be deemed to be
+part of a building.
+(4)
+Notwithstanding the provisions of subclause (3) of this definition, where
+a septic tank is connected to a building utility system the septic tank
+shall be deemed to form part of that building utility system
+building certifier means a person approved as a building certifier by the
+Authority under Part 7 of the Act
+building code means the building code made under Part 6 of the Act
+building consent means a consent to carry out building work granted by a ter‐
+ritorial authority under Part 5 of the Act; and includes all conditions to which
+the consent is subject
+building element any structural or non-structural component and assembly
+incorporated into or associated with a building. Included are fixtures, services,
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+11
+
+--------------------------------------------------------------------------------
+drains, permanent mechanical installations for access, glazing, partitions, ceil‐
+ings and temporary supports
+building height means the vertical distance between the floor level of the low‐
+est occupied space above the ground and the top of the highest occupied floor,
+but not including spaces located within or on the roof that enclose stairways,
+lift shafts, or machinery rooms
+building performance index (BPI), in relation to a building, means the heat‐
+ing energy of the building divided by the product of the heating degrees total
+and the sum of the floor area and the total wall area, and so is calculated in
+accordance with the following formula:
+BPI =
+heating energy
+heating degrees total × (floor area + total wall area)
+building work work for or in connection with the construction, alteration,
+demolition, or removal of a building; and includes sitework
+burnout means exposure to fire for a time that includes fire growth, full devel‐
+opment, and decay in the absence of intervention or automatic suppression,
+beyond which the fire is no longer a threat to building elements intended to per‐
+form loadbearing or fire separation functions, or both
+clearly visible, for the purposes of clause F8.3.1, means visible, under the
+worst likely conditions and at the maximum distance from which the sign in
+question needs to be viewed, by a person who either does not have a visual
+impairment or uses corrective lenses
+code compliance certificate means a certificate to that effect issued by a terri‐
+torial authority or a building certifier pursuant to section 43 of the Act
+combustible building materials means building materials that are deemed
+combustible according to AS 1530.1
+compliance schedule means a compliance schedule issued under section 44 of
+the Act
+construct in relation to a building, includes to build, erect, prefabricate, and
+relocate; and construction has a corresponding meaning
+contaminant has the meaning ascribed to it by the Resource Management Act
+1991
+Department of Conservation means the department of State established by
+section 5 of the Conservation Act 1987
+Director-General has the same meaning as in section 2(1) of the Conservation
+Act 1987
+drain a pipe normally laid below ground level including fittings and equipment
+and intended to convey foul water or surface water to an outfall
+drinking water standards means the standards made under section 47 of the
+Water Services Act 2021
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+12
+
+--------------------------------------------------------------------------------
+electrical fixed appliance an electrical appliance which is fixed-wired to the
+electrical installation, or intended to remain permanently attached and form
+part of the building
+electrical installation any electrical fixed appliances, and components used in
+the reticulation of electricity, which are intended to remain permanently
+attached to and form part of the building
+electrical supply system the source of electricity external to the electrical
+installation
+escape route a continuous unobstructed route from any occupied space in a
+building to a final exit to enable occupants to reach a safe place, and shall com‐
+prise one or more of the following: open paths, protected paths and safe paths
+essential service in the context of an electrical installation means emergency
+lighting, firemen’s lifts, alarms, water pumps, sprinklers, detectors, ventilation
+systems and public address systems necessary for the safety of people in build‐
+ings
+estimated value the value of building work shall be the aggregate of the
+values, determined in accordance with section 10 of the Goods and Services
+Tax Act 1985, of all goods and services to be supplied for that building work
+evacuation time means the time between the ignition of a fire affecting a
+building and the time when all the occupants of the building have reached a
+place of safety
+exitway all parts of an escape route protected by fire or smoke separations, or
+by distance when exposed to open air, and terminating at a final exit
+external wall any exterior face of a building within 30° of vertical, consisting
+of primary and/or secondary elements intended to provide protection against
+the outdoor environment, but which may also contain unprotected areas
+final exit the point at which an escape route terminates by giving direct access
+to a safe place
+fire the state of combustion during which flammable materials burn producing
+heat, toxic gases, or smoke or flame or any combination of these
+firecell any space including a group of contiguous spaces on the same or differ‐
+ent levels within a building, which is enclosed by any combination of fire sepa‐
+rations, external walls, roofs, and floors
+fire load the sum of the net calorific values of the combustible contents which
+can reasonably be expected to burn within a firecell, including furnishings,
+built-in and removable materials, and building elements. The calorific values
+shall be determined at the ambient moisture content or humidity. (The unit of
+measurement is MJ or TJ)
+fire resistance rating (FRR) the term used to classify fire resistance of pri‐
+mary and secondary elements as determined in the standard test for fire resist‐
+ance, or in accordance with a specific calculation method verified by experi‐
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+13
+
+--------------------------------------------------------------------------------
+mental data from standard fire resistance tests. It comprises three numbers giv‐
+ing the time in minutes for which each of the criteria stability, integrity and
+insulation are satisfied, and is presented always in that order
+fire safety system means the combination of all active and passive protection
+methods used in a building to—
+(a)
+warn people of an emergency; and
+(b)
+provide for safe evacuation; and
+(c)
+provide for access by, and the safety of, firefighters; and
+(d)
+restrict the spread of fire; and
+(e)
+limit the impact of fire on structural stability
+fire separation any building element which separates firecells or firecells and
+safe paths, and provides a specific fire resistance rating
+fire source means the combination of the ignition source and the item first
+ignited within a room, space, or firecell, which combination is considered to be
+the origin of the fire for the purposes of design
+fixture an article intended to remain permanently attached to and form part of a
+building
+floor area, in relation to a building, means the floor area (expressed in square
+metres) of all interior spaces used for activities normally associated with
+domestic living
+foul water the discharge from any sanitary fixtures or sanitary appliances
+foul water drainage system drains joints and fittings normally laid under‐
+ground and used specifically for the conveyance of water from the plumbing
+system to an outfall
+fractional effective dose means the fraction of the dose that would render a
+person of average susceptibility incapable of escape
+habitable space a space used for activities normally associated with domestic
+living, but excludes any bathroom, laundry, water-closet, pantry, walk-in ward‐
+robe, corridor, hallway, lobby, clothes-drying room, or other space of a special‐
+ised nature occupied neither frequently nor for extended periods
+handrail a rail to provide both support to, or assist with the movement of a
+person
+hard-standing means a hard-surfaced area that is sufficiently stable to carry a
+fire truck, and includes a road
+hazardous creating an unreasonable risk to people of bodily injury or deterio‐
+ration of health
+hazardous substance has the meaning ascribed to it by the Fire Service Act
+1975
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+14
+
+--------------------------------------------------------------------------------
+heating degrees, in relation to a location and a heating month, means the
+degrees obtained by subtracting from a base temperature of 14°C the mean
+(calculated using the approved temperature data) of the outdoor temperatures at
+that location during that month
+heating degrees total, in relation to a location and a year, means whichever is
+the greater of the following:
+(a)
+the value of 12; and
+(b)
+the sum of all the heating degrees (calculated using the approved tem‐
+perature data) for all of the heating months of the year
+heating energy, in relation to a building, means the energy from a network
+utility operator or a depletable resource (expressed in kilowatt-hours, and cal‐
+culated using the Building Research Association of New Zealand’s ALF 3, The
+‘Annual Loss Factor Method’, A design tool for energy efficient houses (3rd
+edition, April 2000) or some other method that can be correlated with that man‐
+ual) needed to maintain the building at all times within a year at a constant
+internal temperature under the following standard conditions:
+(a)
+a continuous temperature of 20°C throughout the building:
+(b)
+an air change rate of 1 change per hour or the actual air leakage rate,
+whichever is the greater:
+(c)
+a heat emission contribution arising from internal heat sources for any
+period in the year of 1 000 kilowatt-hours for the first 50 m2 of floor
+area, and 10 kilowatt-hours for every additional square metre of floor
+area:
+(d)
+no allowance for—
+(i)
+carpets; or
+(ii)
+blinds, curtains, or drapes, on windows:
+(e)
+windows to have a shading coefficient of 0.6 (made up of 0.8 for win‐
+dows and recesses and 0.75 for site shading)
+heating month, in relation to a location, means a month in which a base tem‐
+perature of 14°C is greater than the mean (calculated using the approved tem‐
+perature data) of the outdoor temperatures at that location during that month
+household unit means any building or group of buildings, or part of any build‐
+ing or group of buildings, used or intended to be used solely or principally for
+residential purposes and occupied or intended to be occupied exclusively as the
+home or residence of not more than one household; but does not include a hos‐
+tel or boardinghouse or other specialised accommodation
+HVAC system, for the purposes of performance H1.3.6 and in relation to a
+building, means a mechanical, electrical, or other system for modifying air
+temperature, modifying air humidity, providing ventilation, or doing all or any
+of those things, in a space within the building
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+15
+
+--------------------------------------------------------------------------------
+illuminance the luminous flux falling onto a unit area of surface
+impact insulation class (IIC) a single number rating derived from measured
+values of normalised sound pressure impact levels in accordance with Method
+ASTM E492, Annex A1. Laboratory Measurement of Impact Sound Transmis‐
+sion Through Floor-Ceiling Assemblies Using the Tapping Machine. It pro‐
+vides an estimate of the impact sound insulating performance of a floor-ceiling
+assembly
+impervious that which does not allow the passage of moisture
+insulation in the context of fire protection, the time in minutes for which a pro‐
+totype specimen of a fire separation, when subjected to the standard test for
+fire resistance, has limited the transmission of heat through the specimen
+integrity in the context of fire protection, the time in minutes for which a pro‐
+totype specimen of a fire separation, when subjected to the standard test for
+fire resistance, has prevented the passage of flame or hot gases
+intended use of a building includes—
+(a)
+any reasonably foreseeable occasional other use that is not incompatible
+with the intended use; and
+(b)
+normal maintenance; and
+(c)
+activities taken in response to fire or any other reasonably foreseeable
+emergency—but does not include any other maintenance and repairs or
+rebuilding
+network utility operator means a person who—
+(a)
+undertakes the distribution or transmission by pipeline of natural or
+manufactured gas, petroleum, or geothermal energy; or
+(b)
+is an electricity operator or an electricity distributor as defined by sec‐
+tion 2(1) of the Electricity Act 1992 for the purposes of any works as
+defined by that Act; or
+(c)
+undertakes the piped distribution of potable water for supply; or
+(d)
+is the operator of a sewerage system or a stormwater drainage system
+occupied space any space within a building in which a person will be present
+from time to time during the intended use of the building
+open space means land on which there are, and will be, no buildings and which
+has no roof over any part of it other than overhanging eaves
+other property means any land or buildings or part thereof which are—
+(a)
+not held under the same allotment; or
+(b)
+not held under the same ownership—
+and includes any road
+outdoor air air as typically comprising by volume. (i) oxygen 20.94% (ii) car‐
+bon dioxide 0.03% (iii) nitrogen and other inert gases 79.03%
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+16
+
+--------------------------------------------------------------------------------
+outfall that part of the disposal system receiving surface water or foul water
+from the drainage system. For foul water the outfall may include a sewer or a
+septic tank. For surface water, the outfall may include a natural water course,
+kerb and channel, or soakage system
+people with disabilities people whose ability to use buildings is affected by
+mental, physical, hearing or sight impairment
+place of safety means either—
+(a)
+a safe place; or
+(b)
+a place that is inside a building and meets the following requirements:
+(i)
+the place is constructed with fire separations that have fire resist‐
+ance sufficient to withstand burnout at the point of the fire source;
+and
+(ii)
+the place is in a building that is protected by an automatic fire
+sprinkler system that complies with NZS 4541 or NZS 4515 as
+appropriate to the building’s use; and
+(iii)
+the place is designed to accommodate the intended number of per‐
+sons; and
+(iv)
+the place is provided with sufficient means of escape to enable the
+intended number of persons to escape to a safe place that is out‐
+side a building
+plumbing system pipes, joints and fittings laid above ground and used for the
+conveyance of foul water to the foul water drain, and includes vent pipes
+potable water means water that—
+(a)
+is safe to drink; and
+(b)
+complies with the drinking water standards
+principal user a member of the primary group for which a building was con‐
+structed, and therefore explicitly excludes persons or groups of persons provid‐
+ing care or control of that principal user group
+radiocommunications has the same meaning as in section 2(1) of the Radio‐
+communications Act 1989
+reasonably visible, in relation to a specified feature, and for the purposes of
+Clause F6, means that the specified feature is visible to a person who—
+(a)
+is 10 metres from it, or the greatest distance from it that it is possible to
+go in the open space surrounding it, whichever is the lesser; and
+(b)
+has sight that is not defective, or is corrected (for example, by an optical
+appliance)
+relevant boundary means the boundary of an allotment that is other property
+in relation to the building in question and from which is measured the separ‐
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+17
+
+--------------------------------------------------------------------------------
+ation between the building and that other property; and for the external wall of
+any building, the relevant boundary is the nearest of—
+(a)
+a boundary of a freehold allotment, except that if the other property is a
+road, railway line, or public open space, the relevant boundary is the
+boundary on the far side of that other property; or
+(b)
+a boundary of a cross-lease or a company lease or a licence, except that
+if the other property is open space to which the lessee or licensee of the
+building in question has an exclusive right of access and occupation or to
+which 2 or more occupiers of the building in question have rights of
+access and occupation, the relevant boundary is the boundary on the far
+side of that other property; or
+(c)
+a boundary shown on a unit plan (but excluding a boundary between a
+principal unit and its accessory unit), except that if the other property is
+open space and is common property, the relevant boundary is the boun‐
+dary on the far side of that other property
+risk group A, for the purposes of performance F6.3.4 and performance F6.3.5,
+means buildings—
+(a)
+whose occupants are required to remain in the building until the main
+lighting system is restored; or
+(b)
+whose evacuation time is longer than 90 minutes
+risk group B, for the purposes of performance F6.3.4 and performance F6.3.5,
+means buildings—
+(a)
+whose evacuation time is 30 minutes or longer but not longer than 90
+minutes; or
+(b)
+whose occupant load is more than 1 000
+risk group C, for the purposes of performance F6.3.4, means buildings not in
+risk group A or risk group B
+safe place a place of safety in the vicinity of a building, from which people
+may safely disperse after escaping the effects of a fire. It may be a place such
+as a street, open space, public space or an adjacent building
+sanitary appliance an appliance which is intended to be used for sanitation,
+but which is not a sanitary fixture. Included are machines for washing dishes
+and clothes
+sanitary fixture any fixture which is intended to be used for sanitation
+sanitation the term used to describe the activities of washing and/or excretion
+carried out in a manner or condition such that the effect on health is minimised,
+with regard to dirt and infection
+sewer a drain that is under the control of, or maintained by, a network utility
+operator
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+18
+
+--------------------------------------------------------------------------------
+sitework means work on a building site, including earthworks, preparatory to
+or associated with the construction, alteration, demolition, or removal of a
+building
+sound transmission class (STC) a single number rating derived from mea‐
+sured values of transmission loss in accordance with classification ASTM
+E413, Determination of Sound Transmission Class. It provides an estimate of
+the performance of a partition in certain common sound insulation situations
+specified features, for the purposes of Clause F6, means the following:
+(a)
+building elements that may act as obstructions:
+(b)
+safety features required under clauses of this code other than Clause F6
+(for example, handrails required under Clause D1):
+(c)
+changes in direction:
+(d)
+stairs and ramps:
+(e)
+escape doors:
+(f)
+entries to a safe place
+specified intended life has the meaning ascribed to it by subsection (2) of sec‐
+tion 39 of the Act as follows: “Specified intended life”, in relation to a building,
+means the period of time, as stated in an application for a building consent or in
+the consent itself, for which the building is proposed to be used for its intended
+use
+stability in the context of fire protection, the time in minutes for which a proto‐
+type specimen of a primary element, when subjected to the standard test for
+fire resistance, has continued to carry its fire design load without failure
+standard year for the purposes of determining natural lighting, the hours
+between 8 am and 5 pm each day with an allowance being made for daylight
+saving
+surface water all naturally occurring water, other than sub-surface water,
+which results from rainfall on the site or water flowing onto the site, including
+that flowing from a drain, stream, river, lake or sea
+territorial authority has the meaning ascribed to it by section 2 of the Local
+Government Act 1974; and includes any organisation which is authorised to
+permit structures pursuant to section 12(1)(b) of the Resource Management Act
+1991
+thermal resistance the resistance to heat flow of a given component of a build‐
+ing element. It is equal to the air temperature difference (°C) needed to produce
+unit heat flux (W/m2) through unit area (m2) under steady conditions. The units
+are °Cm2/W
+total wall area, in relation to a building, means the sum (expressed in square
+metres) of the following:
+(a)
+the wall area of the building; and
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+19
+
+--------------------------------------------------------------------------------
+(b)
+the area (expressed in square metres) of all vertical glazing in external
+walls of the building
+travel distance the length of the escape route as a whole or the individual
+lengths of its parts, namely: (a) open paths; (b) protected paths; and (c) safe
+paths
+wall area, in relation to a building, means the area (expressed in square metres)
+of internally exposed external walls, including any door openings, of the build‐
+ing
+water main a water supply pipe that is under the control of, or maintained by a
+network utility operator
+water supply system pipes, fittings and tanks used or intended to be used for
+the storage and reticulation of water from a water main or other water source,
+to sanitary fixtures, sanitary appliances and fittings within a building.
+Schedule 1 clause A2 allotment subclause (2)(a): amended, on 23 December 2023, by section 6 of
+the Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim
+Fast-track Consenting) Act 2023 (2023 No 68).
+Schedule 1 clause A2 allotment subclause (3): amended, on 23 December 2023, by section 6 of the
+Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim
+Fast-track Consenting) Act 2023 (2023 No 68).
+Schedule 1 clause A2 approved temperature data: inserted, on 31 October 2007, by regulation 4(2)
+of the Building Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 backcountry hut: inserted, on 31 October 2008, by regulation 5 of the Build‐
+ing (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1 clause A2 backcountry hut sleeping area: inserted, on 31 October 2008, by regulation 5
+of the Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1 clause A2 boundary: inserted, on 10 April 2012, by regulation 4(2) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 building (1)(b): substituted, on 22 December 1994, by regulation 3(1)(a) of the
+Building Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1 clause A2 building (1)(d): substituted, on 22 December 1994, by regulation 3(1)(b) of the
+Building Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1 clause A2 building (1)(ea): inserted, on 22 December 1994, by regulation 3(1)(c) of the
+Building Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1 clause A2 building (1)(f): amended, on 2 July 2001, pursuant to section 150(1) of the
+Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+Schedule 1 clause A2 building (2): amended, on 22 December 1994, by regulation 3(1)(d) of the
+Building Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1 clause A2 building (3): amended, on 22 December 1994, by regulation 3(1)(e) of the
+Building Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1 clause A2 building (4): amended, on 22 December 1994, by regulation 3(1)(f) of the
+Building Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1 clause A2 building height: replaced, on 10 April 2012, by regulation 4(2) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 building performance index: revoked, on 31 October 2007, by regulation 4(1)
+of the Building Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+20
+
+--------------------------------------------------------------------------------
+Schedule 1 clause A2 building performance index (BPI): inserted, on 31 October 2007, by regula‐
+tion 4(1) of the Building Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 burnout: inserted, on 10 April 2012, by regulation 4(2) of the Building (Build‐
+ing Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 clearly visible: inserted, on 10 April 2012, by regulation 4(2) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 climate zone 1: revoked, on 30 September 2008, by regulation 7(2) of the
+Building Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 climate zone 2: revoked, on 30 September 2008, by regulation 7(2) of the
+Building Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 climate zone 3: revoked, on 30 September 2008, by regulation 7(2) of the
+Building Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 combustible building materials: inserted, on 10 April 2012, by regulation
+4(2) of the Building (Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR
+2012/33).
+Schedule 1 clause A2 combustion appliance: revoked, on 10 April 2012, by regulation 4(1) of the
+Building (Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 concealed space: revoked, on 10 April 2012, by regulation 4(1) of the Build‐
+ing (Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 contaminant: amended, on 23 December 2023, by section 6 of the Resource
+Management (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track
+Consenting) Act 2023 (2023 No 68).
+Schedule 1 clause A2 cool location: revoked, on 30 September 2008, by regulation 7(2) of the Build‐
+ing Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 degree-day: revoked, on 30 September 2008, by regulation 7(2) of the Build‐
+ing Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 degree-day total: revoked, on 30 September 2008, by regulation 7(2) of the
+Building Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 Department of Conservation: inserted, on 31 October 2008, by regulation 5
+of the Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1 clause A2 Director-General: inserted, on 31 October 2008, by regulation 5 of the Build‐
+ing (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1 clause A2 drinking water standards: inserted, on 15 November 2021, by section 206(2)
+of the Water Services Act 2021 (2021 No 36).
+Schedule 1 clause A2 evacuation time: replaced, on 10 April 2012, by regulation 4(2) of the Build‐
+ing (Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 fire hazard: revoked, on 10 April 2012, by regulation 4(1) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 fire intensity: revoked, on 10 April 2012, by regulation 4(1) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 fire load: amended, on 10 April 2012, by regulation 4(3) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 fire resisting closure: revoked, on 10 April 2012, by regulation 4(1) of the
+Building (Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 fire safety system: replaced, on 10 April 2012, by regulation 4(2) of the Build‐
+ing (Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 fire source: inserted, on 10 April 2012, by regulation 4(2) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+21
+
+--------------------------------------------------------------------------------
+Schedule 1 clause A2 floor area: inserted, on 31 October 2007, by regulation 4(2) of the Building
+Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 fractional effective dose: inserted, on 10 April 2012, by regulation 4(2) of the
+Building (Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 hard-standing: inserted, on 10 April 2012, by regulation 4(2) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 heating degrees: inserted, on 31 October 2007, by regulation 4(2) of the Build‐
+ing Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 heating degrees total: inserted, on 31 October 2007, by regulation 4(2) of the
+Building Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 heating energy: inserted, on 31 October 2007, by regulation 4(2) of the Build‐
+ing Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 heating month: inserted, on 31 October 2007, by regulation 4(2) of the Build‐
+ing Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 HVAC system: inserted, on 1 February 2009, by regulation 4 of the Building
+(Building Code: Energy Efficiency of Temperature, Humidity, and Ventilation Systems) Amendment
+Regulations 2008 (SR 2008/97).
+Schedule 1 clause A2 network utility operator paragraph (b): substituted, on 29 December 2000, by
+regulation 3(3) of the Building Amendment Regulations 2000 (SR 2000/119).
+Schedule 1 clause A2 old measure building performance index: revoked, on 30 September 2008,
+by regulation 7(2) of the Building Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 open path: revoked, on 10 April 2012, by regulation 4(1) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 open space: inserted, on 10 April 2012, by regulation 4(2) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 place of safety: inserted, on 10 April 2012, by regulation 4(2) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 potable water: inserted, on 15 November 2021, by section 206(2) of the Water
+Services Act 2021 (2021 No 36).
+Schedule 1 clause A2 protected path: revoked, on 10 April 2012, by regulation 4(1) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 purpose group: revoked, on 10 April 2012, by regulation 4(1) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 radiocommunications: inserted, on 31 October 2008, by regulation 5 of the
+Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1 clause A2 reasonably visible: inserted, on 21 June 2007, by regulation 6(2) of the Build‐
+ing Amendment Regulations 2007 (SR 2007/124).
+Schedule 1 clause A2 relevant boundary: inserted, on 10 April 2012, by regulation 4(2) of the
+Building (Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 risk group A: inserted, on 21 June 2007, by regulation 6(2) of the Building
+Amendment Regulations 2007 (SR 2007/124).
+Schedule 1 clause A2 risk group B: inserted, on 21 June 2007, by regulation 6(2) of the Building
+Amendment Regulations 2007 (SR 2007/124).
+Schedule 1 clause A2 risk group C: inserted, on 21 June 2007, by regulation 6(2) of the Building
+Amendment Regulations 2007 (SR 2007/124).
+Schedule 1 clause A2 safe path: revoked, on 10 April 2012, by regulation 4(1) of the Building
+(Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+22
+
+--------------------------------------------------------------------------------
+Schedule 1 clause A2 smoke separation: revoked, on 10 April 2012, by regulation 4(1) of the Build‐
+ing (Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 specified features: inserted, on 21 June 2007, by regulation 6(2) of the Build‐
+ing Amendment Regulations 2007 (SR 2007/124).
+Schedule 1 clause A2 territorial authority: amended, on 23 December 2023, by section 6 of the
+Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim
+Fast-track Consenting) Act 2023 (2023 No 68).
+Schedule 1 clause A2 thermal resistance: amended, on 29 December 2000, by regulation 3(4) of the
+Building Amendment Regulations 2000 (SR 2000/119).
+Schedule 1 clause A2 total wall area: inserted, on 31 October 2007, by regulation 4(2) of the Build‐
+ing Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 unprotected area: revoked, on 10 April 2012, by regulation 4(1) of the Build‐
+ing (Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1 clause A2 wall area: inserted, on 31 October 2007, by regulation 4(2) of the Building
+Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 warm location: revoked, on 30 September 2008, by regulation 7(2) of the
+Building Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause A2 water supply system: amended, on 22 December 1994, by regulation 3(2)(e)
+of the Building Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1 clause A2 water supply system: amended, on 22 December 1994, by regulation 3(2)(f)
+of the Building Regulations 1992, Amendment No 1 (SR 1994/263).
+Clause A3—Building importance levels
+For the purposes of clause C, a building has one of the importance levels set
+out below:
+Importance
+level
+Description of building type
+Specific structure
+Importance level
+1
+Buildings posing low risk to
+human life or the environment, or
+a low economic cost, should the
+building fail. These are typically
+small non-habitable buildings,
+such as sheds, barns, and the like,
+that are not normally occupied,
+though they may have occupants
+from time to time.
+•
+Ancillary buildings not for
+human habitation
+•
+Minor storage facilities
+•
+Backcountry huts
+Importance level
+2
+Buildings posing normal risk to
+human life or the environment, or
+a normal economic cost, should
+the building fail. These are typical
+residential, commercial, and
+industrial buildings.
+•
+All buildings and facilities
+except those listed in importance
+levels 1, 3, 4, and 5
+Importance level
+3
+Buildings of a higher level of
+societal benefit or importance, or
+with higher levels of risk-
+significant factors to building
+occupants. These buildings have
+increased performance
+requirements because they may
+house large numbers of people,
+vulnerable populations, or
+occupants with other risk factors,
+•
+Buildings where more than 300
+people congregate in 1 area
+•
+Buildings with primary school,
+secondary school, or daycare
+facilities with a capacity greater
+than 250
+•
+Buildings with tertiary or adult
+education facilities with a
+capacity greater than 500
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+23
+
+--------------------------------------------------------------------------------
+Importance
+level
+Description of building type
+Specific structure
+or fulfil a role of increased
+importance to the local community
+or to society in general.
+•
+Health care facilities with a
+capacity of 50 or more residents
+but not having surgery or
+emergency treatment facilities
+•
+Jails and detention facilities
+•
+Any other building with a
+capacity of 5 000 or more
+people
+•
+Buildings for power generating
+facilities, water treatment for
+potable water, wastewater
+treatment facilities, and other
+public utilities facilities not
+included in importance level 4
+•
+Buildings not included in
+importance level 4 or 5
+containing sufficient quantities
+of highly toxic gas or explosive
+materials capable of causing
+acutely hazardous conditions
+that do not extend beyond
+property boundaries
+Importance level
+4
+Buildings that are essential to post-
+disaster recovery or associated
+with hazardous facilities.
+•
+Hospitals and other health care
+facilities having surgery or
+emergency treatment facilities
+•
+Fire, rescue, and police stations
+and emergency vehicle garages
+•
+Buildings intended to be used as
+emergency shelters
+•
+Buildings intended by the owner
+to contribute to emergency
+preparedness, or to be used for
+communication, and operation
+centres in an emergency, and
+other facilities required for
+emergency response
+•
+Power generating stations and
+other utilities required as
+emergency backup facilities for
+importance level 3 structures
+•
+Buildings housing highly toxic
+gas or explosive materials
+capable of causing acutely
+hazardous conditions that extend
+beyond property boundaries
+•
+Aviation control towers, air
+traffic control centres, and
+emergency aircraft hangars
+•
+Buildings having critical
+national defence functions
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+24
+
+--------------------------------------------------------------------------------
+Importance
+level
+Description of building type
+Specific structure
+•
+Water treatment facilities
+required to maintain water
+pressure for fire suppression
+•
+Ancillary buildings (including,
+but not limited to,
+communication towers, fuel
+storage tanks or other structures
+housing or supporting water or
+other fire suppression material
+or equipment) required for
+operation of importance level 4
+structures during an emergency
+Importance level
+5
+Buildings whose failure poses
+catastrophic risk to a large area
+(eg, 100 km2) or a large number of
+people (eg, 100 000).
+•
+Major dams
+•
+Extremely hazardous facilities
+Schedule 1 clause A3: inserted, on 10 April 2012, by regulation 5 of the Building (Building Code:
+Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+25
+
+--------------------------------------------------------------------------------
+Clause B1—Structure
+Provisions
+Limits on application
+Objective
+B1.1
+The objective of this provision is to:
+(a)
+safeguard people from injury
+caused by structural failure,
+(b)
+safeguard people from loss of
+amenity caused by structural
+behaviour, and
+(c)
+protect other property from
+physical damage caused by
+structural failure.
+Functional requirement
+B1.2
+Buildings, building elements and
+sitework shall withstand the
+combination of loads that they are
+likely to experience during
+construction or alteration and
+throughout their lives.
+Performance
+B1.3.1 Buildings, building elements and
+sitework shall have a low probability
+of rupturing, becoming unstable,
+losing equilibrium, or collapsing
+during construction or alteration and
+throughout their lives.
+B1.3.2 Buildings, building elements and
+sitework shall have a low probability
+of causing loss of amenity through
+undue deformation, vibratory
+response, degradation, or other
+physical characteristics throughout
+their lives, or during construction or
+alteration when the building is in use.
+B1.3.3 Account shall be taken of all physical
+conditions likely to affect the stability
+of buildings, building elements and
+sitework, including:
+(a)
+self-weight,
+(b)
+imposed gravity loads arising
+from use,
+(c)
+temperature,
+(d)
+earth pressure,
+(e)
+water and other liquids,
+(f)
+earthquake,
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+26
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(g)
+snow,
+(h)
+wind,
+(i)
+fire,
+(j)
+impact,
+(k)
+explosion,
+(l)
+reversing or fluctuating
+effects,
+(m)
+differential movement,
+(n)
+vegetation,
+(o)
+adverse effects due to
+insufficient separation from
+other buildings,
+(p)
+influence of equipment,
+services, non-structural
+elements and contents,
+(q)
+time dependent effects
+including creep and shrinkage,
+and
+(r)
+removal of support.
+B1.3.4 Due allowance shall be made for:
+(a)
+the consequences of failure,
+(b)
+the intended use of the
+building,
+(c)
+effects of uncertainties
+resulting from construction
+activities, or the sequence in
+which construction activities
+occur,
+(d)
+variation in the properties of
+materials and the
+characteristics of the site, and
+(e)
+accuracy limitations inherent
+in the methods used to predict
+the stability of buildings.
+B1.3.5 The demolition of buildings shall be
+carried out in a way that avoids the
+likelihood of premature collapse.
+B1.3.6 Sitework, where necessary, shall be
+carried out to:
+(a)
+provide stability for
+construction on the site, and
+(b)
+avoid the likelihood of
+damage to other property.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+27
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+B1.3.7 Any sitework and associated supports
+shall take account of the effects of:
+(a)
+changes in ground water level,
+(b)
+water, weather and vegetation,
+and
+(c)
+ground loss and slumping.
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+28
+
+--------------------------------------------------------------------------------
+Clause B2—Durability
+Provisions
+Limits on application
+Objective
+B2.1
+The objective of this provision is to
+ensure that a building will throughout
+its life continue to satisfy the other
+objectives of this code.
+Functional requirement
+B2.2
+Building materials, components and
+construction methods shall be
+sufficiently durable to ensure that the
+building, without reconstruction or
+major renovation, satisfies the other
+functional requirements of this code
+throughout the life of the building.
+Performance
+B2.3
+[Revoked]
+B2.3.1 Building elements must, with only
+normal maintenance, continue to
+satisfy the performance requirements
+of this code for the lesser of the
+specified intended life of the building,
+if stated, or:
+(a)
+the life of the building, being
+not less than 50 years, if:
+(i)
+those building
+elements (including
+floors, walls, and
+fixings) provide
+structural stability to
+the building, or
+(ii)
+those building
+elements are difficult
+to access or replace, or
+(iii)
+failure of those
+building elements to
+comply with the
+building code would
+go undetected during
+both normal use and
+maintenance of the
+building.
+(b)
+15 years if:
+(i)
+those building
+elements (including the
+building envelope,
+Performance B2.3.1 applies from the time of
+issue of the applicable code compliance
+certificate. Building elements are not required
+to satisfy a durability performance which
+exceeds the specified intended life of the
+building.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+29
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+exposed plumbing in
+the subfloor space, and
+in-built chimneys and
+flues) are moderately
+difficult to access or
+replace, or
+(ii)
+failure of those
+building elements to
+comply with the
+building code would
+go undetected during
+normal use of the
+building, but would be
+easily detected during
+normal maintenance.
+(c)
+5 years if:
+(i)
+the building elements
+(including services,
+linings, renewable
+protective coatings,
+and fixtures) are easy
+to access and replace,
+and
+(ii)
+failure of those
+building elements to
+comply with the
+building code would
+be easily detected
+during normal use of
+the building.
+B2.3.2 Individual building elements which
+are components of a building system
+and are difficult to access or replace
+must either:
+(a)
+all have the same durability, or
+(b)
+be installed in a manner that
+permits the replacement of
+building elements of lesser
+durability without removing
+building elements that have
+greater durability and are not
+specifically designed for
+removal and replacement.
+Schedule 1 clause B2.3: revoked, on 11 September 1997, by regulation 2 of the Building Amendment
+Regulations 1997 (SR 1997/156).
+Schedule 1 clause B2.3.1: added, on 11 September 1997, by regulation 2 of the Building Amendment
+Regulations 1997 (SR 1997/156).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+30
+
+--------------------------------------------------------------------------------
+Schedule 1 clause B2.3.2: added, on 11 September 1997, by regulation 2 of the Building Amendment
+Regulations 1997 (SR 1997/156).
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+31
+
+--------------------------------------------------------------------------------
+Clause C1—Objectives of clauses C2 to C6 (protection from fire)
+Provision
+Limit on application
+The objectives of clauses C2 to C6 are to:
+(a)
+safeguard people from an unacceptable risk of
+injury or illness caused by fire,
+(b)
+protect other property from damage caused by fire,
+and
+(c)
+facilitate firefighting and rescue operations.
+Schedule 1 clause C1: replaced, on 10 April 2012, by regulation 6 of the Building (Building Code:
+Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Clause C2—Prevention of fire occurring
+Provision
+Limit on application
+Functional requirement
+C2.1
+Fixed appliances using controlled combustion and
+other fixed equipment must be designed,
+constructed, and installed in buildings in a way
+that reduces the likelihood of illness or injury due
+to fire occurring.
+Performance
+C2.2
+The maximum surface temperature of combustible
+building materials close to fixed appliances using
+controlled combustion and other fixed equipment
+when operating at their design level must not
+exceed 90°C.
+C2.3
+Fixed appliances using controlled combustion and
+other fixed equipment must be designed,
+constructed and installed so that there is a low
+probability of explosive or hazardous conditions
+occurring within any spaces in or around the
+building that contains the appliances.
+Schedule 1 clause C2: replaced, on 10 April 2012, by regulation 6 of the Building (Building Code:
+Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Clause C3—Fire affecting areas beyond the fire source
+Provision
+Limit on application
+Functional requirement
+C3.1
+Buildings must be designed and constructed so that
+there is a low probability of injury or illness to
+persons not in close proximity to a fire source.
+C3.2
+Buildings with a building height greater than 10 m
+where upper floors contain sleeping uses or other
+property must be designed and constructed so that
+there is a low probability of external vertical fire
+spread to upper floors in the building.
+Clause C3.2 does not apply
+to importance level 1
+buildings.
+C3.3
+Buildings must be designed and constructed so that
+there is a low probability of fire spread to other
+property vertically or horizontally across a relevant
+boundary.
+Performance
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+32
+
+--------------------------------------------------------------------------------
+Provision
+Limit on application
+C3.4
+(a)
+materials used as internal surface linings in
+the following areas of buildings must meet the
+performance criteria specified below:
+Clause C3.4 does not apply
+to detached dwellings,
+within household units in
+multi-unit dwellings, or
+outbuildings and ancillary
+buildings.
+Area of building
+Performance determined under conditions
+described in ISO 9705: 1993
+Buildings not
+protected with an
+automatic fire
+sprinkler system
+Buildings protected
+with an automatic
+fire sprinkler system
+Wall/ceiling materials in
+sleeping areas where care
+or detention is provided
+Material Group
+Number 1-S
+Material Group
+Number 1 or 2
+Wall/ceiling materials in
+exitways
+Material Group
+Number 1-S
+Material Group
+Number 1 or 2
+Wall/ceiling materials in
+all occupied spaces in
+importance level 4
+buildings
+Material Group
+Number 1-S
+Material Group
+Number 1 or 2
+Internal surfaces of ducts
+for HVAC systems
+Material Group
+Number 1-S
+Material Group
+Number 1 or 2
+Ceiling materials in
+crowd and sleeping uses
+except household units
+and where care or
+detention is provided
+Material Group
+Number 1-S or 2-S
+Material Group
+Number 1 or 2
+Wall materials in crowd
+and sleeping uses except
+household units and
+where care or detention is
+provided
+Material Group
+Number 1-S or 2-S
+Material Group
+Number 1, 2, or 3
+Wall/ceiling materials in
+occupied spaces in all
+other locations in
+buildings, including
+household units
+Material Group
+Number 1, 2, or 3
+Material Group
+Number 1, 2, or 3
+External surfaces of ducts
+for HVAC systems
+Material Group
+Number 1, 2, or 3
+Material Group
+Number 1, 2, or 3
+Acoustic treatment and
+pipe insulation within
+airhandling plenums in
+sleeping uses
+Material Group
+Number 1, 2, or 3
+Material Group
+Number 1, 2, or 3
+(b)
+floor surface materials in the following areas
+of buildings must meet the performance
+criteria specified below:
+Area of building
+Minimum critical radiant flux when tested to
+ISO 9239-1: 2010
+Buildings not
+protected with an
+automatic fire
+sprinkler system
+Buildings protected
+with an automatic
+fire sprinkler system
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+33
+
+--------------------------------------------------------------------------------
+Provision
+Limit on application
+Sleeping areas and
+exitways in buildings
+where care or detention is
+provided
+4.5 kW/m2
+2.2 kW/m2
+Exitways in all other
+buildings
+2.2 kW/m2
+2.2 kW/m2
+Firecells accommodating
+more than 50 persons
+2.2 kW/m2
+1.2 kW/m2
+All other occupied spaces
+except household units
+1.2 kW/m2
+1.2 kW/m2
+(c)
+suspended flexible fabrics and membrane
+structures used in the construction of
+buildings must have properties resulting in a
+low probability of injury or illness to persons
+not in close proximity to a fire source.
+C3.5
+Buildings must be designed and constructed so that
+fire does not spread more than 3.5 m vertically from
+the fire source over the external cladding of multi-
+level buildings.
+C3.6
+Buildings must be designed and constructed so that in
+the event of fire in the building the received radiation
+at the relevant boundary of the property does not
+exceed 30 kW/m2 and at a distance of 1 m beyond the
+relevant boundary of the property does not exceed
+16 kW/m2.
+C3.7
+External walls of buildings that are located closer
+than 1 m to the relevant boundary of the property on
+which the building stands must either:
+(a)
+be constructed from materials which are not
+combustible building materials, or
+(b)
+for buildings in importance levels 3 and 4, be
+constructed from materials that, when
+subjected to a radiant flux of 30 kW/m2, do
+not ignite for 30 minutes, or
+(c)
+for buildings in Importance Levels 1 and 2, be
+constructed from materials that, when
+subjected to a radiant flux of 30 kW/m2, do
+not ignite for 15 minutes.
+C3.8
+Firecells located within 15 m of a relevant boundary
+that are not protected by an automatic fire sprinkler
+system, and that contain a fire load greater than 20 TJ
+or that have a floor area greater than 5,000 m2 must
+be designed and constructed so that at the time that
+firefighters first apply water to the fire, the maximum
+radiation flux at 1.5 m above the floor is no greater
+than 4.5 kW/m2 and the smoke layer is not less than
+2 m above the floor.
+C3.9
+Buildings must be designed and constructed with
+regard to the likelihood and consequence of failure of
+any fire safety system intended to control fire spread.
+Schedule 1 clause C3: replaced, on 10 April 2012, by regulation 6 of the Building (Building Code:
+Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+34
+
+--------------------------------------------------------------------------------
+Clause C4—Movement to place of safety
+Provision
+Limit on application
+Functional requirement
+C4.1
+Buildings must be provided with:
+(a)
+effective means of giving warning of fire, and
+(b)
+visibility in escape routes complying with
+clause F6.
+C4.2
+Buildings must be provided with means of escape to
+ensure that there is a low probability of occupants of
+those buildings being unreasonably delayed or
+impeded from moving to a place of safety and that
+those occupants will not suffer injury or illness as a
+result.
+Performance
+C4.3
+The evacuation time must allow occupants of a
+building to move to a place of safety in the event of a
+fire so that occupants are not exposed to any of the
+following:
+(a)
+fractional effective dose of carbon monoxide
+greater than 0.3:
+(b)
+a fractional effective dose of thermal effects
+greater than 0.3:
+(c)
+conditions where, due to smoke obscuration,
+visibility is less than 10 m except in rooms of
+less than 100 m2 where visibility may fall to
+5 m.
+C4.4
+Clause C4.3(b) and (c) do not apply where it is not
+possible to expose more than 1 000 occupants in a
+firecell protected with an automatic fire sprinkler
+system.
+C4.5
+Means of escape to a place of safety in buildings must
+be designed and constructed with regard to the
+likelihood and consequence of failure of any fire
+safety systems.
+Schedule 1 clause C4: replaced, on 10 April 2012, by regulation 6 of the Building (Building Code:
+Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Clause C5—Access and safety for firefighting operations
+Provision
+Limit on application
+Functional requirement
+C5.1
+Buildings must be designed and constructed so that
+there is a low probability of firefighters or other
+emergency services personnel being delayed in or
+impeded from assisting in rescue operations and
+performing firefighting operations.
+C5.2
+Buildings must be designed and constructed so that
+there is a low probability of illness or injury to
+firefighters or other emergency services personnel
+during rescue and firefighting operations.
+Performance
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+35
+
+--------------------------------------------------------------------------------
+Provision
+Limit on application
+C5.3
+Buildings must be provided with access for fire
+service vehicles to a hard-standing from which there
+is an unobstructed path to the building within 20 m
+of:
+Performance requirements
+in clauses C5.3 to C5.8 do
+not apply to backcountry
+huts, detached dwellings,
+within household units in
+multi-unit dwellings, or to
+outbuildings, and ancillary
+buildings.
+(a)
+the firefighter access into the building, and
+(b)
+the inlets to automatic fire sprinkler systems
+or fire hydrant systems, where these are
+installed.
+C5.4
+Access for fire service vehicles in accordance with
+clause C5.3 must be provided to more than 1 side of
+firecells greater than 5,000 m2 in floor area that are
+not protected by an automatic fire sprinkler system.
+C5.5
+Buildings must be provided with the means to deliver
+water for firefighting to all parts of the building.
+C5.6
+Buildings must be designed and constructed in a
+manner that will allow firefighters, taking into
+account the firefighters’ personal protective
+equipment and standard training, to:
+(a)
+reach the floor of fire origin,
+(b)
+search the general area of fire origin, and
+(c)
+protect their means of egress.
+C5.7
+Buildings must be provided with means of giving
+clear information to enable firefighters to:
+(a)
+establish the general location of the fire,
+(b)
+identify the fire safety systems available in the
+building, and
+(c)
+establish the presence of hazardous
+substances or process in the building.
+C5.8
+Means to provide access for and safety of firefighters
+in buildings must be designed and constructed with
+regard to the likelihood and consequence of failure of
+any fire safety systems.
+Schedule 1 clause C5: inserted, on 10 April 2012, by regulation 6 of the Building (Building Code:
+Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Clause C6—Structural stability
+Provision
+Limit on application
+Functional requirement
+C6.1
+Structural systems in buildings must be constructed to
+maintain structural stability during fire so that there
+is:
+(a)
+a low probability of injury or illness to
+occupants,
+(b)
+a low probability of injury or illness to fire
+service personnel during rescue and
+firefighting operations, and
+(c)
+a low probability of direct or consequential
+damage to adjacent household units or other
+property.
+Performance
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+36
+
+--------------------------------------------------------------------------------
+Provision
+Limit on application
+C6.2
+Structural systems in buildings that are necessary for
+structural stability in fire must be designed and
+constructed so that they remain stable during fire and
+after fire when required to protect other property
+taking into account:
+(a)
+the fire severity,
+(b)
+any automatic fire sprinkler systems within
+the buildings,
+(c)
+any other active fire safety systems that affect
+the fire severity and its impact on structural
+stability, and
+(d)
+the likelihood and consequence of failure of
+any fire safety systems that affect the fire
+severity and its impact on structural stability.
+C6.3
+Structural systems in buildings that are necessary to
+provide firefighters with safe access to floors for the
+purpose of conducting firefighting and rescue
+operations must be designed and constructed so that
+they remain stable during and after fire.
+C6.4
+Collapse of building elements that have lesser fire
+resistance must not cause the consequential collapse
+of elements that are required to have a higher fire
+resistance.
+Schedule 1 clause C6: inserted, on 10 April 2012, by regulation 6 of the Building (Building Code:
+Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+37
+
+--------------------------------------------------------------------------------
+Clause D1—Access routes
+Provisions
+Limits on application
+Objective
+D1.1
+The objective of this provision is:
+(a)
+safeguard people from injury
+during movement into, within
+and out of buildings,
+(b)
+safeguard people from injury
+resulting from the movement
+of vehicles into, within and
+out of buildings, and
+(c)
+ensure that people with
+disabilities are able to enter
+and carry out normal activities
+and functions within
+buildings.
+Objective D1.1(c) shall apply only to those
+buildings to which section 47A of the Act
+applies.
+Functional requirement
+D1.2.1 Buildings shall be provided with
+reasonable and adequate access to
+enable safe and easy movement of
+people.
+Requirement D1.2.1 shall not apply to
+ancillary buildings or outbuildings.
+D1.2.2 Where a building is provided with
+loading or parking spaces, they shall
+be constructed to permit safe and easy
+unloading and movement of vehicles,
+and to avoid conflict between
+vehicles and pedestrians.
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+38
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+Performance
+D1.3.1 Access routes shall enable people to:
+(a)
+safely and easily approach the
+main entrance of buildings
+from the apron or construction
+edge of a building,
+(b)
+enter buildings,
+(c)
+move into spaces within
+buildings by such means as
+corridors, doors, stairs, ramps
+and lifts,
+(d)
+manoeuvre and park cars, and
+(e)
+manoeuvre and park delivery
+vehicles required to use the
+loading space.
+D1.3.2 At least one access route shall have
+features to enable people with
+disabilities to:
+(a)
+approach the building from
+the street boundary or, where
+required to be provided, the
+building car park,
+(b)
+have access to the internal
+space served by the principal
+access, and
+(c)
+have access to and within
+those spaces where they may
+be expected to work or visit,
+or which contain facilities for
+personal hygiene as required
+by Clause G1 Personal
+hygiene.
+Performance D1.3.2 shall not apply to
+housing, outbuildings, backcountry huts,
+ancillary buildings, and to industrial
+buildings where no more than 10 people are
+employed.
+D1.3.3 Access routes shall:
+(a)
+have adequate activity space,
+(b)
+be free from dangerous
+obstructions and from any
+projections likely to cause an
+obstruction,
+(c)
+have a safe cross fall, and safe
+slope in the direction of travel,
+(d)
+have adequate slip-resistant
+walking surfaces under all
+conditions of normal use,
+Performance D1.3.3(h) shall not apply within
+industrial buildings, outbuildings and
+ancillary buildings.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+39
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(e)
+include stairs to allow access
+to upper floors irrespective of
+whether an escalator or lift has
+been provided,
+(f)
+have stair treads, and ladder
+treads or rungs which:
+(i)
+provide adequate
+footing, and
+(ii)
+have uniform rise
+within each flight and
+for consecutive flights,
+(g)
+have stair treads with a
+leading edge that can be easily
+seen,
+(h)
+have stair treads which
+prevent children falling
+through or becoming held fast
+between treads, where open
+risers are used,
+(i)
+not contain isolated steps,
+(j)
+have smooth, reachable and
+graspable handrails to provide
+support and to assist with
+movement along a stair or
+ladder,
+(k)
+have handrails of adequate
+strength and rigidity as
+required by Clause B1
+Structure,
+(l)
+have landings of appropriate
+dimensions and at appropriate
+intervals along a stair or ramp
+to prevent undue fatigue,
+(m)
+have landings of appropriate
+dimensions where a door
+opens from or onto a stair,
+ramp or ladder so that the door
+does not create a hazard, and
+(n)
+have any automatically
+controlled doors constructed
+to avoid the risk of people
+becoming caught or being
+struck by moving parts.
+Performance D1.3.3(i) shall not apply with
+detached dwellings or within household units
+of multi-unit dwellings, or to outbuildings
+and ancillary buildings.
+Performance D1.3.3(j) shall not apply to
+isolated steps.
+D1.3.4 An accessible route, in addition to
+the requirement of Clause D1.3.3,
+shall:
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+40
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(a)
+be easy to find, as required by
+Clause F8 Signs,
+(b)
+have adequate activity space
+to enable a person in a
+wheelchair to negotiate the
+route while permitting an
+ambulant person to pass,
+(c)
+include a lift complying with
+Clause D2 Mechanical
+installations for access to
+upper floors where:
+(i)
+buildings are four or
+more storeys high,
+(ii)
+buildings are three
+storeys high and have
+a total design
+occupancy of 50 or
+more persons on the
+two upper floors,
+(iii)
+buildings are two
+storeys high and have
+a total design
+occupancy of 40 or
+more persons on the
+upper floor, or
+(iv)
+an upper floor,
+irrespective of design
+occupancy, is to be
+used for the purposes
+of public reception
+areas of banks, central,
+regional and local
+government offices
+and facilities,
+hospitals, medical and
+dental surgeries, and
+medical, paramedical
+and other primary
+health care centres,
+(d)
+contain no thresholds or
+upstands forming a barrier to
+an unaided wheelchair user,
+(e)
+have means to prevent the
+wheel of a wheelchair
+dropping over the side of the
+accessible route,
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+41
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(f)
+have doors and related
+hardware which are easily
+used,
+(g)
+not include spiral stairs, or
+stairs having open risers,
+(h)
+have stair treads with leading
+edge which is rounded, and
+(i)
+have handrails on both sides
+of the accessible route when
+the slope of the route exceeds
+1 in 20. The handrails shall be
+continuous along both sides of
+the stair, ramp and landing
+except where the handrail is
+interrupted by a doorway.
+D1.3.5 Vehicle spaces and circulation routes
+shall have:
+(a)
+dimensions appropriate to the
+intended use,
+(b)
+appropriate crossfall, and
+slope in the direction of travel,
+(c)
+adequate queuing and
+circulation space, and
+(d)
+adequate sight distances.
+D1.3.6 Vehicle spaces for use by people with
+disabilities, shall, in addition to the
+requirements of Clause D1.3.5, be:
+(a)
+provided in sufficient
+numbers,
+(b)
+located to avoid conflict
+between vehicles and people
+using or moving to or from the
+space, and
+(c)
+easy to find as required by
+Clause F8 Signs.
+Schedule 1 clause D1.1(c) limit on application: amended, on 29 December 2000, by regulation 4(1)
+of the Building Amendment Regulations 2000 (SR 2000/119).
+Schedule 1 clause D1.3.2 limit on application: amended, on 31 October 2008, by regulation 7 of the
+Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+42
+
+--------------------------------------------------------------------------------
+Clause D2—Mechanical installations for access
+Provisions
+Limits on application
+Objective
+D2.1
+The objective of this provision is to:
+(a)
+safeguard people from injury
+and loss of amenity while
+using mechanical installations
+for movement into, within and
+out of buildings,
+(b)
+safeguard maintenance
+personnel from injury while
+servicing mechanical
+installations for access, and
+(c)
+ensure that people with
+disabilities are able to carry
+out normal activities and
+processes within buildings.
+Objective D2.1(c) shall apply only to those
+buildings to which section 47A of the Act
+applies.
+Functional requirement
+D2.2
+Mechanical installations for access
+into, within and out of buildings shall
+provide for the safe and easy
+movement of people, and for the
+safety of maintenance personnel.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+43
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+Performance
+D2.3.1 Mechanical installations for access
+shall:
+(a)
+move people safely, and stop
+and hold as required for the
+normal use of the installation,
+for all loads up to and
+including 25% in excess of the
+rated load,
+(b)
+not produce excessive
+acceleration or deceleration,
+(c)
+be constructed to avoid the
+likelihood of people falling,
+tripping, becoming caught,
+being able to touch or be
+struck by moving parts, sharp
+edges or projections, under
+both normal and reasonably
+foreseeable abnormal
+conditions of use,
+(d)
+be constructed to prevent
+collision between
+components, or between
+components and the building,
+(e)
+have a control system that
+ensures safe abnormal
+operation in the event of
+overloading or failure of any
+single component, and
+(f)
+be capable of being isolated
+for inspection, testing and
+maintenance.
+D2.3.2 Mechanical installations for access
+shall be provided with:
+(a)
+adequate control over normal
+use, to ensure people’s safety
+throughout any operation
+involving starting, stopping or
+changing the direction of
+travel,
+(b)
+notification of position, where
+people are fully enclosed and
+the installation serves more
+than two levels,
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+44
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(c)
+adequate lighting and
+ventilation for both normal
+and emergency use, and
+(d)
+signs as required by Clause F8
+Signs.
+D2.3.3 Mechanical installations for access
+shall, for emergency purposes, be
+provided with a means of:
+(a)
+calling outside help,
+(b)
+releasing people safely,
+(c)
+safeguarding people from
+exposure to hazardous
+situations, and
+(d)
+allowing authorised personnel
+to override the normal running
+procedure and take exclusive
+control of the installation.
+Performance D2.3.3(d) shall not apply to
+installations travelling less than 15 m
+vertically.
+D2.3.4 Potentially dangerous equipment
+shall be located in spaces which:
+(a)
+are secure from unauthorised
+entry and contain only
+equipment associated with the
+installation,
+(b)
+are appropriately sized and
+suitably guarded to provide
+adequate safe working areas
+for maintenance personnel,
+(c)
+are provided with adequate
+power and lighting for
+maintenance, and
+(d)
+have an environment that
+ensures the safe operation of
+the equipment under all likely
+conditions of use.
+D2.3.5 Mechanical installations on
+accessible routes shall:
+(a)
+where the passenger conveyor
+is manually controlled,
+provide:
+(i)
+controls which are
+easily identifiable and
+easy to use,
+(ii)
+adequate notification
+that the passenger
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+45
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+conveyor has
+registered a
+summoning call, and
+(iii)
+adequate notification
+that the passenger
+conveyor has arrived,
+and of its future
+direction of travel,
+(b)
+where the passenger conveyor
+is fully enclosed and serves
+more than two levels, provide
+an adequate means of
+informing occupants of their
+location,
+(c)
+where appropriate, have doors
+which:
+(i)
+are power operated,
+(ii)
+are readily
+distinguishable from
+their surroundings, and
+(iii)
+where automatic,
+remain open
+sufficiently long to
+enable people with
+disabilities to pass
+through, and
+(d)
+have handrails within the
+passenger conveyor.
+Schedule 1 clause D2.1(c) limit on application: amended, on 29 December 2000, by regulation 4(1)
+of the Building Amendment Regulations 2000 (SR 2000/119).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+46
+
+--------------------------------------------------------------------------------
+Clause E1—Surface water
+Provisions
+Limits on application
+Objective
+E1.1
+The objective of this provision is to:
+(a)
+safeguard people from injury
+or illness, and other property
+from damage, caused by
+surface water, and
+(b)
+protect the outfalls of drainage
+systems.
+Functional requirement
+E1.2
+Buildings and sitework shall be
+constructed in a way that protects
+people and other property from the
+adverse effects of surface water.
+Performance
+E1.3.1 Except as otherwise required under
+the Resource Management Act 1991
+for the protection of other property,
+surface water, resulting from an event
+having a 10% probability of occurring
+annually and which is collected or
+concentrated by buildings or sitework,
+shall be disposed of in a way that
+avoids the likelihood of damage or
+nuisance to other property.
+E1.3.2 Surface water, resulting from an
+event having a 2% probability of
+occurring annually, shall not enter
+buildings.
+Performance E1.3.2 shall apply only to
+housing, communal residential and
+communal non-residential buildings.
+E1.3.3 Drainage systems for the disposal of
+surface water shall be constructed to:
+(a)
+convey surface water to an
+appropriate outfall using
+gravity flow where possible,
+(b)
+avoid the likelihood of
+blockages,
+(c)
+avoid the likelihood of
+leakage, penetration by roots,
+or the entry of ground water
+where pipes or lined channels
+are used,
+(d)
+provide reasonable access for
+maintenance and clearing
+blockages,
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+47
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(e)
+avoid the likelihood of
+damage to any outfall, in a
+manner acceptable to the
+network utility operator, and
+(f)
+avoid the likelihood of
+damage from superimposed
+loads or normal ground
+movements.
+Schedule 1 clause E1.3.1: amended, on 23 December 2023, by section 6 of the Resource Manage‐
+ment (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Consent‐
+ing) Act 2023 (2023 No 68).
+Schedule 1 clause E1.3.1: amended, on 3 January 2002, by regulation 3(7) of the Building Amend‐
+ment Regulations 2001 (SR 2001/374).
+Schedule 1 clause E1.3.1: amended, on 22 December 1994, by regulation 4 of the Building Regula‐
+tions 1992, Amendment No 1 (SR 1994/263).
+Schedule 1 clause E1.3.2: amended, on 3 January 2002, by regulation 3(8) of the Building Amend‐
+ment Regulations 2001 (SR 2001/374).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+48
+
+--------------------------------------------------------------------------------
+Clause E2—External moisture
+Provisions
+Limits on application
+Objective
+E2.1
+The objective of this provision is to
+safeguard people from illness or
+injury that could result from external
+moisture entering the building.
+Functional requirement
+E2.2
+Buildings must be constructed to
+provide adequate resistance to
+penetration by, and the accumulation
+of, moisture from the outside.
+Requirement E2.2 does not apply to
+buildings (for example, certain bus shelters,
+and certain buildings used for horticulture or
+for equipment for washing motor vehicles
+automatically) if moisture from the outside
+penetrating them, or accumulating within
+them, or both, is unlikely to impair
+significantly all or any of their amenity,
+durability, and stability.
+Performance
+E2.3.1 Roofs must shed precipitated
+moisture. In locations subject to
+snowfalls, roofs must also shed
+melted snow.
+E2.3.2 Roofs and exterior walls must
+prevent the penetration of water that
+could cause undue dampness, damage
+to building elements, or both.
+E2.3.3 Walls, floors, and structural elements
+in contact with, or in close proximity
+to, the ground must not absorb or
+transmit moisture in quantities that
+could cause undue dampness, damage
+to building elements, or both.
+E2.3.4 Building elements susceptible to
+damage must be protected from the
+adverse effects of moisture entering
+the space below suspended floors.
+E2.3.5 Concealed spaces and cavities in
+buildings must be constructed in a
+way that prevents external moisture
+being accumulated or transferred and
+causing condensation, fungal growth,
+or the degradation of building
+elements.
+E2.3.6 Excess moisture present at the
+completion of construction must be
+capable of being dissipated without
+permanent damage to building
+elements.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+49
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+E2.3.7 Building elements must be
+constructed in a way that makes due
+allowance for the following:
+(a)
+the consequences of failure:
+(b)
+the effects of uncertainties
+resulting from construction or
+from the sequence in which
+different aspects of
+construction occur:
+(c)
+variation in the properties of
+materials and in the
+characteristics of the site.
+Schedule 1 clause E2: substituted, on 21 June 2007, by regulation 4 of the Building Amendment
+Regulations 2007 (SR 2007/124).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+50
+
+--------------------------------------------------------------------------------
+Clause E3—Internal moisture
+Provisions
+Limits on application
+Objective
+E3.1
+The objective of this provision is to—
+(a)
+safeguard people against
+illness, injury, or loss of
+amenity that could result from
+accumulation of internal
+moisture; and
+(b)
+protect household units and
+other property from damage
+caused by free water from
+another household unit in the
+same building.
+Functional requirement
+E3.2
+Buildings must be constructed to
+avoid the likelihood of—
+(a)
+fungal growth or the
+accumulation of contaminants
+on linings and other building
+elements; and
+(b)
+free water overflow
+penetrating to an adjoining
+household unit; and
+(c)
+damage to building elements
+caused by the presence of
+moisture.
+Performance
+E3.3.1 An adequate combination of thermal
+resistance, ventilation, and space
+temperature must be provided to all
+habitable spaces, bathrooms,
+laundries, and other spaces where
+moisture may be generated or may
+accumulate.
+Performance E3.3.1 does not apply to
+communal non-residential, commercial,
+industrial, outbuildings, or ancillary
+buildings.
+E3.3.2 Free water from accidental overflow
+from sanitary fixtures or sanitary
+appliances must be disposed of in a
+way that avoids loss of amenity or
+damage to household units or other
+property.
+E3.3.3 Floor surfaces of any space
+containing sanitary fixtures or
+sanitary appliances must be
+impervious and easily cleaned.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+51
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+E3.3.4 Wall surfaces adjacent to sanitary
+fixtures or sanitary appliances must
+be impervious and easily cleaned.
+E3.3.5 Surfaces of building elements likely
+to be splashed or become
+contaminated in the course of the
+intended use of the building, must be
+impervious and easily cleaned.
+E3.3.6 Surfaces of building elements likely
+to be splashed must be constructed in
+a way that prevents water splash from
+penetrating behind linings or into
+concealed spaces.
+Schedule 1 clause E3: substituted, on 14 October 2004, by regulation 3 of the Building Amendment
+Regulations 2004 (SR 2004/317).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+52
+
+--------------------------------------------------------------------------------
+Clause F1—Hazardous agents on site
+Provisions
+Limits on application
+Objective
+F1.1
+The objective of this provision is to
+safeguard people from injury or
+illness caused by hazardous agents or
+contaminants on a site.
+Functional requirement
+F1.2
+Buildings shall be constructed to
+avoid the likelihood of people within
+the building being adversely affected
+by hazardous agents or contaminants
+on the site.
+Performance
+F1.3.1 Sites shall be assessed to determine
+the presence and potential threat of
+any hazardous agents or
+contaminants.
+F1.3.2 The likely effect of any hazardous
+agent or contaminant on people shall
+be determined taking account of:
+(a)
+the intended use of the
+building,
+(b)
+the nature, potency or toxicity
+of the hazardous agent or
+contaminant, and
+(c)
+the protection afforded by the
+building envelope and
+building systems.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+53
+
+--------------------------------------------------------------------------------
+Clause F2—Hazardous building materials
+Provisions
+Limits on application
+Objective
+F2.1
+The objective of this provision is to
+safeguard people from injury and
+illness caused by exposure to
+hazardous building materials.
+Functional requirement
+F2.2
+Building materials which are
+potentially hazardous, shall be used
+in ways that avoid undue risk to
+people.
+Performance
+F2.3.1 The quantities of gas, liquid,
+radiation or solid particles emitted by
+materials used in the construction of
+buildings, shall not give rise to
+harmful concentrations at the surface
+of the material where the material is
+exposed, or in the atmosphere of any
+space.
+F2.3.2 Transparent panels capable of being
+mistaken for an unimpeded path of
+travel shall be marked to make them
+visible.
+Performance F2.3.2 does not apply to
+housing
+F2.3.3 Glass or other brittle materials with
+which people are likely to come into
+contact shall:
+(a)
+if broken on impact, break in a
+way which is unlikely to cause
+injury, or
+(b)
+resist a reasonably foreseeable
+impact without breaking, or
+(c)
+be protected from impact.
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+54
+
+--------------------------------------------------------------------------------
+Clause F3—Hazardous substances and processes
+Provisions
+Limits on application
+Objective
+F3.1
+The objective of this provision is to
+safeguard people from injury or
+illness, and other property from
+damage, caused by hazardous
+substances or processes in buildings.
+Functional requirement
+F3.2
+Buildings where hazardous
+substances are stored and hazardous
+processes undertaken, shall be
+constructed to provide adequate
+protection to people and to other
+property.
+Performance
+F3.3
+Spaces in buildings where hazardous
+substances are stored, handled or
+used, or where hazardous processes
+are undertaken, shall be located and
+constructed to protect people, and
+other property, under both normal
+and reasonably foreseeable abnormal
+conditions, and shall be provided
+with:
+(a)
+means of restricting
+unauthorised access,
+(b)
+means of preventing
+hazardous substances, or
+other materials unacceptable
+to the network utility operator,
+from entering sewers or public
+drains,
+(c)
+means of allowing the
+harmless release of pressure
+where there is a significant
+risk of explosion occurring,
+(d)
+protected ignition sources
+where flammable or explosive
+goods are stored,
+(e)
+means of rendering harmless
+by ventilation, containment,
+dilution, or chemical or
+biological action, any
+radioactive, toxic or
+flammable vapours, gases or
+materials which may escape
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+55
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+from pipes, vessels or
+containers,
+(f)
+impervious, easily cleaned
+surface finishes on building
+elements likely to be splashed
+or become contaminated in the
+course of the intended use of
+the building, and
+(g)
+signs as required by Clause F8
+Signs.
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+56
+
+--------------------------------------------------------------------------------
+Clause F4—Safety from falling
+Provisions
+Limits on application
+Objective
+F4.1
+The objective of this provision is to
+safeguard people from injury caused
+by falling.
+Functional requirement
+F4.2
+Buildings shall be constructed to
+reduce the likelihood of accidental
+fall.
+Performance
+F4.3.1 Where people could fall 1 metre or
+more from an opening in the external
+envelope or floor of a building, or
+from a sudden change of level within
+or associated with a building, a
+barrier shall be provided.
+Performance F4.3.1 shall not apply where
+such a barrier would be incompatible with
+the intended use of an area, or to temporary
+barriers on construction sites where the
+possible fall is less than 3 metres, or to
+buildings providing pedestrian access in
+remote locations where the route served
+presents similar natural hazards.
+F4.3.2 Roofs with permanent access shall
+have barriers provided.
+F4.3.3 [Revoked]
+F4.3.4 Barriers shall:
+(a)
+be continuous and extend for
+the full extent of the hazard,
+(b)
+be of appropriate height,
+(c)
+be constructed with adequate
+rigidity,
+(d)
+be of adequate strength to
+withstand the foreseeable
+impact of people and, where
+appropriate, the static pressure
+of people pressing against
+them,
+(e)
+be constructed to prevent
+people from falling through
+them, and
+(f)
+[Revoked]
+(g)
+restrict the passage of children
+under 6 years of age when
+provided to guard a change of
+level in areas likely to be
+frequented by them.
+(h)
+be constructed so that they are
+not readily able to be used as
+seats.
+Performance F4.3.4(h) does not apply to
+housing.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+57
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+F4.3.5 [Revoked]
+Schedule 1 clause F4.3.1 limit on application: amended, on 3 January 2002, by regulation 3(9) of the
+Building Amendment Regulations 2001 (SR 2001/374).
+Schedule 1 clause F4.3.3: revoked, on 1 January 2017, by section 20 of the Building (Pools) Amend‐
+ment Act 2016 (2016 No 71).
+Schedule 1 clause F4.3.4(f): revoked, on 1 January 2017, by section 20 of the Building (Pools)
+Amendment Act 2016 (2016 No 71).
+Schedule 1 clause F4.3.4(g): added, on 22 December 1994, by regulation 5(2)(c) of the Building
+Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1 clause F4.3.4(h): added, on 21 June 2007, by regulation 5 of the Building Amendment
+Regulations 2007 (SR 2007/124).
+Schedule 1 clause F4.3.5: revoked, on 1 January 2017, by section 20 of the Building (Pools) Amend‐
+ment Act 2016 (2016 No 71).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+58
+
+--------------------------------------------------------------------------------
+Clause F5—Construction and demolition hazards
+Provisions
+Limits on application
+Objective
+F5.1
+The objective of this provision is to
+safeguard people from injury, and
+other property from damage, caused
+by construction or demolition site
+hazards.
+Functional requirement
+F5.2
+Construction and demolition work on
+buildings shall be performed in a
+manner that avoids the likelihood of:
+(a)
+objects falling onto people on
+or off the site,
+(b)
+objects falling on property off
+the site,
+(c)
+other hazards arising on the
+site affecting people off the
+site and other property, and
+(d)
+unauthorised entry of children
+to hazards on the site.
+Performance
+F5.3.1 Suitable construction methods shall
+be used to avoid the likelihood of
+tools or materials falling onto places
+where people might be present.
+F5.3.2 Where construction or demolition
+work presents a hazard in places to
+which the public has access, barriers
+shall be provided and shall:
+(a)
+be of appropriate height and
+construction to prevent site
+hazards from harming traffic
+or passersby,
+(b)
+be difficult to climb,
+(c)
+have no opening other than
+those approved by the
+territorial authority for access
+and viewing,
+(d)
+have no gates or doors which
+project beyond the site when
+opened,
+(e)
+contain no projection that
+would be a hazard to traffic or
+people, and
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+59
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(f)
+be clearly marked where the
+barrier itself may otherwise
+present a hazard to traffic or
+passersby.
+F5.3.3 Where a construction or demolition
+site contains any hazard which might
+be expected to attract the
+unauthorised entry of children, the
+hazard shall be enclosed to restrict
+access by children.
+F5.3.4 Suitable barriers shall be constructed
+to provide a safe route for people
+where lifting equipment creates a risk
+of accident from objects falling on a
+place of public access, or where a
+similar risk results from the height at
+which construction or demolition
+work is being carried out.
+Schedule 1 second clause F5 number: revoked, on 22 December 1994, by regulation 6 of the Build‐
+ing Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1 clause F5.2 number: inserted, on 22 December 1994, by regulation 6 of the Building
+Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+60
+
+--------------------------------------------------------------------------------
+Clause F6—Visibility in escape routes
+Provisions
+Limits on application
+Objective
+F6.1
+The objective of this provision is to
+help safeguard people from injury in
+escape routes during failure of the
+main lighting.
+Functional requirement
+F6.2
+Specified features in escape routes
+must be made reasonably visible by
+lighting systems, other systems, or
+both, during failure of the main
+lighting.
+Requirement F6.2 does not apply to detached
+dwellings, household units within multi-unit
+dwellings, outbuildings, backcountry huts, or
+ancillary buildings.
+Performance
+F6.3.1 Specified features in escape routes
+must, when the systems for visibility
+are at their design level, be
+reasonably visible.
+Performance F6.3.1 does not apply to
+specified features in the initial 20 metres of
+an escape route if the risk of injury, or
+impediment to movement of people, due to
+the specified features not being visible is low
+(for example, because people are familiar
+with the escape route, the escape route is
+level, and people do not require assistance to
+escape).
+F6.3.2 The systems for visibility must
+operate to the following percentages
+of their design levels within the
+following times after failure of the
+main lighting:
+(a)
+80% in 0.5 seconds in
+locations (examples of which
+are given by performance
+F6.3.3) where there is a high
+risk of injury due to delay in
+operation of the systems for
+visibility; and
+(b)
+10% in 0.5 seconds, and 80%
+in 30 seconds, in stairs and in
+locations that are unfamiliar to
+users; and
+(c)
+10% in 20 seconds, and 80%
+in 60 seconds, in all other
+locations.
+F6.3.3 Examples of locations (referred to in
+performance F6.3.2(a)) where there is
+a high risk of injury due to delay in
+operation of the systems for visibility
+include:
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+61
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(a)
+areas where dangerous
+machinery is installed:
+(b)
+areas where hazardous
+processes take place:
+(c)
+clinical areas of hospitals:
+(d)
+prisons and other buildings in
+which people are detained:
+(e)
+any part of an escape route
+designed for use at any time
+by more than 250 people.
+F6.3.4 The systems for visibility must
+operate continuously in buildings or
+parts of buildings in the following
+risk groups for the following periods
+after failure of the main lighting:
+(a)
+risk group A, until restoration
+of the main lighting system:
+(b)
+risk group B, 90 minutes:
+(c)
+risk group C, 30 minutes.
+F6.3.5 Despite performance F6.3.4, if a
+building or part of a building falls
+into both risk group A and risk group
+B, the systems for visibility must
+operate for whichever is the longer of
+the periods specified in performance
+F6.3.4(a) and (b).
+F6.3.6 Signs to indicate escape routes must
+be provided as required by Clause F8
+Signs.
+Schedule 1 clause F6: substituted, on 21 June 2007, by regulation 6(1) of the Building Amendment
+Regulations 2007 (SR 2007/124).
+Schedule 1 clause F6.2 limit on application: amended, on 31 October 2008, by regulation 8 of the
+Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+62
+
+--------------------------------------------------------------------------------
+Clause F7—Warning systems
+Provisions
+Limits on application
+Objective
+F7.1
+The objective of this provision is to
+safeguard people from injury or
+illness due to lack of awareness of an
+emergency.
+Functional requirement
+F7.2
+Buildings shall be provided with
+appropriate means of warning people
+to escape to a safe place in an
+emergency.
+Performance
+F7.3
+[Revoked]
+F7.3.1 A means of warning must alert
+people to the emergency in adequate
+time for them to reach a safe place.
+Performance F7.3 does not apply to
+outbuildings, backcountry huts, or ancillary
+buildings.
+F7.3.2 Appropriate means of detection and
+warning for fire must be provided
+within each household unit.
+F7.3.3 Appropriate means of warning for
+fire and other emergencies must be
+provided in buildings as necessary to
+satisfy the other performance
+requirements of this code.
+Schedule 1 clause F7.2: amended, on 24 April 2003, by regulation 3(1) of the Building Amendment
+Regulations 2003 (SR 2003/61).
+Schedule 1 clause F7.3: revoked, on 24 April 2003, by regulation 3(2) of the Building Amendment
+Regulations 2003 (SR 2003/61).
+Schedule 1 clause F7.3.1: added, on 24 April 2003, by regulation 3(2) of the Building Amendment
+Regulations 2003 (SR 2003/61).
+Schedule 1 clause F7.3.1 limit on application: amended, on 31 October 2008, by regulation 9 of the
+Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1 clause F7.3.2: added, on 24 April 2003, by regulation 3(2) of the Building Amendment
+Regulations 2003 (SR 2003/61).
+Schedule 1 clause F7.3.3: added, on 24 April 2003, by regulation 3(2) of the Building Amendment
+Regulations 2003 (SR 2003/61).
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+63
+
+--------------------------------------------------------------------------------
+Clause F8—Signs
+Provision
+Limit on application
+Objective
+Objective F8.1(c) applies
+only to those buildings to
+which section 118 of the
+Building Act 2004 applies.
+F8.1
+The objective of this provision is to:
+(a)
+safeguard people from injury or illness
+resulting from inadequate identification of
+escape routes, or of hazards within or about
+the building,
+(b)
+safeguard people from loss of amenity due to
+inadequate direction, and
+(c)
+ensure that people with disabilities are able to
+carry out normal activities and processes
+within buildings.
+Functional requirement
+F8.2
+Signs must be provided in and about buildings to
+identify:
+Requirement F8.2 does not
+apply to detached
+dwellings, or within
+household units in multi-
+unit dwellings.
+(a)
+escape routes,
+(b)
+emergency-related safety features,
+(c)
+potential hazards, and
+(d)
+accessible routes and facilities for people with
+disabilities.
+Performance
+F8.3.1
+Signs must be clearly visible and readily
+understandable under all conditions of foreseeable
+use, including emergency conditions.
+F8.3.2
+Signs identifying potential hazards must be provided
+and located so that people encounter the signs before
+encountering the potential hazard.
+F8.3.3
+Signs to facilitate escape to a place of safety must be
+provided and
+(a)
+be located to identify the escape routes, and
+(b)
+continue to meet the performance
+requirements in clause F8.3.1 during failure of
+the main lighting for the period required by
+performance F6.3.4 and performance F6.3.5.
+F8.3.4
+Signs must be provided and located to identify
+accessible routes and facilities provided for people
+with disabilities.
+F8.3.5
+Accessible routes must be identified with the
+International Symbol of Access.
+Schedule 1 clause F8: replaced, on 10 April 2012, by regulation 7 of the Building (Building Code:
+Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+64
+
+--------------------------------------------------------------------------------
+Clause F9—Means of restricting access to residential pools
+Provisions
+Limits on application
+Objective
+F9.1
+The objective of this provision is to
+prevent injury or death to young
+children involving residential pools.
+Functional requirement
+F9.2
+Residential pools with a maximum
+depth of water of 400 mm or more
+that are filled or partly filled with
+water must have means of
+restricting access that prevents
+unsupervised access by a child
+under 5 years of age.
+Performance
+F9.3.1 Residential pools must have or be
+provided with physical barriers that
+restrict access to the pool or the
+immediate pool area by
+unsupervised young children (ie,
+under 5 years of age).
+In the case of a small heated pool, the
+means of restricting access referred to in
+Performance F9.3.1 need only restrict
+access to the pool when the pool is not in
+use.
+F9.3.2 Barriers must either—
+(a)
+surround the pool (and may
+enclose the whole or part of
+the immediate pool area); or
+(b)
+in the case of a small heated
+pool, cover the pool itself.
+Performance F9.3.2(b) applies only to those
+small heated pools where the top surface of
+every wall of the pool is at all points not
+less than 760 mm above the adjacent floor
+or ground and the walls of the pool inhibit
+climbing.
+F9.3.3 A barrier surrounding a pool must
+have no permanent objects or
+projections on the outside that could
+assist children in negotiating the
+barrier.
+Any gates must—
+(a)
+open away from the pool;
+and
+(b)
+not be able to be readily
+opened by children; and
+(c)
+automatically return to the
+closed position after use.
+F9.3.4 Where a building forms all or part
+of an immediate pool area
+barrier,—
+(a)
+doors between the building
+and the immediate pool area
+must not be able to be
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+65
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+readily opened by children,
+and must either—
+(i)
+emit an audible
+warning when the
+door is open; or
+(ii)
+close automatically
+after use:
+(b)
+windows opening from a
+building into the immediate
+pool area must be
+constructed or positioned to
+restrict the passage of
+children.
+F9.3.5 Where a cover is provided as a
+barrier to a small heated pool, it
+must—
+(a)
+restrict the entry of children
+when closed; and
+(b)
+be able to withstand a
+reasonably foreseeable load;
+and
+(c)
+be able to be readily
+returned to the closed
+position; and
+(d)
+have signage indicating its
+child safety features.
+Schedule 1 clause F9: inserted, on 1 January 2017, by section 20 of the Building (Pools) Amendment
+Act 2016 (2016 No 71).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+66
+
+--------------------------------------------------------------------------------
+Clause G1—Personal hygiene
+Provisions
+Limits on application
+Objective
+G1.1
+The objective of this provision is to:
+(a)
+safeguard people from illness
+caused by infection or
+contamination,
+(b)
+safeguard people from loss of
+amenity arising from the
+absence of appropriate
+personal hygiene facilities,
+and
+(c)
+ensure people with disabilities
+are able to carry out normal
+activities and processes within
+buildings.
+Objective G1.1(c) shall apply only to those
+buildings to which section 47A of the Act
+applies.
+Functional requirement
+G1.2
+Buildings shall be provided with
+appropriate spaces and facilities for
+personal hygiene.
+Performance
+G1.3.1 Sanitary fixtures shall be provided in
+sufficient number and be appropriate
+for the people who are intended to use
+them.
+G1.3.2 Sanitary fixtures shall be located,
+constructed and installed to:
+(a)
+facilitate sanitation,
+(b)
+avoid risk of food
+contamination,
+(c)
+avoid harbouring dirt or
+germs,
+(d)
+provide appropriate privacy,
+(e)
+avoid affecting occupants of
+adjacent spaces from the
+presence of unpleasant odours,
+accumulation of offensive
+matter, or other source of
+annoyance,
+(f)
+allow effective cleaning,
+(g)
+discharge to a plumbing and
+drainage system as required
+by Clause G13 Foul water
+when water-borne disposal is
+used, and
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+67
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(h)
+provide a healthy safe disposal
+system when non-water-borne
+disposal is used.
+G1.3.3 Facilities for personal hygiene shall
+be provided in convenient locations.
+G1.3.4 Personal hygiene facilities provided
+for people with disabilities shall be
+accessible.
+Performance G1.3.4 shall not apply to
+housing, outbuildings, backcountry huts,
+ancillary buildings, and to industrial
+buildings where no more than 10 people are
+employed.
+Schedule 1 clause G1.1(c) limit on application: amended, on 29 December 2000, by regulation 4(1)
+of the Building Amendment Regulations 2000 (SR 2000/119).
+Schedule 1 clause G1.3.4 limit on application: amended, on 31 October 2008, by regulation 10 of the
+Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+68
+
+--------------------------------------------------------------------------------
+Clause G2—Laundering
+Provisions
+Limits on application
+Objective
+G2.1
+The objective of this provision is to
+ensure:
+(a)
+adequate amenities for people
+to do laundering, and
+(b)
+that people with disabilities
+are able to carry out normal
+activities and processes within
+buildings.
+Objective G2.1(b) shall apply to those
+buildings to which section 47A of the Act
+applies.
+Functional requirement
+G2.2
+Buildings shall be provided with
+adequate space and facilities for
+laundering.
+Requirement G2.2 shall apply only to
+housing, old people’s homes, early childhood
+centres, camping grounds and work camps.
+Performance
+G2.3.1 Facilities shall have capacity for the
+intended use, and consist of fixtures,
+or space and services for appliances.
+G2.3.2 Space shall be adequate in size to
+provide for the installation and use of
+fixtures or appliances.
+G2.3.3 Space and facilities shall be provided
+within each accommodation unit or
+may be grouped elsewhere in a
+convenient location.
+G2.3.4 Accessible facilities shall be provided
+for people with disabilities.
+Performance G2.3.4 shall apply only to
+camping grounds.
+Schedule 1 clause G2.1(b) limit on application: amended, on 29 December 2000, by regulation 4(1)
+of the Building Amendment Regulations 2000 (SR 2000/119).
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+69
+
+--------------------------------------------------------------------------------
+Clause G3—Food preparation and prevention of contamination
+Provisions
+Limits on application
+Objective
+G3.1
+The objective of this provision is to:
+(a)
+safeguard people from illness
+due to contamination,
+(b)
+enable hygienic food
+preparation without loss of
+amenity, and
+(c)
+ensure that people with
+disabilities are able to carry
+out normal activities and
+processes within buildings.
+Objective G3.1(c) shall apply only to those
+buildings to which section 47A of the Act
+applies.
+Functional requirement
+G3.2.1 Buildings shall be provided with
+space and facilities for the hygienic
+storage, preparation and cooking of
+food, that are adequate for the
+intended use of the building.
+Requirement G3.2.1 shall apply to housing,
+work camps, old people’s homes and early
+childhood centres, and where appropriate
+shall also apply to commercial and industrial
+buildings whose intended uses include the
+manufacture, preparation, packaging or
+storage of food.
+G3.2.2 Buildings used for the storage,
+manufacture or processing of food,
+including animal products, shall be
+constructed to safeguard the contents
+from contamination.
+G3.2.3 Buildings used for the medical
+treatment of humans or animals, or
+the reception of dead bodies, shall be
+constructed to avoid the spread of
+contamination from the building
+contents.
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+70
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+Performance
+G3.3.1 Food preparation facilities shall be
+hygienic and include:
+(a)
+space for a refrigerator, or a
+perishable food storage area
+capable of being cooled and
+protected from vermin and
+insects,
+(b)
+means for food rinsing, utensil
+washing and waste water
+disposal,
+(c)
+means for cooking food, and
+(d)
+space and a surface for food
+preparation.
+Performance G3.3.1(a) and (b) shall apply to
+housing, work camps, old people’s homes,
+early childhood centres and commercial or
+industrial buildings whose intended uses
+include the handling of perishable food.
+Performance G3.3.1(c) shall apply to
+housing, work camps, old people’s homes
+and early childhood centres.
+Performance G3.3.1(d) shall apply to
+housing, work camps, old people’s homes
+and early childhood centres.
+G3.3.2 Spaces for food preparation and
+utensil washing shall have:
+(a)
+interior linings and work
+surfaces shall be impervious
+and easily cleaned,
+(b)
+all building elements
+constructed with materials
+which are free from hazardous
+substances which could cause
+contamination to the building
+contents, and
+(c)
+exposed building elements
+located and shaped to avoid
+the accumulation of dirt.
+Performance G3.3.2(b) shall apply to
+housing, work camps, old people’s homes
+and early childhood centres, and where
+appropriate shall also apply to commercial
+and industrial buildings whose intended uses
+include the manufacture, preparation,
+packaging or storage of food.
+Performance G3.3.2(c) shall not apply to
+housing.
+G3.3.3 An adequate energy supply shall be
+provided, appropriately located for
+use by cooking and refrigeration
+appliances.
+G3.3.4 Space and facilities shall be provided
+within each household unit, or
+grouped elsewhere in a convenient
+location.
+G3.3.5 Where facilities are provided for
+people with disabilities they shall be
+accessible.
+Performance G3.3.5 shall apply only to
+camping grounds and accessible
+accommodation units in communal
+residential buildings.
+G3.3.6 Spaces in buildings shall be
+protected from the likelihood of
+contamination or vermin entering
+areas used for the storage, processing
+or preparation of food, and shall have
+Performance G3.3.6 shall apply to
+commercial or industrial buildings whose
+intended uses include the handling of
+perishable food, the medical treatment of
+humans or animals, the slaughter of animals
+or the reception of dead bodies.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+71
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+a means of preventing contamination
+spreading from these areas to other
+spaces.
+Schedule 1 clause G3.1(c) limit on application: amended, on 29 December 2000, by regulation 4(1)
+of the Building Amendment Regulations 2000 (SR 2000/119).
+Schedule 1 second clause G3.2.2 number: revoked, on 22 December 1994, by regulation 9 of the
+Building Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1 G3.2.3 number: inserted, on 22 December 1994, by regulation 9 of the Building Regula‐
+tions 1992, Amendment No 1 (SR 1994/263).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+72
+
+--------------------------------------------------------------------------------
+Clause G4—Ventilation
+Provisions
+Limits on application
+Objective
+G4.1
+The objective of this provision is to
+safeguard people from illness or loss
+of amenity due to lack of fresh air.
+Functional requirement
+G4.2
+Spaces within buildings shall be
+provided with adequate ventilation
+consistent with their maximum
+occupancy and their intended use.
+Performance
+G4.3.1 Spaces within buildings shall have
+means of ventilation with outdoor air
+that will provide an adequate number
+of air changes to maintain air purity.
+G4.3.2 Mechanical air-handling systems
+shall be constructed and maintained
+in a manner that prevents harmful
+bacteria, pathogens and allergens
+from multiplying within them.
+G4.3.3 Buildings shall have a means of
+collecting or otherwise removing the
+following products from the spaces in
+which they are generated:
+(a)
+cooking fumes and odours,
+(b)
+moisture from laundering,
+utensil washing, bathing and
+showering,
+(c)
+odours from sanitary and
+waste storage spaces,
+(d)
+gaseous by-products and
+excessive moisture from
+commercial or industrial
+processes,
+(e)
+poisonous fumes and gases,
+(f)
+flammable fumes and gases,
+(g)
+airborne particles,
+(h)
+bacteria, viruses or other
+pathogens, or
+(i)
+products of combustion.
+G4.3.4 Contaminated air shall be disposed
+of in a way which avoids creating a
+nuisance or hazard to people and
+other property.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+73
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+G4.3.5 The quantities of air supplied for
+ventilation shall meet the additional
+demands of any fixed combustion
+appliances.
+Schedule 1 clause G4.2: amended, on 11 September 1997, by regulation 3(1) of the Building Amend‐
+ment Regulations 1997 (SR 1997/156).
+Schedule 1 clause G4.3.3(b): amended, on 11 September 1997, by regulation 3(2) of the Building
+Amendment Regulations 1997 (SR 1997/156).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+74
+
+--------------------------------------------------------------------------------
+Clause G5—Interior environment
+Provisions
+Limits on application
+Objective
+G5.1
+The objective of this provision is to:
+(a)
+safeguard people from illness
+caused by low air temperature,
+(b)
+safeguard people from injury
+or loss of amenity caused by
+inadequate activity space,
+(c)
+safeguard people from injury
+caused by unsafe installations,
+and
+(d)
+ensure that people with
+disabilities are able to carry
+out normal activities and
+processes within buildings.
+Objective G5.1(d) shall apply to those
+buildings to which section 47A of the Act
+applies.
+Functional requirement
+G5.2.1 Buildings shall be constructed to
+provide:
+(a)
+an adequate, controlled
+interior temperature,
+(b)
+adequate activity space for the
+intended use, and
+(c)
+accessible spaces and
+facilities.
+Requirement G5.2.1(a) shall apply only to
+habitable spaces, bathrooms and recreation
+rooms in old people’s homes and early
+childhood centres.
+Requirement G5.2.1(b) shall apply only to
+old people’s homes.
+Requirement G5.2.1(c) shall apply only to
+communal residential, communal non-
+residential, and commercial buildings.
+G5.2.2 Heating appliances in buildings shall
+be installed in a way that reduces the
+likelihood of injury.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+75
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+Performance
+G5.3.1 Habitable spaces, bathrooms and
+recreation rooms shall have provision
+for maintaining the internal
+temperature at no less than 16°C
+measured at 750 mm above floor
+level, while the space is adequately
+ventilated.
+Performance G5.3.1 shall apply only to old
+people’s homes and early childhood centres.
+G5.3.2 Heating appliances, and any attached
+cables, pipes or other fittings shall be
+securely fixed in place.
+Performance G5.3.2 shall apply only to old
+people’s homes and early childhood centres.
+G5.3.3 Habitable spaces shall have
+sufficient space for activity, furniture,
+and sanitary and mobility aids.
+Performance G5.3.3 shall apply only to old
+people’s homes.
+G5.3.4 Where reception counters or desks
+are provided for public use, at least
+one counter or desk shall be
+accessible.
+Performance G5.3.4 applies only to
+communal residential, communal non-
+residential, and commercial buildings.
+G5.3.5 Buildings shall be provided with
+listening systems which enable
+enhanced hearing by people with
+hearing aids.
+Performance G5.3.5 applies only to:
+(a)
+communal non-residential assembly
+spaces occupied by more than 250
+people, and
+(b)
+any theatre, cinema, or public hall,
+and
+(c)
+assembly spaces in old people’s
+homes occupied by more than 20
+people.
+G5.3.6 Enhanced listening systems shall be
+identified by signs complying with
+Clause F8 Signs.
+Schedule 1 clause G5.1(d) limit on application: amended, on 29 December 2000, by regulation 4(1)
+of the Building Amendment Regulations 2000 (SR 2000/119).
+Schedule 1 clause G5.2.1(b) limit on application: amended, on 22 December 1994, by regulation 10
+of the Building Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+76
+
+--------------------------------------------------------------------------------
+Clause G6—Airborne and impact sound
+Provisions
+Limits on application
+Objective
+G6.1
+The objective of this provision is to
+safeguard people from illness or loss
+of amenity as a result of undue noise
+being transmitted between abutting
+occupancies.
+Functional requirement
+G6.2
+Building elements which are common
+between occupancies, shall be
+constructed to prevent undue noise
+transmission from other occupancies
+or common spaces, to the habitable
+spaces of household units.
+Performance
+G6.3.1 The Sound Transmission Class of
+walls, floors and ceilings, shall be no
+less than 55.
+G6.3.2 The Impact Insulation Class of floors
+shall be no less than 55.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+77
+
+--------------------------------------------------------------------------------
+Clause G7—Natural light
+Provisions
+Limits on application
+Objective
+G7.1
+The objective of this provision is to
+safeguard people from illness or loss
+of amenity due to isolation from
+natural light and the outside
+environment.
+Functional requirement
+G7.2
+Habitable spaces shall provide
+adequate openings for natural light
+and for a visual awareness of the
+outside environment.
+Requirement G7.2 shall apply only to
+housing, old people’s homes and early
+childhood centres.
+Performance
+G7.3.1 Natural light shall provide an
+illuminance of no less than 30 lux at
+floor level for 75% of the standard
+year.
+G7.3.2 Openings to give awareness of the
+outside shall be transparent and
+provided in suitable locations.
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+78
+
+--------------------------------------------------------------------------------
+Clause G8—Artificial light
+Provisions
+Limits on application
+Objective
+G8.1
+The objective of this provision is to
+safeguard people from injury due to
+lack of adequate lighting.
+Functional requirement
+G8.2
+Spaces within buildings used by
+people, shall be provided with
+adequate artificial lighting which,
+when activated in the absence of
+sufficient natural light, will enable
+safe movement.
+Requirement G8.2 shall apply to:
+(a)
+all exitways in multi-unit dwellings,
+group dwellings and communal
+residential (except backcountry huts),
+communal non-residential,
+commercial and industrial buildings,
+(b)
+all access routes except those in
+outbuildings, backcountry huts, and
+ancillary buildings, and
+(c)
+all common spaces within multi-unit
+dwellings, group dwellings, and
+communal residential (except
+backcountry huts) and communal
+non-residential buildings.
+Performance
+G8.3
+Illuminance at floor level shall be no
+less than 20 lux.
+Performance G8.3 does not apply during a
+failure of the main lighting, when the
+requirements in Clause F6 Visibility in
+escape routes apply.
+Schedule 1 clause G8.2 limit on application (a): amended, on 31 October 2008, by regulation 11(1) of
+the Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1 clause G8.2 limit on application (b): amended, on 31 October 2008, by regulation 11(2) of
+the Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1 clause G8.2 limit on application (c): amended, on 31 October 2008, by regulation 11(3) of
+the Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1 clause G8.3 limit on application: substituted, on 21 June 2007, by regulation 6(5) of the
+Building Amendment Regulations 2007 (SR 2007/124).
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+79
+
+--------------------------------------------------------------------------------
+Clause G9—Electricity
+Provisions
+Limits on application
+Objective
+G9.1
+The objective of this provision is to
+ensure that:
+(a)
+in buildings supplied with
+electricity, the electrical
+installation has safeguards
+against outbreak of fire and
+personal injury, and
+(b)
+people with disabilities are
+able to carry out normal
+activities and processes within
+buildings.
+Objective G9.1(b) shall apply only to those
+buildings to which section 47A of the Act
+applies.
+Functional requirement
+G9.2
+Where provided in a building,
+electrical installations shall be safe
+for their intended use.
+Performance
+G9.3.1 The electrical installation shall
+incorporate systems to:
+(a)
+protect people from contact
+with parts of the installation
+which are live during normal
+operation, and to prevent parts
+of the installation or other
+building elements becoming
+live during fault conditions,
+(b)
+permit the safe isolation of the
+installation and of electrical
+fittings and appliances,
+(c)
+safeguard people from
+excessive temperatures
+resulting from either normal
+operation of electrical
+equipment, or from currents
+which could exceed the
+installation rating,
+(d)
+safeguard people from injury
+which may result from
+electromechanical stress in
+electrical components caused
+by currents in excess of the
+installation rating,
+(e)
+protect building elements from
+risk of ignition, impairment of
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+80
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+their physical or mechanical
+properties, or function, due to
+temperature increases
+resulting from heat transfer or
+electric arc,
+(f)
+operate safely in its intended
+environment, and
+(g)
+safeguard against ignition of
+the surrounding atmosphere
+where it is potentially
+flammable or explosive.
+G9.3.2 An electrical installation supplying
+an essential service shall:
+(a)
+maintain the supply for a time
+appropriate to that service,
+and
+(b)
+be capable of being isolated
+from the supply system,
+independently of the
+remainder of the installation.
+G9.3.3 An electrical installation connected
+to an electrical supply system, shall
+contain safeguards which protect the
+safety features of the external supply.
+G9.3.4 In buildings intended for use by
+people with disabilities, light switches
+and plug socket outlets shall be
+accessible and usable.
+Performance G9.3.4 shall not apply to
+housing, outbuildings, ancillary buildings,
+and to industrial buildings where no more
+than 10 people are employed.
+Schedule 1 clause G9.1(b) limit on application: amended, on 29 December 2000, by regulation 4(1)
+of the Building Amendment Regulations 2000 (SR 2000/119).
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+81
+
+--------------------------------------------------------------------------------
+Clause G10—Piped services
+Provisions
+Limits on application
+Objective
+G10.1 The objective of this provision is to
+safeguard people from injury or
+illness caused by extreme
+temperatures or hazardous substances
+associated with building services.
+Functional requirement
+G10.2 In buildings provided with potentially
+hazardous services containing hot,
+cold, flammable, corrosive or toxic
+fluids, the installations shall be
+constructed to provide adequate
+safety for people.
+Performance
+G10.3.1 Piping systems shall be constructed
+to avoid the likelihood of:
+(a)
+significant leakage or damage
+during normal or reasonably
+foreseeable abnormal
+conditions,
+(b)
+detrimental contamination of
+the contents by other
+substances,
+(c)
+adverse interaction between
+services, or between piping
+and electrical systems, and
+(d)
+people having contact with
+pipes which could cause them
+harm.
+G10.3.2 Provision shall be made for the
+ready removal of moisture or
+condensate in gas pipes.
+G10.3.3 Pipes shall be protected against
+corrosion in the environment of their
+use.
+G10.3.4 Piping systems shall be identified
+with markings if the contents are not
+readily apparent from the location or
+associated equipment.
+G10.3.5 Enclosed spaces shall be
+constructed to avoid the likelihood of
+accumulating vented or leaking gas.
+G10.3.6 Piped systems shall have isolation
+devices which permit the installation
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+82
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+or individual items of apparatus to be
+isolated from the supply system, for
+maintenance, testing, fault detection
+and repair.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+83
+
+--------------------------------------------------------------------------------
+Clause G11—Gas as an energy source
+Provisions
+Limits on application
+Objective
+G11.1 The objective of this provision is to:
+(a)
+safeguard people from injury
+arising from the use of gas as
+an energy source,
+(b)
+safeguard people and other
+property from the risk of fire
+or explosion, and
+(c)
+safeguard people from loss of
+amenity due to the gas supply
+being inadequate for the
+intended use.
+Functional requirement
+G11.2 In buildings where gas is used as an
+energy source, the supply system
+shall be safe and adequate for its
+intended use.
+Performance
+G11.3.1 Supply systems shall be constructed
+to maintain a safe pressure range
+appropriate to the appliances and the
+type of gas used.
+G11.3.2 The gas supply to all appliances in a
+single ventilated space, shall be fitted
+with an automatic cut-off activated by
+failure of any continuous forced
+ventilation system used for
+combustion, ventilation or safe
+operation of a fixed gas appliance.
+G11.3.3 A flued fixed gas appliance shall
+have no adverse interaction with any
+other flued appliance.
+G11.3.4 Supply systems shall have isolation
+devices which permit the whole
+installation, or individual items of
+apparatus, to be isolated from the
+supply for maintenance, testing, fault
+detection or repair.
+G11.3.5 Where gas is supplied from an
+external source, the supply system
+within buildings shall be constructed
+to avoid the likelihood of:
+(a)
+contamination of the external
+supply from other gas sources
+within the building,
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+84
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(b)
+adverse effects on the pressure
+of the external supply, and
+(c)
+the external supply pipe acting
+as an earthing conductor.
+G11.3.6 The location and installation of
+meters and service risers shall meet
+the requirements of the network utility
+operator.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+85
+
+--------------------------------------------------------------------------------
+Clause G12—Water supplies
+Provisions
+Limits on application
+Objective
+G12.1 The objective of this provision is to—
+(a)
+safeguard people from illness
+or injury caused by
+contaminated water:
+(b)
+safeguard people from injury
+caused by hot water system
+explosion, or from contact
+with excessively hot water:
+(c)
+safeguard people from loss of
+amenity arising from—
+(i)
+a lack of hot water for
+personal hygiene; or
+(ii)
+water for human
+consumption that is
+offensive in
+appearance, odour, or
+taste:
+(d)
+ensure that people with
+disabilities are able to carry
+out normal activities and
+functions within buildings.
+Objective G12.1(d) applies only to those
+buildings to which section 47A of the Act
+applies.
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+86
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+Functional requirement
+G12.2 Buildings provided with water outlets,
+sanitary fixtures, or sanitary
+appliances must have safe and
+adequate water supplies.
+Performance
+G12.3.1 Water intended for human
+consumption, food preparation,
+utensil washing, or oral hygiene must
+be potable.
+Performance G12.3.1 does not apply to
+backcountry huts.
+G12.3.2 A potable water supply system must
+be—
+(a)
+protected from contamination;
+and
+(b)
+installed in a manner that
+avoids the likelihood of
+contamination within the
+system and the water main;
+and
+(c)
+installed using components
+that will not contaminate the
+water.
+G12.3.3 A non-potable water supply system
+used for personal hygiene must be
+installed in a manner that avoids the
+likelihood of illness or injury being
+caused by the system.
+G12.3.4 Water pipes and outlets provided
+with non-potable water must be
+clearly identified.
+G12.3.5 Sanitary fixtures and sanitary
+appliances must be provided with hot
+water when intended to be used for—
+(a)
+utensil washing; and
+(b)
+personal washing, showering,
+or bathing.
+Performance G12.3.5(b) applies to only
+housing, retirement homes, and early
+childhood centres.
+G12.3.6 If hot water is provided to sanitary
+fixtures and sanitary appliances used
+for personal hygiene, it must be
+delivered at a temperature that avoids
+the likelihood of scalding.
+G12.3.7 Water supply systems must be
+installed in a manner that—
+(a)
+pipes water to sanitary
+fixtures and sanitary
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+87
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+appliances at flow rates that
+are adequate for the correct
+functioning of those fixtures
+and appliances under normal
+conditions; and
+(b)
+avoids the likelihood of
+leakage; and
+(c)
+allows reasonable access to
+components likely to need
+maintenance; and
+(d)
+allows the system and any
+backflow prevention devices
+to be isolated for testing and
+maintenance.
+G12.3.8 Vessels used for producing or
+storing hot water must be provided
+with safety features that—
+(a)
+relieve excessive pressure
+during both normal and
+abnormal conditions; and
+(b)
+limit temperatures to avoid the
+likelihood of flash steam
+production in the event of
+rupture.
+G12.3.9 A hot water system must be capable
+of being controlled to prevent the
+growth of legionella bacteria.
+G12.3.10 Water supply taps must be
+accessible and usable for people with
+disabilities.
+Performance G12.3.10 applies only to those
+buildings to which section 47A of the Act
+applies.
+Schedule 1 clause G12: substituted, on 3 January 2002, by regulation 3(10) of the Building Amend‐
+ment Regulations 2001 (SR 2001/374).
+Schedule 1 clause G12.3.1 limit on application: inserted, on 31 October 2008, by regulation 12 of the
+Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+88
+
+--------------------------------------------------------------------------------
+Clause G13—Foul water
+Provisions
+Limits on application
+Objective
+G13.1 The objective of this provision is to:
+(a)
+safeguard people from illness
+due to infection or
+contamination resulting from
+personal hygiene activities,
+and
+(b)
+safeguard people from loss of
+amenity due to the presence of
+unpleasant odours or the
+accumulation of offensive
+matter resulting from foul
+water disposal.
+Functional requirement
+G13.2 Buildings in which sanitary fixtures
+and sanitary appliances using water-
+borne waste disposal are installed
+must be provided with—
+(a)
+an adequate plumbing and
+drainage system to carry foul
+water to appropriate outfalls;
+and
+(b)
+if no sewer is available, an
+adequate system for the
+storage, treatment, and
+disposal of foul water.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+89
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+Performance
+G13.3.1 The plumbing system shall be
+constructed to:
+(a)
+convey foul water from
+buildings to a drainage
+system,
+(b)
+avoid the likelihood of
+blockage and leakage,
+(c)
+avoid the likelihood of foul air
+and gases entering buildings,
+and
+(d)
+provide reasonable access for
+maintenance and clearing
+blockages.
+G13.3.2 The drainage system shall:
+(a)
+convey foul water to an
+appropriate outfall,
+(b)
+be constructed to avoid the
+likelihood of blockage,
+(c)
+be supported, jointed and
+protected in a way that will
+avoid the likelihood of
+penetration of roots or the
+entry of ground water,
+(d)
+be provided with reasonable
+access for maintenance and
+clearing blockages,
+(e)
+be ventilated to avoid the
+likelihood of foul air and
+gases accumulating in the
+drainage system and sewer,
+and
+(f)
+be constructed to avoid the
+likelihood of damage from
+superimposed loads or normal
+ground movement.
+G13.3.3 Where a sewer connection is
+available, the drainage system shall
+be connected to the sewer, and the
+connection shall be made in a manner
+that avoids damage to the sewer and
+is to the approval of the network
+utility operator.
+G13.3.4 If no sewer is available, facilities
+for the storage, treatment, and
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+90
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+disposal of foul water must be
+constructed—
+(a)
+with adequate capacity for the
+volume of foul water and the
+frequency of disposal; and
+(b)
+with adequate vehicle access
+for collection if required; and
+(c)
+to avoid the likelihood of
+contamination of any potable
+water supplies in compliance
+with Clause G12 Water
+supplies; and
+(d)
+to avoid the likelihood of
+contamination of soils, ground
+water, and waterways except
+as permitted under the
+Resource Management Act
+1991; and
+(e)
+from materials that are
+impervious both to the foul
+water for which disposal is
+required, and to water; and
+(f)
+to avoid the likelihood of
+blockage and leakage; and
+(g)
+to avoid the likelihood of foul
+air and gases accumulating
+within or entering into
+buildings; and
+(h)
+to avoid the likelihood of
+unauthorised access by
+people; and
+(i)
+to permit easy cleaning and
+maintenance; and
+(j)
+to avoid the likelihood of
+damage from superimposed
+loads or normal ground
+movement; and
+(k)
+if those facilities are buried
+underground, to resist
+hydrostatic uplift pressures.
+Schedule 1 clause G13.2: substituted, on 21 June 2007, by regulation 7(1) of the Building Amend‐
+ment Regulations 2007 (SR 2007/124).
+Schedule 1 clause G13.3.4: substituted, on 21 June 2007, by regulation 7(2) of the Building Amend‐
+ment Regulations 2007 (SR 2007/124).
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+91
+
+--------------------------------------------------------------------------------
+Schedule 1 clause G13.3.4(d): amended, on 23 December 2023, by section 6 of the Resource Man‐
+agement (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Con‐
+senting) Act 2023 (2023 No 68).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+92
+
+--------------------------------------------------------------------------------
+Clause G14—Industrial liquid waste
+Provisions
+Limits on application
+Objective
+G14.1 The objective of this provision is to
+safeguard people from injury or
+illness caused by infection or
+contamination resulting from
+industrial liquid waste.
+Functional requirement
+G14.2 Buildings, in which industrial liquid
+waste is generated shall be provided
+with adequate spaces and facilities
+for the safe and hygienic collection,
+holding, treatment and disposal of the
+waste.
+Performance
+G14.3.1 Industrial liquid waste shall be
+conveyed to storage containers and
+within disposal systems in a way
+which will:
+(a)
+transfer wastes from buildings
+safely and hygienically,
+(b)
+avoid the likelihood of
+blockage and leakage,
+(c)
+avoid the likelihood of foul air
+and gases entering buildings,
+and
+(d)
+provide reasonable access for
+clearing of blockages.
+G14.3.2 Facilities for the storage, treatment,
+and disposal of industrial liquid waste
+must be constructed—
+(a)
+with adequate capacity for the
+volume of waste and the
+frequency of disposal; and
+(b)
+with adequate vehicle access
+for collection if required; and
+(c)
+to avoid the likelihood of
+contamination of any potable
+water supplies in compliance
+with Clause G12 Water
+supplies; and
+(d)
+to avoid the likelihood of
+contamination of soils, ground
+water, and waterways except
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+93
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+as permitted under the
+Resource Management Act
+1991; and
+(e)
+from materials that are
+impervious both to the waste
+for which disposal is required,
+and to water; and
+(f)
+to avoid the likelihood of
+blockage and leakage; and
+(g)
+to avoid the likelihood of foul
+air and gases accumulating
+within or entering into
+buildings; and
+(h)
+to avoid the likelihood of
+unauthorised access by
+people; and
+(i)
+to permit easy cleaning and
+maintenance; and
+(j)
+to avoid the likelihood of
+damage from superimposed
+loads or normal ground
+movement; and
+(k)
+if those facilities are buried
+underground, to resist
+hydrostatic uplift pressures.
+Schedule 1 clause G14.3.2: substituted, on 21 June 2007, by regulation 8 of the Building Amendment
+Regulations 2007 (SR 2007/124).
+Schedule 1 clause G14.3.2(d): amended, on 23 December 2023, by section 6 of the Resource Man‐
+agement (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Con‐
+senting) Act 2023 (2023 No 68).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+94
+
+--------------------------------------------------------------------------------
+Clause G15—Solid waste
+Provisions
+Limits on application
+Objective
+G15.1 The objective of this provision is to
+safeguard people from injury or
+illness caused by infection or
+contamination from solid waste.
+Functional requirement
+G15.2 Buildings shall be provided with
+space and facilities for the collection,
+and safe hygienic holding prior to
+disposal, of solid waste arising from
+the intended use of the buildings.
+Requirement G15.2 shall not apply to
+detached dwellings, household units of multi-
+unit dwellings, outbuildings or ancilliary
+buildings if there is independent access or
+private open space at ground level.
+Performance
+G15.3.1 Where provision is made within
+buildings for the collection and
+temporary holding of solid waste, the
+spaces provided shall be:
+(a)
+of sufficient size for the
+volume of waste and
+frequency of disposal,
+(b)
+provided with reasonable
+access for the depositing and
+collection of the waste,
+(c)
+capable of maintaining
+sanitary conditions having
+regard to the types of waste
+and storage containers, and
+(d)
+capable of maintaining the
+appropriate temperature for
+the type of waste stored.
+G15.3.2 Where a rubbish chute is provided,
+it shall be located and constructed to:
+(a)
+convey the solid waste to an
+appropriate storage container,
+(b)
+avoid the likelihood of
+blockage or leakage,
+(c)
+permit easy cleaning and
+maintenance,
+(d)
+avoid the likelihood of foul air
+or gases accumulating or
+entering the building,
+(e)
+avoid the likelihood of the
+spread of fire beyond the
+refuse chute,
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+95
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(f)
+have openings that allow
+waste to be safely deposited in
+the chute, and
+(g)
+restrict access by children,
+animals and vermin.
+G15.3.3 Where it is acceptable to the
+network utility operator, solid waste
+which has been suitably treated for
+disposal to a sewer may be discharged
+via a foul water drain complying with
+Clause G13 Foul Water.
+Schedule 1 clause G15.3.2(f): amended, on 22 December 1994, by regulation 13 of the Building
+Regulations 1992, Amendment No 1 (SR 1994/263).
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+96
+
+--------------------------------------------------------------------------------
+Clause H1—Energy efficiency provisions
+Provisions
+Limits on application
+Objective
+H1.1
+The objective of this provision is to
+facilitate efficient use of energy.
+Objective H1.1 applies only when the energy
+is sourced from a network utility operator or
+a depletable energy resource.
+Functional requirement
+H1.2
+Buildings must be constructed to
+achieve an adequate degree of energy
+efficiency when that energy is used
+for—
+(a)
+modifying temperature,
+modifying humidity,
+providing ventilation, or doing
+all or any of those things; or
+(b)
+providing hot water to and
+from sanitary fixtures or
+sanitary appliances, or both;
+or
+(c)
+providing artificial lighting.
+Requirement H1.2(a) does not apply to
+assembly service buildings, industrial
+buildings, outbuildings, or ancillary
+buildings.
+Requirement H1.2(c) applies only to
+commercial buildings and communal non-
+residential buildings whose floor area is
+greater than 300 m2.
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+97
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+Performance
+H1.3.1 The building envelope enclosing
+spaces where the temperature or
+humidity (or both) are modified must
+be constructed to—
+(a)
+provide adequate thermal
+resistance; and
+(b)
+limit uncontrollable airflow.
+H1.3.2 [Revoked]
+H1.3.2A [Revoked]
+H1.3.2B [Revoked]
+H1.3.2C [Revoked]
+H1.3.2D [Revoked]
+H1.3.2E Buildings must be constructed to
+ensure that their building
+performance index does not exceed
+1.55.
+Performance H1.3.2E applies only to
+housing.
+H1.3.3 Account must be taken of physical
+conditions likely to affect energy
+performance of buildings,
+including—
+(a)
+the thermal mass of building
+elements; and
+(b)
+the building orientation and
+shape; and
+(c)
+the airtightness of the building
+envelope; and
+(d)
+the heat gains from services,
+processes and occupants; and
+(e)
+the local climate; and
+(f)
+heat gains from solar
+radiation.
+H1.3.4 Systems for the heating, storage, or
+distribution of hot water to and from
+sanitary fixtures or sanitary
+appliances must, having regard to the
+energy source used,—
+(a)
+limit the energy lost in the
+heating process; and
+(b)
+be constructed to limit heat
+losses from storage vessels
+and from distribution systems;
+and
+Performance H1.3.4(b) does not apply to
+individual storage vessels that are greater
+than 700 litres in capacity.
+Performance H1.3.4(c) applies only to
+housing.
+Schedule 1
+Building Regulations 1992
+Version as at
+23 December 2023
+98
+
+--------------------------------------------------------------------------------
+Provisions
+Limits on application
+(c)
+be constructed to facilitate the
+efficient use of hot water.
+H1.3.5 Artificial lighting fixtures must—
+(a)
+be located and sized to limit
+energy use, consistent with the
+intended use of space; and
+(b)
+be fitted with a means to
+enable light intensities to be
+reduced, consistent with
+reduced activity in the space.
+Performance H1.3.5 does not apply to
+lighting provided solely to meet the
+requirements of Clause F6.
+H1.3.6 HVAC systems must be located,
+constructed, and installed to—
+(a)
+limit energy use, consistent
+with the intended use of
+space; and
+(b)
+enable them to be maintained
+to ensure their use of energy
+remains limited, consistent
+with the intended use of space.
+Performance H1.3.6 applies only to
+commercial buildings.
+Schedule 1: continued in force, on 31 March 2005, by regulation 8(2)(a) of the Building (Forms)
+Regulations 2004 (SR 2004/385).
+Schedule 1 clause H1: substituted, on 29 December 2000, by regulation 5 of the Building Amend‐
+ment Regulations 2000 (SR 2000/119).
+Schedule 1 clause H1.2(a): substituted, on 1 February 2009, by regulation 5 of the Building (Building
+Code: Energy Efficiency of Temperature, Humidity, and Ventilation Systems) Amendment Regula‐
+tions 2008 (SR 2008/97).
+Schedule 1 clause H1.2(b): amended, on 1 February 2009, by regulation 4 of the Building (Building
+Code: Energy Efficiency of Domestic Hot Water Systems) Amendment Regulations 2008 (SR
+2008/256).
+Schedule 1 clause H1.3.2: revoked, on 31 October 2007, by regulation 5 of the Building Amendment
+Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause H1.3.2A: revoked, on 30 June 2008, by regulation 6 of the Building Amendment
+Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause H1.3.2B: revoked, on 30 June 2008, by regulation 6 of the Building Amendment
+Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause H1.3.2C: revoked, on 30 September 2008, by regulation 7(1) of the Building
+Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause H1.3.2D: revoked, on 30 September 2008, by regulation 7(1) of the Building
+Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause H1.3.2E: inserted, on 30 September 2008, by regulation 7(1) of the Building
+Amendment Regulations (No 2) 2007 (SR 2007/226).
+Schedule 1 clause H1.3.4: substituted, on 1 February 2009, by regulation 5 of the Building (Building
+Code: Energy Efficiency of Domestic Hot Water Systems) Amendment Regulations 2008 (SR
+2008/256).
+Schedule 1 clause H1.3.6: added, on 1 February 2009, by regulation 6 of the Building (Building
+Code: Energy Efficiency of Temperature, Humidity, and Ventilation Systems) Amendment Regula‐
+tions 2008 (SR 2008/97).
+Version as at
+23 December 2023
+Building Regulations 1992
+Schedule 1
+99
+
+--------------------------------------------------------------------------------
+Schedule 2
+[Revoked]
+r 4
+Schedule 2: revoked for all purposes, on 31 May 2006, by regulation 8(2)(b) of the Building (Forms)
+Regulations 2004 (SR 2004/385).
+Marie Shroff,
+Clerk of the Executive Council.
+Issued under the authority of the Legislation Act 2019.
+Date of notification in Gazette: 11 June 1992.
+Schedule 2
+Building Regulations 1992
+Version as at
+23 December 2023
+100
+
+--------------------------------------------------------------------------------
+Building (Forms) Regulations 2004
+(SR 2004/385)
+Silvia Cartwright, Governor-General
+Order in Council
+At Wellington this 8th day of November 2004
+Present:
+Her Excellency the Governor-General in Council
+Pursuant to section 402 of the Building Act 2004, Her Excellency the Governor-
+General, acting on the advice and with the consent of the Executive Council and on
+the recommendation of the Minister for Building Issues, makes the following regula‐
+tions.
+Regulations
+1
+Title
+These regulations are the Building (Forms) Regulations 2004.
+2
+Commencement
+(1)
+These regulations (except regulations 5 and 8 and Part 2 of the Schedule) come
+into force on 30 November 2004.
+(2)
+Regulations 5 and 8 and Part 2 of the Schedule come into force on 31 March
+2005.
+Revocation
+8
+Revocation
+(1)
+The Building Regulations 1992 (SR 1992/150) are revoked.
+(2)
+However, despite the revocation of the Building Regulations 1992,—
+(a)
+regulation 3 and Schedule 1 of those regulations continue in force: and
+(b)
+so much of regulation 4 and Schedule 2 of those regulations as relate to
+forms 16 (application for approval as an individual building certifier)
+and 17 (application for approval as a corporate building certifier) con‐
+Version as at
+23 December 2023
+Building Regulations 1992
+101
+
+--------------------------------------------------------------------------------
+tinue in force and apply for the purposes of section 441 of the Act until
+31 May 2006.
+Diane Morcom,
+Clerk of the Executive Council.
+Date of notification in Gazette: 11 November 2004.
+Building Regulations 1992
+Version as at
+23 December 2023
+102
+
+--------------------------------------------------------------------------------
+Building Amendment Regulations (No 2) 2007
+(SR 2007/226)
+Dame Sian Elias, Administrator of the Government
+Order in Council
+At Wellington this 13th day of August 2007
+Present:
+The Right Hon Helen Clark presiding in Council
+Pursuant to section 400 of the Building Act 2004, Her Excellency the Administrator
+of the Government, acting on the advice and with the consent of the Executive Coun‐
+cil, and on the recommendation of the Minister (as defined by section 7 of that Act)
+made, as required by section 403(2) of that Act, after he or she became satisfied that
+the chief executive (as so defined) has consulted in accordance with section 403(3)
+and (4) of that Act, makes the following regulations.
+Regulations
+1
+Title
+These regulations are the Building Amendment Regulations (No 2) 2007.
+2
+Commencement
+(1)
+These regulations (other than regulations 6 and 7) come into force on 31 Octo‐
+ber 2007.
+(2)
+Regulation 6 comes into force on 30 June 2008.
+(3)
+Regulation 7 comes into force on 30 September 2008.
+8
+Saving: building work not affected by amendments
+(1)
+The building code set out in Schedule 1 of the principal regulations applies to
+the following building work as if these regulations had not been made:
+(a)
+building work that is in climate zone 1, climate zone 2, or climate zone
+3, is building work for which a building consent is required, and is
+covered by an application—
+(i)
+for a building consent or a certificate of acceptance; and
+(ii)
+made before the close of 30 October 2007:
+Version as at
+23 December 2023
+Building Regulations 1992
+103
+
+--------------------------------------------------------------------------------
+(b)
+building work that is in climate zone 1 or climate zone 2, is building
+work for which a building consent is required, and is covered by an
+application—
+(i)
+for a building consent or a certificate of acceptance; and
+(ii)
+made after the close of 30 October 2007 and before the close of
+29 June 2008:
+(c)
+building work that is in climate zone 1, is building work for which a
+building consent is required, and is covered by an application—
+(i)
+for a building consent or a certificate of acceptance; and
+(ii)
+made after the close of 29 June 2008 and before the close of
+29 September 2008.
+(2)
+For the purpose of subclause (1)(b), building work partly in climate zone 3 and
+partly in climate zone 2 must be treated as if it were building work in climate
+zone 2.
+(3)
+For the purpose of subclause (1)(c), building work partly in climate zone 2 and
+partly in climate zone 1 must be treated as if it were building work in climate
+zone 1.
+Diane Morcom,
+Clerk of the Executive Council.
+Date of notification in Gazette: 16 August 2007.
+Building Regulations 1992
+Version as at
+23 December 2023
+104
+
+--------------------------------------------------------------------------------
+Building (Building Code: Energy Efficiency of
+Temperature, Humidity, and Ventilation Systems)
+Amendment Regulations 2008
+(SR 2008/97)
+Anand Satyanand, Governor-General
+Order in Council
+At Wellington this 7th day of April 2008
+Present:
+His Excellency the Governor-General in Council
+Pursuant to section 400 of the Building Act 2004, His Excellency the Governor-
+General, acting on the advice and with the consent of the Executive Council, and on
+the recommendation of the Minister (as defined by section 7 of that Act) made, as
+required by section 403(2) of that Act, after he or she became satisfied that the chief
+executive (as so defined) has consulted in accordance with section 403(3) and (4) of
+that Act, makes the following regulations.
+Regulations
+1
+Title
+These regulations are the Building (Building Code: Energy Efficiency of Tem‐
+perature, Humidity, and Ventilation Systems) Amendment Regulations 2008.
+2
+Commencement
+These regulations come into force on 1 February 2009.
+7
+Saving: building work not affected by amendments
+The building code set out in Schedule 1 of the principal regulations applies as
+if these regulations had not been made to building work covered by an applica‐
+tion—
+(a)
+for a building consent or a certificate of acceptance; and
+(b)
+made before the close of 31 January 2009.
+Version as at
+23 December 2023
+Building Regulations 1992
+105
+
+--------------------------------------------------------------------------------
+Diane Morcom,
+Clerk of the Executive Council.
+Date of notification in Gazette: 10 April 2008.
+Building Regulations 1992
+Version as at
+23 December 2023
+106
+
+--------------------------------------------------------------------------------
+Building (Building Code: Energy Efficiency of Domestic
+Hot Water Systems) Amendment Regulations 2008
+(SR 2008/256)
+Rt Hon Dame Sian Elias, Administrator of the Government
+Order in Council
+At Wellington this 11th day of August 2008
+Present:
+Her Excellency the Administrator of the Government in Council
+Pursuant to section 400 of the Building Act 2004, Her Excellency the Administrator
+of the Government, acting on the advice and with the consent of the Executive Coun‐
+cil, and on the recommendation of the Minister (as defined by section 7 of that Act)
+made, as required by section 403(2) of that Act, after he or she became satisfied that
+the chief executive (as so defined) has consulted in accordance with section 403(3)
+and (4) of that Act, makes the following regulations.
+Regulations
+1
+Title
+These regulations are the Building (Building Code: Energy Efficiency of
+Domestic Hot Water Systems) Amendment Regulations 2008.
+2
+Commencement
+These regulations come into force on 1 February 2009.
+6
+Saving: building work not affected by amendments
+The building code set out in Schedule 1 of the principal regulations applies as
+if these regulations had not been made, to building work covered by an applica‐
+tion that is—
+(a)
+for a building consent or certificate of acceptance; and
+(b)
+made before the close of 31 January 2009.
+Rebecca Kitteridge,
+Version as at
+23 December 2023
+Building Regulations 1992
+107
+
+--------------------------------------------------------------------------------
+Clerk of the Executive Council.
+Date of notification in Gazette: 14 August 2008.
+Building Regulations 1992
+Version as at
+23 December 2023
+108
+
+--------------------------------------------------------------------------------
+Building (Building Code: Fire Safety and Signs)
+Amendment Regulations 2012
+(SR 2012/33)
+Jerry Mateparae, Governor-General
+Order in Council
+At Wellington this 5th day of March 2012
+Present:
+His Excellency the Governor-General in Council
+Pursuant to section 400 of the Building Act 2004, His Excellency the Governor-
+General, acting on the advice and with the consent of the Executive Council and on
+the recommendation of the Minister for Building and Construction, makes the follow‐
+ing regulations.
+Regulations
+1
+Title
+These regulations are the Building (Building Code: Fire Safety and Signs)
+Amendment Regulations 2012.
+2
+Commencement
+These regulations come into force on 10 April 2012.
+3
+Principal regulations
+These regulations amend the Building Regulations 1992 (the principal regula‐
+tions), regulation 3 and Schedule 1 of which continue in force in accordance
+with—
+(a)
+section 415(2)(a) of the Building Act 2004; and
+(b)
+regulation 8(2)(a) of the Building (Forms) Regulations 2004.
+8
+Transitional provision
+(1)
+For the period of 12 months following the commencement of these regulations,
+compliance with clauses C1 to C4 of Schedule 1 in force immediately before
+amendment by these regulations is deemed to be compliance with clauses C1 to
+C6 of Schedule 1 as amended by these regulations.
+Version as at
+23 December 2023
+Building Regulations 1992
+109
+
+--------------------------------------------------------------------------------
+(2)
+For the period of 3 months following the commencement of these regulations,
+compliance with clause F8 of Schedule 1 in force immediately before amend‐
+ment by these regulations is deemed to be compliance with clause F8 of Sched‐
+ule 1 as amended by these regulations.
+(3)
+For the purposes only of deemed compliance under subclause (1) or (2), any
+definition that is revoked by regulation 4(1) continues to apply.
+Rebecca Kitteridge,
+Clerk of the Executive Council.
+Date of notification in Gazette: 8 March 2012.
+Building Regulations 1992
+Version as at
+23 December 2023
+110
+
+--------------------------------------------------------------------------------
+Notes
+1
+General
+This is a consolidation of the Building Regulations 1992 that incorporates the
+amendments made to the legislation so that it shows the law as at its stated
+date.
+2
+Legal status
+A consolidation is taken to correctly state, as at its stated date, the law enacted
+or made by the legislation consolidated and by the amendments. This presump‐
+tion applies unless the contrary is shown.
+Section 78 of the Legislation Act 2019 provides that this consolidation, pub‐
+lished as an electronic version, is an official version. A printed version of legis‐
+lation that is produced directly from this official electronic version is also an
+official version.
+3
+Editorial and format changes
+The Parliamentary Counsel Office makes editorial and format changes to con‐
+solidations using the powers under subpart 2 of Part 3 of the Legislation Act
+2019. See also PCO editorial conventions for consolidations.
+4
+Amendments incorporated in this consolidation
+Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim
+Fast-track Consenting) Act 2023 (2023 No 68): section 6
+Water Services Act 2021 (2021 No 36): section 206(2)
+Building (Pools) Amendment Act 2016 (2016 No 71): section 20
+Building (Building Code: Fire Safety and Signs) Amendment Regulations 2012 (SR 2012/33)
+Building (Building Code: Backcountry Huts) Amendment Regulations 2008 (SR 2008/358)
+Building (Building Code: Energy Efficiency of Domestic Hot Water Systems) Amendment Regula‐
+tions 2008 (SR 2008/256)
+Building (Building Code: Energy Efficiency of Temperature, Humidity, and Ventilation Systems)
+Amendment Regulations 2008 (SR 2008/97)
+Building Amendment Regulations (No 2) 2007 (SR 2007/226)
+Building Amendment Regulations 2007 (SR 2007/124)
+Education Amendment Act 2006 (2006 No 19): section 60(2)
+Building (Forms) Regulations 2004 (SR 2004/385): regulation 8
+Building Amendment Regulations 2004 (SR 2004/317)
+Building Amendment Regulations 2003 (SR 2003/61)
+Building Amendment Regulations 2001 (SR 2001/374)
+Building Amendment Regulations 2000 (SR 2000/119)
+Building Amendment Regulations 1997 (SR 1997/156)
+Hazardous Substances and New Organisms Act 1996 (1996 No 30): section 150(1)
+Building Regulations 1992, Amendment No 1 (SR 1994/263)
+Version as at
+23 December 2023
+Building Regulations 1992
+Notes
+111
+
+--------------------------------------------------------------------------------
+Wellington, New Zealand:
+Published under the authority of the New Zealand Government—2024
+Building Regulations 1992
+Version as at
+23 December 2023
+112
+
+--------------------------------------------------------------------------------

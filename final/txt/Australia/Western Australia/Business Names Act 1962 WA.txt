@@ -1,0 +1,2981 @@
+Metadata for pdf/todo/Business Names Act 1962 WA.pdf: {'format': 'PDF 1.6', 'title': 'Microsoft Word - BusnNamesAct1962_04-b0-06.docx', 'author': 'svcMRProcess', 'subject': '', 'keywords': '', 'creator': 'PScript5.dll Version 5.2.2', 'producer': 'Acrobat Distiller 19.0 (Windows)', 'creationDate': "D:20190130113721+08'00'", 'modDate': "D:20190130113721+08'00'", 'trapped': '', 'encryption': None, 'country': 'Australia'}
+
+Country found in pdf/todo/Business Names Act 1962 WA.pdf: Australia
+
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+ 
+Published on www.legislation.wa.gov.au 
+Western Australia 
+Business Names Act 1962 
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page i 
+ 
+Published on www.legislation.wa.gov.au 
+Western Australia 
+Business Names Act 1962 
+Contents 
+1. 
+Short title 
+1 
+2. 
+Commencement 
+1 
+3. 
+Repeal, savings and transitional provisions 
+1 
+3A. 
+Expiry of Act 
+3 
+4. 
+Terms used 
+3 
+4AA. 
+Commissioner 
+5 
+4A. 
+Arrangements for administration of this Act 
+5 
+4B. 
+Commissioner may act for purposes of national 
+business names legislation 
+6 
+4C. 
+Outstanding matters 
+8 
+5. 
+Certain business names to be registered 
+9 
+5A. 
+Leave of District Court required in certain cases 
+before using business name 
+11 
+6. 
+Register of business names 
+13 
+7. 
+Registration of business names 
+14 
+9. 
+Restriction on registration of business names that 
+are undesirable etc. 
+16 
+10. 
+Power to cancel registration of business names that 
+are undesirable etc. 
+17 
+11. 
+Renewal of registration 
+19 
+12. 
+Notification of changes of particulars relating to 
+registered business names, cessation of business 
+etc. 
+21 
+13. 
+Duty to furnish information 
+24 
+14. 
+Certain proceedings may be stayed or subject to 
+undertaking 
+25 
+15. 
+Signing of statements 
+26 
+16. 
+Verification of particulars 
+27 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+Contents 
+ 
+ 
+page ii 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+17. 
+Penalty for false statement 
+27 
+18. 
+Notice of proposed cancellation 
+27 
+19. 
+Cancellation of registration 
+28 
+20. 
+Use and exhibition of business name 
+30 
+21. 
+Commissioner may correct errors in register etc. 
+31 
+22. 
+Inspection of statements 
+32 
+23. 
+Certificate of registration or non-registration 
+32 
+24. 
+Evidence of registration or non-registration 
+33 
+26. 
+Invitations to the public to make deposits or loans 
+33 
+27. 
+General penalty provisions 
+34 
+28. 
+Default penalty 
+35 
+29. 
+Offences committed by corporations 
+35 
+30. 
+Evidentiary provisions 
+36 
+31. 
+Service of notices by Commissioner 
+36 
+31A. 
+Delegation by Commissioner 
+37 
+31B. 
+Information officially obtained to be confidential 
+38 
+31C. 
+Protection from liability for wrongdoing 
+38 
+31D. 
+Powers of investigation 
+39 
+32. 
+Regulations 
+39 
+Schedule — Acts repealed 
+Notes 
+ 
+Compilation table 
+42 
+Defined terms 
+          
+
+--------------------------------------------------------------------------------
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 1 
+ 
+Published on www.legislation.wa.gov.au 
+Western Australia 
+Business Names Act 1962 
+An Act to consolidate and amend the law relating to business names 
+and for other purposes. 
+1. 
+Short title 
+ 
+ 
+This Act may be cited as the Business Names Act 1962 1. 
+2. 
+Commencement 
+ 
+ 
+This Act shall come into operation on a day to be fixed by 
+proclamation 1. 
+3. 
+Repeal, savings and transitional provisions 
+ 
+(1) 
+The Acts mentioned in the Schedule to this Act to the extent to 
+which they are therein expressed to be repealed, are hereby 
+repealed accordingly. 
+ 
+(2) 
+Without prejudice to the operation of the Interpretation 
+Act 1918 2, except as in this Act expressly or by necessary 
+implication otherwise provided — 
+ 
+(a) 
+all persons, things and circumstances appointed or 
+created by or under the repealed Act or existing or 
+continuing under the repealed Act immediately before 
+the coming into operation of this Act shall, under and 
+subject to this Act, continue to have the same status, 
+operation and effect as they respectively would have had 
+if the repealed Act had not been repealed; and 
+ 
+(b) 
+in particular and without affecting the generality of 
+paragraph (a) — 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 3 
+ 
+ 
+page 2 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(i) 
+such repeal shall not disturb the continuity of 
+status, operation or effect of any regulation, 
+order, registration, certificate, notice, statement, 
+declaration, application, requirement, consent, 
+obligation, liability or right made, effected, 
+issued, granted, given, presented, passed, fixed, 
+accrued, incurred or acquired or existing or 
+continuing by or under the repealed Act, before 
+the coming into operation of this Act; and 
+ 
+(ii) 
+any right of action or power of prosecution had 
+by or against a firm, individual or corporation, 
+registered or deemed to be registered or required 
+to have been registered under the repealed Act 
+immediately before the coming into operation of 
+this Act, shall continue to be had and may be 
+enforced, as if this Act had not come into 
+operation; and 
+ 
+(iii) 
+all penalties incurred under the repealed Act 
+before the commencement of this Act are 
+enforceable and may be enforced as if this Act 
+had not come into operation. 
+ 
+(3) 
+A reference in any Act, order, regulation, instrument or 
+document to a firm, individual or corporation registered under 
+the repealed Act or any corresponding previous enactment, shall 
+unless the context otherwise requires be construed as referring 
+also to a firm, the members of which, to an individual who or to 
+a corporation that, as the case may be, is carrying on business 
+under a business name registered under this Act. 
+ 
+(4) 
+A business name in respect of which a firm, individual or 
+corporation was, immediately before the coming into operation 
+of this Act, registered or deemed to be registered under the 
+repealed Act, shall subject to this Act, upon the coming into 
+operation of this Act, be deemed to be registered under this Act 
+in relation to each member of the firm, in relation to the 
+individual or in relation to the corporation, as the case may be, 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 3A 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 3 
+ 
+Published on www.legislation.wa.gov.au 
+and this Act applies to and in relation to the business name 
+accordingly. 
+3A. 
+Expiry of Act 
+ 
+(1) 
+This Act expires on a day fixed by proclamation. 
+ 
+(2) 
+A proclamation cannot be made under subsection (1) unless the 
+Commissioner has given the Minister a certificate signed by the 
+Commissioner stating that the operation of this Act is no longer 
+necessary. 
+ 
+[Section 3A inserted: No. 6 of 2012 s. 15.] 
+4. 
+Terms used 
+ 
+(1) 
+In this Act unless the contrary intention appears — 
+ 
+ASIC means the Australian Securities and Investments 
+Commission of the Commonwealth; 
+ 
+business includes trade and profession; 
+ 
+business name means a name, style, title or designation under 
+which a business is carried on; 
+ 
+carrying on business includes establishing a place of business 
+in the State, and soliciting or procuring any order from a person 
+in the State and “to carry on business” has a corresponding 
+meaning; 
+ 
+change-over day has the meaning given in the Commonwealth 
+Transitional Act section 4(1); 
+ 
+christian name includes any forename; 
+ 
+Commissioner means the person for the time being designated 
+as the Commissioner under section 4AA; 
+ 
+Commonwealth Transitional Act means the Business Names 
+Registration (Transitional and Consequential Provisions) 
+Act 2011 (Commonwealth); 
+ 
+corporation means a corporation within the meaning of the 
+Corporations Act 2001 of the Commonwealth, other than an 
+exempt body within the meaning of section 66A of that Act; 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 4 
+ 
+ 
+page 4 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+Department means the department of the Public Service 
+principally assisting in the administration of this Act; 
+ 
+director in relation to a corporation, includes any person 
+occupying the position of director of the corporation by 
+whatever name called; 
+ 
+firm means an unincorporated body of persons (whether 
+consisting of individuals or of corporations or partly of 
+individuals and partly of corporations) associated together for 
+the purpose of carrying on business; 
+ 
+individual means a natural person and does not include a 
+corporation; 
+ 
+initial includes a recognised abbreviation of a christian name; 
+ 
+national business names legislation means —  
+ 
+(a) 
+the Business Names Registration Act 2011 
+(Commonwealth); and 
+ 
+(b) 
+the Commonwealth Transitional Act; 
+ 
+register means the register of business names kept under this 
+Act or under any corresponding previous enactment; 
+ 
+repealed Act means the Business Names Act 1942; 
+ 
+secretary, includes — 
+ 
+(a) 
+any person performing the duties of secretary of the 
+corporation; and 
+ 
+(b) 
+the local agent of a foreign corporation within the 
+meaning of the Corporations Act 2001 of the 
+Commonwealth; 
+ 
+section means section of this Act. 
+ 
+(2) 
+For the purposes of this Act, a person shall not be regarded as 
+carrying on business within the State for the reason only that 
+within the State he — 
+ 
+(a) 
+is or becomes a party to any action or suit or any 
+administrative or arbitration proceeding, or effects 
+settlement of an action, suit or proceeding or of any 
+claim or dispute; or 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 4AA 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 5 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+maintains any bank account; or 
+ 
+(c) 
+effects any sale through an independent contractor; or 
+ 
+(d) 
+creates evidence of any debt or creates a charge on real 
+or personal property; or 
+ 
+(e) 
+secures or collects any of his debts or enforces his rights 
+in regard to any securities relating to those debts; or 
+ 
+(f) 
+conducts an isolated transaction that is completed within 
+a period of 31 days, but not being one of a number of 
+similar transactions repeated from time to time; or 
+ 
+(g) 
+invests any of his funds or holds any property. 
+ 
+(3) 
+For the purposes of this Act, a business name shall be deemed to 
+be registered under this Act in relation to a person, if it appears 
+from the register that the person either alone or together with 
+other persons is carrying on business under that name. 
+ 
+[Section 4 amended: No. 40 of 1976 s. 12; No. 10 of 1982 s. 28; 
+No. 10 of 1998 s. 21; No. 20 of 2003 s. 7; No. 28 of 2006 s. 55; 
+No. 6 of 2012 s. 16.] 
+4AA. 
+Commissioner 
+ 
+(1) 
+The Minister is required, by notice published in the Gazette, to 
+designate a person who is an executive officer of the 
+Department as the Commissioner for the purposes of this Act. 
+ 
+(2) 
+The Commissioner may be referred to by a title specified by the 
+Minister by notice published in the Gazette. 
+ 
+(3) 
+In this section —  
+ 
+executive officer has the meaning given by section 3(1) of the 
+Public Sector Management Act 1994. 
+ 
+[Section 4AA inserted: No. 28 of 2006 s. 56.] 
+4A. 
+Arrangements for administration of this Act 
+ 
+(1) 
+The Commissioner may make an arrangement with ASIC about 
+any matter connected with the administration of this Act. 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 4B 
+ 
+ 
+page 6 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(2) 
+In particular, an arrangement may provide — 
+ 
+(a) 
+for the performance of functions and the exercise of 
+powers conferred by subsection (3) by ASIC; or 
+ 
+(b) 
+for the performance of functions or the exercise of 
+powers of the Commissioner under this Act by staff 
+members of ASIC. 
+ 
+(3) 
+Subject to subsection (4), ASIC has the functions and powers of 
+the Commissioner under this Act. 
+ 
+(4) 
+ASIC must not perform a function or exercise a power 
+conferred by subsection (3) except in accordance with an 
+arrangement under this section. 
+ 
+[Section 4A inserted: No. 105 of 1990 s. 98; amended: No. 26 of 
+1999 s. 64; No. 6 of 2012 s. 17.] 
+4B. 
+Commissioner may act for purposes of national business 
+names legislation 
+ 
+(1) 
+In this section —  
+ 
+business names information means information obtained by the 
+Commissioner in connection with the administration or 
+enforcement of this Act. 
+ 
+(2) 
+The Commissioner may, on behalf of the State —  
+ 
+(a) 
+give ASIC notifications under the Commonwealth 
+Transitional Act Schedule 1; and 
+ 
+(b) 
+do any other thing that is required to be done by the 
+State to facilitate the transition to the national business 
+names legislation. 
+ 
+(3) 
+Without limiting subsection (2), the Commissioner may, under 
+the Commonwealth Transitional Act Schedule 1 Part 2 —  
+ 
+(a) 
+give ASIC notification that a business name is to be held 
+for the purposes of resolving outstanding matters in 
+relation to the business name; and 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 4B 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 7 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+if the Commissioner is satisfied that all outstanding 
+matters in relation to the business name have been 
+finally resolved, give the appropriate notification to 
+ASIC. 
+ 
+(4) 
+Without limiting subsection (2) or (3), the Commissioner 
+may —  
+ 
+(a) 
+disclose to ASIC business names information; and 
+ 
+(b) 
+give to ASIC copies of records, containing business 
+names information, that are in the Commissioner’s 
+possession or under the Commissioner’s control. 
+ 
+(5) 
+The Commissioner may —  
+ 
+(a) 
+give notifications under subsection (2) or (3); or 
+ 
+(b) 
+disclose business names information, or give a copy of a 
+record, under subsection (4), 
+ 
+ 
+in whatever form the Commissioner considers appropriate 
+(which may include by means of electronic data or in a form 
+appropriate for the purposes of the national business names 
+legislation). 
+ 
+(6) 
+If anything that this section authorises the Commissioner to do 
+would be contrary to any enactment relating to secrecy or 
+confidentiality, this section prevails. 
+ 
+(7) 
+Without limiting section 31C, the doing of anything in good 
+faith under this section —  
+ 
+(a) 
+does not result in any person incurring civil or criminal 
+liability; and 
+ 
+(b) 
+is not to be regarded as a breach of any duty of 
+confidentiality or secrecy imposed by law; and 
+ 
+(c) 
+is not to be regarded as a breach of professional ethics or 
+standards or as unprofessional conduct. 
+ 
+(8) 
+In this section, a reference to the doing of anything includes a 
+reference to an omission to do anything. 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 4C 
+ 
+ 
+page 8 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+[Section 4B inserted: No. 6 of 2012 s. 18.] 
+4C. 
+Outstanding matters 
+ 
+ 
+The outstanding matters for the purposes of which the 
+Commissioner may give ASIC notification under section 4B(3) 
+to hold a business name include, but are not limited to, the 
+following —  
+ 
+(a) 
+an application for the registration of a business name 
+that is made under section 7(1), but not finally dealt with 
+by the Commissioner, before the change-over day; 
+ 
+(b) 
+an application for the consent of the Minister to the 
+registration of a business name that is made under 
+section 9(1), but not finally dealt with by the Minister, 
+before the change-over day; 
+ 
+(c) 
+a statement in respect of the renewal of the registration 
+of a business name that is lodged under section 11(1), 
+but not finally dealt with by the Commissioner, before 
+the change-over day; 
+ 
+(d) 
+a statement that is lodged under section 12, but not 
+finally dealt with by the Commissioner, before the 
+change-over day; 
+ 
+(e) 
+a notice sent by the Commissioner under section 10(1) 
+before the change-over day that specifies a period that 
+expires on or after the change-over day; 
+ 
+(f) 
+a notice sent by the Commissioner under section 18(1) 
+or (2) before the change-over day in respect of which the 
+one month period referred to in section 19(1)(b) or (c) 
+expires on or after the change-over day; 
+ 
+(g) 
+an application for leave of the District Court that is 
+made under section 5A(3), but not finally dealt with by 
+the Court, before the change-over day; 
+ 
+(h) 
+an application to the State Administrative Tribunal that 
+is made under section 19(3), but not finally dealt with by 
+the Tribunal, before the change-over day; 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 5 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 9 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(i) 
+the right of a person to make an application under 
+section 9(1), for the consent of the Minister to the 
+registration of a business name, on or after the 
+change-over day; 
+ 
+(j) 
+the right of a person to lodge a statement under 
+section 11(1), in respect of the renewal of the 
+registration of a business name, on or after the 
+change-over day; 
+ 
+(k) 
+the right of a person to make an application to the State 
+Administrative Tribunal under section 19(3) on or after 
+the change-over day. 
+ 
+[Section 4C inserted: No. 6 of 2012 s. 18.] 
+5. 
+Certain business names to be registered 
+ (1A) 
+Subsection (1) does not apply to an act or omission that occurs 
+on or after the change-over day. 
+ (1B) 
+Despite subsection (1A) and The Criminal Code section 11, a 
+person may be punished on or after the change-over day for an 
+offence committed under subsection (1) before the change-over 
+day. 
+ 
+(1) 
+A person shall not either alone or in association with other 
+persons, carry on business in the State under a business name 
+unless — 
+ 
+(a) 
+the business name consists of the name of that person 
+and the name of each other person, if any, in association 
+with whom that person is so carrying on business 
+without any addition; or 
+ 
+(b) 
+the business name is registered under this Act in relation 
+to that person and each other person, if any, in 
+association with whom that person is so carrying on 
+business, 
+ 
+ 
+and where the business name is so registered unless such of the 
+provisions of section 12 as are required to be complied with by 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 5 
+ 
+ 
+page 10 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+or on behalf of the person or persons in relation to whom the 
+name is registered have been complied with. 
+ 
+Penalty: $200. Default penalty. 
+ 
+(2) 
+For the purposes of subsection (1) and of section 5A(2) the 
+name of a person consists of — 
+ 
+(a) 
+in the case of an individual, his full name or his surname 
+together with — 
+ 
+(i) 
+his christian name or names; or 
+ 
+(ii) 
+the initial or initials of his christian name or 
+names; or 
+ 
+(iii) 
+a combination of one or more of his christian 
+names and the initial or initials of his remaining 
+christian name or names; or 
+ 
+(iv) 
+the christian name or names by which he is 
+commonly known or the initial or initials by 
+which he is commonly known or any 
+combination of one or more of those names and 
+those initials; 
+ 
+(b) 
+in the case of a corporation, the corporate name of the 
+corporation. 
+ 
+(3) 
+The addition to a business name of words indicating that the 
+business is carried on in succession to a former owner of the 
+business shall, for the purposes of subsection (1) and of 
+section 5A(2), be deemed not to be an addition to the business 
+name. 
+ 
+(4) 
+Where a business is carried on by an official receiver, a trustee 
+in bankruptcy or a trustee under a deed or scheme of 
+arrangement entered into under a law of the Commonwealth 
+relating to bankruptcy, or by a receiver, manager or other person 
+appointed by a court or under the powers contained in any 
+instrument to carry on that business, the business shall, for the 
+purposes of this Act, be deemed to be carried on by the person 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 5A 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 11 
+ 
+Published on www.legislation.wa.gov.au 
+who carried on the business immediately before the 
+appointment of the receiver, trustee, manager or other person. 
+ 
+(5) 
+Notwithstanding anything in this Act, a contravention of or 
+failure to comply with any provision of this Act does not 
+operate to avoid any agreement, transaction, act or matter. 
+ 
+[Section 5 amended: No. 113 of 1965 s. 8; No. 40 of 1976 s. 3; 
+No. 6 of 2012 s. 19.] 
+5A. 
+Leave of District Court required in certain cases before 
+using business name 
+ 
+(1) 
+This section applies to a person convicted whether before or 
+after the commencement of this section, and whether within or 
+without the State — 
+ 
+(a) 
+on indictment of an offence in connection with the 
+promotion, formation or management of a corporation; 
+or 
+ 
+(b) 
+of an offence involving fraud or dishonesty punishable 
+on conviction with imprisonment for 3 months or more; 
+or 
+ 
+(c) 
+of an offence under — 
+ 
+(i) 
+section 108, 229, 554, 555, 556, 559 or 560 of 
+the Companies (Western Australia) Code 3, 
+section 44 of the Companies (Acquisition of 
+Shares) (Western Australia) Code 3 or 
+section 129 of the Securities Industry (Western 
+Australia) Code 3; or 
+ 
+(ii) 
+any provision of an equivalent law of another 
+State or of a Territory of the Commonwealth that 
+corresponds with any of the provisions in 
+subparagraph (i); or 
+ 
+(iii) 
+any provision of a law of the State, of another 
+State or of a Territory of the Commonwealth that 
+was in effect before the provisions in 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 5A 
+ 
+ 
+page 12 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+subparagraph (i) and that corresponds with any 
+of the provisions in subparagraph (i); or 
+ 
+(iv) 
+any provision of the Corporations Law that 
+corresponds with any of the provisions in 
+subparagraph (i); or 
+ 
+(v) 
+any provision of the Corporations Act 2001 of 
+the Commonwealth that corresponds with any of 
+the provisions in subparagraph (i). 
+ (2A) 
+Subsection (2) does not apply to the carrying on of business on 
+or after the change-over day. 
+ (2B) 
+Despite subsection (2A) and The Criminal Code section 11, a 
+person may be punished on or after the change-over day for an 
+offence committed under subsection (2) before the change-over 
+day. 
+ 
+(2) 
+A person to whom this section applies shall not, within the 
+period of 5 years next succeeding any occasion on which he is 
+convicted as referred to in subsection (1) or, where he has 
+served a term of imprisonment imposed pursuant to any such 
+conviction, within the period of 5 years next succeeding his 
+release from that imprisonment, carry on business in the State 
+under a business name unless — 
+ 
+(a) 
+the business name under which he so carries on 
+business — 
+ 
+(i) 
+consists of his name; or 
+ 
+(ii) 
+where he carries on business in association with 
+another person or other persons, consists of his 
+name and the name or names of the person or 
+persons in association with whom he carries on 
+business, 
+ 
+ 
+without any addition; or 
+ 
+(b) 
+he has obtained the leave of The District Court of 
+Western Australia upon application made as provided by 
+subsection (3) so to carry on business. 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 6 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 13 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+Penalty: $400. 
+ 
+(3) 
+An application for leave of the District Court shall not be made 
+unless the Minister has been given not less than 28 days’ notice 
+of the proposed application. 
+ (4A) 
+An application cannot be made under subsection (3) on or after 
+the change-over day. 
+ (4B) 
+If an application made under subsection (3) is not finally dealt 
+with by the District Court before the change-over day, on or 
+after the change-over day the Court may decide whether, had 
+the application been finally dealt with by the Court before the 
+change-over day, the Court would have granted leave under this 
+section. 
+ 
+(4) 
+The Minister may be represented at the hearing of, and may 
+oppose, the application. 
+ 
+(5) 
+Nothing in this section shall be construed as affecting the 
+operation of section 5. 
+ 
+(6) 
+Nothing in this section shall make it an offence for any person 
+to carry on business under a business name which immediately 
+before the commencement of this section and at all times 
+thereafter has been a business name registered under this Act 
+under which that person was carrying on business in the State. 
+ 
+[Section 5A inserted: No. 40 of 1976 s. 4; amended: No. 10 of 
+1982 s. 28; No. 20 of 2003 s. 8; No. 50 of 2003 s. 41(2); No. 6 
+of 2012 s. 20.] 
+6. 
+Register of business names 
+ (1A) 
+This section does not apply on or after the change-over day. 
+ 
+(1) 
+The Commissioner shall keep a register of business names 
+registered under this Act, in such form as he thinks fit. 
+ 
+(2) 
+A statement lodged under this Act in relation to a business name 
+registered under this Act, whether lodged before or after the 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 7 
+ 
+ 
+page 14 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+registration, shall for the purposes of this Act be deemed to be 
+incorporated with and to form part of the register. 
+ 
+(3) 
+The register of the business names of firms, individuals and 
+corporations registered or deemed to be registered under the 
+repealed Act shall be deemed to be incorporated with and to 
+form part of the register kept under this Act. 
+ 
+[Section 6 amended: No. 40 of 1976 s. 12; No. 6 of 2012 s. 21.] 
+7. 
+Registration of business names 
+ (1A) 
+An application cannot be made under subsection (1) on or after 
+the change-over day. 
+ 
+(1) 
+An application for the registration of a business name shall be 
+made by lodging with the Commissioner a statement in the 
+prescribed form, which shall be signed by the person or persons 
+carrying on or proposing to carry on business in the State under 
+that name, shall be accompanied by the prescribed fee, and shall 
+set out — 
+ 
+(a) 
+the business name; and 
+ 
+(b) 
+a concise description of the true nature of the business 
+carried on or proposed to be carried on under that name 
+by the applicant or applicants; and 
+ 
+(c) 
+the address of each place in the State where the business 
+is or is proposed to be carried on showing, if the 
+business is or is proposed to be carried on at more than 
+one place in the State, which of those places is the 
+principal place of business; and 
+ 
+(ca) 
+the address of the place in the State where a notice given 
+under this Act may be served; and 
+ 
+(d) 
+the christian names and surname and any former 
+christian names or surname and the usual place of 
+residence of each applicant who is an individual and the 
+corporate name and the place of the registered office of 
+each applicant that is a corporation; and 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 7 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 15 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(e) 
+the date or proposed date of commencement of the 
+carrying on of business in the State under the business 
+name by the applicant or applicants; and 
+ 
+(f) 
+where the business name is a name adopted by the 
+applicant or applicants in substitution for another name, 
+that other name. 
+ 
+(2) 
+If an applicant is an infant, he shall be so described in the 
+statement and the date of his birth shall be set out in the 
+statement. 
+ 
+(3) 
+Subject to this Act, the Commissioner shall, upon the lodging of 
+a statement under subsection (1) in relation to a business name, 
+if the statement is finally dealt with by the Commissioner before 
+the change-over day, register the business name. 
+ (4A) 
+If an application made under subsection (1) for the registration 
+of a business name is not finally dealt with by the 
+Commissioner before the change-over day, the Commissioner 
+may, on or after the change-over day, decide whether, had the 
+application been finally dealt with before the change-over day, 
+the Commissioner would have registered the business name. 
+ 
+(4) 
+The Commissioner shall, upon registering a business name 
+before the change-over day, issue a certificate of registration in 
+the prescribed form signed by the Commissioner. 
+ (5)(a) 
+The Commissioner may, before the change-over day, upon 
+payment of the prescribed fee issue a further certificate of 
+registration. 
+ 
+(b) 
+Where the Commissioner is duly notified in accordance with 
+section 12(1) of particulars of a change occurring in relation to 
+the place or places in the State at which a business is carried on 
+under a business name registered under this Act or in the 
+address of any such place and the statement lodged under 
+section 12(1) is finally dealt with by the Commissioner before 
+the change-over day, the Commissioner shall, before the 
+change-over day, issue, without any fee being payable therefor, 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 9 
+ 
+ 
+page 16 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+a certificate of registration including those particulars in 
+substitution for the previous certificate of registration. 
+ 
+(6) 
+A business name shall not be registered under this Act if the 
+statement referred to in subsection (1) is lodged with the 
+Commissioner on a date preceding by more than 2 months the 
+date shown in the statement as the proposed date of 
+commencement of carrying on business. 
+ 
+(7) 
+The Commissioner may refuse to register a business name, if he 
+is not satisfied that the particulars set out in the statement 
+lodged under subsection (1) are correct. 
+ 
+[Section 7 amended: No. 40 of 1976 s. 12; No. 74 of 2003 
+s. 31(2) and (3); No. 6 of 2012 s. 22.] 
+[8. 
+Deleted: No. 74 of 2003 s. 31(4).] 
+9. 
+Restriction on registration of business names that are 
+undesirable etc. 
+ (1A) 
+An application for the consent of the Minister under 
+subsection (1) to the registration of a business name cannot be 
+made —  
+ 
+(a) 
+in the case of a decision of the Commissioner, made 
+before the change-over day, that the business name may 
+be registered only with the consent of the Minister — 
+after the end of 2 months after the change-over day; or 
+ 
+(b) 
+in the case of a decision of the Commissioner, made on 
+or after the change-over day as provided for by 
+section 7(4A), that before the change-over day the 
+Commissioner would have registered the business name 
+only with the consent of the Minister — more than 
+28 days after the Commissioner’s decision. 
+ 
+(1) 
+Except with the consent of the Minister, a business name shall 
+not be registered under this Act if the business name is a name 
+that is, in the opinion of the Commissioner, undesirable or is a 
+name or a name of a kind that the Minister has, for the purposes 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 10 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 17 
+ 
+Published on www.legislation.wa.gov.au 
+of this Act, directed the Commissioner not to accept for 
+registration. 
+ (2A) 
+Subsection (2B) applies if —  
+ 
+(a) 
+an application is made under subsection (1), but not 
+finally dealt with by the Minister, before the 
+change-over day; or 
+ 
+(b) 
+an application is made under subsection (1) on or after 
+the change-over day in accordance with subsection (1A). 
+ (2B) 
+On or after the change-over day, the Minister may decide 
+whether, had the application for consent under subsection (1) 
+been made and finally dealt with by the Minister before the 
+change-over day, the Minister would have consented to the 
+registration of the business name to which the application 
+relates. 
+ 
+(2) 
+The Minister shall cause a direction given by him under 
+subsection (1) to be published in the Government Gazette and a 
+copy of the direction to be forwarded to the Minister of the 
+Commonwealth, the Minister of each State other than this State 
+and the Minister of a Territory, responsible for the 
+administration of an Act that relates to the registration of 
+business names. 
+ 
+[Section 9 amended: No. 40 of 1976 s. 12; No. 74 of 2003 
+s. 31(5); No. 6 of 2012 s. 23.] 
+10. 
+Power to cancel registration of business names that are 
+undesirable etc. 
+ 
+(1) 
+If a business name, that could not be registered under this Act 
+without contravention of section 9(1), is registered through 
+inadvertence or otherwise, the Commissioner may, before the 
+change-over day, send by post a notice addressed to the person 
+or persons in relation to whom the name is so registered, at the 
+place shown in the register as the place where business is 
+carried on under that name — 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 11 
+ 
+ 
+page 18 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(a) 
+stating that he proposes to cancel the registration of that 
+name upon the expiration of such period (being a period 
+of not less than 28 days) as is specified in the notice; and 
+ 
+(b) 
+setting out his reasons for the proposed cancellation, 
+ 
+ 
+and, if the period specified in the notice expires before the 
+change-over day, upon the expiration of that period the 
+Commissioner may cancel the registration of that name. 
+ (2A) 
+Subsection (2B) applies if, before the change-over day, the 
+Commissioner sends a notice under subsection (1), in respect of 
+a business name, that specifies a period that expires on or after 
+the change-over day. 
+ (2B) 
+Upon the expiration of the period specified in the notice, the 
+Commissioner may decide whether, had the period specified in 
+the notice expired before the change-over day, the 
+Commissioner would have cancelled the registration of the 
+business name under subsection (1). 
+ 
+(2) 
+The Commissioner shall not, except with the approval of the 
+Minister, exercise his powers under subsection (1) or (2B) with 
+respect to a business name that is deemed to be registered under 
+this Act by virtue of section 3(4). 
+ 
+(3) 
+The Minister may at any time before the expiration of the period 
+specified in a notice given by the Commissioner under 
+subsection (1) annul the notice. 
+ 
+(4) 
+The Commissioner may remit any fee payable in respect of an 
+application for the registration of a new business name the 
+registration of which is cancelled under subsection (1) or would 
+have been cancelled under subsection (2B). 
+ 
+[Section 10 amended: No. 40 of 1976 s. 12; No. 6 of 2012 
+s. 24.] 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 11 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 19 
+ 
+Published on www.legislation.wa.gov.au 
+11. 
+Renewal of registration 
+ (1A) 
+A statement cannot be lodged under subsection (1) in respect of 
+the registration of a business name that expires on or after the 
+change-over day. 
+ (1B) 
+If the registration of a business name expires before the 
+change-over day, the fact that the period of one month after the 
+expiry of the registration ends on or after the change-over day 
+does not prevent a statement being lodged under subsection (1) 
+at any time within that period. 
+ 
+(1) 
+The registration of a business name remains in force for a period 
+of 3 years, but the registration may from time to time be 
+renewed by lodging with the Commissioner, at any time within 
+the period of one month before or after the expiry of the 
+registration or within such further time as the Commissioner 
+allows, a statement in the prescribed form, signed by the person 
+or one of the persons in relation to whom the name is registered, 
+together with the prescribed fee. 
+ (1a) 
+If, and to the extent that, the fee referred to in subsection (1) is a 
+tax, this subsection imposes the tax. 
+ (2A) 
+Subsection (2B) applies if —  
+ 
+(a) 
+a statement is lodged under subsection (1), but not 
+finally dealt with by the Commissioner, before the 
+change-over day; or 
+ 
+(b) 
+a statement is lodged under subsection (1) on or after the 
+change-over day. 
+ (2B) 
+The Commissioner may, on or after the change-over day, decide 
+whether, had the statement been lodged and finally dealt with 
+before the change-over day, the Commissioner would have 
+renewed the registration of the business name under 
+subsection (1). 
+ 
+(2) 
+If a statement lodged under subsection (1) is finally dealt with 
+by the Commissioner before the change-over day, the renewal 
+of a registration shall be deemed to have been effected for a 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 11 
+ 
+ 
+page 20 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+further period of 3 years as from the day on which the previous 
+registration expires or has expired, as the case may be. 
+ (3A) 
+If a statement lodged under subsection (1) is dealt with in 
+accordance with subsection (2B), the previous registration of the 
+business name to which the statement relates is to be taken to 
+have remained in force in respect of the period between when 
+the previous registration expired and the change-over day. 
+ 
+(3) 
+In respect of the registration of a business name that expires 
+before the change-over day, the Commissioner shall before or 
+after the expiration of the registration of the business name, but 
+not earlier than one month before the expiration (and in any 
+case, before the change-over day), send by post to the person or 
+persons in relation to whom the business name is or was 
+registered, at the place shown in the register as the place where 
+business is carried on under that name, a notice of the date on 
+which the registration is due to expire or has expired, as the case 
+may be. 
+ 
+(4) 
+Where the registration of a business name has expired the 
+Commissioner shall not, except where he is of the opinion that 
+owing to the nature of the business and the locality in which it is 
+carried on the public are not likely to be misled, accept for 
+registration from any person or persons other than the person or 
+persons in relation to whom the business name was registered 
+any business name that is identical with that business name or 
+that, in the opinion of the Commissioner, so nearly resembles it 
+as to be calculated to deceive, until the expiration of one month 
+after the sending of the notice referred to in subsection (3). 
+ 
+(5) 
+Notwithstanding the provisions of subsection (1), the following 
+provisions apply in relation to a business name that is deemed to 
+be registered under this Act by virtue of being registered or 
+having been deemed to have been registered under the repealed 
+Act — 
+ 
+(a) 
+the registration of the business name remains in force, 
+subject to this Act, until a date fixed by the 
+Commissioner; and 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 12 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 21 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+notice in writing of the date so fixed shall be posted by 
+the Commissioner to the person or persons in relation to 
+whom the business name is registered at the place shown 
+in the register as the place where business is carried on 
+under that name; and 
+ 
+(c) 
+the date fixed by the Commissioner shall be a date not 
+less than one month after the notice in writing has been 
+sent by post to such person or persons; and 
+ 
+(d) 
+no such notice in writing shall be sent by the 
+Commissioner until the expiration of a period of at least 
+3 years from the date upon which the name was registered 
+or deemed to be registered under the repealed Act. 
+ 
+[Section 11 amended: No. 40 of 1976 s. 5 and 12; No. 63 of 
+2003 s. 4; No. 6 of 2012 s. 25.] 
+12. 
+Notification of changes of particulars relating to registered 
+business names, cessation of business etc. 
+ (1A) 
+Except as provided in subsection (1B), a statement cannot be 
+lodged under this section on or after the change-over day. 
+ (1B) 
+Subsection (1A) does not prevent a person from lodging a 
+statement under this section on or after the change-over day if 
+the statement is being lodged in compliance with a notice issued 
+by the Commissioner under section 18(2) before the 
+change-over day. 
+ 
+(1) 
+Where a business name is registered under this Act and a 
+change occurs — 
+ 
+(a) 
+that renders the description of the nature of the business 
+lodged with the Commissioner insufficient to disclose 
+the true nature of the business; or 
+ 
+(b) 
+in relation to the place or places in the State at which 
+business is carried on under that name or in the address 
+of any such place; or 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 12 
+ 
+ 
+page 22 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(c) 
+in relation to the address of the place in the State where 
+a notice given under this Act may be served, 
+ 
+ 
+there shall be lodged with the Commissioner within one month 
+thereafter or within such further time as the Commissioner 
+allows, a statement in the prescribed form, signed by the person 
+or one of the persons in relation to whom the name is registered 
+at the time of the change, notifying the Commissioner of 
+particulars of and of the date of the change. 
+ 
+(2) 
+Where a change occurs in the christian names or surname or the 
+place of residence of any person being an individual in relation 
+to whom a business name is registered under this Act or in the 
+corporate name or the place of the registered office of a person 
+being a corporation in relation to which a business name is 
+registered under this Act, there shall be lodged with the 
+Commissioner within one month thereafter, or within such 
+further time as the Commissioner allows, a statement in the 
+prescribed form signed by that person notifying the 
+Commissioner of particulars of and of the date of the change. 
+ 
+(3) 
+Where a business name is registered under this Act in relation to 
+a person or persons and that person ceases or all or any of those 
+persons cease to carry on business in the State under that name, 
+there shall be lodged with the Commissioner within one month 
+thereafter, or within such further time as the Commissioner 
+allows, a statement in the prescribed form notifying the 
+Commissioner of the cessation and of the date thereof, signed 
+by each person who was carrying on business under that name 
+immediately before the cessation or in the case of a deceased 
+person by his personal representative. 
+ 
+(4) 
+Where a business name is registered under this Act in relation to 
+a person or persons and another person or other persons 
+commences or commence to carry on business in the State 
+under that name in place of or in association with any person or 
+persons in relation to whom the name is already registered, there 
+shall be lodged with the Commissioner within one month 
+thereafter, or within such further time as the Commissioner 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 12 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 23 
+ 
+Published on www.legislation.wa.gov.au 
+allows, a statement in the prescribed form, signed by each 
+person carrying on business under that name immediately after 
+that person commenced carrying on business under that name 
+setting out the date on which that other person so commenced to 
+carry on business and if that person is — 
+ 
+(a) 
+an individual, the christian names and surname and any 
+former christian names or surname and the usual place 
+of residence of that person and where that person is an 
+infant, in addition to the particulars referred to in this 
+paragraph, he shall be so described in the statement and 
+the date of his birth shall be set out therein; or 
+ 
+(b) 
+a corporation, the corporate name and the place of the 
+registered office of the corporation. 
+ 
+(5) 
+Subsection (6) applies if —  
+ 
+(a) 
+a statement in respect of a business name is lodged 
+under subsection (1), (2), (3) or (4), but not finally dealt 
+with by the Commissioner, before the change-over day; 
+or 
+ 
+(b) 
+a statement in respect of a business name is lodged 
+under subsection (1), (2), (3) or (4) on or after the 
+change-over day as provided for by subsection (1B). 
+ 
+(6) 
+The Commissioner may, on or after the change-over day, decide 
+what particulars in respect of the business name would have 
+been incorporated with and formed part of the register under 
+section 6 had the statement been finally dealt with by the 
+Commissioner before the change-over day. 
+ [(7) 
+deleted] 
+ 
+(8) 
+If a statement required by a provision of this section to be 
+lodged with the Commissioner is not lodged in accordance with 
+the provision, or if lodged does not comply with the provision, 
+each person required or authorised by the provision to sign the 
+statement is, unless he proves that he took all reasonable steps 
+to ensure compliance with the provision, guilty of an offence. 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 13 
+ 
+ 
+page 24 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+Penalty: $200. Default penalty. 
+ (9A) 
+If, but for subsection (1A), a statement could have been lodged 
+on or after the change-over day in accordance with and within 
+the time prescribed by subsection (1), (2), (3) or (4), a person 
+does not commit an offence under subsection (8) by reason only 
+that the person does not lodge the statement. 
+ 
+(9) 
+Where, by reason of a person commencing to carry on business 
+under a business name registered under this Act, a statement is 
+lodged with the Commissioner in accordance with and within 
+the time prescribed by subsection (4) neither that person nor any 
+other person is guilty of an offence against section 5, by reason 
+only that before the lodging of the statement he carried on 
+business under that name. 
+ (10) 
+A statement required to be lodged with the Commissioner under 
+this section with respect to any matter may be combined with a 
+statement required to be lodged under this section with respect 
+to another matter. 
+ (11) 
+A statement lodged under this section shall be accompanied by 
+the prescribed fee. 
+ 
+[Section 12 amended: No. 113 of 1965 s. 8; No. 40 of 1976 s. 6 
+and 12; No. 74 of 2003 s. 31(6)-(9); No. 6 of 2012 s. 26.] 
+13. 
+Duty to furnish information 
+ 
+(1) 
+The Commissioner may by notice in writing require any person 
+to furnish within a period specified in the notice (being a period 
+of not less than 28 days), or within such further period as the 
+Commissioner may allow, such information as appears to the 
+Commissioner to be necessary to enable him to ascertain 
+whether or not a person — 
+ 
+(a) 
+is carrying on business either alone or in association 
+with other persons under a business name that is 
+required to be registered under this Act; or 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 14 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 25 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+has failed to lodge with the Commissioner a statement 
+required to be lodged under this Act. 
+ (2A) 
+On or after the change-over day, the Commissioner cannot issue 
+a notice under subsection (1) except for the purposes of 
+ascertaining whether or not a person did, or failed to do, 
+anything before the change-over day. 
+ 
+(2) 
+A person required under subsection (1) to furnish information to 
+the Commissioner shall, within the period specified in the notice 
+or within such further period as the Commissioner has allowed, 
+furnish such information as it is within his power to furnish and 
+shall not furnish any information that to his knowledge is false 
+in any material particular. 
+ 
+Penalty: $200. 
+ 
+(3) 
+A person is not excused from furnishing any information where 
+required to do so under subsection (1) on the ground that the 
+information might tend to incriminate him or make him liable to 
+a penalty, but the information furnished by him is not 
+admissible in evidence against him in any proceedings civil or 
+criminal. 
+ 
+[Section 13 amended: No. 113 of 1965 s. 8; No. 40 of 1976 
+s. 12; No. 6 of 2012 s. 27.] 
+14. 
+Certain proceedings may be stayed or subject to 
+undertaking 
+ 
+(1) 
+Where a person who — 
+ 
+(a) 
+is carrying on business under a business name in 
+contravention of section 5 or section 5A; or 
+ 
+(b) 
+being required to lodge a statement under section 12 in 
+relation to a business name, fails to lodge that statement, 
+ 
+ 
+commences any suit or action in that business name or in 
+respect of a cause of action arising out of any dealing in or 
+under that business name, the court before which the suit or 
+action is commenced may order the person to cease to 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 15 
+ 
+ 
+page 26 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+contravene section 5 or section 5A or to cause the statement to 
+be lodged, as the case may be, and may stay all proceedings in 
+the suit or action until the order is complied with or may allow 
+the proceedings to be continued on an undertaking being given 
+by the person that he will comply with the order within such 
+time as is limited by the court. 
+ (1a) 
+Subsection (1) applies as if the State Administrative Tribunal 
+were a court and a proceeding before it were an action. 
+ 
+(2) 
+The power given by this section to a court may be exercised in 
+the case of the Supreme Court by a judge in chambers, in the 
+case of The District Court of Western Australia by a judge in 
+chambers or in the case of the Magistrates Court a magistrate in 
+chambers. 
+ 
+(3) 
+The power given by this section to the State Administrative 
+Tribunal is exercisable only by a person who is a judicial 
+member or a senior member, as defined in section 3(1) of the 
+State Administrative Tribunal Act 2004. 
+ 
+[Section 14 amended: No. 40 of 1976 s. 7; No. 55 of 2004 s. 90; 
+No. 59 of 2004 s. 141.] 
+15. 
+Signing of statements 
+ 
+(1) 
+A statement lodged with the Commissioner under this Act shall 
+be deemed to be signed by a person who is required to sign the 
+statement if — 
+ 
+(a) 
+in the case of an individual, it is signed on his behalf by 
+a person authorised in writing to so sign the statement; 
+or 
+ 
+(b) 
+in the case of a corporation, it is signed by a director or 
+manager or the secretary of the corporation. 
+ 
+(2) 
+Notwithstanding any other provision of this Act, where the 
+Commissioner is satisfied that it is not practicable to obtain the 
+signature of a person required by this Act to sign a statement, 
+the Commissioner may accept the statement for registration 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 16 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 27 
+ 
+Published on www.legislation.wa.gov.au 
+without its being signed by that person, but a person is not 
+relieved of the requirement to sign a statement and a statement 
+not signed by any person is not, by reason only of its 
+registration under this Act, evidence relating to that person’s 
+interest in a business. 
+ 
+[Section 15 amended: No. 40 of 1976 s. 12.] 
+16. 
+Verification of particulars 
+ 
+ 
+The Commissioner may, in a particular case if he thinks fit, 
+refuse to accept a statement required to be lodged with him 
+under this Act, unless the particulars set out in the statement are 
+verified by a statutory declaration made by a person who signed 
+the statement. 
+ 
+[Section 16 amended: No. 40 of 1976 s. 12.] 
+17. 
+Penalty for false statement 
+ 
+ 
+A person shall not sign or lodge with the Commissioner a 
+statement made or purporting to be made for the purposes of 
+this Act that to his knowledge is false in any material particular 
+and a person shall not authorise or permit the lodging with the 
+Commissioner of such a statement that to his knowledge is false 
+in any material particular. 
+ 
+Penalty: $1 000. 
+ 
+[Section 17 amended: No. 113 of 1965 s. 8; No. 40 of 1976 
+s. 12; No. 78 of 1995 s. 147.] 
+18. 
+Notice of proposed cancellation 
+ 
+(1) 
+Where the Commissioner has reasonable cause to believe that a 
+person or persons, in relation to whom a business name is 
+registered under this Act, is not or are not carrying on business 
+in the State under that name, he may, before the change-over 
+day, send by post a notice addressed to the person or persons at 
+the place shown in the register as the place where business is 
+carried on under that name — 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 19 
+ 
+ 
+page 28 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(a) 
+enquiring whether the person is or the persons are 
+carrying on business under the name; and 
+ 
+(b) 
+stating that unless the Commissioner is satisfied within 
+one month from the date of the notice that business is 
+being carried on in the State by that person or those 
+persons under that name, 
+ 
+ 
+the registration of the business name may be cancelled. 
+ 
+(2) 
+Where the Commissioner has reasonable cause to believe that any 
+provision of section 12 that is required to be complied with by or 
+on behalf of the person or persons in relation to whom a business 
+name is registered under this Act has not been complied with, he 
+may, before the change-over day, send by post a notice addressed 
+to the person or persons at the place shown in the register as the 
+place where business is carried on under that name stating that 
+unless — 
+ 
+(a) 
+within one month from the date of the notice that 
+provision is complied with; or 
+ 
+(b) 
+the Commissioner is satisfied that there was in fact no 
+failure to comply with the provision, 
+ 
+ 
+the registration of the business name may be cancelled. 
+ 
+[Section 18 amended: No. 40 of 1976 s. 12; No. 6 of 2012 
+s. 28.] 
+19. 
+Cancellation of registration 
+ 
+(1) 
+The Commissioner may, before the change-over day, cancel the 
+registration of a business name — 
+ 
+(a) 
+if there is lodged with the Commissioner a statement under 
+section 12 notifying him that the person or all the persons 
+in relation to whom the business name is registered has or 
+have ceased to carry on business in the State under that 
+name and it does not appear from that statement, or 
+another statement accompanying that statement, that 
+another person has or other persons have commenced to 
+carry on business in the State under that name; or 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 19 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 29 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+if the Commissioner has sent a notice to any person or 
+persons in respect of the business name under 
+section 18(1) and that person does not, or those persons 
+do not, satisfy the Commissioner within one month from 
+the date of the notice that business is being carried on in 
+the State by that person or those persons under that 
+name; or 
+ 
+(c) 
+if the Commissioner has sent a notice to any person or 
+persons under section 18(2) and, within one month after 
+the date of the notice, the provision of section 12 to 
+which the notice relates has not been complied with, or 
+the person does not or those persons do not satisfy the 
+Commissioner that there was no failure to comply with 
+the provision; or 
+ 
+(d) 
+if the business name is registered in relation to a 
+corporation only and the corporation has been 
+deregistered under the Corporations Act 2001 of the 
+Commonwealth. 
+ (2A) 
+Subsection (2B) applies if, before the change-over day, the 
+Commissioner sends a notice referred to in subsection (1)(b) or 
+(c) in respect of which the one month period referred to in that 
+provision expires on or after the change-over day.  
+ (2B) 
+Upon the expiration of the one month period, the Commissioner 
+may decide whether, had the one month period expired before 
+the change-over day, the Commissioner would have cancelled 
+the registration of the business name under subsection (1). 
+ 
+(2) 
+The Commissioner may on any grounds that he thinks sufficient 
+revoke any cancellation by him under subsection (1) of the 
+registration of a business name and in that event the business 
+name shall be deemed to have continued to be registered as if 
+the registration had not been cancelled. 
+ 
+(3) 
+Where the registration of a business name has been cancelled 
+under subsection (1) or the Commissioner decides under 
+subsection (2B) that the Commissioner would have cancelled 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 20 
+ 
+ 
+page 30 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+the registration of a business name, a person in relation to whom 
+the business name was registered immediately before the 
+cancellation or, in the case of a decision of the Commissioner 
+under subsection (2B), a person in relation to whom the 
+business name was registered immediately before the 
+change-over day, may apply to the State Administrative 
+Tribunal for a review of the Commissioner’s decision to cancel 
+the registration of the business name or for a review of the 
+Commissioner’s decision under subsection (2B) (as the case 
+requires). 
+ 
+(4) 
+An application to the State Administrative Tribunal under 
+subsection (3) cannot be made —  
+ 
+(a) 
+in the case of a decision of the Commissioner under 
+subsection (1) made before the change-over day — after 
+the end of 2 months after the change-over day; or 
+ 
+(b) 
+in the case of a decision of the Commissioner under 
+subsection (2B) made on or after the change-over day — 
+more than 28 days after the Commissioner’s decision. 
+ 
+(5) 
+If, before the change-over day, the State Administrative 
+Tribunal sets aside the Commissioner’s decision to cancel the 
+registration of the business name under subsection (1), the 
+business name shall be deemed to have continued to be 
+registered as if the registration has not been cancelled and the 
+Commissioner, upon the lodging with him, before the 
+change-over day, of an office copy of the order shall, before the 
+change-over day, make such entries and alterations in the 
+register as he considers necessary for the purposes of the order. 
+ 
+[Section 19 amended: No. 40 of 1976 s. 12; No. 10 of 1982 
+s. 28; No. 20 of 2003 s. 9; No. 55 of 2004 s. 91; No. 6 of 2012 
+s. 29.] 
+20. 
+Use and exhibition of business name 
+ 
+ 
+Where a business name is registered under this Act — 
+ 
+(a) 
+a person or persons, in relation to whom a business 
+name is registered, shall not issue or sign, in connection 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 21 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 31 
+ 
+Published on www.legislation.wa.gov.au 
+with the carrying on of that business, any business letter, 
+statement of account, invoice, official notice, 
+publication, order for goods or receipt unless the 
+business name appears in legible characters thereon; and 
+ 
+(b) 
+the business name shall at all times be displayed in a 
+conspicuous position on the outside of every place at 
+which business is carried on under that name; and 
+ 
+(c) 
+the certificate of registration of the business name shall 
+at all times be exhibited in a conspicuous position at the 
+place where business is carried on under that name or if 
+there is more than one such place at the principal place 
+where business is so carried on, 
+ 
+ 
+and in the event of a contravention of this section each person 
+carrying on business under that name is, unless he proves that 
+he took all reasonable steps to ensure compliance with this 
+section, guilty of an offence. 
+ 
+Penalty: $100. Default penalty. 
+ 
+[Section 20 amended: No. 113 of 1965 s. 8.] 
+21. 
+Commissioner may correct errors in register etc. 
+ 
+(1) 
+The Commissioner may, before the change-over day, on such 
+evidence as to him appears sufficient correct an entry in the 
+register or in a certificate of registration of a business name. 
+ 
+(2) 
+When correcting an error under subsection (1), the 
+Commissioner shall not erase or render illegible the original 
+writing and shall affix the date upon which the correction was 
+made together with his initials. 
+ 
+(3) 
+An entry or certificate corrected under this section has the same 
+validity and effect as if the error had not been made. 
+ 
+(4) 
+The Commissioner may, before the change-over day, accept and 
+register a statement lodged to correct an error in or to supply 
+any particular omitted from a statement previously lodged and 
+registered; and in that event the statement previously lodged and 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 22 
+ 
+ 
+page 32 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+that lodged under this subsection shall be read as one and shall 
+both be incorporated with and form part of the register. 
+ 
+[Section 21 amended: No. 40 of 1976 s. 12; No. 6 of 2012 
+s. 30.] 
+22. 
+Inspection of statements 
+ 
+(1) 
+This section does not apply on or after the day after the end of 
+the period of 7 years beginning on the change-over day. 
+ 
+(2) 
+A person may, on payment of the prescribed fee, inspect any 
+statement lodged with the Commissioner under this Act or filed 
+under any corresponding previous enactment, and may make a 
+copy thereof or take extracts therefrom. 
+ 
+[Section 22 amended: No. 40 of 1976 s. 6; No. 6 of 2012 s. 31.] 
+23. 
+Certificate of registration or non-registration 
+ (1A) 
+A request cannot be made under subsection (1) on or after the 
+change-over day. 
+ 
+(1) 
+The Commissioner shall upon request by a person and payment 
+of the prescribed fee issue to that person — 
+ 
+(a) 
+a copy of or extract from the register or a copy of or 
+extract from a document forming part of the register 
+certified under his hand to be a true copy or extract; or 
+ 
+(b) 
+a certificate under his hand that a business name was or 
+was not, on a date or during a period specified in the 
+certificate, registered under this Act in relation to a 
+person, or that a firm, individual or corporation was or 
+was not, on a date or during a period specified in the 
+certificate, registered under any corresponding previous 
+enactment. 
+ 
+(2) 
+The Commissioner shall not be required to issue a certificate 
+under subsection (1)(b) in respect of a date or a period ending 
+on a date earlier than the commencement of this Act or more 
+than 12 years before the date of the receipt of the request. 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 24 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 33 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+[Section 23 amended: No. 40 of 1976 s. 12; No. 6 of 2012 
+s. 32.] 
+24. 
+Evidence of registration or non-registration 
+ 
+(1) 
+A document purporting to be — 
+ 
+(a) 
+a certificate of registration issued under this Act; or 
+ 
+(b) 
+a copy of or extract from the register or a copy of or 
+extract from a document forming part of the register 
+issued under section 23(1)(a); or 
+ 
+(c) 
+a certificate issued under section 23(1)(b); or 
+ 
+(d) 
+a combination of 2 or more of the certificates, copies or 
+extracts referred to in paragraph (a), (b) or (c), 
+ 
+ 
+is in all courts and before all person having authority to hear, 
+receive and examine evidence prima facie evidence of any 
+matter contained or set out therein. 
+ 
+(2) 
+A copy of an entry in the Commonwealth register, provided by 
+ASIC under the Business Names Registration Act 2011 
+(Commonwealth) section 60, in relation to a business name that 
+was registered under this Act is admissible in proceedings 
+relating to a matter arising before the change-over day and is 
+evidence of the matters stated in the entry. 
+ 
+(3) 
+In subsection (2) —  
+ 
+Commonwealth register means the Business Names Register 
+established and maintained under the Business Names 
+Registration Act 2011 (Commonwealth) section 22. 
+ 
+[Section 24 amended: No. 6 of 2012 s. 33.] 
+[25. 
+Deleted: No. 6 of 2012 s. 34.] 
+26. 
+Invitations to the public to make deposits or loans 
+ 
+(1) 
+A person shall not, in connection with an invitation to lend or 
+deposit money, being an invitation made by advertisement or 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 27 
+ 
+ 
+page 34 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+otherwise to the public or to any person as a member of the 
+public, use or refer to a business name that — 
+ 
+(a) 
+is registered under this Act; or 
+ 
+(b) 
+is required to be registered under this Act; or 
+ 
+(c) 
+would, if business were carried on in the State 
+thereunder, be required to be registered under this Act. 
+ 
+Penalty: $1 000. 
+ 
+(2) 
+This section does not apply to — 
+ 
+(a) 
+an invitation to the public made by a public company in 
+conformity with the requirements of the Corporations 
+Act 2001 of the Commonwealth; or 
+ 
+(b) 
+an invitation made to a person whose ordinary business 
+it is to lend money; or 
+ 
+(c) 
+a prescribed invitation or class of invitations or an 
+invitation made to a prescribed person or class of 
+persons. 
+ 
+[Section 26 amended: No. 113 of 1965 s. 8; No. 40 of 1976 s. 9; 
+No. 10 of 1982 s. 28; No. 48 of 1983 s. 2; No. 20 of 2003 s. 10.] 
+27. 
+General penalty provisions 
+ 
+(1) 
+A person who — 
+ 
+(a) 
+does that which by or under this Act he is forbidden to 
+do; or 
+ 
+(b) 
+does not do that which by or under this Act he is 
+required or directed to do; or 
+ 
+(c) 
+otherwise contravenes or fails to comply with any 
+provision of this Act, 
+ 
+ 
+is guilty of an offence against this Act. 
+ 
+(2) 
+A person who is guilty of an offence against this Act is liable on 
+conviction to a penalty or punishment not exceeding the penalty 
+or punishment expressly mentioned as the penalty or 
+punishment for the offence. 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 28 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 35 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(3) 
+The penalty or punishment, pecuniary or other, set out in or at 
+the foot of any section or part of a section indicates that the 
+offence is punishable upon conviction by a penalty or 
+punishment not exceeding that so set out and where the penalty 
+or punishment is expressed to apply to a part only of the section 
+it applies to that part only. 
+28. 
+Default penalty 
+ 
+(1) 
+Where in or at the foot of any section or part of a section there 
+appears the expression “Default penalty” it indicates that any 
+person who is convicted of an offence against this Act in 
+relation to that section or part is guilty of a further offence 
+against this Act if the offence continues after he is so convicted 
+and liable to an additional penalty for each day during which the 
+offence so continues of not more than $20. 
+ 
+(2) 
+Where an offence is committed by a person by reason of his 
+failure to comply with a provision of this Act by or under which 
+he is required or directed to do anything within a particular 
+period that offence, for the purpose of subsection (1), shall be 
+deemed to continue so long as the thing so required or directed 
+to be done by him remains undone notwithstanding that the 
+period has elapsed. 
+ 
+(3) 
+Notwithstanding anything contained in any Act, proceedings for 
+any offence against this Act may be brought within the period of 
+3 years after the commission of the alleged offence or, with the 
+consent of the Minister, at any later time but in any case not 
+more than 3 years after the change-over day. 
+ 
+[Section 28 amended: No. 113 of 1965 s. 8; No. 40 of 1976 
+s. 10; No. 6 of 2012 s. 35.] 
+29. 
+Offences committed by corporations 
+ 
+ 
+Where a person guilty of an offence against this Act — 
+ 
+(a) 
+is a corporation; or 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 30 
+ 
+ 
+page 36 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(b) 
+is a person who purported to act for or on behalf of a 
+corporation, 
+ 
+ 
+any director, manager, secretary or other officer of the 
+corporation who was knowingly a party to the offence is also 
+guilty of that offence. 
+30. 
+Evidentiary provisions 
+ 
+(1) 
+If, in any proceedings for an offence against this Act, proof is 
+given that a business name has been displayed on any premises, 
+and evidence is given from which the court may infer that the 
+business name has reference to any business carried on at the 
+premises, the person or persons carrying on the business shall, 
+in the absence of proof to the contrary, be deemed to be carrying 
+on the business under that business name. 
+ 
+(2) 
+Proceedings may be taken and prosecuted in any court of 
+competent jurisdiction against any person or persons in the 
+business name under which the person is or the persons are 
+carrying on business, if that business name is not registered 
+under this Act and the name is, for the purpose of the 
+proceedings, a sufficient designation of the person or persons in 
+all writs, summonses, plaints and other legal documents and 
+instruments, and any judgment obtained or order made in those 
+proceedings may be enforced against that person or against 
+those persons or any of those persons, as the case may be. 
+ 
+(3) 
+Nothing in this section shall be construed as exempting any 
+person from compliance with any provision of this Act. 
+31. 
+Service of notices by Commissioner 
+ 
+ 
+Where by this Act the Commissioner is required or permitted to 
+send a notice to the person or persons in respect of whom the 
+business name is registered at the place where business is 
+carried on under a business name, the notice may be sent by 
+post addressed to the business name — 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 31A 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 37 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(aa) 
+at the place shown in the register as the place in the 
+State where a notice given under this Act may be served; 
+or 
+ 
+(a) 
+at the place shown in the register as the place where 
+business is so carried on; or 
+ 
+(b) 
+where more than one place is shown in the register as 
+the place where business is carried on — 
+ 
+(i) 
+at the place shown in the register as the principal 
+place where business is so carried on; or 
+ 
+(ii) 
+if no place is so shown as the principal place, at 
+the place shown that appears first in the register 
+as a place where business is so carried on. 
+ 
+[Section 31 amended: No. 40 of 1976 s. 12; No. 74 of 2003 
+s. 31(10).] 
+31A. 
+Delegation by Commissioner 
+ 
+(1) 
+The Commissioner may delegate to any other person employed 
+in the Department any power or duty of the Commissioner 
+under another provision of this Act. 
+ 
+(2) 
+The delegation must be in writing signed by the Commissioner. 
+ 
+(3) 
+A person to whom a power or duty is delegated under this 
+section cannot delegate that power or duty. 
+ 
+(4) 
+A person exercising or performing a power or duty that has been 
+delegated to the person under this section is to be taken to do so 
+in accordance with the terms of the delegation unless the 
+contrary is shown. 
+ 
+(5) 
+Nothing in this section limits the ability of the Commissioner to 
+perform a function through an officer or agent. 
+ 
+[Section 31A inserted: No. 28 of 2006 s. 57.] 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 31B 
+ 
+ 
+page 38 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+31B. 
+Information officially obtained to be confidential 
+ 
+(1) 
+A person who misuses information obtained by reason of any 
+function that person has, or at any time had, in the 
+administration of this Act commits an offence. 
+ 
+Penalty: $20 000. 
+ 
+(2) 
+A person misuses information if it is, directly or indirectly, 
+recorded, used, or disclosed to another person, other than — 
+ 
+(a) 
+in the course of duty; or 
+ 
+(b) 
+under this Act; or 
+ 
+(c) 
+for the purposes of the investigation of any suspected 
+offence or the conduct of proceedings against any 
+person for an offence; or 
+ 
+(d) 
+in a manner that could not reasonably be expected to 
+lead to the identification of any person to whom the 
+information refers; or 
+ 
+(e) 
+with the consent of the person to whom the information 
+relates, or each of them if there is more than one. 
+ 
+(3) 
+In this section —  
+ 
+information means information concerning the affairs of a 
+person. 
+ 
+[Section 31B inserted: No. 28 of 2006 s. 57.] 
+31C. 
+Protection from liability for wrongdoing 
+ 
+(1) 
+A person is not liable for anything that the person has, in good 
+faith, done in the performance or purported performance of a 
+function under this Act. 
+ 
+(2) 
+The State is also relieved of any liability that it might otherwise 
+have had for another person having done anything as described 
+in subsection (1). 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 31D 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 39 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(3) 
+The protection given by this section applies even though the 
+thing done as described in subsection (1) may have been 
+capable of being done whether or not this Act had been enacted. 
+ 
+(4) 
+In this section, a reference to the doing of anything includes a 
+reference to an omission to do anything. 
+ 
+[Section 31C inserted: No. 28 of 2006 s. 57.] 
+31D. 
+Powers of investigation 
+ 
+ 
+The Fair Trading Act 2010 section 61 and Part 6 of that Act 
+apply to this Act. 
+ 
+[Section 31D inserted: No. 58 of 2010 s. 185.] 
+32. 
+Regulations 
+ 
+(1) 
+The Governor may make regulations not inconsistent with this 
+Act prescribing all matters that are required or permitted to be 
+prescribed or that are necessary or convenient to be prescribed 
+to carry this Act into effect or to give effect to any power, 
+function, duty or authority under this Act and, without limiting 
+the generality of the power conferred by this section, the 
+regulations may prescribe — 
+ 
+(a) 
+the fees to be paid to the Commissioner under this Act; 
+and 
+ 
+(b) 
+the conditions under and subject to which fees may be 
+waived by the Commissioner or the Minister; and 
+ 
+(c) 
+the imposition of additional fees on the late lodgment of 
+documents; and 
+ 
+(ca) 
+the manner in which applications for the Minister’s 
+consent to the registration of business names which may 
+not be registered without his consent may be made and 
+granted, and the fees to be paid to the Commissioner on 
+the making of any such application and on the Minister’s 
+giving his consent to the registration of any such name; 
+and 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+s. 32 
+ 
+ 
+page 40 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+(d) 
+the forms to be used under this Act; the method of 
+verifying any information required in those forms; and 
+the completion or preparation of those forms, as the case 
+requires, in accordance with the directions contained 
+therein; and 
+ 
+(e) 
+the duties of the Commissioner for the purposes of this 
+Act; and 
+ 
+(f) 
+generally the conduct and regulation of registration 
+under this Act. 
+ 
+(2) 
+The regulations may prescribe penalties not exceeding $40 for 
+any breach thereof. 
+ 
+[Section 32 amended: No. 113 of 1965 s. 8; No. 40 of 1976 s. 11 
+and 12; No. 48 of 1983 s. 3.]
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+Acts repealed 
+Schedule 
+ 
+ 
+ 
+ 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 41 
+ 
+Published on www.legislation.wa.gov.au 
+Schedule — Acts repealed 
+[s. 3(1)] 
+ 
+[Heading amended: No. 19 of 2010 s. 4.] 
+Number 
+of Act 
+Title of Act 
+Extent of 
+repeal 
+2 of 1943 
+11 of 1946 
+Business Names Act 1942 
+Business Names Act Amendment Act 1946 
+The whole. 
+The whole. 
+ 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+page 42 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+Notes 
+1 
+This is a compilation of the Business Names Act 1962 and includes the 
+amendments made by the other written laws referred to in the following table.  
+The table also contains information about any reprint. 
+Compilation table 
+Short title 
+Number 
+and year 
+Assent 
+Commencement 
+Business Names Act 1962 
+8 of 1962 
+(11 Eliz. II 
+No. 8) 
+27 Sep 1962 12 Oct 1962 (see s. 2 and 
+Gazette 12 Oct 1962 p. 3366) 
+Decimal Currency 
+Act 1965 
+113 of 1965 
+21 Dec 1965 Act other than s. 4-9: 
+21 Dec 1965 (see s. 2(1)); 
+s. 4-9: 14 Feb 1966 (see s. 2(2)) 
+Reprint of the Business Names Act 1962 authorised 17 Mar 1971 (includes amendments 
+listed above) 
+Business Names Act 
+Amendment Act 1976 
+40 of 1976 
+9 Jun 1976 
+6 Aug 1976 (see s. 2 and 
+Gazette 6 Aug 1976 p. 2657) 
+Companies 
+(Consequential 
+Amendments) Act 1982 
+s. 28 
+10 of 1982 
+14 May 1982 1 Jul 1982 (see s. 2(1) and 
+Gazette 25 Jun 1982 p. 2079) 
+Business Names 
+Amendment Act 1983 
+48 of 1983 
+5 Dec 1983 
+5 Dec 1983 
+Corporations (Western 
+Australia) Act 1990 s. 98 
+105 of 1990 
+2 Jan 1991 
+1 Jan 1991 (see s. 2) 
+Sentencing (Consequential 
+Provisions) Act 1995 
+s. 147 
+78 of 1995 
+16 Jan 1996 
+4 Nov 1996 (see s. 2 and 
+Gazette 25 Oct 1996 p. 5632) 
+Statutes (Repeals and 
+Minor Amendments) 
+Act (No. 2) 1998 s. 21 
+10 of 1998 
+30 Apr 1998 30 Apr 1998 (see s. 2(1)) 
+Acts Amendment and 
+Repeal (Financial Sector 
+Reform) Act 1999 s. 64 
+26 of 1999 
+29 Jun 1999 
+1 Jul 1999 (see s. 2(1) and 
+Gazette 30 Jun 1999 p. 2905) 
+Reprint of the Business Names Act 1962 as at 16 Feb 2001 (includes amendments listed 
+above) 
+Corporations 
+(Consequential 
+Amendments) Act 
+(No. 2) 2003 Pt. 3 
+20 of 2003 
+23 Apr 2003 15 Jul 2001 (see s. 2(1) and 
+Cwlth Gazette 13 Jul 2001 
+No. S285) 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 43 
+ 
+Published on www.legislation.wa.gov.au 
+Short title 
+Number 
+and year 
+Assent 
+Commencement 
+Sentencing Legislation 
+Amendment and Repeal 
+Act 2003 s. 41 
+50 of 2003 
+9 Jul 2003 
+15 May 2004 (see s. 2 and 
+Gazette 14 May 2004 p. 1445) 
+Business Names 
+Amendment Act 2003 
+63 of 2003 
+26 Nov 2003 26 Nov 2003 (see s. 2) 
+Statutes (Repeals and 
+Minor Amendments) 
+Act 2003 s. 31 
+74 of 2003 
+15 Dec 2003 15 Dec 2003 (see s. 2) 
+Courts Legislation 
+Amendment and Repeal 
+Act 2004 s. 141 
+59 of 2004 
+23 Nov 2004 1 May 2005 (see s. 2 and 
+Gazette 31 Dec 2004 p. 7128) 
+State Administrative 
+Tribunal (Conferral of 
+Jurisdiction) Amendment 
+and Repeal Act 2004 
+Pt. 2 Div. 15 4 
+55 of 2004 
+24 Nov 2004 1 Jan 2005 (see s. 2 and Gazette 
+31 Dec 2004 p. 7130) 
+Reprint 3: The Business Names Act 1962 as at 28 Oct 2005 (includes amendments listed 
+above) 
+Machinery of Government 
+(Miscellaneous 
+Amendments) Act 2006 
+Pt. 4 Div. 3 5 
+28 of 2006 
+26 Jun 2006 
+1 Jul 2006 (see s. 2 and Gazette 
+27 Jun 2006 p. 2347) 
+Standardisation of 
+Formatting Act 2010 s. 4 
+19 of 2010 
+28 Jun 2010 
+11 Sep 2010 (see s. 2(b) and 
+Gazette 10 Sep 2010 p. 4341) 
+Acts Amendment (Fair 
+Trading) Act 2010 s. 185 
+58 of 2010 
+8 Dec 2010 
+1 Jan 2011 (see s. 2(c) and 
+Gazette 24 Dec 2010 p. 6805) 
+Reprint 4: The Business Names Act 1962 as at 2 Sep 2011 (includes amendments listed 
+above) 
+Business Names 
+(Commonwealth Powers) 
+Act 2012 Pt. 3 
+6 of 2012 
+10 Apr 2012 11 Apr 2012 (see s. 2(b)) 
+2 
+Repealed by the Interpretation Act 1984 s. 77(1). 
+3 
+Repealed by the Statutes (Repeals and Miscellaneous Amendments) Act 2009 s. 4. 
+4 
+The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and 
+Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and 169, 
+and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal with 
+certain transitional issues some of which may be relevant to this Act. 
+5 
+The Machinery of Government (Miscellaneous Amendments) Act 2006 Pt. 4 
+Div. 23 has transitional provisions some of which may be relevant to this Act. 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+page 44 
+Version 04-b0-06 
+As at 11 Apr 2012 
+ 
+Published on www.legislation.wa.gov.au 
+ 
+
+--------------------------------------------------------------------------------
+Business Names Act 1962 
+ 
+ 
+ 
+ 
+Defined terms 
+ 
+ 
+As at 11 Apr 2012 
+Version 04-b0-06 
+page 45 
+ 
+Published on www.legislation.wa.gov.au 
+Defined terms 
+ 
+[This is a list of terms defined and the provisions where they are defined.  
+The list is not part of the law.] 
+Defined term 
+Provision(s) 
+ASIC ................................................................................................................ 4(1) 
+business ............................................................................................................ 4(1) 
+business name .................................................................................................. 4(1) 
+business names information .......................................................................... 4B(1) 
+carrying on business ......................................................................................... 4(1) 
+change-over day ............................................................................................... 4(1) 
+christian name .................................................................................................. 4(1) 
+Commissioner .................................................................................................. 4(1) 
+Commonwealth register ................................................................................. 24(3) 
+Commonwealth Transitional Act ..................................................................... 4(1) 
+corporation ....................................................................................................... 4(1) 
+Department ...................................................................................................... 4(1) 
+director ............................................................................................................. 4(1) 
+executive officer ........................................................................................ 4AA(3) 
+firm .................................................................................................................. 4(1) 
+individual ......................................................................................................... 4(1) 
+information ................................................................................................. 31B(3) 
+initial ................................................................................................................ 4(1) 
+national business names legislation ................................................................. 4(1) 
+register ............................................................................................................. 4(1) 
+repealed Act ..................................................................................................... 4(1) 
+secretary ........................................................................................................... 4(1) 
+section .............................................................................................................. 4(1) 
+ 
+ 
+
+--------------------------------------------------------------------------------

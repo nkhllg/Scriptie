@@ -1,0 +1,2999 @@
+ 
+Prepared by the Office of Parliamentary Counsel, Canberra 
+ 
+Insurance Contracts Regulations 2017 
+made under the 
+Insurance Contracts Act 1984 
+Compilation No. 2 
+Compilation date: 
+19 February 2021 
+Includes amendments up to: 
+F2021L00127 
+Registered: 
+10 March 2021 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+About this compilation 
+This compilation 
+This is a compilation of the Insurance Contracts Regulations 2017 that shows the text of the 
+law as amended and in force on 19 February 2021 (the compilation date). 
+The notes at the end of this compilation (the endnotes) include information about amending 
+laws and the amendment history of provisions of the compiled law. 
+Uncommenced amendments 
+The effect of uncommenced amendments is not shown in the text of the compiled law. Any 
+uncommenced amendments affecting the law are accessible on the Legislation Register 
+(www.legislation.gov.au). The details of amendments made up to, but not commenced at, the 
+compilation date are underlined in the endnotes. For more information on any uncommenced 
+amendments, see the series page on the Legislation Register for the compiled law. 
+Application, saving and transitional provisions for provisions and amendments 
+If the operation of a provision or amendment of the compiled law is affected by an 
+application, saving or transitional provision that is not included in this compilation, details are 
+included in the endnotes. 
+Editorial changes 
+For more information about any editorial changes made in this compilation, see the endnotes. 
+Modifications 
+If the compiled law is modified by another law, the compiled law operates as modified but the 
+modification does not amend the text of the law. Accordingly, this compilation does not show 
+the text of the compiled law as modified. For more information on any modifications, see the 
+series page on the Legislation Register for the compiled law. 
+Self-repealing provisions 
+If a provision of the compiled law has been repealed in accordance with a provision of the 
+law, details are included in the endnotes. 
+   
+   
+   
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+Insurance Contracts Regulations 2017 
+i 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Contents 
+Part 1—Preliminary 
+1 
+1 
+Name ........................................................................................................................... 1 
+3 
+Authority ..................................................................................................................... 1 
+4 
+Definitions .................................................................................................................. 1 
+5 
+Definition of consumer credit insurance..................................................................... 4 
+Part 2—Disclosures and misrepresentations 
+5 
+Division 1—Insured’s duty of disclosure 
+5 
+7 
+Duty of disclosure—written notice ............................................................................. 5 
+8 
+Duty of disclosure—reminder notice .......................................................................... 5 
+Division 2—Remedies for non-disclosure and misrepresentations by insured 
+6 
+10 
+Prescribed rate of interest ............................................................................................ 6 
+Division 3—Key Facts Sheets 
+7 
+11 
+Application of Division ............................................................................................... 7 
+12 
+What is a Key Facts Sheet? ......................................................................................... 7 
+13 
+Insurer’s obligation to provide Key Facts Sheet ......................................................... 7 
+Part 3—The contract 
+9 
+Division 1—Standard cover 
+9 
+Subdivision A—Purpose of Division 
+9 
+14 
+Purpose of Division..................................................................................................... 9 
+Subdivision B—Motor vehicle insurance 
+9 
+15 
+Prescribed contracts .................................................................................................... 9 
+16 
+Prescribed events ........................................................................................................ 9 
+17 
+Minimum amounts .....................................................................................................12 
+Subdivision C—Home buildings insurance 
+12 
+18 
+Prescribed contracts ...................................................................................................12 
+19 
+Prescribed events .......................................................................................................13 
+20 
+Minimum amounts .....................................................................................................15 
+Subdivision D—Home contents insurance 
+15 
+21 
+Prescribed contracts ...................................................................................................15 
+22 
+Prescribed events .......................................................................................................16 
+23 
+Minimum amounts .....................................................................................................18 
+Subdivision E—Sickness and accident insurance 
+18 
+24 
+Prescribed contracts ...................................................................................................18 
+25 
+Prescribed events .......................................................................................................19 
+26 
+Minimum amounts .....................................................................................................20 
+Subdivision F—Consumer credit insurance 
+21 
+27 
+Prescribed contracts ...................................................................................................21 
+28 
+Prescribed events .......................................................................................................21 
+29 
+Minimum amounts .....................................................................................................22 
+Subdivision G—Travel insurance 
+23 
+30 
+Prescribed contracts ...................................................................................................23 
+31 
+Prescribed events .......................................................................................................23 
+32 
+Minimum amounts .....................................................................................................25 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+ 
+ 
+ii 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Division 2—Definition of flood 
+26 
+33 
+Prescribed contracts ...................................................................................................26 
+34 
+Meaning of flood in prescribed contracts etc. ............................................................26 
+35 
+Meaning of small business .........................................................................................27 
+Division 3—General provisions relating to insurance contracts 
+29 
+36 
+Classes of contracts of insurance in relation to which section 46 of the Act 
+does not apply ............................................................................................................29 
+37 
+Classes of contracts of insurance in relation to which section 53 of the Act 
+does not apply ............................................................................................................29 
+Part 4—Claims 
+31 
+38 
+Interest on claims .......................................................................................................31 
+39 
+Insurance for risks related to war and terrorism .........................................................31 
+Part 4A—Miscellaneous 
+33 
+39A 
+Infringement notices—prescribed offences ................................................................33 
+Part 5—Transitional matters 
+34 
+40 
+Things done under the Insurance Contracts Regulations 1985 ..................................34 
+41 
+References to provisions of the Insurance Contracts Regulations 1985 ....................34 
+42 
+Application of amendments made by the Financial Sector Reform (Hayne 
+Royal Commission Response) (2021 Measures No. 1) Regulations 2021 ..................34 
+Schedule 1—Writing to inform of duty of disclosure 
+35 
+Part 1—Contracts of general insurance (other than consumer insurance 
+contracts) 
+35 
+Part 2—Contracts of life insurance (other than consumer insurance 
+contracts) 
+36 
+Schedule 2—Writing to inform persons to be insured by others 
+(other than under a consumer insurance contract) 
+37 
+Schedule 3—Writing to remind of duty of disclosure 
+38 
+Part 1—Contracts of general insurance (other than consumer insurance 
+contracts) 
+38 
+Part 2—Contracts of life insurance (other than consumer insurance 
+contracts) 
+39 
+Schedule 5—Key Facts Sheets 
+40 
+Form 1—Home buildings insurance contract 
+40 
+Form 2—Home contents insurance contract 
+42 
+Endnotes 
+44 
+Endnote 1—About the endnotes 
+44 
+Endnote 2—Abbreviation key 
+45 
+Endnote 3—Legislation history 
+46 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+Insurance Contracts Regulations 2017 
+iii 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Endnote 4—Amendment history 
+47 
+ 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Preliminary  Part 1 
+   
+ 
+Section 1 
+ 
+ 
+Insurance Contracts Regulations 2017 
+1 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Part 1—Preliminary 
+   
+1  Name 
+ 
+ This instrument is the Insurance Contracts Regulations 2017. 
+3  Authority 
+ 
+ This instrument is made under the Insurance Contracts Act 1984. 
+4  Definitions 
+ 
+(1) In this instrument: 
+accidental damage, in relation to a thing, means damage that occurs to the thing 
+fortuitously in relation to the insured. 
+accidental injury means an injury that occurs fortuitously to the insured person 
+but does not include an injury that is caused by or results from a sickness or 
+disease. 
+contents, in relation to a residential building, means: 
+ 
+(a) furniture, furnishings and carpets (whether fixed or unfixed); or 
+ 
+(b) household goods; or 
+ 
+(c) clothing and other personal effects; or 
+ 
+(d) any of the following: 
+ 
+(i) a picture; 
+ 
+(ii) a work of art; 
+ 
+(iii) a fur; 
+ 
+(iv) a piece of jewellery; 
+ 
+(v) a gold or silver article; 
+ 
+(vi) a document of any kind; 
+ 
+(vii) a collection of any kind; 
+ 
+ the value of all of which at the time when the relevant contract of insurance 
+is entered into does not exceed $500; or 
+ 
+(e) swimming pools that are not fixtures, that are owned by the insured or by a 
+residing family member of the insured, but does not include an article or 
+thing to which the expression residential building extends. 
+expropriation, in relation to property, means the lawful seizure, confiscation, 
+nationalisation or requisition of the property. 
+home building, in relation to a site, means: 
+ 
+(a) a building used principally and primarily as a place of residence; or 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 1  Preliminary 
+   
+ 
+Section 4 
+ 
+2 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(b) out-buildings, fixtures and structural improvements used for domestic 
+purposes, being purposes related to the use of the building mentioned in 
+paragraph (a); 
+on the site and, without limiting the generality of the expression, includes the 
+following: 
+ 
+(c) fixed wall coverings, fixed ceiling coverings and fixed floor coverings 
+(other than carpets); 
+ 
+(d) services (whether underground or not) that are the property of the insured 
+or that the insured is liable to repair or replace or pay the cost of repairing 
+and replacing; 
+ 
+(e) fences and gates wholly or partly on the site; 
+but does not include: 
+ 
+(f) a hotel; or 
+ 
+(g) a motel; or 
+ 
+(h) a boarding house; or 
+ 
+(i) a building that is in the course of construction; or 
+ 
+(j) a temporary building or structure or a demountable or moveable structure; 
+or 
+ 
+(k) a caravan (whether fixed to the site or not); or 
+ 
+(l) a building that is let or rented by the insured, as lessor, as a business and is 
+not the principal residence of the insured. 
+home buildings insurance contract means a contract referred to in section 18. 
+home contents insurance contract means a contract referred to in 
+subsection 21(1). 
+insured person, in relation to a contract of insurance, means a person specified in 
+the contract as a person in respect of whose death, sickness, disease, injury or 
+unemployment insurance cover is provided under the contract. 
+member of the insured person’s travelling party means a member of the family 
+of the insured person, or a person specified in the contract of insurance, 
+travelling or intending to travel with the insured person on the specified journey. 
+motor vehicle means a vehicle that is designed: 
+ 
+(a) to travel by road; and 
+ 
+(b) to use volatile spirit, steam, gas, oil, electricity or any other power (not 
+being human power or animal power) as its principal means of propulsion; 
+and 
+ 
+(c) to carry passengers; 
+and includes a motor cycle but does not include an omnibus or a tram or a motor 
+vehicle the carrying capacity of which exceeds 2 tonnes. 
+personal belongings, in relation to a specified journey, means baggage and other 
+personal effects (including tickets, credit cards, travellers cheques, travel 
+documents and passports) that accompany the insured person on the specified 
+journey (whether acquired before or during the journey) or have been collected 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Preliminary  Part 1 
+   
+ 
+Section 4 
+ 
+ 
+Insurance Contracts Regulations 2017 
+3 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+from the insured person by a carrier in order to be taken on the specified journey, 
+but does not include: 
+ 
+(a) currency notes, bank notes or coins; or 
+ 
+(b) goods so taken that are intended for trade. 
+residential building, in relation to a site, means: 
+ 
+(a) a building used principally and primarily as a place of residence; or 
+ 
+(b) out-buildings used for domestic purposes, being purposes related to the use 
+of the building mentioned in paragraph (a); 
+on the site but does not include: 
+ 
+(c) a hotel; or 
+ 
+(d) a motel; or 
+ 
+(e) a boarding house; or 
+ 
+(f) a building that is in the course of construction; or 
+ 
+(g) a temporary building or structure or a demountable or moveable structure; 
+or 
+ 
+(h) a caravan (whether fixed to the site or not); or 
+ 
+(i) a building that is let or rented by the insured, as lessor, as a business and is 
+not the principal residence of the insured. 
+residing family member of the insured means a member of the insured’s family 
+ordinarily residing with the insured. 
+site, in relation to a building, means the site specified in the relevant contract of 
+insurance as the site on which the building is situated. 
+small business has the meaning given by section 35. 
+specified journey means a journey in relation to which insurance cover is 
+provided by the relevant contract of insurance. 
+the Act means the Insurance Contracts Act 1984. 
+warlike activities means any of the following activities: 
+ 
+(a) invasion; 
+ 
+(b) act of foreign enemy; 
+ 
+(c) hostilities (whether war is declared or not); 
+ 
+(d) civil war; 
+ 
+(e) rebellion; 
+ 
+(f) revolution; 
+ 
+(g) insurrection; 
+ 
+(h) military or usurped power; 
+ 
+(i) looting, sacking or pillage following an activity referred to in any of 
+paragraphs (a) to (h). 
+ 
+(2) If a residential building is a part of a building that has been subdivided under a 
+law of a State or Territory that relates to the subdivision of buildings into strata 
+(however described), a reference in this instrument to the contents of the 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 1  Preliminary 
+   
+ 
+Section 5 
+ 
+4 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+residential building includes a reference to such fixtures and structural 
+improvements in the part of the building that are not insured under a contract of 
+insurance that: 
+ 
+(a) provides insurance cover in respect of the destruction of, or damage 
+occurring to, the building; and 
+ 
+(b) is a contract under which the body corporate established by or under that 
+law is the insured. 
+ 
+(3) A reference in this instrument to a period during which a person is disabled is a 
+reference to a period specified in a certificate given by a duly qualified medical 
+practitioner that certifies that the person is disabled during that period. 
+5  Definition of consumer credit insurance 
+ 
+ For the purposes of paragraph (b) of the definition of consumer credit insurance 
+in subsection 11(1) of the Act, the class of contracts referred to in section 27 of 
+this instrument is identified as consumer credit insurance. 
+Note: 
+For the purposes of paragraph (a) of the definition of consumer credit insurance (a 
+class of contracts declared to be a class of contracts to which Division 1 of Part V of 
+the Act applies), see section 27 of this instrument. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Disclosures and misrepresentations  Part 2 
+Insured’s duty of disclosure  Division 1 
+ 
+Section 7 
+ 
+ 
+Insurance Contracts Regulations 2017 
+5 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Part 2—Disclosures and misrepresentations 
+Division 1—Insured’s duty of disclosure 
+7  Duty of disclosure—written notice 
+ 
+(1) This section is made for the purposes of paragraph 22(4)(a) of the Act. 
+ 
+(2) The form of writing that may be used to inform an insured of the matters 
+mentioned in subsection 22(1) of the Act is: 
+ 
+(a) for a contract of general insurance—the form set out in Part 1 of 
+Schedule 1; and 
+ 
+(b) for a contract of life insurance—the form set out in Part 2 of Schedule 1. 
+ 
+(3) The form of writing that may be used to inform another person who may become 
+a life insured (other than under a consumer insurance contract) of the matters 
+mentioned in subsection 22(1) of the Act is set out in Schedule 2. 
+Note: 
+This section does not apply to consumer insurance contracts (see section 20E of the 
+Act). 
+8  Duty of disclosure—reminder notice 
+ 
+(1) This section is made for the purposes of paragraph 22(4)(b) of the Act. 
+ 
+(2) The form of writing that may be used to remind an insured of the matters 
+mentioned in subsection 22(1) of the Act is: 
+ 
+(a) for a contract of general insurance—the form set out in Part 1 of 
+Schedule 3; and 
+ 
+(b) for a contract of life insurance—the form set out in Part 2 of Schedule 3. 
+Note: 
+This section does not apply to consumer insurance contracts (see section 20E of the 
+Act). 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 2  Disclosures and misrepresentations 
+Division 2  Remedies for non-disclosure and misrepresentations by insured 
+ 
+Section 10 
+ 
+6 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Division 2—Remedies for non-disclosure and misrepresentations by 
+insured 
+10  Prescribed rate of interest 
+ 
+ For the purposes of subparagraph 30(2)(b)(i) of the Act, the rate of 11% per 
+annum is prescribed. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Disclosures and misrepresentations  Part 2 
+Key Facts Sheets  Division 3 
+ 
+Section 11 
+ 
+ 
+Insurance Contracts Regulations 2017 
+7 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Division 3—Key Facts Sheets 
+11  Application of Division 
+ 
+(1) This section is made for the purposes of section 33A of the Act. 
+ 
+(2) Each of the following class of contracts of insurance is declared to be a class of 
+contracts in relation to which Division 4 of Part IV of the Act applies: 
+ 
+(a) a home buildings insurance contract; 
+ 
+(b) a home contents insurance contract. 
+ 
+(3) In this Division, prescribed contract and potential prescribed contract have the 
+same meanings as in section 33A of the Act. 
+12  What is a Key Facts Sheet? 
+ 
+(1) This section is made for the purposes of section 33B of the Act. 
+ 
+(2) A Key Facts Sheet, for a prescribed contract or a potential prescribed contract, 
+must: 
+ 
+(a) contain the information, and be completed in the way, specified in the 
+following form: 
+ 
+(i) for a home buildings insurance contract—Form 1 in Schedule 5; 
+ 
+(ii) for a home contents insurance contract—Form 2 in Schedule 5; and 
+ 
+(b) be A4 in size; and 
+ 
+(c) be set out in Arial font, in the following sizes: 
+ 
+(i) the heading at the top of the first page that starts with the words “KEY 
+FACTS” must be in size 18 font; 
+ 
+(ii) the word “STEP” must be in size 16 font; 
+ 
+(iii) the number after the word “STEP” must be in size 48 font; 
+ 
+(iv) the footnote after step 2 must be in size 8 font; 
+ 
+(v) the rest of the document must be in size 10 font; and 
+ 
+(d) be set out in the following colours, with sufficient contrast in the colours to 
+allow the text to be easily read: 
+ 
+(i) the headings, subheadings, and policy name, must be in blue type on a 
+white background; 
+ 
+(ii) the top box in step 2 must be in white type on a blue background; 
+ 
+(iii) the remaining boxes in step 2 must alternate between black type on a 
+white background, and black type on a light blue background; 
+ 
+(iv) the box in step 3 must be in white type on a blue background; 
+ 
+(v) the rest of the document must be in black type on a white background. 
+13  Insurer’s obligation to provide Key Facts Sheet 
+ 
+(1) This section is made for the purposes of section 33C of the Act. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 2  Disclosures and misrepresentations 
+Division 3  Key Facts Sheets 
+ 
+Section 13 
+ 
+8 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(2) An insurer must provide a person (a consumer) with a Key Facts Sheet for a 
+prescribed contract, or a potential prescribed contract, as soon as reasonably 
+practicable but not later than 14 days, after: 
+ 
+(a) if the consumer requests information about the contract—the consumer 
+first requests information about the contract; or 
+ 
+(b) if the consumer enters into the contract with the insurer (other than by an 
+agreement to extend or vary the contract or a reinstatement of the 
+contract)—the consumer enters into the contract. 
+ 
+(3) The insurer may provide the Key Facts Sheet by electronic means at the 
+consumer’s request. 
+ 
+(4) If an insurer has a website that is accessible by members of the public, the 
+insurer must keep the most current copy of each Key Facts Sheet for a prescribed 
+contract on the website, in a format that may be downloaded by members of the 
+public. 
+ 
+(5) An insurer is not required to provide a consumer with a Key Facts Sheet for a 
+prescribed contract or a potential prescribed contract: 
+ 
+(a) if: 
+ 
+(i) the insurer has already provided the consumer with the Key Facts 
+Sheet; and 
+ 
+(ii) the Key Facts Sheet has not changed since then, other than a change 
+to the date of the Key Facts Sheet; or 
+ 
+(b) if: 
+ 
+(i) the insurer reasonably believes that someone else has already 
+provided the consumer with the Key Facts Sheet; and 
+ 
+(ii) the Key Facts Sheet has not changed since then, other than a change 
+to the date of the Key Facts Sheet; or 
+ 
+(c) if the consumer: 
+ 
+(i) requests information about the contract from an insurance broker; or 
+ 
+(ii) enters into the contract through an insurance broker who is not acting 
+as an agent of the insurer in relation to the contract; or 
+ 
+(d) if the consumer does not provide the insurer with the consumer’s address 
+(postal or electronic) to which the Key Facts Sheet is to be sent; or 
+ 
+(e) if the consumer informs the insurer that the consumer does not want the 
+Key Facts Sheet. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+The contract  Part 3 
+Standard cover  Division 1 
+ 
+Section 14 
+ 
+ 
+Insurance Contracts Regulations 2017 
+9 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Part 3—The contract 
+Division 1—Standard cover 
+Subdivision A—Purpose of Division 
+14  Purpose of Division 
+ 
+ This Division is made for the purposes of the definitions of minimum amount, 
+prescribed contract and prescribed event in section 34 of the Act. 
+Subdivision B—Motor vehicle insurance 
+15  Prescribed contracts 
+ 
+ The following class of contracts of insurance is declared to be a class of contracts 
+in relation to which Division 1 of Part V of the Act applies, namely, contracts 
+that provide insurance cover (whether or not the cover is limited or restricted in 
+any way) in respect of one or more of the following: 
+ 
+(a) loss of, or damage to, a motor vehicle; 
+ 
+(b) liability for loss of, or damage to, property caused by or resulting from 
+impact of a motor vehicle with some other thing; 
+where the insured or one of the insureds is a natural person. 
+16  Prescribed events 
+ 
+(1) The following, except in so far as they are excluded by subsection (2), are 
+declared to be prescribed events in relation to a contract referred to in section 15: 
+ 
+(a) the occurrence within Australia of the destruction or, theft of, or accidental 
+damage to, the motor vehicle specified in the contract; 
+ 
+(b) the occurrence within Australia of accidental damage to, or the theft of: 
+ 
+(i) a tool or appliance that is standard equipment for the motor vehicle 
+specified in the contract; or 
+ 
+(ii) an accessory that forms part of that motor vehicle; 
+ 
+ at a time when the tool, appliance or accessory is attached to or within the 
+motor vehicle; 
+ 
+(c) the insured or a person: 
+ 
+(i) who, with the express or implied consent of the insured, was driving, 
+using or in charge of the motor vehicle at the relevant time; or 
+ 
+(ii) who, at the relevant time, was an authorised passenger in the motor 
+vehicle or, if the motor vehicle is a motor cycle, who, at the relevant 
+time, was an authorised passenger on the motor vehicle; 
+ 
+ incurring a liability (otherwise than under a contract) to pay compensation 
+or damages in respect of loss of, or damage occurring to, property (not 
+being the motor vehicle or a tool, appliance or accessory as mentioned in 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 3  The contract 
+Division 1  Standard cover 
+ 
+Section 16 
+ 
+10 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+paragraph (b)) in Australia, being loss or damage that occurs as a result of 
+the use of: 
+ 
+(iii) the motor vehicle; or 
+ 
+(iv) a trailer or caravan attached to the motor vehicle; 
+ 
+(d) a person who, at the relevant time, was an employer, principal or partner of 
+the insured, incurring a liability (otherwise than under a contract) as 
+employer, principal or partner, respectively, to pay compensation or 
+damages in respect of loss of, or damage occurring to, property (not being 
+the motor vehicle or a tool, appliance or accessory as mentioned in 
+paragraph (b)) if: 
+ 
+(i) the loss or damage occurred in Australia; and 
+ 
+(ii) the loss or damage occurred as the result of the use of the motor 
+vehicle or a trailer or caravan attached to the motor vehicle. 
+ 
+(2) The following are excluded: 
+ 
+(a) depreciation; 
+ 
+(b) wear and tear, rust or corrosion; 
+ 
+(c) structural failure; 
+ 
+(d) mechanical or electrical breakdown or failure; 
+ 
+(e) the tyres of the motor vehicle being damaged by application of brakes or by 
+road punctures, cuts or bursting; 
+ 
+(f) destruction or damage, or the incurring of a liability as mentioned in 
+paragraph (1)(c) or (d), at a time when: 
+ 
+(i) the motor vehicle is being used in, or tested in preparation for, racing, 
+pacemaking, a reliability trial or a speed or hill-climbing test by the 
+insured or by some other person with the express or implied consent 
+of the insured; or 
+ 
+(ii) the motor vehicle, trailer or caravan is being used in an experiment, 
+test, trial or demonstration, in connection with the motor trade by the 
+insured or by some other person with the express or implied consent 
+of the insured; or 
+ 
+(iii) the motor vehicle is being used to tow some other vehicle in 
+connection with the motor trade by the insured or by some other 
+person with the express or implied consent of the insured; or 
+ 
+(iv) the motor vehicle, trailer or caravan is let on hire by the insured as 
+lessor; or 
+ 
+(v) the motor vehicle, trailer or caravan is being used in the course of the 
+business of carrying passengers or goods for hire or reward by the 
+insured or by some other person with the express or implied consent 
+of the insured; or 
+ 
+(vi) the motor vehicle, trailer or caravan is in the possession of a person as 
+part of the person’s stock in trade; or 
+ 
+(vii) the motor vehicle, trailer or caravan is being used for an unlawful 
+purpose by the insured or is being so used by some other person with 
+the express or implied consent of the insured; or 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+The contract  Part 3 
+Standard cover  Division 1 
+ 
+Section 16 
+ 
+ 
+Insurance Contracts Regulations 2017 
+11 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(viii) the insured is driving the motor vehicle and is not authorised under 
+the law in force in the State or Territory in which the motor vehicle is 
+being driven, being a law with respect to the licensing of drivers of 
+motor vehicles, to drive the motor vehicle; or 
+ 
+(ix) the insured is driving the motor vehicle and is under the influence of 
+intoxicating liquor or of a drug; 
+ 
+(g) destruction or damage, or the incurring of a liability as mentioned in 
+paragraph (1)(c) or (d), at a time when: 
+ 
+(i) a person other than the insured is driving the motor vehicle with the 
+express or implied consent of the insured; and 
+ 
+(ii) that person is not authorised under the law in force in the State or 
+Territory in which the motor vehicle is being driven, being a law with 
+respect to the licensing of drivers of motor vehicles, to drive the motor 
+vehicle; 
+ 
+ and the insured knew or should reasonably have known, at the time when 
+the consent was given or impliedly given, that that person was not so 
+authorised; 
+ 
+(h) destruction or damage, or the incurring of a liability as mentioned in 
+paragraph (1)(c) or (d), at a time when: 
+ 
+(i) a person other than the insured is driving the motor vehicle with the 
+express or implied consent of the insured; and 
+ 
+(ii) that person is under the influence of intoxicating liquor or of a drug; 
+ 
+ and the insured knew or should reasonably have known, at the time when 
+the consent was given or impliedly given, that that person was or was to be 
+at the relevant time under that influence; 
+ 
+(i) destruction or damage, or the incurring of a liability as mentioned in 
+paragraph (1)(c) or (d), as a result of: 
+ 
+(i) the expropriation of the motor vehicle, trailer or caravan; or 
+ 
+(ii) war or warlike activities; or 
+ 
+(iii) the use, existence or escape of nuclear weapons material, or ionising 
+radiation from, or contamination by radioactivity from, any nuclear 
+fuel or nuclear waste from the combustion of nuclear fuel; or 
+ 
+(iv) the unroadworthy or unsafe condition of the motor vehicle, caravan or 
+trailer concerned, being a condition that was known to the insured, or 
+should reasonably have been known to the insured, at the time of the 
+occurrence of the loss or damage or the incurring of the liability; 
+ 
+(j) destruction or damage intentionally caused by, or a liability as mentioned 
+in paragraph (1)(c) or (d) intentionally incurred by, the insured or a person 
+acting with the express or implied consent of the insured; 
+ 
+(k) destruction or damage occurring as a result of the insured failing to take 
+steps that are, in the circumstances, reasonable for the security of the motor 
+vehicle after accidental damage has occurred to it; 
+ 
+(l) the incurring of a liability as mentioned in paragraph (1)(c) or (d) (whether 
+to the insured or to some other person) in respect of damage to property 
+that belongs to, or is in the custody of, the person so liable; 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 3  The contract 
+Division 1  Standard cover 
+ 
+Section 17 
+ 
+12 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(m) the incurring of a liability as mentioned in paragraph (1)(c) or (d) by a 
+person other than the insured at a time when that person is driving the 
+motor vehicle and: 
+ 
+(i) is not authorised under the law in force in the State or Territory in 
+which the motor vehicle is being driven, being a law with respect to 
+the licensing of drivers of motor vehicles, to drive the motor vehicle; 
+or 
+ 
+(ii) is under the influence of intoxicating liquor or of a drug; 
+ 
+(n) the incurring of a liability to pay compensation or damages in respect of 
+loss or damage, if: 
+ 
+(i) the loss or damage occurred as a result of the use of a trailer or 
+caravan attached to the motor vehicle; and 
+ 
+(ii) there were, at the time the loss or damage occurred, 2 or more trailers 
+or caravans, or one or more trailers and one or more caravans, 
+attached to the motor vehicle. 
+17  Minimum amounts 
+Claims arising out of events referred to in paragraph 16(1)(a) or (b) 
+ 
+(1) The minimum amount in respect of a claim made under a contract referred to in 
+section 15, being a claim arising out of an event referred to in paragraph 16(1)(a) 
+or (b), is declared to be the amount sufficient to indemnify the person who made 
+the claim. 
+Claims arising out of events referred to in paragraph 16(1)(c) or (d) 
+ 
+(2) The minimum amount in respect of a claim made under a contract referred to in 
+section 15, being a claim that arises out of an event referred to in 
+paragraph 16(1)(c) or (d), is declared to be the amount, not exceeding 
+$5,000,000, sufficient to indemnify the person who made the claim in respect of 
+his or her liability. 
+ 
+(3) If there is more than one such claim arising out of the same event, being an event 
+referred to in paragraph 16(1)(c) or (d), then the minimum amount in respect of a 
+claim made after the first of those claims has been made is declared to be the 
+lesser of the following amounts: 
+ 
+(a) the amount sufficient to indemnify the person who made the claim; 
+ 
+(b) the amount ascertained by subtracting from $5,000,000 the amount or the 
+sum of the amounts, as the case may be, that the insurer has paid, or is 
+liable to pay, in respect of the claim or claims arising out of that event that 
+have already been made. 
+Subdivision C—Home buildings insurance 
+18  Prescribed contracts 
+ 
+ The following class of contracts of insurance is declared to be a class of contracts 
+in relation to which Division 1 of Part V of the Act applies, namely, contracts 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+The contract  Part 3 
+Standard cover  Division 1 
+ 
+Section 19 
+ 
+ 
+Insurance Contracts Regulations 2017 
+13 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+that provide insurance cover (whether or not the cover is limited or restricted in 
+any way) in respect of destruction of, or damage to, a home building, where the 
+insured or one of the insureds is a natural person. 
+19  Prescribed events 
+ 
+(1) The following, except in so far as they are excluded by subsection (2), are 
+declared to be prescribed events in relation to a contract referred to in section 18: 
+ 
+(a) the destruction of, or damage occurring to, the home building on the site, 
+being destruction or damage that is caused by or results from: 
+ 
+(i) fire or explosion; or 
+ 
+(ii) lightning or thunderbolt; or 
+ 
+(iii) earthquake; or 
+ 
+(iv) theft, burglary or housebreaking or an attempt to commit theft, 
+burglary or housebreaking; or 
+ 
+(v) a deliberate or intentional act; or 
+ 
+(vi) bursting, leaking, discharging or overflowing of fixed apparatus, fixed 
+tanks or fixed pipes used to hold or carry liquid of any kind; or 
+ 
+(vii) riot or civil commotion; or 
+ 
+(viii) an action of a person acting maliciously; or 
+ 
+(ix) impact by or arising out of the use of a vehicle (including an aircraft 
+or a water-borne craft); or 
+ 
+(x) impact by space debris or debris from an aircraft, a rocket or a 
+satellite; or 
+ 
+(xi) impact by an animal (other than an animal kept on the site or a 
+domestic animal); or 
+ 
+(xii) impact by a falling tree or part of a tree; or 
+ 
+(xiii) impact by a television or radio aerial that has broken or collapsed; or 
+ 
+(xiv) storm, tempest, flood (within the meaning given by section 34), the 
+action of the sea, high water, tsunami, erosion or land slide or 
+subsidence; 
+ 
+(b) accidental damage that is breakage of any fixed glass, fixed shower base, 
+fixed basin, fixed sink, fixed bath, fixed lavatory pan or fixed cistern; 
+ 
+(c) loss by theft, burglary or housebreaking; 
+ 
+(d) the insured or a residing family member of the insured incurring a liability 
+as owner or occupier of the home building to pay compensation or 
+damages to some other person. 
+ 
+(2) The following are excluded: 
+ 
+(a) depreciation; 
+ 
+(b) wear and tear, rust or corrosion; 
+ 
+(c) the action of insects or vermin; 
+ 
+(d) destruction or damage, or the incurring of a liability as mentioned in 
+paragraph (1)(d), as a result of: 
+ 
+(i) the expropriation of the home building; or 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 3  The contract 
+Division 1  Standard cover 
+ 
+Section 19 
+ 
+14 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(ii) war or warlike activities; or 
+ 
+(iii) the use, existence or escape of nuclear weapons material, or ionising 
+radiation from, or contamination by radioactivity from, any nuclear 
+fuel or nuclear waste from the combustion of nuclear fuel; or 
+ 
+(iv) the use of the home building for the purposes of a business, trade or 
+profession; or 
+ 
+(v) tree lopping or felling by the insured or a person acting with the 
+express or implied consent of the insured; 
+ 
+(e) destruction or damage intentionally caused, or a liability as mentioned in 
+paragraph (1)(d) intentionally incurred, by: 
+ 
+(i) the insured; or 
+ 
+(ii) a residing family member of the insured; or 
+ 
+(iii) a person acting with the express or implied consent of the insured or a 
+residing family member of the insured; 
+ 
+(f) if the home building is unoccupied and has been unoccupied for a 
+continuous period of more than 60 days—destruction or damage occurring 
+otherwise than as mentioned in subparagraph (1)(a)(ii) or (iii) or (vii) to 
+(xiv), or the incurring of liability as mentioned in paragraph (1)(d); 
+ 
+(g) destruction of, or damage occurring to: 
+ 
+(i) a free-standing or retaining wall (whether or not part of the home 
+building), or to a gate or fence, as a result of a storm or tempest; or 
+ 
+(ii) an electrical machine or apparatus as a result of the electric current in 
+it; or 
+ 
+(iii) any property as a result of it undergoing a process necessarily 
+involving the application of heat; 
+ 
+(h) theft by a person ordinarily residing with the insured at the time of the 
+theft; 
+ 
+(i) in the case of destruction or damage that is caused by or results from 
+bursting, leaking, discharging or overflowing of fixed apparatus, fixed 
+tanks or fixed pipes used to hold or carry liquid of any kind—damage to 
+the apparatus, tanks or pipes; 
+ 
+(j) in the case of destruction or damage that is caused by or results from 
+impact by a television or radio aerial that has broken or collapsed—damage 
+to the television or radio aerial; 
+ 
+(k) the incurring of a liability as mentioned in paragraph (1)(d): 
+ 
+(i) to the insured or a residing family member of the insured; or 
+ 
+(ii) as a result of the use of a vehicle (including an aircraft or water-borne 
+craft) on the site by the insured, a residing family member of the 
+insured or a person acting with the express or implied consent of the 
+insured or a residing family member of the insured. 
+ 
+ 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+The contract  Part 3 
+Standard cover  Division 1 
+ 
+Section 20 
+ 
+ 
+Insurance Contracts Regulations 2017 
+15 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+20  Minimum amounts 
+Claims arising out of events referred to in paragraph 19(1)(a), (b) or (c) 
+ 
+(1) The minimum amount in respect of a claim made under a contract referred to in 
+section 18, being a claim arising out of an event referred to in 
+paragraph 19(1)(a), (b) or (c), is declared to be the amount sufficient to 
+indemnify the person who made the claim, reduced, in respect of destruction or 
+damage occurring as a result of and within 48 hours after an earthquake, by 
+$200. 
+ 
+(2) The amount declared by subsection (1) to be the minimum amount in respect of a 
+claim is taken to include the reasonable cost of: 
+ 
+(a) identifying and locating the cause of destruction or damage concerned if it 
+is necessary to do so to effect a repair; and 
+ 
+(b) demolition and removal of debris; and 
+ 
+(c) emergency accommodation. 
+Claims arising out of events referred to in paragraph 19(1)(d) 
+ 
+(3) The minimum amount in respect of a claim made under a contract referred to in 
+section 18, being a claim that arises out of an event referred to in 
+paragraph 19(1)(d), is declared to be the amount, not exceeding $2,000,000, 
+sufficient to indemnify the person who made the claim in respect of his or her 
+liability. 
+ 
+(4) If there is more than one such claim arising out of the same event, being an event 
+referred to in paragraph 19(1)(d), the minimum amount in respect of a claim 
+made after the first of those claims has been made is declared to be the lesser of 
+the following amounts: 
+ 
+(a) the amount sufficient to indemnify the person who made the claim; 
+ 
+(b) the amount ascertained by subtracting from $2,000,000 the amount or the 
+sum of the amounts, as the case may be, that the insurer has paid, or is 
+liable to pay, in respect of the claim or claims arising out of that event that 
+have already been made. 
+Subdivision D—Home contents insurance 
+21  Prescribed contracts 
+ 
+(1) The following class of contracts of insurance is declared to be a class of contracts 
+in relation to which Division 1 of Part V of the Act applies, namely, contracts 
+that provide insurance cover (whether or not the cover is limited or restricted in 
+any way) in respect of loss of or damage to the contents of a residential building 
+where the insured or one of the insureds is a natural person. 
+ 
+(2) However, the class of contracts does not include contracts that provide insurance 
+cover only or primarily in respect of specified personal effects. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 3  The contract 
+Division 1  Standard cover 
+ 
+Section 22 
+ 
+16 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+22  Prescribed events 
+ 
+(1) The following, except in so far as they are excluded by subsection (2), are 
+declared to be prescribed events in relation to a contract referred to in 
+subsection 21(1): 
+ 
+(a) destruction of, or damage occurring to, the contents of the residential 
+building which is specified in the contract, at a time when they are in the 
+residential building or on the site of the residential building, being 
+destruction or damage that is caused by or results from: 
+ 
+(i) fire or explosion; or 
+ 
+(ii) lightning or thunderbolt; or 
+ 
+(iii) earthquake; or 
+ 
+(iv) theft, burglary or housebreaking or an attempt to commit theft, 
+burglary or housebreaking; or 
+ 
+(v) a deliberate or intentional act; or 
+ 
+(vi) bursting, leaking, discharging or overflowing of fixed apparatus, fixed 
+tanks or fixed pipes used to hold or carry liquid of any kind; or 
+ 
+(vii) riot or civil commotion; or 
+ 
+(viii) an action of a person acting maliciously; or 
+ 
+(ix) impact by or arising out of the use of a vehicle (including an aircraft 
+or water-borne craft); or 
+ 
+(x) impact by space debris or debris from an aircraft, a rocket or a 
+satellite; or 
+ 
+(xi) impact by an animal (other than an animal kept on the site or a 
+domestic animal); or 
+ 
+(xii) impact by a falling tree or part of a tree; or 
+ 
+(xiii) impact by a television or radio aerial that has broken or collapsed; or 
+ 
+(xiv) storm, tempest, flood (within the meaning given by section 34), the 
+action of the sea, high water, tsunami, erosion or land slide or 
+subsidence; 
+ 
+(b) accidental damage that is breakage of glass forming part of an item of 
+furniture (including fixed or unfixed glass table tops), at a time when it is 
+in the residential building or on the site of the residential building; 
+ 
+(c) loss by theft, burglary or housebreaking of contents while in the residential 
+building on the site; 
+ 
+(d) if: 
+ 
+(i) the insured is a tenant or lessee of the residential building; or 
+ 
+(ii) the residential building is a unit (however described) created by the 
+subdivision of strata (however described) in a building and the insured 
+is the owner of the unit; 
+ 
+ the insured or a residing family member of the insured incurring a liability 
+as occupier of the home building to pay compensation or damages to some 
+other person. 
+ 
+(2) The following are excluded: 
+ 
+(a) depreciation; 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+The contract  Part 3 
+Standard cover  Division 1 
+ 
+Section 22 
+ 
+ 
+Insurance Contracts Regulations 2017 
+17 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(b) wear and tear, rust or corrosion; 
+ 
+(c) the action of insects or vermin; 
+ 
+(d) destruction or damage, or the incurring of a liability as mentioned in 
+paragraph (1)(d), as a result of: 
+ 
+(i) the expropriation of the contents; or 
+ 
+(ii) war or warlike activities; or 
+ 
+(iii) the use, existence or escape of nuclear weapons material, or ionising 
+radiation from, or contamination by radioactivity from, any nuclear 
+fuel or nuclear waste from the combustion of nuclear fuel; or 
+ 
+(iv) the use of the residential building for the purposes of a business, trade 
+or profession; or 
+ 
+(v) tree lopping or felling by the insured or a person acting with the 
+express or implied consent of the insured; 
+ 
+(e) destruction or damage intentionally caused, or a liability as mentioned in 
+paragraph (1)(d) intentionally incurred, by: 
+ 
+(i) the insured; or 
+ 
+(ii) a residing family member of the insured; or 
+ 
+(iii) a person acting with the express or implied consent of the insured or a 
+residing family member of the insured; 
+ 
+(f) if the residential building is unoccupied and has been unoccupied for a 
+continuous period of more than 60 days—destruction or damage occurring 
+otherwise than as mentioned in subparagraph (1)(a)(ii) or (iii) or (vii) to 
+(xiv), or the incurring of liability as mentioned in paragraph (1)(d); 
+ 
+(g) destruction of, or damage occurring to: 
+ 
+(i) an electrical machine or apparatus as a result of the electric current in 
+it; or 
+ 
+(ii) any property as a result of it undergoing a process necessarily 
+involving the application of heat; 
+ 
+(h) accidental breakage of: 
+ 
+(i) a television picture tube or screen; or 
+ 
+(ii) the picture tube or screen of an electronic visual display unit; or 
+ 
+(iii) a ceramic or glass cooking top of a stove; or 
+ 
+(iv) glass in a picture frame, a radio set or a clock; 
+ 
+(i) theft by a person ordinarily residing with the insured at the time of the 
+theft; 
+ 
+(j) in the case of destruction or damage that is caused by or results from 
+bursting, leaking, discharging or overflowing of fixed apparatus, fixed 
+tanks or fixed pipes used to hold or carry liquid of any kind—damage to 
+the apparatus, tanks or pipes; 
+ 
+(k) in the case of destruction or damage that is caused by or results from 
+impact by a television or radio aerial that has broken or collapsed—damage 
+to the television or radio aerial; 
+ 
+(l) the incurring of a liability as mentioned in paragraph (1)(d): 
+ 
+(i) to the insured or a residing family member of the insured; or 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 3  The contract 
+Division 1  Standard cover 
+ 
+Section 23 
+ 
+18 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(ii) as a result of the use of a vehicle (including an aircraft or water-borne 
+craft) on the site by the insured, a residing family member of the 
+insured or a person acting with the express or implied consent of the 
+insured or a residing family member of the insured. 
+23  Minimum amounts 
+Claims arising out of events referred to in paragraph 22(1)(a), (b) or (c) 
+ 
+(1) The minimum amount in respect of a claim made under a contract referred to in 
+subsection 21(1), being a claim arising out of an event referred to in 
+paragraph 22(1)(a), (b) or (c), is declared to be the amount sufficient to 
+indemnify the person who made the claim, reduced, in the case of destruction or 
+damage occurring as a result of an earthquake, by $200. 
+Claims arising out of events referred to in paragraph 22(1)(d) 
+ 
+(2) The minimum amount in respect of a claim made under a contract referred to in 
+subsection 21(1), being a claim that arises out of an event referred to in 
+paragraph 22(1)(d), is declared to be the amount, not exceeding $2,000,000, 
+sufficient to indemnify the person who made the claim in respect of his or her 
+liability. 
+ 
+(3) If there is more than one such claim arising out of the same event, being an event 
+referred to in paragraph 22(1)(d), then the minimum amount in respect of a claim 
+made after the first of those claims has been made is declared to be the lesser of 
+the following amounts: 
+ 
+(a) the amount sufficient to indemnify the person who made the claim; 
+ 
+(b) the amount ascertained by subtracting from $2,000,000 the amount or the 
+sum of the amounts, as the case may be, that the insurer has paid, or is 
+liable to pay, in respect of the claim or claims arising out of that event that 
+have already been made. 
+Subdivision E—Sickness and accident insurance 
+24  Prescribed contracts 
+ 
+(1) The following class of contracts of insurance is declared to be a class of contracts 
+in relation to which Division 1 of Part V of the Act applies, namely, contracts 
+that provide insurance cover (whether the cover is limited or restricted in any 
+way) in respect of the insured person: 
+ 
+(a) contracting a sickness or disease or a specified sickness or disease; or 
+ 
+(b) sustaining an injury or a specified injury; 
+where the insured or one of the insureds is a natural person. 
+ 
+(2) However, the class of contracts does not include any of the following: 
+ 
+(a) a life policy within the meaning of the Life Insurance Act 1995; 
+ 
+(b) a continuous disability insurance contract incorporated within a life policy 
+within the meaning of the Life Insurance Act 1995; 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+The contract  Part 3 
+Standard cover  Division 1 
+ 
+Section 25 
+ 
+ 
+Insurance Contracts Regulations 2017 
+19 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(c) a sickness and accident policy that: 
+ 
+(i) is guaranteed renewable at the option of the insured; or 
+ 
+(ii) the insurer guarantees not to cancel in response to a change in the risk; 
+ 
+ where the policy has been effected for a predetermined period of years in 
+excess of 1 year; 
+ 
+(d) a contract that is included in a class of contracts that is declared by some 
+other section to be a class of contracts in relation to which Division 1 of 
+Part V of the Act applies. 
+25  Prescribed events 
+ 
+(1) The following, except in so far as they are excluded by subsection (2), are 
+declared to be prescribed events in relation to a contract referred to in 
+subsection 24(1): 
+ 
+(a) if the contract provides insurance cover (whether the cover is limited or 
+restricted in any way) in respect of the insured person contracting a 
+specified sickness or disease: 
+ 
+(i) the death of the insured person; or 
+ 
+(ii) the total disablement of the insured person from carrying out all the 
+normal duties of his or her usual occupation; 
+ 
+ being death or disablement that results from the insured person contracting 
+that sickness or disease; 
+ 
+(b) if the contract (not being a contract referred to in paragraph (a)) provides 
+insurance cover (whether the cover is limited or restricted in any way) in 
+respect of the insured person contracting a sickness or disease—the total 
+disablement of the insured person from carrying out all the normal duties 
+of his or her usual occupation, being disablement that results from the 
+person contracting a sickness or disease; 
+ 
+(c) the death of the insured person, or the total disablement of the insured 
+person from carrying out all the normal duties of his or her usual 
+occupation, as a result of the insured person sustaining an accidental injury, 
+being death or disablement that occurs within 12 months after the insured 
+person sustains the injury; 
+ 
+(d) the partial disablement of the insured person from carrying out the normal 
+duties of his or her usual occupation as a result of the insured person 
+sustaining an accidental injury, being disablement that occurs within 12 
+months after the insured person sustains the injury. 
+ 
+(2) The following are excluded: 
+ 
+(a) death or disablement that results from: 
+ 
+(i) a deliberately self-inflicted injury; or 
+ 
+(ii) war or warlike activities; or 
+ 
+(iii) the use, existence or escape of nuclear weapons material, or ionising 
+radiation from, or contamination by radioactivity from, any nuclear 
+fuel or nuclear waste from the combustion of nuclear fuel; 
+ 
+(b) death or disablement that results from the insured person: 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 3  The contract 
+Division 1  Standard cover 
+ 
+Section 26 
+ 
+20 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(i) being under the influence of intoxicating liquor or of a drug, other 
+than a drug taken or administered by or in accordance with the advice 
+of a duly qualified medical practitioner; or 
+ 
+(ii) being addicted to intoxicating liquor or to a drug; or 
+ 
+(iii) taking part in a riot or civil commotion; or 
+ 
+(iv) acting maliciously; or 
+ 
+(v) engaging in professional sporting activities; 
+ 
+(c) death or disablement occurring at a time when the insured person is flying, 
+or engaging in aerial activities, otherwise than as a passenger in an aircraft 
+that is authorised to fly under a law that relates to the safety of aircraft. 
+26  Minimum amounts 
+ 
+(1) If the insured has expressly agreed that no amount is to be payable under the 
+contract of insurance in particular circumstances, then, for the purposes of this 
+section, the contract must be read as though it specified an amount to be payable 
+in those circumstances. 
+ 
+(2) If a contract of insurance provides that an amount is payable by reference to a 
+period other than a day, then, for the purposes of this section, the contract must 
+be read as though it specified as the daily amount an amount ascertained by 
+dividing the amount payable for that period by the number of days in that period. 
+ 
+(3) The minimum amount in respect of a claim made under a contract referred to in 
+subsection 24(1), being a claim that arises as mentioned in column 1 of an item 
+of the following table, is declared to be the amount ascertained in accordance 
+with column 2 of that item, reduced by an amount equal to the amount so 
+payable in respect of the first 14 days of the period during which the insured 
+person is disabled. 
+ 
+Minimum amounts 
+Item 
+Column 1 
+Column 2 
+ 
+Description of claim 
+Minimum amount 
+1 
+A claim that arises out of the death 
+of the insured person 
+The amount specified in the contract as the amount 
+payable under the contract in respect of the death of 
+the insured person or, if no amount is so specified, 
+$25,000 
+2 
+A claim that arises out of the total 
+disablement of the insured person 
+If: 
+(a) a daily amount is specified in the contract in 
+respect of the total disablement of the insured 
+person—that amount multiplied by the number of 
+days during which the insured person is so 
+disabled; or 
+(b) if no amount is so specified—an amount equal to 
+the amount of income lost by the insured person 
+by reason of the disablement 
+3 
+A claim that arises out of the partial 
+If: 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+The contract  Part 3 
+Standard cover  Division 1 
+ 
+Section 27 
+ 
+ 
+Insurance Contracts Regulations 2017 
+21 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Minimum amounts 
+Item 
+Column 1 
+Column 2 
+ 
+Description of claim 
+Minimum amount 
+disablement of the insured person 
+(a) a daily amount is specified in the contract in 
+respect of the partial disablement of the insured 
+person—that amount multiplied by the number of 
+days during which the insured person is so 
+disabled; or 
+(b) if no amount is so specified—an amount equal to 
+the amount of income lost by the insured person 
+by reason of the disablement 
+ 
+Subdivision F—Consumer credit insurance 
+27  Prescribed contracts 
+ 
+ The following class of contracts of insurance is declared to be a class of contracts 
+to which Division 1 of Part V of the Act applies, namely, contracts that provide 
+insurance cover (whether the cover is limited or restricted in any way) in respect 
+of: 
+ 
+(a) the death of the insured; or 
+ 
+(b) the insured: 
+ 
+(i) contracting a sickness or disease; or 
+ 
+(ii) sustaining an injury; or 
+ 
+(iii) becoming unemployed; 
+where: 
+ 
+(c) the insured or one of the insureds is a natural person; and 
+ 
+(d) the amount of the liability of the insurer under the contract is to be 
+ascertained by reference to a liability of the insured under a specified 
+agreement to which the insured is a party. 
+28  Prescribed events 
+ 
+(1) The following, except in so far as they are excluded by subsection (2), are 
+declared to be prescribed events in relation to a contract referred to in section 27: 
+ 
+(a) the total disablement of the insured person from carrying out all the normal 
+duties of his or her usual occupation as a result of the insured person 
+contracting a sickness or disease, being disablement that occurs within 12 
+months after the insured person contracted the sickness or disease; 
+ 
+(b) the death of the insured person, or the total disablement of the insured 
+person from carrying out all the normal duties of his or her usual 
+occupation, as a result of the insured person sustaining an accidental injury, 
+being death or disablement that occurs within 12 months after the insured 
+person sustains the injury; 
+ 
+(c) the insured person becoming unemployed. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 3  The contract 
+Division 1  Standard cover 
+ 
+Section 29 
+ 
+22 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(2) The following are excluded: 
+ 
+(a) death, disablement or unemployment resulting from: 
+ 
+(i) a deliberately self-inflicted injury; or 
+ 
+(ii) war or warlike activities; or 
+ 
+(iii) expropriation of any property; or 
+ 
+(iv) the use, existence or escape of nuclear weapons material, or ionising 
+radiation from, or contamination by radioactivity from, any nuclear 
+fuel or nuclear waste from the combustion of nuclear fuel; 
+ 
+(b)  death, disablement or unemployment resulting from the insured person: 
+ 
+(i) being under the influence of intoxicating liquor or of a drug, other 
+than a drug taken or administered by or in accordance with the advice 
+of a duly qualified medical practitioner; or 
+ 
+(ii) being addicted to intoxicating liquor or to a drug; or 
+ 
+(iii) taking part in a riot or civil commotion; or 
+ 
+(iv) acting maliciously; or 
+ 
+(v) engaging in professional sporting activities; 
+ 
+(c) death or disablement occurring at a time when the insured person is flying, 
+or engaging in aerial activities, otherwise than as a passenger in an aircraft 
+that is authorised to fly under a law that relates to the safety of aircraft; 
+ 
+(d) the insured person becoming voluntarily unemployed; 
+ 
+(e) if the insured person is employed for a specified period or by reference to 
+specified work—the insured person becoming unemployed at the 
+expiration of the period or on the completion of the work. 
+29  Minimum amounts 
+ 
+(1) A reference in this section to the amount falling due under an agreement in 
+respect of a day is a reference to the amount ascertained by dividing the amount 
+of the payment that next falls due after that day under the agreement (excluding 
+any arrears) by the number of days in the period: 
+ 
+(a) commencing on the day on which the immediately previous payment under 
+the agreement fell due; and 
+ 
+(b) ending on the day on which that next payment falls due. 
+ 
+(2) The minimum amount in respect of a claim made under a contract referred to in 
+section 27, being a claim that arises as mentioned in column 1 of an item of the 
+following table, is declared to be the amount ascertained in accordance with 
+column 2 of the item, reduced by an amount equal to the amount so payable in 
+respect of the first 14 days of the period during which the insured person is 
+disabled. 
+ 
+Minimum amounts 
+Item 
+Column 1 
+Column 2 
+ 
+Description of claim 
+Minimum amount 
+1 
+A claim that arises out of the death of the 
+insured person 
+The amount due at the date of death (excluding 
+any arrears) under the agreement specified in the 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+The contract  Part 3 
+Standard cover  Division 1 
+ 
+Section 30 
+ 
+ 
+Insurance Contracts Regulations 2017 
+23 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Minimum amounts 
+Item 
+Column 1 
+Column 2 
+ 
+Description of claim 
+Minimum amount 
+contract 
+2 
+A claim that arises out of the total 
+disablement of the insured person 
+The sum of the amounts falling due under the 
+agreement specified in the contract in respect of 
+each day during the period during which the 
+insured person is so disabled 
+3 
+A claim that arises out of the insured 
+person becoming unemployed 
+The sum of the amounts falling due under the 
+agreement specified in the contract in respect of 
+each day during the period during which the 
+insured person is unemployed 
+ 
+Subdivision G—Travel insurance 
+30  Prescribed contracts 
+ 
+ The following class of contracts of insurance is declared to be a class of contracts 
+in relation to which Division 1 of Part V of the Act applies, namely, contracts 
+that provide insurance cover (whether or not the cover is limited or restricted in 
+any way) in respect of one or more of the following: 
+ 
+(a) financial loss in respect of: 
+ 
+(i) fares for any form of transport to be used; or 
+ 
+(ii) accommodation to be used; 
+ 
+ in the course of a specified journey in the event that the insured person 
+does not commence or complete the specified journey; 
+ 
+(b) loss of or damage to personal belongings that occurs while the insured 
+person is on a specified journey; 
+ 
+(c) a sickness or disease contracted or an injury sustained by the insured 
+person while on a specified journey; 
+where the insured or one of the insureds is a natural person. 
+31  Prescribed events 
+ 
+(1) The following, except in so far as they are excluded by subsection (2), are 
+declared to be prescribed events in relation to a contract referred to in section 30: 
+ 
+(a) financial loss on account of: 
+ 
+(i) fares for any form of transport to be used; or 
+ 
+(ii) accommodation to be used; 
+ 
+ in the course of the specified journey in the event that the insured person or 
+a member of the insured person’s travelling party, through unforeseen 
+circumstances beyond the control of the insured person or the member, 
+respectively, cannot reasonably be expected to commence or complete the 
+journey; 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 3  The contract 
+Division 1  Standard cover 
+ 
+Section 31 
+ 
+24 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(b) loss of or damage to personal belongings of the insured person during the 
+course of the specified journey; 
+ 
+(c) the death of the insured person or a member of the insured person’s 
+travelling party while on the specified journey; 
+ 
+(d) the insured person or a member of the insured person’s travelling party 
+contracting a sickness or disease, or sustaining an injury, while on the 
+specified journey. 
+ 
+(2) The following are excluded: 
+ 
+(a) financial loss, loss of or damage to personal belongings or death, sickness 
+or injury, occurring as a result of: 
+ 
+(i) war or warlike activities; or 
+ 
+(ii) expropriation of anything; or 
+ 
+(iii) the use, existence or escape of nuclear weapons material, or ionising 
+radiation from, or contamination by radioactivity from, any nuclear 
+fuel or nuclear waste from the combustion of nuclear fuel; 
+ 
+(b) financial loss, loss of or damage to personal belongings or death, sickness 
+or injury, occurring as a result of the insured person or a member of the 
+insured person’s travelling party: 
+ 
+(i) being under the influence of intoxicating liquor or of a drug, other 
+than a drug taken or administered by or in accordance with the advice 
+of a duly qualified medical practitioner; or 
+ 
+(ii) being addicted to intoxicating liquor or to a drug; or 
+ 
+(iii) taking part in a riot or civil commotion; or 
+ 
+(iv) acting maliciously; or 
+ 
+(v) engaging in professional sporting activities; 
+ 
+(c) financial loss, loss of or damage to personal belongings or death, sickness 
+or injury, intentionally caused by: 
+ 
+(i) the insured person; or 
+ 
+(ii) a member of the insured person’s travelling party; or 
+ 
+(iii) a person acting with the express or implied consent of the insured 
+person or a member of the insured person’s travelling party; 
+ 
+(d) financial loss as a result of the insured person failing to commence or 
+complete the specified journey: 
+ 
+(i) for financial, business or contractual reasons, being reasons related to 
+the insured person or to a member of the insured person’s travelling 
+party; or 
+ 
+(ii) because of a sickness, disease or disability to which a person was 
+subject at any time during the period of 6 months before the contract 
+was entered into and continues to be subject to after that time; 
+ 
+(e) financial loss as a result of: 
+ 
+(i) the insured person or a member of the insured person’s travelling 
+party being disinclined to travel; or 
+ 
+(ii) contravention of, or failure to comply with, a law (including the law 
+of a foreign country) by the insured person or a member of the insured 
+person’s travelling party; 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+The contract  Part 3 
+Standard cover  Division 1 
+ 
+Section 32 
+ 
+ 
+Insurance Contracts Regulations 2017 
+25 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(f) loss of or damage occurring to personal belongings as a result of: 
+ 
+(i) depreciation; or 
+ 
+(ii) wear and tear, mildew, rust or corrosion; or 
+ 
+(iii) the action of insects or vermin; or 
+ 
+(iv) mechanical or electrical breakdown or failure of the personal 
+belongings; or 
+ 
+(v) the personal belongings being cleaned, dyed, altered or repaired; or 
+ 
+(vi) in the case of personal belongings that are fragile or brittle—the 
+negligence of the insured; 
+ 
+(g) death occurring or injury sustained as a result of a sickness or disability to 
+which the person concerned was subject at any time during the period of 6 
+months before the contract was entered into and continues to be subject to 
+after that time; 
+ 
+(h) death occurring or injury sustained at a time when the person concerned is 
+flying, or engaging in aerial activities, otherwise than as a passenger in an 
+aircraft that is authorised to fly under a law that relates to the safety of 
+aircraft; 
+ 
+(i) the insured person or a member of the insured person’s travelling party 
+sustaining a deliberately self-inflicted injury. 
+32  Minimum amounts 
+Claims arising out of events referred to in paragraph 31(1)(a) or (b) 
+ 
+(1) The minimum amount in respect of a claim made under a contract referred to in 
+section 30, being a claim that arises out of an event referred to in 
+paragraph 31(1)(a) or (b), is declared to be the amount sufficient to indemnify 
+the person who made the claim in respect of his or her loss or damage. 
+Claims arising out of events referred to in paragraph 31(1)(c) 
+ 
+(2) The minimum amount in respect of a claim made under a contract referred to in 
+section 30, being a claim that arises out of an event referred to in 
+paragraph 31(1)(c), is declared to be the amount sufficient to indemnify the 
+person who made the claim in respect of the reasonable cost of: 
+ 
+(a) the funeral or cremation; or 
+ 
+(b) transporting the remains of the deceased person to the deceased’s former 
+place of residence. 
+Claims arising out of events referred to in paragraph 31(1)(d) 
+ 
+(3) The minimum amount in respect of a claim made under a contract referred to in 
+section 30, being a claim that arises out of an event referred to in 
+paragraph 31(1)(d), is declared to be the amount sufficient to indemnify the 
+person who made the claim in respect of the reasonable cost of: 
+ 
+(a) medical, surgical, hospital, ambulance and nursing home charges; and 
+ 
+(b) other medical treatment; 
+incurred during the specified journey as a result of the sickness, disease or injury. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 3  The contract 
+Division 2  Definition of flood 
+ 
+Section 33 
+ 
+26 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Division 2—Definition of flood 
+33  Prescribed contracts 
+ 
+(1) For the purposes of section 37A of the Act, the following classes of contracts of 
+insurance are declared to be classes of contracts in relation to which Division 1A 
+of Part V of the Act applies: 
+ 
+(a) home building insurance contracts; 
+ 
+(b) home contents insurance contracts; 
+ 
+(c) insurance contracts that combine home building insurance and home 
+contents insurance; 
+ 
+(d) contracts that provide insurance cover (whether or not the cover is limited 
+or restricted in any way) in respect of destruction of, or damage to, a strata 
+title residence; 
+ 
+(e) contracts that provide insurance cover (whether or not the cover is limited 
+or restricted in any way) in respect of the loss of the equipment, stock, 
+inventory or premises of a small business; 
+ 
+(f) contracts that provide insurance cover (whether or not the cover is limited 
+or restricted in any way) in respect of damage to the equipment, stock, 
+inventory or premises of a small business. 
+Note 1: 
+Division 1A of Part V of the Act refers to these contracts as prescribed contracts. 
+Note 2: 
+For the meaning of small business, see section 35. 
+ 
+(2) However, subsection (1) does not apply to a contract that is arranged by an 
+insurance broker who is acting as an agent of the insured. 
+ 
+(3) In this section: 
+strata title residence means a residence to which the following apply: 
+ 
+(a) the portion of land on which the residence is located exists as the result of 
+the subdivision of the title to a larger portion of land into separate titles for 
+use for residential purposes; 
+ 
+(b) property that is common between the residence and one or more other 
+portions of land is managed by a single body corporate (however 
+described); 
+Example: An “owners corporation”. 
+ 
+(c) the title to the portion of land on which the residence is located is regulated 
+under the law of the State or Territory in which the land is located as a 
+“strata title”, a “community title” or another description that refers to the 
+title being created as described in paragraphs (a) and (b). 
+34  Meaning of flood in prescribed contracts etc. 
+ 
+(1) For the purposes of paragraph 37B(2)(a) of the Act, flood means the covering of 
+normally dry land by water that has escaped or been released from the normal 
+confines of any of the following: 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+The contract  Part 3 
+Definition of flood  Division 2 
+ 
+Section 35 
+ 
+ 
+Insurance Contracts Regulations 2017 
+27 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(a) a lake (whether or not it has been altered or modified); 
+ 
+(b) a river (whether or not it has been altered or modified); 
+ 
+(c) a creek (whether or not it has been altered or modified); 
+ 
+(d) another natural watercourse (whether or not it has been altered or 
+modified); 
+ 
+(e) a reservoir; 
+ 
+(f) a canal; 
+ 
+(g) a dam. 
+Note: 
+The meaning of flood set out in subsection (1) will apply in the prescribed contract 
+even if the meaning of the word provided by the prescribed contract (or by a notice or 
+other document or information given by the insurer in relation to the prescribed 
+contract) is different from the meaning set out in subsection (1), see subsection 37B(3) 
+of the Act. 
+ 
+(2) For the purposes of entering into a contract that provides insurance cover 
+(whether or not the cover is limited or restricted in any way) in respect of loss 
+caused to a business, if an insurer proposes to: 
+ 
+(a) use the word “flood” in the contract; and 
+ 
+(b) give the word a meaning other than the meaning set out in subsection (1); 
+the insurer must take reasonable steps to ensure that the contract is not a 
+prescribed contract in respect of loss caused to a business that would, at that 
+time, be a small business. 
+Note 1: 
+The insurer is likely to rely on information provided by the insured to assess whether 
+the business is a small business. The provision of false or misleading information is a 
+serious matter. 
+Note 2: 
+For the meaning of small business, see section 35. 
+ 
+(3) Subsection (2) does not apply to: 
+ 
+(a) the making of an agreement to renew, extend or vary the contract; or 
+ 
+(b) the reinstatement of any previous contract of insurance. 
+Note: 
+See subsection 11(9) of the Act. 
+35  Meaning of small business 
+ 
+(1) A business is a small business if: 
+ 
+(a) the business has operated in the last completed financial year; and 
+ 
+(b) its turnover in the last completed financial year was less than $1,000,000; 
+and 
+ 
+(c) the total number of hours worked each week by the employees of the 
+business is no more than 190 hours (whether or not the employees are 
+employed on a full-time, part-time or casual basis). 
+Note: 
+190 hours is the equivalent of 5 employees each working a 38 hour week. 
+ 
+(2) If: 
+ 
+(a) a business did not operate in the last completed financial year; or 
+ 
+(b) the turnover of the business in the last completed financial year is 
+unknown; 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 3  The contract 
+Division 2  Definition of flood 
+ 
+Section 35 
+ 
+28 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+the business is a small business if the number of hours worked each week by the 
+employees of the business is no more than 190 hours (whether or not the 
+employees are employed on a full-time, part-time or casual basis). 
+Note: 
+190 hours is the equivalent of 5 employees each working a 38 hour week. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+The contract  Part 3 
+General provisions relating to insurance contracts  Division 3 
+ 
+Section 36 
+ 
+ 
+Insurance Contracts Regulations 2017 
+29 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Division 3—General provisions relating to insurance contracts 
+36  Classes of contracts of insurance in relation to which section 46 of the Act 
+does not apply 
+ 
+ For the purposes of section 46 of the Act, each of the following classes of 
+contracts is declared to be a class of contracts in relation to which that section 
+does not apply: 
+ 
+(a) contracts of insurance commonly known as construction risks insurance 
+contracts; 
+ 
+(b) contracts of insurance commonly known as industrial special risks 
+insurance contracts or commercial risks insurance contracts; 
+ 
+(c) contracts of insurance under which the insurer agrees to indemnify the 
+insured, in relation to a business undertaking, against loss resulting from a 
+breakdown of, or malfunction in, machinery (including electronic 
+equipment) or plant of the insured, being: 
+ 
+(i) loss in respect of the repair or replacement of that machinery or plant; 
+or 
+ 
+(ii) any further loss resulting from that breakdown or malfunction; 
+ 
+ or both, but not against any other loss; 
+ 
+(d) contracts of insurance commonly known as products liability insurance 
+contracts; 
+ 
+(e) contracts of insurance commonly known as “broad form” accidental loss 
+and damage insurance contracts. 
+37  Classes of contracts of insurance in relation to which section 53 of the Act 
+does not apply 
+ 
+(1) For the purposes of section 53 of the Act, each of the following classes of 
+contracts is declared to be a class of contracts in relation to which that section 
+does not apply: 
+ 
+(a) each of the classes of contracts referred to in section 36 of this instrument; 
+ 
+(b) contracts of insurance under which the insurer agrees to indemnify the 
+insured against loss in respect of failure by a debtor to pay a debt due to the 
+insured, but not against any other loss; 
+ 
+(c) contracts of life insurance; 
+ 
+(d) superannuation contracts, including individual superannuation contracts 
+and blanket superannuation contracts; 
+ 
+(e) sickness and accident insurance contracts to which paragraph 24(2)(c) 
+applies; 
+ 
+(f) export payments insurance contracts within the meaning of 
+subsection 14(2) of the Export Finance and Insurance Corporation Act 
+1991; 
+ 
+(g) aviation liability indemnity contracts. 
+ 
+(2) In this section: 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 3  The contract 
+Division 3  General provisions relating to insurance contracts 
+ 
+Section 37 
+ 
+30 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+aviation liability indemnity contracts means contracts under which the 
+Commonwealth provides indemnities to airlines, airports or other aviation 
+service providers for claims against them by third parties, for property damage or 
+bodily injury or both (other than injury to aircraft passengers and employees of 
+the insured travelling as passengers in the course of their duties) arising as a 
+consequence of: 
+ 
+(a) war, invasion, acts of foreign enemies, hostilities (whether war has been 
+declared or not), civil war, rebellion, revolution, insurrection, martial law, 
+military law, military or usurped power or attempts at usurpation of power; 
+or 
+ 
+(b) strikes, riots, civil commotions or labour disturbances; or 
+ 
+(c) an act of one or more persons (whether or not as agent of a sovereign 
+power) for political or terrorist purposes (whether the resulting loss or 
+damage is accidental or intentional); or 
+ 
+(d) a malicious act or act of sabotage; or 
+ 
+(e) hi-jacking or an unlawful seizure or wrongful exercise of control of the 
+aircraft or crew in flight (including an attempt at such seizure or control) 
+made by any person acting without the consent of the insured; or 
+ 
+(f) confiscation, nationalisation, seizure, restraint, detention, appropriation, 
+requisition or use by, or under the order of, a government (civil, military 
+or de facto) or a public or local authority. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Claims  Part 4 
+   
+ 
+Section 38 
+ 
+ 
+Insurance Contracts Regulations 2017 
+31 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Part 4—Claims 
+   
+38  Interest on claims 
+ 
+(1) For the purposes of subsection 57(3) of the Act, the rate applicable to a day in 
+respect of which interest is payable by an insurer, is the rate worked out under 
+the following formula: 
+Y + 3% 
+where: 
+Y is the rate of: 
+ 
+(a) 10-year Bond yield at the end of the half-financial year ending in the period 
+that, in relation to the withheld amount, is mentioned in subsection 57(2) of 
+the Act, or 
+ 
+(b) if more than one half-financial year has ended during that period—the 
+mean of the rates of the 10-year Bond yield at the end of each of those 
+half-financial years; or 
+ 
+(c) if no half-financial year has ended during that period—the 10-year Bond 
+yield at the end of the half-financial year immediately preceding the 
+commencement of that period. 
+ 
+(2) In subsection (1): 
+10-year Bond yield means the rate known as the 10-year Australian Government 
+Bond yield, published by the Reserve Bank of Australia. 
+mean, in relation to rates, means, if the mean of the rates is not a whole number, 
+or does not end in .75, .50 or .25, the mean rate rounded to the nearest lower 
+quarter of 1%. 
+39  Insurance for risks related to war and terrorism 
+ 
+ For the purposes of paragraph 9(4)(b) of the Act, a provision of a contract, or 
+proposed contract, for extended coverage endorsement (aviation liabilities) is 
+prescribed if it provides one or more of the following: 
+ 
+(a) the insurers may give notice in writing to review the premium or 
+geographical limits, and the notice becomes effective at least 7 days after 
+the day on which notice is given; 
+ 
+(b) following a hostile detonation of any weapon of war employing atomic or 
+nuclear fission or fusion or other like reaction or radioactive force or 
+matter, regardless of the place or time of the detonation and whether or not 
+the insured aircraft may be involved—the insurers may give notice, in 
+writing, of the cancellation of one or more parts of the cover provided by 
+the endorsement, and the notice becomes effective at least 48 hours after 
+the day on which notice is given; 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 4  Claims 
+   
+ 
+Section 39 
+ 
+32 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+(c) the cover provided by the endorsement may be cancelled by either the 
+insurer or the insured giving notice in writing, and the notice becomes 
+effective at least 7 days after the day on which notice is given. 
+Note: 
+Subsection 9(4) of the Act allows an insurer to vary or cancel a provision of a contract 
+or proposed contract of insurance only to the extent that the provision covers risks 
+related to war or terrorism. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Miscellaneous  Part 4A 
+   
+ 
+Section 39A 
+ 
+ 
+Insurance Contracts Regulations 2017 
+33 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Part 4A—Miscellaneous 
+   
+39A  Infringement notices—prescribed offences 
+ 
+(1) This section is made for the purposes of paragraph 75X(a) of the Act. 
+ 
+(2) Subsection 33C(5) of the Act is subject to an infringement notice. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+   
+Part 5  Transitional matters 
+   
+ 
+Section 40 
+ 
+34 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Part 5—Transitional matters 
+   
+40  Things done under the Insurance Contracts Regulations 1985 
+ 
+(1) If: 
+ 
+(a) a thing was done for a particular purpose under the Insurance Contracts 
+Regulations 1985 as in force immediately before those regulations were 
+repealed; and 
+ 
+(b) the thing could be done for that purpose under this instrument; 
+the thing has effect for the purposes of this instrument as if it had been done 
+under this instrument. 
+ 
+(2) Without limiting subsection (1), a reference in that subsection to a thing being 
+done includes a reference to a notice or a document being given or made. 
+Example: A Key Facts Sheet given in accordance with Division 4 of Part 4 of the Insurance 
+Contracts Regulations 1985 has effect for the purposes of this instrument as if it had 
+been given under Division 3 of Part 2 of this instrument. 
+41  References to provisions of the Insurance Contracts Regulations 1985 
+ 
+ A reference to a provision of the Insurance Contracts Regulations 1985 in any 
+document given to a person before 1 April 2018 is, on and after that day, taken to 
+be a reference to the corresponding provision of this instrument. 
+42  Application of amendments made by the Financial Sector Reform (Hayne 
+Royal Commission Response) (2021 Measures No. 1) Regulations 2021 
+ 
+ The amendments of this instrument made by Schedule 1 to the Financial Sector 
+Reform (Hayne Royal Commission Response) (2021 Measures No. 1) 
+Regulations 2021 have the same application as the amendments of the Act made 
+by Part 2 of Schedule 2 to the Financial Sector Reform (Hayne Royal 
+Commission Response) Act 2020. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+Writing to inform of duty of disclosure  Schedule 1 
+Contracts of general insurance (other than consumer insurance contracts)  Part 1 
+ 
+ 
+ 
+Insurance Contracts Regulations 2017 
+35 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Schedule 1—Writing to inform of duty of disclosure 
+Note: 
+See subsection 7(2). 
+Part 1—Contracts of general insurance (other than 
+consumer insurance contracts) 
+   
+Your duty of disclosure 
+Before you enter into an insurance contract, you have a duty to tell us anything that you 
+know, or could reasonably be expected to know, may affect our decision to insure you and on 
+what terms. 
+You have this duty until we agree to insure you. 
+You have the same duty before you renew, extend, vary or reinstate an insurance contract. 
+You do not need to tell us anything that: 
+ 
+reduces the risk we insure you for; or 
+ 
+is common knowledge; or 
+ 
+we know or should know as an insurer; or 
+ 
+we waive your duty to tell us about. 
+If you do not tell us something 
+If you do not tell us anything you are required to, we may cancel your contract or reduce the 
+amount we will pay you if you make a claim, or both. 
+If your failure to tell us is fraudulent, we may refuse to pay a claim and treat the contract as if 
+it never existed. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+Schedule 1  Writing to inform of duty of disclosure 
+Part 2  Contracts of life insurance (other than consumer insurance contracts) 
+   
+ 
+ 
+36 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Part 2—Contracts of life insurance (other than consumer 
+insurance contracts) 
+   
+Your duty of disclosure 
+Before you enter into a life insurance contract, you have a duty to tell us anything that you 
+know, or could reasonably be expected to know, may affect our decision to insure you and on 
+what terms. 
+You have this duty until we agree to insure you. 
+You have the same duty before you extend, vary or reinstate the contract. 
+You do not need to tell us anything that: 
+ 
+reduces the risk we insure you for; or 
+ 
+is common knowledge; or 
+ 
+we know or should know as an insurer; or 
+ 
+we waive your duty to tell us about. 
+If the insurance is for the life of another person and that person does not tell us everything he 
+or she should have, this may be treated as a failure by you to tell us something that you must 
+tell us. 
+If you do not tell us something 
+In exercising the following rights, we may consider whether different types of cover can 
+constitute separate contracts of life insurance. If they do, we may apply the following rights 
+separately to each type of cover. 
+If you do not tell us anything you are required to, and we would not have insured you if you 
+had told us, we may avoid the contract within 3 years of entering into it. 
+If we choose not to avoid the contract, we may, at any time, reduce the amount you have been 
+insured for. This would be worked out using a formula that takes into account the premium 
+that would have been payable if you had told us everything you should have. However, if the 
+contract has a surrender value, or provides cover on death, we may only exercise this right 
+within 3 years of entering into the contract. 
+If we choose not to avoid the contract or reduce the amount you have been insured for, we 
+may, at any time vary the contract in a way that places us in the same position we would have 
+been in if you had told us everything you should have. However, this right does not apply if 
+the contract has a surrender value or provides cover on death. 
+If your failure to tell us is fraudulent, we may refuse to pay a claim and treat the contract as if 
+it never existed. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+Writing to inform persons to be insured by others (other than under a consumer insurance contract)  
+Schedule 2 
+   
+ 
+ 
+ 
+Insurance Contracts Regulations 2017 
+37 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Schedule 2—Writing to inform persons to be insured 
+by others (other than under a consumer 
+insurance contract) 
+Note: 
+See subsection 7(3). 
+   
+   
+Insured’s duty of disclosure 
+A person who enters into a life insurance contract in respect of your life has a duty, before 
+entering into the contract, to tell us anything that he or she knows, or could reasonably be 
+expected to know, may affect our decision to provide the insurance and on what terms. 
+The person entering into the contract has this duty until we agree to provide the insurance. 
+The person entering into the contract has the same duty before he or she extends, varies or 
+reinstates the contract. 
+The person entering into the contract does not need to tell us anything that: 
+ 
+reduces the risk we insure you for; or 
+ 
+is common knowledge; or 
+ 
+we know or should know as an insurer; or 
+ 
+we waive your duty to tell us about. 
+If you do not tell us something that you know, or could reasonably be expected to know, may 
+affect our decision to provide the insurance and on what terms, this may be treated as a failure 
+by the person entering into the contract to tell us something that he or she must tell us. 
+If the person entering the contract does not tell us something 
+In exercising the following rights, we may consider whether different types of cover can 
+constitute separate contracts of life insurance. If they do, we may apply the following rights 
+separately to each type of cover. 
+If the person entering into the contract does not tell us anything he or she is required to, and 
+we would not have provided the insurance if he or she had told us, we may avoid the contract 
+within 3 years of entering into it. 
+If we choose not to avoid the contract, we may, at any time, reduce the amount of insurance 
+provided. This would be worked out using a formula that takes into account the premium that 
+would have been payable if he or she had told us everything he or she should have. However, 
+if the contract has a surrender value, or provides cover on death, we may only exercise this 
+right within 3 years of entering into the contract. 
+If we choose not to avoid the contract or reduce the amount of insurance provided, we may, at 
+any time vary the contract in a way that places us in the same position we would have been in 
+if he or she had told us everything he or she should have. However, this right does not apply if 
+the contract has a surrender value or provides cover on death. 
+If the failure to tell us is fraudulent, we may refuse to pay a claim and treat the contract as if it 
+never existed. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+Schedule 3  Writing to remind of duty of disclosure 
+Part 1  Contracts of general insurance (other than consumer insurance contracts) 
+   
+ 
+ 
+38 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Schedule 3—Writing to remind of duty of disclosure 
+Note: 
+See section 8. 
+Part 1—Contracts of general insurance (other than 
+consumer insurance contracts) 
+   
+Reminder—your duty of disclosure 
+You have previously been given a notice informing you of your duty of disclosure in relation 
+to a general insurance contract. 
+This is a duty to tell us about anything that you know, or could reasonably be expected to 
+know, may affect our decision to insure you and on what terms. 
+You have this duty until we agree to insure you. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+Writing to remind of duty of disclosure  Schedule 3 
+Contracts of life insurance (other than consumer insurance contracts)  Part 2 
+ 
+ 
+ 
+Insurance Contracts Regulations 2017 
+39 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Part 2—Contracts of life insurance (other than consumer 
+insurance contracts) 
+   
+Reminder—your duty of disclosure 
+You have previously been given a notice informing you of your duty of disclosure in relation 
+to a life insurance contract. 
+This is a duty to tell us about anything that you know, or could reasonably be expected to 
+know, may affect our decision to insure you and on what terms. 
+If the contract is for insurance of the life of another person, and that person does not tell us 
+about anything that he or she knows, or could reasonably be expected to know, may affect our 
+decision to provide the insurance and on what terms, this may be treated as a failure by you to 
+tell us something that you must tell us. 
+You have this duty until we agree to provide the insurance. 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+Schedule 5  Key Facts Sheets 
+Form 1  Home buildings insurance contract 
+   
+ 
+ 
+40 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Schedule 5—Key Facts Sheets 
+Note: 
+See section 12. 
+Form 1—Home buildings insurance contract 
+ 
+ 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+Key Facts Sheets  Schedule 5 
+Home buildings insurance contract  Form 1 
+ 
+ 
+ 
+Insurance Contracts Regulations 2017 
+41 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+Schedule 5  Key Facts Sheets 
+Form 2  Home contents insurance contract 
+   
+ 
+ 
+42 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Form 2—Home contents insurance contract 
+   
+ 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+Key Facts Sheets  Schedule 5 
+Home contents insurance contract  Form 2 
+ 
+ 
+ 
+Insurance Contracts Regulations 2017 
+43 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+ 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+ 
+Endnotes 
+ 
+ 
+Endnote 1—About the endnotes 
+ 
+ 
+44 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Endnotes 
+Endnote 1—About the endnotes 
+The endnotes provide information about this compilation and the compiled law. 
+The following endnotes are included in every compilation: 
+Endnote 1—About the endnotes 
+Endnote 2—Abbreviation key 
+Endnote 3—Legislation history 
+Endnote 4—Amendment history 
+Abbreviation key—Endnote 2 
+The abbreviation key sets out abbreviations that may be used in the endnotes. 
+Legislation history and amendment history—Endnotes 3 and 4 
+Amending laws are annotated in the legislation history and amendment history. 
+The legislation history in endnote 3 provides information about each law that has amended (or 
+will amend) the compiled law. The information includes commencement details for amending 
+laws and details of any application, saving or transitional provisions that are not included in 
+this compilation. 
+The amendment history in endnote 4 provides information about amendments at the provision 
+(generally section or equivalent) level. It also includes information about any provision of the 
+compiled law that has been repealed in accordance with a provision of the law. 
+Editorial changes 
+The Legislation Act 2003 authorises First Parliamentary Counsel to make editorial and 
+presentational changes to a compiled law in preparing a compilation of the law for 
+registration. The changes must not change the effect of the law. Editorial changes take effect 
+from the compilation registration date. 
+If the compilation includes editorial changes, the endnotes include a brief outline of the 
+changes in general terms. Full details of any changes can be obtained from the Office of 
+Parliamentary Counsel.  
+Misdescribed amendments 
+A misdescribed amendment is an amendment that does not accurately describe the 
+amendment to be made. If, despite the misdescription, the amendment can be given effect as 
+intended, the amendment is incorporated into the compiled law and the abbreviation “(md)” 
+added to the details of the amendment included in the amendment history.  
+If a misdescribed amendment cannot be given effect as intended, the abbreviation “(md not 
+incorp)” is added to the details of the amendment included in the amendment history. 
+ 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+ 
+Endnotes 
+ 
+ 
+Endnote 2—Abbreviation key 
+ 
+ 
+ 
+Insurance Contracts Regulations 2017 
+45 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Endnote 2—Abbreviation key 
+ 
+ad = added or inserted 
+o = order(s) 
+am = amended 
+Ord = Ordinance 
+amdt = amendment 
+orig = original 
+c = clause(s) 
+par = paragraph(s)/subparagraph(s) 
+C[x] = Compilation No. x 
+/sub-subparagraph(s) 
+Ch = Chapter(s) 
+pres = present 
+def = definition(s) 
+prev = previous 
+Dict = Dictionary 
+(prev…) = previously 
+disallowed = disallowed by Parliament 
+Pt = Part(s) 
+Div = Division(s) 
+r = regulation(s)/rule(s) 
+ed = editorial change 
+reloc = relocated 
+exp = expires/expired or ceases/ceased to have 
+renum = renumbered 
+effect 
+rep = repealed 
+F = Federal Register of Legislation 
+rs = repealed and substituted 
+gaz = gazette 
+s = section(s)/subsection(s) 
+LA = Legislation Act 2003 
+Sch = Schedule(s) 
+LIA = Legislative Instruments Act 2003 
+Sdiv = Subdivision(s) 
+(md) = misdescribed amendment can be given 
+SLI = Select Legislative Instrument 
+effect 
+SR = Statutory Rules 
+(md not incorp) = misdescribed amendment 
+Sub-Ch = Sub-Chapter(s) 
+cannot be given effect 
+SubPt = Subpart(s) 
+mod = modified/modification 
+underlining = whole or part not 
+No. = Number(s) 
+commenced or to be commenced 
+ 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+ 
+Endnotes 
+ 
+ 
+Endnote 3—Legislation history 
+ 
+ 
+46 
+Insurance Contracts Regulations 2017 
+ 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Endnote 3—Legislation history 
+ 
+Name 
+Registration 
+Commencement 
+Application, saving and 
+transitional provisions 
+Insurance Contracts 
+Regulations 2017 
+19 Dec 2017 (F2017L01658) 
+1 Apr 2018 (s 2(1) item 1) 
+ 
+Treasury Laws Amendment 
+(Strengthening Corporate and 
+Financial Sector Penalties) 
+Regulations 2019 
+25 Mar 2019 (F2019L00392) 
+Sch 1 (item 55): 26 Mar 2019 
+(s 2(1) item 2) 
+— 
+Financial Sector Reform 
+(Hayne Royal Commission 
+Response) (2021 Measures 
+No. 1) Regulations 2021 
+18 Feb 2021 (F2021L00127) 
+Sch 1: 19 Feb 2021 (s 2(1) 
+item 1) 
+— 
+ 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------
+ 
+Endnotes 
+ 
+ 
+Endnote 4—Amendment history 
+ 
+ 
+ 
+Insurance Contracts Regulations 2017 
+47 
+Compilation No. 2 
+Compilation date: 19/02/2021 
+Registered: 10/03/2021 
+ 
+Endnote 4—Amendment history 
+ 
+Provision affected 
+How affected 
+Part 1 
+ 
+s 2 ..................................................  
+rep LA s 48D 
+s 4 ..................................................  
+am F2021L00127 
+Part 2 
+ 
+Division 1 
+ 
+s 6 ..................................................  
+rep F2021L00127 
+s 7 ..................................................  
+am F2021L00127 
+s 8 ..................................................  
+am F2021L00127 
+s 9 ..................................................  
+rep F2021L00127 
+Part 4A 
+ 
+Part 4A ..........................................  
+ad F2019L00392 
+s 39A .............................................  
+ad F2019L00392 
+Part 5 
+ 
+s 40 ................................................  
+am F2021L00127 
+s 42 ................................................  
+ad F2021L00127 
+Schedule 1 
+ 
+Part 1 
+ 
+Part 1 heading ................................  
+am F2021L00127 
+Part 2 
+ 
+Part 2 heading ................................  
+am F2021L00127 
+Part 3 .............................................  
+rep F2021L00127 
+Part 4 .............................................  
+rep F2021L00127 
+Schedule 2 
+ 
+Schedule 2 heading ........................  
+am F2021L00127 
+Schedule 3 
+ 
+Part 1 
+ 
+Part 1 heading ................................  
+am F2021L00127 
+Part 2 
+ 
+Part 2 heading ................................  
+am F2021L00127 
+Part 3 .............................................  
+rep F2021L00127 
+Schedule 4 .....................................  
+rep F2021L00127 
+ 
+ 
+Authorised Version F2021C00206 registered 10/03/2021
+
+--------------------------------------------------------------------------------

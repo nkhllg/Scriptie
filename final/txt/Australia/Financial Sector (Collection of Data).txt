@@ -1,0 +1,1505 @@
+ 
+ 
+ 
+ 
+Financial Sector (Collection of Data) (reporting 
+standard) determination No. 56 of 2023  
+Reporting Standard ARS 223.0 Residential Mortgage Lending 
+Financial Sector (Collection of Data) Act 2001 
+I, Michael Murphy, delegate of APRA, under paragraph 13(1)(a) of the Financial Sector 
+(Collection of Data) Act 2001 (the Act) and subsection 33(3) of the Acts Interpretation Act 
+1901: 
+ 
+(a) revoke Financial Sector (Collection of Data) (reporting standard) determination No. 
+11 of 2022, including - 
+Reporting Standard ARS 223.0 Residential Mortgage 
+Lending made under that Determination; and 
+(b) determine Reporting Standard ARS 223.0 Residential Mortgage Lending, in the form 
+set out in the Schedule, which applies to the financial sector entities to the extent 
+provided in paragraph 3 of the reporting standard.  
+Under section 15 of the Act, I declare that the reporting standard shall begin to apply to those 
+financial sector entities, and the revoked reporting standard shall cease to apply, on the day it 
+is registered on the Federal Register of Legislation.  
+ 
+This instrument commences upon registration on the Federal Register of Legislation. 
+ 
+Dated: 31 March 2023 
+ 
+ 
+ 
+Michael Murphy 
+Acting Chief Data Officer 
+Technology and Data Division 
+ 
+ 
+ 
+Interpretation 
+In this Determination: 
+APRA means the Australian Prudential Regulation Authority. 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+Federal Register of Legislation means the register established under section 15A of the 
+Legislation Act 2003. 
+financial sector entity has the meaning given by section 5 of the Act.  
+Schedule  
+ 
+Reporting Standard ARS 223.0 Residential Mortgage Lending comprises the document 
+commencing on the following page. 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARS 223.0 - 1 
+ 
+ 
+ 
+ 
+ 
+ 
+Reporting Standard ARS 223.0 
+Residential Mortgage Lending 
+Objective of this Reporting Standard 
+This reporting standard outlines the requirements for the provision of information to APRA 
+relating to an authorised deposit-taking institution’s residential mortgage lending. 
+ 
+It includes Reporting Form ARF 223.0 Residential Mortgage Lending and the associated 
+specific instructions. 
+ 
+ 
+Authority 
+1. 
+This Reporting Standard is made under section 13 of the Financial Sector (Collection 
+of Data) Act 2001. 
+Purpose 
+2. 
+Information collected by Reporting Form ARF 223.0 Residential Mortgage Lending 
+(ARF 223.0) is used by APRA for the purposes of prudential supervision. It may also 
+be used by the Reserve Bank of Australia. 
+Application and commencement 
+3. 
+This Reporting Standard applies to all authorised deposit-taking institutions (ADI) with 
+the exception of: 
+(a) 
+providers of purchased payment facilities (PPFs); and 
+(b) 
+subject to paragraph 4 of this Reporting Standard, foreign ADIs. 
+This Reporting Standard may also apply to the authorised non-operating holding 
+company (NOHC) of an ADI (refer to paragraph 7). 
+4. 
+If APRA considers that a foreign ADI undertakes material residential mortgage lending 
+in Australia, APRA may, by notice, apply this Reporting Standard to that ADI having 
+regard to: 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARS 223.0 - 2 
+ 
+ 
+(a) 
+the particular circumstances of the ADI; and 
+(b) 
+the extent to which information is required for the purposes of the prudential 
+supervision of the ADI, 
+and such a notice may specify that some or all of the requirements in this Reporting 
+Standard apply to that ADI.  
+5. 
+APRA may, by notice, vary or revoke a notice given under this paragraph 4 having 
+regard to: 
+(a) 
+the particular circumstances of the ADI; and 
+(b) 
+the extent to which information is required for the purposes of the prudential 
+supervision of the ADI.  
+6. 
+This Reporting Standard applies for reporting periods ending on or after 31 March 
+2023. 
+Information required 
+7. 
+If an ADI to which this Reporting Standard applies is part of a Level 2 group, the ADI 
+must provide APRA with the information required by ARF 223.0 at Level 2 for each 
+reporting period unless the ADI is a subsidiary of an authorised NOHC. If the ADI is a 
+subsidiary of an authorised NOHC, the ADI’s immediate parent NOHC must provide 
+APRA with the information required by ARF 223.0, for each reporting period. In doing 
+so, the immediate parent NOHC must comply with this Reporting Standard as if it were 
+the relevant ADI. 
+8. 
+If an ADI to which this Reporting Standard applies is not part of a Level 2 group, the 
+ADI must provide APRA with the information required by ARF 223.0 at Level 1. 
+Method of submission 
+9. 
+The information required by this Reporting Standard must be given to APRA in 
+electronic format using an electronic method available on APRA’s website or by a 
+method notified by APRA prior to submission.  
+Reporting periods and due dates 
+10. 
+Subject to paragraph 12, an ADI to which this Reporting Standard applies must provide 
+the information required by this Reporting Standard in respect of each quarter ending 
+30 September, 31 December, 31 March and 30 June. 
+11. 
+The information required by this Reporting Standard must be provided to APRA within 
+35 calendar days after the end of the reporting period to which the information relates1. 
+                                            
+1  
+For the avoidance of doubt, if the due date for a particular reporting period falls on a day other than a 
+usual business day, an ADI is nonetheless required to submit the information required no later than the 
+due date. 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARS 223.0 - 3 
+ 
+ 
+12. 
+APRA may, by notice, change the reporting periods, or specified reporting periods, for 
+a particular ADI, to require it to provide the information required by this Reporting 
+Standard more frequently, or less frequently, having regard to: 
+(a) 
+the particular circumstances of the ADI; and 
+(b) 
+the extent to which the information is required for the purposes of the prudential 
+supervision of the ADI.  
+13. 
+APRA may grant an ADI an extension of a due date in writing, in which case the new 
+due date for the provision of the information will be the due date specified on the notice 
+of extension. 
+Quality control 
+14. 
+All information provided by an ADI under this Reporting Standard must be the product 
+of processes and controls that have been reviewed and tested by the external auditor of 
+the ADI as set out in Prudential Standard APS 310 Audit and Related Matters. 
+Relevant standards and guidance statements issued by the Auditing and Assurance 
+Standards Board provide information on the scope and nature of the review and testing 
+required from external auditors. This review and testing must be done on an annual 
+basis or more frequently if necessary to enable the external auditor to form an opinion 
+on the accuracy and reliability of the information. 
+15. 
+All information provided by an ADI under this Reporting Standard must be subject to 
+processes and controls developed by the ADI for the internal review and authorisation 
+of that information. These systems, processes and controls are to assure the 
+completeness and reliability of the information provided. 
+Authorisation 
+16. 
+When an officer or agent of an ADI provides the information required by this Reporting 
+Standard using the method notified by APRA, it will be necessary for the officer or 
+agent to digitally sign the relevant information using a digital certificate acceptable to 
+APRA. 
+Minor alterations to forms and instructions 
+17. 
+APRA may make minor variations to: 
+(a) 
+a form that is part of this reporting standard, and the instructions to such a form, 
+to correct technical, programming or logical errors, inconsistencies or anomalies; 
+or 
+(b) 
+the instructions to a form, to clarify their application to the form 
+without changing any substantive requirement in the form or instructions. 
+18. 
+If APRA makes such a variation it must notify each ADI that is required to report under 
+this reporting standard. 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARS 223.0 - 4 
+ 
+ 
+Interpretation  
+19. 
+In this reporting standard:  
+AASB has the meaning in section 9 of the Corporations Act 2001. 
+ADI means an authorised deposit-taking institution within the meaning of the Banking 
+Act 1959.  
+APRA means the Australian Prudential Regulation Authority established under the 
+Australian Prudential Regulation Authority Act 1998.  
+APS 001 means Prudential Standard APS 001 Definitions. 
+authorised NOHC has the meaning given in the Banking Act 1959. 
+due date means the last day of the 35 calendar days provided for in paragraph 11 or, if 
+applicable, the date on a notice of extension given under paragraph 13. 
+ 
+foreign ADI has the meaning in section 5 of the Banking Act 1959. 
+immediate parent NOHC means an authorised NOHC, or a subsidiary of an authorised 
+NOHC, that is an immediate parent NOHC. 
+Level 1 has the meaning in APS 001. 
+Level 2 has the meaning in APS 001. 
+locally incorporated means incorporated in Australia or in a State or Territory of 
+Australia, by or under a Commonwealth, State or Territory law.  
+provider of purchased payment facilities means an ADI that is subject to a condition 
+on its authority under section 9 of the Banking Act 1959 confining the banking business 
+that the ADI is authorised to carry on to providing purchased payment facilities. 
+Reporting Category A has the meaning given by Reporting Standard ARS 701.0 
+ABS/RBA Definitions for the EFS Collection (ARS 701.0). 
+Reporting Category B has the meaning given by ARS 701.0. 
+reporting period means a quarter of a year as provided for in paragraph 10 or, if 
+applicable, paragraph 12. 
+subsidiary has the meaning in the Corporations Act 2001. 
+20. 
+Unless the contrary intention appears, a reference to an Act, Prudential Standard, 
+Reporting Standard, Australian Accounting or Auditing Standard (including related 
+guidance) is a reference to the instrument as in force or existing from time to time. 
+21. 
+Where this Reporting Standard provides for APRA to exercise a power or discretion, 
+this power or discretion is to be exercised in writing. 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 - 5 
+ARF_223_0: Residential Mortgage Lending 
+ 
+Australian Business Number 
+Institution Name 
+Reporting Period 
+Scale Factor  
+Quarterly 
+Millions to one decimal place for Reporting Category B ADIs 
+Thousands with no decimal place for Reporting Category A ADIs  
+Percentages to two decimal places 
+Reporting Consolidation 
+ 
+Level 1 or Level 2 
+ 
+ 
+Section A: Outstanding loans secured by residential property   
+ 
+ 
+ 
+Secured in 
+Australia 
+Secured 
+overseas 
+ 
+(1) 
+(2) 
+1. Credit limits (including redrawable amounts) 
+ 
+ 
+1.1. Term loans - owner-occupied 
+ 
+1.2. Term loans - investment 
+ 
+1.3. Term loans - non-housing purposes 
+ 
+1.4. Revolving credit 
+ 
+2. Balances in offset accounts 
+ 
+ 
+ 
+ 
+ 
+Secured in 
+Australia 
+Secured in 
+Australia: 
+non-
+performing 
+ 
+(1) 
+(2) 
+3. Credit outstanding 
+ 
+ 
+3.1. Term loans - owner-occupied 
+ 
+ 
+3.1.1. of which: interest-only 
+ 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 - 6 
+3.1.2. of which: third-party originated 
+ 
+ 
+3.2. Term loans - investment 
+ 
+ 
+3.2.1. of which: interest-only 
+ 
+ 
+3.2.2. of which: third-party originated 
+ 
+ 
+3.3. Term loans - non-housing purposes 
+ 
+ 
+3.3.1. of which: interest-only 
+ 
+3.3.2. of which: third-party originated 
+  
+3.4. Revolving credit 
+ 
+ 
+3.4.1. of which: third-party originated 
+ 
+ 
+3.4.2. of which: reverse mortgages 
+ 
+ 
+3.5. Credit outstanding 
+ 
+ 
+3.5.1. of which: low-documentation  
+ 
+ 
+3.5.2. of which: loans to non-residents 
+ 
+ 
+3.5.3. of which: loans to SMSFs 
+ 
+ 
+3.5.4. of which: with lenders mortgage insurance 
+ 
+ 
+3.5.5. of which: loans for units or apartments 
+ 
+ 
+ 
+4. Term loans - credit outstanding by vintage 
+ 
+4.1. Loans funded <= 3 years ago 
+ 
+ 
+4.2. Loans funded > 3 years and <= 5 years ago 
+ 
+ 
+4.3. Loans funded > 5 years ago 
+ 
+ 
+ 
+5. New non-performing loans in the quarter 
+ 
+ 
+6. Mortgagee in possession 
+ 
+ 
+7. Loans 30-89 days past-due 
+ 
+ 
+8. Loans currently subject to temporary modifications due to financial difficulty 
+ 
+ 
+ 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 - 7 
+ 
+Section B: New loans funded during the quarter, secured by residential property 
+ 
+Secured in 
+Australia 
+Secured 
+overseas 
+ 
+(1) 
+(2) 
+10. New loans funded - total committed amount 
+ 
+ 
+ 
+ 
+Owner-
+occupied 
+Investment 
+Non-
+housing 
+purposes 
+Total 
+ 
+(1) 
+(2) 
+(3) 
+(4) 
+10.1. Term loans - Australia  
+ 
+ 
+ 
+ 
+10.1.1. of which: interest-only 
+ 
+ 
+ 
+ 
+10.1.2. of which: third-party originated 
+ 
+ 
+ 
+ 
+10.1.3. of which: loan-to-income >= 4x <6x 
+ 
+ 
+10.1.4. of which: loan-to-income >= 6x 
+ 
+ 
+10.1.5. of which: debt-to-income >= 4x <6x 
+ 
+ 
+10.1.6. of which: debt-to-income >= 6x 
+ 
+ 
+10.2. Revolving credit - Australia 
+ 
+ 
+10.3. New loans funded - total committed amount - Australia 
+10.3.1. Externally refinanced 
+ 
+ 
+LVR<60 
+60<=LVR<80 
+80<=LVR<85 
+85<=LVR<90 
+90<=LVR<95 
+LVR>=95 
+Missing LVR 
+ 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+9. Term loans outstanding by LVR - 
+Australia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.1. of which: owner-occupied 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.2. of which: investment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.3. of which: third-party originated 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.4. of which: non-performing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 - 8 
+10.3.2. Loans to SMSFs 
+ 
+10.3.3. Loans to non-residents 
+ 
+10.3.4. With lenders mortgage insurance 
+ 
+10.3.5. Impaired customer credit history 
+ 
+10.3.6. Exceptions to serviceability policy 
+ 
+10.3.7. Serviceability verification waivers 
+ 
+10.3.8. Loans for units or apartments 
+ 
+ 
+ 
+ 
+LVR<60 
+60<=LVR<80 
+80<=LVR<81 
+81<=LVR<85 
+85<=LVR<90 
+90<=LVR<95 
+LVR>=95 
+ 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+11. New term loans funded by LVR - 
+Australia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11.1. of which: owner-occupied 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11.2. of which: investment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11.3. of which: interest-only 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11.4. of which: third-party originated 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Weighted 
+average 
+ 
+(1) 
+12. Interest rates - new loans funded during the quarter - Australia 
+12.1. Average variable rate 
+ 
+12.2. Average loan serviceability assessment rate  
+ 
+ 
+ 
+Amount 
+ 
+(1) 
+13. Increase in credit limits for existing term loans during the quarter 
+ 
+13.1. of which: interest-only loans 
+ 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 - 9 
+Section C: Loans to private unincorporated businesses secured by residential mortgages 
+ 
+ 
+ 
+ 
+Amount 
+ 
+(1) 
+14. Loans to private unincorporated businesses - Australia 
+ 
+14.1. Credit outstanding 
+ 
+14.2. New loans funded during the quarter - total committed amount 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 10 
+ 
+Reporting Form ARF 223.0 Residential 
+Mortgage Lending  
+ 
+Instructions 
+ 
+This instruction guide is designed to assist in the completion of Reporting Form ARF 223.0 
+Residential Mortgage Lending (ARF 223.0). The purpose of this form is to provide quarterly 
+statistics on residential lending activities, including the stock and flow of credit and 
+composition of loans by type. 
+ 
+General directions and notes 
+ 
+Reporting entity 
+ 
+The form is to be completed by all locally-incorporated ADIs (other than providers of 
+purchased payment facilities) and any foreign ADI that has received a notice from APRA 
+under paragraph 4 of Reporting Standard ARS 223.0 Residential Mortgage Lending. 
+ 
+Securitisation deconsolidation principle 
+ 
+Except as otherwise specified in these instructions, the following applies: 
+ 
+1. 
+Where an ADI (or a member of its Level 2 consolidated group2) participates in a 
+securitisation that meets APRA’s operational requirements for regulatory capital 
+relief under Prudential Standard APS 120 Securitisation (APS 120): 
+ 
+(a) 
+special purpose vehicles (SPVs) holding securitised assets may be treated as 
+non-consolidated independent third parties for ARF 223.0, irrespective of 
+whether the SPVs (or their assets) are consolidated for accounting purposes; 
+and 
+ 
+(b) 
+the assets, liabilities, revenues and expenses of the relevant SPVs may be 
+excluded from the ADI’s reported amounts in ARF 223.0.  
+ 
+2. 
+Where an ADI (or a member of its Level 2 consolidated group) participates in a 
+securitisation that does not meet APRA’s operational requirements for regulatory 
+capital relief under APS 120, or the ADI undertakes a funding-only securitisation or 
+synthetic securitisation (per APS 120), such assets are to be reported in ARF 223.0.  
+ 
+Reporting period 
+ 
+The information provided in this form must be for the three calendar months up to and 
+including the last day of the stated quarter (i.e. September, December, March and June).  
+ 
+                                            
+2  
+Level 2 is defined in APS 001. 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 11 
+ 
+Unit of measurement 
+ 
+This form must be completed in Australian dollars (AUD) and in accordance with the units 
+set out for each class of ADI in the following table, with the exception of item 12. 
+ 
+Class of ADI 
+Units 
+Reporting Category B 
+ADIs 
+Millions of dollars rounded to one decimal place 
+Reporting Category A 
+ADIs  
+Thousands of dollars with no decimal place 
+ 
+Convert amounts denominated in foreign currency to AUD in accordance with AASB 121 
+The Effects of Changes in Foreign Exchange Rates. 
+ 
+Report item 12 as a percentage to two decimal places. 
+ 
+Basis of preparation 
+ 
+Unless otherwise specifically stated, information reported on this form must comply with 
+Australian accounting standards. 
+ 
+Standard Business Reporting (SBR)  
+ 
+The accounting type (i.e. credit or debit) is stated for all monetary items and represents the 
+natural balance of the item collected. 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 12 
+ 
+Definitions 
+ 
+Terms highlighted in bold italics indicate that the definition is provided in these instructions. 
+ 
+Definitions of security types and loan purposes 
+ 
+Dwelling 
+A self-contained room or suite of rooms, including cooking and bathing 
+facilities, intended for long-term residential use. A dwelling is private 
+(not generally accessible by the public) and is contained within a 
+building that is an immobile structure. A dwelling may comprise part of 
+a building or the whole of a building. Regardless of whether they are 
+self-contained or not, rooms within buildings offering institutional care 
+(e.g. hospitals) or temporary accommodation (e.g. hotels, motels or 
+hostels) are not defined as dwellings. 
+Investment 
+A loan for the purpose of housing, where the funds are used for a 
+residential property that is not owner-occupied. 
+Where the loan is for a residential property that is different to the 
+residential property against which the loan is secured, this definition 
+refers to the occupation status of the residential property for which the 
+loan has been obtained (not the occupation status of the property used as 
+security). 
+It includes: holiday or vacation homes and part-time residences that are 
+not the borrower’s or borrowers’ principal place of residence. 
+It excludes: part-time residences that are the borrower’s or borrowers’ 
+principal place of residence. These should be reported under owner-
+occupied. 
+Owner-occupied 
+A loan for the purpose of housing, where the funds are used for a 
+residential property, that is occupied or to be occupied by the 
+borrower(s) as their principal place of residence. 
+Where the loan is for a residential property that is different to the 
+residential property against which the loan is secured, this definition 
+refers to the occupation status of the residential property for which the 
+loan has been obtained (not the occupation status of the residential 
+property used as security). 
+It includes: 
+  dwellings and residential land that are vacant while under 
+construction, but that the borrower intends to occupy as a principal 
+place of residence; 
+  part-time residences that are the borrower’s or borrowers’ principal 
+place of residence. 
+It excludes: 
+  part-time residences that are not the borrower’s or borrowers’ 
+principal place of residence. These should be reported as 
+investment. 
+Where finance is to be used for more than one purpose (owner-occupied, 
+investment or non-housing purposes), the entire amount of the finance 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 13 
+ 
+should be classified according to the predominant purpose (i.e. the 
+purpose for which the largest share of the funds will be used). 
+Where there is any doubt or ambiguity about whether a loan is for an 
+owner-occupied or investment property, report the loan as for 
+investment. 
+Non-housing 
+purposes 
+A loan secured by residential property where the funds are not used for 
+the purchase, renovation or development of residential property. For 
+example, personal loans secured by residential property. 
+Residential land 
+Any vacant land that does not have a dwelling attached, where the 
+construction of a dwelling is allowed under zoning regulations. 
+Residential 
+property 
+ 
+Residential land and dwellings. 
+Secured in 
+Australia 
+Loans where the majority (by valuation) of residential property used as 
+collateral for the loan is located in Australia. 
+Secured 
+overseas 
+Loans where the majority (by valuation) of residential property used as 
+collateral for the loan is located outside Australia. 
+Units or 
+apartments 
+Dwellings in a building that has more than two dwellings. These 
+dwellings do not have their own private grounds and usually share a 
+common entrance foyer or stairwell. Do not include duplexes, 
+townhouses or a detached residence that includes a flat (such as a granny 
+flat) on the same property. Dwellings included in this item are 
+categorised as class 13 ‘Flats, units or apartments’ in the Australian 
+Bureau of Statistics’ (ABS) Functional Classification of Buildings, 1999 
+(Revision 2011) Cat. no. 1268.0.55.001. 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 14 
+ 
+Definitions of borrower types and characteristics 
+ 
+Households 
+Individuals (that is, natural persons), or groups of individuals, whose 
+dealings are for personal or household purposes. Exclude: 
+  individuals, or groups of individuals, whose dealings with other 
+sectors are for business purposes;   
+  sole proprietors, partnerships, and any other unincorporated 
+enterprises;  
+  family trusts; and 
+  any other counterparties, such as corporations, partnerships and 
+managed funds. 
+Impaired 
+customer credit 
+history 
+Borrowers with previous record of default, bankruptcy or other credit 
+impairment, to the extent this information is known to the ADI. 
+Non-residents 
+Borrowers whose centre of predominant economic interest (i.e. principal 
+place of residence) is outside Australia’s economic territory.  
+Private 
+unincorporated 
+businesses 
+Persons acting as sole proprietors or in partnerships for business 
+purposes. The major businesses to be included in this sub-sector are 
+unincorporated farms, unincorporated retailers, unincorporated 
+professional practices (medical, legal, dental, accounting, etc.), 
+unincorporated businesses of tradespeople such as plumbers, 
+electricians, carpenters, etc. 
+It includes: 
+  households whose dealings with other sectors are for business 
+purposes; and 
+  family trusts. 
+It excludes: 
+  any unincorporated business that is a branch of a non-resident 
+company; 
+  unincorporated businesses that are owned by private trading 
+corporations (e.g. joint ventures); and 
+  government unincorporated enterprises. 
+SMSFs 
+Self-managed superannuation funds and has the meaning given by 
+sections 17A and 17B of the Superannuation Industry (Supervision) Act 
+1993. 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 15 
+ 
+Definitions of measures of loans 
+ 
+Borrower’s 
+gross income 
+ 
+Borrower’s annual before tax income verified by an ADI, excluding any 
+compulsory superannuation contributions and before any discounts or 
+haircuts under the ADI’s serviceability assessment policy. 
+Credit limit 
+The maximum amount of funds available to the borrower without 
+additional authorisation or approval. This amount should include the 
+credit outstanding and any other funds that can be drawn without 
+additional approval by the lender.  
+For term loans, report the amortised value of the loan, gross of offset 
+accounts. 
+For revolving credit facilities, any amounts in a net-deposit position 
+should not add to the credit limit. 
+Credit 
+outstanding 
+The balance owed by borrowers at the end of the reporting period 
+(including capitalised interest or fees). The credit outstanding is the 
+original loan amount, less any repayments, plus any redraw facilities 
+drawn. 
+The balance should be reported gross of provisions. Do not net any 
+deposit balances in offset accounts against the outstanding loan amount. 
+For revolving credit facilities, report the drawn amount.  
+Debt-to-income 
+ratio 
+The ratio of the credit limit of all debts held by the borrower, to the 
+borrowers’ gross income.  
+Include the credit limit of any debts, such as other mortgage lending, 
+personal loans, credit-cards, consumer finance, margin lending, buy now 
+pay later debt, Higher Education Loan Program (HELP) or Higher 
+Education Contribution Scheme (HECS) debt, and any other debts held 
+by the borrower, to any party, to the extent this is known to the ADI. 
+Loan 
+serviceability 
+assessment rate 
+The interest rate used in the ADI’s serviceability assessments, such as an 
+interest-rate floor or actual interest-rate rate plus interest-rate buffer. Loan 
+serviceability rate does not consider other serviceability factors such as 
+discounts or haircuts to income. 
+Loan-to-income 
+ratio 
+The ratio of the credit limit of the loan to the borrower's gross income. 
+Loan-to-
+valuation ratio 
+(LVR) 
+As defined in and calculated in accordance with paragraph 14(p) and 
+Attachment A of Prudential Standard APS 112 Capital Adequacy: 
+Standardised Approach to Credit Risk (APS 112). 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 16 
+ 
+Definitions of loan types and characteristics 
+ 
+30-89 days past-
+due 
+Loans that are at least 30 days past-due but less than 90 days past-due, 
+whether or not the loan is well secured or non-performing. This should 
+be based on the original contractual terms of the loan, not restructured 
+terms or temporary concessions. 
+Amortising 
+Loans on which interest is paid and principal is automatically amortised. 
+Also known as principal and interest loans. 
+Exceptions to 
+serviceability 
+policy 
+Loans approved either with negative serviceability, below the ADI’s 
+serviceability threshold or that have been granted other credit policy 
+waivers related to serviceability. Include loans: 
+  with net income surplus less than $0 or below the ADI’s minimum 
+serviceability threshold, temporary or otherwise (e.g. bridging 
+finance); 
+  with net income surplus of more than $0 or the ADI’s minimum 
+serviceability threshold, but where input parameters have been 
+adjusted below policy minimum levels (e.g. changes to interest rate 
+floors or expense assumptions); and 
+  where additional income outside of policy is included to achieve net 
+income surplus above $0 or the ADI’s minimum serviceability 
+threshold. 
+Exclude loans: 
+  that initially fail automated internal decision tools but meet 
+serviceability policy requirements after income is manually added; 
+and 
+  with non-serviceability policy exceptions (for example, valuation 
+and LVR exceptions). 
+Externally 
+refinanced 
+Loans where a new loan is obtained to replace an existing loan that was 
+provided by a different lender (that is not within the regulated ADI 
+itself). It excludes: 
+  refinanced loans for a different residential property. These 
+should only be reported as new funded loans.  
+Funded 
+A loan is considered funded once any portion of the funds is made available 
+for the borrower to draw down according to the terms of the contract, 
+whether or not it is drawn down within that period.  
+Interest-only 
+Loans on which only interest is paid during a set period and no principal 
+is automatically amortised. The loans will typically revert to principal-
+and-interest repayments at the end of the interest-only period. Only 
+report loans as interest-only loans during their interest-only period. 
+Lenders 
+mortgage 
+insurance 
+(LMI) 
+As defined in paragraph 14(o) of APS 112. 
+Low-
+documentation 
+A loan for which the lender has not, prior to loan origination, fully 
+documented and verified the income of the borrower. 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 17 
+ 
+Mortgagee in 
+possession 
+Loans for which the ADI has taken possession of the property securing 
+the loan due to borrower default. Do not include loans where the 
+property has been sold. 
+Offset accounts 
+Deposit accounts that are offset against the balance of an outstanding 
+loan when calculating the interest owing. Exclude accounts with no 
+credit outstanding associated with them, and all-in-one facilities where 
+it is not possible to separate the loan balance from the borrower’s 
+deposits. 
+Non-
+Performing 
+Loans that are non-performing as defined in Prudential Standard APS 
+220 Credit Risk Management (APS 220). 
+Past-due 
+Loans that are past-due as defined in APS 220. 
+Reverse 
+mortgages 
+Loans secured by residential property in which repayments are generally 
+deferred and capitalised, with full repayment due when the owner dies, 
+sells the property or moves out of the house. 
+Revolving credit 
+Lending facilities that the borrower may repeatedly draw down, in part 
+or in full up to an authorised credit limit, and repay any credit drawn, in 
+part or in full, on multiple occasions without the facility being cancelled. 
+Repayments (other than of charges and interest) reduce the borrowings, 
+thereby increasing the amount of unused credit available. Include 
+facilities with a fixed term that meet the above criteria. Include reverse 
+mortgages. 
+Serviceability 
+verification 
+waivers 
+Loans with material waivers to serviceability verification requirements, 
+which may impact the reliability of the serviceability assessment. 
+Temporary 
+modifications 
+due to financial 
+difficulty 
+Loans where the ADI has made temporary modifications to the 
+conditions to the loan, for example, temporary concessions to 
+repayments, due to the financial difficulty of the borrower. 
+Term loans 
+Loans extended for a fixed period, with a maturity date by which the 
+loan must be repaid. Repayments over the fixed period reduce the credit 
+outstanding and do not make further finance available. Include redraw 
+facilities attached to fixed-term loans as part of the term loan. Exclude 
+reverse mortgages, report reverse mortgages as revolving credits. 
+Third-party 
+originated 
+Loans where the ADI’s primary contact with the borrower at origination 
+is through a mortgage broker or another party (including a related body 
+corporate) that is not within the regulated ADI itself. This includes 
+where this third party accepts or completes applications, and is 
+regardless of whether the third party has the ability to approve 
+transactions or not. 
+ 
+ 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 18 
+ 
+Specific instructions 
+ 
+Section A: Outstanding loans secured by residential property  
+ 
+Report information as at the end of the quarter, on all outstanding loans to households and 
+SMSFs that are secured by residential property, in section A. 
+ 
+SBR: the accounting type of item and items 3 - 9 is debit (items are assets). The accounting 
+time of item 2 is credit (items are liabilities). 
+ 
+Item 1 Credit limits and Item 2 Balances in offset accounts 
+ 
+Items 1 and 2 collect information on the credit limits and offset accounts for loans secured 
+by residential property. 
+ 
+Column 1 
+The amount for facilities secured in Australia. 
+Column 2 
+The amount for facilities secured overseas. 
+ 
+Item 1 
+Report the total credit limit for facilities secured in Australia in item 1 
+column 1. 
+Item 1 column 1 is a derived item. Report the total credit limit in item 1 
+column 1 as the sum of items 1.1 to 1.4 inclusive. 
+Report the total credit limit for facilities secured overseas in item 1 
+column 2. 
+Item 1.1 
+Report the total credit limit for owner-occupied, term loans, secured in 
+Australia. 
+Item 1.2 
+Report the total credit limit for investment, term loans, secured in 
+Australia. 
+Item 1.3 
+Report the total credit limit for non-housing purposes, term loans, 
+secured in Australia. 
+Item 1.4 
+Report the total credit limit for revolving credit facilities secured in 
+Australia. 
+Item 2 
+Report the gross deposit balance in offset accounts which offset loans 
+secured in Australia.  
+ 
+Item 3 to Item 8: Credit outstanding 
+ 
+Items 3 to 8 inclusive collect information on the credit outstanding for loans secured by 
+residential property. 
+ 
+Column 1 
+The credit outstanding for loans secured in Australia. 
+Column 2 
+The credit outstanding for loans secured in Australia that are non-
+performing. 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 19 
+ 
+Item 3 
+Item 3 is a derived item. Report the value of credit outstanding in item 
+3 column 1, and non-performing in column 2, as the sum of items 3.1, 
+3.2, 3.3 and 3.4. 
+Item 3.1 
+Report owner-occupied term loans. 
+Item 3.1.1 
+Of the amount reported in item 3.1, report interest-only loans. 
+Item 3.1.2 
+Of the amount reported in item 3.1, report third-party originated loans. 
+Item 3.2 
+Report investment term loans. 
+Item 3.2.1 
+Of the amount reported in item 3.2, report interest-only loans. 
+Item 3.2.2 
+Of the amount reported in item 3.2, report third-party originated loans. 
+Item 3.3 
+Report term loans for non-housing purposes. 
+Item 3.3.1 
+Of the amount reported in item 3.3, report interest-only loans. 
+Item 3.3.2 
+Of the amount reported in item 3.3, report third-party originated loans. 
+Item 3.4 
+Report revolving credit facilities. 
+Item 3.4.1 
+Of the amount reported in item 3.4, report third-party originated 
+facilities. 
+Item 3.4.2 
+Of the amount reported in item 3.4, report reverse mortgages. 
+Item 3.5.1 
+Of the amount reported in item 3, report low-documentation loans. 
+Item 3.5.2 
+Of the amount reported in item 3, report loans to non-residents. 
+Item 3.5.3 
+Of the amount reported in item 3, report loans to SMSFs. 
+Item 3.5.4 
+Of the amount reported in item 3, report loans currently covered by 
+LMI. 
+Item 3.5.5 
+Of the amount reported in item 3, report loans predominantly for the 
+purpose of units or apartments. 
+ 
+Item 4: Credit outstanding: Vintage 
+ 
+Item 4 collects information on the time since loans were funded. 
+ 
+Item 4.1 
+Report term loans that were funded less than or equal to 3 years before 
+the end of the reporting period. 
+Item 4.2 
+Report term loans that were funded greater than 3 years and less than 
+or equal to 5 years before the end of the reporting period. 
+Item 4.3 
+Report term loans that were funded greater than 5 years before the end 
+of the reporting period. 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 20 
+ 
+Items 5 to 8: Credit outstanding: Other information 
+ 
+Items 5 to 8 collect other information about outstanding loans. 
+ 
+Item 5 
+Report loans that were previously performing and have become non-
+performing during the quarter. 
+Item 6 
+Report mortgagee in possession loans.  
+Item 7 
+Report loans 30-89 days past-due. 
+Item 8 
+Report loans granted temporary modifications due to financial 
+difficulty. 
+ 
+Item 9: Credit outstanding: LVR profile 
+ 
+Item 9 collects information on the credit outstanding for term loans, secured in Australia 
+grouped by LVR.  
+ 
+Column 1 
+Report loans with an LVR less than 60 per cent. 
+Column 2 
+Report loans with an LVR greater than or equal to 60 per cent, and less 
+than 80 per cent. 
+Column 3 
+Report loans with an LVR greater than or equal to 80 per cent, and less 
+than 85 per cent. 
+Column 4 
+Report loans with an LVR greater than or equal to 85 per cent, and less 
+than 90 per cent. 
+Column 5 
+Report loans with an LVR greater than or equal to 90 per cent, and less 
+than 95 per cent. 
+Column 6 
+Report loans with an LVR greater than or equal to 95 per cent. 
+Column 7 
+Report loans with an unknown or missing LVR. Column 7 is a derived 
+item.  
+ 
+Item 9 
+Report the credit outstanding for term loans grouped by LVR for loans 
+secured in Australia. 
+Item 9 column 7 is derived as the sum of item 3.1 column 1, item 3.2 
+column 1, and item 3.3 column 1; less the sum of item 9 columns 1 to 6 
+inclusive. 
+Item 9.1 
+Of the amount reported in item 9, report owner-occupied loans grouped 
+by LVR. 
+Item 9.1 column 7 is derived as item 3.1 column 1 less the sum of item 
+9.1 columns 1 to 6 inclusive. 
+Item 9.2 
+Of the amount reported in item 9, report investment loans grouped by 
+LVR. 
+Item 9.2 column 7 is derived as item 3.2 column 1 less the sum of item 
+9.2 columns 1 to 6 inclusive. 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 21 
+ 
+Item 9.3 
+Of the amount reported in item 9, report third-party originated loans 
+grouped by LVR. 
+Item 9.3 column 7 is derived as: the sum of item 3.1.2 column 1, item 
+3.2.2 column 1, and item 3.3.2 column 1; less the sum of item 9.3 
+columns 1 to 6 inclusive. 
+Item 9.4 
+Of the amount reported in item 9, report non-performing loans grouped 
+by LVR. 
+Item 9.4 column 7 is derived as: the sum of item 3.1 column 2, item 3.2 
+column 2, and item 3.3 column 2; less the sum of item 9.4 columns 1 to 
+6 inclusive. 
+ 
+Section B: New loans funded during the quarter, secured by residential 
+property  
+ 
+Item 10: New loans funded 
+ 
+Items 10 to 11 inclusive collect information on the total credit limit of loans to households 
+and SMSFs secured by residential property that were funded during the quarter. 
+ 
+For revolving credit facilities, report the entire value of the credit limit from the time at 
+which the credit is first made available to the borrower (whether or not it is drawn down 
+within that period). 
+ 
+For term loans, report the entire committed value of the loan from the time at which the 
+credit is first made available to the borrower (whether or not it is drawn down within that 
+period). If the loan is disbursed over a period of time (multiple drawdowns) then report the 
+entire loan as being funded from the time at which funds are first made available to the 
+borrower, whether or not it is drawn down within that period. 
+ 
+Report values gross of offset account balances (i.e. do not subtract offset account balances) 
+and redraw facilities (i.e. do not subtract the amounts available in redraw facilities). 
+ 
+For internal refinances report the total value refinanced, not just the increase in the credit 
+limit. 
+ 
+SBR: the accounting type of items 10 to 13 is debit (items are assets). 
+ 
+Item 10 
+Report the total credit limit of loans funded in item 10. 
+Item 10 column 1 is a derived item. Report the value of item 10 column 
+1 as the sum of item 10.1 column 4 and item 10.2. 
+Report the value of loans originated and secured overseas in item 10 
+column 2. 
+ 
+Column 1 
+Report owner-occupied loans. 
+Column 2 
+Report investment loans. 
+Column 3 
+Report loans for non-housing purposes.  
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 22 
+ 
+Column 4 
+Report total loans. Column 4 is a derived item. Report column 4 as the 
+sum of columns 1 to 3 inclusive. 
+ 
+Item 10.1 
+Report the credit limit of term loans that are secured in Australia that 
+were funded during the quarter. 
+Item 10.1.1 
+Of the amount reported in item 10.1, report interest-only loans. 
+Item 10.1.2 
+Of the amount reported in item 10.1, report third-party originated 
+loans. 
+Item 10.1.3 
+Of the amount reported in item 10.1, report term loans where the loan-
+to-income ratio is greater than or equal to 4 times, but less than 6 times. 
+Item 10.1.4 
+Of the amount reported in item 10.1, report term loans where the loan-
+to-income ratio is greater than or equal to 6 times. 
+Item 10.1.5 
+Of the amount reported in item 10.1, report term loans where the debt-
+to-income ratio is greater than or equal to 4 times, but less than 6 times. 
+Item 10.1.6 
+Of the amount reported in item 10.1, report term loans where the debt-
+to-income ratio is greater than or equal to 6 times. 
+Item 10.2 
+Report the total credit limit of revolving credit facilities, secured in 
+Australia, that were funded during the quarter. 
+Item 10.3.1 
+ 
+Report the total credit limit of loans secured in Australia that were 
+funded during the quarter that were externally refinanced. 
+Item 10.3.2 
+Report the total credit limit of loans to SMSFs, secured in Australia, 
+that were funded during the quarter. 
+Item 10.3.3 
+Report the total credit limit for loans to non-residents, secured in 
+Australia, that were funded during the quarter. 
+Item 10.3.4 
+Report the total credit limit for loans with LMI, secured in Australia, 
+that were funded during the quarter. 
+Item 10.3.5 
+Report the total credit limit for loans with impaired customer credit 
+history, secured in Australia, that were funded during the quarter. 
+Item 10.3.6 
+Report the total credit limit for loans with exceptions to serviceability 
+policy, secured in Australia, that were funded during the quarter. 
+Item 10.3.7 
+Report the total credit limit for loans with serviceability verification 
+waivers, secured in Australia, that were funded during the quarter. 
+Item 10.3.8 
+Report the total credit limits for loans predominantly for the purpose of 
+units or apartments, secured in Australia, that were funded during the 
+quarter. 
+ 
+Item 11: New term loans: LVR profile 
+ 
+Item 11 collects information about term loans, secured in Australia that were funded 
+during the quarter, grouped by LVR.  
+ 
+Column 1 
+Report loans with an LVR less than 60 per cent. 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 23 
+ 
+Column 2 
+Report loans with an LVR greater than or equal to 60 per cent, and less 
+than 80 per cent. 
+Column 3 
+Report loans with an LVR greater than or equal to 80 per cent, and less 
+than 81 per cent. 
+Column 4 
+Report loans with an LVR greater than or equal to 81 per cent, and less 
+than 85 per cent. 
+Column 5 
+Report loans with an LVR greater than or equal to 85 per cent, and less 
+than 90 per cent. 
+Column 6 
+Report loans with an LVR greater than or equal to 90 per cent, and less 
+than 95 per cent. 
+Column 7 
+Report loans with an LVR greater than or equal to 95 per cent. 
+ 
+Item 11 
+Report the total credit limit of term loans funded during the quarter 
+secured in Australia, grouped by LVR. Calculate LVR using the total 
+credit limit of the loan. 
+Item 11.1 
+Of the amount reported in item 11, report owner-occupied loans. 
+Item 11.2 
+Of the amount reported in item 11, report investment loans. 
+Item 11.3 
+Of the amount reported in item 11, report interest-only loans. 
+Item 11.4 
+Of the amount reported in item 11, report third-party originated loans. 
+ 
+Item 12: Interest rates of new loans 
+ 
+Item 12 collects information about the interest rates of new term loans funded during the 
+quarter.  
+ 
+Item 12.1 
+Report the weighted average interest rate for variable-rate loans 
+secured in Australia that were funded during the quarter, as the 
+average of the individual loans’ contractual interest rates, weighted by 
+the credit limit, including any interest rate discounts received by the 
+borrower. Include loans with temporary fixed-rate periods of less than 
+12 months. 
+Item 12.2 
+Report the weighted average loan serviceability assessment rate for 
+loans secured in Australia that were funded during the quarter, as the 
+average of the individual loan interest rates weighted by the credit 
+limit. 
+ 
+Item 13: Increase in credit limits for existing loans 
+ 
+Item 13 collects information about increases in credit limits made during the quarter to 
+existing loans.  
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------
+ 
+ 
+March 2023 
+ARF 223.0 Instructions - 24 
+ 
+Item 13 
+Report any increases in total credit limits for term loans to households 
+and SMSFs during the quarter that are not already included in new 
+loans funded. Only report the increase in the credit limit, not the entire 
+new limit.  
+Item 13.1 
+Of the amount reported in item 13, report interest-only loans.  
+ 
+Section C: Loans to private unincorporated businesses secured by residential 
+mortgages 
+ 
+Item 14 collects addition information on loans secured by residential mortgages in Australia. 
+ 
+SBR: the accounting type of item 14 is debit (items are assets). 
+ 
+Item 14.1 
+Report the value of credit outstanding to private unincorporated 
+businesses, secured in Australia by residential property. 
+Item 14.2 
+Report the total credit limit of loans that were funded during the 
+quarter to private unincorporated businesses, secured in Australia by 
+residential property. 
+ 
+Authorised Version F2023L00410 registered 03/04/2023
+
+--------------------------------------------------------------------------------

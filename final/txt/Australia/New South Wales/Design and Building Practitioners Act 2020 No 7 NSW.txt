@@ -1,0 +1,2740 @@
+Design and Building Practitioners Act 2020 No 7
+[2020-7]
+New South Wales
+New South Wales
+Status Information
+Currency of version
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Legislation on this site is usually updated within 3 working days after a change to the legislation.
+Provisions in force
+Some, but not all, of the provisions displayed in this version of the legislation have commenced.
+Notes—
+•
+Does not include amendments by
+Building Legislation Amendment Act 2023 No 44, Sch 2.2 (not commenced)
+Authorisation
+This version of the legislation is compiled and maintained in a database of legislation by the Parliamentary
+Counsel's Office and published on the NSW legislation website, and is certified as the form of that legislation that
+is correct under section 45C of the Interpretation Act 1987.
+File last modified 20 August 2024
+Certified by the NSW Parliamentary Counsel as being published on www.legislation.nsw.gov.au
+Page 1 of 73
+
+--------------------------------------------------------------------------------
+Design and Building Practitioners Act 2020 No 7
+New South Wales
+New South Wales
+Contents
+Long title.......................................................................................................................................... 8
+Part 1 Preliminary.......................................................................................................................8
+1 Name of Act....................................................................................................................................... 8
+2 Commencement ................................................................................................................................8
+3 Definitions ......................................................................................................................................... 8
+4 Building work................................................................................................................................... 11
+5 Regulated designs ...........................................................................................................................11
+6 Building elements............................................................................................................................12
+7 Building practitioners ......................................................................................................................12
+8 Compliance declarations .................................................................................................................13
+Part 2 Regulated designs and building work............................................................14
+Division 1 Obligations of design practitioners.........................................................14
+9 Compliance declarations by registered design practitioners ...........................................................14
+10 Declarations by unregistered persons .............................................................................................16
+11 Registered design practitioners to be indemnified ..........................................................................16
+Division 2 Obligations of principal design practitioners....................................16
+12 Compliance declarations by registered principal design practitioners ............................................16
+13 Declarations by unregistered persons .............................................................................................17
+14 Registered principal design practitioners to be indemnified............................................................17
+Division 3 Obligations of building practitioners .....................................................18
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 2 of 73
+
+--------------------------------------------------------------------------------
+15 Provision of relevant documents to Secretary .................................................................................18
+16 Notice of application for occupation certificate ...............................................................................19
+17 Compliance declarations by registered building practitioners.........................................................19
+18 Building practitioners must ensure compliance with declaration obligations ..................................20
+19 Designs and design compliance declarations to be obtained..........................................................20
+20 Variations after building work commences......................................................................................21
+21 Requirements for building elements and performance solutions.....................................................22
+22 Obligations relating to Building Code of Australia ...........................................................................23
+23 Declarations by unregistered persons .............................................................................................23
+24 Registered building practitioners to be indemnified ........................................................................23
+Division 4 Miscellaneous.......................................................................................................24
+25 Compliance with Building Code of Australia ....................................................................................24
+26 Requirements for compliance declarations before issue of building certificates .............................25
+27 Principal certifier must consider compliance declarations...............................................................25
+28 Provision of compliance declarations, and other obligations, of registered body corporates ..........26
+29 Improper influence with respect to provision of declarations ..........................................................26
+30 Regulations relating to insurance requirements ..............................................................................27
+Part 3 Engineering work and specialist work ...........................................................27
+Division 1 Professional engineering work ..................................................................27
+31 Professional engineering work.........................................................................................................27
+32 Professional engineering work only carried out by professional engineers .....................................28
+33 Registered professional engineers to be indemnified......................................................................29
+Division 2 Specialist work ....................................................................................................29
+34 Specialist work ................................................................................................................................29
+35 Specialist work only carried out by registered specialist practitioner..............................................30
+Part 4 Duty of care ...................................................................................................................30
+36 Definitions ....................................................................................................................................... 30
+37 Extension of duty of care.................................................................................................................31
+38 Economic loss—owners corporations and associations ...................................................................32
+39 Duty must not be delegated............................................................................................................32
+40 No contracting out of Part................................................................................................................32
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 3 of 73
+
+--------------------------------------------------------------------------------
+41 Relationship with other duties of care and law................................................................................32
+Part 5 Registration of practitioners ...............................................................................33
+Division 1 Applications for registration .......................................................................33
+42 Classes of registration .....................................................................................................................33
+43 Application for registration ..............................................................................................................33
+44 Secretary may obtain information from third parties ......................................................................34
+45 Determination of applications .........................................................................................................34
+46 Grounds for opinion that a person is not a suitable person to carry out work .................................35
+47 Requirements for registration..........................................................................................................35
+48 Duration of registration ...................................................................................................................36
+49 Conditions of registration ................................................................................................................36
+50 Particular conditions ........................................................................................................................36
+51 Condition requiring provision of information to the Secretary .........................................................36
+Division 2 Variation, suspension or cancellation of registration ..................37
+52 Variation, suspension or cancellation of registration generally .......................................................37
+52A Variation of registration.................................................................................................................38
+53 Suspension or cancellation may be subject to conditions ...............................................................38
+Division 3 Recognition as registered practitioner .................................................38
+54 Recognition procedure.....................................................................................................................38
+55 Recognition of professional bodies for engineers ............................................................................39
+55A Review by Civil and Administrative Tribunal ..................................................................................41
+Division 4 Registration offences ......................................................................................41
+56 Offence of contravening condition...................................................................................................41
+57 Offence of lending certificate registration .......................................................................................41
+58 False representations relating to practitioners ................................................................................41
+59 Return of cancelled, suspended or varied registration ....................................................................42
+60 Registered practitioner to notify Secretary of certain events ..........................................................42
+Division 5 General.....................................................................................................................43
+61 Registration not transferable...........................................................................................................43
+62 Voluntary surrender or suspension of registration...........................................................................43
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 4 of 73
+
+--------------------------------------------------------------------------------
+63 Review by Civil and Administrative Tribunal ....................................................................................43
+Part 6 Disciplinary action against practitioners .....................................................44
+64 Grounds for taking disciplinary action .............................................................................................44
+65 Notice to show cause.......................................................................................................................45
+65A Power to suspend registration when notice to show cause served................................................46
+66 Disciplinary action that may be taken by Secretary ........................................................................46
+67 Directors must report certain conduct.............................................................................................48
+68 Review by Civil and Administrative Tribunal ....................................................................................48
+69 Enforcement of monetary penalties and payment of costs .............................................................48
+70 Liability for offences not affected ....................................................................................................49
+Part 7 Investigations...............................................................................................................49
+Division 1 Preliminary ............................................................................................................49
+71 Definitions ....................................................................................................................................... 49
+72 Purposes for which functions under Part may be exercised.............................................................50
+Division 2 Authorised officers............................................................................................50
+73 Appointment of authorised officers .................................................................................................50
+74 Scope of authority ...........................................................................................................................50
+75 Identification ................................................................................................................................... 50
+Division 3 Information gathering powers ...................................................................51
+76 Exercise in conjunction with other powers ......................................................................................51
+77 Powers of authorised officers to require information and records ...................................................51
+78 Power of authorised officers to require answers..............................................................................51
+79 Recording of evidence .....................................................................................................................52
+Division 4 Entry to premises...............................................................................................52
+80 Powers of authorised officers to enter premises..............................................................................52
+81 Entry into residential premises only with permission or warrant .....................................................52
+82 Search warrants ..............................................................................................................................52
+83 Provision of assistance to authorised officers..................................................................................53
+84 Powers that may be exercised on premises.....................................................................................53
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 5 of 73
+
+--------------------------------------------------------------------------------
+Division 5 Miscellaneous.......................................................................................................55
+85 Taking possession of records to be used as evidence......................................................................55
+86 Obstruction of authorised officers ...................................................................................................55
+87 Failure to comply with direction.......................................................................................................55
+Part 8 Enforcement ..................................................................................................................55
+Division 1 Remedial actions................................................................................................55
+88 Undertakings ................................................................................................................................... 55
+89 Stop work orders .............................................................................................................................55
+90 Appeals against stop work orders....................................................................................................56
+91 Applying for orders to restrain or remedy contraventions ...............................................................56
+92 Complaints, investigations and audits of practitioners....................................................................57
+Division 2 Offences...................................................................................................................57
+93 Proceedings for offences .................................................................................................................57
+94 Penalty notices ................................................................................................................................58
+95 Offences by bodies corporate..........................................................................................................59
+96 Continuing offences.........................................................................................................................59
+97 Onus of proof regarding reasonable excuse ....................................................................................60
+Part 9 Miscellaneous ...............................................................................................................60
+98 Practitioners registers......................................................................................................................60
+98A Register of orders and undertakings .............................................................................................60
+99 Warning notices...............................................................................................................................61
+100 Service of documents ....................................................................................................................62
+101 Certificate evidence of certain matters .........................................................................................62
+102 Personal liability ............................................................................................................................63
+103 Disclosure and misuse of information............................................................................................63
+104 Exchange of information................................................................................................................63
+105 Secretary may require information about insurance policies ........................................................65
+106 Delegation ..................................................................................................................................... 65
+107 Regulations.................................................................................................................................... 66
+108 Recovery of unpaid fees ................................................................................................................67
+109 Review of Act.................................................................................................................................67
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 6 of 73
+
+--------------------------------------------------------------------------------
+Schedule 1 Savings, transitional and other provisions ......................................67
+Schedule 2 (Repealed) ...........................................................................................................73
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 7 of 73
+
+--------------------------------------------------------------------------------
+Design and Building Practitioners Act 2020 No 7
+New South Wales
+New South Wales
+An Act with respect to the registration of design practitioners, principal design practitioners,
+professional engineers, specialist practitioners and other building practitioners, compliance
+declarations and a duty of care; and for other purposes.
+Part 1 Preliminary
+1
+Name of Act
+This Act is the Design and Building Practitioners Act 2020.
+2
+Commencement
+(1) This Act commences on the date of assent to this Act, except as provided by
+subsections (2) and (3).
+(2) Part 2, Division 1 of Part 3 and Parts 5–9 and clauses 2–4 of Schedule 1 commence on
+1 July 2021.
+(3) Division 2 of Part 3 commences on a day or days to be appointed by proclamation.
+3
+Definitions
+(1) In this Act—
+Building Code of Australia has the same meaning as in the Environmental Planning
+and Assessment Act 1979.
+building compliance declaration—see section 8(3).
+building element—see section 6.
+building practitioner—see section 7(1).
+building work—see section 4.
+class of building means a building of that class as recognised by the Building Code of
+Australia.
+close associate has the same meaning as in the Home Building Act 1989.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 8 of 73
+
+--------------------------------------------------------------------------------
+compliance declaration means a design compliance declaration, principal
+compliance declaration or building compliance declaration.
+Department means the department in which this Act is administered.
+design includes a plan or specification or a report detailing a design.
+design compliance declaration—see section 8(1).
+design practitioner means a person who prepares regulated designs.
+function includes a power, authority or duty, and exercise a function includes
+perform a duty.
+occupation certificate means an occupation certificate issued under the
+Environmental Planning and Assessment Act 1979.
+performance solution has the same meaning as in the Building Code of Australia.
+practitioner means a design practitioner, principal design practitioner, professional
+engineer, specialist practitioner or building practitioner.
+preparing or varying a regulated design or other design means—
+(a) actually preparing or varying the design, or
+(b) coordinating or supervising the preparation or variation of the design.
+principal compliance declaration—see section 8(2).
+principal contractor—see section 7(2).
+principal design practitioner means a person who coordinates the provision of
+design compliance declarations for the purposes of building work done by a building
+practitioner.
+professional engineer means a person who carries out professional engineering
+work in a prescribed area of engineering within the meaning of section 32.
+professional engineering work—see section 31.
+register as a registered practitioner includes renew or restore registration.
+registered body corporate means a registered practitioner that is a body corporate.
+registered building practitioner means a person who is registered as a building
+practitioner under this Act or recognised as a building practitioner under this Act.
+registered design practitioner means a person who is registered as a design
+practitioner under this Act or recognised as a design practitioner under this Act.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 9 of 73
+
+--------------------------------------------------------------------------------
+registered practitioner means a registered design practitioner, registered principal
+design practitioner, registered professional engineer, registered specialist practitioner
+or a registered building practitioner.
+registered principal design practitioner means a person who is registered as a
+principal design practitioner under this Act or recognised as a principal design
+practitioner under this Act.
+registered professional engineer means a person who is registered as a
+professional engineer under this Act or recognised as a professional engineer under
+this Act.
+registered specialist practitioner means a person who is registered as a specialist
+practitioner under this Act or recognised as a specialist practitioner under this Act.
+registration means registration as a registered practitioner and includes recognition
+as a practitioner under this Act.
+regulated design—see section 5.
+relevant authorisation means any of the following—
+(a) registration as an architect under the Architects Act 2003,
+(b) registration as a certifier, or accreditation to carry out regulated work, under the
+Building and Development Certifiers Act 2018,
+(c) a contractor licence, endorsed contractor licence, supervisor certificate,
+tradesperson certificate or owner-builder permit under the Home Building Act
+1989,
+(d) for a person registered under this Act in one class of registration—registration in
+another class,
+(e) an authorisation or qualification, however described, that—
+(i) is issued under the laws of another jurisdiction, and
+(ii) authorises the holder to carry out work that is substantially similar to the work
+authorised by an authorisation specified in paragraph (a), (b), (c) or (d),
+(f) another authorisation or qualification, however described, prescribed by the
+regulations.
+Secretary means the Secretary of the Department.
+specialist practitioner means a person who carries out specialist work.
+specialist work—see section 34.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 10 of 73
+
+--------------------------------------------------------------------------------
+stop work order—see section 89.
+Tribunal means the Civil and Administrative Tribunal.
+Note—
+The Interpretation Act 1987 contains definitions and other provisions that affect the interpretation and
+application of this Act.
+(2) Notes included in this Act do not form part of this Act.
+4
+Building work
+(1) For the purposes of this Act, building work means work involved in, or involved in
+coordinating or supervising work involved in, one or more of the following—
+(a) the construction of a building of a class or type prescribed by the regulations for
+the purposes of this definition,
+(b) the making of alterations or additions to a building of that class or type,
+(c) the repair, renovation or protective treatment of a building of that class or type.
+(2) The regulations may—
+(a) prescribe additional work that is building work for the purposes of this Act, and
+(b) exclude work from being building work for the purposes of this Act.
+(3) In this Act, a reference to a building (including a building as defined in Part 4) includes
+a reference to part of a building (including a building element).
+5
+Regulated designs
+(1) For the purposes of this Act, regulated design means—
+(a) a design that is prepared for a building element for building work, or
+(b) a design that is prepared for a performance solution for building work (including a
+building element), or
+(c) any other design of a class prescribed by the regulations that is prepared for
+building work.
+(2) The regulations may prescribe the form and content of regulated designs or regulated
+designs belonging to a particular class.
+(3) The Minister may, by order published in the Gazette, specify particulars that are
+additional to those (if any) prescribed by the regulations for regulated designs or
+regulated designs belonging to a particular class.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 11 of 73
+
+--------------------------------------------------------------------------------
+(4) An order under subsection (3) is to be made available on the website of the
+Department as soon as practicable after it is published in the Gazette.
+6
+Building elements
+(1) For the purposes of this Act, building element means any of the following—
+(a) the fire safety systems for a building within the meaning of the Building Code of
+Australia,
+(b) waterproofing,
+(c) an internal or external load-bearing component of a building that is essential to
+the stability of the building, or a part of it (including but not limited to in-ground
+and other foundations and footings, floors, walls, roofs, columns and beams),
+(d) a component of a building that is part of the building enclosure,
+(e) those aspects of the mechanical, plumbing and electrical services for a building
+that are required to achieve compliance with the Building Code of Australia,
+(f) other things prescribed by the regulations for the purposes of this section.
+(2) The regulations may exclude things from being building elements for the purposes of
+this Act.
+(3) In this section—
+above grade wall means a wall above the level of the ground surrounding a building.
+below grade wall means a wall below the level of the ground surrounding a building.
+building enclosure means the part of the building that physically separates the
+interior environment of the building from the exterior environment, including roof
+systems, above grade and below grade walls (including windows and doors).
+7
+Building practitioners
+(1) In this Act, building practitioner means—
+(a) a person who agrees under a contract or other arrangement to do building work,
+or
+(b) if more than one person agrees to do building work, a person who is the principal
+contractor for the work.
+(2) In this Act, principal contractor means a person who agrees to do building work
+under a contract or arrangement (the head contract) and for whom work is to be
+carried out under one or more other contracts or arrangements as part of or incidental
+to the work carried out under the head contract.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 12 of 73
+
+--------------------------------------------------------------------------------
+(3) In this Act, a building practitioner is taken to do building work if the
+practitioner—
+(a) agrees to do building work under a contract or other arrangement, or
+(b) is the principal contractor for the work.
+(4) The regulations may—
+(a) prescribe additional persons as building practitioners for the purposes of this Act,
+and
+(b) exclude persons from being building practitioners for the purposes of this Act, and
+(c) prescribe circumstances in which a person prescribed for the purposes of
+paragraph (a) is taken to do building work.
+8
+Compliance declarations
+(1) In this Act, design compliance declaration means a declaration in the form and
+manner prescribed by the regulations as to the following—
+(a) whether or not a regulated design prepared for building work complies with the
+requirements of the Building Code of Australia,
+(b) whether or not the design complies with other applicable requirements prescribed
+by the regulations for the purposes of this subsection,
+(c) whether or not other standards, codes or requirements have been applied in
+preparing the design,
+(d) any other matter prescribed by the regulations.
+(2) In this Act, principal compliance declaration means a declaration in the form and
+manner prescribed by the regulations as to the following—
+(a) whether or not a design compliance declaration has been provided in accordance
+with this Act for each regulated design prepared for the building work,
+(b) whether or not each design compliance declaration has been provided by a
+registered design practitioner whose registration authorises the practitioner to
+provide a declaration as to the matters to which the declaration relates,
+(c) any other matter prescribed by the regulations.
+(3) In this Act, building compliance declaration means a declaration made in the form
+and manner prescribed by the regulations as to the following—
+(a) whether or not the building work complies with the requirements of the Building
+Code of Australia,
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 13 of 73
+
+--------------------------------------------------------------------------------
+(b) whether or not the building work complies with other applicable requirements
+prescribed by the regulations for the purposes of this subsection,
+(c) if the building work does not comply with the requirements referred to in
+paragraph (a) or (b), the steps required to be taken to ensure compliance,
+(d) for a regulated design used for the building work, whether or not the design was
+prepared by a registered design practitioner and the building work was built in
+accordance with the design,
+(e) whether or not a design compliance declaration has been obtained in relation to
+regulated designs used for the building work,
+(f) whether or not a registered principal design practitioner was appointed in relation
+to the building work,
+(g) whether or not a principal compliance declaration was obtained in relation to the
+regulated designs and design compliance declarations relating to the building
+work,
+(h) any other matter prescribed by the regulations.
+Part 2 Regulated designs and building work
+Division 1 Obligations of design practitioners
+9
+Compliance declarations by registered design practitioners
+(1) A registered design practitioner must provide a design compliance declaration to a
+person if—
+(a) the practitioner provides the person with a regulated design prepared by the
+practitioner, and
+(b) the design is in a form suitable for use by that person or another person in
+connection with building work.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500
+penalty units (in any other case).
+(2) A registered design practitioner must provide a further design compliance declaration
+to a person if—
+(a) the practitioner or another practitioner has previously provided a design
+compliance declaration for a regulated design prepared by either practitioner in
+connection with building work, and
+(b) the practitioner provides the person with the regulated design as varied by the
+practitioner in a form suitable for use in connection with the building work before
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 14 of 73
+
+--------------------------------------------------------------------------------
+the building work is commenced.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500
+penalty units (in any other case).
+(3) A registered design practitioner must provide a further design compliance declaration
+to a person if—
+(a) the practitioner or another practitioner has previously provided a design
+compliance declaration for a regulated design prepared by either practitioner
+relating to a building element or performance solution in connection with building
+work, and
+(b) the practitioner provides the person with the regulated design as varied by the
+practitioner in a form suitable for use relating to the building element or
+performance solution after the building work is commenced.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500
+penalty units (in any other case).
+(4) A registered design practitioner who is required by subsection (1), (2) or (3) to provide
+a design compliance declaration to a person must also provide a copy of the
+declaration to the registered principal design practitioner (if any) appointed in relation
+to the building work to which the declaration relates.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500
+penalty units (in any other case).
+(5) A registered design practitioner must provide a design compliance declaration in
+other circumstances prescribed by the regulations.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500
+penalty units (in any other case).
+(6) Without limiting subsection (5), a regulation made under that subsection may require
+regulated designs and design compliance declarations to be lodged electronically
+through an internet site or an application established by or on behalf of the
+Department.
+(7) A person must not make a design compliance declaration that the person knows to be
+false or misleading in a material particular.
+Maximum penalty—2,000 penalty units or imprisonment for 2 years, or both.
+(8) The regulations may require a design compliance declaration provided under this
+section to be accompanied by other documents prescribed by the regulations.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 15 of 73
+
+--------------------------------------------------------------------------------
+10
+Declarations by unregistered persons
+A person must not make a design compliance declaration unless—
+(a) the person is a registered design practitioner, and
+(b) the person’s registration authorises the person to provide a declaration as to the
+matters to which the declaration relates.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500 penalty
+units (in any other case).
+11
+Registered design practitioners to be indemnified
+(1) A registered design practitioner must not—
+(a) provide a design compliance declaration or prepare a regulated design, or
+(b) hold out that the practitioner is adequately insured with respect to the provision of
+the declaration or that work,
+unless the practitioner is adequately insured with respect to the declaration and work.
+Maximum penalty—300 penalty units (in the case of a body corporate) or 100 penalty
+units (in any other case).
+(2) For the purposes of this section, a registered design practitioner is adequately
+insured with respect to a declaration and work if the practitioner—
+(a) is indemnified by insurance that complies with the regulations against any liability
+to which the practitioner may become subject as a result of providing the
+declaration or doing the work, or
+(b) is part of some other arrangement approved by the regulations that provides
+indemnity against the liability.
+(3) It is a condition of registration that a registered design practitioner must provide to
+the Secretary, in the time specified by the Secretary, information that the Secretary
+may require to satisfy the Secretary that the practitioner is adequately insured in
+accordance with this section.
+Division 2 Obligations of principal design practitioners
+12
+Compliance declarations by registered principal design practitioners
+(1) A registered principal design practitioner appointed in relation to building work must
+ensure that—
+(a) a design compliance declaration has been provided in accordance with section 9
+for each regulated design prepared for the building work, and
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 16 of 73
+
+--------------------------------------------------------------------------------
+(b) each declaration has been provided by a registered design practitioner whose
+registration authorises the practitioner to provide a declaration as to the matters
+to which the declaration relates.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500
+penalty units (in any other case).
+(2) A registered principal design practitioner appointed in relation to building work must
+provide a principal compliance declaration to the persons, and in the circumstances,
+prescribed by the regulations.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500
+penalty units (in any other case).
+(3) Without limiting subsection (2), a regulation made under that subsection may require
+regulated designs and principal compliance declarations to be lodged electronically
+through an internet site or an application established by or on behalf of the
+Department.
+(4) A person must not make a principal compliance declaration that the person knows to
+be false or misleading in a material particular.
+Maximum penalty—2,000 penalty units or imprisonment for 2 years, or both.
+(5) The regulations may require a principal compliance declaration provided under this
+section to be accompanied by other documents prescribed by the regulations.
+13
+Declarations by unregistered persons
+A person must not make a principal compliance declaration unless—
+(a) the person is a registered principal design practitioner, and
+(b) the person’s registration authorises the person to provide a declaration as to the
+matters to which the declaration relates.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500 penalty
+units (in any other case).
+14
+Registered principal design practitioners to be indemnified
+(1) A registered principal design practitioner must not—
+(a) provide a principal compliance declaration or do other work for the purposes of
+this Act, or
+(b) hold out that the practitioner is adequately insured with respect to the provision of
+the declaration or that work,
+unless the practitioner is adequately insured with respect to the declaration and work.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 17 of 73
+
+--------------------------------------------------------------------------------
+Maximum penalty—300 penalty units (in the case of a body corporate) or 100 penalty
+units (in any other case).
+(2) For the purposes of this section, a registered principal design practitioner is
+adequately insured with respect to a declaration and work if the practitioner—
+(a) is indemnified by insurance that complies with the regulations against any liability
+to which the practitioner may become subject as a result of providing the
+declaration or doing the work, or
+(b) is part of some other arrangement approved by the regulations that provides
+indemnity against the liability.
+(3) It is a condition of registration that a registered principal design practitioner must
+provide to the Secretary, in the time specified by the Secretary, information that the
+Secretary may require to satisfy the Secretary that the practitioner is adequately
+insured in accordance with this section.
+Division 3 Obligations of building practitioners
+15
+Provision of relevant documents to Secretary
+(1) A building practitioner who does building work must ensure that the relevant
+documents for the building work are provided to the Secretary no later than 90 days
+after the occupation certificate is issued for the building or part of the building to
+which the building work relates.
+Maximum penalty—300 penalty units (in the case of a body corporate) or 100 penalty
+units (in any other case).
+(2) The regulations may make provision with respect to the manner and form in which a
+relevant document is to be provided to the Secretary.
+(3) Without limiting subsection (2), a regulation made under that subsection may require
+relevant documents to be lodged electronically through an internet site or an
+application established by or on behalf of the Department.
+(4) In this section—
+relevant document means—
+(a) each regulated design for which a design compliance declaration has been
+provided that reflects the building work that was carried out, and
+(b) any other documents (including designs) that relate to the building work and are
+prescribed by the regulations.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 18 of 73
+
+--------------------------------------------------------------------------------
+16
+Notice of application for occupation certificate
+(1) A person must, before making an application for an occupation certificate for a
+building to which building work relates, give written notice to each registered building
+practitioner who did the building work of the intention to apply for the certificate.
+(2) A person must, after making an application for an occupation certificate for a building
+to which building work relates, give written notice to each registered building
+practitioner who did the building work of the making of the application.
+(3) The notices under subsections (1) and (2) must be given within the periods prescribed
+by the regulations for the purposes of this section.
+(4) A person who fails to comply with this section is guilty of an offence.
+Maximum penalty—200 penalty units.
+17
+Compliance declarations by registered building practitioners
+(1) A registered building practitioner must provide a building compliance declaration for
+building work, contractor document and other required documents to a person for
+whom the practitioner does the building work before an application is made for an
+occupation certificate for the building to which the work relates.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500
+penalty units (in any other case).
+(2) A registered building practitioner must provide a building compliance declaration,
+contractor document or other required document in other circumstances prescribed by
+the regulations.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500
+penalty units (in any other case).
+(3) Without limiting subsection (2), a regulation made under that subsection may require
+building compliance declarations, contractor documents and other required
+documents to be lodged electronically through an internet site or an application
+established by or on behalf of the Department.
+(4) A person must not make a building compliance declaration that the person knows to
+be false or misleading in a material particular.
+Maximum penalty—2,000 penalty units or imprisonment for 2 years, or both.
+(5) A person who is provided with a building compliance declaration under subsection (1)
+must provide the declaration to the principal certifier who is responsible for issuing an
+occupation certificate for the building work before or when the application for the
+certificate is made.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 19 of 73
+
+--------------------------------------------------------------------------------
+Maximum penalty—300 penalty units (in the case of a body corporate) or 100 penalty
+units (in any other case).
+(6) For the purposes of this section—
+contractor document means the following—
+(a) a list of persons who have agreed under a contract or arrangement with the
+registered building practitioner to do any of the building work,
+(b) a list of any other persons prescribed by the regulations who have done building
+work on the building,
+(c) a list of the work done by each of the persons referred to in paragraphs (a) and (b)
+in relation to the building work,
+(d) copies of final designs used for the building work that are not regulated designs
+and are designs of a class prescribed by the regulations for the purposes of this
+paragraph,
+(e) other documents prescribed by the regulations.
+required document means a document prescribed by the regulations as a document
+that is required to accompany a building compliance declaration provided under this
+section.
+18
+Building practitioners must ensure compliance with declaration obligations
+A building practitioner who does building work must take all reasonable steps to ensure
+that—
+(a) each regulated design for the building work is prepared by a registered design
+practitioner, and
+(b) a design compliance declaration is obtained for those designs from a registered
+design practitioner whose registration authorises the practitioner to provide a
+declaration as to the matters to which the declaration relates, and
+(c) if a principal design practitioner has been appointed in relation to the building work, a
+principal compliance declaration is obtained for all of those designs from a registered
+principal design practitioner whose registration authorises the practitioner to provide a
+declaration as to the matters to which the declaration relates.
+Maximum penalty—3,000 penalty units (in the case of a body corporate) or 1,000 penalty
+units (in any other case).
+19
+Designs and design compliance declarations to be obtained
+A building practitioner must not, except with reasonable excuse, carry out any part of
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 20 of 73
+
+--------------------------------------------------------------------------------
+building work for which a regulated design is to be used unless—
+(a) the practitioner has obtained a design from a registered design practitioner for the
+work and a design compliance declaration for the design from a registered design
+practitioner whose registration authorises the practitioner to provide a declaration as
+to the matters to which the declaration relates, and
+(b) the declaration states that the design complies with the requirements of the Building
+Code of Australia and other applicable requirements prescribed for the purposes of
+section 8(1).
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500 penalty
+units (in any other case).
+20
+Variations after building work commences
+(1) A building practitioner who does building work must take all reasonable steps to
+ensure that, if the building work (other than in relation to a building element or
+performance solution) is varied after commencement of the work from a regulated
+design for the work, the variation is recorded in the form and manner prescribed by
+the regulations for the purposes of this section.
+Maximum penalty—3,000 penalty units (in the case of a body corporate) or 1,000
+penalty units (in any other case).
+(2) A building practitioner who does building work must take all reasonable steps to
+ensure that, if the building work (in relation to a building element or performance
+solution) is to be varied from a regulated design for the building element or
+performance solution, before the varied building work commences—
+(a) a design with the variation is prepared by a registered design practitioner, and
+(b) the registered design practitioner is given (or otherwise has access to in the
+manner prescribed by the regulations) any of the following that are relevant to the
+provision, by the registered design practitioner, of a design compliance declaration
+for the varied design—
+(i) regulated designs,
+(ii) design compliance declarations,
+(iii) principal compliance declarations, and
+(c) a design compliance declaration is obtained for the varied design from a
+registered design practitioner whose registration authorises the practitioner to
+provide a declaration as to the matters to which the declaration relates, and
+(d) if a principal design practitioner has been appointed in relation to the building
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 21 of 73
+
+--------------------------------------------------------------------------------
+work, a principal compliance declaration is obtained that includes the varied
+design.
+Maximum penalty—3,000 penalty units (in the case of a body corporate) or 1,000
+penalty units (in any other case).
+(3) A building practitioner who does building work must take all reasonable steps to
+ensure that, if the work is to be varied so as to require a new building element or
+performance solution for which a regulated design is required, before the varied
+building work commences—
+(a) a design for the building element or performance solution is prepared by a
+registered design practitioner, and
+(b) the registered design practitioner is given (or otherwise has access to in the
+manner prescribed by the regulations) any of the following that are relevant to the
+provision, by the registered design practitioner, of a design compliance declaration
+for the design—
+(i) regulated designs,
+(ii) design compliance declarations,
+(iii) principal compliance declarations, and
+(c) a design compliance declaration is obtained for the design from a registered
+design practitioner whose registration authorises the practitioner to provide a
+declaration as to the matters to which the declaration relates, and
+(d) if a principal design practitioner has been appointed in relation to the building
+work, a principal compliance declaration is obtained that includes the design.
+Maximum penalty—3,000 penalty units (in the case of a body corporate) or 1,000
+penalty units (in any other case).
+21
+Requirements for building elements and performance solutions
+A building practitioner who does building work must take all reasonable steps to ensure
+that building work relating to a building element or performance solution for which a
+regulated design is to be used is carried out in accordance with a design for which a
+design compliance declaration has been obtained from a registered design practitioner
+whose registration authorises the practitioner to provide a declaration as to the matters to
+which the declaration relates.
+Maximum penalty—3,000 penalty units (in the case of a body corporate) or 1,000 penalty
+units (in any other case).
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 22 of 73
+
+--------------------------------------------------------------------------------
+22
+Obligations relating to Building Code of Australia
+(1) A building practitioner who does building work must take all reasonable steps to
+ensure that the building work, or any part of that work, complies with the
+requirements of the Building Code of Australia applicable to the work and other
+requirements applicable to the work prescribed by the regulations for the purposes of
+section 8(1).
+Maximum penalty—3,000 penalty units (in the case of a body corporate) or 1,000
+penalty units (in any other case).
+(2) If a building compliance declaration provided by a registered building practitioner sets
+out steps required to be taken to ensure compliance with the Building Code of
+Australia and other requirements, the practitioner must give a written notice
+containing the steps to the principal certifier who is to be responsible for issuing an
+occupation certificate for the building work.
+Maximum penalty—3,000 penalty units (in the case of a body corporate) or 1,000
+penalty units (in any other case).
+(3) It is a defence to an offence under subsection (1) if the defendant proves that—
+(a) the defendant reasonably relied on and built in accordance with a regulated
+design for which a design compliance declaration was provided by a registered
+design practitioner stating that the design complied with the applicable
+requirements of the Building Code of Australia, and other applicable requirements
+prescribed for the purposes of section 8(1), and
+(b) the registered design practitioner’s registration authorised the practitioner to
+provide a declaration as to the matters to which the declaration related.
+23
+Declarations by unregistered persons
+A person must not make a building compliance declaration unless—
+(a) the person is a registered building practitioner, and
+(b) the person’s registration authorises the person to provide a declaration as to the
+matters to which the declaration relates.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500 penalty
+units (in any other case).
+24
+Registered building practitioners to be indemnified
+(1) A registered building practitioner must not—
+(a) provide a building compliance declaration or do related building work, or
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 23 of 73
+
+--------------------------------------------------------------------------------
+(b) hold out that the practitioner is adequately insured with respect to the provision of
+the declaration or doing the work,
+unless the practitioner is adequately insured with respect to the declaration and work.
+Maximum penalty—300 penalty units (in the case of a body corporate) or 100 penalty
+units (in any other case).
+(2) For the purposes of this section, a registered building practitioner is adequately
+insured with respect to a declaration and work if the practitioner—
+(a) is indemnified by insurance that complies with the regulations against any liability
+to which the practitioner may become subject as a result of providing the
+declaration or doing the work, or
+(b) is part of some other arrangement approved by the regulations that provides
+indemnity against the liability.
+(3) It is a condition of registration that a registered building practitioner must provide to
+the Secretary, in the time specified by the Secretary, information that the Secretary
+may require to satisfy the Secretary that the practitioner is adequately insured in
+accordance with this section.
+(4) The regulations may exempt a practitioner or class of practitioner from the operation
+of this section.
+Division 4 Miscellaneous
+25
+Compliance with Building Code of Australia
+(1) For the purposes of this Act, it is sufficient to comply with the requirements of the
+Building Code of Australia in respect of a regulated design or building work if the
+regulated design or building work complies with or satisfies—
+(a) the applicable governing requirements, and
+(b) the applicable performance requirements.
+(2) For the purposes of subsection (1)(b), the applicable performance requirements may
+be satisfied by—
+(a) in respect of building work—
+(i) achieving a performance solution in the manner specified in the Building Code
+of Australia, or
+(ii) showing compliance through a deemed-to-satisfy solution in the manner
+specified in the Building Code of Australia, or
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 24 of 73
+
+--------------------------------------------------------------------------------
+(iii) a combination of a performance solution and deemed-to-satisfy solution in the
+manner specified in the Building Code of Australia, and
+(b) in respect of a regulated design that includes a performance solution—
+(i) achieving a performance solution in the manner specified in the Building Code
+of Australia, or
+(ii) a combination of a performance solution and deemed-to-satisfy solution in the
+manner specified in the Building Code of Australia, and
+(c) in respect of any other regulated design—showing compliance through a deemed-
+to-satisfy solution in the manner specified in the Building Code of Australia.
+(3) Despite subsection (1), a regulated design or building work is taken to comply with
+the requirements of the Building Code of Australia for the purposes of this Act if—
+(a) the application of the requirements of the Building Code of Australia is modified or
+displaced by another law (modified requirements) in respect of a regulated
+design or building work, and
+(b) the regulated design or building work complies with the modified requirements.
+(4) In determining whether a variation to a regulated design or building work complies
+with the Building Code of Australia for the purposes of this Act, the variation must not
+be considered in isolation but consideration must also be given to the effect of the
+variation on other aspects of the building work or other regulated designs for the
+building work.
+(5) In this section—
+deemed-to-satisfy solution, governing requirements and performance
+requirements have the same meanings as in the Building Code of Australia.
+26
+Requirements for compliance declarations before issue of building certificates
+The regulations may make provision for or with respect to prohibiting the issue of one or
+more of the following unless compliance declarations or regulated designs, or both, have
+been provided to the issuer of the certificate—
+(a) a complying development certificate under, or a certificate under Part 6 of, the
+Environmental Planning and Assessment Act 1979,
+(b) a strata certificate within the meaning of the Strata Schemes Development Act 2015,
+(c) a certificate of compliance within the meaning of the Swimming Pools Act 1992.
+27
+Principal certifier must consider compliance declarations
+(1) A principal certifier who is responsible for issuing an occupation certificate for building
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 25 of 73
+
+--------------------------------------------------------------------------------
+work must not determine an application for an occupation certificate unless the
+principal certifier is satisfied that all compliance declarations required for the building
+work have been lodged in accordance with this Act.
+(2) A principal certifier who is responsible for issuing an occupation certificate for building
+work must consider any instances of non-compliance specified in the compliance
+declarations provided to the certifier relating to the building work when deciding
+whether to issue the certificate.
+(3) Nothing in this section prevents a regulation from being made under section 26 that
+prohibits the issue of occupation certificates unless compliance declarations are
+provided.
+28
+Provision of compliance declarations, and other obligations, of registered body
+corporates
+(1) Each director of a registered body corporate must ensure the following with respect to
+the preparation of regulated designs or building work carried out, or compliance
+declarations provided, by or on behalf of the body corporate—
+(a) that the body corporate complies with the requirements of this and other Acts with
+respect to the preparation of the designs, carrying out of the work or the provision
+of the declarations,
+(b) that appropriate management systems are in place to ensure that the body
+corporate complies with those requirements,
+(c) that the provision of compliance declarations is allocated to, and carried out by,
+individuals who are registered practitioners and whose registration authorises
+them to provide declarations as to the matters to which the declarations relate.
+Maximum penalty—300 penalty units.
+(2) A registered body corporate must ensure that a compliance declaration provided on
+behalf of the body corporate is provided by an individual who is a registered
+practitioner whose registration authorises the individual to provide the declaration.
+Maximum penalty—1,000 penalty units.
+29
+Improper influence with respect to provision of declarations
+(1) A registered practitioner must not, on an understanding that the practitioner will act
+otherwise than impartially in the provision of a compliance declaration, seek or
+accept, or offer or agree to accept, a benefit of any kind, whether on the practitioner’s
+own behalf or on behalf of any other person.
+Maximum penalty—2,000 penalty units or imprisonment for 2 years, or both.
+(2) A person must not, on an understanding that a registered practitioner will act
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 26 of 73
+
+--------------------------------------------------------------------------------
+otherwise than impartially in the provision of a compliance declaration, give, or offer
+or agree to give, a benefit of any kind, whether to the practitioner or to any other
+person.
+Maximum penalty—2,000 penalty units or imprisonment for 2 years, or both.
+(3) A person must not unduly influence, or attempt to unduly influence, a registered
+practitioner for the purpose of prevailing on the practitioner to act otherwise than
+impartially in the provision of a compliance declaration.
+Maximum penalty—2,000 penalty units or imprisonment for 2 years, or both.
+(4) Without limiting subsection (3), a person is taken to have unduly influenced a
+registered practitioner if the person—
+(a) alters, or threatens to alter, the position of the practitioner to the practitioner’s
+detriment, or
+(b) fails to pay, or threatens to fail to pay, remuneration payable to the practitioner.
+30
+Regulations relating to insurance requirements
+The regulations may make provision for or with respect to the following for the purposes
+of insurance requirements under this Act—
+(a) the persons or bodies who may provide indemnity,
+(b) the period for which a practitioner is to be indemnified,
+(c) the amount for which a practitioner is to be indemnified,
+(d) the risks for which a practitioner is to be indemnified,
+(e) the nature and terms of any insurance or arrangement,
+(f) the obligations on a person or body who provides indemnity,
+(g) the issue of indemnity for liability incurred by a person who was formerly a design
+practitioner or building practitioner.
+Part 3 Engineering work and specialist work
+Division 1 Professional engineering work
+31
+Professional engineering work
+(1) For the purposes of this Act, professional engineering work means engineering
+work that requires, or is based on, the application of engineering principles and data
+to—
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 27 of 73
+
+--------------------------------------------------------------------------------
+(a) a design, or
+(b) a construction, production, operation or maintenance activity,
+relating to engineering.
+(2) However, engineering work is not professional engineering work if—
+(a) the work is only provided in accordance with a document that states the
+procedure or criteria for carrying out the work and the work does not require the
+application of advanced scientifically based calculations, or
+(b) the engineering work is prescribed by the regulations as not being professional
+engineering work.
+(3) For the purposes of this section, engineering work includes engineering services
+provided by a person.
+32
+Professional engineering work only carried out by professional engineers
+(1) A person must not carry out professional engineering work in a prescribed area of
+engineering unless—
+(a) the person is a registered professional engineer and the person’s registration
+authorises the person to carry out the professional engineering work, or
+(b) the person carries out the professional engineering work under the direct
+supervision of a person referred to in paragraph (a), or
+(c) the person is authorised by the regulations to carry out the professional
+engineering work.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500
+penalty units (in any other case).
+(2) If a person carries out professional engineering work in contravention of subsection
+(1)—
+(a) no monetary or other consideration is payable for the carrying out of the
+professional engineering work, regardless of any contract or arrangement, and
+(b) an amount paid for the carrying out of the professional engineering work is
+recoverable as a debt in a court of competent jurisdiction.
+(3) In this section—
+prescribed area of engineering means the following—
+(a) structural engineering,
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 28 of 73
+
+--------------------------------------------------------------------------------
+(b) civil engineering,
+(c) mechanical engineering,
+(d) fire safety engineering,
+(e) electrical engineering,
+(f) an area of engineering prescribed by the regulations.
+33
+Registered professional engineers to be indemnified
+(1) A registered professional engineer must not—
+(a) carry out professional engineering work, or
+(b) hold out that the engineer is adequately insured with respect to the work,
+unless the engineer is adequately insured with respect to the work.
+Maximum penalty—300 penalty units (in the case of a body corporate) or 100 penalty
+units (in any other case).
+(2) For the purposes of this section, a registered professional engineer is adequately
+insured with respect to work if the engineer—
+(a) is indemnified by insurance that complies with the regulations against any liability
+to which the engineer may become subject as a result of carrying out the work, or
+(b) is part of some other arrangement approved by the regulations that provides
+indemnity against the liability.
+(3) It is a condition of registration that a registered professional engineer must provide to
+the Secretary, in the time specified by the Secretary, information that the Secretary
+may require to satisfy the Secretary that the engineer is adequately insured in
+accordance with this section.
+Division 2 Specialist work
+34
+Specialist work
+For the purposes of this Act, specialist work means—
+(a) the design, construction, installation or maintenance of a building element, or
+(b) other work, involving a building element, that is prescribed by the regulations,
+but does not include work prescribed by the regulations as not being specialist work.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 29 of 73
+
+--------------------------------------------------------------------------------
+35
+Specialist work only carried out by registered specialist practitioner
+A person must not carry out specialist work unless—
+(a) the person is a registered specialist practitioner and the person’s registration
+authorises the person to carry out the specialist work, or
+(b) the person is authorised by the regulations to carry out the specialist work.
+Maximum penalty—1,500 penalty units (in the case of a body corporate) or 500 penalty
+units (in any other case).
+Part 4 Duty of care
+36
+Definitions
+(1) In this Part—
+association means an association within the meaning of the Community Land
+Management Act 2021.
+building has the same meaning as it has in the Environmental Planning and
+Assessment Act 1979.
+building product has the same meaning as in the Building Products (Safety) Act
+2017.
+building work includes residential building work within the meaning of the Home
+Building Act 1989.
+construction work means any of the following—
+(a) building work,
+(b) the preparation of regulated designs and other designs for building work,
+(c) the manufacture or supply of a building product used for building work,
+(d) supervising, coordinating, project managing or otherwise having substantive
+control over the carrying out of any work referred to in paragraph (a), (b) or (c).
+owner of land means any of the following—
+(a) every person who jointly or severally or at law or in equity is entitled to the land
+for an estate of freehold,
+(b) for a lot within a strata scheme, the owner of a lot within the meaning of the
+Strata Schemes Management Act 2015,
+(c) for a development lot or neighbourhood lot within a community scheme, the
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 30 of 73
+
+--------------------------------------------------------------------------------
+proprietor in relation to the lot within the meaning of the Community Land
+Management Act 2021,
+(d) every person who jointly or severally or at law or in equity is entitled to receive, or
+receives, or if the land were let to a tenant would receive, the rents and profits of
+the land, whether as beneficial owner, trustee, mortgagee in possession or
+otherwise,
+(e) other persons prescribed by the regulations for the purposes of this definition.
+owners corporation means an owners corporation constituted under the Strata
+Schemes Management Act 2015.
+(2) In this Part, a reference to building work applies only to building work relating to a
+building within the meaning of this Part.
+(3) In this Part, a reference to the owner of land includes—
+(a) if the land is subject to a strata scheme under the Strata Schemes Management
+Act 2015, the owners corporation constituted for the scheme, or
+(b) if the land is subject to a community scheme, precinct scheme or neighbourhood
+scheme within the meaning of the Community Land Management Act 2021, the
+association for the scheme.
+(4) In this Part, a reference to a person who carries out construction work includes a
+reference to a person who manufactures, or is a supplier (within the meaning of the
+Building Products (Safety) Act 2017) of, a building product used for building work.
+(5) The regulations may—
+(a) prescribe additional work that is construction work for the purposes of this Part,
+and
+(b) exclude work from being construction work for the purposes of this Part.
+(6) The regulations may exclude persons from being owners for the purposes of this Part.
+37
+Extension of duty of care
+(1) A person who carries out construction work has a duty to exercise reasonable care to
+avoid economic loss caused by defects—
+(a) in or related to a building for which the work is done, and
+(b) arising from the construction work.
+(2) The duty of care is owed to each owner of the land in relation to which the
+construction work is carried out and to each subsequent owner of the land.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 31 of 73
+
+--------------------------------------------------------------------------------
+(3) A person to whom the duty of care is owed is entitled to damages for the breach of
+the duty as if the duty were a duty established by the common law.
+(4) The duty of care is owed to an owner whether or not the construction work was
+carried out—
+(a) under a contract or other arrangement entered into with the owner or another
+person, or
+(b) otherwise than under a contract or arrangement.
+38
+Economic loss—owners corporations and associations
+(1) An owners corporation or an association is taken to suffer economic loss for the
+purposes of this Part if the corporation or association bears the cost of rectifying
+defects (including damage caused by defects) that are the subject of a breach of the
+duty of care imposed under this Part.
+(2) The economic loss suffered by an owners corporation or association for the purposes
+of subsection (1) includes the reasonable costs of providing alternative
+accommodation where necessary.
+(3) Subsection (1) applies whether or not the owners corporation or association was the
+owner of the land when the construction work was carried out.
+(4) Subsections (1) and (2) do not limit the economic loss for which an owners
+corporation, association or an owner may claim damages under this Part.
+39
+Duty must not be delegated
+A person who owes a duty of care under this Part is not entitled to delegate that duty.
+40
+No contracting out of Part
+(1) This Part applies despite any contracts or stipulations to the contrary made after the
+commencement of this Part.
+(2) No contract or agreement made or entered into, or amended, after the
+commencement of this Part operates to annul, vary or exclude a provision of this Part.
+41
+Relationship with other duties of care and law
+(1) The provisions of this Part are in addition to duties, statutory warranties or other
+obligations imposed under the Home Building Act 1989, other Acts or the common law
+and do not limit the duties, warranties or other obligations imposed under that Act,
+other Acts or the common law.
+(2) This Part does not limit damages or other compensation that may be available to a
+person under another Act or at common law because of a breach of a duty by a person
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 32 of 73
+
+--------------------------------------------------------------------------------
+who carries out construction work.
+(3) This Part is subject to the Civil Liability Act 2002.
+Note—
+Actions under this Part are subject to applicable limitation periods established under the Limitation Act
+1969, and section 6.20 of the Environmental Planning and Assessment Act 1979 which relates to civil
+actions relating to certain work.
+Part 5 Registration of practitioners
+Division 1 Applications for registration
+42
+Classes of registration
+The regulations may make provision for or with respect to classes of registration as a
+practitioner.
+43
+Application for registration
+(1) A person may apply to the Secretary to be registered as a practitioner.
+Note—
+The definition of register in section 3(1) includes renewal or restoration of registration.
+(2) The application must—
+(a) be in a form approved by the Secretary, and
+(b) include or be accompanied by information or evidence that the Secretary
+reasonably requires to assess the application.
+Note—
+Part 5A of the Crimes Act 1900 contains offences relating to the making of false or misleading applications
+or providing false or misleading information or documents. Those offences have a maximum penalty of
+imprisonment for 2 years or a fine of $22,000 (or both).
+(3) The regulations may provide for a fee to be paid for an application for the grant of
+registration.
+(4) The Secretary may require the fee to accompany the application.
+(5) If the Secretary considers it necessary to do so, the Secretary may require one or both
+of the following—
+(a) further documents or information to be provided by the applicant,
+(b) in the case of an applicant who is an individual, that the applicant attend an
+interview, undertake an oral or written examination or provide a demonstration of
+the applicant’s skills.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 33 of 73
+
+--------------------------------------------------------------------------------
+(6) If an application for the grant or a renewal of registration is duly made to the
+Secretary before the expiry of the term of registration, the registration is taken to
+continue in force until the Secretary notifies the applicant of a decision to grant or
+refuse the application.
+44
+Secretary may obtain information from third parties
+(1) The Secretary may, by written notice, require an applicant or a close associate of the
+applicant—
+(a) to authorise a person described in the notice—
+(i) to provide information specified in the notice that is relevant to the
+investigation of the application, or
+(ii) to produce, in accordance with directions in the notice, the records relevant to
+the investigation of the application that are specified in the notice and to
+permit examination of the records, the taking of extracts from them and the
+making of copies of them, or
+(b) to furnish to the Secretary the authorities and consents that the Secretary directs
+for the purpose of enabling the Secretary to obtain information (including financial
+and other confidential information) from other persons concerning the applicant or
+close associate.
+(2) If a requirement made under this section is not complied with, the Secretary may
+refuse to consider the application concerned while the non-compliance continues.
+(3) A person who complies with a requirement of a notice under this section does not on
+that account incur a liability to another person.
+45
+Determination of applications
+(1) The Secretary may grant or refuse an application to be registered as a practitioner.
+(2) The Secretary may register a person as a practitioner of a class that the Secretary
+considers appropriate even if the application is for a different class of registration.
+(3) The Secretary must refuse to register a person as a practitioner if—
+(a) the application for registration does not comply with this Act, or
+(b) the Secretary is of the opinion that the applicant does not have the qualifications,
+skills, knowledge and experience to carry out the work for which the applicant is
+seeking registration, or
+(c) the Secretary is of the opinion that the person (including, if the person is a body
+corporate, a director of the body corporate) is not a suitable person to carry out
+the work for which the applicant is seeking registration, or
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 34 of 73
+
+--------------------------------------------------------------------------------
+(d) the person (including, if the person is a body corporate, a director of the body
+corporate) is an individual who is under the age of 18 years, or
+(e) the person is a mentally incapacitated person, or
+(f) the person (including, if the person is a body corporate, a director of the body
+corporate) is an undischarged bankrupt, or
+(g) on a ground prescribed by the regulations for the purposes of this section.
+(4) The Secretary is to give the applicant written notice of a decision to grant or refuse
+registration.
+(5) If the Secretary fails to give an applicant for registration notice of a decision to grant
+or refuse registration within the period prescribed by the regulations, the Secretary is
+taken to have refused to grant registration.
+46
+Grounds for opinion that a person is not a suitable person to carry out work
+The Secretary may form an opinion that a person is not a suitable person to carry out the
+work for which the person is seeking registration or is registered in one or more of the
+following circumstances—
+(a) the person (including, if the person is a body corporate, a director of the body
+corporate) has contravened a requirement imposed by or under this Act or a
+requirement imposed under another Act or law that applies to the work for which
+registration is sought,
+(b) a relevant authorisation of the person has been suspended or cancelled, other than at
+the person’s request, whether at the time of the person’s application for registration
+or another time,
+(c) the person is disqualified from holding a relevant authorisation, other than on the
+grounds that the person—
+(i) does not reside in the jurisdiction that issues the authorisation, or
+(ii) is a body corporate,
+(d) a close associate of the person who would not be a fit and proper person to be
+registered exercises a significant influence over the person or the operation and
+management of the person’s business,
+(e) a circumstance prescribed by the regulations.
+47
+Requirements for registration
+(1) The regulations may make provision for or with respect to the requirements for
+registration.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 35 of 73
+
+--------------------------------------------------------------------------------
+(2) Without limiting subsection (1), the regulations may provide for the qualifications,
+registration or recognition by professional bodies, skills, knowledge and experience for
+registration, including for particular classes of registration.
+48
+Duration of registration
+(1) Registration remains in force for a period of 1, 3 or 5 years as specified by the
+Secretary in the notice by which registration is granted, unless sooner cancelled.
+(2) Registration has no effect during a period in which registration is suspended.
+49
+Conditions of registration
+(1) Registration is subject to the following conditions—
+(a) conditions imposed by this Act or the regulations,
+(b) conditions imposed by the Secretary (whether on or after registration).
+(2) The Secretary may, by written notice given to a registered practitioner, impose a
+condition on the registration or vary or revoke a condition of the registration imposed
+by the Secretary.
+50
+Particular conditions
+(1) Conditions may be imposed on registration to require a registered practitioner to
+prepare regulated designs or carry out building work, professional engineering work or
+specialist work in accordance with specified standards or methodologies, including but
+not limited to standards or methodologies prepared by the Secretary.
+(2) The regulations may impose a condition of registration that a registered practitioner
+must comply with a code of practice prescribed by the regulations.
+(3) The regulations may impose a condition of registration that a registered practitioner
+must be registered or recognised by a professional body or a professional body
+belonging to a class of professional bodies.
+(4) A condition of registration may provide that an authorisation conferred by the
+registration does not take effect until the end of a specified period or the happening of
+a particular event or the occurrence of a particular state of affairs.
+(5) This section does not limit the matters for which conditions of registration may
+provide.
+51
+Condition requiring provision of information to the Secretary
+(1) It is a condition of registration that a registered practitioner must, when requested in
+writing by the Secretary to do so, provide the Secretary, in accordance with this
+section, with information relating to activities as a practitioner that the Secretary
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 36 of 73
+
+--------------------------------------------------------------------------------
+requires.
+(2) The information must, if the Secretary specifies a time within which it must be
+provided, be provided within that time.
+(3) The regulations may make further provision with respect to the provision of
+information under this section.
+(4) A registered practitioner who fails to comply with the condition set out in this section
+is guilty of an offence.
+Maximum penalty—300 penalty units (in the case of a body corporate) or 100 penalty
+units (in any other case).
+Division 2 Variation, suspension or cancellation of registration
+52
+Variation, suspension or cancellation of registration generally
+(1) The Secretary may, by written notice given to a practitioner, vary, suspend or cancel
+the practitioner’s registration on the following grounds—
+(a) the practitioner is not entitled to be registered,
+(b) the practitioner fails to comply with a condition of registration,
+(c) in the opinion of the Secretary, the practitioner (including, if the practitioner is a
+body corporate, a director of the body corporate) is not a suitable person to be
+registered or registered as a particular class of practitioner,
+(d) the practitioner (including, if the practitioner is a body corporate, a director of the
+body corporate) has contravened this Act or a regulation made under this Act,
+whether or not the practitioner or director is prosecuted or convicted for the
+contravention,
+(e) the registration was granted in error,
+(f) the Secretary has decided to suspend or cancel the registration under Part 6,
+(g) the practitioner has applied for the registration to be varied, cancelled or
+suspended,
+(h) a ground prescribed by the regulations.
+(2) The notice must specify—
+(a) the date or time from which the variation, suspension or cancellation takes effect,
+and
+(b) the grounds for the variation, suspension or cancellation.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 37 of 73
+
+--------------------------------------------------------------------------------
+52A
+Variation of registration
+(1) Division 1 applies to an application by a registered practitioner to vary the
+practitioner’s registration in the same way it applies to an application for the grant of
+registration.
+Note—
+For applications for a cancellation or suspension of registration—see section 62.
+(2) The regulations may make provision, including different provision, about the same
+matters in relation to an application to vary registration as in relation to an application
+for the grant of registration.
+Example—
+A fee to be paid for an application to vary registration that is different from the fee to be paid for an
+application for the grant of registration.
+(3) If a variation of registration results in a registered practitioner being registered in an
+additional class, the registration in the additional class remains in force for the period
+specified by the Secretary in the notice by which the registration is varied, unless
+sooner cancelled.
+53
+Suspension or cancellation may be subject to conditions
+(1) Registration may be suspended or cancelled unconditionally or subject to the
+conditions that the Secretary determines to impose.
+(2) The conditions may include (but are not limited to) conditions to which the
+registration was subject immediately before it was suspended or cancelled.
+(3) The Secretary may, by written notice given to the former registered practitioner,
+attach new conditions to, or vary or revoke existing conditions of, the suspension or
+cancellation of the registration.
+Division 3 Recognition as registered practitioner
+54
+Recognition procedure
+(1) The regulations may make provision for or with respect to the recognition of persons
+or classes of persons as registered practitioners for the purposes of this Act.
+(2) Without limiting subsection (1), the regulations may provide for the following—
+(a) the recognition of persons as registered practitioners who—
+(i) hold designated qualifications, or
+(ii) are registered or recognised as practitioners by a professional body or a
+professional body belonging to a class of professional bodies, or
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 38 of 73
+
+--------------------------------------------------------------------------------
+(iii) are registered or recognised as practitioners under a law of this State or
+another State or a Territory or the Commonwealth,
+(b) the requirements relating to the registration or recognition processes of
+professional bodies that register or recognise practitioners including the
+following—
+(i) how qualifications and competencies are to be assessed,
+(ii) the time in which a decision on registration or recognition must be made,
+(iii) the procedures to be used to monitor and improve the registration or
+recognition processes,
+(iv) the maximum fees that may be charged,
+(v) the requirements relating to continuing professional development,
+(vi) audit requirements,
+(c) the financial and other facilities that a professional body must have and other
+requirements that must be met before a professional body is able to register or
+recognise practitioners,
+(d) the classes of practitioners for which persons or classes of persons may be
+recognised as registered practitioners,
+(e) the qualifications, skills, knowledge and experience required for recognition,
+(f) insurance requirements for recognition,
+(g) applications for recognition and related matters (including conditions of
+recognition).
+55
+Recognition of professional bodies for engineers
+(1) The recognition of a person as a registered professional engineer because the person
+is registered or recognised as a practitioner by a professional body of engineers may
+occur only if the professional body of engineers is recognised by the Secretary.
+(2) The Secretary may recognise a professional body of engineers only if the Secretary is
+satisfied that—
+(a) the professional body’s recognition or registration scheme—
+(i) adequately provides for the assessment of qualifications and competencies of
+professional engineers in an area of engineering, and
+(ii) is consistent with national and international standards for the recognition of
+professional engineers, and
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 39 of 73
+
+--------------------------------------------------------------------------------
+(iii) has fees that are reasonable having regard to the scope of the services being
+offered, and
+(iv) includes adequate continuing professional development requirements for
+professional engineers and an effective audit program to ensure continuing
+registration requirements are met, and
+(v) meets the requirements, if any, prescribed by the regulations, and
+(vi) complies with guidelines, if any, adopted and published by the Secretary, and
+(b) the professional body has—
+(i) adequate procedures for monitoring and improving the assessment process
+carried out under the scheme, and
+(ii) the financial capacity and facilities to conduct assessments of qualifications
+and competencies, and
+(iii) a proven capacity to undertake independent and authoritative assessments in
+a timely manner.
+(3) Subject to subsection (2), the regulations may make further provision for or with
+respect to the recognition by the Secretary of a professional body of engineers for the
+purposes of this Act, including—
+(a) applications for, or for renewal of, recognition, including recognition by the
+Secretary for reasons the Secretary considers relevant,
+(b) refusal of recognition, including refusal of recognition by the Secretary for reasons
+the Secretary considers relevant,
+(c) conditions of recognition, including conditions relating to the keeping of records,
+disclosure of information, the investigation or auditing of professional bodies of
+engineers or other conditions imposed by the Secretary, including conditions the
+Secretary considers relevant,
+(d) variation of conditions of recognition,
+(e) fees for applications for, renewal of or variation of conditions of recognition,
+(f) the duration of recognition, including a duration set by the Secretary,
+(g) the suspension or cancellation of recognition, including suspension or cancellation
+by the Secretary for reasons the Secretary considers relevant,
+(h) the functions of recognised professional bodies of engineers relating to registering
+or recognising practitioners.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 40 of 73
+
+--------------------------------------------------------------------------------
+55A
+Review by Civil and Administrative Tribunal
+A person aggrieved by any of the following decisions may apply to the Tribunal for an
+administrative review under the Administrative Decisions Review Act 1997 of—
+(a) a decision of the Secretary to refuse to recognise a professional body of engineers,
+(b) a decision of the Secretary to suspend or cancel recognition of a professional body of
+engineers,
+(c) a decision of the Secretary to impose or vary a condition on a recognition of a
+professional body of engineers, or on the suspension or cancellation of a recognition,
+(d) a decision prescribed by the regulations for the purposes of this section.
+Division 4 Registration offences
+56
+Offence of contravening condition
+A registered practitioner (including a former registered practitioner) who contravenes any
+of the following is guilty of an offence—
+(a) a condition of the registration (other than a condition for which a different maximum
+penalty is prescribed),
+(b) a condition of a suspension or cancellation of registration.
+Maximum penalty—600 penalty units (in the case of a body corporate) or 300 penalty
+units (in any other case).
+57
+Offence of lending certificate registration
+(1) A registered practitioner must not let out, hire or lend a certificate of registration to
+another person or permit another person to use the certificate.
+Maximum penalty—600 penalty units (in the case of a body corporate) or 300 penalty
+units (in any other case).
+(2) The Secretary must cancel the registration of a registered practitioner who is
+convicted of an offence against this section.
+58
+False representations relating to practitioners
+A person must not falsely represent that the person or any other person—
+(a) can do anything that is only able to be done by a person who is registered under this
+Act, or
+(b) is a registered practitioner or is registered in a particular class as a registered
+practitioner.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 41 of 73
+
+--------------------------------------------------------------------------------
+Maximum penalty—600 penalty units (in the case of a body corporate) or 300 penalty
+units (in any other case).
+59
+Return of cancelled, suspended or varied registration
+(1) A person must return the person’s registration certificate in accordance with this
+section if the Secretary suspends, varies or cancels the person’s registration.
+Maximum penalty—300 penalty units.
+(2) The certificate must be returned, within the period specified by the Secretary when
+suspending, varying or cancelling the registration, by—
+(a) lodging the certificate with the Secretary, or
+(b) lodging with the Secretary a statement signed by the person providing accurate
+and complete details of why the registration cannot be lodged.
+(3) If the person’s registration has been varied and the registration certificate lodged in
+accordance with this section, the Secretary must issue an appropriate replacement
+registration certificate for the remainder of the term of the person’s registration.
+60
+Registered practitioner to notify Secretary of certain events
+A registered practitioner must notify the Secretary in writing of the following events within
+7 days after becoming aware of the event—
+(a) a relevant authorisation held by the practitioner being suspended or cancelled, other
+than at the practitioner’s request,
+(b) proceedings being instituted against the practitioner (including, if the practitioner is a
+registered body corporate, proceedings being instituted against a director of the body
+corporate) for a contravention of a requirement imposed by or under this Act or
+another law that applies to the work to which the registration applies,
+(c) the practitioner (including, if the practitioner is a registered body corporate, a director
+of the body corporate) being found guilty of a contravention of a requirement imposed
+by or under this Act or another law that applies to the work to which the registration
+applies,
+(d) the practitioner (including, if the practitioner is a registered body corporate, a director
+of the body corporate) being investigated by a government agency or a body that
+issues a relevant authorisation, whether in New South Wales or another Australian
+jurisdiction, in relation to—
+(i) the carrying out of work authorised to be carried out under a relevant
+authorisation, or
+(ii) a failure to comply with a relevant authorisation,
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 42 of 73
+
+--------------------------------------------------------------------------------
+(e) the practitioner (including, if the practitioner is a registered body corporate, a director
+of the body corporate) becoming bankrupt or making a composition, arrangement or
+assignment for the benefit of creditors,
+(f) if the practitioner is a registered body corporate, the registered body corporate
+becoming the subject of a winding up order or having a controller or administrator
+appointed,
+(g) if the practitioner is a registered body corporate, the appointment of a person as a
+director or a person concerned in the management of the body corporate, or a person
+ceasing to be a director or a person concerned in the management of the body
+corporate,
+(h) any event prescribed by the regulations.
+Maximum penalty—250 penalty units (in the case of a body corporate) or 50 penalty units
+(in any other case).
+Division 5 General
+61
+Registration not transferable
+Registration is not transferable.
+62
+Voluntary surrender or suspension of registration
+(1) A registered practitioner may apply to the Secretary for a cancellation or suspension
+of registration.
+(2) An application must—
+(a) be in a form approved by the Secretary, and
+(b) include or be accompanied by information or evidence required by the Secretary
+to assess the application.
+(3) The regulations may provide for a fee to be paid for an application for the cancellation
+or suspension of registration.
+(4) The Secretary may require the fee to accompany the application.
+(5) A reference in this section to an application for suspension of registration is taken to
+include a reference to an application to extend, cancel or vary a suspension imposed
+under this section.
+63
+Review by Civil and Administrative Tribunal
+A person aggrieved by any of the following decisions may apply to the Tribunal for an
+administrative review under the Administrative Decisions Review Act 1997 of the
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 43 of 73
+
+--------------------------------------------------------------------------------
+decision—
+(a) a decision of the Secretary to refuse registration,
+(b) a decision of the Secretary to suspend or cancel registration,
+(c) a decision of the Secretary to refuse an application to vary registration,
+(d) a decision of the Secretary to impose, or vary or revoke, a condition on registration, or
+on the suspension or cancellation of registration,
+(e) a decision of the Secretary to vary registration,
+(f) a decision of the Secretary to refuse an application for the cancellation or suspension
+of registration.
+Note—
+In this Act, a reference to registration of a person includes a reference to recognition of a person as a registered
+practitioner.
+Part 6 Disciplinary action against practitioners
+64
+Grounds for taking disciplinary action
+The Secretary may take disciplinary action against a registered practitioner on one or
+more of the following grounds—
+(a) the practitioner has engaged in conduct in connection with the preparation of
+regulated designs or carrying out building work, professional engineering work or
+specialist work, or the provision of compliance declarations, that has fallen short of
+the standard of competence, diligence and integrity that a member of the public is
+entitled to expect of a reasonably competent practitioner,
+(b) the practitioner has contravened this Act or a regulation made under this Act, whether
+or not the practitioner is prosecuted or convicted for the contravention,
+(c) the practitioner has contravened a law of this or another Australian jurisdiction
+(whether or not the contravention is an offence and whether or not the practitioner is
+prosecuted or convicted for the contravention) with respect to any of the following—
+(i) the preparation of regulated designs or the carrying out of building work,
+professional engineering work or specialist work or work authorised to be carried
+out under a relevant authorisation,
+(ii) the provision of a compliance declaration,
+(iii) registration or a relevant authorisation,
+(iv) fraud or dishonesty,
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 44 of 73
+
+--------------------------------------------------------------------------------
+(d) the practitioner has failed to comply with a statutory or other duty, or a contractual
+obligation, imposed on the practitioner by or in accordance with a law of this or
+another Australian jurisdiction with respect to the preparation of regulated designs or
+the carrying out of building work, professional engineering work or specialist work or
+work authorised to be carried out under a relevant authorisation or the provision of a
+compliance declaration,
+(e) the practitioner has failed to comply with a condition of the registration,
+(f) the practitioner has wilfully disregarded matters to which the practitioner is required to
+have regard to when preparing regulated designs or carrying out building work,
+professional engineering work or specialist work or when providing a compliance
+declaration,
+(g) the practitioner has failed to comply with an undertaking given under section 88,
+(h) other grounds prescribed by the regulations.
+65
+Notice to show cause
+(1) This section applies if the Secretary is of the opinion that there may be grounds for
+taking disciplinary action under this Part against a practitioner.
+(2) The Secretary may give a written notice to the practitioner inviting the practitioner to
+show cause why the practitioner should not be dealt with under this Part.
+(3) The notice must state the grounds on which the practitioner is required to show cause
+and must specify the period, being at least 14 days, during which it must be done.
+(4) A practitioner to whom a notice to show cause has been given may, within the period
+specified in the notice, make submissions to the Secretary, orally or in writing, and
+provide evidence with respect to the matters to which the notice relates.
+(5) The Secretary may conduct any inquiry or make any investigation with respect to the
+matters to which the notice relates and the submissions are made, if any, and the
+evidence adduced, if any, by or on behalf of the practitioner with respect to those
+matters that the Secretary thinks fit.
+(6) The Secretary must, before determining whether or not to take disciplinary action
+under this Part against a person, take into consideration any submission made by the
+person in accordance with this section.
+(7) However, the Secretary may take immediate disciplinary action without taking any
+steps under this section if the Secretary is of the opinion that it is in the public interest
+to take immediate action.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 45 of 73
+
+--------------------------------------------------------------------------------
+65A
+Power to suspend registration when notice to show cause served
+(1) The Secretary may, by written notice to a registered practitioner, suspend the
+registration of the registered practitioner in accordance with Part 5 pending a
+determination by the Secretary of whether to take disciplinary action under this Act
+against the holder if—
+(a) a notice to show cause has been served on the registered practitioner under
+section 65, and
+(b) in the Secretary’s opinion, there are reasonable grounds to believe that—
+(i) the registered practitioner has engaged in conduct that constitutes grounds for
+suspension of the registration, and
+(ii) it is likely the registered practitioner will continue to engage in the conduct,
+and
+(iii) there is a danger a person or persons may suffer significant harm, or
+significant loss or damage, as a result of the conduct unless action is taken
+urgently.
+(2) The Secretary may suspend a registration under this section only if satisfied that the
+grounds for disciplinary action specified in the notice to show cause would, if
+established, justify the suspension or cancellation of the registration.
+(3) A suspension must not be imposed for a period of more than 60 days after the notice
+to show cause is served, but may, if the Secretary remains of the opinion referred to in
+subsection (1)(b) be extended, by written notice, for further periods of 60 days.
+(4) The period of the suspension must be specified in the notice imposing the suspension.
+(5) The Secretary is not required to give a person an opportunity to be heard before
+taking action against the person under this section.
+(6) The Secretary may revoke a suspension under this section at any time by written
+notice to the suspended person.
+(7) This section does not limit or otherwise affect another power to suspend a registration
+or licence under the Fair Trading Act 1987, section 79A.
+66
+Disciplinary action that may be taken by Secretary
+(1) The Secretary may, if satisfied that one or more of the grounds for taking disciplinary
+action against a registered practitioner has been established, do one or more of the
+following—
+(a) determine to take no further action against the practitioner,
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 46 of 73
+
+--------------------------------------------------------------------------------
+(b) caution or reprimand the practitioner,
+(c) make a determination requiring the practitioner to pay to the Secretary, as a
+penalty, an amount not exceeding $220,000 (in the case of a body corporate) or
+$110,000 (in any other case) within a specified time,
+(d) impose a condition on the registration of the practitioner, including a condition
+requiring the practitioner to undertake specified education or training relating to a
+particular type of work or business practice within a specified time,
+(e) suspend or cancel the registration of the practitioner in accordance with Part 5,
+(f) disqualify the practitioner, either temporarily or permanently, from being
+registered or being registered in a particular class.
+(1A) If a registered practitioner is a body corporate and the Secretary is satisfied that a
+ground for taking disciplinary action against the practitioner has been established, the
+Secretary may take one or more of the following actions against a director of the body
+corporate—
+(a) determine to take no further action against the director,
+(b) caution or reprimand the director,
+(c) require the director to undertake specified education or training relating to a
+particular type of work or business practice within a specified time,
+(d) disqualify the director, either temporarily or permanently, from being registered or
+registered in a particular class.
+(1B) The Secretary may suspend the registration of a body corporate during a period
+when a director of the body corporate is disqualified under subsection (1A)(d).
+(1C) The Secretary may take disciplinary action under subsections (1A) and (1B) in
+addition to, or instead of, taking disciplinary action under subsection (1).
+(1D) This Part applies to disciplinary action taken under subsection (1A) in the same way
+as it applies to disciplinary action taken under subsection (1) and references in this
+Part to registered practitioners extend to the directors of registered body corporates.
+(1E) Sections 65 and 68 apply to disciplinary action taken under subsection (1B).
+(2) In determining the disciplinary action to take, the Secretary must take into account
+other disciplinary action taken against the person under this Part.
+(3) The Secretary is to provide a written statement of a decision made under this section
+to the practitioner as soon as is reasonably practicable after the decision is made.
+(4) The statement of a decision must specify—
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 47 of 73
+
+--------------------------------------------------------------------------------
+(a) the decision that has been made, and
+(b) if relevant, the date or time on which the decision takes effect, and
+(c) the grounds for the decision.
+Note—
+In this Act, a reference to registration of a person includes a reference to recognition of a person as a registered
+practitioner.
+67
+Directors must report certain conduct
+Each director of a registered body corporate must report to the Secretary conduct by any
+of the following persons, as soon as practicable after becoming aware of the conduct, if
+the director suspects, or should reasonably suspect, that the conduct is a ground for
+taking disciplinary action against the person under this Part—
+(a) the body corporate,
+(b) a registered individual who is preparing regulated designs or carrying out building
+work, professional engineering work or specialist work, or providing compliance
+declarations, on behalf of the body corporate.
+Maximum penalty—300 penalty units.
+68
+Review by Civil and Administrative Tribunal
+A person aggrieved by the following decisions of the Secretary may apply to the Tribunal
+for an administrative review under the Administrative Decisions Review Act 1997—
+(a) a decision under section 65A to suspend the registration of a registered certifier
+pending a determination of whether to take disciplinary action,
+(b) a decision to take disciplinary action under this part.
+69
+Enforcement of monetary penalties and payment of costs
+(1) When a decision of the Secretary to impose a monetary penalty has taken effect and
+the amount required to be paid has not been paid to the Secretary—
+(a) registration held by the person required to pay is taken to be suspended until that
+amount is paid to the Secretary, and
+(b) that amount may be recovered by the Secretary as a debt in a court of competent
+jurisdiction.
+(2) The Secretary may agree in writing to extend the time for payment by a person of an
+amount referred to in subsection (1) and, in that case, that subsection does not have
+effect with respect to the person during the extension of time.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 48 of 73
+
+--------------------------------------------------------------------------------
+(3) The Secretary’s failure to enter into an agreement under this section cannot be
+reviewed by the Tribunal in an application for an administrative review made under
+this Act.
+70
+Liability for offences not affected
+(1) A decision to take disciplinary action against a person under this Part does not affect
+the liability of the person for an offence against a provision of this or any other Act or
+of a regulation made under this or any other Act.
+(2) The Secretary is not prevented from taking disciplinary action under this Part merely
+because the registered practitioner is subject to criminal or civil proceedings that
+relate to the same matters or incident to which the disciplinary action relates.
+Part 7 Investigations
+Division 1 Preliminary
+71
+Definitions
+In this Part—
+authorised officer means a person appointed under Division 2 or a police officer.
+motor vehicle has the same meaning as in the Road Transport Act 2013.
+occupier of premises means the person who has the management or control of the
+premises.
+premises includes—
+(a) a building or structure, or
+(b) land or a place (whether enclosed or built on or not), or
+(c) a mobile plant, motor vehicle, vessel or aircraft.
+records includes plans, specifications, maps, reports, books and other documents
+(whether in writing, in electronic form or otherwise).
+specify an act, matter or thing includes—
+(a) describe the act, matter or thing, and
+(b) specify a class of acts, matters or things.
+vessel means any kind of vessel used in navigation.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 49 of 73
+
+--------------------------------------------------------------------------------
+72
+Purposes for which functions under Part may be exercised
+(1) An authorised officer may exercise the functions conferred by this Part for one or more
+of the following purposes—
+(a) investigating, monitoring and enforcing compliance with the requirements
+imposed by or under this Act,
+(b) obtaining information or records for purposes connected with the administration of
+this Act,
+(c) enforcing, administering or executing this Act.
+(2) In this Part, a reference to an authorised purpose is a reference to a purpose
+referred to in subsection (1).
+Division 2 Authorised officers
+73
+Appointment of authorised officers
+The Secretary may appoint any of the following persons as an authorised officer for the
+purposes of this Part—
+(a) an employee of the Department,
+(b) a person who is an investigator within the meaning of the Fair Trading Act 1987,
+(c) a person belonging to a class of persons prescribed by the regulations.
+74
+Scope of authority
+(1) An authorisation of a person as an authorised officer may be given generally, or
+subject to conditions, limitations or restrictions or only for limited purposes.
+(2) If an authorisation is given subject to conditions, limitations or restrictions or only for
+limited purposes, nothing in this Act authorises or requires the authorised officer to
+act in contravention of the conditions, limitations or restrictions or for other purposes.
+75
+Identification
+(1) Every authorised officer who is not a police officer is to be provided with an
+identification card as an authorised officer by the Secretary.
+(2) The Secretary may decide not to issue an identification card to an investigator within
+the meaning of the Fair Trading Act 1987 who is appointed as an authorised officer.
+(3) In that case, the person’s certificate of identification as an investigator is taken to be
+the person’s identification card as an authorised officer.
+(4) An authorised officer must, if requested to do so when exercising a function under this
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 50 of 73
+
+--------------------------------------------------------------------------------
+Act by a person affected by the exercise of the function, produce to the person the
+officer’s identification card as an authorised officer or, in the case of a police officer,
+the officer’s police identification.
+Division 3 Information gathering powers
+76
+Exercise in conjunction with other powers
+A power conferred by this Division may be exercised whether or not a power of entry
+under Division 4 is being exercised.
+77
+Powers of authorised officers to require information and records
+(1) An authorised officer may, by written notice given to a person, direct the person to
+furnish to the officer or another authorised officer information or records (or both) as
+the authorised officer may require for an authorised purpose.
+(2) The notice must specify the manner in which information or records are required to be
+furnished and a reasonable time by which the information or records are required to
+be furnished.
+(3) The notice may only require a person to furnish existing records that are in the
+person’s possession or that are within the person’s power to obtain lawfully.
+(4) The person to whom a record is furnished under this Division may take copies of it.
+(5) If a record directed to be furnished under this Division is in electronic, mechanical or
+other form, the record must be furnished in written form, unless the notice otherwise
+provides.
+78
+Power of authorised officers to require answers
+(1) An authorised officer may direct a person whom the authorised officer suspects on
+reasonable grounds to have knowledge of matters with respect to which information is
+reasonably required for an authorised purpose to answer questions with respect to
+those matters.
+(2) An authorised officer may, by written notice, direct a person to attend at a specified
+place and time to answer questions under this section if attendance at that place is
+reasonably required in order that the questions can be properly put and answered.
+(3) An authorised officer may, by written notice, direct a body corporate to nominate, in
+writing within the time specified in the notice, a director or other officer of the body
+corporate to be the body corporate’s representative for the purpose of answering
+questions under this section.
+(4) Answers given by a person nominated under subsection (3) bind the body corporate.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 51 of 73
+
+--------------------------------------------------------------------------------
+(5) The place and time at which a person may be directed to attend is to be a place and
+time nominated by the authorised officer that is reasonable in the circumstances.
+79
+Recording of evidence
+(1) An authorised officer may cause questions and answers to questions given under this
+Division to be recorded if the officer has informed the person who is to be questioned
+that the record is to be made.
+(2) A record may be made using sound recording apparatus or audio visual apparatus, or
+another method determined by the authorised officer.
+(3) A copy of the record must be provided by the authorised officer to the person who is
+questioned as soon as practicable after it is made.
+(4) A record may be made under this section despite the provisions of another law.
+Division 4 Entry to premises
+80
+Powers of authorised officers to enter premises
+(1) An authorised officer may enter any premises at a reasonable hour in the daytime or
+at an hour during which business (including building work) is in progress or is usually
+carried on at the premises.
+(2) A power to enter premises conferred by this Act authorises entry by foot, vehicle,
+vessel or aircraft or by any other means.
+(3) Entry to premises may be effected with or without the authority of a search warrant.
+(4) When exercising a power of entry under this Part, an authorised officer may be
+accompanied by any assistants that the authorised officer considers necessary.
+81
+Entry into residential premises only with permission or warrant
+(1) This Division does not empower an authorised officer to enter a part of premises used
+only for residential purposes without the permission of the occupier or the authority of
+a search warrant.
+(2) This section does not limit entry onto common property under a strata scheme (within
+the meaning of the Strata Schemes Management Act 2015) or association property
+under a scheme (within the meaning of the Community Land Management Act 2021).
+82
+Search warrants
+(1) An authorised officer under this Act may apply to an issuing officer for the issue of a
+search warrant if the authorised officer believes on reasonable grounds that—
+(a) a requirement imposed by or under this Act is being or has been contravened at
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 52 of 73
+
+--------------------------------------------------------------------------------
+any premises, or
+(b) there is, in or on any premises, a matter or thing that is connected with an offence
+under this Act or the regulations.
+(2) An issuing officer to whom an application is made may, if satisfied that there are
+reasonable grounds for doing so, issue a search warrant authorising an authorised
+officer named in the warrant—
+(a) to enter the premises, and
+(b) to exercise any function of an authorised officer under this Part.
+(3) Division 4 of Part 5 of the Law Enforcement (Powers and Responsibilities) Act 2002
+applies to a search warrant issued under this section.
+(4) Without limiting the generality of section 71 of the Law Enforcement (Powers and
+Responsibilities) Act 2002, a police officer—
+(a) may accompany an authorised officer executing a search warrant issued under
+this section, and
+(b) may take all reasonable steps to assist the authorised officer in the exercise of the
+officer’s functions under this section.
+(5) In this section—
+issuing officer means an authorised officer within the meaning of the Law
+Enforcement (Powers and Responsibilities) Act 2002.
+83
+Provision of assistance to authorised officers
+(1) An authorised officer may direct the owner or occupier of premises, or a person in or
+on premises (other than a public place), to provide any reasonable assistance that the
+authorised officer specifies for the purposes of exercising the authorised officer’s
+functions under this Division with respect to those premises.
+(2) The direction may be given orally to the person or by written notice served on the
+person.
+84
+Powers that may be exercised on premises
+(1) An authorised officer may, at premises lawfully entered, do anything that in the
+opinion of the authorised officer is necessary to be done for an authorised purpose,
+including (but not limited to) the things specified in subsection (2).
+(2) An authorised officer may do any or all of the following—
+(a) examine and inspect any thing,
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 53 of 73
+
+--------------------------------------------------------------------------------
+(b) take and remove samples of a thing,
+(c) make examinations, inquiries, measurements or tests that the authorised officer
+considers necessary,
+(d) take photographs or other recordings that the authorised officer considers
+necessary,
+(e) direct a person to produce records for inspection,
+(f) examine and inspect any records,
+(g) copy any records,
+(h) seize a thing that the authorised officer has reasonable grounds for believing is
+connected with an offence against this Act or the regulations,
+(i) move a seized thing from the place where it is seized or leave it at the place where
+it is seized and take reasonable action to restrict access to the thing,
+(j) direct the occupier of the premises where a thing is seized to retain it at those
+premises or at another place under the control of the occupier,
+(k) open up, cut open or demolish a building or structure or part of a building or
+structure, if the authorised officer has reasonable grounds for believing that it is
+necessary to do so because it is connected with an offence against this Act or the
+regulations,
+(l) do anything else authorised by or under this Act.
+(3) The power to examine and inspect a thing includes a power to use reasonable force to
+break open or otherwise access a thing, including a floor or wall containing the thing.
+(4) The power to seize a thing connected with an offence includes a power to seize—
+(a) a thing with respect to which the offence has been committed, and
+(b) a thing that will afford evidence of the commission of the offence, and
+(c) a thing that was used for the purpose of committing the offence.
+(5) The power to do a thing under this section includes a power to arrange for that thing
+to be done.
+(6) A power to do something under this section with respect to a thing may be exercised
+without the consent of the owner of the thing.
+(7) In this section, a reference to an offence includes a reference to an offence that there
+are reasonable grounds for believing has been committed.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 54 of 73
+
+--------------------------------------------------------------------------------
+Division 5 Miscellaneous
+85
+Taking possession of records to be used as evidence
+(1) If an authorised officer takes possession of records under this Part for the purpose of
+obtaining evidence or protecting evidence from destruction, the records may be
+retained by the Secretary until the completion of any proceedings (including
+proceedings on appeal) in which they may be evidence.
+(2) The person from whom the records are taken must be provided, within a reasonable
+time after the records are taken, with a copy of the records certified by an authorised
+officer as a true copy.
+(3) A copy of records provided under this section is, as evidence, of equal validity to the
+records of which it is certified to be a copy.
+86
+Obstruction of authorised officers
+A person must not obstruct, hinder or interfere with an authorised officer in the exercise of
+the authorised officer’s functions under this Part.
+Maximum penalty—1,000 penalty units (in the case of a body corporate) or 200 penalty
+units (in any other case).
+87
+Failure to comply with direction
+A person must not, without reasonable excuse, fail to comply with a direction of an
+authorised officer made in accordance with this Part.
+Maximum penalty—1,000 penalty units (in the case of a body corporate) or 200 penalty
+units (in any other case).
+Part 8 Enforcement
+Division 1 Remedial actions
+88
+Undertakings
+The Secretary may accept a written undertaking from a registered practitioner as to the
+manner in which the practitioner will prepare regulated designs, carry out building work,
+professional engineering work or specialist work, provide compliance declarations or
+conduct the practitioner’s business as a registered practitioner.
+Note—
+Part 6 provides that a breach of an undertaking is grounds for taking disciplinary action against a registered
+practitioner.
+89
+Stop work orders
+(1) The Secretary may, by order (a stop work order) in writing given to either or both of
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 55 of 73
+
+--------------------------------------------------------------------------------
+the following persons, order the person to ensure that building work, professional
+engineering work or specialist work stops—
+(a) a person carrying out the work,
+(b) the owner of the land on which the work is being carried out.
+(2) The Secretary may give a stop work order only if the Secretary is of the opinion that—
+(a) the work is, or is likely to be, carried out in contravention of this Act, and
+(b) the contravention could result in significant harm or loss to the public or occupiers
+or potential occupiers of the building to which the work relates or significant
+damage to property.
+(3) A stop work order takes effect on the day it is given to the person who is the subject
+of the order or on a later day specified in the order.
+(4) A stop work order may be unconditional or subject to conditions.
+(5) The Secretary may, by written notice given to the person who is subject to a stop
+work order, impose a condition on the order or revoke or vary a condition of the order.
+(6) A stop work order remains in force until one of the following occurs—
+(a) the order is revoked by the Secretary,
+(b) the term (if any) of the order ends,
+(c) the period of 12 months from the day on which the order takes effect ends.
+(7) A person must not fail to comply with an order in force under this section.
+Maximum penalty—3,000 penalty units and in addition, in the case of a continuing
+offence, 300 penalty units for each day the offence continues (in the case of a body
+corporate) and 1,000 penalty units and in addition, in the case of a continuing offence,
+100 penalty units for each day the offence continues (in any other case).
+90
+Appeals against stop work orders
+(1) A person given a stop work order may appeal against the order to the Land and
+Environment Court within 30 days of the service of the notice of the order.
+(2) The lodging of an appeal does not, except to the extent that the Land and
+Environment Court otherwise directs in relation to the appeal, operate to stay action
+on the order appealed against.
+91
+Applying for orders to restrain or remedy contraventions
+(1) The Secretary may apply to the Land and Environment Court for an order to remedy
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 56 of 73
+
+--------------------------------------------------------------------------------
+or restrain a breach of this Act or the regulations.
+(2) The application may be made whether or not proceedings have been instituted for an
+offence against this Act or the regulations.
+(3) An order may be made without the Secretary being required to show a likelihood of
+damage.
+(4) If in the opinion of the Court it is desirable to do so, the Court may grant an interim
+order pending determination of the application.
+(5) When the Secretary applies for the grant of an order under this section, the Court is
+not to require the Secretary or another person, as a condition of granting an interim
+order, to give an undertaking as to damages.
+(6) If the Court is satisfied that a breach has been committed or that a breach will, unless
+restrained by order of the Court, be committed, it may make the orders it thinks fit to
+remedy or restrain the breach.
+92
+Complaints, investigations and audits of practitioners
+(1) The Secretary may, whether or not the Secretary has received a complaint,
+investigate—
+(a) a registered practitioner or former registered practitioner, or
+(b) the preparation of regulated designs or the carrying out of building work,
+professional engineering work or specialist work or the provision of compliance
+declarations, or
+(c) other matters that may constitute a breach of this Act or the regulations.
+(2) The Secretary may require that a complaint made to the Secretary about a matter
+referred to in subsection (1)(a)–(c) be in a form approved by the Secretary.
+(3) However, the Secretary is not required to investigate a matter even if a complaint is
+made in the approved form.
+(4) The Secretary may conduct an audit of a registered practitioner at any time.
+(5) This section does not limit other powers that the Secretary may have under this Act or
+another Act or law to receive a complaint, investigate a matter or conduct an audit.
+Division 2 Offences
+93
+Proceedings for offences
+(1) Proceedings for an offence against this Act may be taken before the Local Court or
+before the Land and Environment Court in its summary jurisdiction.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 57 of 73
+
+--------------------------------------------------------------------------------
+(2) Proceedings for an offence against the regulations may be taken before the Local
+Court.
+(3) If proceedings in respect of an offence against this Act are brought in the Local Court,
+the maximum monetary penalty the Court may impose in respect of the offence is,
+despite any other provisions of this Act, 1,000 penalty units or the maximum
+monetary penalty provided by this Act in respect of the offence, whichever is the
+lesser.
+(4) If proceedings in respect of an offence against this Act are brought in the Land and
+Environment Court in its summary jurisdiction, the Court may impose a penalty not
+exceeding the maximum penalty provided by this Act in respect of the offence.
+(5) Despite the Criminal Procedure Act 1986 or any other Act, proceedings for an offence
+against this Act or the regulations may be commenced not later than—
+(a) 3 years after the date alleged to be the date on which the offence was committed,
+or
+(b) after the end of that period, with the leave of the court, if the proceedings are
+commenced not later than 2 years after the date on which evidence of an act or
+omission constituting the alleged offence first came to the attention of an
+authorised officer.
+(6) If subsection (5)(b) is relied on, the court attendance notice or summons commencing
+proceedings must contain particulars of the date on which evidence of an act or
+omission constituting the alleged offence first came to the attention of the authorised
+officer and need not contain particulars of the date on which the offence was
+committed.
+(7) The date on which evidence first came to the attention of an authorised officer is the
+date specified in the court attendance notice or application, unless the contrary is
+established.
+94
+Penalty notices
+(1) A penalty notice officer may issue a penalty notice to a person if it appears to the
+officer that the person has committed a penalty notice offence.
+(2) A penalty notice offence is an offence against this Act or the regulations that is
+prescribed by the regulations as a penalty notice offence.
+(3) The Fines Act 1996 applies to a penalty notice issued under this section.
+Note—
+The Fines Act 1996 provides that, if a person issued with a penalty notice does not wish to have the matter
+determined by a court, the person may pay the amount specified in the notice and is not liable to any
+further proceedings for the alleged offence.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 58 of 73
+
+--------------------------------------------------------------------------------
+(4) The amount payable under a penalty notice issued under this section is the amount
+prescribed for the alleged offence by the regulations (not exceeding the maximum
+amount of penalty that could be imposed for the offence by a court).
+(5) This section does not limit the operation of any other provision of, or made under, this
+or any other Act relating to proceedings that may be taken in respect of offences.
+(6) In this section—
+penalty notice officer means any of the following designated by the Secretary as a
+penalty notice officer for the purposes of this section—
+(a) a member of staff of the Department,
+(b) a person prescribed by the regulations.
+95
+Offences by bodies corporate
+(1) If a body corporate contravenes, whether by act or omission, a provision of this Act or
+the regulations, each person who is a director of the body corporate or who is
+concerned in the management of the body corporate is taken to have contravened the
+same provision if the person knowingly authorised or permitted the contravention.
+(2) A person may be proceeded against and convicted under a provision pursuant to
+subsection (1) whether or not the body corporate has been proceeded against or been
+convicted under that provision.
+(3) Nothing in this section affects any liability imposed on a body corporate for an offence
+committed by the body corporate against this Act or the regulations.
+96
+Continuing offences
+(1) A person who is guilty of an offence because the person fails to comply with a
+requirement made by or under this Act or the regulations (whether the requirement is
+imposed by a notice or in any other way) to do or cease to do something, or cause
+something to cease, (whether or not within a specified period or before a particular
+time)—
+(a) continues, until the requirement is complied with and despite the fact that any
+specified period has expired or time has passed, to be liable to comply with the
+requirement, and
+(b) is guilty of a continuing offence for each day the contravention continues.
+(2) This section does not apply to an offence if the relevant provision of this Act or the
+regulations does not provide for a penalty for a continuing offence.
+(3) This section does not apply to the extent that a requirement of a notice is revoked.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 59 of 73
+
+--------------------------------------------------------------------------------
+97
+Onus of proof regarding reasonable excuse
+In any proceedings for an offence against a provision of this Act or the regulations, the
+onus of proving that a person had a reasonable excuse (as referred to in the provision) lies
+with the defendant.
+Part 9 Miscellaneous
+98
+Practitioners registers
+(1) The Secretary is to maintain a register of registered practitioners that contains the
+information prescribed by the regulations.
+(2) Different registers may be maintained under this section for different types of
+registered practitioners.
+(3) A register is to be in the form determined by the Secretary and is to be freely
+available on the internet for inspection by the public.
+(4) Without limiting the information that may be prescribed by the regulations with
+respect to a register, the regulations may require that the register include one or more
+of the following particulars with respect to a registered practitioner—
+(a) details of the registration, including details of the holder of the registration,
+(b) the results of a relevant disciplinary determination,
+(c) the results of prosecutions under this Act,
+(d) details of penalty notices issued,
+(e) details of warning notices published under this Part,
+(f) details of any conditions on the registration,
+(g) details of any cancellation or suspension of the registration.
+(5) The Secretary may remove a particular from, or otherwise amend, a register if the
+particular is, in the opinion of the Secretary, false, erroneous, misleading or unfairly
+prejudicial to the interests of the holder of the registration concerned.
+98A
+Register of orders and undertakings
+(1) The Secretary must keep the following information in a register and make the
+information publicly available—
+(a) copies of all stop work orders in force,
+(b) other information prescribed by the regulations.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 60 of 73
+
+--------------------------------------------------------------------------------
+(2) The Secretary may include the following information in the register and make some or
+all of the information publicly available—
+(a) copies of written undertakings accepted under section 88,
+(b) information related to the undertakings.
+(3) In this section—
+publicly available means publicly available for inspection free of charge by the
+public on the Department’s website.
+99
+Warning notices
+(1) The Secretary may authorise publication of a notice (a warning notice) warning
+persons of particular risks involved in dealing with—
+(a) a specified registered practitioner or former registered practitioner, or
+(b) any other person that the Secretary reasonably believes may have breached this
+Act or the regulations.
+(2) The Secretary may authorise publication of a warning notice in one or more of the
+following ways—
+(a) to a person making inquiries to the Secretary about the person concerned,
+(b) by advertisement by the use of any medium,
+(c) to any media representatives.
+(3) Publication of a warning notice may be authorised whether or not a complaint has
+been made.
+(4) However, the Secretary must conduct an investigation before authorising the
+publication.
+(5) Before authorising publication of a warning notice, the Secretary must give the person
+concerned an opportunity for a period of not less than 2 business days to make
+representations to the Secretary about publication of the warning notice, unless—
+(a) the Secretary, after making reasonable efforts to do so, is not able to contact the
+person promptly and advise the person of that opportunity, or
+(b) the person refuses to make any representations.
+(6) However, no opportunity to make representations is required to be given if, in the
+opinion of the Secretary, there is an immediate risk to the public.
+(7) No liability is incurred by a person for publishing in good faith—
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 61 of 73
+
+--------------------------------------------------------------------------------
+(a) a warning notice under this section, or
+(b) a fair report or summary of a warning notice.
+100
+Service of documents
+(1) A document that is authorised or required by this Act or the regulations to be given to
+a person may be given by any of the following methods—
+(a) in the case of an individual—by personal delivery to the person,
+(b) by post to the address specified by the person for the service of documents of
+that kind,
+(c) in the case of an individual who has not specified an address for that purpose—by
+post to the residential or business address of the person last known to the person
+serving the document,
+(d) in the case of a body corporate—by post to the registered office or another office
+of the body corporate or by leaving it at any such office with a person apparently
+over the age of 16 years,
+(e) by email to an email address specified by the person for the service of documents
+of that kind,
+(f) by another method authorised by the regulations for the service of documents of
+that kind.
+(2) Nothing in this section affects the operation of a provision of a law or of the rules of a
+court authorising a document to be served on a person by any other method.
+(3) In this section—
+give includes serve or send.
+101
+Certificate evidence of certain matters
+(1) A document signed by the Secretary, or by an officer prescribed by the regulations,
+and certifying one or more of the matters specified in subsection (2) is admissible in
+criminal or civil proceedings under this Act and, in the absence of evidence to the
+contrary, is evidence of the matters so certified.
+(2) The matters are as follows—
+(a) that a specified person was or was not, at a specified time or during a specified
+period, a registered practitioner or a registered practitioner of a specified class,
+(b) that registration held by a specified person was or was not, at a specified time or
+during a specified period, subject to a specified condition or was or was not
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 62 of 73
+
+--------------------------------------------------------------------------------
+suspended,
+(c) that a specified person was or was not, at a specified time or during a specified
+period, an authorised officer,
+(d) that a particular or other matter was or was not, at a specified time or during a
+specified period, included on the register,
+(e) that a design was or was not, at a specified time or during a specified period, a
+regulated design,
+(f) any other matter prescribed by the regulations.
+102
+Personal liability
+(1) A matter or thing done or omitted to be done by the following persons does not, if the
+matter or thing was done or omitted to be done in good faith for the purpose of
+exercising a function under this Act, subject the person to any action, liability, claim or
+demand—
+(a) the Secretary,
+(b) an authorised officer,
+(c) a person acting under the direction of the Secretary or an authorised officer.
+(2) However, any such liability attaches instead to the Crown.
+103
+Disclosure and misuse of information
+A person must not disclose any information obtained in connection with the administration
+or execution of this Act unless the disclosure is made—
+(a) with the consent of the person from whom the information was obtained, or
+(b) in connection with the administration or execution of this Act, or
+(c) for the purposes of any disciplinary or legal proceedings arising out of this Act or of
+any report of those proceedings, or
+(d) in accordance with a requirement imposed under the Ombudsman Act 1974, or
+(e) with other lawful excuse.
+Maximum penalty—50 penalty units.
+104
+Exchange of information
+(1) The Secretary may provide information to a relevant agency that is reasonably
+necessary for the purposes of enabling or assisting the relevant agency to regulate or
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 63 of 73
+
+--------------------------------------------------------------------------------
+take other action in respect of one or more of the following—
+(a) the preparation of regulated designs and other work done by a registered design
+practitioner or principal design practitioner,
+(b) building work, professional engineering work or specialist work,
+(c) practitioners,
+(d) compliance declarations,
+(e) other matters prescribed by the regulations.
+(2) A relevant agency may provide information to the Secretary that is reasonably
+necessary for the purposes of enabling or assisting the Secretary to exercise the
+Secretary’s functions under this Act.
+(3) Without limiting subsection (1), the Secretary may enter into an arrangement (an
+information sharing arrangement) with a relevant agency (or in the case of the
+Tribunal, the President of the Tribunal) for the purposes of sharing or exchanging
+information held by the Secretary or the agency.
+(4) Under an information sharing arrangement, the Secretary and the relevant agency
+are, despite any other Act or law, authorised—
+(a) to request and receive information held by the other party to the arrangement,
+and
+(b) to disclose information to the other party.
+(5) Subsection (4) applies only to the extent that the information is reasonably necessary
+to assist in the exercise of functions of the Secretary under this Act or the functions of
+the relevant agency.
+(6) This section does not—
+(a) require the Secretary to provide information to a relevant agency only in
+accordance with subsection (1), or with an information sharing arrangement,
+where that information can otherwise be lawfully provided, or
+(b) limit the operation of another Act or law under which a relevant agency is
+authorised or required to disclose information to another person or body.
+(7) In this section—
+relevant agency means any of the following—
+(a) a government sector agency,
+(b) the Tribunal,
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 64 of 73
+
+--------------------------------------------------------------------------------
+(c) other persons or bodies prescribed by the regulations.
+105
+Secretary may require information about insurance policies
+(1) The Secretary may direct a person who issues insurance policies to registered
+practitioners for the purposes of this Act to provide to the Secretary information, as
+may be specified by the Secretary, about the following matters relating to policies or
+particular classes of policies issued for the purposes of this Act by the person—
+(a) the terms of the policies,
+(b) the premiums payable,
+(c) the number of policies issued,
+(d) the registered practitioners to whom policies have been issued,
+(e) the number and value of claims made under the policies,
+(f) any other information prescribed by the regulations.
+(2) The Secretary may direct that the information be provided in the time specified in the
+direction.
+(3) A direction under this section must be given in writing.
+(4) A person must not fail to comply with a direction given to the person under this
+section.
+Maximum penalty—500 penalty units.
+106
+Delegation
+(1) The Secretary may delegate the exercise of any function of the Secretary under this
+Act (other than this power of delegation)—
+(a) to any person employed in the Department, or
+(b) to any person, or any class of persons, authorised for the purposes of this section
+by the regulations.
+(2) The Minister may delegate the exercise of any function of the Minister under this Act
+(other than this power of delegation)—
+(a) to any person employed in the Department, or
+(b) to any person, or any class of persons, authorised for the purposes of this section
+by the regulations.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 65 of 73
+
+--------------------------------------------------------------------------------
+107
+Regulations
+(1) The Governor may make regulations, not inconsistent with this Act, for or with respect
+to any matter that by this Act is required or permitted to be prescribed or that is
+necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+(2) Without limiting subsection (1), the regulations may make provision with respect to
+the following—
+(a) the qualifications, skills and experience required for registration, including the
+approval of training and the approval of persons to conduct the training or to
+assess persons undergoing the training,
+(b) continuing professional development requirements for registered practitioners,
+(c) the particulars relating to regulated designs and compliance declarations that
+must be recorded, and the form and manner in which they must be recorded,
+(d) the keeping of records and the provision of information to the Secretary by
+practitioners with respect to preparation of regulated designs, building work,
+professional engineering work or specialist work and compliance declarations,
+(e) the lodging of copies of designs and compliance declarations electronically or
+otherwise with the Department or another person approved by the Minister,
+(f) notice to registered practitioners of matters affecting the circumstances when
+compliance declarations are to be provided,
+(g) the fees payable under this Act or the regulations and the refund, reduction or
+waiver of any fees,
+(h) the waiver, reduction, postponement or refund by the Secretary of fees payable or
+paid under this Act or the regulations,
+(i) fees for the lodgment of documents on the NSW planning portal.
+(3) Without limiting subsection (2)(a), the regulations may authorise the approval of
+training and persons under that paragraph to be done by order of the Secretary
+published in the Gazette.
+(4) A regulation may apply, adopt or incorporate a publication as in force at a particular
+time or as in force from time to time.
+(5) The regulations may exempt all persons or bodies, specified persons or bodies or
+classes of persons or bodies, or all work, specified work or classes of work, or all or
+specified registrations, from any specified provision of this Act, other than the
+insurance requirements under this Act.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 66 of 73
+
+--------------------------------------------------------------------------------
+(5A) The regulations may exempt all persons or bodies, specified persons or bodies or
+classes of persons or bodies, or all work, specified work or classes of work, or all or
+specified registrations—
+(a) from the insurance requirements under this Act, and
+(b) for a maximum period of 12 months.
+(6) A regulation may create an offence punishable by a penalty not exceeding 200
+penalty units in the case of a body corporate or 100 penalty units in any other case.
+108
+Recovery of unpaid fees
+A fee payable under this Act may be recovered by the Secretary as a debt in a court of
+competent jurisdiction.
+109
+Review of Act
+(1) The Public Accountability Committee of the Legislative Council is to review this Act—
+(a) to consider the functions exercised or delegated by the Secretary, and
+(b) to determine whether the policy objectives of the Act remain valid and whether
+the terms of the Act remain effective for securing those objectives, and
+(c) to consider the desirability of establishing an independent NSW Building
+Commission to instead exercise the regulatory and oversight functions under this
+Act and other Acts relating to the construction of buildings.
+(2) The review is to be undertaken as soon as possible after 30 March 2022.
+(3) A report on the outcome of the review is to be tabled in the Legislative Council by 30
+June 2022 (or by a later day determined by the Committee).
+(4) The Minister is to table in the Legislative Council a written response to the report
+within 3 months after the tabling of the report.
+Schedule 1 Savings, transitional and other provisions
+Part 1 General
+1
+Regulations
+(1) The regulations may contain provisions of a savings or transitional nature consequent
+on the enactment of this Act or any Act that amends this Act.
+(2) Any such provision—
+(a) may, if the regulations so provide, take effect from the date of assent to the Act
+concerned or a later date, and
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 67 of 73
+
+--------------------------------------------------------------------------------
+(b) has effect despite anything to the contrary in this Schedule.
+(3) To the extent to which any such provision takes effect from a date that is earlier than
+the date of its publication on the NSW legislation website, the provision does not
+operate so as—
+(a) to affect, in a manner prejudicial to any person (other than the State or an
+authority of the State), the rights of that person existing before the date of its
+publication, or
+(b) to impose liabilities on any person (other than the State or an authority of the
+State) in respect of anything done or omitted to be done before the date of its
+publication.
+(4) Without limiting subclauses (1) and (2), regulations made for the purposes of this
+clause may amend this Schedule to provide for additional or different savings and
+transitional provisions instead of including the provisions in the regulations.
+Part 2 Provisions consequent on enactment of this Act
+2
+Definitions
+In this Part—
+approved form means a form approved by the Secretary and made available—
+(a) on the NSW planning portal, or
+(b) on a website of the Department.
+approved way means—
+(a) lodgment on the NSW planning portal, or
+(b) if a building practitioner is unable to access the NSW planning portal to lodge a copy
+of a design for technical or other reasons—provision of the design to the Secretary.
+Crown building project means a project involving Crown building work that comprises
+one or more of the following—
+(a) the construction of a building,
+(b) the making of alterations or additions to a building,
+(c) the repair, renovation or protective treatment of a building.
+Crown building work means regulated building work that is Crown building work within
+the meaning of the Environmental Planning and Assessment Act 1979, Part 6.
+regulated building work means building work for which a regulated design is required.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 68 of 73
+
+--------------------------------------------------------------------------------
+3
+Regulated building work—commenced
+(1) This clause applies to regulated building work if—
+(a) the regulated building work is authorised to be carried out by a construction
+certificate or a complying development certificate, and
+(b) some of the regulated building work authorised to be carried out by the certificate
+has commenced before 1 July 2021, and
+(c) all the regulated building work authorised to be carried out by the certificate has
+not been completed by that day.
+(2) The following requirements of the Act do not apply to the regulated building work or
+any design in relation to the regulated building work—
+(a) provisions requiring regulated designs to be prepared for the regulated building
+work, including requirements for compliance declarations,
+(b) provisions requiring a person to be registered to carry out the regulated building
+work,
+(c) provisions requiring a building compliance declaration to be prepared for the
+regulated building work.
+(3) The building practitioner for the regulated building work must provide copies of all
+designs relied on to carry out the regulated building work—
+(a) to the Secretary in the approved way, and
+(b) before an application is made for an occupation certificate for a building to which
+the regulated building work relates.
+Maximum penalty—1,500 penalty units for a body corporate or 500 penalty units for
+an individual.
+(4) A principal certifier must not issue an occupation certificate for a building to which the
+regulated building work relates unless satisfied that all designs required to be
+provided to the Secretary under this clause have been provided.
+4
+Regulated building work—designs prepared
+(1) This clause applies to a design for regulated building work if—
+(a) the regulated building work is authorised to be carried out by a construction
+certificate or a complying development certificate, and
+(b) the design was prepared before 1 July 2021, and
+(c) the person who prepared the design is not eligible to be registered after 30 June
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 69 of 73
+
+--------------------------------------------------------------------------------
+2021 in a class that would permit the person to provide a design compliance
+declaration for the design, and
+(d) the regulated building work is commenced after 30 June 2021 and before 1 July
+2022.
+(2) The design is taken to be a regulated design for which a design compliance
+declaration has been given if a registered design practitioner—
+(a) assesses whether or not the design complies with the requirements of the Building
+Code of Australia, and
+(b) issues a certificate in an approved form that the design does comply with the
+requirements.
+(3) The registered building practitioner must not carry out building work under the
+construction certificate or complying development certificate until copies of the design
+and certificate are provided to the Secretary.
+Maximum penalty—200 penalty units for a body corporate or 100 penalty units for an
+individual.
+(4) If a design that is taken to be a regulated design is varied on or after 1 July 2021, this
+clause no longer applies to the design.
+Note—
+A registered design practitioner will be required to prepare the varied design.
+4A
+Time for lodging regulated designs and compliance declarations
+(1) This clause applies to development carried out under more than 1 construction
+certificate if building work has commenced under at least 1 of the construction
+certificates before 1 July 2023.
+(2) A requirement that copies of all regulated designs and compliance declarations be
+provided to the Secretary before building work commences is taken to mean the
+regulated designs and compliance declarations required to carry out the building work
+under a construction certificate must be provided to the Secretary before building
+work commences under that construction certificate.
+(3) The clause ceases to have effect on 1 July 2023.
+4B
+Crown building work—commenced
+(1) This clause applies to Crown building work if—
+(a) it is carried out before 1 August 2021, and
+(b) the Crown building project to which it relates has not been completed by that day.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 70 of 73
+
+--------------------------------------------------------------------------------
+(2) The following requirements of the Act do not apply to the Crown building work, or a
+design in relation to the Crown building work, to which this clause applies—
+(a) provisions requiring regulated designs to be prepared for the Crown building work,
+including requirements for compliance declarations,
+(b) provisions requiring a person to be registered to carry out the Crown building
+work,
+(c) provisions requiring a building compliance declaration to be prepared for the
+Crown building work.
+(3) The building practitioner for the Crown building work must provide copies of all
+designs relied on to carry out the Crown building work—
+(a) to the Secretary in the approved way, and
+(b) before the completion of the Crown building project to which the Crown building
+work relates.
+Maximum penalty—1,500 penalty units for a body corporate or 500 penalty units for
+an individual.
+4C
+Crown building project—staged provision of designs
+(1) This clause applies to a Crown building project if Crown building work under the
+project is carried out after 31 July 2021 and before 1 July 2023.
+(2) A building practitioner is taken to comply with a provision of the regulations made
+under the Act, section 107(2)(e) requiring a building practitioner to provide specified
+regulated designs and compliance declarations to the Secretary before commencing
+building work if, before commencing Crown building work under a Crown building
+project to which this clause applies—
+(a) the building practitioner provides regulated designs and compliance declarations
+relating to a portion of the Crown building project (building work increment) to
+the Secretary, and
+(b) the regulated designs and compliance declarations otherwise comply with the
+requirements of the provision, and
+(c) the only Crown building work carried out relates to the building work increment.
+(3) The clause ceases to have effect on 1 July 2023.
+4D
+Crown building work—designs prepared
+(1) This clause applies to a design for Crown building work if—
+(a) the design was prepared before 1 July 2021, and
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 71 of 73
+
+--------------------------------------------------------------------------------
+(b) the person who prepared the design is not eligible to be registered after 30 June
+2021 in a class that would permit the person to provide a design compliance
+declaration for the design, and
+(c) the Crown building work to which it relates is commenced after 31 July 2021 and
+before 1 July 2022.
+(2) The design is taken to be a regulated design for which a design compliance
+declaration has been given if a registered design practitioner—
+(a) assesses whether or not the design complies with the requirements of the Building
+Code of Australia, and
+(b) issues a certificate in an approved form that the design does comply with the
+requirements.
+(3) The registered building practitioner must not carry out Crown building work to which
+the design relates until copies of the design and certificate are provided to the
+Secretary.
+Maximum penalty—200 penalty units for a body corporate or 100 penalty units for an
+individual.
+(4) If a design that is taken to be a regulated design is varied on or after 1 July 2021, this
+clause no longer applies to the design.
+Note—
+A registered design practitioner will be required to prepare the varied design.
+5
+Application of duty of care provisions to existing buildings and contracts and
+arrangements
+(1) Part 4 of this Act extends to construction work carried out before the commencement
+of section 37 as if the duty of care under that Part was owed by the person who
+carried out the construction work to the owner of the land and to subsequent owners
+when the construction work was carried out.
+(2) Subclause (1) only applies to economic loss caused by a breach of the duty of care
+extended under that subclause if—
+(a) the loss first became apparent within the 10 years immediately before the
+commencement of section 37, or
+(b) the loss first becomes apparent on or after the commencement of that section.
+(3) Part 4 of the Act as extended by subclause (1) applies regardless of whether an action
+for breach of a common law duty of care has commenced before the commencement
+of section 37 and may be taken into account in those proceedings unless the court
+considers that it would not be in the interests of justice to do so.
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 72 of 73
+
+--------------------------------------------------------------------------------
+(4) Section 40 extends to a contract, agreement or stipulation relating to the construction
+work whenever made.
+(5) For the purposes of this clause, a loss becomes apparent when an owner entitled to
+the benefit of the duty of care under Part 4 of this Act first becomes aware (or ought
+reasonably to have become aware) of the loss.
+(6) Words and expressions used in this clause have the same meaning as in Part 4 of this
+Act.
+Schedule 2 (Repealed)
+Design and Building Practitioners Act 2020 No 7 [NSW]
+Current version for 20 August 2024 to date (accessed 8 April 2025 at 19:29)
+Page 73 of 73
+
+--------------------------------------------------------------------------------

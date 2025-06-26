@@ -1,0 +1,1507 @@
+Metadata for pdf/todo/real_property_NT.pdf: {'format': 'PDF 1.6', 'title': 'Serial No', 'author': 'Executive Services', 'subject': '', 'keywords': '', 'creator': 'Acrobat PDFMaker 22 for Word', 'producer': 'Adobe PDF Library 22.3.98', 'creationDate': "D:20230314105214+09'30'", 'modDate': "D:20230314105219+09'30'", 'trapped': '', 'encryption': None, 'country': 'Australia'}
+
+Country found in pdf/todo/real_property_NT.pdf: Australia
+
+ 
+ 
+NORTHERN TERRITORY OF AUSTRALIA 
+REAL PROPERTY (UNIT TITLES) ACT 1975 
+As in force at 3 March 2023 
+Table of provisions 
+Part I 
+Preliminary matters 
+1 
+Short title ......................................................................................... 1 
+2 
+Commencement .............................................................................. 1 
+3 
+Interpretation ................................................................................... 1 
+4 
+Incorporation with Land Title Act 2000 ............................................ 2 
+5 
+When units plan and other instruments deemed to be 
+registered......................................................................................... 3 
+Part II 
+Registration of unit plans 
+6 
+Definition ......................................................................................... 3 
+6A 
+Formal requirements ....................................................................... 3 
+7 
+Requirements for registration of units plans .................................... 4 
+8 
+Effect of registration of units plan on interests in parcel .................. 5 
+9 
+Duties of Registrar-General after registration of units plan .............. 7 
+Part IIA 
+Registration of units plan of subdivision, 
+units plan of consolidation, &c. 
+9A 
+Formal requirements ....................................................................... 8 
+9B 
+Registration of units plan of subdivision and consolidation ............. 9 
+9C 
+Registration of notice of conversion ................................................ 9 
+9D 
+Registration of building alteration plan .......................................... 10 
+9DA 
+Requirements for registration of documents .................................. 10 
+9E 
+Effect of registration of units plan of subdivision and 
+consolidation of interests in units ................................................... 11 
+9F 
+Duties of the Registrar-General after registration of units plan 
+of subdivision or consolidation ....................................................... 13 
+9G 
+Duties of Registrar-General after registration of notice of 
+conversion ..................................................................................... 13 
+9H 
+Duties of the Registrar-General after registration of building 
+alteration plan ................................................................................ 14 
+Part IIB 
+Registration of disclosure statement and 
+variations 
+9J 
+Registration of disclosure statement ............................................. 14 
+9K 
+Variation of disclosure statement .................................................. 14 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+ii 
+ 
+Part III 
+Cancellation and alteration of units plan 
+13 
+Registration of order for alteration of units plan ............................. 15 
+14 
+Duties of Registrar-General on registration of order for 
+alteration of units plan ................................................................... 15 
+15 
+Registrar-General to give notice of cancellation or alteration of 
+units plan ....................................................................................... 15 
+Part IV 
+Miscellaneous 
+16 
+Change of address for service of documents ................................ 15 
+17 
+Registration of alteration of articles ............................................... 16 
+18 
+Registrar-General to register appointment, &c., of 
+administrator .................................................................................. 16 
+19 
+No dealings while application for cancellation or alteration of 
+units plan is pending ...................................................................... 16 
+20 
+Withdrawal of units plan ................................................................ 17 
+21 
+Provisions applicable in relation to trusts....................................... 17 
+22 
+Delivery to Registrar-General of duplicate certificates of title ........ 17 
+23 
+Regulations.................................................................................... 17 
+Part V 
+Transitional matters for Land Title and 
+Related Legislation Amendment Act 2008 
+24 
+Application ..................................................................................... 18 
+ENDNOTES 
+ 
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+NORTHERN TERRITORY OF AUSTRALIA 
+ 
+____________________ 
+As in force at 3 March 2023 
+____________________ 
+REAL PROPERTY (UNIT TITLES) ACT 1975 
+An Act to provide for the registration of unit plans and other instruments 
+under the Unit Titles Act, and for other matters 
+Part I 
+Preliminary matters 
+1 
+Short title 
+This Act may be cited as the Real Property (Unit Titles) Act 1975. 
+2 
+Commencement 
+This Act shall come into operation on a date to be fixed by the 
+Administrator by notice in the Gazette. 
+3 
+Interpretation 
+ 
+(1) In this Act the Principal Act means the Land Title Act 2000. 
+ 
+(2) Where an expression used in this Act is defined in the Unit Titles 
+Act 1975, that expression as so used has the same meaning as in 
+that Act. 
+ 
+(3) In Parts III and IV: 
+(a) 
+a reference to a unit is to be taken to be a reference to a 
+building lot; and 
+(b) 
+a reference to a units plan is to be taken to be a reference to 
+a building development plan. 
+ 
+(4) This Act does not apply to the registration of an instrument made 
+under the Unit Title Schemes Act 2009. 
+ 
+(5) In this Act: 
+prescribed, in relation to fees, means prescribed under the 
+Registration Act 1927. 
+
+--------------------------------------------------------------------------------
+ 
+Part I 
+Preliminary matters 
+ 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+2 
+ 
+4 
+Incorporation with Land Title Act 2000 
+ 
+(1) This Act is incorporated and shall be read as one with the Principal 
+Act. 
+ 
+(2) A units plan, units plan of subdivision, units plan of consolidation, 
+notice of conversion, building alteration plan, disclosure statement, 
+building development plan, notice of a change to land under 
+section 21FA of the Unit Titles Act 1975 and every other document 
+or instrument lodged under this Act with the Registrar-General, 
+other than: 
+(a) 
+a certificate under the Building Act 1993; 
+(b) 
+a certificate under the Planning Act 1999; 
+(c) 
+a resolution of a corporation; 
+(d) 
+the consent of a person having a registered interest in a 
+parcel or unit; 
+(e) 
+a certificate of a corporation; 
+(f) 
+a notice referred to in section 21E(2)(b) of the Unit Titles 
+Act 1975; or 
+(g) 
+a certificate referred to in section 21F(d) of the Unit Titles 
+Act 1975, 
+shall, for the purposes of the Principal Act, be deemed to be an 
+instrument affecting land. 
+ 
+(3) Section 159 of the Principal Act does not apply to or in relation to: 
+(a) 
+a units plan; 
+(b) 
+a units plan of subdivision; 
+(c) 
+units plan of consolidation; 
+(d) 
+a notice of conversion; 
+(da) by-laws under the Unit Titles Act 1975; 
+(db) a building development plan; 
+(dc) a notice of a change to land under section 21FA of the Unit 
+Titles Act 1975; 
+(e) 
+a building alteration plan; 
+
+--------------------------------------------------------------------------------
+ 
+Part II 
+Registration of unit plans 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+3 
+ 
+(f) 
+a prescribed application form; 
+(g) 
+a notice under section 16(1); 
+(h) 
+a disclosure statement; or 
+(j) 
+a copy of a court order, 
+lodged under this Act with the Registrar-General. 
+5 
+When units plan and other instruments deemed to be 
+registered 
+For the purposes of the Principal Act and of this Act: 
+(a) 
+a units plan, units plan of subdivision, units plan of 
+consolidation, building development plan, notice of a change 
+to land under section 21FA of the Unit Titles Act 1975, notice 
+of conversion or building alteration plan shall be deemed to be 
+registered when the Registrar-General records the particulars 
+in accordance with section 177 of the Principal Act; and 
+(b) 
+every other document or instrument relating to a plan or notice 
+referred to in paragraph (a) lodged under this Act with the 
+Registrar-General shall be deemed to be registered when the 
+Registrar-General records the particulars in accordance with 
+section 177 of the Principal Act. 
+Part II 
+Registration of unit plans 
+6 
+Definition 
+In this Part unit, in relation to a condominium development, 
+includes so much of the parcel the subject of the condominium 
+development as is not a unit or common property in a registered 
+units plan in respect of a completed stage of the condominium 
+development. 
+6A 
+Formal requirements 
+A units plan shall be in accordance with the appropriate form and 
+any prescribed requirements. 
+
+--------------------------------------------------------------------------------
+ 
+Part II 
+Registration of unit plans 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+4 
+ 
+7 
+Requirements for registration of units plans 
+ 
+(1) The Registrar-General must, after payment of the prescribed fee 
+and lodgement with the Registrar-General within the period referred 
+to in section 21 of the Unit Titles Act 1975 of: 
+(a) 
+an application in accordance with the appropriate form; and 
+(b) 
+3 copies of the units plan complying with section 6A and 
+endorsed under section 20 of the Unit Titles Act 1975 by the 
+Surveyor-General; and 
+(c) 
+the certificate as to title for the relevant parcel or, in relation to 
+an application in respect of the second or subsequent stage of 
+a condominium development, the certificate as to title for the 
+relevant unit; and 
+(d) 
+the written consent of each person whose consent is required 
+for the registration of the units plan under the provisions 
+applied under subsection (1A); 
+register the units plan. 
+ 
+(1A) For this section, the provisions in section 52(2) to (11) of the Land 
+Title Act 2000 (the applied provisions) apply with the following 
+changes: 
+(a) 
+a reference in the applied provisions to the plan is taken to be 
+a reference to the units plan; 
+(b) 
+a reference in section 52(3) of the applied provisions to the lot 
+to be subdivided or a lot to be consolidated is taken to be a 
+reference to the parcel to which the units plan relates;  
+(c) 
+a reference in section 52(10) and (11) of the applied 
+provisions to a subdivision or consolidation is taken to be a 
+reference to the subdivision to which the units plan relates;  
+(d) 
+if the consent of any of the following would otherwise be 
+required for the registration of the units plan under the applied 
+provisions, the consent is not required: 
+(i) 
+a service authority as defined in section 3(1) of the 
+Planning Act 1999; 
+(ii) 
+a referral authority as defined in section 60(1) of that Act 
+for a planning scheme; 
+(iii) a person who has consented in writing to the proposal to 
+which the units plan relates. 
+
+--------------------------------------------------------------------------------
+ 
+Part II 
+Registration of unit plans 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+5 
+ 
+ 
+(1B) Subsection (1A)(d)(iii) has no effect for a person if: 
+(a) 
+the proposal has been changed; and 
+(b) 
+the person has not consented to the change. 
+ 
+(1C) Section 210 of the Land Title Act 2000 applies with necessary 
+changes for the issuing of Registrar-General's directions for the 
+applied provisions. 
+ 
+(2) Subject to subsections (1A) to (1C), the registered proprietor of an 
+estate or interest in a parcel of land to which a units plan for a 
+condominium development relates is taken to have consented to 
+the units plan if: 
+(a) 
+the units plan relates to a second or subsequent stage of the 
+condominium development, the first stage of which has been, 
+before or after the commencement of the Real Property (Unit 
+Titles) Amendment Act 1998, registered; or 
+(b) 
+he or she gave written consent for the applied provisions, or 
+section 11(3) of the Unit Titles Act 1975 as in force 
+immediately before the commencement of the amendment of 
+that Act by the Land Title and Related Legislation Amendment 
+Act 2008, to the proposed subdivision to which the units plan 
+relates; or 
+(c) 
+he or she became the registered proprietor of the estate or 
+interest after the registration of a disclosure statement under 
+section 9J in relation to the condominium development to 
+which the units plan relates. 
+8 
+Effect of registration of units plan on interests in parcel 
+ 
+(1) If, immediately before the registration of a units plan, a person was 
+the proprietor of a registered interest in: 
+(a) 
+in the case of a units plan relating to a second or subsequent 
+stage of a condominium development – a unit included as 
+described in section 6; and 
+(b) 
+in any other case – the parcel, 
+he shall be deemed to be, on the registration of the units plan, the 
+proprietor of a registered interest in each unit, as if: 
+(c) 
+on the date on which the memorandum creating the first-
+mentioned registered interest was executed, the registered 
+proprietor had been the proprietor of all the units and that 
+memorandum had, as the case required, been executed by 
+
+--------------------------------------------------------------------------------
+ 
+Part II 
+Registration of unit plans 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+6 
+ 
+him accordingly; and 
+(d) 
+the first-mentioned registered interest had been a registered 
+interest of all the units and not of the parcel or unit, as the 
+case may be. 
+ 
+(2) If, immediately before the registration of a units plan, a person was 
+the registered proprietor of an easement over portion of the parcel, 
+he shall be deemed to be, on the registration of the units plan, the 
+proprietor of an easement over so much of the land comprised in 
+the common property and each unit as was affected by the first-
+mentioned easement; as if: 
+(a) 
+on the date on which the memorandum creating the first-
+mentioned easement was executed, the proprietor or the 
+lessee of the parcel on that date had been the proprietor or 
+the lessee of the common property and the unit or units, as 
+the case may be, and that memorandum had been executed 
+by him accordingly; and 
+(b) 
+the first-mentioned easement had been an easement over the 
+common property or the unit or units, as the case may be, and 
+not over that portion of the parcel. 
+ 
+(3) If, immediately before the registration of a units plan the registered 
+proprietor of the parcel was, in respect of that parcel, the proprietor 
+of an easement over any other land, upon the registration of the 
+units plan: 
+(a) 
+each proprietor of a unit shall be the proprietor of that 
+easement in respect of his unit; and 
+(b) 
+the proprietor of the common property shall be the proprietor 
+of that easement in respect of the common property, 
+as a dominant tenement, notwithstanding that the units or common 
+property may not be contiguous with the servient tenement. 
+ 
+(4) On and after the registration of a units plan, the memorandum of a 
+registered interest referred to in subsection (1) and the memoranda 
+of easements referred to in subsections (2) and (3) and any 
+instrument or other document relating to the parcel or the lease of 
+the parcel or to that registered interest or easement shall be 
+deemed to be modified in such manner as is necessary to give 
+effect to subsections (1), (2) and (3). 
+ 
+(5) In this section: 
+(aa) except in subsection (1)(b), parcel includes a unit referred to 
+in subsection (1)(a); 
+
+--------------------------------------------------------------------------------
+ 
+Part II 
+Registration of unit plans 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+7 
+ 
+(a) 
+registered proprietor of an easement and proprietor of an 
+easement include a person in whose favour an easement is 
+reserved in the land register; and 
+(b) 
+a reference to a memorandum creating an easement and the 
+date of its execution includes a reference to the reservation of 
+an easement in the land register, and the date of that 
+reservation. 
+ 
+(6) In this section: 
+(a) 
+a reference to a unit (other than a reference in subsection (1)) 
+is to be taken to be a reference to a building lot; and 
+(b) 
+a reference to a units plan (other than a reference in 
+subsection (1)) is to be taken to be a reference to a building 
+development plan. 
+9 
+Duties of Registrar-General after registration of units plan 
+Immediately after the registration of a units plan or a building 
+development plan, the Registrar-General shall: 
+(a) 
+in the case of a units plan that does not relate to a second or 
+subsequent completed stage of a condominium development: 
+(i) 
+cancel the certificate as to title; and 
+(ii) 
+issue to the relevant corporation a certificate as to title 
+for the common property in accordance with the 
+prescribed form; and 
+(b) 
+in the case of a units plan relating to a second or subsequent 
+completed stage of a condominium development – cancel the 
+certificate of title and the duplicate of that certificate for the 
+unit (other than a unit in a previously completed stage of the 
+condominium development) held by the developer; and 
+(c) 
+issue, in accordance with the prescribed form, a certificate as 
+to title for each unit to the person who, by force of section 23 
+of the Unit Titles Act 1975, is the proprietor of the unit; and 
+(ca) issue, in accordance with the prescribed form, a certificate as 
+to title for each building lot to the person who, by force of 
+section 26ZQ of the Unit Titles Act 1975, is the proprietor of 
+the building lot; and 
+
+--------------------------------------------------------------------------------
+ 
+Part IIA 
+Registration of units plan of subdivision, units plan of consolidation, &c. 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+8 
+ 
+(d) 
+in the case of a units plan relating to any completed stage of a 
+condominium development – issue to the developer a 
+certificate as to title for the unit comprising the balance, if any, 
+of the parcel; and 
+(da) enter on each certificate as to title issued a memorial of any 
+registered interest to which, by force of section 8, or by force 
+of section 23 or 26ZQ of the Unit Titles Act 1975, the unit or 
+building lot is subject and, if it is subject to 2 or more 
+registered interests, enter the memorials in such manner as to 
+preserve their priority; and 
+(e) 
+enter on the registered instrument evidencing or creating such 
+a registered interest and on its duplicate copy a memorial that 
+it has effect in accordance with section 8 or in accordance 
+with section 23 or 26ZQ of the Unit Titles Act 1975, as the 
+case may be; and 
+(ea) where the units plan relates to a completed stage of a 
+condominium development record that fact in such manner as 
+he thinks fit on the units plan and on each certificate as to title 
+issued under this section as a result of its registration; and 
+(f) 
+enter on a certificate as to title issued under this section a 
+memorial of any easement in respect of which, by force of 
+section 8(3), the unit or building lot, and the common property, 
+are the dominant tenements; and 
+(g) 
+record in the land register in respect of the servient tenement 
+a note that the easement has effect in accordance with 
+section 8(3); and 
+(h) 
+deliver a copy of the units plan or building development plan 
+to the applicant or person entitled to it and another copy to the 
+local government council for the local government area in 
+which the parcel is situated or, if the parcel is not situated in a 
+local government area, to the Minister. 
+Part IIA 
+Registration of units plan of subdivision, units 
+plan of consolidation, &c. 
+9A 
+Formal requirements 
+A units plan of subdivision, units plan of consolidation, building 
+development plan, change to land under section 21FA of the Unit 
+Titles Act 1975, notice of conversion or building alteration plan shall 
+be in accordance with the appropriate form and any prescribed 
+requirements. 
+
+--------------------------------------------------------------------------------
+ 
+Part IIA 
+Registration of units plan of subdivision, units plan of consolidation, &c. 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+9 
+ 
+9B 
+Registration of units plan of subdivision and consolidation 
+Subject to section 9DA, the Registrar-General shall, on lodgement 
+with him of: 
+(a) 
+an application in the appropriate form; and 
+(b) 
+3 copies of the units plan of subdivision or units plan of 
+consolidation in accordance with Part IIIA of the Unit Titles 
+Act 1975 and section 9A of this Act; and 
+(c) 
+the certificate as to title for the relevant unit or units; and 
+(d) 
+in the case of a units plan of subdivision – the certificate or 
+certificates required by section 21B(2)(c) of the Unit Titles 
+Act 1975 to accompany the units plan of subdivision; and 
+(e) 
+a certified copy of the unanimous resolution of the corporation 
+referred to in section 21A(b)(i) of the Unit Titles Act 1975; and 
+(g) 
+the duplicate copy of every instrument evidencing or creating 
+an estate or interest in the units subdivided or consolidated to 
+which a consent referred to in paragraph (f) relates; and 
+(h) 
+the certificate of the corporation under section 21D(b) of the 
+Unit Titles Act 1975; and 
+(j) 
+in the case of a subdivision, a certificate of a licensed 
+surveyor referred to in section 21B(2)(b) of the Unit Titles 
+Act 1975, 
+register the units plan of subdivision or units plan of consolidation. 
+9C 
+Registration of notice of conversion 
+Subject to section 9DA, the Registrar-General shall, after payment 
+of the prescribed fee and lodgement with the Registrar-General of: 
+(a) 
+3 copies of the notice of conversion executed in accordance 
+with section 21E of the Unit Titles Act 1975 and in accordance 
+with section 9A of this Act; and 
+(b) 
+the certificates as to title for the relevant units; and 
+(c) 
+the discharge or surrender of all registered interests, other 
+than easements, as referred to in section 21E(2)(a) of the Unit 
+Titles Act 1975; and 
+(d) 
+a certified copy of the notice referred to in section 21E(2)(b) of 
+the Unit Titles Act 1975; and 
+
+--------------------------------------------------------------------------------
+ 
+Part IIA 
+Registration of units plan of subdivision, units plan of consolidation, &c. 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+10 
+ 
+(e) 
+a certified copy of the unanimous resolution of the corporation 
+referred to in section 21A(b)(i) of the Unit Titles Act 1975; and 
+(f) 
+the certificate of the corporation under section 21D(b) of the 
+Unit Titles Act 1975;  
+register the notice of conversion. 
+9D 
+Registration of building alteration plan 
+Subject to section 9DA, the Registrar-General shall, after payment 
+of the prescribed fee and lodgement with the Registrar-General 
+within the period referred to in section 21F(1) of the Unit Titles 
+Act 1975, of: 
+(a) 
+an application in the appropriate form; and 
+(b) 
+3 copies of the building alteration plan in accordance with 
+section 21F(1) of the Unit Titles Act 1975 and in accordance 
+with section 9A of this Act; and 
+(c) 
+the certificate as to title for the relevant unit; and 
+(d) 
+a 
+certificate 
+of 
+a 
+licensed 
+surveyor 
+referred 
+to 
+in 
+section 21F(1)(d) of the Unit Titles Act 1975; and 
+(e) 
+a certified copy of the unanimous resolution by the 
+corporation referred to in section 21A(b)(i) of the Unit Titles 
+Act 1975; and 
+(f) 
+the relevant certificate under section 40 of the Building 
+Act 1993;  
+register the building alteration plan. 
+9DA 
+Requirements for registration of documents 
+ 
+(1) For the registration of a document covered by section 9A, the 
+provisions in section 52(2) to (11) of the Land Title Act 2000 (the 
+applied provisions) apply with the following changes: 
+(a) 
+a reference in the applied provisions to the plan is taken to be 
+a reference to the document;  
+(b) 
+a reference in section 52(3) of the applied provisions to the lot 
+to be subdivided or a lot to be consolidated is taken to be a 
+reference to the parcel to which the document relates;  
+
+--------------------------------------------------------------------------------
+ 
+Part IIA 
+Registration of units plan of subdivision, units plan of consolidation, &c. 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+11 
+ 
+(c) 
+a reference in section 52(10) and (11) of the applied 
+provisions to a subdivision or consolidation is taken to be a 
+reference to the subdivision, consolidation, conversion, 
+alteration or change to which the document relates;  
+(d) 
+if the consent of any of the following would otherwise be 
+required for the registration of the document under the applied 
+provisions, the consent is not required: 
+(i) 
+a service authority as defined in section 3(1) of the 
+Planning Act 1999; 
+(ii) 
+a referral authority as defined in section 60(1) of that Act 
+for a planning scheme; 
+(iii) a person who has consented in writing to the proposal to 
+which the document relates. 
+ 
+(2) Subsection (1)(d)(iii) has no effect for a person if: 
+(a) 
+the proposal has been changed; and 
+(b) 
+the person has not consented to the change. 
+ 
+(3) Section 210 of the Land Title Act 2000 applies with necessary 
+changes for the issuing of Registrar-General's directions for the 
+applied provisions. 
+9E 
+Effect of registration of units plan of subdivision and 
+consolidation of interests in units 
+ 
+(1) If, immediately before the registration of a units plan of subdivision 
+or a units plan of consolidation a person was the proprietor of a 
+registered interest in the unit or units affected by the subdivision or 
+consolidation, he shall be deemed to be, on that registration, the 
+proprietor of a registered interest in the subdivided units or 
+consolidated unit, as the case may be, as if: 
+(a) 
+on the date on which the memorandum creating the first-
+mentioned registered interest was executed, the registered 
+proprietor had been the proprietor of the subdivided units or 
+consolidated unit, and that memorandum had been executed 
+by him accordingly; and 
+(b) 
+the first-mentioned registered interest had been a registered 
+interest of the subdivided units or consolidated unit. 
+ 
+(2) If, immediately before the registration of a units plan of subdivision 
+or units plan of consolidation, a person was the registered 
+proprietor of an easement over portion of the common property or 
+
+--------------------------------------------------------------------------------
+ 
+Part IIA 
+Registration of units plan of subdivision, units plan of consolidation, &c. 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+12 
+ 
+unit being subdivided or units being consolidated, he shall be 
+deemed to be, on the registration of the units plan of subdivision or 
+units plan of consolidation, the proprietor of an easement over so 
+much of the land comprised in the new unit or units as was affected 
+by the first-mentioned easement, as if: 
+(a) 
+on the date on which the memorandum creating the first-
+mentioned easement was executed, the proprietor or the 
+lessee of the common property or unit being subdivided or 
+units being consolidated on that date had been the proprietor 
+or the lessee of the new unit or units, and that memorandum 
+had been executed by him accordingly; and 
+(b) 
+the first-mentioned easement had been an easement over the 
+new unit or units, and not over the common property or unit 
+being subdivided or units being consolidated. 
+ 
+(3) If, immediately before the registration of a units plan of subdivision 
+or units plan of consolidation, the registered proprietor of the 
+common property or unit being subdivided or units being 
+consolidated was, in respect of that land, the proprietor of an 
+easement over any other land, upon the registration of the units 
+plan of subdivision or units plan of consolidation, each proprietor of 
+a unit shall be the proprietor of that easement in respect of his unit 
+as a dominant tenement, notwithstanding that the unit may not be 
+contiguous with the servient tenement. 
+ 
+(4) On and after the registration of a units plan of subdivision or units 
+plan of consolidation, the memorandum of registered interest 
+referred to in subsection (1) and the memorandum of easements 
+referred to in subsections (2) and (3) and any instrument or other 
+document relating to the common property or unit being subdivided 
+or units being consolidated or the lease of the common property or 
+unit being subdivided or units being consolidated or to that 
+registered interest or easement shall be deemed to be modified in 
+such manner as is necessary to give effect to subsections (1), (2) 
+and (3). 
+ 
+(5) In this section: 
+(a) 
+registered proprietor of an easement and proprietor of an 
+easement include a person in whose favour an easement is 
+reserved in the land register; and 
+(b) 
+a reference to a memorandum creating an easement and the 
+date of its execution includes a reference to the reservation of 
+an easement in the land register, and the date of that 
+reservation. 
+
+--------------------------------------------------------------------------------
+ 
+Part IIA 
+Registration of units plan of subdivision, units plan of consolidation, &c. 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+13 
+ 
+9F 
+Duties of the Registrar-General after registration of units plan 
+of subdivision or consolidation 
+Immediately after registration of the units plan of subdivision or 
+consolidation the Registrar-General shall: 
+(a) 
+make appropriate amendments to the land register in respect 
+of the relevant unit or units; and 
+(b) 
+issue, in accordance with the prescribed form, a certificate as 
+to title for each unit to the person who, by force of section 23 
+of the Unit Titles Act 1975, is the proprietor of the unit; and 
+(c) 
+enter on each relevant certificate as to title so issued a 
+memorial of any registered interest to which, by force of 
+section 9E, the unit is subject and, if it is subject to 2 or more 
+registered interests, enter the memorials in such manner as to 
+preserve their priority; and 
+(d) 
+enter on the instrument evidencing or creating such interests 
+and on its duplicate copy a memorial that it has effect in 
+accordance with section 9E; and 
+(e) 
+enter in the land register a memorial of any registered interest 
+in respect of which, by force of section 9E(3), the unit is the 
+dominant tenement; and 
+(f) 
+enter in the land register in respect of the servient tenement a 
+note that the registered interest has effect in accordance with 
+section 9E(3); and 
+(g) 
+deliver a copy of the units plan of subdivision or units plan of 
+consolidation to the applicant or the person entitled to it and 
+another copy to the local government council for the local 
+government area in which the relevant unit, is or units are 
+situated or, if the unit is not or units are not situated in a local 
+government area, to the Minister. 
+9G 
+Duties of Registrar-General after registration of notice of 
+conversion 
+Immediately after the registration of a notice of conversion referred 
+to in section 9C, the Registrar-General shall: 
+(a) 
+make appropriate amendments to the land register; and 
+(b) 
+deliver a copy of the notice of conversion and a copy of the 
+schedule of unit entitlements to the applicant or the person 
+entitled to it and another copy of both those documents to the 
+local government council for the local government area in 
+
+--------------------------------------------------------------------------------
+ 
+Part IIB 
+Registration of disclosure statement and variations 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+14 
+ 
+which the unit is, or units are, situated or if the unit is not or 
+units are not situated in a local government area, to the 
+Minister. 
+9H 
+Duties of the Registrar-General after registration of building 
+alteration plan 
+Immediately after the registration of a building alteration plan 
+referred to in section 9D, the Registrar-General shall: 
+(a) 
+make in the land register such record of the building alteration 
+plan as he thinks fit; and 
+(b) 
+deliver a copy of the building alteration plan to the applicant or 
+to the person entitled to it and another copy to the local 
+government council for the local government area in which the 
+unit is situated or, if the unit is not situated in a local 
+government area, to the Minister. 
+Part IIB 
+Registration of disclosure statement and 
+variations 
+9J 
+Registration of disclosure statement 
+The Registrar-General shall, after payment of the prescribed fee 
+and lodgement with him, in accordance with section 26E(1), 26T(1) 
+or 26ZI(3)(a) of the Unit Titles Act 1975, of a copy of a disclosure 
+statement, enter the details in the land register in an appropriate 
+way so as to affect each part of the land that comprises the 
+balance of the parcel (except in the case of disclosure statement 
+relating to an estate development of a Crown lease). 
+9K 
+Variation of disclosure statement 
+The Registrar-General shall, after payment of the prescribed fee 
+and lodgement with the Registrar-General of the disclosure 
+statement referred to in section 26J(2)(a), 26U(5) or 26W(2)(a) of 
+the Unit Titles Act 1975 or a variation of a disclosure statement in 
+accordance with section 26ZK or 26ZM of that Act, a notice in 
+writing in pursuance of section 26J(3) or 26W(4) or an instrument of 
+approval or order of the Court referred to in section 26U(5) 
+or 26W(5), as the case may be of that Act, of the Minister's 
+approval of that disclosure statement, replace the original 
+disclosure statement with the disclosure statement so lodged and 
+cause to be made in the land register such notations as he thinks fit 
+to record that fact. 
+
+--------------------------------------------------------------------------------
+ 
+Part IV 
+Miscellaneous 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+15 
+ 
+Part III 
+Cancellation and alteration of units plan 
+13 
+Registration of order for alteration of units plan 
+On the lodgment with the Registrar-General of an office copy of an 
+order made by the Court under section 99 of the Unit Titles 
+Act 1975 for the alteration of a units plan, together with a copy of 
+the schedule of unit entitlement altered in accordance with the 
+order, together with the prescribed fee, the Registrar-General shall 
+register those documents. 
+14 
+Duties of Registrar-General on registration of order for 
+alteration of units plan 
+Immediately after the registration of an order for the alteration of a 
+units plan, the Registrar-General shall: 
+(a) 
+make appropriate amendments to the land register; and 
+(b) 
+enter on the units plan such memorials as are necessary to 
+give effect to the order. 
+15 
+Registrar-General to give notice of cancellation or alteration of 
+units plan 
+Immediately after the registration of an order for the cancellation or 
+alteration of a units plan, the Registrar-General shall give written 
+notice of the registration of the order to the local government 
+council for the local government area in which the parcel is 
+situated, or if the parcel is not situated in a local government area, 
+the Registrar-General shall give the written notice to the Minister. 
+Part IV 
+Miscellaneous 
+16 
+Change of address for service of documents 
+ 
+(1) Where the address for service of documents shown on a units plan 
+or building development plan, or in the land register for common 
+property, is changed, the corporation shall, in accordance with the 
+prescribed form, together with the prescribed fee, give notice of the 
+change to the Registrar-General. 
+Maximum penalty: 
+20 penalty units. 
+ 
+(2) On receipt of a notice under subsection (1), the Registrar-General 
+shall endorse on the units plan or a building development plan or, if 
+he thinks fit, in the land register for the common property, a 
+memorial of the change of address. 
+
+--------------------------------------------------------------------------------
+ 
+Part IV 
+Miscellaneous 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+16 
+ 
+17 
+Registration of alteration of articles 
+On the lodgment with the Registrar-General of a copy of a special 
+resolution, certified under the seal of the corporation as a true copy 
+of the resolution, altering the articles of the corporation, together 
+with the prescribed fee, the Registrar-General shall register the 
+resolution in such manner as he thinks fit in the land register. 
+18 
+Registrar-General to register appointment, &c., of 
+administrator 
+On the lodgment with the Registrar-General of an office copy of an 
+order made by the Court under Part VII of the Unit Titles Act 1975 
+appointing, removing or replacing an administrator of a corporation, 
+together with the prescribed fee, the Registrar-General shall 
+register the order in such manner as he thinks fit in the land 
+register. 
+19 
+No dealings while application for cancellation or alteration of 
+units plan is pending 
+ 
+(1) Where a copy of an application made to the Court under section 95 
+or 98 of the Unit Titles Act 1975 is served on the Registrar-General, 
+the Registrar-General shall register the copy of the application and 
+shall enter on the units plan a memorial that the application has 
+been made. 
+ 
+(2) On the service on the Registrar-General of an office copy of an 
+order for the cancellation of a units plan, of an order for the 
+alteration of a units plan or of an order dismissing an application for 
+such an order, the Registrar-General shall enter on the units plan a 
+further memorial stating the effect of the order. 
+ 
+(3) After a memorial is entered on a units plan under subsection (1), 
+and until a further memorial is entered on the units plan under 
+subsection (2), the Registrar-General shall not, except in 
+accordance with an order of the Court, register any instrument: 
+(a) 
+in the case of an application for an order for the cancellation 
+of the units plan – affecting a unit; or 
+(b) 
+in the case of an application for an order for the alteration of 
+the units plan providing for the elimination of a unit – affecting 
+that unit. 
+
+--------------------------------------------------------------------------------
+ 
+Part IV 
+Miscellaneous 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+17 
+ 
+20 
+Withdrawal of units plan 
+ 
+(1) At any time after the lodgment with the Registrar-General of an 
+application for the registration of a units plan and before the units 
+plan is registered, the applicant may apply in writing to the 
+Registrar-General for the withdrawal of the application for 
+registration. 
+ 
+(2) The Registrar-General shall, on the receipt of an application under 
+subsection (1), endorse the application for the registration of the 
+units plan as being withdrawn and deliver to the applicant the 
+documents lodged under section 7. 
+21 
+Provisions applicable in relation to trusts 
+ 
+(1) Where, immediately before the registration of a units plan, the 
+proprietor held the parcel as trustee, that person shall, upon the 
+registration of the units plan, hold the units defined in the units plan 
+in trust for the persons for whom, and the purposes for which, the 
+parcel was so held. 
+ 
+(2) Where, immediately before the registration of an order for the 
+cancellation of a units plan, the proprietor of a unit held the unit as 
+trustee, that person shall, upon the registration of the order, hold 
+the share in the estate, or the whole estate, as the case may be, of 
+which he becomes possessed under section 96 of the Unit Titles 
+Act 1975 in trust for the persons for whom, and the purposes for 
+which, the unit was so held. 
+22 
+Delivery to Registrar-General of duplicate certificates of title 
+ 
+(1) The Registrar-General may, by notice in writing, require a person 
+having in his possession, custody or control the certificate as to title 
+for a unit the title of which has been determined to deliver it, within 
+a time specified in the notice, to the Registrar-General for 
+cancellation. 
+ 
+(2) A person who fails to comply with a requirement made under 
+subsection (1) is guilty of an offence and is punishable, on being 
+found guilty, by a fine not exceeding 20 penalty units. 
+23 
+Regulations 
+The Administrator may make regulations, not inconsistent with this 
+Act, prescribing matters: 
+(a) 
+required or permitted by this Act to be prescribed; or 
+(b) 
+necessary or convenient to be prescribed for carrying out or 
+giving effect to this Act, 
+
+--------------------------------------------------------------------------------
+ 
+Part V 
+Transitional matters for Land Title and Related Legislation Amendment Act 
+2008 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+18 
+ 
+and in particular prescribing: 
+(c) 
+fees and charges in relation to an act or thing under this Act; 
+and 
+(d) 
+forms to be used. 
+Part V 
+Transitional matters for Land Title and Related 
+Legislation Amendment Act 2008 
+24 
+Application 
+ 
+(1A) However, the amendments do not apply to a units plan or 
+document that relate to 1 or both of the following: 
+(a) 
+a development permit or exceptional development permit for 
+the carrying out of works on or in relation to land, that was in 
+force under the Planning Act 1999 immediately before the 
+commencement; 
+(b) 
+a building permit that was in force under the Building Act 1993 
+immediately before the commencement. 
+ 
+(1B) The regulations may provide for a matter that is of a savings or 
+transitional nature consequent on the enactment of the Land Title 
+and Related Legislation Amendment Act 2008. 
+ 
+(1C) A regulation mentioned in subsection (1B) may have retrospective 
+operation only to the extent to which the regulation: 
+(a) 
+does not have effect before the commencement of this 
+section; and 
+(b) 
+does not disadvantage a person (other than the Territory or a 
+Territory authority) by decreasing the person's rights or 
+imposing liabilities on the person. 
+ 
+(1D) Subsection (1B) and any regulation made under the subsection 
+cease to have effect 1 year after the commencement of this 
+section. 
+ 
+(2) In this section: 
+amendments means the amendments made to this Act by the 
+Land Title and Related Legislation Amendment Act 2008. 
+commencement means the commencement of the amendments. 
+
+--------------------------------------------------------------------------------
+ENDNOTES 
+ 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+19 
+ 
+ENDNOTES 
+ 
+1 
+KEY 
+Key to abbreviations 
+ 
+amd = amended  
+ 
+ 
+ 
+od = order 
+app = appendix 
+ 
+ 
+ 
+om = omitted 
+bl = by-law 
+ 
+ 
+ 
+ 
+pt = Part 
+ch = Chapter 
+ 
+ 
+ 
+ 
+r = regulation/rule 
+cl = clause 
+ 
+ 
+ 
+ 
+rem = remainder 
+div = Division  
+ 
+ 
+ 
+renum = renumbered 
+exp = expires/expired  
+ 
+ 
+rep = repealed 
+f = forms 
+ 
+ 
+ 
+ 
+s = section 
+Gaz = Gazette  
+ 
+ 
+ 
+sch = Schedule 
+hdg = heading  
+ 
+ 
+ 
+sdiv = Subdivision 
+ins = inserted  
+ 
+ 
+ 
+SL = Subordinate Legislation 
+lt = long title 
+ 
+ 
+ 
+ 
+sub = substituted 
+nc = not commenced  
+ 
+ 
+ 
+2 
+LIST OF LEGISLATION 
+Real Property (Unit Titles) Ordinance 1975 (Act No. 18, 1976) 
+Assent date 
+2 April 1976 
+Commenced 
+29 October 1976 (Gaz No. 44, 29 October 1976, p 1308) 
+Real Property (Unit Titles) Ordinance 1976 (Act No. 47, 1976) 
+Assent date 
+29 October 1976 
+Commenced 
+29 October 1976 
+Transfer of Powers Self-Government) Ordinance 1978 (Act No. 54, 1978) 
+Assent date 
+1 July 1978 
+Commenced 
+1 July 1978 (s 2) 
+Real Property (Unit Titles) Amendment Act 1986 (Act No. 25, 1986) 
+Assent date 
+30 June 1986 
+Commenced 
+23 December 1987 (s 2, s 2 Unit Titles Amendment Act 1986 
+(Act No. 24, 1986) and Gaz S82, 23 December 1987) 
+Real Property (Consequential Amendments) Act 1991 (Act No. 33, 1991) 
+Assent date 
+25 June 1991 
+Commenced 
+1 October 1991 (Gaz S49, 1 October 1991) 
+Registration (Consequential Amendments) Act 1991 (Act No. 55, 1991) 
+Assent date 
+26 September 1991 
+Commenced 
+1 January 1992 (s 2, s 2 Registration Amendment Act 1991 
+(Act No. 54, 1991) and Gaz G49, 11 December 1991, p 4) 
+Statute Law (Miscellaneous Amendments) Act 1991 (Act No. 77, 1991) 
+Assent date 
+16 December 1991 
+Commenced 
+16 December 1991 
+
+--------------------------------------------------------------------------------
+ENDNOTES 
+ 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+20 
+ 
+Real Property (Unit Titles) Amendment Act 1993 (Act No. 64, 1993) 
+Assent date 
+3 November 1993 
+Commenced 
+1 June 1993 (s 2, s 2 Unit Titles Amendment Act 1993 (Act 
+No. 9, 1993) and Gaz G26, 30 June 1993, p 4) 
+Local Government (Consequential Amendments) Act 1993 (Act No. 84, 1993) 
+Assent date 
+31 December 1993 
+Commenced 
+1 June 1994 (s 2, s 2 Local Government Act 1993 (Act No. 83, 
+1993) and Gaz S35, 20 May 1994) 
+Sentencing (Consequential Amendments) Act 1996 (Act No. 17, 1996) 
+Assent date 
+19 April 1996 
+Commenced 
+s 7: 19 April 1996; rem: 1 July 1996 (s 2, s 2 Sentencing Act 
+1995 (Act No. 39, 1995) and Gaz S15, 13 June 1996) 
+Real Property (Unit Titles) Amendment Act 1998 (Act No. 32, 1998) 
+Assent date 
+11 May 1998 
+Commenced 
+20 May 1998 (Gaz G19, 20 May 1998, p 2) 
+Real Property (Unit Titles) Amendment Act 1999 (Act No. 16, 1999) 
+Assent date 
+5 May 1999 
+Commenced 
+9 June 1999 (s 2, s 2 Real Property Amendment Act 1999 (Act 
+No. 16, 1999) and Gaz G22, 9 June 1999, p 5) 
+Land Title (Consequential Amendments) Act 2000 (Act No. 45, 2000) 
+Assent date 
+12 September 2000 
+Commenced 
+1 December 2000 (s 2, s 2 Land Title Act 2000 (Act No. 2, 
+2000) and Gaz G38, 27 September 2000, p 2) 
+Unit Titles (Consequential Amendments – Building Development) Act 2001 (Act No. 15, 
+2001) 
+Assent date 
+28 June 2001 
+Commenced 
+1 March 2002 (s 2, s 2 Unit Titles Amendment Act 2001 (Act 
+No. 14, 2001) and Gaz G8, 27 February 2002, p 6) 
+Land Title and Related Legislation Amendment Act 2008 (Act No. 3, 2008) 
+Assent date 
+11 March 2008 
+Commenced 
+pt 6: 18 March 2009 (Gaz G11, 13 March 2009, p 4); 
+rem: 1 July 2009 (Gaz S30, 26 June 2009) 
+Local Government (Consequential Amendments) Act 2008 (Act No. 28, 2008) 
+Assent date 
+14 November 2008 
+Commenced 
+1 July 2008 (s 2) 
+Unit Title Schemes Act 2009 (Act No. 14, 2009) 
+Assent date 
+26 May 2009 
+Commenced 
+pt 2.3, div 3, sdv 4 and s 135 (to ext ins s 54C): 
+1 January 2010; s 111: 1 July 2010; rem: 1 July 2009 (s 2, 
+Gaz S30, 26 June 2009, p 1, s 2 Land Title and Related 
+Legislation Amendment Act 2008 (Act No. 3, 2008) and Gaz 
+S30, 26 June 2009, p 1) 
+Justice Legislation Amendment (Penalties) Act 2010 (Act No. 12, 2010) 
+Assent date 
+20 May 2010 
+Commenced 
+1 July 2010 (Gaz G24, 16 June 2010, p 2) 
+
+--------------------------------------------------------------------------------
+ENDNOTES 
+ 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+21 
+ 
+Local Government Amendment Act 2014 (Act No. 19, 2014) 
+Assent date 
+2 June 2014 
+Commenced 
+s 16: 1 July 2014; s 18: 1 December 2014; rem: 2 June 2014 
+(s 2) 
+Termination of Units Plans and Unit Title Schemes Act 2014 (Act No. 48, 2014) 
+Assent date 
+8 December 2014 
+Commenced 
+1 January 2015 (s 2) 
+Statute Law Revision Act 2023 (Act No. 4, 2023) 
+Assent date 
+2 March 2023 
+Commenced 
+3 March 2023 (s 2) 
+3 
+GENERAL AMENDMENTS 
+General amendments of a formal nature (which are not referred to in the table 
+of amendments to this reprint) are made by the Interpretation Legislation 
+Amendment Act 2018 (Act No. 22, 2018) to: ss 1, 3, 4, 5, 7, 9, 9A, 9B, 9C, 9D, 
+9DA, 9F, 9J, 9K, 13, 18, 19, 21 and 24. 
+4 
+LIST OF AMENDMENTS 
+lt 
+amd No. 25, 1986, s 17; No. 14, 2009, s 150 
+pt 1 hdg 
+ins No. 4, 2023, s 23 
+ss 1 – 2 
+amd No. 25, 1986, s 17 
+s 3 
+amd No. 25, 1986, ss 4 and 17; No. 55, 1991, s 6; No. 45, 2000, s 11; No. 15, 
+2001, s 9; No. 14, 2009, s 151 
+s 4 
+amd No. 25, 1986, ss 5 and 17; No. 45, 2000, s 11; No. 15, 2001, s 9 
+s 5 
+sub No. 25, 1986, s 6 
+ 
+amd No. 45, 2000, s 11; No. 15, 2001, s 9 
+s 6 
+sub No. 25, 1986, s 7 
+s 6A 
+ins No. 25, 1986, s 7 
+ 
+amd No. 45, 2000, s 11 
+s 7 
+amd No. 47, 1976, s 2; No. 54, 1978, s 4 
+ 
+sub No. 25, 1986, s 7 
+ 
+amd No. 33, 1991, s 7; No. 55, 1991, s 8; No. 32, 1998, s 3; No. 16, 1999, 
+s 3; No. 45, 2000, s 11; No. 3, 2008, s 22 
+s 8 
+amd No. 47, 1976, s 4; No. 25, 1986, s 8; No. 33, 1991, s 7; No. 45, 2000, 
+s 11; No. 15, 2001, s 9 
+s 9 
+amd No. 47, 1976, s 5; No. 25, 1986, s 9; No. 33, 1991, s 7; No. 55, 1991, 
+s 8; No. 84, 1993, s 6; No. 45, 2000, s 11; No. 15, 2001, s 9; No. 28, 2008, 
+s 3; No. 19, 2014, s 26 
+pt IIA hdg 
+ins No. 25, 1986, s 10 
+s 9A 
+ins No. 25, 1986, s 10 
+ 
+amd No. 45, 2000, s 11; No. 15, 2001, s 9 
+s 9B 
+ins No. 25, 1986, s 10 
+ 
+amd No. 33, 1991, s 7; No. 45, 2000, s 11; No. 3, 2008, s 23 
+s 9C 
+ins No. 25, 1986, s 10 
+ 
+amd No. 33, 1991, s 7; No. 55, 1991, s 8; No. 3, 2008, s 24 
+s 9D 
+ins No. 25, 1986, s 10 
+ 
+amd No. 33, 1991, s 7; No. 55, 1991, s 8; No. 45, 2000, s 11; No. 3, 2008, 
+s 25; No. 4, 2023, s 23 
+s 9DA 
+ins No. 3, 2008, s 26 
+s 9E 
+ins No. 25, 1986, s 10 
+ 
+amd No. 33, 1991, s 7; No. 45, 2000, s 11 
+
+--------------------------------------------------------------------------------
+ENDNOTES 
+ 
+ 
+ 
+Real Property (Unit Titles) Act 1975 
+22 
+ 
+ss 9F – 9H 
+ins No. 25, 1986, s 10 
+ 
+amd No. 33, 1991, s 7; No. 84, 1993, s 6; No. 45, 2000, s 11; No. 28, 2008, 
+s 3; No. 19, 2014, s 26 
+pt IIB hdg 
+ins No. 25, 1986, s 10 
+s 9J 
+ins No. 25, 1986, s 10 
+ 
+amd No. 33, 1991, s 7; No. 55, 1991, s 8 
+ 
+sub No. 64, 1993, s 3 
+ 
+amd No. 45, 2000, s 11; No. 15, 2001, s 9 
+s 9K 
+ins No. 25, 1986, s 10 
+ 
+amd No. 55, 1991, s 8; No. 64, 1993, s 4; No. 45, 2000, s 11; No. 15, 2001, 
+s 9 
+s 10 
+amd No. 25, 1986, s 17; No. 55, 1991, s 8 
+ 
+rep No. 48, 2014, s 32 
+s 11 
+amd No. 25, 1986, s 17 
+ 
+rep No. 48, 2014, s 32 
+s 12 
+amd No. 25, 1986, s 17; No. 33, 1991, s 7; No. 45, 2000, s 11 
+ 
+rep No. 48, 2014, s 32 
+s 13 
+amd No. 25, 1986, s 17; No. 55, 1991, s 8 
+s 14 
+amd No. 33, 1991, s 7; No. 45, 2000, s 11 
+s 15 
+amd No. 54, 1978, s 4; No. 84, 1993, s 6; No. 28, 2008, s 3; No. 19, 2014, 
+s 26 
+s 15A 
+ins No. 25, 1986, s 11 
+ 
+rep No. 48, 2014, s 32 
+s 16 
+sub No. 25, 1986, s 12 
+ 
+amd No. 33, 1991, s 7; No. 55, 1991, s 8; No. 45, 2000, s 11; No. 15, 2001, 
+s 9; No. 12, 2010, s 3 
+s 17 
+amd No. 25, 1986, s 13; No. 33, 1991, s 7; No. 55, 1991, s 8; No. 77, 1991, 
+s 13; No. 45, 2000, s 11 
+s 18 
+amd No. 25, 1986, ss 14 and 17; No. 55, 1991, s 8; No. 77, 1991, s 13; 
+No. 45, 2000, s 11 
+s 19 
+amd No. 25, 1986, s 17 
+s 21 
+amd No. 46, 1976, s 6; No. 25, 1986, s 17 
+s 22 
+amd No. 25, 1986, s 17; No. 17, 1996, s 6; No. 45, 2000, s 11; No. 15, 2001, 
+s 9 
+s 23 
+ins No. 25, 1986, s 15 
+pt V hdg 
+ins No. 3, 2008, s 27 
+s 24 
+ins No. 3, 2008, s 27 
+ 
+amd No. 14, 2009, s 152 
+First sch 
+amd No. 54, 1978, s 4 
+ 
+rep No. 25, 1986, s 16 
+Second sch 
+rep No. 25, 1986, s 16 
+ 
+
+--------------------------------------------------------------------------------

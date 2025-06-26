@@ -1,0 +1,995 @@
+ 
+ 
+‘s 
+ 
+Regulatory Charter 
+BUILDING REGULATORY SYSTEM 2022 
+
+--------------------------------------------------------------------------------
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+Ministry of Business, Innovation and Employment (MBIE)  
+Hīkina Whakatutuki – Lifting to make successful 
+ 
+MBIE develops and delivers policy, services, advice and regulation to support economic growth and the prosperity and 
+wellbeing of New Zealanders. MBIE combines the former Ministries of Economic Development, Science and Innovation, 
+and the Departments of Labour, and Building and Housing. 
+MORE INFORMATION 
+Information, examples and answers to your questions about the topics covered here can be found on our website: 
+www.mbie.govt.nz or by calling us free on: 0800 20 90 20. 
+DISCLAIMER 
+This document is a guide only. It should not be used as a substitute for legislation or legal advice. The Ministry of Business, 
+Innovation and Employment is not responsible for the results of any actions 
+taken on the basis of information in this document, or for any errors or omissions. 
+ 
+ISBN (online) 978-1-99-104130-2 
+July 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+©Crown Copyright 
+The material contained in this report is subject to Crown copyright protection unless otherwise indicated. The Crown copyright protected material 
+may be reproduced free of charge in any format or media without requiring specific permission. This is subject to the material being reproduced 
+accurately and not being used in a derogatory manner or in a misleading context. Where the material is being published or issued to others, the 
+source and copyright status should be acknowledged. The permission to reproduce Crown copyright protected material does not extend to any 
+material in this report that is identified as being the copyright of a third party. Authorisation to reproduce such material should be obtained from 
+the copyright holders
+
+--------------------------------------------------------------------------------
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+Regulatory charters 
+ 
+Regulation is a key tool of Government that has a direct, daily impact on the 
+lives of all New Zealanders. When done well, it supports our economy’s 
+stability, growth, resilience and sustainability. 
+PURPOSE OF A REGULATORY CHARTER 
+Since 2013, when it was first included in the State Sector Act 1988 (now repealed), the concept of stewarding regulation, or 
+regulatory stewardship, has gathered momentum in the public sector as an important mechanism for ensuring our 
+regulatory systems (which give effect to regulation) are fit-for-purpose. The expectation on government agencies to be 
+good stewards continues to be reflected in the Public Service Act 2020. 
+A regulatory charter supports regulatory stewardship by taking a living regulatory system approach and reinforcing shared 
+ownership for the system among those with regulatory functions in the system. Charters are designed to support 
+cooperation between system participants and ensure any changes contribute to the desired outcomes of the system as a 
+whole.  
+WHAT’S IN THE REGULATORY CHARTER 
+Regulatory charters: 
+• 
+clarify roles and responsibilities of system participants 
+• 
+identify overlaps in the regulatory system 
+• 
+identify gaps in the regulatory system  
+• 
+provide guidance to resolve systemic uncertainties when they arise. 
+In addition, MBIE periodically undertakes assessments to identify risks, gaps, opportunities to improve and review its own 
+performance as the steward of the system.  
+CHARTER OWNERSHIP  
+MBIE is formally responsible for the charter. The charter must record the shared understanding of all organisations with 
+key roles in the building regulatory system. It is a product of, and vehicle for, dialogue across the system.  
+CHARTER FUNCTIONALITY 
+The charter describes the current building regulatory system and how it ought to work. It sets out the purpose of the 
+system alongside the roles and relationships between participants. The building regulatory system is complex and MBIE is 
+working to improve the system over time. The charter does not capture the future work programme but provides a 
+foundation for understanding the current state, roles and responsibilities.  
+CHARTER REVIEW AND MANAGEMENT 
+The responsibility for keeping and reviewing this charter sits with MBIE. 
+A review of this document should occur at least every five years and after significant changes to the Building Act 2004. 
+A charter review should include assessments of: 
+• 
+whether system objectives, policy or context have changed over time 
+• 
+whether the charter should be updated to reflect these changes 
+• 
+whether, as a result of system assessments, progress has been made in addressing identified risks and closing gaps.  
+The Building Regulatory System Charter was first published in July 2017, as part of MBIE’s commitment under the 
+Regulatory Management Strategy to finalise five regulatory charters. This document comprises the 2022 update of the 
+charter.  
+A series of reforms are being undertaken to improve the overall effectiveness of the building system in the immediate and 
+longer term. These changes will require an update of the charter to be undertaken within the next three years.  
+ 
+ 
+
+--------------------------------------------------------------------------------
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+Contents 
+1. 
+Regulating the building sector ........................................................................................................................................... 1 
+1.1 The building sector is crucial to New Zealand’s social, economic and environmental outcomes ................................ 1 
+1.2 Evolving building landscape and new strategic challenges .......................................................................................... 1 
+1.3 The building regulatory system is broad and complex ................................................................................................. 2 
+1.4 Regulation of the building sector aims to deliver safe, healthy and durable homes and buildings ............................. 2 
+1.5 Building for the Future – MBIE’s strategy for the regulatory system ........................................................................... 2 
+2. 
+Scope and purpose of the building regulatory system....................................................................................................... 3 
+2.1 New Zealand has a performance-based building regulatory system ........................................................................... 3 
+2.2 The Building Act controls building design and construction ........................................................................................ 3 
+2.3 Different ways to demonstrate compliance with the Building Code ........................................................................... 4 
+3. 
+Roles within the regulatory system ................................................................................................................................... 6 
+3.1 Overview of building regulatory system roles ............................................................................................................. 6 
+3.2 MBIE’s roles: steward and central regulator ................................................................................................................ 6 
+3.3 Territorial authorities and BCAs are the frontline of the building regulatory system .................................................. 8 
+3.4 Building professionals and tradespeople ..................................................................................................................... 9 
+3.5 Product manufacturers and suppliers .......................................................................................................................... 9 
+3.6 Building users and building owners ............................................................................................................................. 9 
+4. 
+Oversight, checks and balances ....................................................................................................................................... 10 
+ 
+ 
+
+--------------------------------------------------------------------------------
+1 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+1. Regulating the building sector 
+1.1 THE BUILDING SECTOR IS CRUCIAL TO NEW ZEALAND’S SOCIAL, ECONOMIC AND ENVIRONMENTAL 
+OUTCOMES 
+A well-functioning building sector has a positive effect on New Zealand’s economic stability, health, environment, and 
+security. People expect that the buildings they live and work in are safe and well-built, and this is a key objective of the 
+building regulatory system.  
+Work in the building and construction sector has a significant impact on New Zealand’s economic performance. The 
+sector: 
+• 
+makes up approximately 7 per cent of New Zealand’s GDP annually1 
+• 
+employs approximately 10 per cent of the national workforce at 285,000 people for the year ended December 2021 
+- making it New Zealand’s fourth largest employer2 
+• 
+drives and supports activity in other parts of the economy, such as manufacturing, mining, transport, property and 
+business services –PWC New Zealand estimated that a $1 investment in construction produces between $2.51 and 
+$3.11 in economic activity3 
+• 
+impacts significantly on consumption levels, as home ownership and property values affect people’s perception of 
+their wealth and financial security – for most New Zealand households, their home is their largest asset  
+• 
+delivers a key component of core infrastructure needed to support successful growth of the country. 
+The building regulatory system is largely user pays, with core regulator activities funded by a building levy payable on work 
+granted a building consent and valued above $20,0004. 
+1.2 EVOLVING BUILDING LANDSCAPE AND NEW STRATEGIC CHALLENGES 
+The building landscape continues to evolve in New Zealand, with the ongoing introduction of innovative building designs, 
+technologies, and materials. These present opportunities to respond to and manage strategic challenges on the horizon.  
+Impact of the COVID-19 global pandemic 
+The emergence of the COVID-19 global pandemic in 2020 presented new challenges for the building and construction 
+sector and for the regulatory environment. The impacts of lockdowns, the disruptions caused by global supply chain 
+shortages, and unprecedented building demand domestically have forced the sector to adapt to new ways of operating. 
+Impacts of the pandemic will continue to be felt over the long-term and will require innovative strategies for recovery in 
+the construction industry.  
+Impact of climate change 
+Climate change presents another strategic challenge. New Zealand is facing a range of negative impacts from climate 
+change5. Across New Zealand, natural hazards such as sea level rise, wind, rainfall, and wildfire are being exacerbated by 
+climate change and pose a risk to buildings, homes and places. 
+Cabinet has agreed a framework for the whole of Government6, which will drive climate change policy towards achieving a 
+climate resilient and low emission New Zealand. It supports New Zealand’s international commitments, including a target 
+of reducing emissions by 30 per cent below 2005 gross emissions (or 11 per cent below 1990 emissions) for the period 
+2021 and reducing net emissions of all greenhouse gases (except biogenic methane) to zero by 20507. It also recognises 
+that New Zealand needs to adapt to climate change impacts to address the changes already being seen and which the 
+country will continue to encounter (even with a global reduction in future emissions). 
+The building and construction sector contributes up to 22% of New Zealand’s greenhouse gas emissions (excluding short-
+lived gases) [MBIE analysis, 2020], which are emitted throughout the life cycle of a building8. The sector and regulatory 
+ 
+1 MBIE (2021), Building and Construction Sector Trends Annual Report 2021. 
+2 Stats NZ (2020), Household Labour Force Survey. 
+3 PWC (2016), Valuing the role of construction in the New Zealand economy.  
+4 MBIE (2022), Building levy: Building Performance (figure of $20,000 correct as of March 2022).  
+5 Ministry for the Environment (2022), Evidence of climate change.  
+6Ministry for the Environment (2022), About New Zealand’s climate change programme.  
+7 Climate Change Response (Zero Carbon) Amendment Act 2019. 
+8 when building materials are produced, when buildings are constructed, through construction waste, during the disposal of a building at 
+the end of its life, as energy and water are used during the operation of a building. 
+
+--------------------------------------------------------------------------------
+2 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+system have important roles to play in reducing emissions alongside ensuring New Zealand's buildings are resilient to the 
+changing climate, allowing people and communities to thrive.  
+1.3 THE BUILDING REGULATORY SYSTEM IS BROAD AND COMPLEX 
+The building sector is made up of the institutions and markets involved in the building, construction and maintenance of 
+commercial and residential property in New Zealand, and covers: 
+• 
+direct service providers – designers, architects, engineers, builders/ other tradespeople, and product suppliers  
+• 
+financial institutions – banks and insurance companies 
+• 
+research agencies -including Building Research Association of New Zealand (BRANZ), universities, and Crown 
+Research institutes 
+• 
+quality assurance and compliance organisations – territorial authorities, building consent authorities (BCAs), and 
+conformity assessment bodies (CABs) 
+• 
+residential and commercial building owners and developers 
+• 
+building users. 
+The sector is characterised by large numbers of small, diverse businesses, with many self-employed people. In 2021, 89 per 
+cent of businesses involved in construction had five or fewer employees and there is high churn in the sector9. This churn 
+may contribute to historically low productivity and adds a level of challenge to communicating and influencing change 
+consistently across the sector.  
+1.4 REGULATION OF THE BUILDING SECTOR AIMS TO DELIVER SAFE, HEALTHY AND DURABLE HOMES AND 
+BUILDINGS  
+New Zealand’s building regulatory system focuses on the development of robust minimum building standards, so that 
+everyone has access to safe, healthy, durable homes and buildings. Regulation is a key tool used to influence the 
+performance of the building sector because: 
+• 
+the building sector delivers public good benefits – poor performance in the sector has broad and significant 
+negative impacts  
+• 
+there is information asymmetry – providers of services or products often have superior information to individual 
+customers and regulation is used to protect consumers  
+• 
+there is a need to reflect societal expectations about health and safety and drive system-wide coordination – the 
+overall integrity, soundness and efficiency of the building sector call for a role for government. 
+1.5 BUILDING FOR THE FUTURE – MBIE’S STRATEGY FOR THE REGULATORY SYSTEM  
+In 2020, MBIE launched its Building System Regulatory Strategy – Building for the Future, which sets out a vision for the 
+future of building regulation over the next 10 to 15 years. The strategy has a focus on wider wellbeing outcomes – social, 
+environmental, economic – and aims to get the system thinking beyond the ‘bricks and mortar’ of design and construction. 
+It focuses on how MBIE’s regulatory role can contribute to addressing some of the big challenges the building system needs 
+to overcome, such as skills shortages, environmental and climate impacts of the construction process, and the slow 
+adoption of new technologies. 
+The strategy will become more ambitious and future-oriented over time as it is developed in consultation with others 
+operating across the system and through tracking progress.  
+MBIE developed the Building for the Future Indicators Explorer – released publicly in 2021 – to track progress against the 
+outcomes in the strategy and support prioritisation and decision making in its role as the central building regulator. 
+ 
+ 
+ 
+9 Stats NZ (2021), Business Demography Statistics – February 2021. 
+
+--------------------------------------------------------------------------------
+3 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+2. Scope and purpose of the building 
+regulatory system  
+2.1 NEW ZEALAND HAS A PERFORMANCE-BASED BUILDING REGULATORY SYSTEM 
+The Building Act has two primary purposes: 
+• 
+The Building Act regulates building work, establishes the licensed building practitioner regime and enables 
+performance standards to be set so that:  
+o 
+people who use buildings can do so safely and without endangering their health 
+o 
+buildings have attributes that contribute appropriately to the health, physical independence, and well-
+being of the people who use them 
+o 
+people who use a building can escape from the building if it is on fire 
+o 
+buildings are designed, constructed, and able to be used in ways that promote sustainable 
+development. 
+• 
+The Building Act promotes the accountability of owners, designers, builders, and BCAs – all of whom have 
+responsibilities to ensure that building work complies with the Building Code. 
+To achieve these objectives, building work must meet certain requirements set out in legislation and regulations. These 
+requirements determine how work can be done, who can do it, and ensure that the system has adequate checks and 
+consumer protection in place.  
+The Building Code is the part of the system that sets expectations of the standards new buildings should meet. It covers 
+aspects such as structural stability, durability, protection from fire, access, moisture control, services and facilities, and 
+energy efficiency. These outline how a building must perform in its intended use rather than describing how the building 
+must be designed and constructed. This performance-based approach allows development and innovation in building 
+design, technology, and systems.  
+Since the last charter in 2017, MBIE has put in place an annual maintenance programme to ensure effective management 
+of the Building Code and its documents. This can include updates to the Building Code, Acceptable Solutions and 
+Verification Methods and published guidance that provide pathways for complying with the regulations.  
+Updating the Building Code regularly helps ensure it keeps pace with modern construction methods. Recent Building Code 
+updates have included changes to support safer and more resilient housing foundations for buildings on liquefaction-prone 
+ground; a focus on the solutions available for higher density housing; and changes to make new homes and buildings more 
+energy efficient. 
+2.2 THE BUILDING ACT CONTROLS BUILDING DESIGN AND CONSTRUCTION  
+The Building Act applies mainly to the physical aspects of building work and establishes a framework for good decision-
+making, with checks and balances at each stage of the building or alteration process. The Building Act provides for: 
+• 
+requirements relating to building work  
+• 
+the functions of MBIE, territorial authorities, councils, BCAs and their accreditation 
+• 
+licensing of building practitioners 
+• 
+mandatory contracts and implied warranties for the benefit of consumers 
+• 
+defined responsibilities for owners, designers, builders, and manufacturers/suppliers 
+• 
+guidance, information and education from the regulator. 
+Figure 1 below sets out the key components of the building regulatory system and methods for demonstrating compliance: 
+• 
+Building Act – the primary legislation governing the building and construction industry. 
+• 
+Building Regulations 1992 – detail for particular building controls (eg prescribed forms; list of specified systems, 
+definitions of 'change the use' and 'moderate earthquake'; levies, fees, and infringements).  
+• 
+Building Code – contained in Schedule 1 of the Building Regulations 1992, sets the minimum performance 
+standards buildings must meet. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+4 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+Figure 1: Components of the building regulatory system 
+ 
+ 
+ 
+The Building Act works alongside other legislation affecting the building and construction sector, including council bylaws 
+and: 
+• 
+Chartered Professional Engineers of New Zealand Act 2002 
+• 
+Construction Contracts Act 2002 
+• 
+Electricity Act 1992 
+• 
+Engineering Associates Act 1961 
+• 
+Fire and Emergency New Zealand Act 2017 
+• 
+Plumbers, Gasfitters, and Drainlayers Act 2006 
+• 
+Registered Architects Act 2005 
+• 
+Resource Management Act 1991 
+• 
+Weathertight Homes Resolution Services Act 2006.  
+2.3 DIFFERENT WAYS TO DEMONSTRATE COMPLIANCE WITH THE BUILDING CODE  
+The building consent system is set up to ensure that building projects above a certain threshold of complexity and risk are 
+undertaken in such a way that people’s health and safety is safeguarded. To issue a building consent, a BCA must be 
+reasonably satisfied that the plans and specifications demonstrate compliance with the Building Code. Compliance may be 
+demonstrated in a number of ways, set out in Figure 2. 
+
+--------------------------------------------------------------------------------
+5 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+Figure 2: Methods of demonstrating compliance with the Building Code 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Provide information about materials, construction details and calculation methods. 
+• Must be accepted as complying with the related Building Code provisions. 
+• Acceptable Solutions are specific construction methods.
+• Verification Methods are methods for testing, calculation and measurement.
+Acceptable Solution / Verification Method
+• Innovative and unique products or systems with appropriate evidence to demonstrate 
+compliance with clauses of the Building Code.
+Alternative solution 
+• Legally binding ruling made by MBIE about matters of doubt or dispute to do with 
+building work.
+Determination
+•MBIE provides a voluntary product assurance scheme (CodeMark) which must be 
+accepted as complying with the Building Code.
+•MBIE provides a national multiple-use approval (MultiProof) which states that a set of 
+plans and specifications for a building complies with the Building Code.
+Product and Building Method assurance 
+
+--------------------------------------------------------------------------------
+6 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+3.  Roles within the regulatory system 
+3.1 OVERVIEW OF BUILDING REGULATORY SYSTEM ROLES 
+Figure 3 below provides an overview of the different roles in the regulatory system and who carries them out.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2 MBIE’S ROLES: STEWARD AND CENTRAL REGULATOR 
+MBIE has the role of steward and central regulator of the building regulatory system. Its regulatory duties, powers, and 
+functions are set out in the Building Act (and other legislation affecting the building and construction sector).  
+MBIE is the lead policy advisor to government on the building regulatory system. It is responsible for advice on legislation 
+and regulations, including the Building Code. The stewardship role requires MBIE to look across the system as a whole and 
+provide advice on how to ensure the building regulatory system is high performing. 
+ 
+ 
+MBIE
+Steward & 
+regulator
+•System leadership 
+and oversight
+•Policy advice
+•Setting performance 
+requirements in the 
+Building Code
+•Producing guidance 
+on ways to comply 
+with the Building 
+Code under Section 
+175.
+•Determinations
+•Information, 
+operational policy and 
+education
+•Licensing of some 
+professions
+•Building Emergency 
+Management 
+•Monitoring 
+compliance 
+•Regulatory 
+performance 
+Councils / BCAs
+Regulator
+•Day-to-day decision 
+maker who 
+determines 
+whether building 
+plans and building 
+work comply with 
+the Building Code
+•Advice and 
+guidance on 
+systems and 
+processes
+•Record keeper
+•Provision of 
+property 
+information
+Professionals and tradespeople
+Service provision
+•Expert advice and 
+consumer services, 
+eg:
+•Architects
+•Designers
+•Engineers
+•Builders 
+•Manufacturers & 
+suppliers
+•Fire and 
+Emergency New 
+Zealand
+Registration boards
+Supervision of 
+professionals
+•Licensed Building 
+Practitioners
+•Electrical workers
+•Plumbers, gasfitters 
+and drainlayers
+•Registered 
+architects
+•Chartered 
+professional 
+engineers
+•Engineering 
+associates
+Building owners – pay building levies, use the regulatory system  
+New Zealand public – use the building stock 
+Figure 3: Overview of roles within the building regulatory system 
+
+--------------------------------------------------------------------------------
+7 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+As the central regulator, MBIE manages the system that regulates building work. It is responsible for: 
+• 
+reviewing and maintaining building-related legislation and the Building Code  
+• 
+producing documents that show ways to comply with the Building Code 
+• 
+monitoring the performance of territorial authorities in the building regulatory system 
+• 
+investigating complaints against BCAs   
+• 
+making determinations about disputes on certain building matters 
+• 
+providing information, education and guidance about the building system 
+• 
+regulating aspects of some professions10 
+• 
+appointing to and monitoring statutory boards that regulate occupations in the building and construction sector. 
+MBIE’s central regulator role is prescribed in the Building Act, detailed in Annex 1.  
+MBIE works alongside building practitioners, government agencies, other regulators and the construction industry to 
+understand what matters to the sector and to improve the regulatory system. 
+MBIE’s regulatory and stewardship governance structures 
+MBIE’s building regulatory system functions are located across two groups in MBIE - the Building, Resources and Markets 
+Group and Te Whakatairanga Service Delivery Group - and delivered by a range of teams. The functions of each team work 
+co-operatively with a whole-of-system view to support an integrated approach to building regulation and leverage the 
+wide expertise across MBIE and the sector.  
+Priority work programmes are governed through individual arrangements. Each priority work programme has a governance 
+arrangement such as a steering group. These steering groups are made up of managers across the building system. 
+Governance is provided by the Building System Steering Group (BSSG) comprising three general managers from the two 
+MBIE groups (see above). It is chaired by the General Manager Building System Performance who is responsible for 
+strategic oversight of the building regulatory system. A memorandum of understanding describes the working relationship 
+between the building regulatory system functions across the groups, supported by a mutually-agreed operating model 
+delivering the capacity and capability required to deliver a high performing building regulatory system.   
+The BSSG is responsible for strategic oversight of system effectiveness through governance of the cross-group and branch 
+relationships and an agreed building system work programme. Annually, the BSSG: 
+• 
+agrees a building system work programme and oversees progress 
+• 
+reviews the operating model to ensure it remains effective. 
+Māori engagement approach 
+Partnering and maintaining strong relationships is essential to providing the environment for meaningful participation by 
+Māori in sector conversations and decision making. MBIE’s Māori engagement approach enables Māori to realise their own 
+goals and aspirations as they relate to the building and construction system by: 
+• 
+working alongside Māori to understand the opportunities/challenges 
+• 
+creating and maintaining authentic and enduring partnerships with Māori through regular, meaningful engagement 
+and conversations 
+• 
+engaging early on in policy development, procedures and services 
+• 
+valuing kaupapa Māori and understanding the importance when engaging with Māori  
+• 
+integrating te reo Māori and tikanga Māori into the building system staff’s ways of working to ensure engagement 
+is appropriate, meaningful and respectful and staff are comfortable and confident to engage with Māori. 
+MBIE review of regulatory stewardship practices 
+An internal review of the regulatory stewardship practices across the building regulatory system was completed in late 
+2020. The review was intended to identify where there are areas of strength in MBIE’s stewardship of the regulatory 
+system and to identify where practices can be improved.  
+It evaluated the maturity of the system and informs efforts to increase the maturity of practices over time. Work is 
+underway to address the findings of this review, particularly with respect to three identified priorities areas – culture; 
+governance, leadership and strategy; and insights and foresights. 
+MBIE’s approach 
+In exercising its roles, MBIE has four broad levers it uses: People, Processes, Products and Performance. Figure 4. outlines 
+MBIE’s approach under these levers. 
+ 
+10 Occupational regulation, including the Licensing Building Practitioners and Electrical Workers Licensing schemes. 
+
+--------------------------------------------------------------------------------
+8 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+Figure 4: MBIE’s approach using four broad levers. 
+ 
+3.3 TERRITORIAL AUTHORITIES AND BCAS ARE THE FRONTLINE OF THE BUILDING REGULATORY SYSTEM  
+Territorial authorities 
+The Building Act requires territorial authorities to keep records about all properties in their area, issue project information 
+memoranda and certificates of acceptance, monitor compliance schedules and follow up notices to fix.  
+Territorial authorities also have powers to address breaches of the Building Act. They can issue infringement notices or, in 
+some circumstances, organise for remedial work to be done. An owner applies to the territorial authority for a building 
+consent. They are able to grant waivers and exemptions, as well as modifications of the Building Code.  
+Territorial authorities also have a role in managing buildings in their area after an emergency event and managing 
+earthquake-prone buildings in their area. Other functions include administering annual building warrants of fitness, 
+deciding the extent to which buildings must comply with the Building Code, performing functions relating to dangerous or 
+insanitary buildings, and responding to managing buildings in an emergency situation.  
+•
+Inform and educate building regulatory system participants about the system to assist people 
+to carry out their duties or comply with their obligations.
+•
+Licence and administer other parts of the building regulatory system (eg the Licensed Building 
+Practitioner scheme and the product certification scheme).
+•
+Monitor the performance and effectiveness of system participants using its intelligence 
+function.
+Workforce and People
+•
+Focus processes on users.
+•
+Base activities on robust information, analysis and informed judgements.
+•
+Provide advice, education and information to aid compliance and enforcement.
+•
+Review and monitor BCA and territorial authority performance of their functions under the 
+Building Act.
+•
+Adjudicate disputes between individuals and BCAs via the determinations process.
+Regulatory and Commercial Processes
+•
+Operate the warnings and bans processes.
+•
+Administer a product assurance scheme.
+•
+Foster innovation in building products. 
+•
+Ensure products are fit for purpose.
+Products
+•
+Develop Acceptable Solutions and Verification Methods, which provide guidance on ways to 
+comply with the Building Code.
+•
+Actively identify research needs and engage with research providers to ensure the most useful 
+research is undertaken to inform performance expectations and compliance solutions.
+•
+Set criteria, supervise and monitor enforcement of the BCA in applying the Building Code to 
+building work.
+•
+Review and monitor its own performance as regulator.
+•
+Provide advice, based on operational expertise, about how the overall regulatory system can be 
+improved.
+Performance Requirements
+
+--------------------------------------------------------------------------------
+9 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+BCAs 
+BCAs are responsible for:  
+• 
+checking that applications for building consents comply with the Building Code and issuing buildings consents  
+• 
+carrying out inspections to determine whether building work has been carried out in compliance with the consent 
+and the Building Code, and issuing Code Compliance Certificates certifying this  
+• 
+issuing notices to fix, which require a person to remedy a breach of the Building Act or its regulations  
+• 
+compliance schedules. 
+Most territorial authorities are BCAs. They may also contract these services out to other BCAs. Standards of performance 
+are set out in the Building Act. These are currently assessed by International Accreditation New Zealand (IANZ) on behalf of 
+MBIE. Kāinga Ora also has a non-territorial authority BCA called Consentium which provides building compliance services 
+for state homes of up to four levels.  
+3.4 BUILDING PROFESSIONALS AND TRADESPEOPLE 
+Building professionals – such as designers, architects and engineers – are responsible for ensuring building plans and 
+proposals comply with the Building Code.   
+Building professionals and tradespeople ensure the building is built to any consented plans (including any subsequently 
+approved variations). They are also responsible for ensuring that building work (whether a consent is required or not) will 
+meet the requirements of the Building Code.   
+Where it is reasonable to do so, builders also have a responsibility to identify that any consented plans do not meet the 
+Building Code and take steps to ensure that this is addressed before proceeding with building work. 
+3.5 PRODUCT MANUFACTURERS AND SUPPLIERS 
+Building product manufacturers or suppliers are responsible for making sure their products are fit for their purpose and for 
+use in the New Zealand market.  
+From December 2023, building product manufacturers and suppliers will have new legal obligations to make certain 
+information about their products publicly available. This includes information about how the product will contribute to 
+compliance with the Building Code and how it must be installed and maintained in order to perform as intended. These 
+changes, made by the Building (Building Products and Methods, Modular Components, and Other Matters) Amendment 
+Act 2021, will support homeowners, builders and building consent authorities to make better decisions about what 
+products to use. 
+3.6 BUILDING USERS AND BUILDING OWNERS 
+The ultimate customer is the building user, who may also be the building owner. Building users – that is, the general public 
+of New Zealand – have an expectation that buildings are safe to use. The building regulatory system is ultimately aimed at 
+ensuring buildings are safe, healthy and durable, so that New Zealanders can have confidence in their performance. 
+Building owners have a crucial role. They use the system and provide information on their experience. They generally pay 
+the costs associated with producing and processing applications for building consents, and the costs associated with the 
+inspection process and achieving a Code Compliance Certificate.  
+Building owners also choose the building professionals and companies who carry out building work for them. This includes 
+building work to deconstruct a building at the end of its life. 
+Owners have an indirect influence on the performance of the BCAs, through submission of the consent application. They 
+can influence the behaviour of those who submit applications for building consents as they are often the ones who bear 
+the costs of delays, changes, and rework.  
+Building owners are responsible for the ongoing maintenance to protect the building, their investment in it, and the 
+appropriate safety for the people who live and work in those buildings. They are also responsible for building operation, 
+which can result in variable carbon emissions and water usage. 
+ 
+ 
+
+--------------------------------------------------------------------------------
+10 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+4. Oversight, checks and balances 
+The system is designed with checks and balances and a process for ensuring performance. That is, there is someone who is 
+responsible for checking and verifying what has been done and helping ensure the various functions are delivered at an 
+appropriate standard. 
+Who or what 
+How oversight is provided  
+Minister 
+Parliament / New Zealanders / Courts (judicial review). 
+MBIE 
+Minister. 
+MBIE (as the policy agency responsible for the stewardship of the building regulatory 
+system, including MBIE’s own specific regulatory role). 
+Councils / 
+territorial 
+authorities / BCAs 
+IANZ accredits BCA processes to ensure they conform to the expectations defined by 
+MBIE as the regulator. IANZ monitors and assesses BCA performance.   
+MBIE supervises IANZ as IANZ is MBIE’s agent. MBIE registers BCAs after 
+accreditation has been given by IANZ. 
+MBIE undertakes technical reviews of territorial authority functions under the 
+Building Act. 
+If there is a dispute about a BCA decision, those affected can seek a ’determination’ 
+from MBIE. 
+Building 
+professionals 
+(builders, 
+architects, 
+engineers, etc ) 
+MBIE is responsible for setting occupational regulation policy. 
+Six statutory bodies provide regulatory oversight of the various building and 
+construction occupations that are regulated: engineers; architects; engineering 
+associates; builders; electrical workers; and plumbers, gasfitters and drainlayers. 
+MBIE administers the Licensed Building Practitioners scheme (via the Registrar of 
+Licensed Building Practitioners), investigates complaints relating to Registered 
+Electrical Workers, enforces offence provisions relating to unauthorised people 
+carrying out restricted building work, and provides support services to both the 
+Building Practitioners Board and the Electrical Workers Registration Board. 
+Councils review applications and inspect work carried out under a building consent. 
+Products & 
+processes 
+Suppliers / manufacturers produce (or get third parties to produce) a statement to 
+attest to product performance, correct installation and maintenance requirements. 
+Standards NZ, BRANZ, CodeMark providers and others provide attestation of 
+performance / quality assurance / compliance. 
+A large number of organisations provide research services (on products, processes, 
+services). 
+MBIE investigates complaints about substandard products. 
+Note: It is not the role of a BCA to review products and processes other than in 
+association with a specific building consent. 
+The Building Amendment Act 2021 will bring in new responsibilities and functions for 
+modular component and offsite manufacturers.  
+
+--------------------------------------------------------------------------------
+11 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+Annex 1: MBIE’s duties, powers and functions set out in the Building Act  
+MBIE’s Role  
+Meaning 
+Must appoint the Building Advisory Panel (the Panel) 
+and provide information about the Panel 
+Must appoint a Building Advisory Panel and include 
+information about the panel in the Ministry’s annual 
+report. 
+Must take all necessary steps to ensure 
+implementation and administration of the Building 
+Act and review as necessary 
+A broad obligation to ensure the Building Act is 
+implemented. Requires a review of the Building Act ‘when 
+necessary’. 
+Carries out any other functions and duties specified in 
+the Building Act 
+This is a ‘catch all provision’ and captures functions and 
+duties listed in the Building Act, but not in section 11. 
+Carries out any functions that are incidental and 
+related to, or consequential upon, the functions set 
+out 
+This provision captures functions not specifically listed in 
+the Building Act but are inferred. It is a ‘catch all 
+provision’ that provides practical flexibility without 
+broadening MBIE’s Chief Executive’s (CE's) functions.  
+Issues Acceptable Solutions or Verification Methods 
+and reviews those documents 
+An Acceptable Solution or a Verification Method is issued 
+by the CE for use in establishing compliance with the 
+Building Code. 
+Warns against or bans the use of particular building 
+methods or products 
+A warning or a ban can be issued if the CE considers on 
+reasonable grounds that the use of a building method or 
+product has resulted or is likely to result in a building or 
+building work failing to comply with the Building Code. 
+Determines applications for national multiple-use 
+approvals 
+A national multiple use approval establishes that the 
+plans and specifications to which it relates comply with 
+the Building Code. This is known as the MultiProof 
+system. 
+Specifies the kinds of applications for a building 
+consent that must be provided to Fire and Emergency 
+New Zealand under section 46 of the Building Act 
+Allows the CE to determine the types of building consent 
+applications that should be referred to Fire and 
+Emergency New Zealand. 
+Must monitor and report to Minister on current and 
+emerging trends in building design 
+Monitoring and reporting function on ‘emerging trends in 
+building design, building technologies, and other factors’ 
+that may affect the Building Code, Acceptable Solutions 
+and Verification Methods, warnings and bans, guidance 
+and other functions and powers. Requires an annual 
+report. 
+Publishes guidance information on the requirements 
+of the Building Act and the Building Code 
+Publishing guidance on the requirements of the Building 
+Act and the Building Code provides information to the 
+sector about what the requirements are and how to 
+comply with the requirements. Guidance can be prepared 
+more rapidly and be more specific to a situation than an 
+Acceptable Solution or a Verification Method. 
+Registers BCAs that have been accredited to allow 
+them to perform functions under Parts 2 and 3 of the 
+Building Act 
+Registering a person (including a local council) as a BCA. 
+Makes determinations 
+A quasi-judicial function. Relates to whether a particular 
+matter complies with the Building Code or the exercise or 
+failure or refusal to exercise of a power of decision by an 
+authority. 
+
+--------------------------------------------------------------------------------
+12 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+Reviews the operation of territorial authorities, 
+regional authorities, and BCAs in relation to their 
+functions under the Building Act 
+In relation to territorial authorities the CE may review 
+whether a territorial authority is properly performing its 
+functions and duties or powers under the Building Act. 
+Grants and revokes accreditation of BCAs or 
+appoints a building consent accreditation body 
+The CE must decide whether to grant or revoke 
+accreditation of BCAs or appoint a person to be an 
+accreditation body. Currently the CE has appointed IANZ 
+to perform this role. 
+Grants and revokes accreditation of dam owners or 
+appoints a dam owner accreditation body to do so 
+The CE must decide whether to grant or revoke 
+accreditation of dam owners or appoint a person to be an 
+accreditation body. 
+Appoints a product certification accreditation body  
+The CE may appoint a person as a product certification 
+accreditation body. 
+Disseminates information and provides 
+educational programmes on matters relating to 
+building control 
+Disseminating information and providing educational 
+programmes. 
+Takes enforcement action (including taking 
+proceedings for offences under the Building Act) if 
+the CE considers it desirable to do so 
+It is considered desirable to establish or clarify any matter 
+of principle relating to building or the interpretation of 
+the Building Act, if one or more territorial authorities are 
+unwilling or unable to take action or to enforce 
+obligations under Part 4A (Consumer rights and 
+remedies) of the Building Act. 
+Establishes and maintains several information 
+registers  
+The following registers must be established and 
+maintained: 
+- 
+BCAs 
+- 
+Accredited dam owners 
+- 
+Accredited product certification bodies 
+- 
+Certified building methods or products. 
+Appoints the Registrar  
+The CE must appoint under the Public Service Act 2020 a 
+Registrar of Licensed Building Practitioners. 
+Prepares proposed rules  
+Making rules relating to Licensed Building Practitioners 
+including competence standards. 
+Issues infringement notices and authorises persons 
+to issue infringement notices 
+Issuing of infringement notices. 
+May provide dispute resolution services  
+May provide services to assist in the resolution of any 
+dispute arising under a residential building contract. 
+Monitors the application and effectiveness of 
+earthquake-prone buildings 
+The CE is responsible for monitoring the application and 
+effectiveness of earthquake-prone buildings. 
+Oversees post-event assessments 
+The CE approves the methodology in preparation for, and 
+the form of notices, directions, and signs for post-event 
+assessments. 
+Investigation of building failures  
+The CE is responsible for investigating building failures. 
+Oversees qualified pool inspectors  
+The CE accepts (and withdraws acceptance of) 
+independently-qualified pool inspectors. 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------
+13 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+Annex 2: BCA and territorial authority duties, powers and functions set out in the Building Act 
+Role 
+Meaning 
+BCAs 
+Issues building consents, but not if a building 
+consent is required to be subject to a waiver or 
+modification of the Building Code 
+All current registered BCAs are also territorial 
+authorities, so the restriction does not apply. 
+Inspects building work for which it has granted a 
+building consent 
+ 
+Issues notices to fix 
+A notice to fix can be issued by either a BCA or 
+territorial authority. 
+Issues Code Compliance Certificates 
+ 
+Issues compliance schedules 
+Compliance schedules are issued by a BCA in 
+association with a Code Compliance Certificate. 
+Territorial authorities  
+Performs the functions of a BCA set out in subsection 
+(1)(a) (including the issue of building consents 
+subject to a waiver or modification of the building 
+code) of the Building Act if— 
+(i) the territorial authority is also a BCA 
+(ii) an owner applies to the territorial authority for a 
+building consent 
+I 
+Issues project information memoranda 
+Project information memoranda are optional; 
+however, a majority of the same tasks must be 
+undertaken by a territorial authority whether or not a 
+project information memorandum is issued. 
+Grants exemptions under Schedule 1 of the Building 
+Act 
+These are exemptions under Schedule 1 (2) of the 
+Building Act where the territorial authority has 
+discretion on whether specified work requires building 
+consent. 
+Grants waivers and modifications of the Building 
+Code 
+Provisions of the Building Code may be waived or 
+modified by a territorial authority, excluding any that 
+apply to access and facilities for people for disabilities. 
+Issues certificates of acceptance 
+A certificate of acceptance may be issued where a 
+territorial authority believes that the work complies 
+with the Building Code, even though a building consent 
+has not been obtained. 
+Issues and amends compliance schedules  
+The territorial authority issues or amends a compliance 
+schedule where there is no associated building 
+consent. 
+Administers annual building warrants of fitness 
+ 
+Enforces the provisions relating to annual building 
+warrants of fitness 
+ 
+Decides the extent to which buildings must comply 
+with the building code when— 
+(i) they are altered; or 
+(ii) their use is changed; or 
+ 
+This is for the purposes of sections 112, 115, 116 and 
+116A of the Building Act. 
+
+--------------------------------------------------------------------------------
+14 
+BUILDING REGULATORY SYSTEM CHARTER 2022 
+(iii) their specified intended life changes 
+Performs functions relating to dangerous, 
+earthquake-prone, or insanitary buildings 
+ 
+Carries out any other functions and duties specified 
+in this Act 
+This is a ‘catch all provision’ and captures functions 
+and duties listed in the Building Act, but not in section 
+12. This can include for example, issue of a notice to fix 
+for matters other than building consent related work. 
+Carries out any functions that are incidental and 
+related to, or consequential upon, the functions set 
+out in paragraphs (a) to (k) 
+This is a ‘catch all provision’ and captures functions 
+and duties not specifically listed in the Building Act but 
+are inferred. 
+ 
+Note: Regional authorities also have duties, functions and powers in relation to dams under the Building Act that are not 
+listed in this document.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--------------------------------------------------------------------------------

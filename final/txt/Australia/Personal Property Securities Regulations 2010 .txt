@@ -1,0 +1,2910 @@
+ 
+Prepared by the Office of Parliamentary Counsel, Canberra 
+ 
+Personal Property Securities Regulations 2010 
+Select Legislative Instrument No. 291, 2010 
+made under the 
+Personal Property Securities Act 2009 
+Compilation No. 6 
+Compilation date: 
+1 July 2022 
+Includes amendments up to: 
+F2022L00469 
+Registered: 
+1 July 2022 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+About this compilation 
+This compilation 
+This is a compilation of the Personal Property Securities Regulations 2010 that shows the 
+text of the law as amended and in force on 1 July 2022 (the compilation date). 
+The notes at the end of this compilation (the endnotes) include information about amending 
+laws and the amendment history of provisions of the compiled law. 
+Uncommenced amendments 
+The effect of uncommenced amendments is not shown in the text of the compiled law. Any 
+uncommenced amendments affecting the law are accessible on the Legislation Register 
+(www.legislation.gov.au). The details of amendments made up to, but not commenced at, the 
+compilation date are underlined in the endnotes. For more information on any uncommenced 
+amendments, see the series page on the Legislation Register for the compiled law. 
+Application, saving and transitional provisions for provisions and amendments 
+If the operation of a provision or amendment of the compiled law is affected by an 
+application, saving or transitional provision that is not included in this compilation, details are 
+included in the endnotes. 
+Editorial changes 
+For more information about any editorial changes made in this compilation, see the endnotes. 
+Modifications 
+If the compiled law is modified by another law, the compiled law operates as modified but the 
+modification does not amend the text of the law. Accordingly, this compilation does not show 
+the text of the compiled law as modified. For more information on any modifications, see the 
+series page on the Legislation Register for the compiled law. 
+Self-repealing provisions 
+If a provision of the compiled law has been repealed in accordance with a provision of the 
+law, details are included in the endnotes. 
+   
+   
+   
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+i 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Contents 
+Part 1—Preliminary 
+1 
+Division 1—Preliminary 
+1 
+1.1 
+Name of Regulations ......................................................................... 1 
+Division 2—General application of the Act 
+2 
+1.3 
+Application of the Act to external Territories ................................... 2 
+1.4 
+Interests to which the Act does not apply.......................................... 2 
+1.5 
+Interests to which the Act applies ..................................................... 2 
+Division 3—Definitions 
+3 
+1.6 
+Definitions ........................................................................................ 3 
+1.7 
+Meaning of motor vehicle ................................................................. 6 
+1.8 
+Meaning of security interest ............................................................. 7 
+1.9 
+Meaning of PPS lease ....................................................................... 7 
+1.10 
+Meaning of investment instrument .................................................... 7 
+Part 2—General rules for security interests 
+9 
+2.1 
+Taking motor vehicles free of security interests ................................ 9 
+2.2 
+Taking motor vehicles from prescribed persons ............................... 9 
+Part 3—Specific rules for certain security interests 
+10 
+Part 4—Enforcement of security interests 
+11 
+4.1 
+Relationship with consumer credit legislation ................................ 11 
+Part 5—Personal Property Securities Register 
+13 
+5.1 
+Access to register ............................................................................ 13 
+5.2 
+Notification of suspension of access to register .............................. 13 
+5.3 
+What the register contains ............................................................... 13 
+5.4 
+Prohibited registration ..................................................................... 14 
+5.5 
+Financing statements ....................................................................... 15 
+5.6 
+Verification statements—publication as alternative ........................ 15 
+5.7 
+Access to the register prohibited ..................................................... 15 
+5.8 
+Search—criteria .............................................................................. 16 
+5.8A 
+Access to third party data—third party ........................................... 16 
+5.9 
+Administrative process—statements in relation to 
+amendment demand ........................................................................ 16 
+5.10 
+Removal of data .............................................................................. 17 
+Part 6—Judicial proceedings 
+18 
+Part 7—Operation of laws 
+19 
+7.1 
+Concurrent operation of provisions of Corporations Act 
+2001—resolution of inconsistency .................................................. 19 
+Part 8—Miscellaneous 
+20 
+Part 9—Transitional provisions 
+21 
+9.1 
+Transitional meaning of watercraft ................................................. 21 
+9.2 
+Temporary perfection rule—exception ........................................... 21 
+9.3 
+Sunset of Part 9 ............................................................................... 21 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+ 
+ 
+ii 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Schedule 1—Financing statement matters for items of 
+table in subsection 153(1) of Act 
+22 
+Part 1—Matters for items 1 and 2 
+22 
+1.1 
+Definitions for Part 1 ...................................................................... 22 
+1.2 
+Individual secured party or grantor ................................................. 22 
+1.3 
+Body corporate secured party or grantor ......................................... 23 
+1.4 
+Secured party or grantor is a partner ............................................... 24 
+1.5 
+Secured party or grantor is a trustee ................................................ 25 
+1.6 
+Body politic secured party or grantor .............................................. 26 
+Part 2—Matters for item 4 
+27 
+2.1 
+Application of Part 2—personal property that is 
+intermediated security ..................................................................... 27 
+2.2 
+Description by serial number .......................................................... 27 
+2.3 
+Classes of collateral ........................................................................ 29 
+2.4 
+Description of proceeds .................................................................. 29 
+Part 3—Matters for item 7 
+30 
+3.1 
+Purchase money security interest .................................................... 30 
+Part 4—Matters for item 8 
+31 
+4.1 
+Prescribed matters—financing statement ........................................ 31 
+Schedule 2—Financing statement matters for table in 
+section 154 of Act 
+32 
+Part 1—Preliminary 
+32 
+1.1 
+Definitions for Schedule 2 .............................................................. 32 
+Part 2—Matters for item 1 
+33 
+2.1 
+Individuals ...................................................................................... 33 
+2.2 
+Bodies corporate ............................................................................. 34 
+2.3 
+Partners ........................................................................................... 35 
+2.4 
+Trustees ........................................................................................... 35 
+2.5 
+Bodies politic .................................................................................. 36 
+Endnotes 
+38 
+Endnote 1—About the endnotes 
+38 
+Endnote 2—Abbreviation key 
+39 
+Endnote 3—Legislation history 
+40 
+Endnote 4—Amendment history 
+41 
+ 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Preliminary  Part 1 
+Preliminary  Division 1 
+ 
+Regulation 1.1 
+ 
+ 
+Personal Property Securities Regulations 2010 
+1 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 1—Preliminary 
+Division 1—Preliminary 
+1.1  Name of Regulations 
+ 
+ These Regulations are the Personal Property Securities Regulations 2010. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Part 1  Preliminary 
+Division 2  General application of the Act 
+ 
+Regulation 1.3 
+ 
+2 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Division 2—General application of the Act 
+1.3  Application of the Act to external Territories 
+ 
+ For subsection 7(3) of the Act, the following are external Territories: 
+ 
+(a) the Territory of Christmas Island; 
+ 
+(b) the Territory of Cocos (Keeling) Islands. 
+1.4  Interests to which the Act does not apply 
+ 
+(1) For paragraph 8(1)(l) of the Act, the Act does not apply to a right or interest in 
+personal property mentioned in section 260-5 of Schedule 1 to the Taxation 
+Administration Act 1953. 
+ 
+(2) For paragraph 8(1)(l) of the Act, the Act does not apply to an interest in an 
+authority, lease, licence or permit of any kind that is created under the Offshore 
+Minerals Act 1994 or the Offshore Petroleum and Greenhouse Gas Storage 
+Act 2006. 
+ 
+(3) However, subregulation (1A) does not apply to an interest to which 
+paragraph 8(1)(k) of the Act applies. 
+ 
+(4) For paragraph 8(1)(l) of the Act, the Act does not apply to an interest if the 
+grantor of the interest is a company that is: 
+ 
+(a) incorporated under the Companies Act 1985 of the Territory of Norfolk 
+Island; and 
+ 
+(b) not registered under Part 5B.2 of the Corporations Act 2001. 
+Note: 
+For the definition of grantor, see section 10 of the Act. 
+ 
+(5) For item 6 of the table in subsection 8(2) of the Act, section 74 of the Act applies 
+to an interest in personal property mentioned in the following provisions of the 
+Act: 
+ 
+(a) paragraph 8(1)(b); 
+ 
+(b) paragraph 8(1)(c); 
+ 
+(c) subparagraph 8(1)(f)(ii); 
+ 
+(d) subparagraph 8(1)(f)(iv). 
+1.5  Interests to which the Act applies 
+ 
+(1) For subsection 8(3) of the Act, the Act applies to: 
+ 
+(a) a mortgage-backed security; and 
+ 
+(b) if transferred to a person in connection with the issue by the person of a 
+mortgage-backed security—a real property mortgage loan. 
+ 
+(2) In this regulation: 
+mortgage-backed security has the meaning given by section 286 of the Duties 
+Act 2001 (Qld). 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Preliminary  Part 1 
+Definitions  Division 3 
+ 
+Regulation 1.6 
+ 
+ 
+Personal Property Securities Regulations 2010 
+3 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Division 3—Definitions 
+1.6  Definitions 
+ 
+ In these Regulations: 
+ACN (short for ‘Australian Company Number’) is the number given by ASIC to 
+a company on registration under the Corporations Act 2001. 
+Act means the Personal Property Securities Act 2009. 
+agriculture means personal property that is crops or livestock. 
+aircraft means: 
+ 
+(a) a machine or craft that: 
+ 
+(i) can derive support in the atmosphere from the reactions of the air, 
+other than the reactions of the air against the earth’s surface; and 
+ 
+(ii) has nationality and registration marks assigned to it under the Chicago 
+Convention; or 
+ 
+(b) an aircraft engine; or 
+ 
+(c) an airframe; or 
+ 
+(d) a helicopter. 
+aircraft engine has the meaning given by the definition of ‘aircraft engines’ in 
+the Aircraft Protocol. 
+Note: 
+The Aircraft Protocol contains the following definition of ‘aircraft engines’: 
+“aircraft engines” means aircraft engines (other than those used in military, customs or 
+police services) powered by jet propulsion or turbine or piston technology and: 
+(i)  in the case of jet propulsion aircraft engines, have at least 1750 lb of thrust or its 
+equivalent; and 
+(ii)  in the case of turbine-powered or piston-powered aircraft engines, have at least 550 
+rated take-off shaft horsepower or its equivalent, 
+together with all modules and other installed, incorporated or attached accessories, 
+parts and equipment and all data, manuals and records relating thereto. 
+Aircraft Protocol means the Protocol on Matters Specific to Aircraft Equipment, 
+done at Cape Town on 16 November 2001. 
+Note: 
+The Aircraft Protocol is a Protocol to the Convention on International Interests in 
+Mobile Equipment, done at Cape Town on 16 November 2001. 
+airframe has the meaning given by the definition of ‘airframes’ in the Aircraft 
+Protocol. 
+Note: 
+The Aircraft Protocol contains the following definition of ‘airframes’: 
+“airframes” means airframes (other than those used in military, customs or police 
+services) that, when appropriate aircraft engines are installed thereon, are type certified 
+by the competent aviation authority to transport: 
+(i)  at least eight (8) persons including crew; or 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Part 1  Preliminary 
+Division 3  Definitions 
+ 
+Regulation 1.6 
+ 
+4 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+(ii)  goods in excess of 2750 kilograms, 
+together with all installed, incorporated or attached accessories, parts and equipment 
+(other than aircraft engines), and all data, manuals and records relating thereto. 
+all present and after-acquired property means: 
+ 
+(a) personal property over which the grantor has an interest at the registration 
+time for the financing statement for a security interest or prescribed 
+property; and 
+ 
+(b) personal property acquired after the registration time for the financing 
+statement for the security interest or prescribed property. 
+all present and after-acquired property, except means all present and 
+after-acquired property, except for an item or class of personal property stated in 
+the financing statement for the interest. 
+AML-CTF Act means the Anti-Money Laundering and Counter-Terrorist 
+Financing Act 2006. 
+ARBN (short for ‘Australian Registered Body Number’) is the number given by 
+ASIC to a registrable body on registration under Part 5B.2 of the Corporations 
+Act 2001. 
+ARFN has the same meaning as in the Corporations Act 2001. 
+ARSN (short for ‘Australian Registered Scheme Number’) is the number given 
+by ASIC to a registered scheme on registration under section 601EB of the 
+Corporations Act 2001. 
+ASIC means the Australian Securities and Investments Commission. 
+Australian Business Register means the register established under section 24 of 
+the A New Tax System (Australian Business Number) Act 1999. 
+Note: 
+The Australian Business Register can be viewed at http://www.abr.business.gov.au. 
+CCIV has the same meaning as in the Corporations Act 2001. 
+chassis number, for a motor vehicle, means the numbers or letters, or both, that: 
+ 
+(a) are attached to or stamped on the vehicle’s chassis by the vehicle’s 
+manufacturer; and 
+ 
+(b) appears to uniquely identify the vehicle. 
+Chicago Convention means the Convention on International Civil Aviation done 
+at Chicago on 7 December 1944, as amended by the Protocols mentioned in 
+subsection 3A(2) of the Air Navigation Act 1920. 
+helicopter has the meaning given by the definition of ‘helicopters’ in the Aircraft 
+Protocol. 
+Note: 
+The Aircraft Protocol contains the following definition of ‘helicopters’: 
+“helicopters” means heavier-than-air machines (other than those used in military, 
+customs or police services) supported in flight chiefly by the reactions of the air on one 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Preliminary  Part 1 
+Definitions  Division 3 
+ 
+Regulation 1.6 
+ 
+ 
+Personal Property Securities Regulations 2010 
+5 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+or more power-driven rotors on substantially vertical axes and which are type certified 
+by the competent aviation authority to transport: 
+(i)  at least five (5) persons including crew; or 
+(ii) goods in excess of 450 kilograms, 
+together with all installed, incorporated or attached accessories, parts and equipment 
+(including rotors), and all data, manuals and records relating thereto. 
+hull identification number, for a watercraft, means a number that: 
+ 
+(a) is in a form and of a size, specified in one of the following Standards, 
+published by the International Organization for Standardization: 
+ 
+(i) International Standard No ISO 10087:1995 (E), titled ‘Small craft—
+Hull identification—Coding system’; 
+ 
+(ii) International Standard No ISO 10087:2006, titled ‘Small craft—Craft 
+identification—Coding system’; and 
+ 
+(b) is permanently attached to, and located in the positions on, the hull of a 
+vessel specified by a Standard mentioned in paragraph (a); and 
+ 
+(c) is allocated to the watercraft by: 
+ 
+(i) a registration authority of a State or Territory; or 
+ 
+(ii) a person authorised by a registration authority of a State or Territory; 
+or 
+ 
+(iii) the watercraft’s manufacturer; and 
+ 
+(d) appears to uniquely identify the watercraft. 
+manufacturer’s number, for an aircraft or motor vehicle, or an outboard motor 
+to which regulation 9.1 applies, means the numbers or letters, or both, that: 
+ 
+(a) are permanently attached to or stamped on a permanent part of the aircraft, 
+motor vehicle or outboard motor by its manufacturer; and 
+ 
+(b) appears to uniquely identify the aircraft, motor vehicle or outboard motor. 
+migrated security interest has the meaning given by section 332 of the Act. 
+original registration time, for migrated data registered under section 333 of the 
+Act, means the time at which the security interest or prescribed property was first 
+registered on the transitional register. 
+outboard motor means an internal combustion engine that: 
+ 
+(a) has a propeller and a manufacturer’s number; and 
+ 
+(b) is designed to be attached to a boat or vessel; and 
+ 
+(c) is intended for use to propel a boat or vessel. 
+prescribed property means personal property mentioned in subregulation 5.3(1). 
+registered scheme has the meaning given by section 9 of the Corporations Act 
+2001. 
+registration time has the meaning given by subsection 160(1) of the Act. 
+responsible entity has the meaning given by section 9 of the Corporations Act 
+2001. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Part 1  Preliminary 
+Division 3  Definitions 
+ 
+Regulation 1.7 
+ 
+6 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+small aircraft means an aircraft other than an airframe, aircraft engine or 
+helicopter. 
+sub-fund, of a CCIV, has the same meaning as in the Corporations Act 2001. 
+vehicle identification number, for a motor vehicle, means a number allocated to 
+the vehicle in accordance with national standards, as in force from time to time, 
+made under the Motor Vehicle Standards Act 1989. 
+watercraft means a boat or vessel, other than a seaplane, that: 
+ 
+(a) is used, or intended to be used, in navigation by water or for any other 
+purpose on water; and 
+ 
+(b) that has: 
+ 
+(i) a hull identification number; or 
+ 
+(ii) an official number, within the meaning of the Shipping Registration 
+Regulations 2019, issued by the Registrar of Ships (within the 
+meaning of the Shipping Registration Act 1981). 
+Note 1: 
+For the meaning of watercraft, see also regulation 9.1. 
+Note 2: 
+Several other words and expressions used in these Regulations have the meaning given 
+by the Act, for example: 
+ 
+ABN 
+ 
+account 
+ 
+after-acquired property 
+ 
+chattel paper 
+ 
+crops 
+ 
+financial property 
+ 
+goods 
+ 
+intangible property 
+ 
+intermediated security 
+ 
+investment instrument 
+ 
+livestock 
+ 
+National Credit Code 
+ 
+negotiable instrument 
+ 
+transitional register. 
+1.7  Meaning of motor vehicle 
+ 
+(1) For the definition of motor vehicle in section 10 of the Act, personal property 
+described in subregulation (2) or (3) is a motor vehicle. 
+ 
+(2) The personal property: 
+ 
+(a) is built to be propelled, wholly on land, by a motor that forms part of the 
+property; and 
+ 
+(b) is capable of a speed of at least 10 km/h; and 
+ 
+(ba) has one or more motors that have a total power greater than 200 W; and 
+ 
+(c) has any of the following: 
+ 
+(i) a vehicle identification number; 
+ 
+(ii) a chassis number; 
+ 
+(iii) the manufacturer’s number; and 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Preliminary  Part 1 
+Definitions  Division 3 
+ 
+Regulation 1.8 
+ 
+ 
+Personal Property Securities Regulations 2010 
+7 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+ 
+(d) does not run on rails, tram lines or other fixed path. 
+ 
+(3) The personal property: 
+ 
+(a) is capable, when being towed by, or attached to, a motor vehicle, of 
+travelling at a speed greater than 10 km/h; and 
+ 
+(b) is a piece of machinery or equipment that is equipped with wheels and 
+designed to be attached to, or towed by, a motor vehicle; and 
+ 
+(c) has any of the following: 
+ 
+(i) a vehicle identification number; 
+ 
+(ii) a chassis number; 
+ 
+(iii) the manufacturer’s number. 
+1.8  Meaning of security interest 
+ 
+ For paragraph 12(5)(b) of the Act, the extinguishment of a beneficial interest in 
+an account or chattel paper is not a security interest. 
+1.9  Meaning of PPS lease 
+ 
+(1) For paragraph 13(2)(d) of the Act, a lease or bailment is not a PPS lease if it is 
+part of a pooling arrangement. 
+ 
+(2) In subregulation (1): 
+pooling arrangement means an arrangement that includes one or more hire, 
+lease or bailment arrangements, under which: 
+ 
+(a) goods are pooled for the collective use, from time to time, of the parties to 
+one or more hire, lease or bailment arrangements; and 
+ 
+(b) none of the hire, lease or bailment arrangements, in substance, secures 
+payment or performance of an obligation; and 
+ 
+(c) possession of the goods can be passed between multiple users, without the 
+prior approval of the owner, whether or not the goods are passed subject to 
+conditions; and 
+ 
+(d) like goods that are, by nature or usage of trade, the equivalent of the goods 
+hired, leased or bailed under one of the hire, lease or bailment 
+arrangements can be returned, in place of the goods originally hired, leased 
+or bailed. 
+1.10  Meaning of investment instrument 
+ 
+ For paragraph (i) of the definition of investment instrument in section 10 of the 
+Act, the following financial products are prescribed: 
+ 
+(a) an Australian carbon credit unit, within the meaning of section 5 of the 
+Carbon Credits (Carbon Farming Initiative) Act 2011; 
+ 
+(b) a carbon unit, within the meaning of section 5 of the Clean Energy Act 
+2011; 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Part 1  Preliminary 
+Division 3  Definitions 
+ 
+Regulation 1.10 
+ 
+8 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+ 
+(c) each eligible international emissions unit mentioned in paragraphs (a), (b), 
+(c) and (d) of the definition of eligible international emissions unit in 
+section 4 of the Australian National Registry of Emissions Units Act 2011. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+General rules for security interests  Part 2 
+   
+ 
+Regulation 2.1 
+ 
+ 
+Personal Property Securities Regulations 2010 
+9 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 2—General rules for security interests 
+   
+2.1  Taking motor vehicles free of security interests 
+Incorrect or missing serial number 
+ 
+(1) For subsection 45(1) of the Act, a motor vehicle described in regulation 1.7 is 
+prescribed. 
+ 
+(2) However, in the period that ends at the end of the month that is 24 months after 
+the registration commencement time, a motor vehicle described in regulation 1.7 
+is taken not to be prescribed for subsection 45(1) of the Act if: 
+ 
+(a) it is subject to a transitional security interest; and 
+ 
+(b) before the registration commencement time, it was not possible to register 
+the transitional security interest by serial number on a transitional register 
+of a State or Territory that registered security interests in motor vehicles. 
+Taking from prescribed persons 
+ 
+(3) For subsection 45(3) of the Act, a motor vehicle described in regulation 1.7 is 
+prescribed. 
+2.2  Taking motor vehicles from prescribed persons 
+ 
+ For paragraph 45(3)(b) of the Act, the seller or lessor of a motor vehicle is in a 
+prescribed class if the seller or lessor: 
+ 
+(a) holds a licence (however described) to deal or trade in that kind of motor 
+vehicle; and 
+ 
+(b) the licence is issued by a licensing authority in the State or Territory where 
+the sale or lease of the motor vehicle happens. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Part 3  Specific rules for certain security interests 
+   
+ 
+Regulation 2.2 
+ 
+10 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 3—Specific rules for certain security interests 
+   
+Note: 
+This Part heading is reserved for future use. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Enforcement of security interests  Part 4 
+   
+ 
+Regulation 4.1 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+11 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 4—Enforcement of security interests 
+   
+4.1  Relationship with consumer credit legislation 
+ 
+ For subsection 119(2) of the Act, a provision in Chapter 4 of the Act mentioned 
+in an item of the table is taken to have been complied with, in the circumstances 
+for the Act mentioned in the item, if a provision of the National Credit Code (the 
+NCC) mentioned in the item has been complied with, in the circumstances for 
+the NCC mentioned in the item. 
+ 
+Item 
+Provision of 
+Act 
+Circumstances for 
+Act 
+Provision of 
+NCC 
+Circumstances for NCC 
+1 
+Section 130 
+At least 10 business 
+days before collateral 
+is to be disposed of, 
+the secured party 
+gives notice to the 
+grantor and to any 
+secured party with a 
+higher priority 
+Section 102 
+Within 14 days after taking 
+possession of collateral under 
+a mortgage, the secured party 
+provides a notice to the debtor, 
+and does not sell the goods 
+within 21 days after providing 
+the notice 
+2 
+Sections 128 
+and 131 
+After seizing 
+collateral, a secured 
+party disposes of the 
+collateral by sale, 
+lease or licence, 
+having first obtained 
+the market value or, if 
+the collateral does not 
+have a market value, 
+the best price 
+reasonably available 
+Section 104 
+An outstanding obligation has 
+not been paid within 21 days 
+after receiving a notice under 
+section 102 of the National 
+Credit Code and the secured 
+party sells the goods, in 
+accordance with section 103, 
+for at least the estimated 
+value, to a nominated person 
+or to another person for the 
+best price reasonably available 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Part 4  Enforcement of security interests 
+   
+ 
+Regulation 4.1 
+ 
+ 
+12 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Item 
+Provision of 
+Act 
+Circumstances for 
+Act 
+Provision of 
+NCC 
+Circumstances for NCC 
+3 
+Section 132 
+After the sale of 
+mortgaged goods, a 
+secured party, on 
+request by the 
+grantor, higher 
+secured parties and 
+the debtor, gives a 
+notice that contains 
+the following 
+information: 
+(a) the total amount 
+received from the 
+sale; 
+(b) the enforcement 
+expenses, 
+amounts paid to 
+other secured 
+parties; 
+(c) amounts paid to 
+other secured 
+parties; 
+(d) the balance owing 
+to the grantor or 
+by the debtor to 
+the secured party 
+Subsection 104(3) 
+After the sale of mortgaged 
+goods, a secured party gives 
+the mortgagor a notice that 
+contains the following 
+information: 
+(a) the gross amount realised; 
+(b) the net proceeds of the 
+sale; 
+(c) the amount required to pay 
+out the credit contract; 
+(d) any further recovery action 
+that the secured party 
+intends to take against the 
+grantor; 
+(e) any other information 
+prescribed by these 
+Regulations 
+4 
+Section 140 
+A secured party 
+distributes funds 
+received in the 
+following order: 
+(a) interests with a 
+higher priority; 
+(b) enforcement 
+costs; 
+(c) higher ranking 
+security interests; 
+(d) the secured 
+interests of the 
+enforcing party; 
+(e) lower priority 
+security interests; 
+(f) the grantor 
+Section 105 
+A secured party deducts the 
+following amounts from any 
+money received from a sale: 
+(a) the secured amount that is 
+outstanding; 
+(b) the amount payable to 
+discharge any prior 
+mortgage; 
+(c) the amounts payable to 
+discharge any subsequent 
+mortgages of which the 
+secured party has notice; 
+(d) the secured party’s 
+reasonable enforcement 
+expenses 
+ 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Personal Property Securities Register  Part 5 
+   
+ 
+Regulation 5.1 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+13 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 5—Personal Property Securities Register 
+   
+5.1  Access to register 
+ 
+ For paragraph 147(4)(b) of the Act, the Registrar may suspend the operation of 
+the register for up to 4 hours, after giving notice of the suspension in accordance 
+with subsection 147(6) of the Act at least 7 days before the suspension. 
+5.2  Notification of suspension of access to register 
+ 
+ For paragraph 147(6)(a) of the Act, the Registrar must publish the notice on a 
+website maintained by the Registrar on the Internet. 
+5.3  What the register contains 
+ 
+(1) For paragraph 148(c) of the Act, the following types of personal property are 
+prescribed: 
+ 
+(a) a motor vehicle that has been impounded, immobilised or forfeited, or is 
+subject to an impoundment, immobilisation or forfeiture application, under 
+a law that provides for impoundment, immobilisation or forfeiture of a 
+motor vehicle because it is being used, or has been used, in the commission 
+of certain offences; 
+ 
+(b) personal property that is subject to a notice or an order, or is confiscated or 
+forfeited, under a provision of a proceeds of crime law; 
+ 
+(c) personal property that is subject to an order of a court or tribunal (however 
+described) that: 
+ 
+(i) prevents or restricts a person dealing with the property; or 
+ 
+(ii) enforces another court order (however described); or 
+ 
+(iii) orders the sale or other disposal of all or part of the property; 
+ 
+(d) personal property that: 
+ 
+(i) is not mentioned in paragraph (a), (b) or (c); and 
+ 
+(ii) immediately before the registration commencement time, could have 
+been registered on a transitional register maintained under a law of the 
+Commonwealth, a State or a Territory. 
+Note: 
+For subparagraph (d)(ii), transitional register has the meaning given by section 330 of 
+the Act. 
+ 
+(2) In this regulation: 
+court order does not include an order made under a proceeds of crime law. 
+proceeds of crime law means: 
+ 
+(a) the Mutual Assistance in Criminal Matters Act 1987; or 
+ 
+(b) the Proceeds of Crime Act 1987; or 
+ 
+(c) the Proceeds of Crime Act 2002; or 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Part 5  Personal Property Securities Register 
+   
+ 
+Regulation 5.4 
+ 
+ 
+14 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+ 
+(d) a law of a State or Territory that is a corresponding law within the meaning 
+given by section 338 of the Proceeds of Crime Act 2002. 
+5.4  Prohibited registration 
+ 
+(1) For paragraph 150(3)(d) of the Act, the following registrations are prohibited: 
+ 
+(a) a registration of a financing statement or a financing change statement for a 
+motor vehicle mentioned in paragraph 5.3(1)(a), if the application for 
+registration is made by a person other than: 
+ 
+(i) a police commissioner; or 
+ 
+(ii) a person authorised to register personal property on a transitional 
+register; or 
+ 
+(iii) a person authorised by a relevant agency to register data in relation to 
+prescribed property; 
+ 
+(b) a registration of a financing statement or a financing change statement for 
+personal property mentioned in paragraph 5.3(1)(b), if the application for 
+registration is made by a person other than: 
+ 
+(i) a proceeds of crime authorised person; or 
+ 
+(ii) a person authorised to register personal property on a transitional 
+register; or 
+ 
+(iii) a person authorised by a relevant agency to register data in relation to 
+prescribed property; 
+ 
+(c) a registration of a financing statement or a financing change statement for 
+personal property that is subject to an order of a court or tribunal (however 
+described) mentioned in paragraph 5.3(1)(c), if the application for 
+registration is made by a person other than: 
+ 
+(i) the person who applied for the order; or 
+ 
+(ii) if the order was made on the court’s own initiative—the person in 
+whose favour the order is made; 
+ 
+(d) a registration of a financing statement or a financing change statement for 
+personal property that is mentioned in paragraph 5.3(1)(d), if the 
+application for registration is made by a person other than: 
+ 
+(i) a person authorised to register personal property on a transitional 
+register; or 
+ 
+(ii) a person authorised by a relevant agency to register data in relation to 
+prescribed property; 
+ 
+(e) a registration of a financing statement or a financing change statement for 
+property prescribed under paragraph 148(c) of the Act, if the registration is 
+in relation to a security interest in the property. 
+ 
+(2) In this regulation: 
+court order does not include an order made under a proceeds of crime law. 
+police commissioner means: 
+ 
+(a) the Commissioner of the Australian Federal Police; or 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Personal Property Securities Register  Part 5 
+   
+ 
+Regulation 5.5 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+15 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+ 
+(b) the head (however described) of the police force or service of a State or 
+Territory. 
+proceeds of crime authorised person means: 
+ 
+(a) an appropriate officer under the Proceeds of Crime Act 1987; or 
+ 
+(b) an authorised officer under the Proceeds of Crime Act 2002; or 
+ 
+(c) an authorised person (however described) under a law of a State or 
+Territory that is a corresponding law within the meaning of the Proceeds of 
+Crime Act 2002, whose duties correspond to the duties of an authorised 
+officer under that Act. 
+proceeds of crime law means: 
+ 
+(a) the Mutual Assistance in Criminal Matters Act 1987; or 
+ 
+(b) the Proceeds of Crime Act 1987; or 
+ 
+(c) the Proceeds of Crime Act 2002; or 
+ 
+(d) a law of a State or Territory that is a corresponding law within the meaning 
+of the Proceeds of Crime Act 2002. 
+relevant agency means an agency that administers: 
+ 
+(a) a law of the Commonwealth, a State or a Territory that establishes a 
+transitional register; or 
+ 
+(b) any other law of the Commonwealth, a State or a Territory that provides 
+for registration of personal property on a transitional register. 
+5.5  Financing statements 
+ 
+(1) Schedule 1 sets out matters prescribed for items of the table in subsection 153(1) 
+of the Act. 
+ 
+(2) Schedule 2 sets out matters prescribed for items of the table in section 154 of the 
+Act. 
+5.6  Verification statements—publication as alternative 
+ 
+(1) For subsection 158(1) of the Act, the Registrar may publish a verification 
+statement by publishing the statement on a website maintained by the Registrar 
+on the Internet. 
+ 
+(2) A statement published under subregulation (1) must not include the date of birth 
+of a grantor. 
+5.7  Access to the register prohibited 
+ 
+(1) For paragraph 170(3)(d) of the Act, access to data on the register is prohibited if: 
+ 
+(a) a court has ordered that access to the data is not permitted; or 
+ 
+(b) the Registrar considers that it is in the public interest that access to the data 
+should not be permitted. 
+ 
+(2) For paragraph (1)(b), the Registrar must take into account the following matters: 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Part 5  Personal Property Securities Register 
+   
+ 
+Regulation 5.8 
+ 
+ 
+16 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+ 
+(a) whether it is necessary to prevent or lessen a serious and imminent threat to 
+the life or health of the individual whose personal details are recorded in 
+the financing statement or of another person; 
+ 
+(b) the interests of a person undertaking a search authorised by section 171 or 
+172 of the Act; 
+ 
+(c) the interests of the secured party in ensuring that notice of the security 
+interest is accessible by authorised searchers; 
+ 
+(d) whether, in all the circumstances, the public interest in protecting the 
+privacy of the individual grantor’s information outweighs the public 
+interest in providing access to data. 
+5.8  Search—criteria 
+ 
+ For subsection 171(2) of the Act, the method by which the results of a search are 
+to be worked out must allow for case-insensitive searching. 
+5.8A  Access to third party data—third party 
+ 
+ For subsection 176C(1) of the Act, Austroads Ltd (ABN 16 245 787 323) is a 
+prescribed person. 
+Note: 
+Under subsection 176C(1) of the Act, a prescribed person becomes a ‘third party’. The 
+Registrar may make an arrangement with a third party so that actions mentioned in the 
+subsection, relating to data held by the third party, may be taken. 
+5.9  Administrative process—statements in relation to amendment demand 
+ 
+ For paragraph 180(3)(b) of the Act, the following statements must be made on 
+the form: 
+ 
+(a) that the person has given an amendment demand to the secured party, as 
+required by section 178 of the Act; 
+ 
+(b) that the amendment demand was given at least 5 business days before the 
+day that the statement was given to the Registrar; 
+ 
+(c) that: 
+ 
+(i) no collateral described in the registration secures any obligation 
+(including a payment) owed by a debtor to the secured party; or 
+ 
+(ii) the collateral in which the person has an interest does not secure any 
+obligation (including a payment) owed by a debtor to the secured 
+party; 
+ 
+(d) that: 
+ 
+(i) the approved form is accompanied by any written response to the 
+amendment demand received from the secured party; or 
+ 
+(ii) no written response was received from the secured party; 
+ 
+(e) that there are no proceedings currently before a court (including a court of 
+appeal) that relate to the amendment demanded; 
+ 
+(f) that the person will notify the Registrar if proceedings that relate to the 
+amendment demanded come before a court (including a court of appeal); 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Personal Property Securities Register  Part 5 
+   
+ 
+Regulation 5.10 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+17 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+ 
+(g) that the security agreement providing for the security interest is not an 
+instrument or other document: 
+ 
+(i) by which a person issues or guarantees, or provides for the issue or 
+guarantee of, an obligation secured by a security interest; or 
+ 
+(ii) in which another person is appointed as trustee for the person to 
+whom the obligation secured by the security interest is owed; 
+ 
+(h) that the information contained in the form is correct. 
+5.10  Removal of data 
+ 
+(1) For paragraph 184(1)(c) of the Act, the Registrar may remove data from the 
+register if the removal of the data is required by a court order. 
+ 
+(2) For subparagraph 184(1)(e)(ii) of the Act, removal of data is required urgently if 
+a court order requires the data to be removed urgently. 
+ 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Part 6  Judicial proceedings 
+   
+ 
+ 
+ 
+18 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 6—Judicial proceedings 
+   
+Note: 
+This Part heading is reserved for future use. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Operation of laws  Part 7 
+   
+ 
+Regulation 7.1 
+ 
+ 
+Personal Property Securities Regulations 2010 
+19 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 7—Operation of laws 
+   
+7.1  Concurrent operation of provisions of Corporations Act 2001—resolution of 
+inconsistency 
+ 
+ For subsection 255(1) of the Act, paragraph 32(1)(a) of the Act does not apply to 
+a matter set out in the table. 
+ 
+Item 
+Matter 
+1 
+A compromise or arrangement, under Part 5.1 of the Corporations Act 2001, that provides 
+for the transfer or cancellation of securities 
+2 
+A resolution, under section 601GC of the Corporations Act 2001, that provides for transfer 
+or cancellation of interests in a registered managed investment scheme 
+3 
+A compulsory acquisition of securities under Part 6A.1 or 6A.2 of the Corporations Act 
+2001 
+ 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Part 8  Miscellaneous 
+   
+ 
+ 
+ 
+20 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 8—Miscellaneous 
+   
+Note: 
+This Part heading is reserved for future use. 
+ 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+   
+Transitional provisions  Part 9 
+   
+ 
+Regulation 9.1 
+ 
+ 
+Personal Property Securities Regulations 2010 
+21 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 9—Transitional provisions 
+   
+9.1  Transitional meaning of watercraft 
+ 
+ The definition of watercraft in regulation 1.6 includes an outboard motor that 
+has a manufacturer’s number if: 
+ 
+(a) the outboard motor is subject to a transitional security interest; and 
+ 
+(b) before the registration commencement time, the outboard motor was 
+registered on a transitional register, under legislation that conferred priority 
+on security interests that are registered. 
+ 
+9.2  Temporary perfection rule—exception 
+ 
+(1) For subsection 322(3) of the Act, a transitional security interest is prescribed if, 
+before the registration commencement time it was: 
+ 
+(a) registrable on a transitional register, under legislation that conferred 
+priority on security interests that are registered; and 
+ 
+(b) not registered. 
+ 
+(2) Subregulation (1) does not apply to a transitional security interest if: 
+ 
+(a) it is a charge that, under section 262 of the Corporations Act 2001, is 
+required to be registered; and 
+ 
+(b) for subsection 265(9) of Corporations Act 2001, it is taken not to have 
+been registered. 
+9.3  Sunset of Part 9 
+ 
+ This Part ceases to have effect after the end of the month that is 24 months after 
+the registration commencement time. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Schedule 1  Financing statement matters for items of table in subsection 153(1) of Act 
+Part 1  Matters for items 1 and 2 
+ 
+ 
+22 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Schedule 1—Financing statement matters for items of 
+table in subsection 153(1) of Act 
+(subregulation 5.5(1)) 
+Part 1—Matters for items 1 and 2 
+1.1  Definitions for Part 1 
+ 
+ In this Part: 
+individual: 
+ 
+(a) includes a sole trader who has an ABN for the enterprise for which the 
+security interest is granted or held; and 
+ 
+(b) does not include an individual who is a partner in a partnership or a trustee 
+of a trust if the partnership or trust has an ABN for the enterprise for which 
+the security interest is granted or held. 
+1.2  Individual secured party or grantor 
+ 
+(1) For items 1 and 2 of the table in subsection 153(1) of the Act, this clause applies 
+if the secured party or grantor is an individual. 
+ 
+(2) The details mentioned in each item of the table, from the source mentioned for 
+the item, are prescribed for the individual mentioned in the item. 
+ 
+(3) For subclause (2), the prescribed details are the details mentioned in the item of 
+the table that: 
+ 
+(a) applies to the individual; and 
+ 
+(b) has the lowest item number. 
+ 
+(4) For a grantor, in addition to the details mentioned in each item of the table, the 
+grantor’s date of birth is prescribed. 
+ 
+(5) The source for a grantor’s date of birth is the source in an item of the table that: 
+ 
+(a) includes details of dates of birth; and 
+ 
+(b) applies to the grantor; and 
+ 
+(c) has the lowest item number. 
+ 
+(6) Item 1 of the table applies only to a registration by the Registrar under 
+subsection 333(2) of the Act. 
+ 
+Item 
+Individual 
+Details 
+Source 
+1 
+Individual whose details 
+are recorded in a 
+transitional register, for a 
+migrated security interest 
+Individual’s surname and given 
+names, as recorded on the 
+transitional register 
+Transitional register 
+2 
+Individual grantor who is 
+Individual’s surname and given 
+Current data known by the 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Financing statement matters for items of table in subsection 153(1) of Act  Schedule 1 
+Matters for items 1 and 2  Part 1 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+23 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Item 
+Individual 
+Details 
+Source 
+known to the secured 
+party, because of the 
+operation of the 
+AML-CTF Act 
+names, as known to the secured 
+party, because of the operation of 
+the AML-CTF Act 
+secured party, because of 
+the operation of the 
+AML-CTF Act 
+3 
+Individual who holds a 
+current driver’s licence 
+Individual’s surname and given 
+names, as recorded on the 
+individual’s driver’s licence 
+Current driver’s licence 
+issued by a State or 
+Territory licensing 
+authority to the individual 
+4 
+Individual who holds a 
+current proof of identity 
+or current proof of age 
+card 
+Individual’s surname and given 
+names, as recorded on a proof of 
+identity or proof of age card 
+issued by a State or Territory 
+body 
+Current proof of identity or 
+current proof of age card 
+issued by a State or 
+Territory body to the 
+individual 
+5 
+Individual who holds a 
+current Australian 
+passport 
+Individual’s surname and given 
+names, as recorded on the 
+individual’s current Australian 
+passport 
+Current Australian passport 
+issued to the individual 
+6 
+Individual who holds a 
+current visa, issued by the 
+Australian Government 
+Individual’s surname and given 
+names, as recorded on the 
+individual’s current Australian 
+visa 
+Current Australian visa 
+issued for the individual 
+7 
+Individual who holds a 
+current passport other 
+than an Australian 
+passport 
+Individual’s surname and given 
+names, as recorded on the 
+individual’s current passport 
+issued by the jurisdiction in which 
+the individual ordinarily resides 
+Current passport issued by 
+the jurisdiction in which 
+the individual ordinarily 
+resides 
+8 
+Any other individual 
+Individual’s surname and given 
+names, as recorded on the 
+individual’s birth certificate 
+Birth certificate issued for 
+the individual 
+1.3  Body corporate secured party or grantor 
+ 
+(1) For items 1 and 2 of the table in subsection 153(1) of the Act, this clause applies 
+if the secured party or grantor is a body corporate that: 
+ 
+(a) is a trustee and has an ARSN; or 
+ 
+(b) is not a trustee of a trust that has an ABN. 
+ 
+(2) The details mentioned in each item of the table, from the source mentioned for 
+the item, are prescribed for the body corporate mentioned in the item. 
+ 
+(3) For subclause (2), the prescribed details are the details mentioned in the item of 
+the table that: 
+ 
+(a) applies to the body corporate; and 
+ 
+(b) has the lowest item number. 
+ 
+(4) Item 1 of the table applies only to a registration by the Registrar under 
+subsection 333(2) of the Act. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Schedule 1  Financing statement matters for items of table in subsection 153(1) of Act 
+Part 1  Matters for items 1 and 2 
+ 
+ 
+24 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+ 
+Item 
+Body corporate 
+Details 
+Source 
+1 
+Body corporate for which 
+details have been included on 
+the transitional register, for a 
+migrated security interest 
+Body corporate number or name 
+of body corporate, as recorded 
+on the transitional register 
+Transitional register 
+2 
+Body corporate that is the 
+responsible entity of a 
+registered scheme, if the 
+scheme has an ARSN 
+Registered scheme’s ARSN 
+A business register 
+kept by ASIC 
+2.5 
+Body corporate that is a CCIV, 
+if the CCIV is the secured party 
+or grantor for a sub-fund of the 
+CCIV and the sub-fund has an 
+ARFN 
+Sub-fund’s ARFN 
+A business register 
+kept by ASIC 
+3 
+Body corporate that has an 
+ACN 
+ACN 
+A business register 
+kept by ASIC 
+4 
+Body corporate that has an 
+ARBN 
+ARBN 
+A business register 
+kept by ASIC 
+5 
+Any other body corporate 
+Name of body corporate, as 
+provided for in body corporate’s 
+constitution or equivalent 
+document 
+Body corporate’s 
+constitution or 
+equivalent document 
+1.4  Secured party or grantor is a partner 
+ 
+(1) For items 1 and 2 of the table in subsection 153(1) of the Act, this clause applies 
+if the secured party or grantor is a partner in a partnership. 
+ 
+(2) The details mentioned in each item of the table, from the source mentioned for 
+the item, are prescribed for the partner mentioned in the item. 
+ 
+(3) For subclause (2), the prescribed details are the details mentioned in the item of 
+the table that: 
+ 
+(a) applies to the partner; and 
+ 
+(b) has the lowest item number. 
+ 
+(4) Item 1 of the table applies only to a registration by the Registrar under 
+subsection 333(2) of the Act. 
+ 
+(5) Despite subclause (2), if an individual partner grants a security interest over the 
+partner’s net interest in a partnership, the prescribed details are the details 
+mentioned in the item of the table in clause 1.2 that: 
+ 
+(a) applies to the partner; and 
+ 
+(b) has the lowest item number. 
+ 
+(6) Despite item 3 of the table, if a body corporate is a partner in a partnership that 
+does not have an ABN, the prescribed details are the details mentioned in the 
+item of the table in clause 1.3 that: 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Financing statement matters for items of table in subsection 153(1) of Act  Schedule 1 
+Matters for items 1 and 2  Part 1 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+25 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+ 
+(a) applies to the body corporate; and 
+ 
+(b) has the lowest item number. 
+ 
+Item 
+Partner 
+Details 
+Source 
+1 
+Partner of a partnership for which 
+details of the partnership have 
+been included on the transitional 
+register, for a migrated security 
+interest 
+ABN, name of partner or 
+name that identifies 
+partnership, as recorded 
+on the transitional register 
+Transitional register 
+2 
+Partner of a partnership that holds 
+or has an interest in collateral in 
+the course of, or for, an enterprise 
+that has been allocated an ABN 
+ABN 
+Australian Business 
+Register 
+3 
+Partner in any other partnership 
+Details mentioned in the 
+item in the table in 
+clause 1.2 that applies to 
+the partner 
+Source of the details 
+mentioned in the item in 
+the table in clause 1.2 that 
+applies to the partner 
+1.5  Secured party or grantor is a trustee 
+ 
+(1) For items 1 and 2 of the table in subsection 153(1) of the Act, this clause applies 
+if the secured party or grantor is: 
+ 
+(a) a body corporate that is a trustee of a trust that: 
+ 
+(i) has an ABN; and 
+ 
+(ii) does not have an ARSN; or 
+ 
+(b) any other trustee of a trust. 
+ 
+(2) The details mentioned in each item of the table, from the source mentioned for 
+the item, are prescribed for the trustee mentioned in the item. 
+ 
+(3) For subclause (2), the prescribed details are: 
+ 
+(a) for a trustee that is an individual—the details mentioned in the item of the 
+table in clause 1.2 that: 
+ 
+(i) applies to the trustee; and 
+ 
+(ii) has the lowest item number; and 
+ 
+(b) in any other case—the details mentioned in the item of the table that: 
+ 
+(i) applies to the trustee; and 
+ 
+(ii) has the lowest item number. 
+ 
+(4) In this clause: 
+trustee details means: 
+ 
+(a) the ABN allocated to the enterprise carried on by the trust; or 
+ 
+(b) the ACN or ARBN allocated to the trustee; or 
+ 
+(c) the name of the trust or trustee. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Schedule 1  Financing statement matters for items of table in subsection 153(1) of Act 
+Part 1  Matters for items 1 and 2 
+ 
+ 
+26 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+ 
+(5) Item 1 of the table applies only to a registration by the Registrar under 
+subsection 333(2) of the Act. 
+ 
+Item 
+Trustee 
+Details 
+Source 
+1 
+Trustee of a trust for which 
+details have been included on the 
+transitional register, for a 
+migrated security interest  
+Trustee details, as recorded 
+on the transitional register  
+Transitional register 
+2 
+Trustee of a trust that holds or 
+has an interest in collateral in the 
+course of, or for, an enterprise 
+that has been allocated an ABN 
+ABN 
+Australian Business 
+Register 
+3 
+Trustee of any other trust 
+Trustee details mentioned in 
+paragraph (3)(a) 
+Source mentioned in 
+paragraph (3)(a) 
+1.6  Body politic secured party or grantor 
+ 
+(1) For items 1 and 2 of the table in subsection 153(1) of the Act, this clause applies 
+if the secured party or grantor is a body politic. 
+ 
+(2) The details mentioned in each item of the table, from the source mentioned for 
+the item, are prescribed for the body politic mentioned in the item. 
+ 
+(3) For subclause (2), the prescribed details are the details mentioned in the item of 
+the table that: 
+ 
+(a) applies to the body politic; and 
+ 
+(b) has the lowest item number. 
+ 
+(4) Item 1 of the table applies only to a registration by the Registrar under 
+subsection 333(2) of the Act. 
+ 
+Item 
+Body politic 
+Details 
+Source 
+1 
+Body politic for which details have been 
+included on the transitional register, for a 
+migrated security interest 
+Body politic details, as 
+recorded on the transitional 
+register 
+Transitional 
+register 
+2 
+Body politic that holds or has an interest 
+in collateral in course of, or for, an 
+enterprise that has been allocated an ABN 
+ABN 
+Australian 
+Business 
+Register 
+3 
+Body politic or has an interest in 
+collateral, other than in the course of, or 
+for, an enterprise that has been allocated 
+an ABN 
+Name of body politic, in 
+accordance with 
+constitution of body politic 
+Constitution of 
+body politic 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Financing statement matters for items of table in subsection 153(1) of Act  Schedule 1 
+Matters for item 4  Part 2 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+27 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 2—Matters for item 4 
+2.1  Application of Part 2—personal property that is intermediated security 
+ 
+ For this Part, personal property that is intermediated security is to be treated as 
+financial property. 
+2.2  Description by serial number 
+ 
+(1) For paragraph (b) of item 4 of the table in subsection 153(1) of the Act: 
+ 
+(a) the following classes of collateral, when described as consumer property, 
+must be described by serial number: 
+ 
+(i) aircraft; 
+ 
+(ii) intangible property that is: 
+ 
+(A) a design; or 
+ 
+(B) a patent; or 
+ 
+(C) a plant breeder’s right; or 
+ 
+(D) a trade mark; or 
+ 
+(E) a licence over any intangible property mentioned in 
+sub-subparagraphs (A) to (D). 
+ 
+(iii) motor vehicles; 
+ 
+(iv) watercraft; and 
+ 
+(b) aircraft that is an aircraft engine, airframe, helicopter or small aircraft, 
+when described as commercial property, must be described by serial 
+number; and 
+ 
+(c) the following classes of collateral, when described as commercial property, 
+may be described by serial number: 
+ 
+(i) motor vehicles; 
+ 
+(ii) watercraft; 
+ 
+(iii) intangible property that is: 
+ 
+(A) a design; or 
+ 
+(B) a patent; or 
+ 
+(C) a plant breeder’s right; or 
+ 
+(D) a trade mark; or 
+ 
+(E) a licence over any intangible property mentioned in 
+sub-subparagraphs (A) to (D). 
+ 
+(2) If sub-subparagraph (1)(a)(ii)(E) or (1)(c) (iii)(E) applies, the licence must be 
+described by the serial number of the right for which the licence is given. 
+ 
+(3) For paragraph (b) of item 4 of the table in subsection 153(1) of the Act, a 
+description of collateral by serial number must include the following 
+information: 
+ 
+(a) for an aircraft that is an aircraft engine, airframe or helicopter: 
+ 
+(i) the manufacturer’s number; and 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Schedule 1  Financing statement matters for items of table in subsection 153(1) of Act 
+Part 2  Matters for item 4 
+ 
+ 
+28 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+ 
+(ii) the manufacturer’s name; and 
+ 
+(iii) the manufacturer’s generic model designator; 
+ 
+(b) for a small aircraft—the nationality and registration marks assigned to it 
+under the Chicago Convention; 
+ 
+(c) for a motor vehicle: 
+ 
+(i) the vehicle identification number; or 
+ 
+(ii) if it has no vehicle identification number but has a chassis number—
+the chassis number; or 
+ 
+(iii) if it has no vehicle identification number or chassis number—the 
+manufacturer’s number; 
+ 
+(d) for watercraft: 
+ 
+(i) the official number; or 
+ 
+(ii) if it does not have an official number—the hull identification number; 
+or 
+ 
+(iii) if it is an outboard motor for regulation 1.6—the manufacturer’s 
+number; 
+ 
+(e) for a design: 
+ 
+(i) the design number issued by IP Australia; or 
+ 
+(ii) if it does not have a design number—the design application number 
+issued by IP Australia; 
+ 
+(f) for a patent: 
+  
+(i) the patent number issued by IP Australia; or 
+ 
+(ii) if it does not have a patent number—the patent application number 
+issued by IP Australia; or 
+ 
+(iii) if it does not have a patent number or a patent application number—a 
+PCT number; 
+ 
+(g) for a plant breeder’s right: 
+ 
+(i) the plant breeder’s right number issued by IP Australia; or 
+ 
+(ii) if it does not have a plant breeder’s right number—the plant breeder’s 
+right application number issued by IP Australia; 
+ 
+(h) for a trade mark: 
+  
+(i) the trade mark number issued by IP Australia; or 
+ 
+(ii) if it does not have a trade mark number—the trade mark application 
+number issued by IP Australia. 
+ 
+(4) In this clause: 
+PCT number means: 
+ 
+(a) an international application number, issued under paragraph 30(2)(b) of the 
+Patent Cooperation Treaty done at Washington 19 June 1970, amended on 
+2 October 1979 and modified on 3 February 1984 and 3 October 2001; or 
+ 
+(b) if there is no international application number—an international 
+publication number issued by the World Intellectual Property Organization. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Financing statement matters for items of table in subsection 153(1) of Act  Schedule 1 
+Matters for item 4  Part 2 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+29 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+2.3  Classes of collateral 
+ 
+(1) For paragraph (c) of item 4 of the table in subsection 153(1) of the Act, the 
+following classes of collateral are prescribed: 
+ 
+(a) agriculture; 
+ 
+(b) aircraft; 
+ 
+(c) all present and after-acquired property; 
+ 
+(d) all present and after-acquired property, except; 
+ 
+(e) financial property; 
+ 
+(f) intangible property; 
+ 
+(g) motor vehicles; 
+ 
+(h) other goods; 
+ 
+(i) watercraft. 
+ 
+(2) In paragraph (1)(h): 
+other goods means personal property that is goods, other than agriculture, 
+aircraft, motor vehicles and watercraft. 
+2.4  Description of proceeds 
+ 
+ For paragraph (d) of item 4 of the table in subsection 153(1) of the Act, a 
+description of proceeds must describe proceeds: 
+ 
+(a) as all present and after-acquired property; or 
+ 
+(b) for a particular item of personal property—in a way that identifies the item, 
+including identifying a class to which the item belongs; or 
+ 
+(c) for a class of personal property—in a way that identifies the class, 
+including identifying the class by identifying a larger class of personal 
+property that wholly includes the class. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Schedule 1  Financing statement matters for items of table in subsection 153(1) of Act 
+Part 3  Matters for item 7 
+ 
+ 
+30 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 3—Matters for item 7 
+3.1  Purchase money security interest 
+ 
+ For item 7 of the table in subsection 153(1) of the Act, property is in a prescribed 
+class of collateral if the collateral can be subject to a purchase money security 
+interest under section 14 of the Act. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Financing statement matters for items of table in subsection 153(1) of Act  Schedule 1 
+Matters for item 8  Part 4 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+31 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 4—Matters for item 8 
+4.1  Prescribed matters—financing statement 
+ 
+ For item 8 of the table in subsection 153(1) of the Act, for collateral, the details 
+mentioned in each item of the table, about the subject mentioned for the item, for 
+the purpose mentioned in the item. 
+ 
+Item 
+Subject 
+Purpose 
+Details 
+1 
+Inventory 
+Determining whether 
+collateral may include 
+inventory, for Part 9.5 of 
+the Act 
+For collateral that is commercial property—
+whether or not the collateral may include 
+inventory 
+2 
+Control 
+Determining whether 
+collateral may be subject 
+to control, for Part 9.5 of 
+the Act 
+For collateral that is commercial property—
+whether or not the collateral may be subject to 
+control 
+3 
+Transitional 
+security 
+interest 
+Indicating whether a 
+security interest is a 
+transitional security 
+interest 
+If a security interest is a transitional security 
+interest for section 308 of the Act—a statement 
+that the security interest is a transitional 
+security interest  
+4 
+Migrated 
+security 
+interest 
+Indicating whether a 
+registration is a migrated 
+registration 
+If collateral is subject to a migrated security 
+interest: 
+(a) a statement that the security interest is a 
+migrated security interest; and 
+(b) the name of the transitional register in 
+which the data about the transitional 
+security interest was held; and 
+(c) when the migrated data was registered in the 
+transitional register 
+5 
+Data from 
+Australian 
+Business 
+Register or a 
+business 
+register kept 
+by ASIC 
+Recording details from 
+Australian Business 
+Register or a business 
+register kept by ASIC 
+If an ABN, ACN, ARSN , ARBN or ARFN is 
+entered in a financing statement and a 
+verification of these numbers is undertaken 
+with the Australian Business Register or a 
+business register kept by ASIC—the entity 
+name or other data attached to those identifier 
+numbers obtained from the Australian Business 
+Register or a business register kept by ASIC 
+Note: 
+For the application of item 4, section 333 of the Act. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Schedule 2  Financing statement matters for table in section 154 of Act 
+Part 1  Preliminary 
+ 
+ 
+32 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Schedule 2—Financing statement matters for table in 
+section 154 of Act 
+(subregulation 5.5(2)) 
+Part 1—Preliminary 
+1.1  Definitions for Schedule 2 
+ 
+ In this Schedule: 
+individual: 
+ 
+(a) includes a sole trader who has an ABN for the enterprise that holds or has 
+an interest in the prescribed property; and 
+ 
+(b) does not include an individual who is a partner in a partnership or a trustee 
+of a trust if the partnership or trust has an ABN for the enterprise that holds 
+or has an interest in the prescribed property. 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Financing statement matters for table in section 154 of Act  Schedule 2 
+Matters for item 1  Part 2 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+33 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Part 2—Matters for item 1 
+2.1  Individuals 
+ 
+(1) For item 1 of the table in section 154 of the Act, this clause applies if an 
+individual holds or has an interest in prescribed property. 
+ 
+(2) The details mentioned in each item of the table, from the source mentioned for 
+the item, are prescribed for the individual mentioned in the item. 
+ 
+(3) For subclause (2), the prescribed details are the details mentioned in the item of 
+the table that: 
+ 
+(a) applies to the individual; and 
+ 
+(b) has the lowest item number. 
+ 
+(4) For an individual who is the owner of prescribed property, in addition to the 
+details mentioned in each item of the table, the individual’s date of birth is 
+prescribed. 
+ 
+(5) The source for the individual’s date of birth is the source in an item of the table 
+that: 
+ 
+(a) includes details of dates of birth; and 
+ 
+(b) applies to the individual; and 
+ 
+(c) has the lowest item number. 
+ 
+Item 
+Individual 
+Details 
+Source 
+1 
+Individual whose details are 
+recorded in a transitional 
+register, for migrated data 
+Individual’s surname and given 
+names, as recorded on the 
+transitional register 
+Transitional register 
+2 
+Individual whose property is 
+subject to a court order 
+Individual’s surname and given 
+names, as recorded on the court 
+order 
+Court order 
+3 
+Individual who holds a 
+current driver’s licence 
+Individual’s surname and given 
+names, as recorded on the 
+individual’s current driver’s 
+licence 
+Current driver’s licence 
+issued by a State or 
+Territory licensing 
+authority to the 
+individual 
+4 
+Individual who holds a 
+current proof of identity or 
+current proof of age card 
+Individual’s surname and given 
+names, as recorded on a proof of 
+identity or proof or age card 
+issued by a State or Territory 
+body 
+Current proof of identity 
+or current proof or age 
+card issued by a State or 
+Territory body to the 
+individual 
+5 
+Individual who holds a 
+current Australian passport 
+Individual’s surname and given 
+names, as recorded on the 
+individual’s current Australian 
+passport 
+Current Australian 
+passport issued to the 
+individual 
+6 
+Individual who holds a 
+Individual’s surname and given 
+Current Australian visa 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Schedule 2  Financing statement matters for table in section 154 of Act 
+Part 2  Matters for item 1 
+ 
+ 
+34 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Item 
+Individual 
+Details 
+Source 
+current visa issued by the 
+Australian Government 
+names, as recorded on the 
+individual’s current Australian 
+visa 
+issued for the individual 
+7 
+Individual who holds a 
+current passport other than an 
+Australian passport 
+Individual’s surname and given 
+names, as recorded on the 
+individual’s current passport 
+issued by the jurisdiction in which 
+the individual ordinarily resides  
+Current passport issued 
+by the jurisdiction in 
+which the individual 
+ordinarily resides 
+8 
+Any other individual 
+Individual’s surname and given 
+names, as recorded on the 
+individual’s birth certificate 
+Birth certificate issued 
+for the individual 
+2.2  Bodies corporate 
+ 
+(1) For item 1 of the table in section 154 of the Act, this clause applies if the secured 
+party or grantor is a body corporate that: 
+ 
+(a) is a trustee and has an ARSN; or 
+ 
+(b) is not a trustee. 
+ 
+(2) The details mentioned in each item of the table, from the source mentioned for 
+the item, are prescribed for the body corporate mentioned in the item. 
+ 
+(3) For subclause (2), the prescribed details are the details mentioned in the item of 
+the table that: 
+ 
+(a) applies to the body corporate; and 
+ 
+(b) has the lowest item number. 
+ 
+Item 
+Body corporate 
+Details 
+Source 
+1 
+Body corporate for which details 
+have been included on the 
+transitional register, for migrated 
+data 
+Body corporate number or name of 
+body corporate, as recorded on the 
+transitional register 
+Transitional 
+register 
+2 
+Body corporate that is the 
+responsible entity of a registered 
+scheme, if the scheme has an 
+ARSN 
+Registered scheme’s ARSN 
+A business register 
+kept by ASIC 
+2.5 
+Body corporate that is a CCIV, if 
+the CCIV is the secured party or 
+grantor for a sub-fund of the 
+CCIV and the sub-fund has an 
+ARFN 
+Sub-fund’s ARFN 
+A business register 
+kept by ASIC 
+3 
+Body corporate that has an ACN 
+ACN 
+A business register 
+kept by ASIC 
+4 
+Body corporate that has an 
+ARBN 
+ARBN 
+A business register 
+kept by ASIC 
+5 
+Any other body corporate 
+Name of the body, as provided for 
+Body’s 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Financing statement matters for table in section 154 of Act  Schedule 2 
+Matters for item 1  Part 2 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+35 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Item 
+Body corporate 
+Details 
+Source 
+in body’s constitution or equivalent 
+document 
+constitution or 
+equivalent 
+document 
+2.3  Partners 
+ 
+(1) For item 1 of the table in section 154 of the Act, this clause applies if a partner in 
+a partnership holds or has an interest in prescribed property for the partnership. 
+ 
+(2) The details mentioned in each item of the table, from the source mentioned for 
+the item, are prescribed for the partner mentioned in the item. 
+ 
+(3) For subclause (2), the prescribed details are the details mentioned in the item of 
+the table that: 
+ 
+(a) applies to the partner; and 
+ 
+(b) has the lowest item number. 
+ 
+Item 
+Partner 
+Details 
+Source 
+1 
+Partner of a partnership for which 
+details of the partnership have been 
+included on the transitional register, 
+for migrated data 
+ABN, name of partner or 
+name that identifies 
+partnership, as recorded on 
+the transitional register 
+Transitional register 
+2 
+Partner of a partnership that holds 
+or has an interest in the prescribed 
+property in the course of, or for, an 
+enterprise that has been allocated 
+an ABN 
+ABN 
+Australian Business 
+Register 
+3 
+Partner in any other partnership 
+Details mentioned in the item 
+in the table in clause 2.1 that 
+applies to the partner 
+Source of the details 
+mentioned in the item 
+in the table in 
+clause 2.1 that applies 
+to the partner 
+2.4  Trustees 
+ 
+(1) For item 1 of the table in section 154 of the Act, this clause applies if the secured 
+party or grantor is: 
+ 
+(a) a body corporate that is a trustee of a trust that: 
+ 
+(i) has an ABN; and 
+ 
+(ii) does not have an ARSN; or 
+ 
+(b) any other trustee of a trust. 
+ 
+(2) The details mentioned in each item of the table, from the source mentioned for 
+the item, are prescribed for the trustee mentioned in the item. 
+ 
+(3) For subclause (2), the prescribed details are: 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Schedule 2  Financing statement matters for table in section 154 of Act 
+Part 2  Matters for item 1 
+ 
+ 
+36 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+ 
+(a) for a trustee that is an individual—the details mentioned in the item of the 
+table in clause 2.1 that: 
+ 
+(i) applies to the trustee; and 
+ 
+(ii) has the lowest item number; and 
+ 
+(b) in any other case—the details mentioned in the item of the table that: 
+ 
+(i) applies to the trustee; and 
+ 
+(ii) has the lowest item number. 
+ 
+(4) In this clause: 
+trustee details means: 
+ 
+(a) the ABN allocated to the enterprise carried on by the trust; or 
+ 
+(b) the ACN or ARBN allocated to the trustee; or 
+ 
+(c) the name of the trust or trustee. 
+ 
+Item 
+Trustee 
+Details 
+Source 
+1 
+Trustee of a trust for which details 
+of the trust have been included on 
+the transitional register, for 
+migrated data 
+Trustee details, as 
+recorded on the 
+transitional register 
+Transitional register 
+2 
+Trustee of a trust that holds or has 
+an interest in the prescribed 
+property in the course of, or for, an 
+enterprise that has been allocated 
+an ABN 
+ABN 
+Australian Business 
+Register 
+3 
+Trustee of any other trust 
+Trustee details mentioned 
+in paragraph (3)(a) 
+Source mentioned in 
+paragraph (3)(a) 
+2.5  Bodies politic 
+ 
+(1) For item 1 of the table in section 154 of the Act, this clause applies if a body 
+politic holds or has an interest in prescribed property. 
+ 
+(2) The details mentioned in each item of the table, from the source mentioned for 
+the item, are prescribed for the body politic mentioned in the item. 
+ 
+(3) For subclause (2), the prescribed details are the details mentioned in the item of 
+the table that: 
+ 
+(a) applies to the body politic; and 
+ 
+(b) has the lowest item number. 
+ 
+Item 
+Body politic 
+Details 
+Source 
+1 
+Body politic for which details have been 
+included on the transitional register, for 
+migrated data 
+Body politic details, as 
+recorded on the 
+transitional register 
+Transitional 
+register 
+2 
+Body politic that holds prescribed property in 
+course of, or for, an enterprise for which an 
+ABN 
+Australian 
+Business 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+Financing statement matters for table in section 154 of Act  Schedule 2 
+Matters for item 1  Part 2 
+ 
+ 
+ 
+Personal Property Securities Regulations 2010 
+37 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Item 
+Body politic 
+Details 
+Source 
+ABN has been given 
+Register 
+3 
+Body politic that holds prescribed property other 
+than in course of, or for, an enterprise for which 
+an ABN has been given 
+Name of body politic, 
+as provided for in 
+constitution of body 
+politic 
+Constitution of 
+body politic 
+ 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+ 
+Endnotes 
+ 
+ 
+Endnote 1—About the endnotes 
+ 
+38 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Endnotes 
+Endnote 1—About the endnotes 
+The endnotes provide information about this compilation and the compiled law. 
+The following endnotes are included in every compilation: 
+Endnote 1—About the endnotes 
+Endnote 2—Abbreviation key 
+Endnote 3—Legislation history 
+Endnote 4—Amendment history 
+Abbreviation key—Endnote 2 
+The abbreviation key sets out abbreviations that may be used in the endnotes. 
+Legislation history and amendment history—Endnotes 3 and 4 
+Amending laws are annotated in the legislation history and amendment history. 
+The legislation history in endnote 3 provides information about each law that has amended (or 
+will amend) the compiled law. The information includes commencement details for amending 
+laws and details of any application, saving or transitional provisions that are not included in 
+this compilation. 
+The amendment history in endnote 4 provides information about amendments at the provision 
+(generally section or equivalent) level. It also includes information about any provision of the 
+compiled law that has been repealed in accordance with a provision of the law. 
+Editorial changes 
+The Legislation Act 2003 authorises First Parliamentary Counsel to make editorial and 
+presentational changes to a compiled law in preparing a compilation of the law for 
+registration. The changes must not change the effect of the law. Editorial changes take effect 
+from the compilation registration date. 
+If the compilation includes editorial changes, the endnotes include a brief outline of the 
+changes in general terms. Full details of any changes can be obtained from the Office of 
+Parliamentary Counsel. 
+Misdescribed amendments 
+A misdescribed amendment is an amendment that does not accurately describe how an 
+amendment is to be made. If, despite the misdescription, the amendment can be given effect 
+as intended, then the misdescribed amendment can be incorporated through an editorial 
+change made under section 15V of the Legislation Act 2003. 
+If a misdescribed amendment cannot be given effect as intended, the amendment is not 
+incorporated and “(md not incorp)” is added to the amendment history. 
+ 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+ 
+Endnotes 
+ 
+ 
+Endnote 2—Abbreviation key 
+ 
+ 
+Personal Property Securities Regulations 2010 
+39 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Endnote 2—Abbreviation key 
+ 
+ad = added or inserted 
+o = order(s) 
+am = amended 
+Ord = Ordinance 
+amdt = amendment 
+orig = original 
+c = clause(s) 
+par = paragraph(s)/subparagraph(s) 
+C[x] = Compilation No. x 
+/sub-subparagraph(s) 
+Ch = Chapter(s) 
+pres = present 
+def = definition(s) 
+prev = previous 
+Dict = Dictionary 
+(prev…) = previously 
+disallowed = disallowed by Parliament 
+Pt = Part(s) 
+Div = Division(s) 
+r = regulation(s)/rule(s) 
+ed = editorial change 
+reloc = relocated 
+exp = expires/expired or ceases/ceased to have 
+renum = renumbered 
+effect 
+rep = repealed 
+F = Federal Register of Legislation 
+rs = repealed and substituted 
+gaz = gazette 
+s = section(s)/subsection(s) 
+LA = Legislation Act 2003 
+Sch = Schedule(s) 
+LIA = Legislative Instruments Act 2003 
+Sdiv = Subdivision(s) 
+(md) = misdescribed amendment can be given 
+SLI = Select Legislative Instrument 
+effect 
+SR = Statutory Rules 
+(md not incorp) = misdescribed amendment 
+Sub-Ch = Sub-Chapter(s) 
+cannot be given effect 
+SubPt = Subpart(s) 
+mod = modified/modification 
+underlining = whole or part not 
+No. = Number(s) 
+commenced or to be commenced 
+ 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+ 
+Endnotes 
+ 
+ 
+Endnote 3—Legislation history 
+ 
+40 
+Personal Property Securities Regulations 2010 
+ 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Endnote 3—Legislation history 
+ 
+Number and year 
+Registration 
+Commencement 
+Application, saving and 
+transitional provisions 
+2010 No. 291 
+26 Nov 2010 (F2010L03071) 
+27 Nov 2010 
+ 
+2011 No. 176 
+5 Oct 2011 (F2011L02030) 
+6 Oct 2011 
+— 
+2011 No. 235 
+9 Dec 2011 (F2011L02612) 
+10 Dec 2011 
+— 
+2012 No. 121 
+28 June 2012 (F2012L01404) 
+1 July 2012 
+— 
+37, 2014 
+1 Apr 2014 (F2014L00375) 
+1 July 2014 
+— 
+ 
+Name 
+Registration 
+Commencement 
+Application, saving and 
+transitional provisions 
+Shipping Registration 
+(Repeal and Consequential 
+Amendments) 
+Regulations 2019 
+27 Feb 2019 (F2019L00210) 
+Sch 2 (item 2): 1 Apr 2019 (s 
+2(1) item 1) 
+— 
+Corporations and Other 
+Legislation Amendment 
+(Corporate Collective 
+Investment Vehicle 
+Framework) 
+Regulations 2022 
+31 Mar 2022 (F2022L00469) 
+Sch 3 (items 44–56): 1 July 
+2022 (s 2(1) item 1) 
+— 
+ 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
+ 
+Endnotes 
+ 
+ 
+Endnote 4—Amendment history 
+ 
+ 
+Personal Property Securities Regulations 2010 
+41 
+Compilation No. 6 
+Compilation date: 01/07/2022 
+Registered: 01/07/2022 
+ 
+Endnote 4—Amendment history 
+ 
+Provision affected 
+How affected 
+Part 1 
+ 
+Division 1 
+ 
+r 1.2 ...............................................  
+rep LA s 48D 
+Division 2 
+ 
+r 1.4 ...............................................  
+am No 176, 2011; No 235, 2011; No. 12, 2012 
+Division 3 
+ 
+r 1.6 ...............................................  
+am No 176, 2011; F2019L00210; F2022L00469 
+r 1.7 ...............................................  
+am No 176, 2011; No 37, 2014 
+r 1.9 ...............................................  
+ad No 176, 2011 
+r 1.10 .............................................  
+ad No 121, 2012  
+Part 2 
+ 
+r 2.1 ...............................................  
+rs No 176, 2011 
+Part 5 
+ 
+r 5.8A ............................................  
+ad No 176, 2011 
+r 5.9 ...............................................  
+am No 176, 2011 
+Part 7 
+ 
+r 7.1 ...............................................  
+rs No 176, 2011 
+Part 9 
+ 
+Part 9 .............................................  
+exp 1 Feb 2014 (r 9.3) 
+r 9.1 ...............................................  
+exp 1 Feb 2014 (r 9.3) 
+r 9.2 ...............................................  
+exp 1 Feb 2014 (r 9.3) 
+r 9.3 ...............................................  
+exp 1 Feb 2014 (r 9.3) 
+Schedule 1 
+ 
+Schedule 1 .....................................  
+am No 176, 2011; No 121, 2012; F2022L00469 
+Schedule 2 
+ 
+Schedule 2 .....................................  
+am No 176, 2011; F2022L00469 
+ 
+ 
+Authorised Version F2022C00632 registered 01/07/2022
+
+--------------------------------------------------------------------------------
